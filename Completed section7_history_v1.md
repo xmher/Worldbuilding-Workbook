@@ -1147,16 +1147,16 @@ _______________________________________________________________
 
 ## Quick Reference: Historical Stakes
 
-| Element | Your World |
-|---------|------------|
-| The historical conflict that affects your romance | |
-| Protagonist's ancestral legacy | |
-| Love interest's ancestral legacy | |
-| The legendary lovers they're compared to | |
-| The historical parallel (past situations that mirror theirs) | |
-| The suppressed truth (if any) | |
-| The historical pattern (cycle they're repeating or breaking) | |
-| How history resolves | |
+| Element | Your World | Example (Romeo & Juliet-style Fantasy) |
+|---------|------------|---------------------------------------|
+| The historical conflict that affects your romance | | *The Montagues and Capulets have feuded for three generations over a betrayed alliance* |
+| Protagonist's ancestral legacy | | *Her grandfather killed his uncle; her family expects her to hate all Montagues* |
+| Love interest's ancestral legacy | | *His family lost lands, status, and honor because of hers — he was raised on stories of their treachery* |
+| The legendary lovers they're compared to | | *The Lord and Lady of the original alliance — their love united the houses until jealousy destroyed it* |
+| The historical parallel (past situations that mirror theirs) | | *A Montague son and Capulet daughter tried to elope 40 years ago; both were killed by their families* |
+| The suppressed truth (if any) | | *The original betrayal was a misunderstanding; both families were manipulated by a third party* |
+| The historical pattern (cycle they're repeating or breaking) | | *Every generation, the houses nearly reconcile, then violence renews the feud* |
+| How history resolves | | *They uncover the truth and force both families to confront it — or they leave together, breaking the cycle by refusing to play* |
 
 ---
 

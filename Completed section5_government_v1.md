@@ -1887,19 +1887,19 @@ _______________________________________________________________
 
 ## Quick Reference: Political Stakes
 
-| Element | Your World |
-|---------|------------|
-| The law(s) that forbid the romance | |
-| Consequences if caught | |
-| Who enforces and how aggressively | |
-| Political enemy who opposes them | |
-| Political ally who supports them | |
-| State of conflict (war/peace) | |
-| Military obligations affecting the romance | |
-| Source of genuine enmity (if enemies-to-lovers) | |
-| What each loses by choosing the other | |
-| The political crisis point | |
-| How it resolves | |
+| Element | Your World | Example (Serpent & Dove-style) |
+|---------|------------|-------------------------------|
+| The law(s) that forbid the romance | | *Witches are to be burned; she IS a witch. Their marriage itself is illegal.* |
+| Consequences if caught | | *Execution for her; disgrace and exile for him as a witch-hunter who wed one* |
+| Who enforces and how aggressively | | *The Church's Chasseurs — hunters trained from childhood to kill her kind* |
+| Political enemy who opposes them | | *The Archbishop — his adoptive father, who will personally light the pyre* |
+| Political ally who supports them | | *Fellow hunters who look the other way; witches who owe her debts* |
+| State of conflict (war/peace) | | *Cold war — witches hide, hunters seek. Open war is brewing.* |
+| Military obligations affecting the romance | | *He's sworn to hunt witches. She's promised to kill the Archbishop.* |
+| Source of genuine enmity (if enemies-to-lovers) | | *His people burned her mother. Her people have killed hunters he loved.* |
+| What each loses by choosing the other | | *She: her coven, her vengeance. He: his faith, his brothers, his identity.* |
+| The political crisis point | | *Her identity is revealed publicly; he must choose who to betray.* |
+| How it resolves | | *They break from both sides, forge something new that honors neither old loyalty.* |
 
 ---
 

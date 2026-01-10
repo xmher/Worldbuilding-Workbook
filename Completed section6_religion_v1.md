@@ -1058,16 +1058,16 @@ _______________________________________________________________
 
 ## Quick Reference: Religious Stakes
 
-| Element | Your World |
-|---------|------------|
-| Primary religious obstacle | |
-| What faith demands | |
-| What they'd lose by violating religious law | |
-| The prophecy (if applicable) | |
-| Key holy day or sacred time | |
-| Religious consequence if they're together | |
-| The divine choice (when they must choose faith or love) | |
-| How religion resolves | |
+| Element | Your World | Example (Priory of the Orange Tree-style) |
+|---------|------------|------------------------------------------|
+| Primary religious obstacle | | *She's sworn to a celibate religious order; love means breaking sacred vows* |
+| What faith demands | | *Lifelong virginity, devotion to the Damsel, protection of the queen* |
+| What they'd lose by violating religious law | | *Her sisterhood, her purpose, her identity as a handmaiden — everything she's trained for* |
+| The prophecy (if applicable) | | *The Nameless One will rise; only the faithful can stop it — is love distraction or strength?* |
+| Key holy day or sacred time | | *The vigil before taking final vows — the last moment to choose differently* |
+| Religious consequence if they're together | | *Expulsion from the Priory; seen as corrupted, unreliable, fallen* |
+| The divine choice (when they must choose faith or love) | | *The world needs her as a warrior-priestess; she wants a life with the one she loves* |
+| How religion resolves | | *She redefines faith — love as strength, not weakness; service to the world, not just the order* |
 
 ---
 

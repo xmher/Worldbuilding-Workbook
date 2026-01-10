@@ -898,19 +898,19 @@ _______________________________________________________________
 
 ## Quick Reference: Geographic Stakes
 
-| Element | Your World |
-|---------|------------|
-| Key location 1 | |
-| Key location 2 | |
-| Key location 3 | |
-| Key location 4 | |
-| Key location 5 | |
-| The contested resource or territory | |
-| The barrier separating peoples or characters | |
-| The dangerous region | |
-| The isolated location | |
-| The significant journey (from → to) | |
-| The place that matters emotionally | |
+| Element | Your World | Example (ACOTAR-style) |
+|---------|------------|------------------------|
+| Key location 1 | | *The Spring Court manor — a grand estate surrounded by gardens, where Feyre is both captive and guest* |
+| Key location 2 | | *The Wall — the magical barrier separating the mortal lands from faerie* |
+| Key location 3 | | *Under the Mountain — Amarantha's dark court, site of climactic confrontation* |
+| Key location 4 | | *The mortal village — Feyre's impoverished home, what she left behind* |
+| Key location 5 | | *The Night Court — a place of stars and darkness, initially frightening, later sanctuary* |
+| The contested resource or territory | | *The seven High Lord territories, each controlling different types of magic and land* |
+| The barrier separating peoples or characters | | *The Wall prevents humans from entering faerie (without consequence) and keeps fae from crossing south* |
+| The dangerous region | | *Under the Mountain — a place of trials, corruption, and enslavement* |
+| The isolated location | | *The Spring Court manor — Feyre is the only human, can't leave, surrounded by fae* |
+| The significant journey (from → to) | | *Mortal lands → Spring Court (captivity) → Under the Mountain (trial) → Night Court (transformation)* |
+| The place that matters emotionally | | *The manor's art gallery — where Feyre finds purpose and connection through painting* |
 
 ---
 
