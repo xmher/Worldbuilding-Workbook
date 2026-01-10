@@ -936,26 +936,26 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Answer |
-|----------|--------|
-| How does government control or affect the economy? | |
-| How do cultural values affect economic behavior? | |
-| Could magic solve your characters' economic problems? Why don't they use it? | |
-| How does economics interact with your political obstacles? | |
+| Question | Answer | Example (Wealth-Gap Romance) |
+|----------|--------|------------------------------|
+| How does government control or affect the economy? | | *Entailment laws keep estates intact; the Crown grants trade monopolies; taxes fund wars that enrich some and bankrupt others* |
+| How do cultural values affect economic behavior? | | *"Gentlemen don't work" means heirs can't earn; merchants are wealthy but not accepted; marrying for money is expected but admitting it is gauche* |
+| Could magic solve your characters' economic problems? Why don't they use it? | | *Transmutation is possible but illegal (counterfeiting); money spells are traceable; magical labor is regulated by guild* |
+| How does economics interact with your political obstacles? | | *He needs to marry an heiress to save the estate; she has money but not status. His family opposes her, but needs her dowry* |
 
 ---
 
 ## Quick Reference: Economic Stakes
 
-| Element | Your World |
-|---------|------------|
-| Type of economy | |
-| Primary economic obstacle for romance | |
-| Economic power imbalance | |
-| The valuable/scarce resource | |
-| Who controls it | |
-| Economic debt or obligation | |
-| Economic sacrifice required to be together | |
+| Element | Your World | Example (Wealth-Gap Romance) |
+|---------|------------|------------------------------|
+| Type of economy | | *Feudal with emerging merchant class — old money (land) vs. new money (trade)* |
+| Primary economic obstacle for romance | | *She's a servant; he's heir to the estate. Their stations make marriage unthinkable.* |
+| Economic power imbalance | | *He could fire her, evict her family, ruin her completely — she has no leverage* |
+| The valuable/scarce resource | | *Land — the estate represents generations of wealth and power* |
+| Who controls it | | *His father, who will disinherit him if he marries beneath his station* |
+| Economic debt or obligation | | *Her family owes debt to his; she works it off. He could forgive it — would that be rescue or control?* |
+| Economic sacrifice required to be together | | *He gives up his inheritance; they start with nothing but each other* |
 
 ---
 

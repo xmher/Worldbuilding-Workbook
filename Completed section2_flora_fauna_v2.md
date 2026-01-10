@@ -933,26 +933,26 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Answer |
-|----------|--------|
-| How do plants and animals enable or restrict magic? | |
-| Does control of creatures or natural resources create political or economic power? | |
-| How have creatures or environmental factors shaped history? (Dragons in wars? Plagues? Famines?) | |
-| What natural resource is contested or controlled in your world? | |
+| Question | Answer | Example (Fourth Wing) |
+|----------|--------|----------------------|
+| How do plants and animals enable or restrict magic? | | *Dragons ARE the source of rider magic — no bond, no power. Fonilee herb masks scent from dragons, affecting who survives selection* |
+| Does control of creatures or natural resources create political or economic power? | | *Navarre's military dominance depends entirely on bonded dragons; nations without them are vulnerable to conquest* |
+| How have creatures or environmental factors shaped history? (Dragons in wars? Plagues? Famines?) | | *The first venin war 400 years ago nearly destroyed everything; dragons and riders are now the only defense* |
+| What natural resource is contested or controlled in your world? | | *Dragons themselves — their fire forges unbreakable weapons; their power decides which nation survives* |
 
 ---
 
 ## Quick Reference: Flora & Fauna Stakes
 
-| Element | Your World |
-|---------|------------|
-| Staple food source | |
-| Most valuable natural resource | |
-| The dangerous creature | |
-| The bonded creature (if applicable) | |
-| The ordinary animal companion | |
-| The crucial plant (medicinal, magical, or plot-relevant) | |
-| Environmental challenge or threat | |
+| Element | Your World | Example (Fourth Wing-style) |
+|---------|------------|----------------------------|
+| Staple food source | | *Grain from lowlands, meat from herded livestock — riders eat what the citadel provides* |
+| Most valuable natural resource | | *Alloy forged with dragon fire — impossible to replicate without bonded dragons* |
+| The dangerous creature | | *Venin and wyverns — corrupted beings that threaten all of Navarre* |
+| The bonded creature (if applicable) | | *Dragons — intelligent, telepathically bonded to riders, can incinerate the unworthy* |
+| The ordinary animal companion | | *Horses for ground travel, hunting dogs in the villages* |
+| The crucial plant (medicinal, magical, or plot-relevant) | | *Fonilee — the herb that masks Violet's scent from dragons who might reject her* |
+| Environmental challenge or threat | | *Threshing (selection day) — survive being chosen by a dragon or die trying* |
 
 ---
 
@@ -1677,19 +1677,19 @@ _______________________________________________________________
 
 ## Quick Reference: Inter-Species Stakes
 
-| Element | Your World |
-|---------|------------|
-| The biological difference that matters most | |
-| The lifespan situation | |
-| The instinct/biology that creates tension | |
-| How it's managed within the relationship | |
-| What the human partner sacrifices | |
-| What the non-human partner sacrifices | |
-| Where they can exist as a couple | |
-| The moment the human fully understands what they're choosing | |
-| The moment the non-human chooses the human over their nature/people | |
-| Transformation possibility | |
-| The mate bond situation (if applicable) | |
+| Element | Your World | Example (ACOTAR-style) |
+|---------|------------|------------------------|
+| The biological difference that matters most | | *Fae are immortal, preternaturally strong, and possess magic humans lack entirely* |
+| The lifespan situation | | *He's centuries old; she had maybe 50 years — until transformation* |
+| The instinct/biology that creates tension | | *The mating bond — fae instinct that claims a partner, potentially overriding choice* |
+| How it's managed within the relationship | | *He tries to give her space, fight the possessive urges; she sets boundaries* |
+| What the human partner sacrifices | | *Her mortality, her human family, her old identity and community* |
+| What the non-human partner sacrifices | | *His safety (she's a vulnerability), his detachment (he'd learned not to care)* |
+| Where they can exist as a couple | | *In faerie, among the fae courts — she can never truly go home again* |
+| The moment the human fully understands what they're choosing | | *When she sees him in his true power and chooses to stay anyway* |
+| The moment the non-human chooses the human over their nature/people | | *When he defies his court/duties for her safety, revealing vulnerability* |
+| Transformation possibility | | *She becomes High Fae — the gap is closed, but at the cost of her humanity* |
+| The mate bond situation (if applicable) | | *It exists; they discover it gradually; she must choose to accept it freely* |
 
 ---
 

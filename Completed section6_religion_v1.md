@@ -95,33 +95,33 @@ Identify the gods or spiritual forces that exist in your world — focus on thos
 
 **Deity/Power 1:**
 
-| Aspect | Details |
-|--------|---------|
-| Name | |
-| Domain (what they govern) | |
-| Personality/nature | |
-| What they demand from followers | |
-| What they offer in return | |
+| Aspect | Details | Example (Priory of the Orange Tree) |
+|--------|---------|-------------------------------------|
+| Name | | *The Mother — creator goddess, source of all life and magic* |
+| Domain (what they govern) | | *Creation, protection, the cycle of life and death* |
+| Personality/nature | | *Distant but loving; works through her chosen, not direct intervention* |
+| What they demand from followers | | *Service to the greater good, celibacy for her priestesses, protection of the innocent* |
+| What they offer in return | | *Magic (for those who can channel it), community, purpose, afterlife* |
 
 **Deity/Power 2:**
 
-| Aspect | Details |
-|--------|---------|
-| Name | |
-| Domain | |
-| Personality/nature | |
-| What they demand | |
-| What they offer | |
+| Aspect | Details | Example |
+|--------|---------|---------|
+| Name | | *The Nameless One — the great wyrm, enemy of all life* |
+| Domain | | *Fire, destruction, chaos, the end of things* |
+| Personality/nature | | *Consuming hunger, patient malevolence, sleeps but will wake* |
+| What they demand | | *Everything — he doesn't bargain, only devours* |
+| What they offer | | *Nothing but the end of suffering (through annihilation)* |
 
 **Deity/Power 3 (if applicable):**
 
-| Aspect | Details |
-|--------|---------|
-| Name | |
-| Domain | |
-| Personality/nature | |
-| What they demand | |
-| What they offer | |
+| Aspect | Details | Example |
+|--------|---------|---------|
+| Name | | *The Eastern dragons — divine beings, neither gods nor monsters* |
+| Domain | | *Water, wisdom, protection of specific lands and peoples* |
+| Personality/nature | | *Noble, ancient, willing to bond with worthy riders* |
+| What they demand | | *Respect, partnership, protection of what they guard* |
+| What they offer | | *Alliance, magical power, centuries of wisdom* |
 
 **How do the gods relate to each other?**
 
@@ -882,11 +882,11 @@ _______________________________________________________________
 
 **Is either character marked by divine favor, curse, or destiny?**
 
-| Aspect | Details |
-|--------|---------|
-| Which character | |
-| What marks them | |
-| What they're chosen to do | |
+| Aspect | Details | Example (From Blood and Ash) |
+|--------|---------|------------------------------|
+| Which character | | *Poppy — the Maiden, supposedly chosen by the gods to Ascend and serve* |
+| What marks them | | *Her title, her isolation, the veil she must wear, the "blessing" of her touch* |
+| What they're chosen to do | | *Ascend and become a holy vessel — but the truth is far darker and involves becoming a blood source for the Ascended* |
 
 **How does divine purpose conflict with personal desire?**
 
@@ -1046,28 +1046,28 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Answer |
-|----------|--------|
-| How does religion explain or relate to magic? | |
-| How does religion legitimize or conflict with government? | |
-| How do cultural taboos relate to religious law? | |
-| Could your characters use religion to legitimize their relationship? | |
-| Or does religion make legitimizing impossible? | |
+| Question | Answer | Example (Priory of the Orange Tree) |
+|----------|--------|-------------------------------------|
+| How does religion explain or relate to magic? | | *The Priory's magic comes from the sacred tree — divine gift. Eastern dragons are holy; Western wyrms are evil. Magic is either blessed or damned* |
+| How does religion legitimize or conflict with government? | | *The Queen's right to rule comes from her holy bloodline; the Priory protects the throne but operates outside its law* |
+| How do cultural taboos relate to religious law? | | *Celibacy is a Priory vow, not state law — but breaking it means losing her place in the sacred order* |
+| Could your characters use religion to legitimize their relationship? | | *If the Nameless One falls and she survives, she could argue her love gave her strength — redefining faith to include it* |
+| Or does religion make legitimizing impossible? | | *The vows are clear: a handmaiden serves the queen, not her own heart. There's no loophole, only the choice to break or keep faith* |
 
 ---
 
 ## Quick Reference: Religious Stakes
 
-| Element | Your World |
-|---------|------------|
-| Primary religious obstacle | |
-| What faith demands | |
-| What they'd lose by violating religious law | |
-| The prophecy (if applicable) | |
-| Key holy day or sacred time | |
-| Religious consequence if they're together | |
-| The divine choice (when they must choose faith or love) | |
-| How religion resolves | |
+| Element | Your World | Example (Priory of the Orange Tree-style) |
+|---------|------------|------------------------------------------|
+| Primary religious obstacle | | *She's sworn to a celibate religious order; love means breaking sacred vows* |
+| What faith demands | | *Lifelong virginity, devotion to the Damsel, protection of the queen* |
+| What they'd lose by violating religious law | | *Her sisterhood, her purpose, her identity as a handmaiden — everything she's trained for* |
+| The prophecy (if applicable) | | *The Nameless One will rise; only the faithful can stop it — is love distraction or strength?* |
+| Key holy day or sacred time | | *The vigil before taking final vows — the last moment to choose differently* |
+| Religious consequence if they're together | | *Expulsion from the Priory; seen as corrupted, unreliable, fallen* |
+| The divine choice (when they must choose faith or love) | | *The world needs her as a warrior-priestess; she wants a life with the one she loves* |
+| How religion resolves | | *She redefines faith — love as strength, not weakness; service to the world, not just the order* |
 
 ---
 

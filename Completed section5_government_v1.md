@@ -65,12 +65,12 @@ _______________________________________________________________
 
 **Who currently holds power?**
 
-| Aspect | Details |
-|--------|---------|
-| Title/Position | |
-| Name | |
-| How they gained power | |
-| How long they've ruled | |
+| Aspect | Details | Example (Serpent & Dove) |
+|--------|---------|-------------------------|
+| Title/Position | | *The Archbishop — head of the Church, supreme authority on matters of faith and law* |
+| Name | | *Archbishop Florin — Reid's adoptive father, the face of the witch hunts* |
+| How they gained power | | *Rose through Church ranks, built his reputation on successful witch burnings, political maneuvering* |
+| How long they've ruled | | *Two decades — long enough to shape an entire generation's beliefs about magic and witches* |
 
 **What do they want?**
 
@@ -601,10 +601,10 @@ _______________________________________________________________
 
 **Where do your characters fall?**
 
-| Character | Class Position |
-|-----------|----------------|
-| Protagonist | |
-| Love Interest | |
+| Character | Class Position | Example (Serpent & Dove) |
+|-----------|----------------|-------------------------|
+| Protagonist | | *Witch (criminal class) — beneath even peasants in the eyes of law, hunted and killed on sight* |
+| Love Interest | | *Chasseur Captain — military-religious elite, second only to the Archbishop, respected and feared* |
 
 **How many ranks separate them?**
 
@@ -1009,10 +1009,10 @@ Your couple doesn't exist in a vacuum. Political factions may support or oppose 
 
 **Where do your characters fall?**
 
-| Character | Faction |
-|-----------|---------|
-| Protagonist | |
-| Love Interest | |
+| Character | Faction | Example (Fourth Wing) |
+|-----------|---------|----------------------|
+| Protagonist | | *Riders Quadrant — elite dragon-bonded warriors who protect Navarre* |
+| Love Interest | | *Riders Quadrant (officially) — but secretly connected to those questioning leadership's lies* |
 
 **Are they on the same side, opposite sides, or unaligned?**
 
@@ -1149,19 +1149,19 @@ If your characters are on opposite sides of a war, their relationship is treason
 
 If yes:
 
-| Aspect | Protagonist | Love Interest |
-|--------|-------------|---------------|
-| What conflict | | |
-| Their side | | |
+| Aspect | Protagonist | Love Interest | Example (Serpent & Dove) |
+|--------|-------------|---------------|-------------------------|
+| What conflict | | | *The witch hunts — systematic persecution of magic users by the Church* |
+| Their side | | | *She's a witch (hunted) / He's a Chasseur (hunter)* |
 
 **What does each side believe about the other?**
 
 Propaganda, stereotypes, justified grievances:
 
-| Side | What They Believe About the Enemy |
-|------|----------------------------------|
-| Protagonist's side | |
-| Love interest's side | |
+| Side | What They Believe About the Enemy | Example |
+|------|----------------------------------|---------|
+| Protagonist's side | | *Chasseurs are murderers who burn innocents; the Church is built on lies and hate* |
+| Love interest's side | | *Witches are agents of darkness; their magic corrupts everything it touches; they must die for humanity to be safe* |
 
 **What would each character's people say about them loving the enemy?**
 
@@ -1845,12 +1845,12 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Answer |
-|----------|--------|
-| How does your government control, use, or fear magic? | |
-| What magical law most affects your characters? | |
-| Could magic let them bypass political obstacles? If yes, why don't they? | |
-| Does government have magical enforcement (truth spells, tracking, binding oaths)? | |
+| Question | Answer | Example (Serpent & Dove) |
+|----------|--------|-------------------------|
+| How does your government control, use, or fear magic? | | *The Church hunts and executes witches; magic is seen as demonic corruption; Chasseurs are the enforcement arm* |
+| What magical law most affects your characters? | | *Witchcraft is a capital crime — she's guilty by birth, not action. Merely existing makes her an outlaw* |
+| Could magic let them bypass political obstacles? If yes, why don't they? | | *She could enchant her way out, but it would prove she's a witch. Using magic to escape means proving she deserves to die* |
+| Does government have magical enforcement (truth spells, tracking, binding oaths)? | | *Blessings that supposedly detect witches; holy ground that's meant to repel evil; none of it actually works, but belief in it is powerful* |
 
 ---
 
@@ -1887,19 +1887,19 @@ _______________________________________________________________
 
 ## Quick Reference: Political Stakes
 
-| Element | Your World |
-|---------|------------|
-| The law(s) that forbid the romance | |
-| Consequences if caught | |
-| Who enforces and how aggressively | |
-| Political enemy who opposes them | |
-| Political ally who supports them | |
-| State of conflict (war/peace) | |
-| Military obligations affecting the romance | |
-| Source of genuine enmity (if enemies-to-lovers) | |
-| What each loses by choosing the other | |
-| The political crisis point | |
-| How it resolves | |
+| Element | Your World | Example (Serpent & Dove-style) |
+|---------|------------|-------------------------------|
+| The law(s) that forbid the romance | | *Witches are to be burned; she IS a witch. Their marriage itself is illegal.* |
+| Consequences if caught | | *Execution for her; disgrace and exile for him as a witch-hunter who wed one* |
+| Who enforces and how aggressively | | *The Church's Chasseurs — hunters trained from childhood to kill her kind* |
+| Political enemy who opposes them | | *The Archbishop — his adoptive father, who will personally light the pyre* |
+| Political ally who supports them | | *Fellow hunters who look the other way; witches who owe her debts* |
+| State of conflict (war/peace) | | *Cold war — witches hide, hunters seek. Open war is brewing.* |
+| Military obligations affecting the romance | | *He's sworn to hunt witches. She's promised to kill the Archbishop.* |
+| Source of genuine enmity (if enemies-to-lovers) | | *His people burned her mother. Her people have killed hunters he loved.* |
+| What each loses by choosing the other | | *She: her coven, her vengeance. He: his faith, his brothers, his identity.* |
+| The political crisis point | | *Her identity is revealed publicly; he must choose who to betray.* |
+| How it resolves | | *They break from both sides, forge something new that honors neither old loyalty.* |
 
 ---
 

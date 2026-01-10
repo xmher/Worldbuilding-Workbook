@@ -1806,25 +1806,25 @@ _______________________________________________________________
 
 Connect culture to the systems you've built elsewhere.
 
-| Question | Answer |
-|----------|--------|
-| How does government enforce cultural norms? Which taboos are laws vs. "just" social rules? | |
-| How does magic interact with cultural customs? Magical courtship rituals? Spells that detect rule-breaking? | |
-| What cultural norm conflicts with your magic system? | |
+| Question | Answer | Example (Bridgerton-style) |
+|----------|--------|---------------------------|
+| How does government enforce cultural norms? Which taboos are laws vs. "just" social rules? | | *Adultery is scandal but not illegal; breach of promise can be sued; marriage without consent is void by law — but being "ruined" is social death, not legal* |
+| How does magic interact with cultural customs? Magical courtship rituals? Spells that detect rule-breaking? | | *Truth spells at weddings ensure vows are sincere; glamours at balls are common but considered gauche; love potions are illegal but rumored* |
+| What cultural norm conflicts with your magic system? | | *Magic is supposedly "vulgar" among the ton, yet everyone uses it privately — the hypocrisy creates opportunity for exposure* |
 
 ---
 
 ## Quick Reference: Cultural Stakes
 
-| Element | Your World |
-|---------|------------|
-| Core cultural value that most affects your romance | |
-| Main taboo your characters break | |
-| The reputation risk | |
-| The touch or proximity rule that creates tension | |
-| The courtship custom they follow or violate | |
-| The festival or ceremony that matters | |
-| The form of address shift (from → to → when) | |
+| Element | Your World | Example (Bridgerton-style Regency Fantasy) |
+|---------|------------|-------------------------------------------|
+| Core cultural value that most affects your romance | | *Reputation and propriety — a woman's standing determines her entire future* |
+| Main taboo your characters break | | *Unchaperoned meetings, physical intimacy before marriage, marrying beneath one's station* |
+| The reputation risk | | *Social ruin — cut from society, family dishonored, no respectable marriage possible* |
+| The touch or proximity rule that creates tension | | *Hands only, through gloves; a bare-hand touch is shockingly intimate* |
+| The courtship custom they follow or violate | | *Must be formally introduced, dance only twice, never alone together* |
+| The festival or ceremony that matters | | *The ball season — where matches are made and reputations won or destroyed* |
+| The form of address shift (from → to → when) | | *"My Lord" → "Lord [Name]" → "[First name]" — when they finally drop all pretense* |
 
 ---
 

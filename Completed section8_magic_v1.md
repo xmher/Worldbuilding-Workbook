@@ -877,13 +877,13 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Answer |
-|----------|--------|
-| How does magic affect your government/power structure (Section 5)? | |
-| How does magic interact with your religion (Section 6)? | |
-| How did magic shape your world's history (Section 7)? | |
-| How does magic affect your economy (Section 4)? | |
-| How does geography interact with magic (Section 1)? | |
+| Question | Answer | Example (From Blood and Ash) |
+|----------|--------|------------------------------|
+| How does magic affect your government/power structure (Section 5)? | | *The Ascended rule because they're immortal and powerful; the Maiden exists to legitimize their divine authority. Magic IS power, and they hoard it* |
+| How does magic interact with your religion (Section 6)? | | *The Rite, the Ascension, the Maiden's role — all religious structures are actually about controlling magic and hiding the gods' true nature* |
+| How did magic shape your world's history (Section 7)? | | *The war against Atlantia, the rise of the Ascended, the creation of the Craven — every major event stems from who controls magical power* |
+| How does magic affect your economy (Section 4)? | | *The Ascended control everything because they live forever; mortals serve hoping for Ascension. It's not just wealth inequality — it's lifespan inequality* |
+| How does geography interact with magic (Section 1)? | | *Atlantia is hidden beyond the mountains; the Wastelands are magically cursed; the mist keeps Craven at bay. Geography and magic reinforce each other* |
 
 ---
 
@@ -923,19 +923,19 @@ _______________________________________________________________
 
 ## Quick Reference: Magic Stakes
 
-| Element | Your World |
-|---------|------------|
-| Type(s) of magic | |
-| Source of magic | |
-| Who can use it | |
-| Primary cost | |
-| Most important limitation | |
-| Protagonist's magical status | |
-| Love Interest's magical status | |
-| Power gap (if any) | |
-| Magical bond (if any) | |
-| How magic creates obstacles | |
-| How magic creates connection | |
+| Element | Your World | Example (From Blood and Ash-style) |
+|---------|------------|-----------------------------------|
+| Type(s) of magic | | *Divine gifts from the gods — healing, empathy, elemental control, blood magic* |
+| Source of magic | | *Bloodlines blessed (or cursed) by the gods; Atlantian heritage* |
+| Who can use it | | *Those with Atlantian blood — forbidden, hunted, hidden among mortals* |
+| Primary cost | | *Poppy's empathy gift means absorbing others' pain; healing drains life force* |
+| Most important limitation | | *Her power grows uncontrollable with strong emotion; she could destroy what she loves* |
+| Protagonist's magical status | | *The Maiden — raised to believe she's mortal, actually far more powerful than she knows* |
+| Love Interest's magical status | | *Atlantian prince — centuries old, enormously powerful, hiding his true nature* |
+| Power gap (if any) | | *Initially vast (he could kill her easily), narrows as her power awakens* |
+| Magical bond (if any) | | *Heartmate bond — they're connected; his touch soothes her power; she feels his emotions* |
+| How magic creates obstacles | | *Her awakening power marks her as weapon or threat to both sides of the war* |
+| How magic creates connection | | *He can touch her without her feeling his pain; she's the first in centuries he can be close to* |
 
 ---
 
