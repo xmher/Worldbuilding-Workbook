@@ -1816,15 +1816,15 @@ Connect culture to the systems you've built elsewhere.
 
 ## Quick Reference: Cultural Stakes
 
-| Element | Your World |
-|---------|------------|
-| Core cultural value that most affects your romance | |
-| Main taboo your characters break | |
-| The reputation risk | |
-| The touch or proximity rule that creates tension | |
-| The courtship custom they follow or violate | |
-| The festival or ceremony that matters | |
-| The form of address shift (from → to → when) | |
+| Element | Your World | Example (Bridgerton-style Regency Fantasy) |
+|---------|------------|-------------------------------------------|
+| Core cultural value that most affects your romance | | *Reputation and propriety — a woman's standing determines her entire future* |
+| Main taboo your characters break | | *Unchaperoned meetings, physical intimacy before marriage, marrying beneath one's station* |
+| The reputation risk | | *Social ruin — cut from society, family dishonored, no respectable marriage possible* |
+| The touch or proximity rule that creates tension | | *Hands only, through gloves; a bare-hand touch is shockingly intimate* |
+| The courtship custom they follow or violate | | *Must be formally introduced, dance only twice, never alone together* |
+| The festival or ceremony that matters | | *The ball season — where matches are made and reputations won or destroyed* |
+| The form of address shift (from → to → when) | | *"My Lord" → "Lord [Name]" → "[First name]" — when they finally drop all pretense* |
 
 ---
 
