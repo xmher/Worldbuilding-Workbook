@@ -1806,11 +1806,11 @@ _______________________________________________________________
 
 Connect culture to the systems you've built elsewhere.
 
-| Question | Answer |
-|----------|--------|
-| How does government enforce cultural norms? Which taboos are laws vs. "just" social rules? | |
-| How does magic interact with cultural customs? Magical courtship rituals? Spells that detect rule-breaking? | |
-| What cultural norm conflicts with your magic system? | |
+| Question | Answer | Example (Bridgerton-style) |
+|----------|--------|---------------------------|
+| How does government enforce cultural norms? Which taboos are laws vs. "just" social rules? | | *Adultery is scandal but not illegal; breach of promise can be sued; marriage without consent is void by law — but being "ruined" is social death, not legal* |
+| How does magic interact with cultural customs? Magical courtship rituals? Spells that detect rule-breaking? | | *Truth spells at weddings ensure vows are sincere; glamours at balls are common but considered gauche; love potions are illegal but rumored* |
+| What cultural norm conflicts with your magic system? | | *Magic is supposedly "vulgar" among the ton, yet everyone uses it privately — the hypocrisy creates opportunity for exposure* |
 
 ---
 

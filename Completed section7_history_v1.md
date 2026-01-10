@@ -294,24 +294,24 @@ Identify the events that shaped your world. Focus on those relevant to your stor
 
 **What single historical event most shaped the current world?**
 
-| Aspect | Details |
-|--------|---------|
-| What happened | |
-| When | |
-| Who was involved | |
-| Immediate consequences | |
-| Long-term effects still felt today | |
+| Aspect | Details | Example (ACOTAR) |
+|--------|---------|------------------|
+| What happened | | *The War — fae vs. humans, ending with the creation of the Wall and the Treaty* |
+| When | | *500 years ago — ancient enough to be legend, recent enough that fae remember it* |
+| Who was involved | | *All seven High Lords united (rare), human armies, great losses on both sides* |
+| Immediate consequences | | *The Wall created, fae and humans separated, the Treaty binding both sides* |
+| Long-term effects still felt today | | *Fae see humans as lesser; humans fear fae; the Wall shapes all politics; no one trusts the peace to last* |
 
 ### Other Significant Events
 
 **List 2-4 other events that matter for your story:**
 
-| Event | When | What Happened | Current Relevance |
-|-------|------|---------------|-------------------|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Event | When | What Happened | Current Relevance | Example |
+|-------|------|---------------|-------------------|---------|
+| | | | | *Amarantha's rise (50 years ago) — She conquered Under the Mountain and cursed the High Lords, showing the Courts' vulnerability* |
+| | | | | *The fall of the Day Court library — Ancient knowledge lost, creating gaps in understanding magic and history* |
+| | | | | *Feyre's mother's death — Personal history that shaped the protagonist and explains her family's poverty* |
+| | | | | *The breaking of the Spring Court alliance — Sets up the political tensions Feyre walks into* |
 
 ---
 
@@ -321,10 +321,10 @@ Wars and conflicts create lasting divisions. Even centuries later, people rememb
 
 **What major conflicts shaped your world?**
 
-| Conflict | Who vs. Who | Why | Who Won | Lasting Effects |
-|----------|-------------|-----|---------|-----------------|
-| | | | | |
-| | | | | |
+| Conflict | Who vs. Who | Why | Who Won | Lasting Effects | Example |
+|----------|-------------|-----|---------|-----------------|---------|
+| | | | | | *The War (fae vs. humans) — Territory and survival — Fae "won" but accepted the Wall — Created permanent separation and mutual fear* |
+| | | | | | *Amarantha's conquest — Her vs. all Courts — Power and revenge — She won for 50 years — Trauma, broken Courts, curses that linger* |
 
 **Are any historical conflicts still unresolved?**
 
@@ -561,10 +561,10 @@ History that people alive can remember feels most immediate. This is where wound
 
 **How did this event affect your characters' families?**
 
-| Character | How Their Family Was Affected |
-|-----------|------------------------------|
-| Protagonist | |
-| Love Interest | |
+| Character | How Their Family Was Affected | Example (Romeo & Juliet Fantasy) |
+|-----------|------------------------------|----------------------------------|
+| Protagonist | | *Her grandfather died in the last outbreak of violence; her mother was traumatized; the family retreated into bitter isolation* |
+| Love Interest | | *His uncle was killed by her grandfather; his father swore revenge; the family built their identity around this grievance* |
 
 **Were their families on the same side or opposing sides?**
 
@@ -606,10 +606,10 @@ _______________________________________________________________
 
 **How do these family stories shape who each character believes they should be?**
 
-| Character | What Family Stories Taught Them to Be |
-|-----------|--------------------------------------|
-| Protagonist | |
-| Love Interest | |
+| Character | What Family Stories Taught Them to Be | Example (Romeo & Juliet Fantasy) |
+|-----------|--------------------------------------|----------------------------------|
+| Protagonist | | *A survivor; loyal to family above all; mistrustful of outsiders; keeper of her grandfather's memory and his hatred* |
+| Love Interest | | *An avenger; the one who will finally make things right; honor-bound to hate; expected to lead the next generation's fight* |
 
 **Are there family stories that contradict each other?**
 
@@ -1135,13 +1135,13 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Answer |
-|----------|--------|
-| How does history justify current government? | |
-| How does history explain religious beliefs? | |
-| How does history create cultural attitudes and taboos? | |
-| How did magic change history? | |
-| Could understanding history change how people view your characters' relationship? | |
+| Question | Answer | Example (Romeo & Juliet Fantasy) |
+|----------|--------|----------------------------------|
+| How does history justify current government? | | *The Prince rules because his ancestor ended a worse war; both houses owe fealty for the peace he maintains. His authority comes from keeping them from destroying each other* |
+| How does history explain religious beliefs? | | *The temple teaches that blood-feuds curse both lines; the gods supposedly punish families who continue vendettas. Neither house believes this applies to them* |
+| How does history create cultural attitudes and taboos? | | *Montagues and Capulets don't eat at the same table, worship at the same shrine, or speak each other's names without a curse attached. Children learn hatred before they learn why* |
+| How did magic change history? | | *The original alliance was to share a magical bloodline — when it broke, each house claimed the other stole power that was rightfully theirs* |
+| Could understanding history change how people view your characters' relationship? | | *If they discover the feud was manufactured by a third party, it doesn't erase the generations of dead — but it might make continuing the cycle feel like serving the real enemy* |
 
 ---
 
