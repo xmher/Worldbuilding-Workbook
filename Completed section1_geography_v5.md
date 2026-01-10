@@ -887,12 +887,12 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Answer |
-|----------|--------|
-| How does geography explain cultural differences (from Section 3)? | |
-| How does geography create or reinforce power structures (from Section 5)? | |
-| How does geography interact with magic (from Part 1)? | |
-| What geographic resource or territory is contested in your world? | |
+| Question | Answer | Example (ACOTAR) |
+|----------|--------|------------------|
+| How does geography explain cultural differences (from Section 3)? | | *Each Court's territory shapes its people: Spring Court's eternal bloom creates beauty-focused culture; Night Court's mountains and stars foster secretive, cerebral society* |
+| How does geography create or reinforce power structures (from Section 5)? | | *High Lords control their territories absolutely; the Wall creates a hard political boundary between fae and human governance* |
+| How does geography interact with magic (from Part 1)? | | *Each Court's magic is tied to its land — Spring magic is growth and renewal; Night magic is darkness and stars. Power weakens outside one's territory* |
+| What geographic resource or territory is contested in your world? | | *The mortal lands beyond the Wall — Hybern wants to conquer them; some fae want to protect them; humans just want to survive* |
 
 ---
 

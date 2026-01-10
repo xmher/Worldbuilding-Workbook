@@ -933,12 +933,12 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Answer |
-|----------|--------|
-| How do plants and animals enable or restrict magic? | |
-| Does control of creatures or natural resources create political or economic power? | |
-| How have creatures or environmental factors shaped history? (Dragons in wars? Plagues? Famines?) | |
-| What natural resource is contested or controlled in your world? | |
+| Question | Answer | Example (Fourth Wing) |
+|----------|--------|----------------------|
+| How do plants and animals enable or restrict magic? | | *Dragons ARE the source of rider magic — no bond, no power. Fonilee herb masks scent from dragons, affecting who survives selection* |
+| Does control of creatures or natural resources create political or economic power? | | *Navarre's military dominance depends entirely on bonded dragons; nations without them are vulnerable to conquest* |
+| How have creatures or environmental factors shaped history? (Dragons in wars? Plagues? Famines?) | | *The first venin war 400 years ago nearly destroyed everything; dragons and riders are now the only defense* |
+| What natural resource is contested or controlled in your world? | | *Dragons themselves — their fire forges unbreakable weapons; their power decides which nation survives* |
 
 ---
 

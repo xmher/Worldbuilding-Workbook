@@ -936,12 +936,12 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Answer |
-|----------|--------|
-| How does government control or affect the economy? | |
-| How do cultural values affect economic behavior? | |
-| Could magic solve your characters' economic problems? Why don't they use it? | |
-| How does economics interact with your political obstacles? | |
+| Question | Answer | Example (Wealth-Gap Romance) |
+|----------|--------|------------------------------|
+| How does government control or affect the economy? | | *Entailment laws keep estates intact; the Crown grants trade monopolies; taxes fund wars that enrich some and bankrupt others* |
+| How do cultural values affect economic behavior? | | *"Gentlemen don't work" means heirs can't earn; merchants are wealthy but not accepted; marrying for money is expected but admitting it is gauche* |
+| Could magic solve your characters' economic problems? Why don't they use it? | | *Transmutation is possible but illegal (counterfeiting); money spells are traceable; magical labor is regulated by guild* |
+| How does economics interact with your political obstacles? | | *He needs to marry an heiress to save the estate; she has money but not status. His family opposes her, but needs her dowry* |
 
 ---
 
