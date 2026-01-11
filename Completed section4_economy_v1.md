@@ -8,19 +8,17 @@ This section is divided into two parts:
 
 **Part Two: Economy & Romance** — How economic realities create romantic tension. Power imbalances between lovers, financial pressures that force impossible choices, what money means when it passes between people who care about each other.
 
-You need both. A romance with wealth-gap tension needs a believable economy underneath it. A world with interesting economic systems needs to show how those systems actually affect your characters' love story.
+You need both.
 
 ---
 
 ## A Note Before You Begin
 
-Not every question here will matter for your story.
+Not every question will apply to your story. **Skip what doesn't.**
 
-**If your world mirrors a historical economy, focus on what's different or relevant.** You don't need to invent currency and trade systems from scratch if you're drawing on medieval Europe's feudal economy or Regency England's class system. Focus on what deviates from reader expectations and what specifically creates tension for your romance.
+**If your world mirrors a historical economy, focus on what's different.** Focus on what deviates from reader expectations and what specifically creates tension for your romance.
 
-**Skip what doesn't apply.** If both your characters are comfortably middle-class with no economic pressures, the poverty and desperation sections won't be relevant. If there's no wealth gap, skip those questions.
-
-**Economics can stay in the background.** Not every romantasy needs economic tension as a central element. If your obstacles are political, magical, or cultural rather than economic, develop just enough economy to make the world feel real.
+**Economics can stay in the background.** If your obstacles are political, magical, or cultural rather than economic, develop just enough economy to make the world feel real.
 
 ---
 
@@ -29,8 +27,6 @@ Not every question here will matter for your story.
 ---
 
 ## How the Economy Works
-
-Before economics can create romantic tension, you need to understand the basic structure: how wealth is created, how it moves, and what economic life looks like for ordinary people.
 
 ### Economic Systems
 
@@ -143,7 +139,7 @@ _______________________________________________________________
 
 ## Work & Occupations
 
-What people do for a living shapes their daily lives, their social standing, and their worldview. Understanding common occupations helps you place your characters in an economic context.
+What people do for a living shapes their daily lives, their social standing, and their worldview.
 
 ### Common Occupations
 
@@ -215,7 +211,7 @@ _______________________________________________________________
 
 ## Wealth & Class
 
-Economic status usually correlates with social class, but the relationship varies by society. Understand who has money, who doesn't, and what that means.
+Economic status usually correlates with social class, but the relationship varies by society.
 
 ### The Wealth Spectrum
 
@@ -309,7 +305,7 @@ _______________________________________________________________
 
 ## Magic & Economics
 
-If magic exists, it affects the economy. What can magic produce? Who has access? Why isn't everyone using magic to get rich?
+If magic exists, it affects the economy.
 
 **Can magic create wealth or resources?**
 
@@ -412,35 +408,35 @@ When money or resources pass between lovers:
 
 ### Mistake #1: The Meaningless Wealth Gap
 
-**What it looks like:** One character is rich and one is poor, but it never actually affects anything. The poor character has no financial pressures. The rich character's money solves no problems and creates no tensions.
+**What it looks like:** One character is rich and one is poor, but it never affects anything. The poor character has no financial pressures. The rich character's money solves no problems.
 
-**Why it hurts your romance:** If wealth doesn't matter, why include the gap? Economic difference creates stakes only when it has real consequences.
+**Why it hurts your romance:** Economic difference creates stakes only when it has real consequences.
 
-**How to fix it:** Make the gap mean something. The poor character faces real scarcity — missed meals, dangerous housing, impossible choices. The rich character's money actually affects the power dynamic. Neither can ignore the difference.
+**How to fix it:** Make the gap mean something. The poor character faces real scarcity. The rich character's money affects the power dynamic. Neither can ignore the difference.
 
 ### Mistake #2: The Infinite Wealth
 
-**What it looks like:** The wealthy character can buy their way out of any problem. Money is never actually a constraint because they always have enough.
+**What it looks like:** The wealthy character can buy their way out of any problem. Money is never actually a constraint.
 
-**Why it hurts your romance:** Stakes require constraints. If wealth solves everything, the wealthy character has no obstacles and the story loses tension.
+**Why it hurts your romance:** Stakes require constraints. If wealth solves everything, the story loses tension.
 
-**How to fix it:** Give wealth limits. Maybe they're rich but not royalty-rich. Maybe their wealth is tied up, controlled by family, or comes with strings. Maybe money can't solve this particular problem.
+**How to fix it:** Give wealth limits. Their wealth is tied up, controlled by family, or comes with strings. Or money simply can't solve this particular problem.
 
 ### Mistake #3: The Noble Poor
 
-**What it looks like:** The poor character is portrayed as morally superior because of their poverty — more honest, more real, more worthy. The wealthy character must learn from them.
+**What it looks like:** The poor character is portrayed as morally superior because of their poverty — more honest, more real, more worthy.
 
-**Why it hurts your romance:** It's condescending to actual poverty and creates a flat dynamic. It also often ignores how poverty actually affects people.
+**Why it hurts your romance:** It's condescending to actual poverty and creates a flat dynamic.
 
-**How to fix it:** Let poor characters be complex — shaped by hardship but not defined by nobility-through-suffering. Let wealthy characters have genuine virtues too. Economic status doesn't determine moral worth.
+**How to fix it:** Let poor characters be complex — shaped by hardship but not defined by nobility-through-suffering. Economic status doesn't determine moral worth.
 
 ### Mistake #4: The Invisible Economy
 
-**What it looks like:** Characters exist in an economic vacuum. No one seems to work or worry about money. Basic needs are met but how is never addressed.
+**What it looks like:** Characters exist in an economic vacuum. No one seems to work or worry about money.
 
-**Why it hurts your romance:** It makes the world feel thin and can make characters seem privileged in ways the author didn't intend.
+**Why it hurts your romance:** It makes the world feel thin and characters seem privileged in unintended ways.
 
-**How to fix it:** Ground characters in economic reality. They don't need to constantly discuss finances, but readers should understand how they survive. Work exists. Money matters. Choices have economic consequences.
+**How to fix it:** Ground characters in economic reality. Readers should understand how they survive. Choices have economic consequences.
 
 ---
 
@@ -478,13 +474,13 @@ _______________________________________________________________
 
 ## The Wealth Gap Dynamic
 
-If your characters have different economic positions, this creates built-in tension — and that tension runs deeper than just "one has money, one doesn't."
+If your characters have different economic positions, that tension runs deeper than "one has money, one doesn't."
 
-Wealth gaps create psychological complexity on both sides. The wealthier character may struggle with uncertainty: *Do they love me, or what I can provide?* They may use money as a substitute for emotional vulnerability — easier to buy a gift than to say something honest. They may not even recognize how their wealth shapes their assumptions about the world, blind spots the poorer character sees immediately.
+The wealthier character may struggle with uncertainty: *Do they love me, or what I can provide?* They may use money as a substitute for emotional vulnerability. They may not recognize how their wealth shapes their assumptions — blind spots the poorer character sees immediately.
 
-The less wealthy character navigates their own minefield. Accepting help can feel like losing independence, like becoming a kept thing rather than an equal partner. Refusing help can mean real suffering when relief is right there. Pride becomes a luxury with costs. And underneath it all runs the question: *If I had what they have, would I still choose this? Are my feelings shaped by what they offer me?*
+The less wealthy character navigates their own minefield. Accepting help can feel like losing independence. Refusing help can mean real suffering when relief is right there. Pride becomes a luxury with costs. *Are my feelings shaped by what they offer me?*
 
-The most interesting wealth-gap romances don't resolve this tension by pretending money doesn't matter. They work through it — characters acknowledging the imbalance, negotiating what help means, finding ways to be equals despite unequal resources.
+The most interesting wealth-gap romances don't resolve this by pretending money doesn't matter. They work through it — characters acknowledging the imbalance, finding ways to be equals despite unequal resources.
 
 **What can the wealthier character provide that the other can't access alone?**
 
@@ -521,13 +517,13 @@ _______________________________________________________________
 
 ## Money, Gifts & What They Mean
 
-When money or expensive gifts pass between people who care about each other, it's never simple. Gifts carry meaning beyond their material value, and that meaning shifts depending on context, power dynamics, and what each person fears.
+When money or expensive gifts pass between people who care about each other, it's never simple. Gifts carry meaning beyond their material value.
 
-For the giver, a gift can be an expression of care — *I saw this and thought of you, I want you to have beautiful things, I want to make your life easier.* But it can also be a substitute for harder things: easier to spend money than to spend time, easier to solve a problem with resources than to sit with someone in their struggle. And for a wealthy person giving to someone with less, there's always the question of whether generosity shades into control. *If I pay for everything, do I own this relationship?*
+For the giver, a gift can be an expression of care — or a substitute for harder things: easier to spend money than to spend time. And for a wealthy person giving to someone with less, there's always the question of whether generosity shades into control.
 
-For the receiver, accepting gifts means accepting what they represent. A gift can feel like love made tangible — or like charity, like being pitied, like becoming obligated. Refusing a gift protects pride but can wound the giver and perpetuate suffering that didn't need to happen. The calculation is never just about the object.
+For the receiver, a gift can feel like love made tangible — or like charity, like becoming obligated. Refusing protects pride but can wound the giver and perpetuate suffering that didn't need to happen.
 
-The most fraught gift dynamics often involve necessities rather than luxuries. A wealthy character buying their poor partner a pretty trinket is one thing. Offering to pay off their family's debts, cover their rent, save them from genuine desperation — that's where gifts become complicated. The need is real. The help would matter. But what does accepting it cost?
+The most fraught dynamics involve necessities rather than luxuries. Offering to pay off debts, cover rent, save them from genuine desperation — the need is real, the help would matter, but what does accepting it cost?
 
 **What does it mean in your culture for one person to give money or expensive gifts to another?**
 
@@ -581,15 +577,13 @@ _______________________________________________________________
 
 ## Economic Independence & Dependence
 
-Financial independence isn't just about money — it's about power, options, and the ability to leave. When one partner is economically dependent on the other, it changes the fundamental nature of the relationship, even between people who genuinely love each other.
+Financial independence isn't just about money — it's about power, options, and the ability to leave. When one partner is economically dependent on the other, it changes the relationship's fundamental nature.
 
-Dependence creates vulnerability. The dependent partner can't walk away without facing real consequences — homelessness, poverty, loss of everything they've built within the relationship. This isn't necessarily a problem; interdependence is part of most long-term relationships. But it becomes a problem when dependence is one-sided, when only one partner would be destroyed by the relationship ending. That imbalance affects every disagreement, every conflict, every moment of doubt. *Can I really say no? Can I really fight about this? What if they leave me?*
+Dependence creates vulnerability. The dependent partner can't walk away without facing real consequences. One-sided dependence affects every disagreement: *Can I really say no? What if they leave me?*
 
-The provider partner holds power they may not have asked for and may not want. Their displeasure carries more weight because the consequences of their leaving are asymmetric. Even if they never consciously leverage this power, it exists. And some part of both partners knows it.
+The provider holds power they may not want. Their displeasure carries more weight because the consequences of their leaving are asymmetric. Even if they never consciously leverage this power, it exists.
 
-Economic dependence also raises the question of choice. When someone can't afford to leave, are they staying because they want to, or because they have to? This doubt can poison both partners — the dependent one wondering if their feelings are real or just survival, the provider wondering if they're loved or just needed.
-
-The healthiest relationships acknowledge this dynamic and work to counterbalance it — ensuring the dependent partner has options, building toward mutual interdependence rather than one-way reliance, talking openly about the power imbalance rather than pretending it doesn't exist.
+Economic dependence raises the question of choice. When someone can't afford to leave, are they staying because they want to, or because they have to? The healthiest relationships acknowledge this dynamic and work to counterbalance it.
 
 **Before the relationship, how economically independent is each character?**
 
@@ -634,13 +628,13 @@ _______________________________________________________________
 
 ## Debt, Obligation & Economic Coercion
 
-Debt creates a relationship before there is a relationship. When one character owes another — money, a life saved, a magical service, a family obligation passed down through generations — they are bound together whether they want to be or not. This forced connection is catnip for romance writers because it creates proximity, power imbalance, and the central question: *When does obligation end and genuine feeling begin?*
+Debt creates a relationship before there is a relationship. When one character owes another — money, a life saved, a magical service — they are bound together whether they want to be or not. This forced connection creates proximity, power imbalance, and the central question: *When does obligation end and genuine feeling begin?*
 
-The problem with debt in romance is that it clouds consent. If someone owes you their life, their service, their future labor — can they freely choose to love you? Can they freely refuse? The power imbalance is baked in. Even a kind creditor holds power over their debtor. Even a debtor who falls genuinely in love will wonder if their feelings are real or just gratitude, just survival, just Stockholm syndrome dressed up in nicer clothes.
+The problem with debt in romance is that it clouds consent. If someone owes you their life, can they freely choose to love you? Even a kind creditor holds power over their debtor.
 
-Life debts and magical obligations intensify this dynamic. If the debt is supernaturally binding — if refusing to repay has mystical consequences — then the debtor truly cannot choose freely. This can create compelling tension, but it requires careful handling. At some point, for the romance to feel earned, the obligation must be satisfied or released, and the characters must choose each other without the debt forcing their hand.
+Life debts and magical obligations intensify this. If refusing to repay has mystical consequences, the debtor truly cannot choose freely. At some point, for the romance to feel earned, the obligation must be satisfied or released, and characters must choose each other without debt forcing their hand.
 
-The most satisfying debt-to-romance stories acknowledge the coercive nature of debt openly. Characters struggle with it, name it, work to dissolve the power imbalance. The moment when the debt is paid — when they could walk away but don't — is the moment the real relationship begins.
+The most satisfying debt-to-romance stories acknowledge the coercive nature openly. The moment when the debt is paid — when they could walk away but don't — is when the real relationship begins.
 
 **Is either character in debt?**
 
@@ -679,13 +673,13 @@ _______________________________________________________________
 
 ## Economic Arrangements
 
-The "arrangement becomes real love" story is one of romantasy's most beloved patterns: marriage of convenience, contracted courtship, employment that turns intimate, alliance that becomes affection. These stories work because they create forced proximity with built-in tension — two people bound together by necessity, slowly discovering they want to be together by choice.
+The "arrangement becomes real love" story is one of romantasy's most beloved patterns: marriage of convenience, contracted courtship, employment that turns intimate. These stories work because they create forced proximity with built-in tension — two people bound together by necessity, slowly discovering they want to be together by choice.
 
-What makes arrangements compelling is the gap between performance and reality. In a marriage of convenience, the couple must act married in public while knowing it's a transaction in private. But performance has a way of becoming reality. You pretend to care for someone long enough, you might start actually caring. You share a bed for political reasons, you might start wanting to share it for other reasons. The line between fake and real blurs, and neither person knows which side they're standing on.
+What makes arrangements compelling is the gap between performance and reality. You pretend to care for someone long enough, you might start actually caring. The line between fake and real blurs, and neither person knows which side they're standing on.
 
-Arrangements also force intimacy that wouldn't otherwise happen. Two people who might never have spoken are suddenly sharing meals, quarters, a public identity. They see each other in unguarded moments. They learn each other's habits and fears and small pleasures. The arrangement creates the conditions for love even though it was designed for economics.
+Arrangements force intimacy that wouldn't otherwise happen. Two people who might never have spoken are suddenly sharing meals, quarters, a public identity. They see each other in unguarded moments.
 
-The tension in arrangement stories comes from uncertainty. If they're contractually bound, is what they feel real or just proximity and performance? Would they choose each other if they could walk away? Often the climax of such stories involves the arrangement ending or being threatened — suddenly they could be free of each other, and they discover they don't want to be.
+The tension comes from uncertainty. If they're contractually bound, is what they feel real? Often the climax involves the arrangement ending — suddenly they could be free of each other, and they discover they don't want to be.
 
 **Could economic necessity force your characters into an arrangement?**
 
@@ -730,13 +724,13 @@ _______________________________________________________________
 
 ## Labor & Occupation in Romance
 
-What people do for work isn't just how they earn money — it's how they spend most of their waking hours, what skills they develop, what values they absorb, and often how they see themselves. When two characters come from different working worlds, those differences shape their relationship.
+What people do for work isn't just how they earn money — it's how they spend most of their waking hours, what skills they develop, and often how they see themselves.
 
-Work can bring characters together. Colleagues see each other daily, share struggles, develop inside jokes, witness each other under pressure. The workplace provides natural proximity and natural reasons to interact. But workplace romance carries complications: professional boundaries, power dynamics if one outranks the other, gossip from colleagues, the question of what happens to their jobs if the relationship sours.
+Work can bring characters together — colleagues see each other daily, share struggles, witness each other under pressure. But workplace romance carries complications: professional boundaries, power dynamics if one outranks the other, gossip.
 
-The employer-employee dynamic deserves special attention because the power imbalance is structural. When one character can fire, demote, or economically harm the other, can romantic consent be truly free? The employee may feel they can't refuse advances, can't set boundaries, can't leave the relationship without losing their livelihood. Even if the employer has only good intentions, the power differential exists. Romance in this context requires careful navigation — ideally, restructuring the professional relationship before pursuing the personal one.
+The employer-employee dynamic deserves special attention because the power imbalance is structural. When one character can fire the other, can romantic consent be truly free? Even if the employer has only good intentions, the power differential exists.
 
-Different occupations also create different worldviews. A soldier and a healer may both be hardworking and honorable, but they've learned different things about the world. A merchant values different things than a scholar. These differences can create attraction — fascination with someone who sees the world differently — or friction, as assumptions clash. Often both.
+Different occupations also create different worldviews. A soldier and a healer may both be honorable, but they've learned different things about the world. These differences can create attraction or friction. Often both.
 
 **What does your protagonist do to survive?**
 
@@ -845,13 +839,13 @@ _______________________________________________________________
 
 ## Poverty, Survival & Desperation
 
-When a character is truly poor — not "charming cottage" poor but "might not eat tomorrow" poor — their desperation becomes the defining fact of their existence. Every choice is constrained by survival. Every relationship exists in the shadow of need.
+When a character is truly poor — not "charming cottage" poor but "might not eat tomorrow" poor — desperation becomes the defining fact of their existence. Every choice is constrained by survival.
 
-Poverty in romance creates a specific kind of tension: the question of whether love can be distinguished from need. When someone wealthy offers security to someone desperate, both parties face doubt. The wealthy one wonders: *Do they love me, or do they love not starving?* The desperate one wonders: *Are my feelings real, or am I just so grateful for safety that I've confused it with love?* These doubts may never fully resolve, and that's realistic — we can never perfectly separate our feelings from our circumstances.
+Poverty in romance creates specific tension: the question of whether love can be distinguished from need. The wealthy one wonders: *Do they love me, or do they love not starving?* The desperate one wonders: *Are my feelings real, or am I just so grateful for safety that I've confused it with love?*
 
-Desperation also affects what characters will accept. Someone secure can afford to refuse a bad situation, walk away from mistreatment, hold out for something better. Someone desperate cannot. They take the job that degrades them, accept the arrangement that traps them, stay in the relationship that hurts them — because the alternative is worse. This is the ugly truth of poverty: it constrains choice in ways that comfortable people rarely have to confront.
+Desperation affects what characters will accept. Someone secure can refuse a bad situation. Someone desperate cannot — they take the job that degrades them, accept the arrangement that traps them, because the alternative is worse.
 
-Writing poor characters well means taking their poverty seriously. It means missed meals and impossible choices, not just "humble circumstances." It means understanding that poverty isn't ennobling; it's grinding and exhausting and limiting. And it means recognizing that when a poor character accepts help from a wealthy one, they're not being weak or mercenary — they're surviving.
+Writing poor characters well means taking their poverty seriously — missed meals and impossible choices, not just "humble circumstances." Poverty isn't ennobling; it's grinding and exhausting. When a poor character accepts help from a wealthy one, they're not being weak — they're surviving.
 
 **What does your less wealthy character need to survive?**
 
@@ -897,15 +891,13 @@ _______________________________________________________________
 
 ## Economic Sacrifice
 
-One of romance's most powerful beats is the moment a character gives up material security for love. The noble who renounces their inheritance to marry a commoner. The merchant who walks away from their fortune rather than make the strategic marriage. The heir who chooses exile over an approved match.
+One of romance's most powerful beats is the moment a character gives up material security for love. The noble who renounces their inheritance to marry a commoner. The heir who chooses exile over an approved match.
 
-Economic sacrifice proves love is real in a way words cannot. When someone gives up wealth, safety, status, and future security, they're demonstrating that the relationship matters more than comfort. The sacrifice makes the love tangible and costly. It answers the question "do they really love me?" with unmistakable clarity.
+Economic sacrifice proves love is real in a way words cannot. It answers the question "do they really love me?" with unmistakable clarity.
 
-But sacrifice has aftermath. The character who gave up everything may come to resent it, especially when hardship sets in. *I gave up my family's wealth for you, and now we're struggling, and is this really what I wanted?* The partner they sacrificed for may feel guilty, burdened by the weight of what they cost. *They lost everything because of me. I have to make this worth it. I can never disappoint them.*
+But sacrifice has aftermath. The character who gave up everything may come to resent it when hardship sets in. The partner they sacrificed for may feel guilty, burdened by what they cost.
 
-The healthiest sacrifice stories acknowledge these complications. The sacrifice is meaningful precisely because it costs something — but that cost is ongoing, not a one-time payment. Characters must continue to choose each other in the aftermath, when the romantic gesture has faded and the practical difficulties remain.
-
-Consider also who sacrifices what. If only one partner gives up economic security while the other loses nothing, that creates imbalance. The most satisfying sacrifices are either mutual — both characters lose something to be together — or at least acknowledged. *I know what you gave up. I will spend my life making sure you don't regret it.*
+The healthiest sacrifice stories acknowledge these complications. The sacrifice is meaningful because it costs something — but that cost is ongoing, not a one-time payment. If only one partner sacrifices while the other loses nothing, that creates imbalance. The most satisfying sacrifices are mutual — or at least acknowledged.
 
 **What economic security does each character sacrifice to be together?**
 
@@ -963,10 +955,6 @@ _______________________________________________________________
 
 Economic worldbuilding becomes compelling when it's tied to survival, choice, and sacrifice.
 
-The question isn't "how does the tax system work?" — it's "what would this character do if they couldn't eat tomorrow?"
+The question isn't "how does the tax system work?" — it's "what would this character do if they couldn't eat tomorrow?" Economics creates stakes when it forces impossible choices: Love or survival? Pride or security? Freedom or obligation?
 
-The question isn't "what's the GDP?" — it's "what does the wealthy character's money mean for the power dynamic between them?"
-
-Economics creates stakes when it forces impossible choices: Love or survival? Pride or security? Freedom or obligation?
-
-Build an economy that makes these choices real, painful, and meaningful.
+Build an economy that makes these choices real.

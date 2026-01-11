@@ -8,19 +8,19 @@ This section is divided into two parts:
 
 **Part Two: Religion & Romance** — How religious beliefs create romantic tension. Divine law that forbids unions, prophecies that promise or threaten, the crisis of faith when love conflicts with belief.
 
-You need both. A romance blocked by religious law needs a believable faith underneath it. A world with rich spiritual traditions needs to show how those traditions actually affect your characters' love story.
+You need both.
 
 ---
 
 ## A Note Before You Begin
 
-Not every question here will matter for your story.
+Not every question will apply to your story. **Skip what doesn't.**
 
-**If religion is background rather than central obstacle, keep it simple.** Not every romantasy needs theological complexity. If your main obstacles are political or magical rather than religious, develop just enough faith to make the world feel real.
+**If religion is background, keep it simple.** Not every romantasy needs theological complexity.
 
-**If your world has no gods or organized religion, adapt or skip.** Some fantasy worlds are secular, or have spirituality without organized religion. Focus on what exists in your world.
+**If your world has no gods or organized religion, adapt or skip.**
 
-**If you're drawing on real religions, be thoughtful.** Fantasy religion often draws on real traditions. Consider what you're borrowing and why, and whether your portrayal is respectful.
+**If you're drawing on real religions, be thoughtful** about what you're borrowing and whether your portrayal is respectful.
 
 ---
 
@@ -135,8 +135,6 @@ _______________________________________________________________
 
 ## Religious Institutions
 
-Religion is rarely just personal belief — it's organized, institutionalized, and has its own power structures.
-
 ### Religious Organizations
 
 **What religious institutions exist?**
@@ -192,8 +190,6 @@ _______________________________________________________________
 ---
 
 ## Daily Religious Practice
-
-Faith shows up in everyday life — the small rituals, the casual prayers, the habits of devotion that make religion feel real and lived-in.
 
 **What religious practices are part of daily life?**
 
@@ -406,35 +402,35 @@ Prophecy in romance creates a specific tension: if they're fated to be together,
 
 ### Mistake #1: The Convenient Religion
 
-**What it looks like:** Religious rules exist to create obstacles, but they're inconsistently applied or easily bypassed. The church forbids their marriage, but then a friendly priest marries them anyway with no consequences.
+**What it looks like:** Religious rules exist to create obstacles, but they're inconsistently applied. The church forbids their marriage, but a friendly priest marries them anyway with no consequences.
 
-**Why it hurts your romance:** If religious obstacles can be conveniently circumvented, they have no weight. Divine law should feel absolute — that's what makes defying it meaningful.
+**Why it hurts your romance:** If religious obstacles can be conveniently circumvented, they have no weight.
 
-**How to fix it:** Make religious consequences real and consistent. If the church forbids this marriage, the church means it. Finding a way around requires genuine sacrifice, risk, or reinterpretation — not just a convenient loophole.
+**How to fix it:** Make religious consequences real. Finding a way around requires genuine sacrifice or risk — not just a convenient loophole.
 
 ### Mistake #2: The Religion Without Believers
 
-**What it looks like:** The world has religious institutions and laws, but no one seems to genuinely believe. Religion is only obstacle, never source of meaning, comfort, or identity.
+**What it looks like:** The world has religious institutions and laws, but no one seems to genuinely believe. Religion is only obstacle, never source of meaning.
 
-**Why it hurts your romance:** It makes religious obstacles feel arbitrary. If even believers don't really believe, why would anyone care about religious law?
+**Why it hurts your romance:** It makes religious obstacles feel arbitrary.
 
-**How to fix it:** Give your characters genuine faith, or genuine struggle with faith. Show what religion provides beyond rules — community, meaning, comfort, identity. Make leaving it cost something real.
+**How to fix it:** Give characters genuine faith or genuine struggle with faith. Show what religion provides beyond rules. Make leaving it cost something real.
 
 ### Mistake #3: The Strawman Faith
 
-**What it looks like:** The religion that creates obstacles is obviously corrupt, cruel, or foolish. No reasonable person would believe it. The only devout characters are villains or fools.
+**What it looks like:** The religion that creates obstacles is obviously corrupt, cruel, or foolish. The only devout characters are villains or fools.
 
-**Why it hurts your romance:** It removes the genuine tension of faith vs. love. If the religion is clearly wrong, choosing love over faith is obviously correct — no internal conflict needed.
+**Why it hurts your romance:** If the religion is clearly wrong, choosing love over faith is obviously correct — no internal conflict needed.
 
-**How to fix it:** Make the faith sympathetic even when it creates obstacles. Good people believe it for understandable reasons. The tension comes from genuinely conflicting goods, not from evil religion vs. good love.
+**How to fix it:** Make the faith sympathetic even when it creates obstacles. Good people believe it for understandable reasons. Tension comes from genuinely conflicting goods.
 
 ### Mistake #4: The Vague Prophecy
 
-**What it looks like:** There's a prophecy about the characters, but it's so vague it could mean anything. It creates no real expectations or constraints because no one knows what it actually predicts.
+**What it looks like:** There's a prophecy about the characters, but it's so vague it could mean anything.
 
-**Why it hurts your romance:** Prophecy only creates tension if it makes specific predictions that characters must fulfill, avoid, or wrestle with. Vague prophecies are just atmosphere.
+**Why it hurts your romance:** Prophecy only creates tension if it makes specific predictions characters must fulfill, avoid, or wrestle with.
 
-**How to fix it:** Make prophecies specific enough to create real expectations. "The child of two worlds will unite or destroy" creates tension. "Something important will happen involving these two" does not.
+**How to fix it:** Make prophecies specific enough to create real expectations. "The child of two worlds will unite or destroy" creates tension. "Something important will happen" does not.
 
 ---
 
@@ -500,8 +496,6 @@ _______________________________________________________________
 ---
 
 ## Daily Practice & Devotion
-
-Faith isn't just about big moments — it shows up in everyday life. Understanding how religion shapes daily routine grounds it as real.
 
 **What religious practices does each character observe?**
 
@@ -582,15 +576,11 @@ _______________________________________________________________
 
 ## Religious Community & Belonging
 
-Faith is rarely just personal — it's about community. Religious communities provide belonging, identity, support, and social structure. Leaving or being cast out means losing all of that.
+Religious communities provide belonging, identity, support, and social structure. Leaving or being cast out means losing all of that.
 
-What makes religious community different from other social groups is how total it often is. Your faith community may be the people you celebrate holidays with, the people who helped when your parent died, the people your family has known for generations. It's where you learned right from wrong, where you met your closest friends, where you imagined your children would be blessed and your funeral would be held. It's woven into every part of your life.
+What makes religious community different is how total it often is — the people you celebrate with, who helped when your parent died, where you met your closest friends. Losing that community isn't just losing social connections; it's losing a whole world. Your mother crying because you've damned yourself. Old friends who won't meet your eyes. Not knowing how to grieve without the rituals you grew up with.
 
-Losing that community isn't just losing social connections — it's losing a whole world. It's holidays alone. It's your mother crying because you've damned yourself. It's old friends who won't meet your eyes. It's not knowing how to grieve without the rituals you grew up with, not knowing how to celebrate without the songs you've always sung. It's realizing you don't know who you are outside the identity your faith gave you.
-
-Some people find this loss survivable — they build new communities, discover new identities, realize they're freer than they've ever been. Others find the loss devastating beyond what they imagined, discovering only after they've left how much of themselves was held in that belonging. The prospect of this loss keeps many people in faiths they no longer fully believe, in communities whose rules they're secretly breaking.
-
-For your characters, the question isn't just "what does their religion forbid?" but "what would they lose if they left?" The answer is rarely just "their faith." It's usually "everything."
+For your characters, the question isn't just "what does their religion forbid?" but "what would they lose if they left?" The answer is rarely just "their faith."
 
 **What religious community do your characters belong to?**
 
@@ -681,15 +671,13 @@ _______________________________________________________________
 
 ## Crisis of Faith
 
-When love challenges belief, or when religious rules demand impossible choices, faith itself can break. This is one of the most profound internal conflicts a character can face — not just "should I break this rule?" but "is everything I believed a lie?"
+When love challenges belief, faith itself can break. This is one of the most profound internal conflicts — not just "should I break this rule?" but "is everything I believed a lie?"
 
-A crisis of faith feels like the ground dissolving beneath you. For someone who genuinely believed, faith wasn't just a set of rules — it was the structure that made sense of everything. Why bad things happen. What makes life meaningful. What happens after death. Who you are and what you're for. When faith cracks, all of that cracks with it.
+A crisis of faith feels like the ground dissolving. For someone who genuinely believed, faith was the structure that made sense of everything — why bad things happen, what makes life meaningful, who you are. When faith cracks, all of that cracks with it.
 
-The crisis often doesn't come all at once. It starts with a question that won't go away: *Why would a good god forbid this love? Why does this thing that feels sacred get called sin?* The believer tries to find answers — reinterprets scripture, consults authorities, prays desperately for clarity. Sometimes they find answers that satisfy. Sometimes the answers feel hollow, and each hollow answer weakens the structure further.
+The crisis often starts with a question that won't go away: *Why would a good god forbid this love?* Sometimes answers satisfy. Sometimes the answers feel hollow, and each hollow answer weakens the structure further.
 
-There's grief in losing faith, even when the faith was causing pain. You're losing a relationship — with your god, with the person you were when you believed, with the future you imagined. You may feel foolish for having believed, angry at those who taught you, terrified of what comes next. You may find yourself going through religious motions long after belief has died, because the habits are all you have left.
-
-Some characters find a new faith, or a new relationship with the old one — faith transformed rather than lost. Others find they can live without it, that the world still has meaning even without divine architecture. And some live in the painful in-between, unable to fully believe or fully let go.
+There's grief in losing faith, even when the faith was causing pain. Some characters find faith transformed rather than lost. Others live in the painful in-between, unable to fully believe or fully let go.
 
 **Does the relationship cause either character to question their faith?**
 
@@ -908,13 +896,9 @@ _______________________________________________________________
 
 When characters come from different faiths, they must navigate not just their own beliefs but each other's — and often, the mutual hostility of their religious communities.
 
-Interfaith love creates challenges that don't disappear once you're committed. They're woven into the fabric of daily life. Whose holidays do you celebrate — both, creating exhausting weeks of doubled observances? Just one, with the other partner always feeling like an outsider in their own home? Some hybrid that satisfies neither tradition? There's no easy answer, and the question comes back every single year.
+Interfaith love creates challenges woven into daily life. Whose holidays do you celebrate? Which faith do you raise children in? When someone dies, whose death rituals bring comfort? These are moments when faith matters most, and difference becomes most painful.
 
-The challenges multiply with children. Which faith do you raise them in? Both, and risk them feeling confused or torn? One, and watch your partner grieve seeing their tradition die with them? Neither, and cut them off from grandparents who find that unbearable? Every option hurts someone. And the children themselves become a battleground — not always openly, but in the small comments, the grandmother who tells the child that daddy's faith is wrong, the holiday traditions that favor one parent's religion.
-
-Then there's the question of crisis. When the child is sick, whose god do you pray to? When someone dies, whose death rituals bring comfort? These are the moments when faith matters most, and they're the moments when difference becomes most painful. You reach for what comforts you and find your partner reaching somewhere else entirely.
-
-Some interfaith couples find their way through — building a shared spiritual life that honors both traditions, or accepting difference without needing to resolve it. Others find the gaps unbridgeable, not because of lack of love but because faith shapes too much of who they are to fully share a life with someone who doesn't share it. The honest couples talk about this before it becomes crisis, even when the conversations are hard.
+Some interfaith couples find their way through — building a shared spiritual life or accepting difference without needing to resolve it. Others find the gaps unbridgeable because faith shapes too much of who they are.
 
 **Do your characters practice different religions?**
 
@@ -958,15 +942,13 @@ _______________________________________________________________
 
 ## Sin, Virtue & Religious Guilt
 
-Religion defines morality. What's virtuous in one faith may be sinful in another. And religious shame operates differently than social shame — it's not just about what others think, but about what you believe you fundamentally *are*.
+Religious shame operates differently than social shame — it's not just about what others think, but about what you believe you fundamentally *are*.
 
-There's a crucial difference between "I'm doing something forbidden" and "I *am* something wrong." The first is about actions — you could stop, repent, be forgiven. The second is about identity — the shameful thing isn't something you did but something you are, and no amount of repentance can change your nature. Religious frameworks can create either kind of shame, but the identity-level shame is more devastating and harder to escape.
+There's a crucial difference between "I'm doing something forbidden" and "I *am* something wrong." The first is about actions — you could stop, repent. The second is about identity, and no amount of repentance can change your nature.
 
-Religious guilt follows you into private moments. It's the voice that tells you this pleasure is wrong, even when no one is watching and no one would know. It can make physical intimacy fraught with shame even between people who love each other. It can make joy feel dangerous, because joy in forbidden things is just evidence of your own corruption.
+Religious guilt follows you into private moments. It can make love itself feel like proof of sinfulness: *If I were good, I wouldn't want this. The fact that I want it shows what I am.*
 
-The cruelest aspect of religious shame is that it can make love itself feel like proof of your sinfulness. *If I were good, I wouldn't want this. The fact that I want it shows what I am.* This creates impossible spirals: you can't stop wanting, and wanting proves you're bad, and being bad makes you worthy only of suffering. Some people spend years in this spiral before finding their way out — or don't find their way out at all.
-
-Escaping religious shame requires more than just deciding the rules don't apply. The shame lives in the body, in flinches and cringes that happen faster than thought. It requires building a new moral framework, finding new ways to understand desire and love and goodness. It requires voices — internal or external — that say *this is not sin, you are not broken, love is not wrong.*
+Escaping religious shame requires more than deciding the rules don't apply. The shame lives in the body. It requires building a new moral framework, finding voices that say *this is not sin, you are not broken, love is not wrong.*
 
 **What does your religion teach about desire and love?**
 
@@ -1073,10 +1055,8 @@ _______________________________________________________________
 
 ## Final Thought: Faith Must Feel Real
 
-Even if you're not religious, your characters might be. Their faith should feel genuine — not just an obstacle you created, but something they believe deeply.
+Even if you're not religious, your characters might be. Their faith should feel genuine — not just an obstacle you created.
 
-The best religious worldbuilding makes readers understand why a character would choose faith over love, or why abandoning faith is a true sacrifice, not just convenient plotting.
-
-Faith provides comfort, community, identity, and meaning. When characters risk losing that for love, it should hurt. And when they find a way to have both faith and love — or choose love and accept the spiritual consequences — that resolution should feel earned, not easy.
+The best religious worldbuilding makes readers understand why a character would choose faith over love, or why abandoning faith is a true sacrifice. Faith provides comfort, community, identity, and meaning. When characters risk losing that for love, it should hurt.
 
 Build a religion that matters enough to fight for, or against, or to redefine entirely.

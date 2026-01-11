@@ -10,13 +10,7 @@ This section is a workshop. You've built geography (Section 1), established how 
 
 ## A Note Before You Begin
 
-Not every scene needs a carefully designed location.
-
-**Focus on pivotal moments.** Routine scenes can happen in generic spaces. Save your detailed location design for the moments that matter: first meetings, confessions, arguments, reconciliations, and climaxes.
-
-**You can design as you write.** Some authors plan locations in advance; others discover them during drafting. Use this section as planning or revision, whichever works for you.
-
-**One great location beats five mediocre ones.** A single well-designed recurring location can carry more weight than multiple barely-sketched spaces. Consider whether your romance might center on fewer, richer locations.
+**Focus on pivotal moments** — routine scenes can happen in generic spaces. Save detailed location design for first meetings, confessions, arguments, reconciliations, and climaxes. **You can design as you write** — use this section for planning or revision. **One great location beats five mediocre ones** — a single well-designed recurring location can carry more weight than multiple barely-sketched spaces.
 
 ---
 
@@ -94,35 +88,19 @@ Ask: What about this space makes this moment possible, necessary, or more meanin
 
 ### Mistake #1: The Interchangeable Backdrop
 
-**What it looks like:** Scenes happen in locations, but the locations don't affect anything. Dialogue could happen anywhere. The setting is described but doesn't shape action. Locations are backdrops rather than forces.
-
-**Why it hurts your romance:** When location doesn't matter, you're wasting one of your most powerful tools. The physical space should create possibilities and constraints that shape what characters can do and say.
-
-**How to fix it:** For each pivotal scene, ask: What can *only* happen here? What does this location force, prevent, or enable? If you can't answer, revise the location to add specific features that affect the scene — a narrow space that forces closeness, a danger that requires cooperation, a beauty that opens emotional vulnerability.
+Scenes happen in locations, but the locations don't affect anything — dialogue could happen anywhere, setting described but not shaping action. When location doesn't matter, you're wasting one of your most powerful tools. For each pivotal scene, ask: What can *only* happen here? What does this location force, prevent, or enable? If you can't answer, revise to add specific features that affect the scene — a narrow space forcing closeness, a danger requiring cooperation, beauty that opens vulnerability.
 
 ### Mistake #2: The Convenient Privacy
 
-**What it looks like:** Characters need to have a private conversation, and conveniently, a private space appears. Characters need to be alone, and everyone else vanishes. Privacy is available whenever the plot needs it.
-
-**Why it hurts your romance:** If privacy is easy, it's not precious. The difficulty of finding private moments is part of what makes them valuable. When privacy is convenient, the stolen moments don't feel stolen.
-
-**How to fix it:** Make privacy genuinely scarce. Establish who's around, who might interrupt, what spaces exist. Then make your characters *work* for private moments — finding gaps in surveillance, creating distractions, risking discovery. The effort makes the moments matter.
+Characters need private conversation and conveniently, a private space appears; everyone else vanishes whenever the plot needs it. If privacy is easy, it's not precious. The difficulty of finding private moments is part of what makes them valuable. Make privacy genuinely scarce: establish who's around, who might interrupt, what spaces exist. Make characters *work* for private moments — finding gaps in surveillance, creating distractions, risking discovery. The effort makes the moments matter.
 
 ### Mistake #3: The Featureless Space
 
-**What it looks like:** Locations are named but not described. We know we're in "a garden" or "a bedroom," but we don't know what makes this garden or bedroom specific. Physical details are absent or generic.
-
-**Why it hurts your romance:** Specific details create immersion and possibility. A garden with a hidden alcove is different from a garden with exposed paths. A bedroom with a locked door is different from one with thin walls. Without details, you can't use location to create story pressure.
-
-**How to fix it:** Give each key location specific features that matter. What can characters see, hear, touch? What physical features create possibility or constraint? The narrow bridge, the low wall someone could hide behind, the fire that's the only source of warmth — these details become story tools.
+Locations are named but not described — we know we're in "a garden" but not what makes this garden specific. Physical details are absent or generic. Specific details create immersion and possibility: a garden with a hidden alcove is different from one with exposed paths; a bedroom with a locked door is different from one with thin walls. Give each key location specific features that matter — the narrow bridge, the low wall someone could hide behind, the fire that's the only source of warmth. These details become story tools.
 
 ### Mistake #4: The Single-Purpose Space
 
-**What it looks like:** Each location appears once, serves one scene, and is never used again. The story has many locations, each used briefly.
-
-**Why it hurts your romance:** Recurring locations accumulate meaning. When characters return to the same space, we see how they've changed — where they stand relative to each other, what they're comfortable doing, how the space feels different. One-use locations can't develop this resonance.
-
-**How to fix it:** Consider using fewer locations more often. Identify spaces that could become "theirs" — places they return to, where meaning accumulates. The garden where they first spoke and later fight and finally reconcile carries weight that three different gardens couldn't.
+Each location appears once, serves one scene, and is never used again. Recurring locations accumulate meaning — when characters return to the same space, we see how they've changed. One-use locations can't develop this resonance. Consider using fewer locations more often. Identify spaces that could become "theirs" — places they return to, where meaning accumulates. The garden where they first spoke and later fight and finally reconcile carries weight that three different gardens couldn't.
 
 ---
 
@@ -753,17 +731,8 @@ _______________________________________________________________
 
 ## Final Thought: Locations Work for the Story
 
-Every key location should be doing narrative work. It's not just where something happens — it's part of *why* it happens.
+Every key location should be doing narrative work — not just where something happens, but part of *why* it happens. Build locations with specific physical features that affect the scene, pressure (proximity, privacy, risk, time), meaning that accumulates through repetition, and connection to your larger world.
 
-Build locations that:
-- Have specific physical features that affect the scene
-- Create pressure (proximity, privacy, risk, time)
-- Accumulate meaning through repetition when possible
-- Feel distinct from each other
-- Connect to the larger world you've built
+The space should constrain, enable, reveal, or transform. If you can move a scene to any other location and nothing changes, the location isn't working hard enough. But if the scene could *only* happen here — because of the privacy, danger, history, or physical constraints — then you've designed a location that matters.
 
-The space should constrain, enable, reveal, or transform. It should make moments possible that couldn't happen elsewhere, or make possible moments dangerous in ways they wouldn't be elsewhere.
-
-If you can move a scene to any other location and nothing changes, the location isn't working hard enough. But if the scene could *only* happen here — because of the privacy, the danger, the history, the physical constraints — then you've designed a location that matters.
-
-Design places that readers will remember because the space itself was part of the story. The best romantic moments don't just happen *in* locations — they happen *because of* them.
+The best romantic moments don't just happen *in* locations — they happen *because of* them.

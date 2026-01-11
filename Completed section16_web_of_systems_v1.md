@@ -10,13 +10,7 @@ You've built individual systems throughout this workbook. This section helps you
 
 ## A Note Before You Begin
 
-This section is a diagnostic tool, not a creative exercise.
-
-**Use this after you've built your systems.** Sections 1-15 helped you create worldbuilding elements. This section tests whether those elements connect properly.
-
-**You don't need perfect integration everywhere.** Some systems matter more to your story than others. Focus on the systems that directly affect your romance.
-
-**Gaps are opportunities.** When you find disconnected elements, that's useful information. Either deepen the connection or recognize the element as atmosphere rather than structure.
+**This section is a diagnostic tool, not a creative exercise.** Use it after you've built your systems (Sections 1-15). **You don't need perfect integration everywhere** — focus on systems that directly affect your romance. **Gaps are opportunities** — either deepen the connection or recognize the element as atmosphere rather than structure.
 
 ---
 
@@ -736,12 +730,6 @@ _______________________________________________________________
 
 ## Final Thought: Everything Connects
 
-Your world should feel like a living web where everything connects. When you pull one thread, others move. That interconnection makes worldbuilding feel real — and makes your romance feel like it has real stakes.
+Your world should feel like a living web where everything connects. When you pull one thread, others move. The love story is shaped by the world — geography that isolates, economy that creates inequality, politics that forbids, culture that judges, history that set forces in motion, magic that binds or divides. And in turn, the love story shapes the world. Their choice to be together challenges the systems that tried to keep them apart.
 
-The love story isn't separate from the world. It's shaped by the world — by the geography that isolates them, the economy that creates inequality between them, the politics that forbids them, the culture that judges them, the history that set these forces in motion, the magic that binds or divides them.
-
-And in turn, the love story shapes the world. Their choice to be together despite obstacles doesn't just matter to them. It challenges the systems that tried to keep them apart. It models new possibilities. It changes things.
-
-Build systems that create obstacles. Then let love challenge those systems.
-
-The best romantasy endings show that choosing each other wasn't just personally meaningful — it mattered to the world.
+Build systems that create obstacles. Then let love challenge those systems. The best romantasy endings show that choosing each other wasn't just personally meaningful — it mattered to the world.

@@ -10,23 +10,13 @@ This section is divided into two parts:
 
 **Part Two: Direct Intimate Magic** — If your world includes bonds, marks, or fated connections. How to handle these tropes so they complicate your romance rather than replace the work of building one. Destiny vs. choice, inconvenient bonds, and what magic can't do for you.
 
-You may only need Part One. Many excellent romantasy stories have no magical bonds at all — intimacy comes from how characters choose to use their existing powers for each other. If your world doesn't include bonds or fated connections, focus on Part One and skip Part Two entirely.
-
-Think about Rhysand in ACOTAR. His winnowing ability is transportation and summoning magic — nothing inherently romantic about it. But he uses it to send Feyre notes, appearing and disappearing paper and pen so they can have a private conversation across distance. The intimacy isn't built into the magic. It comes from the choice to use his power *that way*, to create something private that belongs only to them.
-
-This is the real question: **Given the magic your characters already have, how might they use it to reach each other?**
+You may only need Part One. Many excellent romantasy stories have no magical bonds at all — intimacy comes from how characters choose to use their existing powers for each other. The real question: **Given the magic your characters already have, how might they use it to reach each other?**
 
 ---
 
 ## A Note Before You Begin
 
-Not every question in this section will apply to your story.
-
-**If your world doesn't have magical bonds, skip Part Two.** Many excellent romantasy stories have no fated mates, no soul marks, no telepathic links. Intimacy through magic can come entirely from choice — how characters use their ordinary powers in personal ways.
-
-**If you do have bonds, be honest about what they're doing for your story.** Bonds that do the romantic work for your characters will feel hollow. Use Part Two to stress-test whether your bond complicates the romance (good) or replaces it (problem).
-
-**Start with your existing magic system.** Before adding "romantic" mechanics, look for intimate potential in what you've already built. The best magical intimacy often comes from unexpected applications of ordinary powers.
+**If your world doesn't have magical bonds, skip Part Two.** Many excellent romantasy stories have no fated mates, soul marks, or telepathic links — intimacy comes from choice. **If you do have bonds, be honest about what they're doing** — bonds that do the romantic work for your characters feel hollow. **Start with your existing magic system** — the best magical intimacy often comes from unexpected applications of ordinary powers.
 
 ---
 
@@ -93,35 +83,19 @@ Ask: What can your characters say through magic that they can't say with words?
 
 ### Mistake #1: The Bond That Does All the Work
 
-**What it looks like:** The magical bond creates attraction, understanding, trust, and connection automatically. Characters are essentially in love from the moment the bond forms. There's no relationship to build because magic already built it.
-
-**Why it hurts your romance:** Readers want to *watch* characters fall in love, not be told they already are because magic said so. A bond that creates instant complete intimacy skips the best part — the journey of two people learning to trust, understand, and choose each other.
-
-**How to fix it:** Make bonds create *awareness* without *understanding*. The bond might make them feel each other's emotions but not explain those emotions. It might create attraction without trust. It might say "this person is significant" without explaining *why* or *how* to build a relationship with them. The bond opens a door; the characters still have to walk through.
+The magical bond creates attraction, understanding, trust, and connection automatically — characters are essentially in love from the moment the bond forms. Readers want to *watch* characters fall in love, not be told magic already did it. Make bonds create *awareness* without *understanding*: they might feel each other's emotions but not explain them, create attraction without trust, say "this person is significant" without explaining why. The bond opens a door; the characters still have to walk through.
 
 ### Mistake #2: The Telepathy That Removes Miscommunication
 
-**What it looks like:** Characters have telepathic access to each other's thoughts, so they always know what the other is thinking and feeling. Misunderstandings become impossible. There's nothing hidden, nothing to discover, nothing to work out.
-
-**Why it hurts your romance:** Miscommunication is a classic romance engine, but the real issue is deeper: discovery is part of falling in love. If characters know everything about each other from the start, there's nothing to learn, no gradual revelation, no moment of finally understanding someone. Perfect communication is actually boring.
-
-**How to fix it:** Limit telepathy meaningfully. Maybe they can feel emotions but not thoughts. Maybe they can hear surface thoughts but not deep ones. Maybe telepathy only works when both parties allow it, creating stakes around who's willing to be known. Or maybe complete access creates *new* problems — too much information, violation of privacy, the terrifying vulnerability of being fully known before you're ready.
+Characters have telepathic access to each other's thoughts, so they always know what the other is thinking and feeling. But discovery is part of falling in love — if characters know everything from the start, there's nothing to learn, no gradual revelation. Perfect communication is boring. Limit telepathy meaningfully: they feel emotions but not thoughts, hear surface thoughts but not deep ones, or telepathy only works when both allow it. Or complete access creates *new* problems — too much information, violation of privacy, the terrifying vulnerability of being fully known before you're ready.
 
 ### Mistake #3: The Intimate Magic Added On Top
 
-**What it looks like:** The author designed a magic system, then realized it had no romantic potential, so they bolted on a separate "romance magic" — a bond, a link, a fated mate thing — that exists independently of the actual magic system and feels disconnected from it.
-
-**Why it hurts your romance:** The intimate magic feels like it's from a different story because it essentially is. The romance and the fantasy aren't integrated; they're two separate elements awkwardly sharing the same book.
-
-**How to fix it:** Find the intimate potential in your *existing* magic system before adding anything new. Any magic can create intimacy through choice, vulnerability, and private meaning. If you do add bonds or connections, make sure they follow your magic system's rules — same source, same costs, same limitations. The intimate magic should feel like part of the world, not an exception to it.
+The author designed a magic system, then bolted on separate "romance magic" — a bond or fated mate thing — that exists independently and feels disconnected. The romance and fantasy aren't integrated; they're two separate elements awkwardly sharing the same book. Find the intimate potential in your *existing* magic before adding anything new. Any magic can create intimacy through choice, vulnerability, and private meaning. If you add bonds, make sure they follow your magic system's rules — same source, same costs, same limitations.
 
 ### Mistake #4: The Observation Without Consequence
 
-**What it looks like:** One character notices something meaningful about how the other uses magic, but this observation never affects anything. It's mentioned once as "deep" or "insightful" and then forgotten.
-
-**Why it hurts your romance:** The power of observation-based intimacy is that seeing someone truly should change the relationship. If noticing something important about someone's magic doesn't lead to changed behavior, deeper understanding, or relationship development, it's just decoration.
-
-**How to fix it:** When one character observes something significant about the other's magic, let it *matter*. Maybe it changes how they treat them. Maybe it comes back in a crucial moment. Maybe it's the key to understanding something they couldn't before. Observation should be the beginning of deeper connection, not an isolated moment of perception.
+One character notices something meaningful about how the other uses magic, but this observation never affects anything — mentioned once as "deep" and then forgotten. The power of observation-based intimacy is that seeing someone truly should change the relationship. When one character observes something significant about the other's magic, let it *matter*: it changes how they treat them, comes back in a crucial moment, or becomes the key to understanding something they couldn't before. Observation should begin deeper connection, not be an isolated moment.
 
 ---
 
@@ -808,18 +782,8 @@ _______________________________________________________________
 
 ## Final Thought: Magic Enhances, Characters Choose
 
-The most powerful magical intimacy comes from choice, not compulsion.
+The most powerful magical intimacy comes from choice, not compulsion. Magic can create opportunities for connection — private channels, revealed vulnerability, gestures of care. It can force proximity or create awareness. It can even say "these two belong together."
 
-Magic can create opportunities for connection — private channels, revealed vulnerability, gestures of care. It can force proximity or create awareness. It can even say "these two belong together."
-
-But it can't build a relationship. It can't earn trust, develop understanding, or navigate conflict. It can't do the work of falling in love.
-
-Use your magic to create conditions for intimacy:
-- Small gestures that show care
-- Private channels that create exclusive space
-- Vulnerability that deepens trust
-- Bonds that complicate rather than conclude
-
-Then let your characters do the rest.
+But it can't build a relationship. It can't earn trust, develop understanding, or navigate conflict. It can't do the work of falling in love. Use your magic to create conditions for intimacy: small gestures, private channels, vulnerability, bonds that complicate rather than conclude. Then let your characters do the rest.
 
 The magic should make the romance possible or complicated. The characters should make it *real*.

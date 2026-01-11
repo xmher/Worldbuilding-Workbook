@@ -8,19 +8,17 @@ This section is divided into two parts:
 
 **Part Two: Politics & Romance** — How political realities create romantic tension. Laws that forbid unions, arranged marriages, enemies across battle lines, the stakes of being caught. This builds on the foundation to show how your world's politics specifically affects your love story.
 
-You need both. A forbidden-love romance needs a believable political system creating the prohibition. A world with interesting political structures needs to show how those structures actually trap or pressure your characters.
+You need both.
 
 ---
 
 ## A Note Before You Begin
 
-Not every question here will matter for your story.
+Not every question will apply to your story. **Skip what doesn't.**
 
-**If politics is background rather than central obstacle, keep it simple.** Not every romantasy needs complex political intrigue. If your main obstacles are cultural, magical, or personal rather than political, develop just enough government to make the world feel real.
+**If politics is background, keep it simple.** Not every romantasy needs complex political intrigue. Develop just enough to make the world feel real.
 
-**Skip what doesn't apply.** If your characters aren't from warring nations, skip the warfare sections. If there's no arranged marriage in your plot, skip those questions. If "enemies to lovers" isn't your trope, the extensive enmity-building section won't be relevant.
-
-**Politics can stay vague.** Some stories work better with political structures that are felt rather than detailed. You don't always need to know exactly how the council votes — just that the council's decision threatens your characters.
+**Politics can stay vague.** Some stories work better with political structures that are felt rather than detailed.
 
 ---
 
@@ -365,49 +363,47 @@ The most compelling political obstacles are ones characters can't simply ignore 
 
 ### Mistake #1: The Toothless Law
 
-**What it looks like:** There's a law against their relationship, but no one actually enforces it. They're "forbidden" but face no real consequences for being together.
+**What it looks like:** There's a law against their relationship, but no one enforces it. They're "forbidden" but face no real consequences.
 
-**Why it hurts your romance:** Forbidden love only matters if the forbidding has teeth. Stakes require real threat.
+**Why it hurts your romance:** Forbidden love only matters if the forbidding has teeth.
 
-**How to fix it:** Show enforcement. Someone else has been punished for this transgression. Authority figures actively watch for violations. Getting caught would mean concrete, serious consequences.
+**How to fix it:** Show enforcement. Someone else has been punished. Getting caught would mean concrete, serious consequences.
 
 ### Mistake #2: The Easily Escaped Arrangement
 
-**What it looks like:** One character is in an arranged marriage, but they can simply refuse, or the arrangement falls apart conveniently, or the other betrothed is cartoonishly evil so breaking the arrangement is obviously right.
+**What it looks like:** One character is in an arranged marriage, but they can simply refuse, or the other betrothed is cartoonishly evil so breaking the arrangement is obviously right.
 
-**Why it hurts your romance:** Arranged marriage tension requires the arrangement to be genuinely binding, with genuine costs for breaking it.
+**Why it hurts your romance:** Arranged marriage tension requires the arrangement to be genuinely binding.
 
-**How to fix it:** Make the arrangement matter. Breaking it means war, family ruin, or personal destruction. Make the other betrothed decent enough that refusing them isn't obviously correct. Make the choice genuinely hard.
+**How to fix it:** Make the arrangement matter. Breaking it means war, family ruin, or personal destruction. Make the choice genuinely hard.
 
 ### Mistake #3: The Vague Politics
 
-**What it looks like:** There's political conflict, but it's unclear what anyone actually wants, what the stakes are, or why it matters. Characters are "enemies" for unclear reasons.
+**What it looks like:** There's political conflict, but it's unclear what anyone wants, what the stakes are, or why it matters.
 
-**Why it hurts your romance:** If readers don't understand the political situation, they can't feel the pressure it creates.
+**Why it hurts your romance:** If readers don't understand the political situation, they can't feel the pressure.
 
-**How to fix it:** Be specific. Who wants what? Why can't both sides have it? What happens if one side wins? Ground the political conflict in concrete goals and consequences.
+**How to fix it:** Be specific. Who wants what? Why can't both sides have it? Ground the conflict in concrete goals and consequences.
 
 ### Mistake #4: The Politics That Pause for Romance
 
-**What it looks like:** Serious political conflicts (war, succession crisis, political conspiracy) somehow stop mattering when the romance heats up. External pressure disappears when it's inconvenient for the love story.
+**What it looks like:** Serious political conflicts somehow stop mattering when the romance heats up. External pressure disappears when it's inconvenient.
 
 **Why it hurts your romance:** It breaks immersion and makes stakes feel fake.
 
-**How to fix it:** Politics should intensify during the romance, not pause. The war keeps happening. The conspiracy keeps threatening. The pressure doesn't let up just because they're falling in love.
+**How to fix it:** Politics should intensify during the romance, not pause. The pressure doesn't let up just because they're falling in love.
 
 ### Mistake #5: The Unearned Enemy-to-Lover
 
-**What it looks like:** Characters are supposed to be enemies, but their enmity is based on misunderstanding, mild rudeness, or conflict that evaporates once they talk. They were never really enemies.
+**What it looks like:** Characters are supposed to be enemies, but their enmity is based on misunderstanding or conflict that evaporates once they talk.
 
-**Why it hurts your romance:** True enemies-to-lovers requires genuine enmity that must be overcome, not misunderstanding that must be cleared up.
+**Why it hurts your romance:** True enemies-to-lovers requires genuine enmity that must be overcome, not misunderstanding to be cleared up.
 
-**How to fix it:** Build real reasons for enmity. Their peoples have done real harm to each other. Their goals genuinely conflict. They have legitimate grievances. Then make them reckon with that, not just discover they were wrong.
+**How to fix it:** Build real reasons for enmity. Then make them reckon with that, not just discover they were wrong.
 
 ---
 
 ## Who Rules & How
-
-Before you can understand how politics affects your romance, you need to know who makes decisions and how.
 
 **What form of government exists in your world?**
 
@@ -579,13 +575,11 @@ _______________________________________________________________
 
 ## Class & Caste Systems
 
-Class systems create some of romantasy's most enduring obstacles — the prince and the servant, the noble and the commoner. These systems work as romantic obstacles because they're structural, not personal. The individuals involved might have no prejudice, but the system itself forbids them.
+Class systems create some of romantasy's most enduring obstacles — the prince and the servant, the noble and the commoner. These systems work as romantic obstacles because they're structural, not personal.
 
-What makes class gaps so compelling in romance is the "looking up/looking down" dynamic. Characters from different classes don't just have different amounts of money — they have different worldviews, different assumptions about how life works, different things they've never had to think about. The noble has never worried about where their next meal comes from; the servant has never had the luxury of boredom. These experiential gaps create misunderstanding, fascination, and friction.
+What makes class gaps compelling is the different worldviews — the noble has never worried about where their next meal comes from; the servant has never had the luxury of boredom. These experiential gaps create misunderstanding, fascination, and friction.
 
-Class also shapes identity in ways that don't disappear when you fall in love. The servant who marries the prince doesn't stop being someone who grew up serving. They may feel like an imposter in their new world, never quite belonging. The noble who chooses a commoner may lose everything that made them who they were — title, family, social position — and discover they don't know who they are without it.
-
-The most interesting class-gap romances don't pretend love erases difference. They show characters navigating real gaps in experience and assumption, finding ways to bridge worlds without pretending the worlds are the same.
+Class shapes identity in ways that don't disappear when you fall in love. The servant who marries the prince doesn't stop being someone who grew up serving. The most interesting class-gap romances show characters navigating real gaps without pretending the worlds are the same.
 
 **What social hierarchy exists?**
 
@@ -796,13 +790,11 @@ _______________________________________________________________
 
 ## Political Marriages & Treaties
 
-When a marriage serves political purposes, the couple becomes symbols as much as people. Their union represents peace, alliance, or unified power. This creates pressure beyond the relationship itself — they're performing for nations, not just for themselves.
+When a marriage serves political purposes, the couple becomes symbols as much as people. They're performing for nations, not just for themselves.
 
-Being a political chess piece does something to a person. You learn early that your value lies in what you can secure, not who you are. Your body, your future, your children — all belong to the strategic calculations of people who may never ask what you want. This can create characters who are bitter, resigned, rebellious, or who have learned to find freedom in the small spaces the system doesn't control.
+Being a political chess piece does something to a person. You learn that your value lies in what you can secure, not who you are. When two political pawns are married to each other, they share something no one else understands — or they resent seeing in each other a reminder of what they've lost.
 
-When two political pawns are married to each other, they share something no one else understands: the experience of being moved rather than moving. This can create unexpected solidarity — *we're both trapped here, we might as well be trapped together*. Or it can create resentment, each seeing in the other a reminder of what they've lost.
-
-The question that haunts political marriages is whether genuine feeling can grow in coerced soil. If they come to love each other, how do they know it's real? Would they have chosen each other if they'd had a choice? Sometimes the answer is yes. Sometimes the answer is *it doesn't matter anymore — this is our life now, and I choose to make it good*. Sometimes the question never gets a satisfying answer, and they have to live with that uncertainty.
+The question that haunts political marriages is whether genuine feeling can grow in coerced soil. Would they have chosen each other if they'd had a choice? Sometimes the question never gets a satisfying answer, and they have to live with that uncertainty.
 
 **Is your characters' relationship politically important?**
 
@@ -878,15 +870,11 @@ _______________________________________________________________
 
 ## Unequal Justice
 
-Laws often apply differently depending on who you are. This creates a specific kind of tension when your characters are from different positions — one might face death while the other faces a slap on the wrist.
+Laws often apply differently depending on who you are — one might face death while the other faces a slap on the wrist.
 
-Asymmetric risk poisons relationships in subtle ways. The protected partner may not even fully understand what the vulnerable one faces — they've never had to think about it. When they say "let's take this risk together," they're not actually taking the same risk at all. This can breed resentment: *Easy for you to be brave when you won't be the one executed.*
+Asymmetric risk poisons relationships in subtle ways. When they say "let's take this risk together," they're not actually taking the same risk. The protected partner may not understand what the vulnerable one faces. The vulnerable partner is always calculating, always aware of what happens if they're caught.
 
-The vulnerable partner carries a fear the protected one can't fully share. Every stolen moment is weighted differently for them. They're always calculating, always aware of escape routes and excuses and what happens if they're caught. The protected partner may mistake this vigilance for coldness, not understanding it's survival.
-
-For the protected partner who does understand, there's guilt. They benefit from a system that would destroy the person they love. Their safety is built on inequality they didn't choose but can't escape. Some try to compensate — *I'll protect you, I'll use my privilege to shield you* — but this creates its own power imbalance. The vulnerable partner is dependent on protection that could be withdrawn.
-
-The most honest relationships acknowledge this asymmetry openly: *I know you're risking more than me. I know that isn't fair. I'm asking anyway — but I need you to know I see it.*
+For the protected partner who does understand, there's guilt. They benefit from a system that would destroy the person they love. The most honest relationships acknowledge this asymmetry openly.
 
 **Are laws enforced equally, or does power matter?**
 
@@ -1050,9 +1038,7 @@ _______________________________________________________________
 
 ## Warfare & Military
 
-War is the ultimate political pressure. It separates lovers, forces impossible loyalties, and puts characters on opposite sides of a battlefield. Even the threat of war creates urgency that changes everything.
-
-War also changes people. Characters who have seen combat, lost comrades, or killed enemies carry that experience into their relationships. The violence of war doesn't stay on the battlefield.
+War is the ultimate political pressure. It separates lovers, forces impossible loyalties, and puts characters on opposite sides. War also changes people — characters who have seen combat carry that experience into their relationships.
 
 ### The State of Conflict
 
@@ -1143,7 +1129,7 @@ _______________________________________________________________
 
 ### Enemies Across Battle Lines
 
-If your characters are on opposite sides of a war, their relationship is treason. This creates the highest-stakes version of forbidden love — choosing each other means betraying everything they were raised to believe in.
+If your characters are on opposite sides of a war, their relationship is treason — choosing each other means betraying everything they were raised to believe in.
 
 **Are your characters on opposite sides of a conflict?**
 
@@ -1191,7 +1177,7 @@ _______________________________________________________________
 
 ### The Violence They Carry
 
-War leaves marks that don't heal. If your characters have experienced combat, that experience shapes who they are and how they relate to others.
+War leaves marks that don't heal.
 
 **Has either character killed in war?**
 
@@ -1293,13 +1279,13 @@ _______________________________________________________________
 _______________________________________________________________
 ## Enemies to Lovers: Building Genuine Enmity
 
-"Enemies to lovers" is one of the most popular romance tropes — and one of the most frequently underbuilt. Too often, the "enemies" are just people who bicker, or who dislike each other for reasons that evaporate the moment attraction becomes undeniable.
+"Enemies to lovers" is one of the most popular romance tropes — and one of the most frequently underbuilt. Too often, the "enemies" dislike each other for reasons that evaporate the moment attraction becomes undeniable.
 
-Real enemies-to-lovers requires *worldbuilding* that creates genuine enmity. Not misunderstanding. Not "he was rude to me once." Real, structural reasons why these two people should hate each other — reasons rooted in the world itself.
+Real enemies-to-lovers requires *worldbuilding* that creates genuine enmity. Not misunderstanding. Real, structural reasons why these two people should hate each other.
 
-The key distinction: **Misunderstanding creates obstacles that dissolve once cleared up. Genuine enmity creates obstacles that require sacrifice, growth, or transformation to overcome.**
+**Misunderstanding creates obstacles that dissolve once cleared up. Genuine enmity creates obstacles that require sacrifice, growth, or transformation to overcome.**
 
-What makes enemies-to-lovers satisfying is watching two people reckon with real grievances, not discover they never had any. The love that emerges from genuine enmity is hard-won, requiring characters to question everything they believed, forgive what seemed unforgivable, and choose each other over their own people. That's the payoff readers want — and it only works if the enmity was real to begin with.
+What makes enemies-to-lovers satisfying is watching two people reckon with real grievances, not discover they never had any.
 
 ### The Foundation: Why Are They Actually Enemies?
 
@@ -1907,12 +1893,8 @@ _______________________________________________________________
 
 Political worldbuilding in romantasy isn't about creating a realistic government — it's about creating meaningful obstacles that require growth, sacrifice, or systemic change to overcome.
 
-If your characters can simply ignore the laws, talk their way out of consequences, or wait for the problem to disappear, your political obstacles aren't strong enough.
+If your characters can simply ignore the laws or wait for the problem to disappear, your political obstacles aren't strong enough. But if breaking the law means war, if being caught means death — now you have stakes worth writing about.
 
-But if breaking the law means war, if being caught means death, if their union threatens to topple kingdoms — now you have stakes worth writing about.
+Build a government that says "no" — and then watch your characters fight like hell to prove it wrong. If they start as enemies, their path to love should require them to reckon with those reasons, not ignore them.
 
-The political world should be a pressure system that compresses your characters together while threatening to tear them apart. Your job is to build a government that says "no" — and then watch your characters fight like hell to prove it wrong.
-
-And if they start as enemies — if the world has given them real, legitimate reasons to hate each other — then their path to love should require them to reckon with those reasons. Not ignore them. Not minimize them. But face them, and choose each other anyway.
-
-That's enemies-to-lovers that readers remember: the one where the enemies were real, and so was the love.
+That's enemies-to-lovers readers remember: the one where the enemies were real, and so was the love.

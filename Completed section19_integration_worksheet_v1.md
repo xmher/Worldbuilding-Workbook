@@ -10,13 +10,7 @@ If you can't connect a worldbuilding element to the romance, it might not belong
 
 ## A Note Before You Begin
 
-This is the ultimate test of your worldbuilding.
-
-**Every major element should serve the romance.** If worldbuilding doesn't create obstacles, opportunities, or meaning for your love story, it may be decoration rather than structure.
-
-**Not everything needs deep integration.** Atmospheric elements can exist without directly affecting the romance. But your major systems should connect.
-
-**Low scores aren't failure — they're information.** This worksheet identifies where you can strengthen connections between world and romance.
+**Every major element should serve the romance** — if worldbuilding doesn't create obstacles, opportunities, or meaning for your love story, it may be decoration rather than structure. **Not everything needs deep integration** — atmospheric elements can exist without directly affecting the romance, but major systems should connect. **Low scores aren't failure — they're information** about where you can strengthen connections.
 
 ---
 
@@ -719,14 +713,6 @@ _______________________________________________________________
 
 ## Final Thought: One Story, Not Two
 
-When someone finishes your book, they shouldn't say "this was a romance set in a fantasy world" or "a fantasy with a romantic subplot."
+When someone finishes your book, they shouldn't say "this was a romance set in a fantasy world" or "a fantasy with a romantic subplot." They should feel that the magic and the love were part of the same story — that you couldn't have one without the other.
 
-They should feel that the magic and the love were part of the same story — that you couldn't have one without the other, that the world created the romance and the romance changed the world.
-
-That's integration. That's romantasy.
-
-The world is why they can't be together easily.
-The world is why they need each other.
-The world is what they change by choosing each other.
-
-Build a world that makes love both impossible and necessary — then let them choose it anyway.
+That's integration. That's romantasy. The world is why they can't be together easily. The world is why they need each other. The world is what they change by choosing each other. Build a world that makes love both impossible and necessary — then let them choose it anyway.

@@ -8,23 +8,13 @@ This section is divided into two parts:
 
 **Part Two: Magic & Romance** — How magic creates romantic tension, intimacy, and stakes. Power imbalances, magical bonds, the vulnerability of using magic in front of someone, and how the rules of your system specifically affect your love story.
 
-You need both. A romance built on magical bonds needs a believable magic system underneath. A magic system needs to show how its rules actually affect your lovers — what they can and can't do for each other, what magic reveals or conceals, what it costs to love someone in a world where power is unequal.
-
-One more thing before we dive in: magic in romantasy isn't just about battles and plot problems. It's also about *intimacy*—how your characters connect, what they hide from each other, what it means when they finally let someone see their power (or their vulnerability). As you build your system, keep one eye on how magic might bring your leads together or push them apart.
+You need both.
 
 ---
 
 ## A Note Before You Begin
 
-Not every question in this section will apply to your story.
-
-**If your magic system is already established, focus on gaps.** You may already know the basics. Use this section to identify what you haven't decided yet—especially the romantic implications you may not have considered.
-
-**If magic isn't central to your romance, go lighter.** Some romantasy has magic as backdrop rather than engine. If that's your story, answer the foundational questions and skip the detailed mechanics. Focus on how magic affects your characters specifically.
-
-**Hard magic vs. soft magic is a spectrum.** You don't need to explain everything to readers—but *you* should understand how your magic works so your story stays consistent. Decide how much your readers need to know versus how much you need to know.
-
-**Come back later.** Magic systems often reveal themselves through writing. If you're not sure how something works yet, move on and return when your story shows you.
+**If your magic system is already established, focus on gaps** — especially romantic implications you haven't considered. **If magic isn't central to your romance, go lighter** — answer foundational questions and skip detailed mechanics. **Hard magic vs. soft magic is a spectrum** — you don't need to explain everything to readers, but *you* should understand how your magic works. **Come back later** if you're unsure — magic systems often reveal themselves through writing.
 
 ---
 
@@ -103,43 +93,23 @@ Ask: *By the end of the story, do both characters have meaningful power in the r
 
 ### Mistake #1: The Limitless Love Interest
 
-**What it looks like:** The love interest is incredibly powerful with no meaningful limitations. They can solve any problem, defeat any enemy, protect from any danger. Their power has no cost, no weakness, no situation where it fails.
-
-**Why it hurts your romance:** Unlimited power removes stakes and makes the powerful character less interesting. If they can fix everything, why do they need the protagonist? What does the protagonist bring to a relationship with someone who needs nothing? And dramatically, invincible characters create no tension—we never fear for them.
-
-**How to fix it:** Give power meaningful limits. Maybe they're powerful in one domain but helpless in another. Maybe their power has a cost that accumulates. Maybe there are specific situations—emotional, environmental, plot-relevant—where their magic fails. The most interesting powerful characters are powerful *and* vulnerable.
+The love interest is incredibly powerful with no meaningful limitations — no cost, no weakness, no situation where their magic fails. This removes stakes and makes them less interesting. If they can fix everything, why do they need the protagonist? Give power meaningful limits: powerful in one domain but helpless in another, costs that accumulate, specific situations where magic fails. The most interesting powerful characters are powerful *and* vulnerable.
 
 ### Mistake #2: The Instant Magical Bond
 
-**What it looks like:** Characters become magically bonded immediately upon meeting, with the bond providing instant intimacy, trust, or connection. The bond substitutes for relationship development—they're connected, so they're in love.
-
-**Why it hurts your romance:** Bonds that create instant intimacy skip the work of building a relationship. If magic makes them trust each other immediately, we don't see them *earn* that trust. If the bond creates love, we don't believe in the love—it's compulsion, not choice. Readers want to watch relationships develop, not have them delivered pre-formed.
-
-**How to fix it:** Make bonds a beginning, not an ending. The bond might create awareness, not understanding. It might force proximity without forcing intimacy. Characters might resist the bond, resent it, or misunderstand what it means. The bond creates conditions for relationship—the relationship still needs to be built.
+Characters become magically bonded immediately upon meeting, with the bond providing instant intimacy, trust, or connection — substituting for relationship development. Bonds that create instant intimacy skip the work readers want to watch. Make bonds a beginning, not an ending: the bond might create awareness without understanding, force proximity without forcing intimacy. Characters might resist, resent, or misunderstand the bond. The bond creates conditions for relationship — the relationship still needs to be built.
 
 ### Mistake #3: The Convenient Magic
 
-**What it looks like:** Magic works exactly as needed for each scene. It's powerful when impressive power is required, limited when limitations create drama, costly when cost matters and free when it doesn't. The rules seem to shift based on what the plot needs.
-
-**Why it hurts your romance:** Inconsistent magic destroys trust. If readers can't rely on the rules, they can't feel genuine tension—they know magic will work however the author needs it to. Romantic stakes built on magical constraints collapse if those constraints are negotiable.
-
-**How to fix it:** Establish rules and follow them. Write down what your magic can and can't do, what it costs, when it works and when it fails. Then stick to those rules even when it complicates your plot. The complications often generate better scenes than the conveniences would have.
+Magic works exactly as needed for each scene — powerful when impressive power is required, limited when limitations create drama, costly when cost matters and free when it doesn't. Inconsistent magic destroys trust. If readers can't rely on the rules, they can't feel genuine tension. Establish rules and follow them even when it complicates your plot. The complications often generate better scenes than the conveniences would have.
 
 ### Mistake #4: The Meaningless Power Gap
 
-**What it looks like:** One character is vastly more powerful than the other, but this never actually affects their relationship. The power imbalance is stated but not felt. The powerful one never accidentally intimidates, the less powerful one never feels lesser, and the disparity creates no actual tension.
-
-**Why it hurts your romance:** Power imbalances are inherently tense—and that tension is good. When authors ignore the imbalance, they waste potential drama and make the relationship feel unrealistic. Real relationships between people with different levels of power require navigation—and that navigation is interesting.
-
-**How to fix it:** Let the imbalance matter. The powerful one might struggle not to be overprotective. The less powerful one might resent feeling protected. Moments might occur where power accidentally intimidates, or where the power gap is uncomfortably visible. Working through these tensions strengthens the relationship.
+One character is vastly more powerful than the other, but this never affects their relationship — the imbalance is stated but not felt. Power imbalances are inherently tense, and that tension is good. When authors ignore the imbalance, they waste potential drama. Let the imbalance matter: the powerful one might struggle not to be overprotective, the less powerful one might resent feeling protected, moments might occur where power accidentally intimidates. Working through these tensions strengthens the relationship.
 
 ### Mistake #5: The Forgotten Cost
 
-**What it looks like:** Magic is established as having a cost, but characters rarely pay it. They cast major spells without consequence, use power constantly without exhaustion, and the stated costs only apply when it's dramatic. Otherwise, magic is essentially free.
-
-**Why it hurts your romance:** Cost is what makes magical choices meaningful. If healing someone costs the healer nothing, healing is just a thing that happens. If healing costs pain, energy, or life-force, healing becomes sacrifice—becomes love made tangible. Costless magic is just a convenient tool; costly magic is a measure of what characters will give.
-
-**How to fix it:** Enforce costs consistently. Every time magic is used, the cost is paid. Small magic, small cost. Large magic, large cost. Characters should make tactical decisions about when to use magic based on what they can afford to pay. The reader should always know that magic costs something.
+Magic is established as having a cost, but characters rarely pay it — major spells without consequence, constant power use without exhaustion, costs that only apply when dramatic. Cost is what makes magical choices meaningful. If healing costs nothing, it's just a thing that happens; if healing costs pain or life-force, it becomes sacrifice — love made tangible. Enforce costs consistently. Every time magic is used, the cost is paid. Characters should make tactical decisions about when to use magic based on what they can afford.
 
 ---
 
@@ -994,16 +964,8 @@ _______________________________________________________________
 
 ## Final Thought: Magic Is Meaning
 
-Magic in romantasy isn't just a tool—it's a language. It tells us who has power and who doesn't. It creates vulnerability by having costs and limits. It builds intimacy through shared abilities, bonds, and the choice to use power for someone else.
+Magic in romantasy isn't just a tool — it's a language. It tells us who has power. It creates vulnerability through costs and limits. It builds intimacy through shared abilities, bonds, and the choice to use power for someone else.
 
-Build a magic system with clear rules and real constraints:
-- Costs make sacrifice meaningful
-- Limits make choices matter
-- Power gaps create dynamics to navigate
-- Magical bonds can accelerate intimacy but shouldn't replace relationship development
+Build a magic system with clear rules and real constraints: costs make sacrifice meaningful, limits make choices matter, power gaps create dynamics to navigate. The best romantasy magic isn't about impressive power displays — it's about what magic *reveals* about characters, relationships, and what people will do for love.
 
-The best romantasy magic isn't about impressive power displays. It's about what magic *reveals*—about characters, about relationships, about what people will do for love.
-
-Don't just give your characters magic. Give them magic that costs something, that reveals something, that connects them or divides them.
-
-Make magic matter to the relationship, not just to the plot.
+Give your characters magic that costs something, that reveals something, that connects them or divides them. Make magic matter to the relationship, not just to the plot.

@@ -8,19 +8,13 @@ This section is divided into two parts:
 
 **Part Two: Structural Magical Conflicts** — How the world's magical systems create external pressure on the relationship. Wars over magical resources, corruption and damage, arms races, regulation and resistance, historical wounds. These are conflicts that arise from the world your characters inhabit.
 
-You need both. Personal magical conflicts create immediate tension between your leads. Structural magical conflicts force impossible choices between love and duty, between each other and everyone else. The best romantasy uses magic to pressure the relationship from both directions.
+You need both.
 
 ---
 
 ## A Note Before You Begin
 
-Not every question in this section will apply to your story.
-
-**If your magic isn't dangerous, skip those questions.** Not all magic needs to be a threat. Some stories work with gentle, controllable abilities that create conflict through other means.
-
-**If your world isn't at magical war, adapt.** The structural conflict section assumes large-scale magical tension. If your world is more peaceful, focus on subtler structural pressures — regulation, inequality, scarcity.
-
-**This section is about obstacles.** Section 11 covered how magic creates intimacy. This section covers how it creates barriers. You need both for a compelling romance — connection that draws them together and obstacles that keep them apart.
+**If your magic isn't dangerous, skip those questions** — some stories work with gentle, controllable abilities. **If your world isn't at magical war, adapt** — focus on subtler structural pressures like regulation, inequality, or scarcity. **This section is about obstacles** — Section 11 covered intimacy through magic; this covers barriers. You need both for a compelling romance.
 
 ---
 
@@ -79,35 +73,19 @@ Ask: If the worst happened — if the dangerous magic hurt someone, if the forbi
 
 ### Mistake #1: The Easily Solved Problem
 
-**What it looks like:** The magical conflict seems serious but is resolved quickly and easily. The dangerous power is easily controlled. The forbidden magic is easily hidden or forgiven. The binding oath has an obvious loophole. The opposition is overcome with minimal effort.
-
-**Why it hurts your romance:** Conflicts that resolve easily don't feel like real obstacles. If the "dangerous" power is tamed in one training scene, it was never really dangerous. If the "forbidden" magic is discovered and immediately accepted, the forbiddenness didn't matter. Easy solutions suggest the conflict was never real — just a manufactured obstacle quickly removed.
-
-**How to fix it:** Make conflicts genuinely difficult to resolve. The dangerous power takes the whole book to control — and maybe isn't fully controlled by the end. The forbidden magic, if discovered, would really result in death. The binding oath has no loopholes that don't have serious costs. Conflicts should resist easy solutions.
+The magical conflict seems serious but is resolved quickly and easily — the dangerous power tamed in one training scene, the forbidden magic discovered and immediately accepted, the binding oath with an obvious loophole. Conflicts that resolve easily don't feel like real obstacles. Make conflicts genuinely difficult to resolve: the dangerous power takes the whole book to control and maybe isn't fully controlled by the end, the forbidden magic would really result in death if discovered, the binding oath has no loopholes without serious costs.
 
 ### Mistake #2: The Forgotten Danger
 
-**What it looks like:** The magical conflict is established as serious, then forgotten for long stretches. The dangerous power is mentioned in chapter one, threatens no one for 200 pages, then resurfaces for the climax. The forbidden magic is supposedly deadly to reveal but the character discusses it openly with minimal precaution.
-
-**Why it hurts your romance:** Inconsistent danger breaks immersion. If the deadly magic isn't deadly, if the dangerous power isn't dangerous, if the forbidden thing isn't treated as forbidden, readers stop believing the stakes. The conflict becomes a convenient plot device rather than a genuine obstacle.
-
-**How to fix it:** Keep the danger present. The dangerous power should threaten throughout — maybe small incidents that remind us what could happen. The forbidden magic should require constant vigilance, and that vigilance should be visible on the page. The threat should feel ever-present, even when nothing bad is currently happening.
+The magical conflict is established as serious, then forgotten for long stretches — the dangerous power mentioned in chapter one, threatening no one for 200 pages, then resurfacing for the climax. Inconsistent danger breaks immersion. Keep the danger present: small incidents that remind us what could happen, constant vigilance around forbidden magic visible on the page. The threat should feel ever-present, even when nothing bad is currently happening.
 
 ### Mistake #3: The Unbalanced Power Dynamic Without Acknowledgment
 
-**What it looks like:** There's a massive power gap between the characters, but the story treats them as equals without actually addressing the imbalance. The immensely powerful character could control, manipulate, or destroy the other, but this is never acknowledged as a problem. The relationship is framed as equal when it clearly isn't.
-
-**Why it hurts your romance:** Readers notice power imbalance even when stories don't acknowledge it. When a practically omnipotent character falls for a powerless one, and the story never addresses what that means for consent, equality, and agency, it feels incomplete at best and troubling at worst. The imbalance doesn't make romance impossible — but ignoring it makes romance unbelievable.
-
-**How to fix it:** Acknowledge the imbalance and show how characters navigate it. What does the powerful one do to ensure the other has real agency? What does the less powerful one bring that creates genuine equality in the relationship if not in raw power? How do they both feel about the imbalance? The romance can still work — but it needs to work *through* the imbalance, not around it.
+There's a massive power gap, but the story treats them as equals without addressing the imbalance — the immensely powerful character could control or destroy the other, but this is never acknowledged as a problem. Readers notice power imbalance even when stories don't. The imbalance doesn't make romance impossible, but ignoring it makes romance unbelievable. Acknowledge the imbalance and show how characters navigate it: what the powerful one does to ensure real agency, what the less powerful one brings that creates genuine equality, how they both feel about the imbalance. The romance must work *through* the imbalance, not around it.
 
 ### Mistake #4: The External Conflict That Never Actually Threatens
 
-**What it looks like:** The world is supposedly at magical war, or magic is supposedly heavily regulated, or their peoples are supposedly enemies — but none of this ever actually threatens the protagonists. They navigate the hostile world without real consequences. The external pressure is backdrop rather than obstacle.
-
-**Why it hurts your romance:** External conflicts that never become personal don't create stakes. If the war never touches them, if the regulation never catches them, if their peoples' enmity never affects their relationship, then why include it? The external pressure should actually pressure — should force hard choices, create real danger, demand something from the characters.
-
-**How to fix it:** Make external conflicts personal. The war should put one of them in danger. The regulation should catch one of them. Their peoples' enmity should require them to choose between family and each other. External pressure isn't just setting — it should actively complicate the romance.
+The world is supposedly at magical war, magic is heavily regulated, their peoples are enemies — but none of this actually threatens the protagonists. They navigate the hostile world without real consequences. External conflicts that never become personal don't create stakes. Make external conflicts personal: the war puts one in danger, the regulation catches one, their peoples' enmity requires choosing between family and each other. External pressure should actively complicate the romance, not just serve as setting.
 
 ---
 
@@ -774,14 +752,6 @@ _______________________________________________________________
 
 ## Final Thought: Obstacles That Matter
 
-The best magical conflicts aren't arbitrary barriers — they're natural consequences of your magic system and world.
+The best magical conflicts aren't arbitrary barriers — they're natural consequences of your magic system and world. If magic is dangerous, characters should fear it. If magic is forbidden, discovery should have real consequences. If magic creates power imbalances, those should affect relationships.
 
-If magic is dangerous, characters should fear it. If magic is forbidden, discovery should have real consequences. If magic creates power imbalances, those imbalances should affect relationships. If the world is shaped by magical conflict, that conflict should pressure everyone in it.
-
-Build obstacles that:
-- Arise naturally from your magic system
-- Create genuine stakes (not easily solved)
-- Force real choices (not obvious decisions)
-- Make the eventual resolution feel earned
-
-Magic shouldn't just give your characters powers. It should give them problems. The romance happens in how they navigate those problems together.
+Build obstacles that arise naturally from your magic system, create genuine stakes, force real choices, and make the eventual resolution feel earned. Magic shouldn't just give your characters powers — it should give them problems. The romance happens in how they navigate those problems together.

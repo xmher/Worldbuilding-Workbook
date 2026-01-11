@@ -8,58 +8,33 @@ This section is divided into two parts:
 
 **Part Two: Magic & Romance** — How magic creates romantic tension. Power imbalances, magical bonds, intimacy through shared power, the vulnerability of revealing your abilities, and the ways magic can both connect and divide.
 
-You need both. A romance where one character has devastating power needs a believable magic system that makes that power feel real and costly. A world with rich magical lore needs to show how that magic actually pressures, threatens, or enables your love story.
+You need both.
 
 ---
 
 ## A Note Before You Begin
 
-Not every question in this section will apply to your story.
-
-**Magic can stay mysterious.** Some stories work better with soft, atmospheric magic that isn't fully explained. You don't need to know the physics of every spell — sometimes "it's magic" is enough.
-
-**Focus on what creates stakes.** Don't detail every magical ability unless those abilities matter for your plot. The question isn't "what can magic do?" but "what can magic do that affects my characters right now?"
-
-**Skip what doesn't apply.** If your characters aren't magic users, skip the sections about using power. If there are no magical bonds in your world, skip those questions.
+Not every question in this section will apply to your story. Magic can stay mysterious — sometimes "it's magic" is enough. Focus on what creates stakes: the question isn't "what can magic do?" but "what can magic do that affects my characters right now?" Skip sections that don't apply.
 
 ---
 
 ## How to Think About Magic in Romantasy
 
-Magic in romantasy isn't just about battles and plot problems. It's also about *intimacy* — how your characters connect, what they hide from each other, what it means when they finally let someone see their power (or their vulnerability).
+Magic in romantasy isn't just about battles and plot problems. It's about *intimacy* — how your characters connect, what they hide from each other, what it means when they finally let someone see their power (or their vulnerability).
 
 ### The Magic-as-Intimacy Framework
 
 Consider how magic creates opportunities for closeness or distance:
 
-**Vulnerability through magic:**
-- Using magic when exhausted or emotional
-- Revealing powers you usually hide
-- Allowing someone to see you at full, terrifying strength
-- Letting someone heal you, touch your mind, or enter your magical space
+**Vulnerability through magic:** Using magic when exhausted or emotional, revealing powers you usually hide, letting someone heal you or touch your mind.
 
-**Connection through magic:**
-- Shared abilities or training
-- Magical communication when apart
-- Complementary powers that work better together
-- Bonds, marks, or links that tie characters together
+**Connection through magic:** Shared abilities, magical communication when apart, complementary powers that work better together, bonds or marks that tie characters together.
 
-**Division through magic:**
-- Power imbalances that create tension
-- Abilities that make trust difficult (mind-reading, illusion, compulsion)
-- Being on opposite sides of a magical conflict
-- One character's magic threatening what the other loves
+**Division through magic:** Power imbalances, abilities that make trust difficult (mind-reading, illusion, compulsion), being on opposite sides of a magical conflict.
 
 ### The Limitation Principle
 
-What magic *cannot* do matters more than what it can. Unlimited power is boring; power with constraints creates drama.
-
-Every effective magic system has:
-- **Costs** that make using magic a decision, not an automatic solution
-- **Limits** that force characters to be creative, strategic, or desperate
-- **Failures** that show magic can't solve everything
-
-Ask yourself: *If my protagonist could solve their biggest problem with magic, would they?* If yes, your magic system might need harder limits.
+What magic *cannot* do matters more than what it can. Unlimited power is boring; power with constraints creates drama. Every effective magic system has costs, limits, and failures. Ask: *If my protagonist could solve their biggest problem with magic, would they?* If yes, your magic system might need harder limits.
 
 ---
 
@@ -94,43 +69,23 @@ Many romantasies feature magical connections between characters — soul bonds, 
 
 ### Mistake #1: The Deus Ex Magica
 
-**What it looks like:** Magic solves plot problems conveniently whenever the story needs it. New abilities appear without setup. Limits are forgotten when inconvenient.
-
-**Why it hurts your romance:** If magic can solve anything, stakes evaporate. If the reader doesn't know what magic can and can't do, they can't feel tension when characters are in danger.
-
-**How to fix it:** Establish your magic's capabilities and limits early. If a magical solution exists, either use it and deal with the consequences, or explain clearly why it won't work. Foreshadow any significant magical abilities before they become critical.
+Magic solves plot problems conveniently whenever the story needs it. New abilities appear without setup. Limits are forgotten when inconvenient. If the reader doesn't know what magic can and can't do, they can't feel tension. Establish capabilities and limits early. Foreshadow significant abilities before they become critical.
 
 ### Mistake #2: The Powerless Love Interest
 
-**What it looks like:** One character is incredibly powerful; the other has nothing to contribute. The powerful one does all the saving, fighting, and problem-solving while the love interest watches.
-
-**Why it hurts your romance:** Romance requires some form of equality or balance. If one character is always the rescuer and the other is always the rescued, it stops feeling like partnership.
-
-**How to fix it:** Give the less powerful character something the powerful one needs — knowledge, connections, emotional insight, a skill magic can't replicate. Or let them contribute in non-magical ways that are equally valued. Power isn't just magic.
+One character is incredibly powerful; the other has nothing to contribute. Romance requires balance. Give the less powerful character something the powerful one needs — knowledge, connections, emotional insight, a skill magic can't replicate. Power isn't just magic.
 
 ### Mistake #3: The Inconsistent Cost
 
-**What it looks like:** Magic is established as exhausting or painful, but characters use it constantly without seeming to suffer. Costs are mentioned once and then forgotten.
-
-**Why it hurts your romance:** If using magic for someone is supposed to be a sacrifice, the cost needs to be real and visible. A dramatic scene where the love interest heals the protagonist loses impact if they're fine five minutes later.
-
-**How to fix it:** Track cumulative cost. Show the toll on the body, the mind, the soul. Let characters refuse to use magic because the cost is too high. Make the moment when they use it anyway meaningful.
+Magic is established as exhausting or painful, but characters use it constantly without suffering. Costs are mentioned once and forgotten. Track cumulative cost. Show the toll. Let characters refuse to use magic because the cost is too high — and make the moment when they use it anyway meaningful.
 
 ### Mistake #4: Magic Without Personal Stakes
 
-**What it looks like:** The magic system is well-developed mechanically but never connects to character or relationship. Powers are just tools, not expressions of identity or sources of conflict.
-
-**Why it hurts your romance:** In romantasy, magic should be personal. It should reveal character, create vulnerability, and affect relationships. A magic system that's only about plot logistics is missing the genre's emotional core.
-
-**How to fix it:** For each character's magic, ask: What does this power mean to them? What does using it reveal about who they are? How might it affect their relationship? What would it mean to share this power — or to have it used against them?
+The magic system is well-developed mechanically but never connects to character or relationship. In romantasy, magic should reveal character, create vulnerability, and affect relationships. For each character's magic, ask: What does this power mean to them? What would it mean to share it — or have it used against them?
 
 ### Mistake #5: The Informed Power Gap
 
-**What it looks like:** We're told one character is incredibly powerful, but we never see it. Or we're told there's a power imbalance, but both characters seem equally capable in practice.
-
-**Why it hurts your romance:** Power dynamics only create tension if readers feel them. If the "weak" character is actually quite competent, the supposed inequality rings false.
-
-**How to fix it:** Show the power gap in action. Let the powerful character do something that makes clear how outclassed the other is. Or let the less powerful character struggle with something the other could handle easily. Make the gap visible and felt.
+We're told one character is incredibly powerful, but we never see it. Power dynamics only create tension if readers feel them. Show the gap in action. Let the powerful character do something that makes clear how outclassed the other is.
 
 ---
 
@@ -941,12 +896,4 @@ _______________________________________________________________
 
 ## Final Thought: Magic Makes the Impossible Possible — Except When It Doesn't
 
-The best magic systems in romantasy do two things:
-
-They make the impossible possible — creating wonder, enabling the extraordinary, letting characters do things that take our breath away.
-
-And they make some things impossible — creating stakes, forcing sacrifice, ensuring that love must be chosen rather than conjured.
-
-Your magic should be powerful enough to matter and limited enough to create tension. It should be a source of both strength and vulnerability for your characters. It should bring them together in ways that wouldn't be possible otherwise — and threaten to tear them apart in ways that are uniquely magical.
-
-Build a magic system that makes your romance feel inevitable and impossible at the same time.
+The best magic systems in romantasy make the impossible possible — creating wonder, enabling the extraordinary — while making some things impossible, creating stakes and forcing sacrifice. Your magic should be powerful enough to matter and limited enough to create tension. Build a magic system that makes your romance feel inevitable and impossible at the same time.
