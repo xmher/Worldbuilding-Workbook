@@ -12,13 +12,7 @@ This section helps you test whether your worldbuilding supports character agency
 
 ## A Note Before You Begin
 
-This is about choices, not obstacles.
-
-**Agency doesn't mean easy choices.** Characters can face impossible situations and still have agency — as long as they're genuinely choosing, not being compelled.
-
-**Tropes aren't inherently agency-violating.** Fated mates, magical bonds, and arranged marriages can all support agency if handled carefully. This section helps you check.
-
-**The question isn't "are they free?" but "do they choose?"** Characters can be constrained by circumstances and still actively choose each other within those constraints.
+**Agency doesn't mean easy choices** — characters can face impossible situations and still have agency, as long as they're genuinely choosing rather than being compelled. **Tropes aren't inherently agency-violating** — fated mates, magical bonds, and arranged marriages can all support agency if handled carefully. **The question isn't "are they free?" but "do they choose?"** Characters can be constrained by circumstances and still actively choose each other within those constraints.
 
 ---
 
@@ -643,12 +637,6 @@ _______________________________________________________________
 
 ## Final Thought: Choice Is What Makes It Love
 
-Magic can bring them together. Prophecy can suggest they're meant to be. Political pressure can force proximity. Danger can create intimacy.
+Magic can bring them together. Prophecy can suggest they're meant to be. Political pressure can force proximity. Danger can create intimacy. But at the end of the story, they need to choose each other freely — despite the cost, the alternatives, the easier paths — because of who they are and what they've discovered in each other.
 
-But at the end of the story, they need to choose each other freely — despite the cost, despite the alternatives, despite the easier paths available, because of who they are and what they've discovered in each other.
-
-That choice is what makes the romance feel earned.
-
-That choice is what separates "they ended up together" from "they chose each other."
-
-That choice is what makes it love.
+That choice is what separates "they ended up together" from "they chose each other." That choice is what makes it love.

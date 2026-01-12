@@ -6,13 +6,7 @@ These sheets are designed for easy access while writing. Fill them in as you com
 
 ## A Note Before You Begin
 
-This section is a tool, not a test.
-
-**Fill this in gradually.** Complete each sheet as you finish the corresponding workbook section. Don't try to fill everything at once.
-
-**Keep this accessible while drafting.** Print it, keep it in a separate window, or use whatever method lets you reference it quickly.
-
-**Update as you write.** You'll establish new details during drafting. Add them here so you stay consistent.
+**Fill this in gradually** — complete each sheet as you finish the corresponding workbook section. **Keep this accessible while drafting** — print it or keep it in a separate window for quick reference. **Update as you write** — you'll establish new details during drafting; add them here to stay consistent.
 
 ---
 

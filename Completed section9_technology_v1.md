@@ -8,62 +8,33 @@ This section is divided into two parts:
 
 **Part Two: Technology & Romance** — How technology creates or removes romantic obstacles. The pace of communication during separation, the availability of privacy, the constraints that force characters together or hold them apart. This builds on the foundation to show how technology shapes what's possible in your love story.
 
-You need both. A romance where separation creates longing needs believable communication limits. A world with specific technology levels needs to show how that technology actually affects your lovers — what they can and can't do, how hard or easy certain things are.
+You need both.
 
 ---
 
 ## A Note Before You Begin
 
-Not every question in this section will apply to your story.
-
-**If your world mirrors a familiar historical period, focus on what differs.** You don't need to reinvent medieval technology if that's your baseline. Focus on what's different from reader expectations, what has romantic implications, and what technology specifically affects your plot.
-
-**Skip what doesn't fit.** If contraception isn't relevant to your story, skip those questions. If your characters don't travel, the transportation sections matter less.
-
-**Come back later.** Technological details often emerge as you write. If a character needs to send a message, that's when you discover how messages work. Return to fill in gaps as your story reveals what it needs.
+Not every question in this section will apply to your story. If your world mirrors a familiar historical period, focus on what differs from reader expectations and what affects your plot. Skip what doesn't fit. Come back later — technological details often emerge as you write.
 
 ---
 
 ## How to Think About Technology in Romantasy
 
-Technology in romantasy functions as a **possibility system** — it determines what your characters can and can't do, and thereby shapes what romance is possible. Slow communication makes separation painful; fast communication keeps connection easy. Locked doors enable privacy; shared sleeping quarters make it impossible. Your technology level isn't just setting — it's the rules of what romance looks like in your world.
+Technology in romantasy functions as a **possibility system** — it determines what your characters can and can't do, shaping what romance is possible. Your technology level isn't just setting — it's the rules of what romance looks like in your world.
 
-The key insight is that technology creates friction or removes it. A world with instant teleportation has no "long journey together" romance. A world with telepathy has no "miscommunication" plot. A world with no privacy has no "secret relationship" possibility — or it makes such secrecy extremely difficult and therefore dramatic. When you're designing technology, ask not just "what exists?" but "what does this make easy or hard?"
+The key insight: technology creates friction or removes it. A world with instant teleportation has no "long journey together" romance. A world with no privacy makes secrecy extremely difficult and therefore dramatic. When designing technology, ask not just "what exists?" but "what does this make easy or hard?"
 
 ### The Technology-as-Constraint Framework
 
-When you're deciding which technological elements to develop in detail, consider how they constrain or enable your romance:
+**Distance constraints:** Travel times that make separation meaningful, communication delays that create uncertainty, infrastructure gaps that strand travelers.
 
-**Distance constraints:** How hard is it for characters to be together?
-- Travel times that make separation meaningful
-- Communication delays that create uncertainty and longing
-- Infrastructure gaps that strand travelers
-- The resources required to cross distances (money, time, safety)
+**Privacy constraints:** Thin walls and shared spaces, servants who see and hear everything, surveillance magical or mundane, locks and private chambers.
 
-**Privacy constraints:** How hard is it for characters to be alone?
-- Thin walls and shared spaces that make secrets difficult
-- Servants who see and hear everything
-- Surveillance — magical or mundane — that watches
-- Locks, private chambers, and spaces of isolation
-
-**Consequence constraints:** How does technology affect the stakes?
-- Medical limits that make injury serious
-- Contraception availability that affects intimacy
-- Documentation systems that make identity verifiable or forgeable
-- Communication records that create evidence
-
-Technology that doesn't create constraint isn't wasted — it's just background. But when you're choosing what to develop, constraint-creating technology gives you the most story material.
+**Consequence constraints:** Medical limits that make injury serious, contraception availability, documentation systems that make identity verifiable or forgeable.
 
 ### The "Pace of Life" Principle
 
-Technology sets the tempo of your romance. Consider:
-
-- **Speed of travel:** How fast can characters reach each other? Days? Hours? Instantly?
-- **Speed of communication:** How quickly can they exchange words when apart?
-- **Availability of leisure:** Who has time for anything beyond survival? How much time do your characters have for each other?
-- **Lighting and time:** When does activity stop? What happens after dark?
-
-A romance in a world of instant communication and teleportation feels entirely different from one where letters take weeks and journeys take months. Neither is better — but you should choose deliberately, understanding what pace of life your story needs.
+Technology sets the tempo of your romance. Speed of travel, speed of communication, availability of leisure, lighting and time. A romance where letters take weeks feels entirely different from one with instant communication. Choose deliberately.
 
 ---
 
@@ -96,43 +67,23 @@ A romance in a world of instant communication and teleportation feels entirely d
 
 ### Mistake #1: The Convenient Technology
 
-**What it looks like:** Technology works exactly as needed for the plot. Instant communication exists when convenient but is forgotten when separation would be dramatic. Travel takes days when the plot needs distance but hours when reunion is required.
-
-**Why it hurts your romance:** Readers track consistency. If you've established that letters take two weeks, a response that arrives in three days breaks immersion. If technology follows rules only when convenient, the stakes feel fake.
-
-**How to fix it:** Establish your technology clearly and let it constrain you. If communication is slow, it's always slow — even when that creates problems you didn't plan. If travel takes time, your reunion happens when it happens, not when you need it. Constraints often generate better scenes than conveniences.
+Technology works exactly as needed for the plot. Instant communication exists when convenient but is forgotten when separation would be dramatic. Readers track consistency. Establish your technology clearly and let it constrain you. If communication is slow, it's always slow. Constraints often generate better scenes than conveniences.
 
 ### Mistake #2: The Invisible Infrastructure
 
-**What it looks like:** Characters move through a world where technology exists but has no texture. They travel but we never see how. They communicate but the method is vague. They live somewhere but the details of daily life are absent.
-
-**Why it hurts your romance:** Romance happens in daily life. If your world has no texture — no sense of how meals are prepared, how rooms are heated, how messages are sent — the romance floats in a void. The small details ground the relationship in lived experience.
-
-**How to fix it:** Pick a few technological details and make them specific and present. Maybe lighting matters: candles are expensive, so nighttime is dark, and the scene where he lights extra candles because she's coming matters. Maybe bathing is rare: the scene where she's bathing and he arrives unexpectedly becomes charged with vulnerability. Specificity creates texture.
+Characters move through a world where technology exists but has no texture. They travel but we never see how. Romance happens in daily life. Pick a few technological details and make them specific: maybe candles are expensive, so the scene where he lights extra candles because she's coming matters. Specificity creates texture.
 
 ### Mistake #3: The Modern Mindset
 
-**What it looks like:** Characters in a medieval-tech world think and act like modern people. They assume privacy exists, communication is instant, travel is easy. They're surprised by technology limits that should be normal to them. The servants are invisible; the lack of plumbing is never mentioned.
-
-**Why it hurts your romance:** Characters should be shaped by their technology. If your world lacks indoor plumbing, characters don't think it strange — they just know where the well is. If servants are constantly present, characters know how to communicate around them. When characters react to their world as if it's alien, they feel like tourists, not inhabitants.
-
-**How to fix it:** Let your characters be native to their technology. They know the workarounds, the shortcuts, the limitations. They're not surprised by how long journeys take — they're used to it. Their romances have already adapted to what's possible. A character who's never been alone in a room with a man doesn't find it odd; she finds the first time alone with him remarkable.
+Characters in a medieval-tech world think and act like modern people. They assume privacy exists, communication is instant, travel is easy. Let your characters be native to their technology. They know the workarounds, the shortcuts, the limitations. A character who's never been alone in a room with a man doesn't find it odd; she finds the first time alone with him remarkable.
 
 ### Mistake #4: The Forgotten Servants
 
-**What it looks like:** Wealthy characters have servants in the background, but those servants never affect anything. They're invisible when privacy is needed, present only for decoration. They don't gossip, observe, report, or have their own interests.
-
-**Why it hurts your romance:** In worlds with domestic servants, privacy is a luxury. Servants dress their employers, attend their baths, sleep in their chambers, serve their meals. They know everything. A romance in a served household that ignores the servants feels incomplete. The tension of being watched, the question of who can be trusted, the intimacy of finding moments alone — these are lost.
-
-**How to fix it:** Make servants real. They have loyalties, interests, and the capacity to help or harm. Maybe a trusted maid creates moments of privacy. Maybe a jealous valet reports everything. Maybe the servants' quarters are the only place the lovers can meet unobserved. The servant class isn't background — they're witnesses, allies, or threats.
+Wealthy characters have servants in the background, but those servants never affect anything. They're invisible when privacy is needed. In worlds with domestic servants, privacy is a luxury. Make servants real: they have loyalties, interests, and the capacity to help or harm. They're witnesses, allies, or threats.
 
 ### Mistake #5: The Costless Medicine
 
-**What it looks like:** Medical care exists at whatever level the plot needs. Characters sustain serious injuries but recover with no lasting consequences. Illness appears when dramatic but is cured when inconvenient. There's no sense of what medicine can actually do in this world.
-
-**Why it hurts your romance:** Injury and illness create vulnerability — one of the most powerful romantic accelerants. When one character must care for another, intimacy deepens. But this only works if the stakes are real. If medicine can fix anything, injury doesn't matter. If we don't know what can and can't be healed, we can't feel appropriate fear or relief.
-
-**How to fix it:** Establish what your world's medicine can do, and let it constrain you. Maybe infection is deadly, making wounds serious. Maybe fever is treated with tending, not pills. Maybe the care scene involves nights of watching, not an injection and immediate recovery. Let medicine be limited enough that injury matters.
+Medical care exists at whatever level the plot needs. Characters sustain serious injuries but recover instantly. Injury and illness create vulnerability — one of the most powerful romantic accelerants. Establish what your world's medicine can do, and let it constrain you. Let medicine be limited enough that injury matters.
 
 ---
 
@@ -1080,17 +1031,6 @@ _______________________________________________________________
 
 ## Final Thought: Technology Defines What's Possible
 
-Your technology level determines what's easy and what's impossible.
-
-If instant communication exists, separation loses weight. If healing magic fixes anything, danger has no teeth. If documentation doesn't exist, identity can be fluid. If privacy is impossible, intimacy becomes a risk.
-
-Choose your technology level deliberately:
-- Slow travel makes distance meaningful
-- Limited communication creates longing and uncertainty
-- Lack of privacy forces discretion
-- Limited medicine makes injuries matter
-- Absent documentation allows secrets
+Your technology level determines what's easy and what's impossible. If instant communication exists, separation loses weight. If healing magic fixes anything, danger has no teeth. If privacy is impossible, intimacy becomes a risk.
 
 Technology isn't about gadgets — it's about what your world makes easy and what it makes hard. Build a technology level that creates the constraints your story needs, then let your characters navigate those constraints.
-
-The question isn't "what cool technology exists?" It's "what does my technology level make possible, and what does it prevent?"

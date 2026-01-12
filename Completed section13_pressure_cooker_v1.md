@@ -16,13 +16,7 @@ This section helps you design how your setting functions as a pressure system �
 
 ## A Note Before You Begin
 
-Not every romance needs a pressure cooker.
-
-**If your characters can choose proximity, that's also powerful.** The choice to be near someone, when you could walk away, is its own kind of romantic statement. Forced proximity accelerates romance; chosen proximity proves it.
-
-**Multiple pressure cookers can work.** Your story might have several confined settings at different scales — a journey, then an academy, then a smaller space within the academy. Each intensifies differently.
-
-**The pressure cooker is a setting, not a substitute for relationship.** Proximity creates conditions for connection, but characters still need to actually connect. Being trapped together doesn't automatically mean falling in love.
+**Not every romance needs a pressure cooker.** If your characters can choose proximity, that's powerful too — forced proximity accelerates romance; chosen proximity proves it. **Multiple pressure cookers can work** — a journey, then an academy, then a smaller space within. Each intensifies differently. **The pressure cooker is a setting, not a substitute for relationship** — proximity creates conditions for connection, but characters still need to actually connect.
 
 ---
 
@@ -87,35 +81,19 @@ This gradient creates narrative momentum. Each stage should feel more intense th
 
 ### Mistake #1: The Porous Prison
 
-**What it looks like:** The pressure cooker is supposedly confining, but characters easily find privacy, alone time, and space apart whenever the plot needs it. The confinement is claimed rather than shown. Characters supposedly can't escape each other but somehow rarely interact.
-
-**Why it hurts your romance:** If the pressure cooker has holes, it's not really pressure. The point of forced proximity is that characters *can't* avoid each other. When they easily find privacy or space apart, the proximity doesn't feel forced — and the accelerated intimacy doesn't feel earned.
-
-**How to fix it:** Make the confinement real. Show the daily, unavoidable contact. Make privacy rare and precious. When characters do find moments apart, make it notable — a relief or a choice that carries meaning. The default should be together; apart should be the exception.
+The pressure cooker is supposedly confining, but characters easily find privacy, alone time, and space apart whenever the plot needs it. The confinement is claimed rather than shown. If the pressure cooker has holes, it's not really pressure. Make the confinement real: show the daily, unavoidable contact, make privacy rare and precious. When characters find moments apart, make it notable. The default should be together; apart should be the exception.
 
 ### Mistake #2: The Static Pressure
 
-**What it looks like:** Proximity intensity stays the same throughout. Characters are trapped together in chapter one; they're equally trapped in chapter twenty. The pressure never escalates, never varies, never peaks.
-
-**Why it hurts your romance:** Constant pressure becomes no pressure — readers habituate. If proximity stays the same, the urgency fades. The middle of the book feels the same as the beginning, and there's no intensification toward the climax.
-
-**How to fix it:** Create an intensity gradient. Early on, some avoidance is possible. As the story progresses, space decreases. Perhaps they start in separate rooms and end up sharing one. Perhaps they start able to avoid shared meals and end up unable to leave each other's sight. The pressure should peak near the emotional climax.
+Proximity intensity stays the same throughout — characters equally trapped in chapter one and chapter twenty, the pressure never escalating or peaking. Constant pressure becomes no pressure; readers habituate. Create an intensity gradient: early on, some avoidance is possible; as the story progresses, space decreases. They might start in separate rooms and end up sharing one. The pressure should peak near the emotional climax.
 
 ### Mistake #3: The Ignored Friction
 
-**What it looks like:** Characters are trapped together but seem fine with it. There's no frustration, no invasion of space, no irritation at lost privacy. The confinement is convenient rather than challenging.
-
-**Why it hurts your romance:** Forced proximity should create friction. Characters who are comfortable being trapped together from the start have nowhere to grow. The journey from "I can't stand being this close to you" to "I can't stand being apart from you" requires the friction of the first state.
-
-**How to fix it:** Let proximity be uncomfortable, at least initially. Let them irritate each other. Let them chafe against the confinement. Let them want privacy they can't have. The discomfort is necessary for the eventual comfort to mean something.
+Characters are trapped together but seem fine with it — no frustration, no invasion of space, no irritation at lost privacy. Forced proximity should create friction. Characters comfortable from the start have nowhere to grow. The journey from "I can't stand being this close" to "I can't stand being apart" requires the friction of the first state. Let proximity be uncomfortable initially — let them irritate each other, chafe against confinement, want privacy they can't have. The discomfort makes eventual comfort mean something.
 
 ### Mistake #4: The Empty Container
 
-**What it looks like:** Characters are trapped in a setting that has no other people, no complications, no external demands. It's just the two of them with nothing to do but focus on each other. The pressure cooker is a romantic vacuum.
-
-**Why it hurts your romance:** Some of the best forced proximity tension comes from other people — the audience watching, the rivals competing, the allies who might help them find private moments. An empty pressure cooker removes these dynamics and can feel artificially isolated.
-
-**How to fix it:** Populate your pressure cooker. Add people who complicate the dynamic: observers they must perform for, rivals who create tension, allies who help them find each other. The presence of others makes private moments more precious and public moments more charged.
+Characters are trapped in a setting with no other people, no complications, no external demands — just the two of them with nothing to do but focus on each other. Some of the best forced proximity tension comes from other people: the audience watching, the rivals competing, the allies who help them find private moments. Populate your pressure cooker with observers they must perform for, rivals who create tension, allies who help them find each other. The presence of others makes private moments more precious and public moments more charged.
 
 ---
 
@@ -735,19 +713,8 @@ _______________________________________________________________
 
 ## Final Thought: Pressure Creates Transformation
 
-Forced proximity doesn't guarantee romance — it creates the conditions where connection *must* happen faster and more intensely than it would otherwise.
+Forced proximity doesn't guarantee romance — it creates conditions where connection *must* happen faster and more intensely than otherwise. The pressure cooker strips away the option to avoid, to think about it later, to take things slow. Characters must confront their feelings because there's nowhere else to go.
 
-The pressure cooker strips away the option to avoid, to think about it later, to take things slow. Characters must confront their feelings, their conflicts, and their attraction because there's nowhere else to go.
+But proximity also reveals truth. In close quarters, pretense becomes exhausting. Masks slip. Walls crumble. They see each other truly because there's no room to hide.
 
-But proximity also reveals truth. In close quarters, pretense becomes exhausting. Masks slip. Walls crumble. They see each other — truly — because there's no room to hide.
-
-Build a pressure cooker that:
-- Removes the option to leave (physical, structural, emotional constraints)
-- Forces daily, unavoidable interaction
-- Escalates over time toward peak intensity
-- Reveals what distance would have hidden
-- Creates the conditions for transformation
-
-The setting creates the pressure. Your characters create the heat. Design your pressure cooker to force them together, then let their choices within that confinement show who they really are and what they really want.
-
-The best forced proximity makes separation impossible — but the characters still have to choose each other. The pressure cooker removes the option to run; it doesn't remove the need to decide.
+Build a pressure cooker that removes the option to leave, forces daily unavoidable interaction, escalates toward peak intensity, and reveals what distance would have hidden. The setting creates the pressure; your characters create the heat. The best forced proximity makes separation impossible — but the characters still have to choose each other.

@@ -8,13 +8,7 @@ You've probably encountered these as a reader. This appendix helps you recognize
 
 ## A Note Before You Begin
 
-These mistakes are common because they're easy to fall into.
-
-**Read this before and after drafting.** Before, to know what to avoid. After, to check whether you've fallen into any traps.
-
-**Every mistake has a fix.** These aren't fatal problems — they're patterns you can recognize and correct.
-
-**You'll probably find yourself somewhere.** Most writers make at least one of these mistakes. That's normal. The goal is to recognize and fix them, not to avoid them entirely on the first draft.
+**Read this before and after drafting** — before, to know what to avoid; after, to check whether you've fallen into any traps. **Every mistake has a fix** — these aren't fatal problems, just patterns you can recognize and correct. **You'll probably find yourself somewhere** — most writers make at least one of these mistakes. The goal is to recognize and fix them, not avoid them entirely on the first draft.
 
 ---
 
@@ -385,6 +379,4 @@ If you answered "no" or "not sure" to any of these, go back and address it. Thes
 
 ## Final Thought: Mistakes Are Fixable
 
-Every writer falls into some of these traps in early drafts. Finding them isn't failure — it's part of the process. The goal isn't to write perfectly the first time; it's to develop the awareness to catch these patterns and the skills to fix them.
-
-The fact that you're thinking about these issues means you're already ahead. Now take what you've learned and make your world stronger.
+Every writer falls into some of these traps in early drafts. Finding them isn't failure — it's part of the process. The goal isn't to write perfectly the first time; it's to develop the awareness to catch these patterns and the skills to fix them. The fact that you're thinking about these issues means you're already ahead. Now take what you've learned and make your world stronger.

@@ -8,19 +8,13 @@ This section is divided into two parts:
 
 **Part Two: History & Romance** — How the past creates romantic tension. Inherited feuds, ancestral guilt, legendary lovers your characters are compared to, the weight of being told "this has happened before, and it ended badly."
 
-You need both. A romance between hereditary enemies needs a believable history that made them enemies. A world with rich lore needs to show how that history actually constrains or pressures your characters' love story.
+You need both.
 
 ---
 
 ## A Note Before You Begin
 
-Not every question here will matter for your story.
-
-**History can stay vague.** Some stories work better with history that's felt rather than detailed. You don't always need dates and names — sometimes "the old war" or "what happened between our families" is enough.
-
-**Focus on what creates present tension.** Don't chronicle centuries of events unless those events matter *right now* for your characters. The question isn't "what happened?" but "what happened that makes their relationship impossible?"
-
-**Skip what doesn't apply.** If your characters aren't from feuding families, skip the ancestral conflict sections. If there's no "legendary lovers" parallel, skip those questions.
+Not every question here will matter for your story. History can stay vague — sometimes "the old war" is enough. Focus on what creates present tension: the question isn't "what happened?" but "what happened that makes their relationship impossible?" Skip sections that don't apply.
 
 ---
 
@@ -426,31 +420,7 @@ _______________________________________________________________
 
 ## How to Think About History in Romantasy
 
-History creates romantic obstacles through **inheritance**, **precedent**, and **weight**. Your characters didn't choose the past, but they're bound by it.
-
-### Inherited Conflict
-
-The past creates present enmity:
-- Family feuds passed down through generations
-- National or species conflicts that make certain unions forbidden
-- Ancestral crimes that one character's family committed against the other's
-- Old alliances that obligate characters to opposing sides
-
-### Historical Precedent
-
-The past creates expectations:
-- Legendary lovers your characters are compared to
-- Previous forbidden romances that ended badly
-- Prophecies or patterns that seem to be repeating
-- Historical roles characters are expected to fulfill
-
-### The Weight of History
-
-The past makes choices feel heavier:
-- Breaking from centuries of tradition vs. continuing a pattern
-- Being the ones who finally end an ancient feud
-- Choosing love over ancestral loyalty
-- Discovering truths that change everything
+History creates romantic obstacles through **inheritance** (family feuds, ancestral crimes, old alliances), **precedent** (legendary lovers, previous forbidden romances, prophecies), and **weight** (breaking from tradition, ending ancient feuds, choosing love over ancestral loyalty). Your characters didn't choose the past, but they're bound by it.
 
 ---
 
@@ -485,35 +455,19 @@ Many romantasies invoke famous couples from their world's history — doomed lov
 
 ### Mistake #1: The Irrelevant History
 
-**What it looks like:** Extensive historical detail that never affects the actual story. Pages of worldbuilding that don't create tension, explain obstacles, or matter to the characters.
-
-**Why it hurts your romance:** It's weight without purpose. History should create pressure on the present, not just exist as decoration.
-
-**How to fix it:** For every historical detail, ask: "How does this affect my characters right now?" If it doesn't, cut it or save it for background flavor only.
+Extensive historical detail that never affects the actual story. History should create pressure on the present, not just exist as decoration. For every historical detail, ask: "How does this affect my characters right now?" If it doesn't, cut it.
 
 ### Mistake #2: The Convenient Discovery
 
-**What it looks like:** Characters discover a hidden historical truth that perfectly solves their problem or perfectly justifies their relationship.
-
-**Why it hurts your romance:** It feels like a cheat. If the obstacle was "our peoples have been enemies for centuries" and then they discover "actually the whole feud was based on a misunderstanding," the resolution is too easy.
-
-**How to fix it:** Historical discoveries should complicate as much as they clarify. Maybe the truth makes things *worse*. Maybe it solves one problem but creates another. Maybe it's ambiguous.
+Characters discover a hidden historical truth that perfectly solves their problem. If "our peoples have been enemies for centuries" is resolved by "actually the whole feud was a misunderstanding," the resolution is too easy. Historical discoveries should complicate as much as they clarify.
 
 ### Mistake #3: The Vague Ancient Grudge
 
-**What it looks like:** Characters are supposed to be from feuding families/peoples, but the feud is so ancient and vague that it has no emotional weight. "Our peoples have always been enemies" without specifics.
-
-**Why it hurts your romance:** If the characters don't feel the history viscerally, neither will readers. Abstract ancient hatred doesn't create real tension.
-
-**How to fix it:** Make it specific and recent enough to hurt. Not "ancient grudge" but "your grandfather burned my grandmother's village." Give the history teeth.
+Characters are from feuding families, but the feud is so ancient and vague it has no emotional weight. Abstract ancient hatred doesn't create real tension. Make it specific and recent enough to hurt: not "ancient grudge" but "your grandfather burned my grandmother's village."
 
 ### Mistake #4: The Static Past
 
-**What it looks like:** History is just facts to be recited, not something characters have different perspectives on or that changes meaning as the story progresses.
-
-**Why it hurts your romance:** History becomes exposition rather than living conflict.
-
-**How to fix it:** Let characters disagree about history. Let new information change what events meant. Let the past be as contested as the present.
+History is just facts to be recited, not something characters have different perspectives on. Let characters disagree about history. Let the past be as contested as the present.
 
 ---
 
@@ -745,9 +699,7 @@ _______________________________________________________________
 
 ## Generational Trauma
 
-Historical pain doesn't stay in the past. It lives in families, in bodies, in the way people flinch at certain words or places.
-
-Generational trauma shapes people who never directly experienced the original events. A character may carry grief, fear, or rage for things that happened to grandparents they never met. This isn't irrational — it's how trauma travels through families and communities.
+Historical pain doesn't stay in the past. It lives in families, in bodies, in the way people flinch at certain words or places. A character may carry grief, fear, or rage for things that happened to grandparents they never met.
 
 **What historical trauma does your protagonist carry?**
 
@@ -832,9 +784,7 @@ _______________________________________________________________
 
 ## Legendary Lovers
 
-Every culture tells stories about love — the great romances, the tragic affairs, the cautionary tales. Your characters may be compared to these legendary couples, expected to follow their path or warned against it.
-
-The weight of legendary comparison can be crushing. If everyone knows how the story ends, your characters are fighting not just their own obstacles but the expectation that they'll end the same way.
+Every culture tells stories about love — the great romances, the tragic affairs, the cautionary tales. Your characters may be compared to these legendary couples, expected to follow their path or warned against it. If everyone knows how the story ends, your characters are fighting not just their own obstacles but the expectation that they'll end the same way.
 
 **What famous love story does your culture tell?**
 
@@ -990,7 +940,7 @@ _______________________________________________________________
 
 ## Living History: Long-Lived Beings
 
-If your world has immortals or ancient beings, they remember history firsthand. They don't just know about the old war — they fought in it.
+If your world has immortals or ancient beings, they remember history firsthand — they don't just know about the old war, they fought in it.
 
 **Is either of your characters a long-lived being?**
 
@@ -1004,7 +954,7 @@ If yes:
 
 **If one character is ancient and one is mortal, how does this affect the relationship?**
 
-The immortal/mortal dynamic creates unique historical tensions. The ancient character has seen patterns repeat, loved and lost countless times, watched mortal lives flicker past. The mortal character is one brief moment in an endless existence — or perhaps they're something different, something that makes the ancient one feel again.
+The ancient character has seen patterns repeat, loved and lost countless times, watched mortal lives flicker past. The mortal character is one brief moment in an endless existence — or perhaps they're something different, something that makes the ancient one feel again.
 
 **The ancient character:**
 
@@ -1162,14 +1112,4 @@ _______________________________________________________________
 
 ## Final Thought: History Gives Weight to Choices
 
-Without history, your characters' choices happen in a vacuum. With history, every choice either continues a pattern or breaks one.
-
-"We've been enemies for five hundred years" makes reconciliation meaningful.
-
-"My ancestor killed yours" makes forgiveness costly.
-
-"Every generation, this love story ends in tragedy" makes choosing differently an act of courage.
-
-Build a history that makes the present feel inevitable — and then let your characters prove that the future doesn't have to be.
-
-Give your world a past worth overcoming.
+Without history, your characters' choices happen in a vacuum. With history, every choice either continues a pattern or breaks one. "We've been enemies for five hundred years" makes reconciliation meaningful. "My ancestor killed yours" makes forgiveness costly. Build a history that makes the present feel inevitable — then let your characters prove the future doesn't have to be.

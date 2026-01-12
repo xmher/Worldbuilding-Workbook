@@ -10,13 +10,7 @@ This section builds on the political structures from Section 5 (Government), the
 
 ## A Note Before You Begin
 
-Not every story needs an institutional setting.
-
-**If your romance happens outside institutions, that's fine.** Many excellent romances occur in domestic spaces, during journeys, or in settings without formal structure. Institutions are powerful tools, not requirements.
-
-**You might use multiple institutions.** A character might move from academy to court to military camp. Each institution creates different pressure.
-
-**Institutions can be background or foreground.** The institution might be the main setting (an academy romance) or context that affects the romance (court politics surrounding a relationship). Both work.
+**Not every story needs an institutional setting.** Many excellent romances occur in domestic spaces, journeys, or settings without formal structure. **You might use multiple institutions** — academy to court to military camp, each creating different pressure. **Institutions can be background or foreground** — the main setting or context that affects the romance. Both work.
 
 ---
 
@@ -80,35 +74,19 @@ This gap creates:
 
 ### Mistake #1: The Toothless Institution
 
-**What it looks like:** The institution has rules, but breaking them carries no real consequences. Characters violate policies constantly without punishment. The "forbidden" relationship is forbidden in name only.
-
-**Why it hurts your romance:** If the institution doesn't enforce its rules, it's not really an obstacle. The tension of forbidden romance depends on the danger of being caught. If being caught means nothing, the romance loses its edge.
-
-**How to fix it:** Show the institution's teeth. Someone else who broke the rules should suffer consequences your characters witness. The threat should feel real because it *is* real. When your characters break rules, there should be genuine fear of discovery.
+The institution has rules, but breaking them carries no real consequences — characters violate policies constantly without punishment. If the institution doesn't enforce its rules, it's not really an obstacle. The tension of forbidden romance depends on the danger of being caught. Show the institution's teeth: someone who broke the rules should suffer consequences your characters witness. The threat should feel real because it *is* real.
 
 ### Mistake #2: The Empty Hierarchy
 
-**What it looks like:** The institution has a ranking system, but it doesn't affect anything. Characters at different ranks interact freely. Power differences are stated but not felt.
-
-**Why it hurts your romance:** Hierarchy creates romantic tension through imbalance. If the instructor/student or officer/enlisted dynamic doesn't actually create power differential, you've lost a source of tension. The "inappropriate" relationship is only inappropriate if the hierarchy means something.
-
-**How to fix it:** Make rank matter. The higher-ranked character should have real power over the other — power they must navigate carefully if the relationship is to be equal. The lower-ranked character should feel the weight of the difference. Other characters should react to the inappropriateness.
+The institution has a ranking system, but it doesn't affect anything — characters at different ranks interact freely, power differences stated but not felt. Hierarchy creates romantic tension through imbalance. The "inappropriate" relationship is only inappropriate if the hierarchy means something. Make rank matter: the higher-ranked character should have real power they must navigate carefully, the lower-ranked character should feel the weight of difference, and other characters should react to the inappropriateness.
 
 ### Mistake #3: The Easily Escaped Institution
 
-**What it looks like:** Characters talk about being trapped in the institution, but they could actually leave fairly easily. The "bindings" are more inconvenient than inescapable.
-
-**Why it hurts your romance:** If characters could walk away, their choice to stay becomes a choice — which is different from being trapped. Forced proximity requires that staying isn't really optional. If leaving is easy, you don't have a pressure cooker.
-
-**How to fix it:** Make leaving genuinely costly. Desertion means death. Breaking contract means slavery. Expulsion means losing magic. Refusing the arranged marriage means war. The cost of leaving should be high enough that staying — even when it's hard — is clearly the only option.
+Characters talk about being trapped, but they could actually leave fairly easily — the bindings more inconvenient than inescapable. If leaving is easy, you don't have a pressure cooker. Make leaving genuinely costly: desertion means death, breaking contract means slavery, expulsion means losing magic, refusing the arranged marriage means war. The cost of leaving should be high enough that staying is clearly the only option.
 
 ### Mistake #4: The Uniform Institution
 
-**What it looks like:** Everyone in the institution is basically the same. There are no factions, no allies, no rivals, no mentors, no threats. The institution is a monolith rather than a community.
-
-**Why it hurts your romance:** Institutions are full of people with different agendas. A romance in an institution with no other characters lacks the dynamics that make institutional settings rich: the ally who covers for them, the rival who threatens to expose them, the mentor who might help or hinder.
-
-**How to fix it:** Populate your institution with characters who have their own interests. Someone who wants your protagonist to succeed, someone who wants them to fail, someone who would benefit from exposing the relationship, someone who might help conceal it. The institution is a society, not a backdrop.
+Everyone in the institution is basically the same — no factions, allies, rivals, mentors, or threats. The institution is a monolith rather than a community. Institutions are full of people with different agendas, and a romance without other characters lacks the dynamics that make institutional settings rich. Populate your institution with characters who have their own interests: someone who wants your protagonist to succeed, someone who wants them to fail, someone who would benefit from exposing the relationship, someone who might help conceal it.
 
 ---
 
@@ -964,13 +942,6 @@ _______________________________________________________________
 
 The best institutional settings feel alive — with their own rules, culture, corruption, and demands. The institution should press on your characters constantly, shaping what they can do, say, and feel.
 
-Build an institution that:
-- Has real rules with real consequences
-- Creates meaningful hierarchy
-- Includes allies, rivals, and threats
-- Has a gap between stated purpose and reality
-- Gives characters ways to navigate and subvert
+Build an institution with real rules and consequences, meaningful hierarchy, allies and rivals and threats, a gap between stated purpose and reality, and ways for characters to navigate and subvert. Characters don't just exist within institutions — they're shaped by them, rebel against them, find cracks in them.
 
-Characters don't just exist within institutions; they're shaped by them, rebel against them, find cracks in them, and ultimately either escape them or change them.
-
-Design an institution with enough grip that your characters can't just walk away — and then watch them try anyway. The institution creates the pressure; your characters' responses reveal who they really are.
+Design an institution with enough grip that your characters can't just walk away — and then watch them try anyway. The institution creates the pressure; their responses reveal who they really are.

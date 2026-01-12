@@ -12,13 +12,7 @@ This section helps you test your worldbuilding's internal logic and catch incons
 
 ## A Note Before You Begin
 
-This section works best during revision.
-
-**Use this after drafting, not before.** Inconsistencies emerge through writing. You can't fully check consistency until you've established what needs to be consistent.
-
-**Some inconsistencies matter more than others.** Magic rules and stated consequences are critical. Background details are flexible. Know the difference.
-
-**Readers are forgiving of love.** Romantasy readers accept coincidences that bring characters together. They won't accept rules that only apply when convenient.
+**This section works best during revision.** Inconsistencies emerge through writing — you can't fully check until you've established what needs to be consistent. **Some inconsistencies matter more than others** — magic rules and stated consequences are critical; background details are flexible. **Readers are forgiving of love** — they accept coincidences that bring characters together, but won't accept rules that only apply when convenient.
 
 ---
 
@@ -672,16 +666,8 @@ _______________________________________________________________
 
 ## Final Thought: Trust Your Worldbuilding
 
-Your world doesn't have to be perfectly realistic — it's fantasy. But it does have to be internally consistent. The rules you establish create boundaries that make choices meaningful.
+Your world doesn't have to be perfectly realistic — it's fantasy. But it does have to be internally consistent. The rules you establish create boundaries that make choices meaningful. When characters break rules, it should cost them something. When they work within rules, victories should feel earned. When the impossible becomes possible, it should be wonder, not convenience.
 
-When characters break rules, it should cost them something.
-When they work within rules, victories should feel earned.
-When the impossible becomes possible, it should be a moment of wonder, not convenience.
+Trust your worldbuilding. Let it create real obstacles. Love that overcomes real obstacles — grounded in consistent worldbuilding — means more than love that overcomes obstacles that conveniently disappear.
 
-Trust your worldbuilding. Let it create real obstacles. Let it make things genuinely hard.
-
-The romance will be stronger for it. Love that overcomes real obstacles — obstacles grounded in consistent worldbuilding — means more than love that overcomes obstacles that conveniently disappear.
-
-Build a world with rules. Then let your characters fight for each other within those rules.
-
-That's how you earn the happy ending.
+Build a world with rules. Then let your characters fight for each other within those rules. That's how you earn the happy ending.
