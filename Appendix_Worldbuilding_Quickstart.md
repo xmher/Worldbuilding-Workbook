@@ -10,6 +10,12 @@ This isn't meant to replace the full Romantasy Worldbuilding Workbook — it's a
 
 ---
 
+# PART ONE: THE WORLD
+
+These questions establish the fantasy foundation — the setting, power structures, magic, and threats that exist regardless of your romance.
+
+---
+
 ## 1. WHERE DOES THIS STORY HAPPEN?
 
 Before you can write conflict, you need to know what kind of container your story lives in.
@@ -27,9 +33,7 @@ Before you can write conflict, you need to know what kind of container your stor
 
 **Name your primary location(s):** _______________________________________________
 
-**What makes this place a pressure cooker?**
-
-The best romantasy settings trap characters together. What makes escape difficult, costly, or impossible in your world?
+**What's the general vibe of this place?** (Dark and dangerous? Glittering but corrupt? War-torn? Rigidly controlled? Lawless?)
 
 _______________________________________________________________________________
 
@@ -37,9 +41,114 @@ _______________________________________________________________________________
 
 ---
 
-## 2. WHAT FORCES THEM TOGETHER?
+## 2. WHO HAS POWER?
 
-Romantasy runs on proximity — characters who could simply walk away from each other rarely generate enough tension to sustain a novel. What physical, social, or magical circumstances force your leads into each other's orbit?
+Understanding your world's power structure tells you what your characters are up against — and what they might gain or lose through their choices.
+
+**What type of government exists?** (Monarchy, empire, theocracy, council, feudal system, tribal, something else?)
+
+_______________________________________________________________________________
+
+**Who currently rules?** (Even a vague answer helps — "a young queen," "a council of mages," "no one; it's chaos")
+
+_______________________________________________________________________________
+
+**How did they get power?** (Birthright, conquest, election, magic, religious authority?)
+
+_______________________________________________________________________________
+
+**What does the ruling power want?**
+
+_______________________________________________________________________________
+
+**What threatens their rule?**
+
+_______________________________________________________________________________
+
+**What can the ruling power do to people who defy them?**
+
+_______________________________________________________________________________
+
+---
+
+## 3. DOES MAGIC EXIST? (If Yes, Answer These)
+
+If your world has magic, you need to know enough about it to understand how it shapes society. Skip this section if your story doesn't include magic.
+
+**The Core Questions:**
+
+**1. Who has magic?**
+(Everyone? A special few? One specific group or bloodline? Certain species only?)
+
+_______________________________________________________________________________
+
+**2. What can magic do — and what can't it do?**
+(Be specific about limits. Unlimited magic is boring magic.)
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+**3. What does magic cost?**
+(Energy, pain, years of life, sanity, something else? Free magic has no stakes.)
+
+_______________________________________________________________________________
+
+**4. How does society view magic users?**
+(Revered, feared, controlled, hunted, ordinary?)
+
+_______________________________________________________________________________
+
+**5. How does magic intersect with power?**
+(Do magic users rule? Are they controlled by rulers? Is magic regulated by law?)
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+## 4. WHAT'S THE WORLD-LEVEL THREAT?
+
+Your fantasy plot needs external stakes. What's wrong with the world that your characters will have to deal with?
+
+**The threat could be:**
+
+- **War:** Invasion, civil war, brewing conflict between nations
+- **Political instability:** Succession crisis, coup, power vacuum
+- **Magical crisis:** Magic failing, spreading curse, ancient evil awakening
+- **Environmental:** Plague, famine, dying land, magical catastrophe
+- **Social upheaval:** Revolution brewing, oppressed group rising, system collapsing
+
+**What's the world-level problem in your story?**
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+**What happens if no one solves it?**
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+**Who's responsible for this threat — or who's trying to make it worse?**
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+---
+
+# PART TWO: HOW THE WORLD AFFECTS THE ROMANCE
+
+Now that you've established your world's foundation, these questions connect that world to your love story.
+
+---
+
+## 5. WHAT FORCES THEM TOGETHER?
+
+Romantasy runs on proximity — characters who could simply walk away from each other rarely generate enough tension to sustain a novel. Based on the world you've built, what circumstances force your leads into each other's orbit?
 
 **Common proximity drivers:**
 
@@ -62,11 +171,17 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
+**How does the world-level threat (from section 4) affect their proximity?**
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
 ---
 
-## 3. WHAT KEEPS THEM APART?
+## 6. WHAT KEEPS THEM APART?
 
-Equally important: what obstacles prevent them from simply getting together? The world should make their union difficult, forbidden, or seemingly impossible.
+Equally important: what obstacles prevent them from simply getting together? Your world should make their union difficult, forbidden, or seemingly impossible.
 
 **Common barriers:**
 
@@ -93,37 +208,13 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
-
-## 4. WHO HAS POWER?
-
-Understanding your world's power structure tells you what your characters are up against — and what they might gain or lose through their choices.
-
-**Answer quickly:**
-
-**What type of government exists?** (Monarchy, empire, theocracy, council, feudal system, tribal, something else?)
-
-_______________________________________________________________________________
-
-**Who currently rules?** (Even a vague answer helps — "a young queen," "a council of mages," "no one; it's chaos")
-
-_______________________________________________________________________________
-
-**What does the ruling power want?**
-
-_______________________________________________________________________________
-
-**How does the ruling power view your protagonists' relationship?** (Approving, disapproving, indifferent, threatened by it?)
-
-_______________________________________________________________________________
-
-**What could the power structure do to your characters if it wanted to stop them?**
+**How does the power structure (from section 2) view this relationship?**
 
 _______________________________________________________________________________
 
 ---
 
-## 5. WHAT'S FORBIDDEN?
+## 7. WHAT'S FORBIDDEN?
 
 Every romantasy world has rules — spoken and unspoken — about who can be with whom. These rules create stakes.
 
@@ -150,37 +241,7 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
----
-
-## 6. DOES MAGIC EXIST? (If Yes, Answer These)
-
-If your world has magic, you need to know enough about it to understand how it affects the romance. Skip this section if your story doesn't include magic.
-
-**The Five Questions:**
-
-**1. Who has magic?**
-(Everyone? A special few? One specific group or bloodline? One of your leads and not the other?)
-
-_______________________________________________________________________________
-
-**2. What can magic do — and what can't it do?**
-(Be specific about limits. Unlimited magic is boring magic.)
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-**3. What does magic cost?**
-(Energy, pain, years of life, sanity, something else? Free magic has no stakes.)
-
-_______________________________________________________________________________
-
-**4. How does society view magic users?**
-(Revered, feared, controlled, hunted, ordinary?)
-
-_______________________________________________________________________________
-
-**5. How does magic affect your leads' relationship?**
+**If magic exists: How does magic affect your leads' relationship?**
 
 Check any that apply:
 - [ ] One has magic, the other doesn't (power imbalance)
@@ -193,44 +254,6 @@ Check any that apply:
 - [ ] Their magic is stronger together
 
 **Briefly explain how magic complicates or enables their romance:**
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
----
-
-## 7. WHAT'S THE WORLD-LEVEL THREAT?
-
-Your fantasy plot needs external stakes. What's wrong with the world that your characters will have to deal with?
-
-**The threat could be:**
-
-- **War:** Invasion, civil war, brewing conflict between nations
-- **Political instability:** Succession crisis, coup, power vacuum
-- **Magical crisis:** Magic failing, spreading curse, ancient evil awakening
-- **Environmental:** Plague, famine, dying land, magical catastrophe
-- **Social upheaval:** Revolution brewing, oppressed group rising, system collapsing
-
-**What's the world-level problem in your story?**
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-**How does this problem connect to your romance?**
-
-The best romantasy integrates the world threat with the love story. Consider:
-
-- Does the threat force them together?
-- Does it threaten to tear them apart?
-- Do they need each other to solve it?
-- Does solving it require sacrifice that affects their relationship?
-- Are they on opposite sides of it?
-
-**How your world-level threat connects to your romance:**
-
-_______________________________________________________________________________
 
 _______________________________________________________________________________
 
@@ -259,12 +282,12 @@ _______________________________________________________________________________
 With these elements established, you have enough worldbuilding foundation to work through the premise workbook. You know:
 
 - Where your story takes place
+- Who holds power and what threatens them
+- How magic works and who has it (if applicable)
+- What external threat creates urgency
 - What forces your characters together
 - What keeps them apart
-- Who holds power and how they'd view this relationship
 - What's forbidden and what the consequences are
-- How magic affects the romance (if applicable)
-- What external threat creates urgency
 
 That's enough world to build a premise. You can always deepen these elements later using the full Romantasy Worldbuilding Workbook — but you don't need to answer every question about geography, economy, and religious holidays before you know what your story is about.
 
