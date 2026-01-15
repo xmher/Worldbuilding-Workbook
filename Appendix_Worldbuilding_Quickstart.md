@@ -71,9 +71,29 @@ _______________________________________________________________________________
 
 ---
 
-## 3. DOES MAGIC EXIST? (If Yes, Answer These)
+## 3. SOCIAL STRUCTURE & EXPECTATIONS
 
-If your world has magic, you need to know enough about it to understand how it shapes society. Skip this section if your story doesn't include magic.
+**What social divisions exist?** (Classes, castes, species, magical vs. non-magical?)
+
+_______________________________________________________________________________
+
+**What's expected of someone in your protagonist's position?** (Who they should marry, what role they should fill, how they should behave?)
+
+_______________________________________________________________________________
+
+**What would be considered scandalous or shameful?**
+
+_______________________________________________________________________________
+
+**How much control do people have over their own marriages?**
+
+_______________________________________________________________________________
+
+---
+
+## 4. MAGIC (If Applicable)
+
+Skip this section if your story doesn't include magic.
 
 **The Core Questions:**
 
@@ -108,7 +128,7 @@ _______________________________________________________________________________
 
 ---
 
-## 4. WHAT'S THE WORLD-LEVEL THREAT?
+## 5. WORLD-LEVEL THREAT
 
 Your fantasy plot needs external stakes. What's wrong with the world that your characters will have to deal with?
 
@@ -146,7 +166,7 @@ Now that you've established your world's foundation, these questions connect tha
 
 ---
 
-## 5. WHAT FORCES THEM TOGETHER?
+## 6. WHAT FORCES THEM TOGETHER?
 
 Romantasy runs on proximity — characters who could simply walk away from each other rarely generate enough tension to sustain a novel. Based on the world you've built, what circumstances force your leads into each other's orbit?
 
@@ -171,7 +191,7 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**How does the world-level threat (from section 4) affect their proximity?**
+**How does the world-level threat (from section 5) affect their proximity?**
 
 _______________________________________________________________________________
 
@@ -179,7 +199,7 @@ _______________________________________________________________________________
 
 ---
 
-## 6. WHAT KEEPS THEM APART?
+## 7. WHAT KEEPS THEM APART?
 
 Equally important: what obstacles prevent them from simply getting together? Your world should make their union difficult, forbidden, or seemingly impossible.
 
@@ -214,7 +234,7 @@ _______________________________________________________________________________
 
 ---
 
-## 7. WHAT'S FORBIDDEN?
+## 8. WHAT'S FORBIDDEN?
 
 Every romantasy world has rules — spoken and unspoken — about who can be with whom. These rules create stakes.
 
@@ -261,7 +281,7 @@ _______________________________________________________________________________
 
 ---
 
-## 8. THE ONE-SENTENCE WORLD
+## 9. THE ONE-SENTENCE WORLD
 
 Now put it together. You should be able to complete this sentence:
 
@@ -283,7 +303,8 @@ With these elements established, you have enough worldbuilding foundation to wor
 
 - Where your story takes place
 - Who holds power and what threatens them
-- How magic works and who has it (if applicable)
+- What social divisions and expectations exist
+- How magic works (if applicable)
 - What external threat creates urgency
 - What forces your characters together
 - What keeps them apart
