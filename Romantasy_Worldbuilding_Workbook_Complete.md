@@ -4553,11 +4553,9 @@ Economics creates stakes when it forces impossible choices. Love or survival? Pr
 
 Who holds power? How did they get it? What laws govern your world? These questions matter because political structures create the obstacles, stakes, and pressures that shape your characters' choices.
 
-This section is divided into two parts:
+This section has two parts. Part One covers the foundation: how power actually works in your world, forms of government, how laws are made and enforced, and how political power intersects with magic. This is the political reality your characters live under regardless of their romantic situation.
 
-**Part One: The Foundation** — How power actually works in your world. Forms of government, how laws are made and enforced, how political power intersects with magic. This is the political reality your characters live under regardless of their romantic situation.
-
-**Part Two: Politics & Romance** — How political realities create romantic tension. Laws that forbid unions, arranged marriages, enemies across battle lines, the stakes of being caught. This builds on the foundation to show how your world's politics specifically affects your love story.
+Part Two focuses on politics and romance: how political realities create romantic tension. Laws that forbid unions, arranged marriages, enemies across battle lines, the stakes of being caught. This builds on the foundation to show how your world's politics specifically affects your love story.
 
 You need both. A forbidden-love romance needs a believable political system creating the prohibition. A world with interesting political structures needs to show how those structures actually trap or pressure your characters.
 
@@ -4567,11 +4565,11 @@ You need both. A forbidden-love romance needs a believable political system crea
 
 Not every question here will matter for your story.
 
-**If politics is background rather than central obstacle, keep it simple.** Not every romantasy needs complex political intrigue. If your main obstacles are cultural, magical, or personal rather than political, develop just enough government to make the world feel real.
+If politics is background rather than central obstacle, keep it simple. Not every romantasy needs complex political intrigue. If your main obstacles are cultural, magical, or personal rather than political, develop just enough government to make the world feel real.
 
-**Skip what doesn't apply.** If your characters aren't from warring nations, skip the warfare sections. If there's no arranged marriage in your plot, skip those questions. If "enemies to lovers" isn't your trope, the extensive enmity-building section won't be relevant.
+Skip what doesn't apply. If your characters aren't from warring nations, skip the warfare sections. If there's no arranged marriage in your plot, skip those questions. If "enemies to lovers" isn't your trope, the extensive enmity-building section won't be relevant.
 
-**Politics can stay vague.** Some stories work better with political structures that are felt rather than detailed. You don't always need to know exactly how the council votes — just that the council's decision threatens your characters.
+Politics can stay vague too. Some stories work better with political structures that are felt rather than detailed. You don't always need to know exactly how the council votes—just that the council's decision threatens your characters.
 
 ---
 
@@ -4585,7 +4583,7 @@ Different political structures create different pressures, different power dynam
 
 ### Government Types
 
-**What form of government exists?**
+What form of government exists?
 
 | Type | How Power Works | Common Features |
 |------|-----------------|-----------------|
@@ -4606,7 +4604,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**If your world has multiple nations, do they have different systems?**
+If your world has multiple nations, do they have different systems?
 
 _______________________________________________________________
 
@@ -4614,7 +4612,7 @@ _______________________________________________________________
 
 ### Current Rulers
 
-**Who currently holds power?**
+Who currently holds power?
 
 | Aspect | Details | Example (Serpent & Dove) |
 |--------|---------|-------------------------|
@@ -4623,17 +4621,13 @@ _______________________________________________________________
 | How they gained power | | *Rose through Church ranks, built his reputation on successful witch burnings, political maneuvering* |
 | How long they've ruled | | *Two decades — long enough to shape an entire generation's beliefs about magic and witches* |
 
-**What do they want?**
-
-What are the current ruler's goals, fears, and priorities?
+What do they want? What are the current ruler's goals, fears, and priorities?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What threatens their rule?**
-
-Every power structure has vulnerabilities:
+What threatens their rule? Every power structure has vulnerabilities.
 
 _______________________________________________________________
 
@@ -4645,15 +4639,13 @@ _______________________________________________________________
 
 Understanding how laws are made, changed, and enforced tells you what obstacles are truly immovable and which might bend.
 
-**Who makes laws?**
-
-Ruler by decree? Legislative body? Religious authority? Tradition that no one changes? Magical compulsion?
+Who makes laws? Ruler by decree? Legislative body? Religious authority? Tradition that no one changes? Magical compulsion?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Can laws be changed? How?**
+Can laws be changed? If so, how?
 
 | Method | How It Works | How Difficult |
 |--------|--------------|---------------|
@@ -4663,9 +4655,7 @@ _______________________________________________________________
 | Revolution/conquest | | |
 | Legal challenge/appeal | | |
 
-**Are there laws considered unchangeable?**
-
-Divine law, ancient compacts, magically binding treaties — things that *cannot* be altered:
+Are there laws considered unchangeable? Divine law, ancient compacts, magically binding treaties—things that *cannot* be altered?
 
 _______________________________________________________________
 
@@ -4675,7 +4665,7 @@ _______________________________________________________________
 
 ## Law Enforcement & Justice
 
-**Who enforces the law?**
+Who enforces the law?
 
 | Enforcement Body | What They Handle | Who Controls Them |
 |-----------------|------------------|-------------------|
@@ -4683,15 +4673,13 @@ _______________________________________________________________
 | | | |
 | | | |
 
-**How effective is enforcement?**
-
-Omnipresent and efficient? Corrupt and selective? Regional variation? Depends on who you are?
+How effective is enforcement? Omnipresent and efficient? Corrupt and selective? Regional variation? Does it depend on who you are?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How does the justice system work?**
+How does the justice system work?
 
 | Aspect | Details |
 |--------|---------|
@@ -4701,9 +4689,7 @@ _______________________________________________________________
 | Can verdicts be appealed? | |
 | Who can afford good representation? | |
 
-**Is justice equal?**
-
-Does class, wealth, species, or magical status affect how law applies? Be specific about who gets treated differently:
+Is justice equal? Does class, wealth, species, or magical status affect how the law applies? Be specific about who gets treated differently.
 
 _______________________________________________________________
 
@@ -4715,9 +4701,7 @@ _______________________________________________________________
 
 ## Political Structure & Hierarchy
 
-**What's the political hierarchy?**
-
-Map it from highest to lowest power:
+What's the political hierarchy? Map it from highest to lowest power.
 
 _______________________________________________________________
 
@@ -4727,15 +4711,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How do people move up (or down) in political power?**
-
-Birth? Achievement? Magical ability? Wealth? Military service? Marriage?
+How do people move up or down in political power? Birth? Achievement? Magical ability? Wealth? Military service? Marriage?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What positions exist that matter for your story?**
+What positions exist that matter for your story?
 
 | Position | Power They Hold | Who Currently Holds It |
 |----------|-----------------|----------------------|
@@ -4749,7 +4731,7 @@ _______________________________________________________________
 
 If magic exists, it interacts with political power. Who has magic affects who rules.
 
-**How does magic relate to political authority?**
+How does magic relate to political authority?
 
 | Dynamic | How It Works |
 |---------|--------------|
@@ -4765,7 +4747,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Who controls access to magical power?**
+Who controls access to magical power?
 
 | Aspect | Details |
 |--------|---------|
@@ -4773,9 +4755,7 @@ _______________________________________________________________
 | Who controls training/access? | |
 | Can magical power be taken away? | |
 
-**What laws govern magic use?**
-
-What's forbidden? What's required? What's regulated?
+What laws govern magic use? What's forbidden? What's required? What's regulated?
 
 _______________________________________________________________
 
@@ -4787,9 +4767,9 @@ _______________________________________________________________
 
 ## Factions & Political Groups
 
-Most political systems have competing factions — groups with different goals who struggle for power and influence.
+Most political systems have competing factions—groups with different goals who struggle for power and influence.
 
-**What major factions exist?**
+What major factions exist?
 
 | Faction | What They Want | Who Leads Them | Their Power Base |
 |---------|---------------|----------------|------------------|
@@ -4798,15 +4778,13 @@ Most political systems have competing factions — groups with different goals w
 | | | | |
 | | | | |
 
-**How do factions compete?**
-
-Court intrigue? Elections? Military power? Economic pressure? Magical conflict?
+How do factions compete? Court intrigue? Elections? Military power? Economic pressure? Magical conflict?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Is there current factional conflict that affects your story?**
+Is there current factional conflict that affects your story?
 
 _______________________________________________________________
 
@@ -4816,7 +4794,7 @@ _______________________________________________________________
 
 ## War & Military
 
-**What's the current state of conflict?**
+What's the current state of conflict?
 
 | State | Description |
 |-------|-------------|
@@ -4830,13 +4808,13 @@ Which describes your world?
 
 _______________________________________________________________
 
-**Who are potential or actual enemies?**
+Who are potential or actual enemies?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How does the military work?**
+How does the military work?
 
 | Aspect | Details |
 |--------|---------|
@@ -4853,33 +4831,21 @@ _______________________________________________________________
 
 ## How to Think About Politics in Romantasy
 
-Politics in romantasy functions as **external pressure** — forces beyond your characters' control that forbid, compel, or complicate their relationship. Unlike internal obstacles (fear, trust issues, personal history), political obstacles exist whether your characters want them to or not.
+Politics in romantasy functions as external pressure—forces beyond your characters' control that forbid, compel, or complicate their relationship. Unlike internal obstacles like fear, trust issues, or personal history, political obstacles exist whether your characters want them to or not.
 
-Political pressure works on romance in three ways:
+Political pressure works on romance in three ways.
 
 ### Politics as Prohibition
 
-Laws and political structures that forbid the relationship:
-- Marriage laws that make their union illegal
-- Class systems that make their relationship scandalous
-- Species laws that criminalize their love
-- Political enemies who cannot be seen to fraternize
+Laws and political structures that forbid the relationship. Marriage laws that make their union illegal. Class systems that make their relationship scandalous. Species laws that criminalize their love. Political enemies who cannot be seen to fraternize.
 
 ### Politics as Compulsion
 
-Political forces that push characters together against their will:
-- Arranged marriages for alliance or peace
-- Political necessity requiring cooperation
-- Shared enemies creating forced alliance
-- Diplomatic situations demanding proximity
+Political forces that push characters together against their will. Arranged marriages for alliance or peace. Political necessity requiring cooperation. Shared enemies creating forced alliance. Diplomatic situations demanding proximity.
 
 ### Politics as Stakes
 
-What characters risk by pursuing the relationship:
-- Execution, imprisonment, exile for illegal unions
-- Loss of title, inheritance, political position
-- War, broken treaties, political chaos
-- Harm to family, faction, or nation
+What characters risk by pursuing the relationship. Execution, imprisonment, exile for illegal unions. Loss of title, inheritance, or political position. War, broken treaties, political chaos. Harm to family, faction, or nation.
 
 The most compelling political obstacles are ones characters can't simply ignore or talk their way out of. The law doesn't care that they're in love. The war doesn't pause for their feelings. The political marriage is happening whether they want it or not.
 
@@ -4916,43 +4882,43 @@ The most compelling political obstacles are ones characters can't simply ignore 
 
 ### Mistake #1: The Toothless Law
 
-**What it looks like:** There's a law against their relationship, but no one actually enforces it. They're "forbidden" but face no real consequences for being together.
+There's a law against their relationship, but no one actually enforces it. They're "forbidden" but face no real consequences for being together.
 
-**Why it hurts your romance:** Forbidden love only matters if the forbidding has teeth. Stakes require real threat.
+This hurts your romance because forbidden love only matters if the forbidding has teeth. Stakes require real threat.
 
-**How to fix it:** Show enforcement. Someone else has been punished for this transgression. Authority figures actively watch for violations. Getting caught would mean concrete, serious consequences.
+Show enforcement. Someone else has been punished for this transgression. Authority figures actively watch for violations. Getting caught would mean concrete, serious consequences.
 
 ### Mistake #2: The Easily Escaped Arrangement
 
-**What it looks like:** One character is in an arranged marriage, but they can simply refuse, or the arrangement falls apart conveniently, or the other betrothed is cartoonishly evil so breaking the arrangement is obviously right.
+One character is in an arranged marriage, but they can simply refuse, or the arrangement falls apart conveniently, or the other betrothed is cartoonishly evil so breaking the arrangement is obviously right.
 
-**Why it hurts your romance:** Arranged marriage tension requires the arrangement to be genuinely binding, with genuine costs for breaking it.
+This hurts your romance because arranged marriage tension requires the arrangement to be genuinely binding, with genuine costs for breaking it.
 
-**How to fix it:** Make the arrangement matter. Breaking it means war, family ruin, or personal destruction. Make the other betrothed decent enough that refusing them isn't obviously correct. Make the choice genuinely hard.
+Make the arrangement matter. Breaking it means war, family ruin, or personal destruction. Make the other betrothed decent enough that refusing them isn't obviously correct. Make the choice genuinely hard.
 
 ### Mistake #3: The Vague Politics
 
-**What it looks like:** There's political conflict, but it's unclear what anyone actually wants, what the stakes are, or why it matters. Characters are "enemies" for unclear reasons.
+There's political conflict, but it's unclear what anyone actually wants, what the stakes are, or why it matters. Characters are "enemies" for unclear reasons.
 
-**Why it hurts your romance:** If readers don't understand the political situation, they can't feel the pressure it creates.
+This hurts your romance because if readers don't understand the political situation, they can't feel the pressure it creates.
 
-**How to fix it:** Be specific. Who wants what? Why can't both sides have it? What happens if one side wins? Ground the political conflict in concrete goals and consequences.
+Be specific. Who wants what? Why can't both sides have it? What happens if one side wins? Ground the political conflict in concrete goals and consequences.
 
 ### Mistake #4: The Politics That Pause for Romance
 
-**What it looks like:** Serious political conflicts (war, succession crisis, political conspiracy) somehow stop mattering when the romance heats up. External pressure disappears when it's inconvenient for the love story.
+Serious political conflicts like war, succession crises, and political conspiracies somehow stop mattering when the romance heats up. External pressure disappears when it's inconvenient for the love story.
 
-**Why it hurts your romance:** It breaks immersion and makes stakes feel fake.
+This hurts your romance because it breaks immersion and makes stakes feel fake.
 
-**How to fix it:** Politics should intensify during the romance, not pause. The war keeps happening. The conspiracy keeps threatening. The pressure doesn't let up just because they're falling in love.
+Politics should intensify during the romance, not pause. The war keeps happening. The conspiracy keeps threatening. The pressure doesn't let up just because they're falling in love.
 
 ### Mistake #5: The Unearned Enemy-to-Lover
 
-**What it looks like:** Characters are supposed to be enemies, but their enmity is based on misunderstanding, mild rudeness, or conflict that evaporates once they talk. They were never really enemies.
+Characters are supposed to be enemies, but their enmity is based on misunderstanding, mild rudeness, or conflict that evaporates once they talk. They were never really enemies.
 
-**Why it hurts your romance:** True enemies-to-lovers requires genuine enmity that must be overcome, not misunderstanding that must be cleared up.
+This hurts your romance because true enemies-to-lovers requires genuine enmity that must be overcome, not misunderstanding that must be cleared up.
 
-**How to fix it:** Build real reasons for enmity. Their peoples have done real harm to each other. Their goals genuinely conflict. They have legitimate grievances. Then make them reckon with that, not just discover they were wrong.
+Build real reasons for enmity. Their peoples have done real harm to each other. Their goals genuinely conflict. They have legitimate grievances. Then make them reckon with that, not just discover they were wrong.
 
 ---
 
@@ -4960,9 +4926,7 @@ The most compelling political obstacles are ones characters can't simply ignore 
 
 Before you can understand how politics affects your romance, you need to know who makes decisions and how.
 
-**What form of government exists in your world?**
-
-Common options: monarchy (absolute, constitutional, hereditary, elected), theocracy, magocracy, oligarchy, democracy, empire, feudal system, tribal confederation, council, or dual systems where magical and mundane authorities coexist.
+What form of government exists in your world? Common options include monarchy (absolute, constitutional, hereditary, elected), theocracy, magocracy, oligarchy, democracy, empire, feudal system, tribal confederation, council, or dual systems where magical and mundane authorities coexist.
 
 _______________________________________________________________
 
@@ -4970,19 +4934,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Who currently holds power?**
-
-Be specific — name or title:
+Who currently holds power? Be specific with name or title.
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How did they gain power?**
-
-This matters because it reveals what they fear losing:
-
-Inheritance (fears other heirs, revolution), conquest (fears being conquered), election (fears losing support), magical strength (fears stronger mage), divine right (fears religious challengers), coup (fears the same), marriage alliance (fears spouse's family).
+How did they gain power? This matters because it reveals what they fear losing. Inheritance makes them fear other heirs and revolution. Conquest makes them fear being conquered. Election makes them fear losing support. Magical strength makes them fear a stronger mage.
 
 _______________________________________________________________
 
@@ -4990,9 +4948,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How do they maintain power?**
-
-Military force? Magic? Religion? Economic control? Information and spies? Fear? Legitimacy and tradition?
+How do they maintain power? Military force? Magic? Religion? Economic control? Information and spies? Fear? Legitimacy and tradition?
 
 _______________________________________________________________
 
@@ -5000,9 +4956,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What threatens their rule?**
-
-Every power structure has cracks. Rival claimants? Popular unrest? External enemies? Succession crisis? Prophecy?
+What threatens their rule? Every power structure has cracks. Rival claimants? Popular unrest? External enemies? Succession crisis? Prophecy?
 
 _______________________________________________________________
 
@@ -5010,9 +4964,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does this instability affect your romance?**
-
-Are your characters on opposite sides? Could their union stabilize or destabilize the realm? Would their relationship be used as a political weapon?
+How does this instability affect your romance? Are your characters on opposite sides? Could their union stabilize or destabilize the realm? Would their relationship be used as a political weapon?
 
 _______________________________________________________________
 
@@ -5026,9 +4978,7 @@ _______________________________________________________________
 
 If magic exists, it must affect politics. Who has magic affects who has power.
 
-**Who controls access to magic?**
-
-Is it hereditary (bloodlines hold power)? Learned (those controlling education hold power)? Granted by deities (those controlling access hold power)? Random (those who find and control magic-users hold power)?
+Who controls access to magic? Is it hereditary, so bloodlines hold power? Learned, so those controlling education hold power? Granted by deities, so those controlling access hold power? Random, so those who find and control magic-users hold power?
 
 _______________________________________________________________
 
@@ -5036,13 +4986,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Do mages rule, serve rulers, or oppose rulers?**
+Do mages rule, serve rulers, or oppose rulers?
 
-**Mages rule (magocracy):** How do non-mages fit in? What happens to weak mages?
-
-**Mages serve:** Are they conscripted, employed, or enslaved? What happens to those who refuse?
-
-**Mages are controlled:** What laws restrict magic? How are mages tracked or eliminated?
+If mages rule in a magocracy, how do non-mages fit in? What happens to weak mages? If mages serve, are they conscripted, employed, or enslaved? What happens to those who refuse? If mages are controlled, what laws restrict magic? How are mages tracked or eliminated?
 
 Which dynamic exists, and how does it affect your characters?
 
@@ -5052,7 +4998,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**If one character has magic and the other doesn't, how does this affect their political standing?**
+If one character has magic and the other doesn't, how does this affect their political standing?
 
 _______________________________________________________________
 
@@ -5060,9 +5006,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Could your characters' relationship threaten the magical power structure?**
-
-Mixing bloodlines? Teaching forbidden magic? Creating a dangerous bond? Fulfilling or defying prophecy?
+Could your characters' relationship threaten the magical power structure? Mixing bloodlines? Teaching forbidden magic? Creating a dangerous bond? Fulfilling or defying prophecy?
 
 _______________________________________________________________
 
@@ -5076,11 +5020,9 @@ _______________________________________________________________
 
 In romantasy, marriage law is often the primary legal obstacle. Understanding what's legal, what's forbidden, and what the consequences are tells you exactly what your characters are up against.
 
-Marriage laws exist for reasons — usually to preserve power structures, control inheritance, maintain class or species boundaries, or serve religious doctrine. Knowing *why* the law exists helps you understand how rigid it is and what challenging it would mean.
+Marriage laws exist for reasons—usually to preserve power structures, control inheritance, maintain class or species boundaries, or serve religious doctrine. Knowing *why* the law exists helps you understand how rigid it is and what challenging it would mean.
 
-**Who can legally marry whom?**
-
-Consider restrictions based on class, species, magical status, gender, family, religion, age, political status:
+Who can legally marry whom? Consider restrictions based on class, species, magical status, gender, family, religion, age, or political status.
 
 _______________________________________________________________
 
@@ -5088,9 +5030,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Why do these restrictions exist?**
-
-Give a reason — even if it's a bad one. Magical danger? Political control? Religious doctrine? Maintaining class system? Historical catastrophe blamed on forbidden unions?
+Why do these restrictions exist? Give a reason, even if it's a bad one. Magical danger? Political control? Religious doctrine? Maintaining the class system? Historical catastrophe blamed on forbidden unions?
 
 _______________________________________________________________
 
@@ -5098,9 +5038,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What makes a marriage legal and binding?**
-
-Religious ceremony? Legal contract? Magical binding? Consummation? Public declaration? Parental consent? Royal approval?
+What makes a marriage legal and binding? Religious ceremony? Legal contract? Magical binding? Consummation? Public declaration? Parental consent? Royal approval?
 
 _______________________________________________________________
 
@@ -5108,17 +5046,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Can marriages be dissolved?**
-
-Divorce allowed? Annulment possible? Magical bonds breakable? Or is marriage permanent?
+Can marriages be dissolved? Is divorce allowed? Annulment possible? Magical bonds breakable? Or is marriage permanent?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What are the consequences of an illegal marriage?**
-
-Criminal (execution, imprisonment, exile)? Social (loss of title, disownment)? Magical (loss of power, curse)? Political (loss of succession rights, treaty violation)?
+What are the consequences of an illegal marriage? Criminal consequences like execution, imprisonment, or exile? Social consequences like loss of title or disownment? Magical consequences like loss of power or a curse? Political consequences like loss of succession rights or treaty violation?
 
 _______________________________________________________________
 
@@ -5138,9 +5072,7 @@ Class also shapes identity in ways that don't disappear when you fall in love. T
 
 The most interesting class-gap romances don't pretend love erases difference. They show characters navigating real gaps in experience and assumption, finding ways to bridge worlds without pretending the worlds are the same.
 
-**What social hierarchy exists?**
-
-Map it from highest to lowest, including what determines class (birth, wealth, magic, achievement):
+What social hierarchy exists? Map it from highest to lowest, including what determines class (birth, wealth, magic, achievement).
 
 _______________________________________________________________
 
@@ -5150,22 +5082,18 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Where do your characters fall?**
+Where do your characters fall?
 
 | Character | Class Position | Example (Serpent & Dove) |
 |-----------|----------------|-------------------------|
 | Protagonist | | *Witch (criminal class) — beneath even peasants in the eyes of law, hunted and killed on sight* |
 | Love Interest | | *Chasseur Captain — military-religious elite, second only to the Archbishop, respected and feared* |
 
-**How many ranks separate them?**
-
-Same class? One or two apart (scandalous but navigable)? Extreme gap (servant/royal)?
+How many ranks separate them? Same class? One or two apart (scandalous but navigable)? Extreme gap (servant/royal)?
 
 _______________________________________________________________
 
-**What laws enforce class separation?**
-
-Restricted spaces? Forbidden interactions? What happens if someone acts "above their station"?
+What laws enforce class separation? Restricted spaces? Forbidden interactions? What happens if someone acts "above their station"?
 
 _______________________________________________________________
 
@@ -5173,9 +5101,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What social consequences exist for cross-class relationships?**
-
-Loss of status? Disownment? Social isolation?
+What social consequences exist for cross-class relationships? Loss of status? Disownment? Social isolation?
 
 _______________________________________________________________
 
