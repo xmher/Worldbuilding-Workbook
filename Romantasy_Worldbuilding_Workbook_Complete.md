@@ -5586,9 +5586,7 @@ _______________________________________________________________
 
 War leaves marks that don't heal. If your characters have experienced combat, that experience shapes who they are and how they relate to others.
 
-**Has either character killed in war?**
-
-If yes:
+Has either character killed in war? If yes, fill in the following.
 
 | Aspect | Details |
 |--------|---------|
@@ -5596,30 +5594,26 @@ If yes:
 | Circumstances | |
 | How it affects them | |
 
-**Has either character lost someone to the conflict?**
+Has either character lost someone to the conflict?
 
 | Aspect | Details |
 |--------|---------|
 | Who was lost and how | |
 | How it shapes them | |
 
-**Is there blood between their peoples that can't be easily forgiven?**
-
-Atrocities, massacres, betrayals during the conflict:
+Is there blood between their peoples that can't be easily forgiven? Atrocities, massacres, betrayals during the conflict?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Does one character bear responsibility (personally or ancestrally) for violence against the other's people?**
+Does one character bear responsibility (personally or ancestrally) for violence against the other's people?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How do they navigate this?**
-
-Can there be forgiveness? Understanding? Or is this wound too deep?
+How do they navigate this? Can there be forgiveness? Understanding? Or is this wound too deep?
 
 _______________________________________________________________
 
@@ -5629,25 +5623,19 @@ _______________________________________________________________
 
 ### Desertion & Defection
 
-**What happens to deserters in your world?**
-
-Execution? Imprisonment? Exile? Branded? Hunted?
+What happens to deserters in your world? Execution? Imprisonment? Exile? Branded? Hunted?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Could either character desert or defect for the relationship?**
-
-What would push them to it? What would they lose?
+Could either character desert or defect for the relationship? What would push them to it? What would they lose?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**If one defects to the other's side, how are they received?**
-
-Welcomed? Suspected? Used for information then discarded? Tested?
+If one defects to the other's side, how are they received? Welcomed? Suspected? Used for information then discarded? Tested?
 
 _______________________________________________________________
 
@@ -5655,50 +5643,42 @@ _______________________________________________________________
 
 ### War's End
 
-**How might the conflict end?**
-
-Victory for one side? Negotiated peace? Exhaustion? Outside intervention?
+How might the conflict end? Victory for one side? Negotiated peace? Exhaustion? Outside intervention?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Could your characters' relationship play a role in ending the conflict?**
-
-Symbol of unity? Marriage alliance? Proof that peace is possible?
+Could your characters' relationship play a role in ending the conflict? Symbol of unity? Marriage alliance? Proof that peace is possible?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What would peace cost?**
-
-What would each side have to give up or accept?
+What would peace cost? What would each side have to give up or accept?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**In peacetime, could they be together openly — or would old hatreds persist?**
+In peacetime, could they be together openly—or would old hatreds persist?
 
 _______________________________________________________________
 
 _______________________________________________________________
 ## Enemies to Lovers: Building Genuine Enmity
 
-"Enemies to lovers" is one of the most popular romance tropes — and one of the most frequently underbuilt. Too often, the "enemies" are just people who bicker, or who dislike each other for reasons that evaporate the moment attraction becomes undeniable.
+"Enemies to lovers" is one of the most popular romance tropes—and one of the most frequently underbuilt. Too often, the "enemies" are just people who bicker, or who dislike each other for reasons that evaporate the moment attraction becomes undeniable.
 
-Real enemies-to-lovers requires *worldbuilding* that creates genuine enmity. Not misunderstanding. Not "he was rude to me once." Real, structural reasons why these two people should hate each other — reasons rooted in the world itself.
+Real enemies-to-lovers requires *worldbuilding* that creates genuine enmity. Not misunderstanding. Not "he was rude to me once." Real, structural reasons why these two people should hate each other—reasons rooted in the world itself.
 
-The key distinction: **Misunderstanding creates obstacles that dissolve once cleared up. Genuine enmity creates obstacles that require sacrifice, growth, or transformation to overcome.**
+The key distinction is this: misunderstanding creates obstacles that dissolve once cleared up. Genuine enmity creates obstacles that require sacrifice, growth, or transformation to overcome.
 
-What makes enemies-to-lovers satisfying is watching two people reckon with real grievances, not discover they never had any. The love that emerges from genuine enmity is hard-won, requiring characters to question everything they believed, forgive what seemed unforgivable, and choose each other over their own people. That's the payoff readers want — and it only works if the enmity was real to begin with.
+What makes enemies-to-lovers satisfying is watching two people reckon with real grievances, not discover they never had any. The love that emerges from genuine enmity is hard-won, requiring characters to question everything they believed, forgive what seemed unforgivable, and choose each other over their own people. That's the payoff readers want—and it only works if the enmity was real to begin with.
 
 ### The Foundation: Why Are They Actually Enemies?
 
-**Which of these creates the conflict between your characters?**
-
-Check all that apply and note specifics:
+Which of these creates the conflict between your characters? Check all that apply and note specifics.
 
 ☐ **Opposing sides of a war or conflict**
 They or their peoples are literally trying to kill each other.
@@ -5756,25 +5736,17 @@ Specifics: ______________________________________________________
 
 _______________________________________________________________
 
-**How many of these apply to your story?**
-
-1: You have a foundation. Consider whether it's strong enough.
-2-3: Good complexity. Multiple layers of conflict.
-4+: Rich enmity, but make sure it's not insurmountable.
+How many of these apply to your story? If only one, you have a foundation—consider whether it's strong enough. Two to three gives you good complexity with multiple layers of conflict. Four or more creates rich enmity, but make sure it's not insurmountable.
 
 ### The Legitimacy Test
 
-**Could a reasonable person, knowing what your protagonist knows, hate your love interest?**
-
-Not just dislike — *hate*. If the answer is no, your enmity isn't strong enough.
+Could a reasonable person, knowing what your protagonist knows, hate your love interest? Not just dislike—*hate*. If the answer is no, your enmity isn't strong enough.
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Could a reasonable person, knowing what your love interest knows, hate your protagonist?**
-
-Enemies to lovers works best when both have legitimate grievances.
+Could a reasonable person, knowing what your love interest knows, hate your protagonist? Enemies to lovers works best when both have legitimate grievances.
 
 _______________________________________________________________
 
@@ -5782,13 +5754,11 @@ _______________________________________________________________
 
 ### Types of Political Enmity
 
-**Historical Enemies**
+### Historical Enemies
 
-Sometimes the conflict predates your characters — they inherited it.
+Sometimes the conflict predates your characters—they inherited it.
 
-**What historical wrong exists between their peoples?**
-
-Conquest? Massacre? Betrayal? Enslavement? Theft of land or magic?
+What historical wrong exists between their peoples? Conquest? Massacre? Betrayal? Enslavement? Theft of land or magic?
 
 _______________________________________________________________
 
@@ -5796,31 +5766,23 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Who did what to whom?**
-
-Be specific. Vague "ancient grudge" isn't enough.
+Who did what to whom? Be specific. Vague "ancient grudge" isn't enough.
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How recent is this history?**
-
-Living memory? Grandparents' time? Centuries ago but never forgotten?
+How recent is this history? Living memory? Grandparents' time? Centuries ago but never forgotten?
 
 _______________________________________________________________
 
-**What evidence of this history remains?**
-
-Scars on the land, displaced peoples, stolen artifacts, suppressed culture, ongoing inequality?
+What evidence of this history remains? Scars on the land, displaced peoples, stolen artifacts, suppressed culture, ongoing inequality?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How does each character relate to this history?**
-
-Do they feel personal guilt/grievance, or do they see it as "the past"?
+How does each character relate to this history? Do they feel personal guilt or grievance, or do they see it as "the past"?
 
 | Character | Relationship to Historical Wrong |
 |-----------|----------------------------------|
@@ -5829,11 +5791,11 @@ Do they feel personal guilt/grievance, or do they see it as "the past"?
 
 ---
 
-**Personal Enemies**
+### Personal Enemies
 
 The most intense enmity: one has directly harmed the other.
 
-**What did one character do to the other (or their loved ones)?**
+What did one character do to the other or their loved ones?
 
 _______________________________________________________________
 
@@ -5841,27 +5803,23 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Was it intentional, justified (in their mind), or accidental?**
+Was it intentional, justified in their mind, or accidental?
 
 _______________________________________________________________
 
-**Does the one who caused harm feel guilty, justified, or conflicted?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What would justice look like to the wronged party?**
-
-Death? Confession? Reparation? There's no path forward without addressing this.
+Does the one who caused harm feel guilty, justified, or conflicted?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Can this harm actually be forgiven?**
+What would justice look like to the wronged party? Death? Confession? Reparation? There's no path forward without addressing this.
 
-Some things can't be — and pretending otherwise insults readers. If one killed the other's family, "sorry" doesn't cut it.
+_______________________________________________________________
+
+_______________________________________________________________
+
+Can this harm actually be forgiven? Some things can't be—and pretending otherwise insults readers. If one killed the other's family, "sorry" doesn't cut it.
 
 _______________________________________________________________
 
@@ -5869,31 +5827,25 @@ _______________________________________________________________
 
 ---
 
-**Ideological Enemies**
+### Ideological Enemies
 
 Sometimes they're enemies because they believe fundamentally different things about how the world should work.
 
-**What does each character believe that the other finds repugnant?**
+What does each character believe that the other finds repugnant?
 
 | Character | Belief the Other Finds Repugnant |
 |-----------|----------------------------------|
 | Protagonist | |
 | Love Interest | |
 
-**Why does each believe this?**
-
-Not just "they were raised that way" — what experiences, evidence, or reasoning supports their view?
+Why does each believe this? Not just "they were raised that way"—what experiences, evidence, or reasoning supports their view?
 
 | Character | Reasoning Behind Their Belief |
 |-----------|------------------------------|
 | Protagonist | |
 | Love Interest | |
 
-**Is either belief clearly wrong?**
-
-If so, the story is about one character learning they were wrong — which is fine, but different from true ideological conflict.
-
-If both views have merit, the story is about synthesis or accepting difference — more complex.
+Is either belief clearly wrong? If so, the story is about one character learning they were wrong—which is fine, but different from true ideological conflict. If both views have merit, the story is about synthesis or accepting difference—more complex.
 
 _______________________________________________________________
 
@@ -5903,13 +5855,11 @@ _______________________________________________________________
 
 The journey from enmity to love requires specific beats: the crack in assumptions, the glimpse of complexity, the understanding that doesn't mean agreement, the choice that costs something.
 
-**The Crack in the Armor**
+### The Crack in the Armor
 
 At some point, one character does something that doesn't fit the other's understanding of who they are.
 
-**What does the love interest do that surprises the protagonist?**
-
-An act of kindness, mercy, honor, or vulnerability they weren't expecting:
+What does the love interest do that surprises the protagonist? An act of kindness, mercy, honor, or vulnerability they weren't expecting?
 
 _______________________________________________________________
 
@@ -5917,15 +5867,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does the protagonist explain this to themselves initially?**
-
-Rationalize it? Distrust it? Assume ulterior motive?
+How does the protagonist explain this to themselves initially? Rationalize it? Distrust it? Assume ulterior motive?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What does the protagonist do that surprises the love interest?**
+What does the protagonist do that surprises the love interest?
 
 _______________________________________________________________
 
@@ -5933,7 +5881,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does the love interest initially explain this?**
+How does the love interest initially explain this?
 
 _______________________________________________________________
 
