@@ -5889,13 +5889,11 @@ _______________________________________________________________
 
 ---
 
-**Seeing Through Their Eyes**
+### Seeing Through Their Eyes
 
-The turning point in enemies-to-lovers is usually when one character genuinely understands the other's perspective — not agrees with it, but *understands* why they believe what they believe.
+The turning point in enemies-to-lovers is usually when one character genuinely understands the other's perspective—not agrees with it, but *understands* why they believe what they believe.
 
-**What does the protagonist learn about why the love interest is the way they are?**
-
-Not excuses — context. The experiences, pressures, or reasoning behind their position.
+What does the protagonist learn about why the love interest is the way they are? Not excuses—context. The experiences, pressures, or reasoning behind their position.
 
 _______________________________________________________________
 
@@ -5903,15 +5901,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does this knowledge change the protagonist's view?**
-
-They don't have to agree. But do they understand?
+How does this knowledge change the protagonist's view? They don't have to agree. But do they understand?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What does the love interest learn about the protagonist's perspective?**
+What does the love interest learn about the protagonist's perspective?
 
 _______________________________________________________________
 
@@ -5919,7 +5915,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does this change them?**
+How does this change them?
 
 _______________________________________________________________
 
@@ -5927,31 +5923,29 @@ _______________________________________________________________
 
 ---
 
-**The Point of No Return**
+### The Point of No Return
 
 At some point, each character has to choose the relationship over their "side." This is the real test.
 
-**What does the protagonist do that their side would consider betrayal?**
-
-Not just "has feelings" — an action that crosses a line.
+What does the protagonist do that their side would consider betrayal? Not just "has feelings"—an action that crosses a line.
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What does this cost them?**
+What does this cost them?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What does the love interest do that their side would consider betrayal?**
+What does the love interest do that their side would consider betrayal?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What does this cost them?**
+What does this cost them?
 
 _______________________________________________________________
 
@@ -5961,45 +5955,41 @@ _______________________________________________________________
 
 At some point, they have to actually address the reason they were enemies. Not avoid it. Not "that's in the past." Actually talk about it.
 
-**The Conversation That Has to Happen**
+### The Conversation That Has to Happen
 
-**What specifically needs to be addressed?**
-
-The historical wrong, the personal injury, the ideological divide — name it:
+What specifically needs to be addressed? The historical wrong, the personal injury, the ideological divide—name it.
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Who brings it up?**
-
-The one who was wronged? The one who caused harm? Does it happen naturally or get forced?
+Who brings it up? The one who was wronged? The one who caused harm? Does it happen naturally or get forced?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What does each character need to say?**
+What does each character need to say?
 
 | Character | What They Need to Say |
 |-----------|----------------------|
 | Protagonist | |
 | Love Interest | |
 
-**What does each need to hear?**
+What does each need to hear?
 
 | Character | What They Need to Hear |
 |-----------|----------------------|
 | Protagonist | |
 | Love Interest | |
 
-**Is there an apology? Is it sufficient?**
+Is there an apology? Is it sufficient?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Is there forgiveness? Is it earned?**
+Is there forgiveness? Is it earned?
 
 _______________________________________________________________
 
@@ -6007,25 +5997,23 @@ _______________________________________________________________
 
 ---
 
-**What Can't Be Fixed**
+### What Can't Be Fixed
 
 Some harms can't be undone. Some losses are permanent. Good enemies-to-lovers acknowledges this.
 
-**What damage from their enmity is permanent?**
-
-Lives lost, time wasted, trust that can never be fully restored:
+What damage from their enmity is permanent? Lives lost, time wasted, trust that can never be fully restored?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How do they live with what can't be fixed?**
+How do they live with what can't be fixed?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Is there anything one can do to make amends — even if it can't undo the harm?**
+Is there anything one can do to make amends—even if it can't undo the harm?
 
 _______________________________________________________________
 
@@ -6033,37 +6021,31 @@ _______________________________________________________________
 
 ### The Stakes of Reconciliation
 
-**If they choose each other, what does the protagonist lose?**
-
-Community, family, identity, safety, purpose:
+If they choose each other, what does the protagonist lose? Community, family, identity, safety, purpose?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What does the love interest lose?**
+What does the love interest lose?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Are these losses worth it?**
-
-The answer should be "yes, but barely" — the cost should be real enough that choosing each other means something.
+Are these losses worth it? The answer should be "yes, but barely"—the cost should be real enough that choosing each other means something.
 
 _______________________________________________________________
 
 ### World Impact
 
-**Does their relationship affect the larger conflict?**
-
-Symbol of peace? Proof that reconciliation is possible? Catalyst for change? Or just two people who found each other despite everything?
+Does their relationship affect the larger conflict? Symbol of peace? Proof that reconciliation is possible? Catalyst for change? Or just two people who found each other despite everything?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How do others react to their relationship?**
+How do others react to their relationship?
 
 | Side | Reaction |
 |------|----------|
@@ -6072,29 +6054,21 @@ _______________________________________________________________
 
 ### Common Enemies-to-Lovers Pitfalls
 
-Use this as a checklist to make sure your enmity is strong enough:
+Use this as a checklist to make sure your enmity is strong enough.
 
-**Check: Is your enmity based primarily on misunderstanding?**
-
-If clearing up one misunderstanding would dissolve the conflict, you don't have enemies-to-lovers — you have miscommunication romance. That's fine, but it's a different trope.
+Is your enmity based primarily on misunderstanding? If clearing up one misunderstanding would dissolve the conflict, you don't have enemies-to-lovers—you have miscommunication romance. That's fine, but it's a different trope.
 
 _______________________________________________________________
 
-**Check: Does attraction make them forget their legitimate grievances?**
-
-Enemies shouldn't stop being enemies just because they find each other hot. Physical attraction while maintaining genuine conflict is part of the tension.
+Does attraction make them forget their legitimate grievances? Enemies shouldn't stop being enemies just because they find each other hot. Physical attraction while maintaining genuine conflict is part of the tension.
 
 _______________________________________________________________
 
-**Check: Do they ever actually address the reason they were enemies?**
-
-If they just fall in love and the conflict is never discussed, resolved, or reckoned with, the ending feels unearned.
+Do they ever actually address the reason they were enemies? If they just fall in love and the conflict is never discussed, resolved, or reckoned with, the ending feels unearned.
 
 _______________________________________________________________
 
-**Check: Does falling in love make either character unrecognizable?**
-
-They can change, but they shouldn't become entirely different people. The stern commander can soften without becoming a puppy.
+Does falling in love make either character unrecognizable? They can change, but they shouldn't become entirely different people. The stern commander can soften without becoming a puppy.
 
 _______________________________________________________________
 
@@ -6104,35 +6078,33 @@ _______________________________________________________________
 
 If your characters are part of powerful families, succession affects the romance. Who they marry, whether they produce heirs, and what bloodlines they mix all have political consequences.
 
-**What does each character stand to inherit?**
+What does each character stand to inherit?
 
 | Character | Inheritance |
 |-----------|-------------|
 | Protagonist | |
 | Love Interest | |
 
-**How does their relationship affect inheritance?**
-
-Marrying wrong costs inheritance? They must marry to inherit? Their union combines inheritances?
+How does their relationship affect inheritance? Does marrying wrong cost inheritance? Must they marry to inherit? Does their union combine inheritances?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Is either expected to produce an heir?**
+Is either expected to produce an heir?
 
 | Aspect | Details |
 |--------|---------|
 | Timeline | |
 | What happens if they don't | |
 
-**If they're different species or one is sterile, how does this affect heir requirements?**
+If they're different species or one is sterile, how does this affect heir requirements?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Could their relationship cause or solve a succession crisis?**
+Could their relationship cause or solve a succession crisis?
 
 _______________________________________________________________
 
@@ -6144,39 +6116,31 @@ _______________________________________________________________
 
 Sometimes the system itself is the antagonist. The laws are unjust. The government is oppressive. The only way to be together is to change the world.
 
-**Are there legal means to change the laws keeping them apart?**
-
-Appealing for exception? Changing laws politically? Waiting for a new ruler? Finding loopholes?
+Are there legal means to change the laws keeping them apart? Appealing for exception? Changing laws politically? Waiting for a new ruler? Finding loopholes?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**If peaceful change is impossible, what would revolution look like?**
+If peaceful change is impossible, what would revolution look like?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Would your characters join or lead a revolution?**
-
-What would push them from surviving the system to fighting it?
+Would your characters join or lead a revolution? What would push them from surviving the system to fighting it?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What would they sacrifice to change the system?**
-
-Safety? Family? Status? Each other?
+What would they sacrifice to change the system? Safety? Family? Status? Each other?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What's lost even if they win?**
-
-Revolution isn't clean. Lives lost? Stability destroyed? Becoming what they fought?
+What's lost even if they win? Revolution isn't clean. Lives lost? Stability destroyed? Becoming what they fought?
 
 _______________________________________________________________
 
@@ -6197,18 +6161,13 @@ _______________________________________________________________
 
 ## The Core Political Obstacle
 
-**In one sentence, what is the primary political obstacle keeping your characters apart?**
+In one sentence, what is the primary political obstacle keeping your characters apart?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How can this obstacle be overcome?**
-
-- Changing who they are (gaining status, power, different identity)
-- Changing the system (reform or revolution)
-- Escaping the system (running away, exile)
-- Accepting consequences (being together despite the cost)
+How can this obstacle be overcome? Consider whether they need to change who they are by gaining status, power, or a different identity. Or they might change the system through reform or revolution. They could escape the system through running away or exile. Or they might accept consequences and be together despite the cost.
 
 Which path do your characters take?
 
@@ -6216,9 +6175,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**When does the political obstacle force a choice?**
-
-The crisis point when they can no longer avoid confronting it:
+When does the political obstacle force a choice? What's the crisis point when they can no longer avoid confronting it?
 
 _______________________________________________________________
 
