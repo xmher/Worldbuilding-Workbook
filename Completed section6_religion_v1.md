@@ -32,18 +32,22 @@ Not every question will apply to your story. **Skip what doesn't.**
 
 The first question: What higher powers exist in your world, and are they real?
 
+This matters enormously for your story. If gods are confirmed and active, "faith" isn't really faith — it's acknowledgment of fact. Characters can't genuinely doubt when miracles happen regularly. If gods are uncertain or absent, characters can struggle with belief itself, not just obedience.
+
 ### Types of Divine Systems
 
-| Type | How It Works | Common Features |
-|------|--------------|-----------------|
-| **Monotheism** | One supreme deity | Clear moral law; heresy more serious |
-| **Polytheism** | Multiple gods with different domains | Gods can conflict; choose your patron |
-| **Dualism** | Two opposing forces (good/evil, order/chaos) | Cosmic war; choosing sides |
-| **Animism** | Spirits in nature, ancestors, places | Local sacred sites; honoring the dead |
-| **Confirmed gods** | Deities actively manifest and intervene | Faith isn't faith — it's fact |
-| **Absent gods** | Gods existed once but are gone/silent | Seeking lost divinity; doubt vs. tradition |
-| **Ambiguous** | Faith without proof; gods may or may not exist | Room for doubt; faith as choice |
-| **Atheistic** | No gods; religion is cultural/social | Focus on community and tradition |
+Different theological structures create different story possibilities. A world with many gods allows characters to choose patrons, play deities against each other, or serve different masters. A world with one god creates clearer moral stakes but less room for religious diversity.
+
+| Type | How It Works | Story Implications |
+|------|--------------|-------------------|
+| **Monotheism** | One supreme deity | Clear moral law; heresy feels absolute; questioning the faith means questioning everything |
+| **Polytheism** | Multiple gods with different domains | Gods can conflict; characters choose patrons; divine politics mirrors mortal politics |
+| **Dualism** | Two opposing forces (good/evil, order/chaos) | Cosmic war; sides must be chosen; gray areas feel transgressive |
+| **Animism** | Spirits in nature, ancestors, places | Local sacred sites; honoring the dead; magic tied to specific locations |
+| **Confirmed gods** | Deities actively manifest and intervene | Faith isn't faith — it's acknowledgment; divine will is knowable |
+| **Absent gods** | Gods existed once but are gone/silent | Seeking lost divinity; old rituals with uncertain power; hope or despair |
+| **Ambiguous** | Faith without proof; gods may or may not exist | Room for genuine doubt; faith as choice; religious and secular worldviews can coexist |
+| **Atheistic** | No gods; religion is cultural/social | Focus on community and tradition; meaning is human-made |
 
 Which describes your world?
 
@@ -53,17 +57,17 @@ _______________________________________________________________
 
 ### Are the Gods Real?
 
-This changes everything. If gods are real and active, "faith" isn't belief — it's acknowledgment of fact. If gods are uncertain, characters can genuinely doubt.
+This changes everything. In a world where gods visibly answer prayers, atheism is unreasonable. In a world where they don't, devout faith is a choice — admirable or foolish depending on perspective.
 
-**Are gods real and confirmed in your world?**
+**What's the divine reality of your world?**
 
-| Status | What This Means |
-|--------|-----------------|
-| Gods actively intervene | Miracles happen; divine will is known |
-| Gods exist but are distant | Real but rarely manifest; faith is still faith |
-| Gods may or may not exist | Ambiguous; room for genuine belief and doubt |
-| Gods are dead/departed | Once real, now gone; faith is memory |
-| No gods | Religion is cultural tradition, not supernatural reality |
+| Status | What This Means for Story |
+|--------|--------------------------|
+| Gods actively intervene | Miracles happen; divine will is knowable; characters can appeal directly to deity |
+| Gods exist but are distant | Real but rarely manifest; faith is still faith; characters must act without divine guidance |
+| Gods may or may not exist | Ambiguous; genuine belief and genuine doubt are both reasonable positions |
+| Gods are dead/departed | Once real, now gone; faith is memory and hope; old magic fading |
+| No gods | Religion is human tradition, not supernatural reality; meaning comes from community, not deity |
 
 Which describes your world?
 
@@ -73,7 +77,7 @@ _______________________________________________________________
 
 **If gods are real, what can they actually do?**
 
-Grant magic? Curse people? Speak through prophets? Raise the dead? Intervene in events? Appear in person?
+The scope of divine power matters. Can gods grant magic? Curse people? Speak through prophets? Raise the dead? Appear in person? The more gods can do, the more players you have who might intervene in your plot — for better or worse.
 
 _______________________________________________________________
 
@@ -81,7 +85,7 @@ _______________________________________________________________
 
 **What limits divine power?**
 
-Can gods do anything, or are they constrained? By each other? By cosmic law? By their nature?
+Unlimited gods create story problems — why don't they just fix everything? Consider: Can gods do anything, or are they constrained? By each other? By cosmic law? By their own nature? By mortal free will?
 
 _______________________________________________________________
 
@@ -91,7 +95,7 @@ _______________________________________________________________
 
 ## Major Deities & Powers
 
-Identify the gods or spiritual forces that exist in your world — focus on those relevant to your story.
+Identify the gods or spiritual forces that exist in your world. Focus on those relevant to your story — you don't need a complete pantheon, just the ones who matter.
 
 **Deity/Power 1:**
 
@@ -125,7 +129,7 @@ Identify the gods or spiritual forces that exist in your world — focus on thos
 
 **How do the gods relate to each other?**
 
-Harmonious pantheon? Competing rivals? Cosmic war? Indifferent to each other?
+Divine politics often mirrors mortal politics. Are they a harmonious pantheon? Competing rivals? Locked in cosmic war? Indifferent to each other? The relationship between gods affects how their followers relate.
 
 _______________________________________________________________
 
@@ -135,25 +139,29 @@ _______________________________________________________________
 
 ## Religious Institutions
 
+Gods may exist, but institutions are where religion becomes power. The temple, the church, the priesthood — these are human structures, with human politics, human corruption, and human capacity for both good and harm.
+
 ### Religious Organizations
 
 **What religious institutions exist?**
 
-| Institution | Function | Power They Hold |
-|-------------|----------|-----------------|
-| | | |
-| | | |
-| | | |
+| Institution | Function | Power They Hold | Example (Serpent & Dove) |
+|-------------|----------|-----------------|-------------------------|
+| | | | *The Church — controls spiritual truth, legitimizes monarchy, commands the Chasseurs* |
+| | | | *The Covens — hidden networks of witches, preserving forbidden knowledge* |
+| | | | |
 
 **Who leads religious institutions?**
 
-| Position | Title | How They Gain Authority |
-|----------|-------|------------------------|
-| Highest authority | | |
-| Local/regional leaders | | |
-| Day-to-day clergy | | |
+| Position | Title | How They Gain Authority | Example |
+|----------|-------|------------------------|---------|
+| Highest authority | | | *The Archbishop — rises through Church hierarchy, appointed by predecessor and council* |
+| Local/regional leaders | | | *Bishops — assigned by Archbishop, control regional parishes and hunter corps* |
+| Day-to-day clergy | | | *Priests — trained in seminaries, assigned to parishes, conduct daily services* |
 
 **How much power does religious authority have?**
+
+Religious power can be purely spiritual (moral authority, influence over believers) or extend to political, legal, military, and economic spheres. The more institutional power religion holds, the higher the stakes when characters defy it.
 
 Spiritual only? Political influence? Legal authority? Military force? Economic power?
 
@@ -162,6 +170,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 **How does religious authority relate to political authority?**
+
+This shapes what defying religion costs. In a theocracy, religious disobedience is political treason. When church and state are separate, religious dissent may be socially costly but legally protected.
 
 United (theocracy)? Allied? Competing? Separate? Hostile?
 
@@ -173,6 +183,8 @@ _______________________________________________________________
 
 **Who becomes clergy/priests/religious figures?**
 
+Access to religious authority tells you who can wield it. If only certain bloodlines become priests, religious power is aristocratic. If anyone can be called, religious power is potentially democratic.
+
 Anyone called? Only certain families? Only certain genders? Those with specific magical ability?
 
 _______________________________________________________________
@@ -180,6 +192,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What does religious life require?**
+
+The obligations of religious life create the constraints your characters operate under. Celibacy vows create romantic obstacles. Poverty requirements affect what they can do for loved ones. Separation from secular life limits who they can know.
 
 Celibacy? Poverty? Specific training? Oaths or vows? Separation from secular life?
 
@@ -190,6 +204,8 @@ _______________________________________________________________
 ---
 
 ## Daily Religious Practice
+
+Religion isn't just institutions and doctrine — it's the small daily acts that structure believers' lives. Knowing what ordinary religious practice looks like helps you write characters who feel genuinely devout or genuinely lapsed.
 
 **What religious practices are part of daily life?**
 
@@ -202,6 +218,8 @@ _______________________________________________________________
 
 **What religious objects or symbols do people wear or keep?**
 
+These details make faith tangible. The character who touches their amulet when frightened, who won't remove their prayer beads even in bed — these small acts show faith without telling.
+
 Amulets? Sacred texts? Prayer beads? Holy symbols?
 
 _______________________________________________________________
@@ -210,7 +228,7 @@ _______________________________________________________________
 
 **What phrases, blessings, or invocations are common in speech?**
 
-How does religion show up in everyday language?
+Religious language in everyday speech shows how deeply faith permeates culture. "God willing," "bless you," "by the saints" — these phrases reveal assumptions about the divine.
 
 _______________________________________________________________
 
@@ -226,7 +244,7 @@ _______________________________________________________________
 
 ## Sacred Calendar
 
-Religion governs time — holy days, sacred seasons, periods of fasting or celebration.
+Religion governs time. Holy days, sacred seasons, periods of fasting or celebration — these rhythms structure the year and create occasions where religious expectations are heightened.
 
 **What major holy days exist?**
 
@@ -238,7 +256,7 @@ Religion governs time — holy days, sacred seasons, periods of fasting or celeb
 
 **Are there sacred seasons or periods?**
 
-Times of fasting, reflection, celebration, pilgrimage?
+Times of fasting, reflection, celebration, pilgrimage? These create story opportunities — the festival where rules relax, the sacred month where travel is forbidden, the season of penance when pleasure is sinful.
 
 _______________________________________________________________
 
@@ -268,7 +286,7 @@ _______________________________________________________________
 
 **What makes a space sacred?**
 
-Divine presence? Historical events? Natural features? Consecration rituals?
+Divine presence? Historical events? Natural features? Consecration rituals? Knowing what creates sacred ground helps you know what violates it — and what seeking sanctuary there means.
 
 _______________________________________________________________
 
@@ -278,7 +296,7 @@ _______________________________________________________________
 
 ## The Afterlife
 
-What happens after death shapes how people live, what they fear, and what sacrifices they'll make.
+What happens after death shapes how people live, what they fear, and what sacrifices they'll make. Characters who believe in reunion after death approach sacrifice differently than those who believe death is final.
 
 **What do people believe happens after death?**
 
@@ -292,11 +310,13 @@ What happens after death shapes how people live, what they fear, and what sacrif
 
 **Are these beliefs literally true in your world?**
 
+If the afterlife is confirmed and knowable, dying for love becomes a different calculation. If it's uncertain, faith in reunion after death is poignant hope, not guaranteed promise.
+
 _______________________________________________________________
 
 **How do afterlife beliefs affect behavior?**
 
-What do people do (or avoid) because of afterlife consequences?
+What do people do (or avoid) because of afterlife consequences? This is where religious belief becomes action.
 
 _______________________________________________________________
 
@@ -306,7 +326,7 @@ _______________________________________________________________
 
 ## Mythology & Sacred Stories
 
-Every religion has its founding stories — the tales that explain how things came to be and how people should live.
+Every religion has its founding stories — the tales that explain how things came to be and how people should live. These stories shape how believers understand love, duty, sacrifice, and transgression.
 
 **What's the creation story?**
 
@@ -328,7 +348,7 @@ _______________________________________________________________
 
 **Are there stories specifically about love, marriage, or relationships?**
 
-Divine lovers? Cautionary tales? Blessed unions?
+Divine lovers? Cautionary tales? Blessed unions? These stories create templates — characters may try to live up to them or fear becoming cautionary tales themselves.
 
 _______________________________________________________________
 
@@ -343,6 +363,8 @@ _______________________________________________________________
 ## How to Think About Religion in Romantasy
 
 Religion creates romantic obstacles through **divine law**, **sacred duty**, and **faith itself**. Unlike political obstacles (which can be changed by changing rulers), religious obstacles feel absolute — it's not just the king who forbids this union, it's God.
+
+This is what makes religious obstacles so powerful for romance. The character isn't just breaking a rule — they're sinning. They're not just disappointing their family — they're risking their soul. They're not just choosing love over duty — they're choosing love over everything they believe about the nature of reality.
 
 ### Divine Law
 
@@ -388,6 +410,8 @@ The internal spiritual dimension:
 
 Prophecy in romance creates a specific tension: if they're fated to be together, do they have a choice? If they don't have a choice, is it really love?
 
+This tension can drive the entire romantic arc. Characters might resist prophecy precisely because they want their love to be chosen, not destined. Or they might doubt their feelings, wondering if they're real or just prophetic compulsion.
+
 | Approach | How It Works |
 |----------|--------------|
 | Prophecy is misinterpreted | They think it means one thing; it means another |
@@ -404,33 +428,41 @@ Prophecy in romance creates a specific tension: if they're fated to be together,
 
 **What it looks like:** Religious rules exist to create obstacles, but they're inconsistently applied. The church forbids their marriage, but a friendly priest marries them anyway with no consequences.
 
-**Why it hurts your romance:** If religious obstacles can be conveniently circumvented, they have no weight.
+**Why it hurts your romance:** If religious obstacles can be conveniently circumvented, they have no weight. The tension evaporates when the rule stops mattering.
 
-**How to fix it:** Make religious consequences real. Finding a way around requires genuine sacrifice or risk — not just a convenient loophole.
+**How to fix it:** Make religious consequences real. Finding a way around requires genuine sacrifice or risk. The friendly priest who performs the forbidden marriage faces excommunication. The blessing they seek requires a pilgrimage that costs months.
 
 ### Mistake #2: The Religion Without Believers
 
 **What it looks like:** The world has religious institutions and laws, but no one seems to genuinely believe. Religion is only obstacle, never source of meaning.
 
-**Why it hurts your romance:** It makes religious obstacles feel arbitrary.
+**Why it hurts your romance:** It makes religious obstacles feel arbitrary. If even the enforcers don't really believe, why should we care about the rules?
 
-**How to fix it:** Give characters genuine faith or genuine struggle with faith. Show what religion provides beyond rules. Make leaving it cost something real.
+**How to fix it:** Give characters genuine faith or genuine struggle with faith. Show what religion provides beyond rules — comfort in grief, meaning in suffering, community in isolation. Make leaving it cost something real.
 
 ### Mistake #3: The Strawman Faith
 
 **What it looks like:** The religion that creates obstacles is obviously corrupt, cruel, or foolish. The only devout characters are villains or fools.
 
-**Why it hurts your romance:** If the religion is clearly wrong, choosing love over faith is obviously correct — no internal conflict needed.
+**Why it hurts your romance:** If the religion is clearly wrong, choosing love over faith is obviously correct. There's no internal conflict needed — just walk away from the ridiculous institution.
 
-**How to fix it:** Make the faith sympathetic even when it creates obstacles. Good people believe it for understandable reasons. Tension comes from genuinely conflicting goods.
+**How to fix it:** Make the faith sympathetic even when it creates obstacles. Good people believe it for understandable reasons. The priest enforcing the rules genuinely thinks he's saving souls. Tension comes from genuinely conflicting goods.
 
 ### Mistake #4: The Vague Prophecy
 
 **What it looks like:** There's a prophecy about the characters, but it's so vague it could mean anything.
 
-**Why it hurts your romance:** Prophecy only creates tension if it makes specific predictions characters must fulfill, avoid, or wrestle with.
+**Why it hurts your romance:** Prophecy only creates tension if it makes specific predictions characters must fulfill, avoid, or wrestle with. Vagueness removes stakes.
 
 **How to fix it:** Make prophecies specific enough to create real expectations. "The child of two worlds will unite or destroy" creates tension. "Something important will happen" does not.
+
+### Mistake #5: The Painless Faith Departure
+
+**What it looks like:** A character raised in deep faith abandons it easily once love appears. Their entire belief system dissolves without grief or struggle.
+
+**Why it hurts your romance:** Faith isn't just rules — it's identity, community, and worldview. Losing it should hurt, even when it's the right choice.
+
+**How to fix it:** Show the cost of losing faith. The prayers that no longer comfort. The community that turns away. The void where meaning used to live. Make the choice hard enough that choosing love anyway means something.
 
 ---
 
@@ -477,7 +509,7 @@ _______________________________________________________________
 
 **Does either character have genuine faith but reject religious authority?**
 
-Do they believe in the gods but distrust priests? Follow their own interpretation?
+Do they believe in the gods but distrust priests? Follow their own interpretation? This creates the possibility of redefining faith rather than abandoning it.
 
 _______________________________________________________________
 
@@ -506,13 +538,15 @@ _______________________________________________________________
 
 **Are there practices they've stopped observing? Started observing? Hidden from others?**
 
+Changes in practice often signal changes in faith. The character who stops praying after tragedy. The one who secretly visits forbidden shrines.
+
 _______________________________________________________________
 
 _______________________________________________________________
 
 **What comfort does faith provide?**
 
-In fear, grief, or uncertainty — what does religion offer that nothing else does?
+In fear, grief, or uncertainty — what does religion offer that nothing else does? Understanding this shows what they'd lose by leaving.
 
 _______________________________________________________________
 
@@ -520,7 +554,7 @@ _______________________________________________________________
 
 **What does it feel like when they pray or practice their faith?**
 
-Connection? Comfort? Obligation? Silence? Doubt? Peace?
+Connection? Comfort? Obligation? Silence? Doubt? Peace? This is faith as experience, not just belief.
 
 _______________________________________________________________
 
@@ -528,7 +562,7 @@ _______________________________________________________________
 
 **How might falling in love change their religious practice?**
 
-Do they pray about it? Feel guilty during rituals? Find new meaning in old prayers? Stop practicing?
+Do they pray about it? Feel guilty during rituals? Find new meaning in old prayers? Stop practicing? Start practicing?
 
 _______________________________________________________________
 
@@ -542,7 +576,7 @@ Religious calendars can both separate lovers (forbidden times) and bring them to
 
 **Are there periods when certain activities are forbidden?**
 
-Times when marriage can't take place? When intimacy is prohibited? When travel is restricted?
+Times when marriage can't take place? When intimacy is prohibited? When travel is restricted? These create deadlines and windows.
 
 _______________________________________________________________
 
@@ -550,7 +584,7 @@ _______________________________________________________________
 
 **Are there periods when activities are especially blessed?**
 
-Auspicious times for marriage? Festivals where normal rules relax?
+Auspicious times for marriage? Festivals where normal rules relax? Moments when the sacred and romantic can coincide?
 
 _______________________________________________________________
 
@@ -558,7 +592,7 @@ _______________________________________________________________
 
 **How do these timing restrictions affect your characters?**
 
-Must they wait for a specific time? Are they separated during a religious season? Do they violate sacred time to be together?
+Must they wait for a specific time? Are they separated during a religious season? Do they violate sacred time to be together — and what does that cost?
 
 _______________________________________________________________
 
@@ -591,7 +625,7 @@ For your characters, the question isn't just "what does their religion forbid?" 
 
 **What does religious community provide?**
 
-Social support? Identity? Safety? Business connections? Marriage prospects? Meaning?
+Social support? Identity? Safety? Business connections? Marriage prospects? Meaning? Purpose?
 
 _______________________________________________________________
 
@@ -608,13 +642,15 @@ Not just spiritual consequences — social, practical, relational losses:
 
 **Is their family's acceptance tied to religious conformity?**
 
-Would religious violation mean losing family as well as faith community?
+Would religious violation mean losing family as well as faith community? This multiplies the stakes enormously.
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **Are there people in their religious community who might support them despite doctrine?**
+
+The secret ally who believes love matters more than rules? The reformer who thinks doctrine should change?
 
 _______________________________________________________________
 
@@ -624,11 +660,11 @@ _______________________________________________________________
 
 ## Religious Law & Doctrine
 
-What does faith actually forbid or require regarding love and marriage?
+What does faith actually forbid or require regarding love and marriage? This is where abstract belief becomes concrete obstacle.
 
 **What does your religion teach about love and marriage?**
 
-Sacred? Duty? Path to the divine? Distraction from spiritual purpose?
+Sacred gift? Duty? Path to the divine? Distraction from spiritual purpose? The religious framing of love itself shapes how characters feel about their feelings.
 
 _______________________________________________________________
 
@@ -653,7 +689,7 @@ _______________________________________________________________
 
 **What are the consequences for violating religious law?**
 
-Excommunication? Damnation? Loss of divine favor or magic? Ritual punishment? Social ostracism?
+Excommunication? Damnation? Loss of divine favor or magic? Ritual punishment? Social ostracism? The severity of consequences determines the stakes.
 
 _______________________________________________________________
 
@@ -701,7 +737,7 @@ _______________________________________________________________
 
 **Do they try to reconcile their faith with their feelings?**
 
-How? Reinterpreting doctrine? Finding loopholes? Believing the gods would understand?
+How? Reinterpreting doctrine? Finding loopholes? Believing the gods would understand? Distinguishing between divine will and institutional corruption?
 
 _______________________________________________________________
 
@@ -717,7 +753,7 @@ _______________________________________________________________
 
 **Can they find a version of faith that includes their love?**
 
-Is there a way to believe that doesn't require giving up the relationship?
+Is there a way to believe that doesn't require giving up the relationship? This is the "redefining faith" resolution — harder than leaving, sometimes more satisfying.
 
 _______________________________________________________________
 
@@ -726,6 +762,8 @@ _______________________________________________________________
 ---
 
 ## The Priesthood & Religious Authority
+
+Religious authorities can be allies, enemies, or complex figures caught between doctrine and compassion. They represent the institution — but they're also human.
 
 **What religious authorities exist?**
 
@@ -745,15 +783,15 @@ _______________________________________________________________
 
 **Is either character part of the religious hierarchy?**
 
-| Aspect | Details |
-|--------|---------|
-| Position | |
-| Vows or obligations | |
-| What they'd lose by leaving | |
+| Aspect | Details | Example (Priory of the Orange Tree) |
+|--------|---------|-------------------------------------|
+| Position | | *Handmaiden of the Priory — sworn warrior-priestess, bound by sacred vows* |
+| Vows or obligations | | *Celibacy, secrecy, protection of the Queen at all costs* |
+| What they'd lose by leaving | | *Her sisterhood, her identity, her purpose, her place in the only family she's known* |
 
 **Does religious authority oppose or support the relationship?**
 
-Who specifically? What will they do about it?
+Who specifically? What will they do about it? Are there authorities who might secretly help?
 
 _______________________________________________________________
 
@@ -762,6 +800,8 @@ _______________________________________________________________
 ---
 
 ## Sacred Spaces in Romance
+
+Sacred spaces carry power in romance — they're places where the divine and the forbidden can collide. Meeting in a temple. Stealing a moment in a sanctuary. Seeking blessing at a shrine.
 
 **Does a sacred site play a role in your romance?**
 
@@ -772,6 +812,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 **Are there places where certain relationships are blessed — or cursed?**
+
+Sacred ground where vows are binding? Temples where certain unions are forbidden?
 
 _______________________________________________________________
 
@@ -789,13 +831,15 @@ If yes:
 
 **How do prophecies work?**
 
-Divine revelation? Oracle visions? Ancient texts? Prophetic dreams?
+Divine revelation? Oracle visions? Ancient texts? Prophetic dreams? Astrological calculation?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **Are prophecies always true, sometimes true, or open to interpretation?**
+
+This determines how much weight prophecy carries. Infallible prophecy is destiny. Fallible prophecy is guidance that might be wrong.
 
 _______________________________________________________________
 
@@ -817,7 +861,7 @@ _______________________________________________________________
 
 **Who knows about this prophecy?**
 
-Everyone? Select few? Only one character?
+Everyone? Select few? Only one character? The asymmetry of knowledge creates tension — does one know something the other doesn't?
 
 _______________________________________________________________
 
@@ -838,19 +882,19 @@ _______________________________________________________________
 
 ## The Prophecy Problem: Destiny vs. Choice
 
-If prophecy says they're fated, how do you preserve their agency?
+If prophecy says they're fated, how do you preserve their agency? Romance readers want to believe love is chosen, not predetermined. The best prophesied-love stories find ways to make destiny feel like choice.
 
 **Which approach are you using?**
 
-- ☐ The prophecy is misinterpreted
-- ☐ The prophecy creates the problem (knowing they're "fated" makes them resist)
-- ☐ The prophecy is conditional (fate is invitation, not command)
-- ☐ The prophecy doesn't guarantee happiness (fated to meet, not to succeed)
-- ☐ Multiple interpretations exist
+- ☐ The prophecy is misinterpreted — what they think it means isn't what it means
+- ☐ The prophecy creates the problem — knowing they're "fated" makes them resist
+- ☐ The prophecy is conditional — fate is invitation, not command; they still have to choose
+- ☐ The prophecy doesn't guarantee happiness — fated to meet, not to love, not to succeed
+- ☐ Multiple interpretations exist — different readings create different expectations
 
 **At what point do they choose each other *despite* or *because of* prophecy?**
 
-The moment where prophecy becomes choice:
+The moment where prophecy becomes choice, where destiny is claimed rather than passively received:
 
 _______________________________________________________________
 
@@ -858,7 +902,7 @@ _______________________________________________________________
 
 **Can prophecy be avoided or changed?**
 
-If yes — how? At what cost?
+If yes — how? At what cost? If prophecy can be defied, their choice to fulfill it means something. If it can't be avoided, how do they find agency within fate?
 
 _______________________________________________________________
 
@@ -868,23 +912,27 @@ _______________________________________________________________
 
 ## Chosen Ones & Divine Purpose
 
+Being chosen by the gods is a burden as much as a gift. Divine purpose competes with personal desire — how do you have a life when you're supposed to be saving the world?
+
 **Is either character marked by divine favor, curse, or destiny?**
 
 | Aspect | Details | Example (From Blood and Ash) |
 |--------|---------|------------------------------|
 | Which character | | *Poppy — the Maiden, supposedly chosen by the gods to Ascend and serve* |
 | What marks them | | *Her title, her isolation, the veil she must wear, the "blessing" of her touch* |
-| What they're chosen to do | | *Ascend and become a holy vessel — but the truth is far darker and involves becoming a blood source for the Ascended* |
+| What they're chosen to do | | *Ascend and become a holy vessel — but the truth is far darker* |
 
 **How does divine purpose conflict with personal desire?**
 
-Does love distract from destiny? Does destiny require sacrifice of the relationship?
+Does love distract from destiny? Does destiny require sacrifice of the relationship? Can they fulfill their purpose AND have love?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **What happens if they refuse their divine purpose?**
+
+What are the stakes of saying no to the gods?
 
 _______________________________________________________________
 
@@ -974,7 +1022,7 @@ _______________________________________________________________
 
 **Does religious shame affect how they behave in the relationship?**
 
-Withdrawal? Self-punishment? Trying to resist feelings?
+Withdrawal? Self-punishment? Trying to resist feelings? Guilt after intimacy?
 
 _______________________________________________________________
 
@@ -982,7 +1030,7 @@ _______________________________________________________________
 
 **What would it take to release religious shame?**
 
-Reinterpretation? Leaving the faith? Divine reassurance? Accepting love isn't sin?
+Reinterpretation? Leaving the faith? Divine reassurance? Accepting love isn't sin? Building a new moral framework?
 
 _______________________________________________________________
 
@@ -992,11 +1040,11 @@ _______________________________________________________________
 
 ## The Afterlife & Sacrifice
 
-Beliefs about death shape how characters approach mortality and sacrifice.
+Beliefs about death shape how characters approach mortality and sacrifice. What happens after death determines what dying for love means.
 
 **Can lovers be reunited after death?**
 
-Or does death separate them? Or only certain unions are blessed in the afterlife?
+Or does death separate them? Are only certain unions blessed in the afterlife?
 
 _______________________________________________________________
 
@@ -1010,7 +1058,7 @@ _______________________________________________________________
 
 **Does belief in the afterlife make sacrifice easier or harder?**
 
-If they believe in reunion after death, does that make dying for love more tempting?
+If they believe in reunion after death, does that make dying for love more tempting? Or does uncertainty make sacrifice more costly?
 
 _______________________________________________________________
 
