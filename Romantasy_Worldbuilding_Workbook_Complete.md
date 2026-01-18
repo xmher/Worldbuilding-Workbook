@@ -5111,25 +5111,23 @@ _______________________________________________________________
 
 ## Species & Race Laws
 
-If multiple intelligent species exist, there are likely laws governing interaction. These laws often create the hardest obstacles — not just social disapproval but fundamental questions about whether such unions are even possible or recognized.
+If multiple intelligent species exist, there are likely laws governing interaction. These laws often create the hardest obstacles—not just social disapproval but fundamental questions about whether such unions are even possible or recognized.
 
-**What species exist in your world?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What legal restrictions exist between species?**
-
-Intermarriage? Mixed-species children? Enslaved or second-class species? Segregated territories?
+What species exist in your world?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
+What legal restrictions exist between species? Intermarriage? Mixed-species children? Enslaved or second-class species? Segregated territories?
+
 _______________________________________________________________
 
-**If your characters are different species, what laws affect them?**
+_______________________________________________________________
+
+_______________________________________________________________
+
+If your characters are different species, what laws affect them?
 
 _______________________________________________________________
 
@@ -5141,17 +5139,13 @@ _______________________________________________________________
 
 ## Political Arrangements: Forced Together
 
-Arranged marriages and political alliances are romantasy staples because they create forced proximity with high stakes. The characters didn't choose each other — but now they must deal with each other.
+Arranged marriages and political alliances are romantasy staples because they create forced proximity with high stakes. The characters didn't choose each other—but now they must deal with each other.
 
 What makes arranged marriage compelling as a trope is the tension between obligation and desire. They're bound together by duty, politics, or necessity. The question becomes: can something real grow in soil that wasn't chosen?
 
-**Is one or both characters in an arranged marriage or betrothal?**
+Is one or both characters in an arranged marriage or betrothal? If yes, answer the following.
 
-If yes:
-
-**Who arranged it and why?**
-
-Family (for alliance, wealth, bloodline)? Ruler (for political stability)? Religious authority (fulfilling prophecy)? The characters themselves made a deal?
+Who arranged it and why? Family for alliance, wealth, or bloodline? Ruler for political stability? Religious authority fulfilling prophecy? Or did the characters themselves make a deal?
 
 _______________________________________________________________
 
@@ -5159,9 +5153,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What makes the arrangement binding?**
-
-Legal penalties? Magical oath? Political necessity? Family pressure? No alternative?
+What makes the arrangement binding? Legal penalties? Magical oath? Political necessity? Family pressure? No alternative?
 
 _______________________________________________________________
 
@@ -5169,9 +5161,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Who is the arranged partner?**
-
-Are they decent (potential ally), cruel (clear villain), in love with someone else too (shared predicament), or the actual love interest (arranged marriage to lovers)?
+Who is the arranged partner? Are they decent and a potential ally, cruel and a clear villain, in love with someone else too creating a shared predicament, or are they the actual love interest in an arranged-marriage-to-lovers story?
 
 _______________________________________________________________
 
@@ -5179,9 +5169,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What happens if the arrangement is broken?**
-
-War? Family ruin? Loss of protection? Magical backlash? Political chaos?
+What happens if the arrangement is broken? War? Family ruin? Loss of protection? Magical backlash? Political chaos?
 
 _______________________________________________________________
 
@@ -5193,21 +5181,17 @@ _______________________________________________________________
 
 ## Already Bound: When Arrangement Is the Starting Point
 
-Sometimes the arranged marriage isn't an obstacle to escape — it's the premise. They're already married. Now what?
+Sometimes the arranged marriage isn't an obstacle to escape—it's the premise. They're already married. Now what?
 
 This setup creates a different kind of tension. The legal barrier is already gone. They're bound. The obstacle is internal: learning to see each other as people rather than obligations, building trust where there was none, finding genuine feeling in a relationship that began as transaction.
 
-**If your characters begin the story already bound by political marriage:**
+If your characters begin the story already bound by political marriage, answer the following.
 
-**How long have they been married?**
-
-Just wed? Months? Years of cold distance?
+How long have they been married? Just wed? Months? Years of cold distance?
 
 _______________________________________________________________
 
-**What were the circumstances of the wedding?**
-
-Did they meet before? Was one or both unwilling? Was there hope, dread, or resignation?
+What were the circumstances of the wedding? Did they meet before? Was one or both unwilling? Was there hope, dread, or resignation?
 
 _______________________________________________________________
 
@@ -5215,25 +5199,19 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What's their relationship like at the start of the story?**
-
-Strangers? Polite distance? Active hostility? Tentative curiosity?
+What's their relationship like at the start of the story? Strangers? Polite distance? Active hostility? Tentative curiosity?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What does their marriage require of them publicly?**
-
-Must they appear united? Produce an heir? Attend functions together? Share chambers?
+What does their marriage require of them publicly? Must they appear united? Produce an heir? Attend functions together? Share chambers?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What private boundaries have they established?**
-
-Separate bedrooms? Limited conversation? Rules about what they will and won't share?
+What private boundaries have they established? Separate bedrooms? Limited conversation? Rules about what they will and won't share?
 
 _______________________________________________________________
 
@@ -5241,9 +5219,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What begins to shift those boundaries?**
-
-What event, conversation, or realization starts changing how they see each other?
+What begins to shift those boundaries? What event, conversation, or realization starts changing how they see each other?
 
 _______________________________________________________________
 
@@ -5251,9 +5227,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What's the obstacle now — if they're already married?**
-
-The legal barrier is gone, but what emotional, political, or personal barrier remains? Trust issues? One is in love with someone else? They're on opposite sides of a conflict? One holds a secret?
+What's the obstacle now if they're already married? The legal barrier is gone, but what emotional, political, or personal barrier remains? Trust issues? One is in love with someone else? They're on opposite sides of a conflict? One holds a secret?
 
 _______________________________________________________________
 
@@ -5261,9 +5235,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**When does obligation become choice?**
-
-At what point do they stay together because they want to, not because they must?
+When does obligation become choice? At what point do they stay together because they want to, not because they must?
 
 _______________________________________________________________
 
@@ -5273,21 +5245,17 @@ _______________________________________________________________
 
 ## Political Marriages & Treaties
 
-When a marriage serves political purposes, the couple becomes symbols as much as people. Their union represents peace, alliance, or unified power. This creates pressure beyond the relationship itself — they're performing for nations, not just for themselves.
+When a marriage serves political purposes, the couple becomes symbols as much as people. Their union represents peace, alliance, or unified power. This creates pressure beyond the relationship itself—they're performing for nations, not just for themselves.
 
-Being a political chess piece does something to a person. You learn early that your value lies in what you can secure, not who you are. Your body, your future, your children — all belong to the strategic calculations of people who may never ask what you want. This can create characters who are bitter, resigned, rebellious, or who have learned to find freedom in the small spaces the system doesn't control.
+Being a political chess piece does something to a person. You learn early that your value lies in what you can secure, not who you are. Your body, your future, your children—all belong to the strategic calculations of people who may never ask what you want. This can create characters who are bitter, resigned, rebellious, or who have learned to find freedom in the small spaces the system doesn't control.
 
-When two political pawns are married to each other, they share something no one else understands: the experience of being moved rather than moving. This can create unexpected solidarity — *we're both trapped here, we might as well be trapped together*. Or it can create resentment, each seeing in the other a reminder of what they've lost.
+When two political pawns are married to each other, they share something no one else understands: the experience of being moved rather than moving. This can create unexpected solidarity—*we're both trapped here, we might as well be trapped together*. Or it can create resentment, each seeing in the other a reminder of what they've lost.
 
-The question that haunts political marriages is whether genuine feeling can grow in coerced soil. If they come to love each other, how do they know it's real? Would they have chosen each other if they'd had a choice? Sometimes the answer is yes. Sometimes the answer is *it doesn't matter anymore — this is our life now, and I choose to make it good*. Sometimes the question never gets a satisfying answer, and they have to live with that uncertainty.
+The question that haunts political marriages is whether genuine feeling can grow in coerced soil. If they come to love each other, how do they know it's real? Would they have chosen each other if they'd had a choice? Sometimes the answer is yes. Sometimes the answer is *it doesn't matter anymore—this is our life now, and I choose to make it good*. Sometimes the question never gets a satisfying answer, and they have to live with that uncertainty.
 
-**Is your characters' relationship politically important?**
+Is your characters' relationship politically important? If yes, answer the following.
 
-If yes:
-
-**What political problem does their union solve?**
-
-Ends a war? Unites rival houses? Fulfills prophecy? Secures resources?
+What political problem does their union solve? Ends a war? Unites rival houses? Fulfills prophecy? Secures resources?
 
 _______________________________________________________________
 
@@ -5295,7 +5263,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Who benefits from their union? Who's threatened by it?**
+Who benefits from their union? Who's threatened by it?
 
 | Group | Benefit or Threat |
 |-------|-------------------|
@@ -5304,15 +5272,13 @@ _______________________________________________________________
 | Who wants them apart | |
 | Why | |
 
-**What happens if they refuse the political obligation?**
+What happens if they refuse the political obligation?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How does political pressure affect their emotional relationship?**
-
-Do they resent being forced together? Does duty make intimacy feel less genuine? Do they fall in love despite the arrangement — or struggle to trust what they feel because of it?
+How does political pressure affect their emotional relationship? Do they resent being forced together? Does duty make intimacy feel less genuine? Do they fall in love despite the arrangement—or struggle to trust what they feel because of it?
 
 _______________________________________________________________
 
@@ -5326,23 +5292,19 @@ _______________________________________________________________
 
 Laws mean nothing without enforcement. If your characters can break laws with no real risk, there are no stakes. The question isn't just "what's illegal?" but "what happens if they're caught?"
 
-**Who enforces the law?**
-
-Royal guard? City watch? Magical enforcers? Religious authorities? Secret police? Self-enforcing magical contracts?
+Who enforces the law? Royal guard? City watch? Magical enforcers? Religious authorities? Secret police? Self-enforcing magical contracts?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How effective is enforcement?**
-
-Omnipresent (high risk)? Moderate? Weak or corrupt (easy to evade)? Selective (depends who you are)?
+How effective is enforcement? Omnipresent and high risk? Moderate? Weak or corrupt and easy to evade? Selective depending on who you are?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What happens when your characters are caught?**
+What happens when your characters are caught?
 
 | Situation | Consequence |
 |-----------|-------------|
