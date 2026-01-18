@@ -5317,19 +5317,17 @@ What happens when your characters are caught?
 
 ## Unequal Justice
 
-Laws often apply differently depending on who you are. This creates a specific kind of tension when your characters are from different positions — one might face death while the other faces a slap on the wrist.
+Laws often apply differently depending on who you are. This creates a specific kind of tension when your characters are from different positions—one might face death while the other faces a slap on the wrist.
 
-Asymmetric risk poisons relationships in subtle ways. The protected partner may not even fully understand what the vulnerable one faces — they've never had to think about it. When they say "let's take this risk together," they're not actually taking the same risk at all. This can breed resentment: *Easy for you to be brave when you won't be the one executed.*
+Asymmetric risk poisons relationships in subtle ways. The protected partner may not even fully understand what the vulnerable one faces—they've never had to think about it. When they say "let's take this risk together," they're not actually taking the same risk at all. This can breed resentment: *Easy for you to be brave when you won't be the one executed.*
 
 The vulnerable partner carries a fear the protected one can't fully share. Every stolen moment is weighted differently for them. They're always calculating, always aware of escape routes and excuses and what happens if they're caught. The protected partner may mistake this vigilance for coldness, not understanding it's survival.
 
-For the protected partner who does understand, there's guilt. They benefit from a system that would destroy the person they love. Their safety is built on inequality they didn't choose but can't escape. Some try to compensate — *I'll protect you, I'll use my privilege to shield you* — but this creates its own power imbalance. The vulnerable partner is dependent on protection that could be withdrawn.
+For the protected partner who does understand, there's guilt. They benefit from a system that would destroy the person they love. Their safety is built on inequality they didn't choose but can't escape. Some try to compensate—*I'll protect you, I'll use my privilege to shield you*—but this creates its own power imbalance. The vulnerable partner is dependent on protection that could be withdrawn.
 
-The most honest relationships acknowledge this asymmetry openly: *I know you're risking more than me. I know that isn't fair. I'm asking anyway — but I need you to know I see it.*
+The most honest relationships acknowledge this asymmetry openly: *I know you're risking more than me. I know that isn't fair. I'm asking anyway—but I need you to know I see it.*
 
-**Are laws enforced equally, or does power matter?**
-
-Does the noble face consequences, or only the commoner? Can the magical character escape while the non-magical suffers?
+Are laws enforced equally, or does power matter? Does the noble face consequences, or only the commoner? Can the magical character escape while the non-magical suffers?
 
 _______________________________________________________________
 
@@ -5337,9 +5335,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**If one character risks everything while the other risks little, how do they navigate that?**
-
-Does the protected character understand what the other faces? Do they try to shield them? Does the vulnerable character resent the inequality?
+If one character risks everything while the other risks little, how do they navigate that? Does the protected character understand what the other faces? Do they try to shield them? Does the vulnerable character resent the inequality?
 
 _______________________________________________________________
 
@@ -5347,17 +5343,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Could the protected character sacrifice their protection for the other?**
-
-Renounce their status? Confess to share punishment? What would that cost?
+Could the protected character sacrifice their protection for the other? Renounce their status? Confess to share punishment? What would that cost?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What would happen if only one of them were caught?**
-
-Would the protected character let the other suffer alone? Would they come forward? Would they have the power to save them?
+What would happen if only one of them were caught? Would the protected character let the other suffer alone? Would they come forward? Would they have the power to save them?
 
 _______________________________________________________________
 
@@ -5369,41 +5361,33 @@ _______________________________________________________________
 
 ## Diplomatic Protection & Special Status
 
-Some positions grant immunity from normal laws — or make someone untouchable in ways that affect the relationship.
+Some positions grant immunity from normal laws—or make someone untouchable in ways that affect the relationship.
 
-**Does either character have special legal status?**
-
-Diplomatic immunity? Religious sanctuary? Royal protection? Magical immunity? Status as hostage or ward?
+Does either character have special legal status? Diplomatic immunity? Religious sanctuary? Royal protection? Magical immunity? Status as hostage or ward?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How does this status affect what they can do — or what can be done to them?**
+How does this status affect what they can do—or what can be done to them?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Could their status protect the other character?**
-
-Could marriage, alliance, or association extend protection to their partner?
+Could their status protect the other character? Could marriage, alliance, or association extend protection to their partner?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Could their status endanger the other character?**
-
-Does being connected to them make their partner a target? Create political complications?
+Could their status endanger the other character? Does being connected to them make their partner a target? Create political complications?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What would they lose if they gave up their special status?**
-
-Could they renounce it? At what cost?
+What would they lose if they gave up their special status? Could they renounce it? At what cost?
 
 _______________________________________________________________
 
@@ -5413,21 +5397,19 @@ _______________________________________________________________
 
 ## Trials & Justice
 
-**If caught, do your characters get a trial?**
+If caught, do your characters get a trial?
 
 _______________________________________________________________
 
-**Who judges them?**
-
-Monarch? Court? Religious authority? Magical council? Trial by combat?
+Who judges them? Monarch? Court? Religious authority? Magical council? Trial by combat?
 
 _______________________________________________________________
 
-**Can they appeal? Is there any legal recourse?**
+Can they appeal? Is there any legal recourse?
 
 _______________________________________________________________
 
-**Who would or could defend them?**
+Who would or could defend them?
 
 _______________________________________________________________
 
@@ -5437,7 +5419,7 @@ _______________________________________________________________
 
 Your couple doesn't exist in a vacuum. Political factions may support or oppose them based on how the relationship affects larger power struggles.
 
-**What major factions exist?**
+What major factions exist?
 
 | Faction | Goal |
 |---------|------|
@@ -5446,18 +5428,18 @@ Your couple doesn't exist in a vacuum. Political factions may support or oppose 
 | | |
 | | |
 
-**Where do your characters fall?**
+Where do your characters fall?
 
 | Character | Faction | Example (Fourth Wing) |
 |-----------|---------|----------------------|
 | Protagonist | | *Riders Quadrant — elite dragon-bonded warriors who protect Navarre* |
 | Love Interest | | *Riders Quadrant (officially) — but secretly connected to those questioning leadership's lies* |
 
-**Are they on the same side, opposite sides, or unaligned?**
+Are they on the same side, opposite sides, or unaligned?
 
 _______________________________________________________________
 
-**If on opposite sides, what would it take to betray their faction for each other?**
+If on opposite sides, what would it take to betray their faction for each other?
 
 _______________________________________________________________
 
@@ -5467,7 +5449,7 @@ _______________________________________________________________
 
 ## Political Enemies
 
-**Who has political reason to keep your characters apart?**
+Who has political reason to keep your characters apart?
 
 | Enemy | Position | What They Want | Why They Oppose | What They'll Do |
 |-------|----------|---------------|-----------------|-----------------|
@@ -5478,7 +5460,7 @@ _______________________________________________________________
 
 ## Political Allies
 
-**Who supports your characters despite political opposition?**
+Who supports your characters despite political opposition?
 
 | Ally | Position | Why They Help | What They Risk |
 |------|----------|--------------|----------------|
@@ -5495,19 +5477,13 @@ War also changes people. Characters who have seen combat, lost comrades, or kill
 
 ### The State of Conflict
 
-**Is your world at war, at peace, or somewhere in between?**
-
-- Active warfare (battles happening now)
-- Cold war (hostility without open conflict)
-- Fragile peace (war recently ended or about to begin)
-- Long peace (generations without major conflict)
-- Perpetual low-level conflict (border skirmishes, raids, never fully resolved)
+Is your world at war, at peace, or somewhere in between? Consider whether there's active warfare with battles happening now, a cold war with hostility but no open conflict, fragile peace with war recently ended or about to begin, long peace with generations without major conflict, or perpetual low-level conflict with border skirmishes that are never fully resolved.
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**If at war: who's fighting whom, and why?**
+If at war, who's fighting whom and why?
 
 _______________________________________________________________
 
@@ -5515,7 +5491,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**If at peace: what threatens to break it? What tensions simmer beneath the surface?**
+If at peace, what threatens to break it? What tensions simmer beneath the surface?
 
 _______________________________________________________________
 
@@ -5523,9 +5499,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does the state of conflict affect daily life?**
-
-Rationing? Curfews? Suspicion of outsiders? Refugees? Economic strain? Absent family members?
+How does the state of conflict affect daily life? Rationing? Curfews? Suspicion of outsiders? Refugees? Economic strain? Absent family members?
 
 _______________________________________________________________
 
@@ -5535,33 +5509,25 @@ _______________________________________________________________
 
 ### Military Service
 
-**Who serves in the military?**
-
-Volunteers? Conscripts? Nobility obligated to fight? Mercenaries? Magical warriors? A professional standing army?
+Who serves in the military? Volunteers? Conscripts? Nobility obligated to fight? Mercenaries? Magical warriors? A professional standing army?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Is military service required?**
-
-For whom? At what age? For how long? Can it be avoided — and how?
+Is military service required? For whom? At what age? For how long? Can it be avoided—and how?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What's the social status of soldiers?**
-
-Honored? Feared? Pitied? Looked down upon? Does it vary by rank?
+What's the social status of soldiers? Honored? Feared? Pitied? Looked down upon? Does it vary by rank?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Is either of your characters in military service?**
-
-If yes:
+Is either of your characters in military service? If yes, fill in the following.
 
 | Aspect | Details |
 |--------|---------|
@@ -5570,9 +5536,7 @@ If yes:
 | Why they serve | |
 | What they've seen or done | |
 
-**If one character is a soldier, how does this affect the relationship?**
-
-Absence and separation? PTSD and emotional distance? Skills that are attractive or frightening? Duty that conflicts with love?
+If one character is a soldier, how does this affect the relationship? Absence and separation? PTSD and emotional distance? Skills that are attractive or frightening? Duty that conflicts with love?
 
 _______________________________________________________________
 
@@ -5582,37 +5546,29 @@ _______________________________________________________________
 
 ### Enemies Across Battle Lines
 
-If your characters are on opposite sides of a war, their relationship is treason. This creates the highest-stakes version of forbidden love — choosing each other means betraying everything they were raised to believe in.
+If your characters are on opposite sides of a war, their relationship is treason. This creates the highest-stakes version of forbidden love—choosing each other means betraying everything they were raised to believe in.
 
-**Are your characters on opposite sides of a conflict?**
-
-If yes:
+Are your characters on opposite sides of a conflict? If yes, fill in the following.
 
 | Aspect | Protagonist | Love Interest | Example (Serpent & Dove) |
 |--------|-------------|---------------|-------------------------|
 | What conflict | | | *The witch hunts — systematic persecution of magic users by the Church* |
 | Their side | | | *She's a witch (hunted) / He's a Chasseur (hunter)* |
 
-**What does each side believe about the other?**
-
-Propaganda, stereotypes, justified grievances:
+What does each side believe about the other? Propaganda, stereotypes, justified grievances.
 
 | Side | What They Believe About the Enemy | Example |
 |------|----------------------------------|---------|
 | Protagonist's side | | *Chasseurs are murderers who burn innocents; the Church is built on lies and hate* |
 | Love interest's side | | *Witches are agents of darkness; their magic corrupts everything it touches; they must die for humanity to be safe* |
 
-**What would each character's people say about them loving the enemy?**
-
-Traitor? Spy? Corrupted? Foolish? Understandable but forbidden?
+What would each character's people say about them loving the enemy? Traitor? Spy? Corrupted? Foolish? Understandable but forbidden?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What would it take for them to choose each other over their side?**
-
-What would they have to believe, learn, or experience?
+What would it take for them to choose each other over their side? What would they have to believe, learn, or experience?
 
 _______________________________________________________________
 
@@ -5620,9 +5576,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Could their relationship end the conflict — or make it worse?**
-
-Does their union have political implications for the war?
+Could their relationship end the conflict—or make it worse? Does their union have political implications for the war?
 
 _______________________________________________________________
 
