@@ -1,0 +1,2181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Romantasy Worldbuilding Workbook</title>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        /* ============================================
+           DESIGN TOKENS & ROOT VARIABLES
+           ============================================ */
+        :root {
+            /* Theme Colors - Worldbuilding (Emerald/Teal) */
+            --color-worldbuilding: #065f46;
+            --color-worldbuilding-light: rgba(6, 95, 70, 0.1);
+
+            /* Core Palette */
+            --color-bg: #fdfbf7;
+            --color-card: #ffffff;
+            --color-noir: #1a1515;
+            --color-accent: #e2c98a;
+            --color-danger: #9f1239;
+
+            /* Text Colors */
+            --color-text-main: #121212;
+            --color-text-sub: #444444;
+            --color-text-muted: #888888;
+
+            /* Fonts */
+            --font-display: 'Libre Baskerville', serif;
+            --font-accent: 'Cormorant Garamond', serif;
+            --font-body: 'Inter', sans-serif;
+
+            /* Current Theme (Worldbuilding) */
+            --theme-color: var(--color-worldbuilding);
+            --theme-color-light: var(--color-worldbuilding-light);
+        }
+
+        /* ============================================
+           RESET & BASE STYLES
+           ============================================ */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: #e5e1da;
+            color: var(--color-text-main);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            font-size: 11pt;
+            counter-reset: page-counter;
+        }
+
+        /* ============================================
+           PAGE STRUCTURE - PRINT READY
+           ============================================ */
+        .page {
+            width: 8.5in;
+            min-height: 11in;
+            background: var(--color-bg);
+            margin: 20px auto;
+            padding: 60px 90px 100px 90px;
+            position: relative;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            page-break-after: always;
+            break-inside: avoid;
+        }
+
+        .page.worldbuilding {
+            --theme-color: var(--color-worldbuilding);
+            --theme-color-light: var(--color-worldbuilding-light);
+        }
+
+        /* Outer Frame */
+        .page::before {
+            content: '';
+            position: absolute;
+            top: 25px;
+            left: 25px;
+            right: 25px;
+            bottom: 25px;
+            border: 3px solid var(--theme-color);
+            pointer-events: none;
+        }
+
+        /* Inner Frame */
+        .page::after {
+            content: '';
+            position: absolute;
+            top: 35px;
+            left: 35px;
+            right: 35px;
+            bottom: 35px;
+            border: 1px solid var(--color-accent);
+            pointer-events: none;
+        }
+
+        /* Corner Flourishes */
+        .corner-flourish {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            border-color: var(--theme-color);
+            border-style: solid;
+            border-width: 0;
+        }
+        .corner-flourish.top-left { top: 40px; left: 40px; border-top-width: 2px; border-left-width: 2px; }
+        .corner-flourish.top-right { top: 40px; right: 40px; border-top-width: 2px; border-right-width: 2px; }
+        .corner-flourish.bottom-left { bottom: 40px; left: 40px; border-bottom-width: 2px; border-left-width: 2px; }
+        .corner-flourish.bottom-right { bottom: 40px; right: 40px; border-bottom-width: 2px; border-right-width: 2px; }
+
+        /* ============================================
+           TYPOGRAPHY
+           ============================================ */
+        .section-number {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        h1 {
+            font-family: var(--font-display);
+            font-size: 2rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--color-noir);
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+        }
+
+        h2 {
+            font-family: var(--font-display);
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--color-noir);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--color-accent);
+        }
+
+        h3 {
+            font-family: var(--font-display);
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+        }
+
+        h4 {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            font-weight: 600;
+            font-style: italic;
+            color: var(--color-text-sub);
+            margin-top: 1.25rem;
+            margin-bottom: 0.5rem;
+        }
+
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+            hyphens: auto;
+        }
+
+        .lead-text {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+        }
+
+        .hint {
+            font-family: var(--font-accent);
+            font-style: italic;
+            color: var(--color-text-muted);
+            font-size: 0.95rem;
+            margin-top: -0.5rem;
+            margin-bottom: 1rem;
+        }
+
+        /* ============================================
+           TITLE PAGE
+           ============================================ */
+        .title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: calc(11in - 160px);
+        }
+
+        .title-page h1 {
+            font-size: 2.5rem;
+            letter-spacing: 6px;
+            margin-bottom: 0.5rem;
+        }
+
+        .title-page .subtitle {
+            font-family: var(--font-accent);
+            font-size: 1.3rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            margin-bottom: 3rem;
+        }
+
+        .title-page .divider {
+            width: 100px;
+            height: 2px;
+            background: var(--color-accent);
+            margin: 2rem 0;
+        }
+
+        .title-page .tagline {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            color: var(--color-text-muted);
+            max-width: 400px;
+        }
+
+        /* ============================================
+           SECTION TITLE PAGE
+           ============================================ */
+        .section-title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: calc(11in - 160px);
+        }
+
+        .section-title-page .section-label {
+            font-family: var(--font-display);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            color: var(--theme-color);
+            margin-bottom: 1rem;
+        }
+
+        .section-title-page h1 {
+            font-size: 2.2rem;
+            margin-bottom: 1rem;
+        }
+
+        .section-title-page .section-intro {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.8;
+            max-width: 90%;
+        }
+
+        /* ============================================
+           WRITING BOXES
+           ============================================ */
+        .writing-box {
+            border: 1px solid var(--color-noir);
+            background: white;
+            padding: 15px 20px;
+            margin: 1rem 0 1.5rem 0;
+            min-height: 80px;
+            break-inside: avoid;
+        }
+
+        .writing-box.large {
+            min-height: 120px;
+        }
+
+        .writing-box.small {
+            min-height: 50px;
+        }
+
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .writing-lines {
+            min-height: 25px;
+            margin-bottom: 8px;
+            border-bottom: 1px solid #eee;
+        }
+
+        /* ============================================
+           TABLES
+           ============================================ */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            font-size: 0.9rem;
+            break-inside: avoid;
+        }
+
+        th {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            background: var(--theme-color);
+            color: white;
+            padding: 12px 15px;
+            text-align: left;
+        }
+
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #eee;
+            vertical-align: top;
+        }
+
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
+
+        /* Input table - for worksheets */
+        table.input-table td {
+            min-height: 40px;
+            background: white;
+        }
+
+        /* ============================================
+           MISTAKE / ALERT BOXES
+           ============================================ */
+        .mistake-box {
+            border-left: 4px solid var(--color-danger);
+            background: rgba(159, 18, 57, 0.05);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+
+        .mistake-box .mistake-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--color-danger);
+            margin-bottom: 0.75rem;
+        }
+
+        .mistake-box p {
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+        }
+
+        .mistake-box p:last-child {
+            margin-bottom: 0;
+        }
+
+        .fix-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--theme-color);
+            display: block;
+            margin-top: 0.75rem;
+        }
+
+        /* ============================================
+           FRAMEWORK BOXES
+           ============================================ */
+        .framework-box {
+            border: 2px solid var(--theme-color);
+            background: var(--theme-color-light);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+
+        .framework-box h4 {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-top: 0;
+            margin-bottom: 1rem;
+            font-style: normal;
+        }
+
+        .framework-box p {
+            margin-bottom: 0.75rem;
+        }
+
+        .framework-box ul {
+            margin: 0.5rem 0 0.5rem 1.5rem;
+        }
+
+        .framework-box li {
+            margin-bottom: 0.5rem;
+        }
+
+        /* ============================================
+           ANCHOR CARD
+           ============================================ */
+        .anchor-card {
+            border: 2px solid var(--color-noir);
+            background: white;
+            margin: 1.5rem 0;
+            position: relative;
+            padding: 25px;
+            overflow: hidden;
+            break-inside: avoid;
+        }
+
+        .anchor-card::before {
+            content: "✦";
+            position: absolute;
+            top: -10px;
+            right: -10px;
+            font-size: 4rem;
+            opacity: 0.05;
+            transform: rotate(15deg);
+        }
+
+        .anchor-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .anchor-question {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 1.15rem;
+            border-left: 3px solid var(--color-accent);
+            padding-left: 15px;
+            margin-bottom: 15px;
+        }
+
+        /* ============================================
+           CHECKLISTS
+           ============================================ */
+        .checklist {
+            list-style: none;
+            margin: 1rem 0;
+            break-inside: avoid;
+        }
+
+        .checklist li {
+            position: relative;
+            padding-left: 30px;
+            margin-bottom: 0.75rem;
+            font-size: 0.95rem;
+        }
+
+        .checklist li::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 2px;
+            width: 16px;
+            height: 16px;
+            border: 1px solid var(--theme-color);
+            background: white;
+        }
+
+        /* ============================================
+           LISTS
+           ============================================ */
+        ul, ol {
+            margin: 1rem 0 1rem 1.5rem;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        /* ============================================
+           PAGE FOOTER
+           ============================================ */
+        .page-footer {
+            position: absolute;
+            bottom: 50px;
+            left: 90px;
+            right: 90px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-family: var(--font-display);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--color-text-muted);
+        }
+
+        /* Automatic page numbering */
+        .page {
+            counter-increment: page-counter;
+        }
+
+        .page-footer::after {
+            content: counter(page-counter);
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            font-weight: 700;
+            color: var(--theme-color);
+            font-size: 0.7rem;
+        }
+
+        /* Flourish Divider */
+        .flourish-divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            margin: 1.5rem 0;
+        }
+
+        .flourish-divider::before,
+        .flourish-divider::after {
+            content: '';
+            height: 2px;
+            width: 80px;
+            background: var(--color-accent);
+        }
+
+        .flourish-divider .divider-icon {
+            font-size: 1.2rem;
+            color: var(--color-accent);
+        }
+
+        /* Simple horizontal rule divider */
+        .section-divider {
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--color-accent), transparent);
+            margin: 2rem 0;
+        }
+
+        /* ============================================
+           PRINT STYLES
+           ============================================ */
+        @media print {
+            body {
+                background: white;
+            }
+
+            .page {
+                box-shadow: none;
+                margin: 0;
+                page-break-after: always;
+            }
+
+            .no-print {
+                display: none;
+            }
+        }
+
+        /* ============================================
+           UTILITY CLASSES
+           ============================================ */
+        .mt-0 { margin-top: 0; }
+        .mt-1 { margin-top: 0.5rem; }
+        .mt-2 { margin-top: 1rem; }
+        .mt-3 { margin-top: 1.5rem; }
+        .mb-0 { margin-bottom: 0; }
+        .mb-1 { margin-bottom: 0.5rem; }
+        .mb-2 { margin-bottom: 1rem; }
+        .text-center { text-align: center; }
+        .text-muted { color: var(--color-text-muted); }
+    </style>
+</head>
+<body>
+
+<!-- ==========================================
+     TITLE PAGE
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <div class="title-page">
+        <span class="section-number">A Workbook For Writers</span>
+        <h1>The Romantasy<br>Worldbuilding Workbook</h1>
+        <div class="divider"></div>
+        <p class="tagline">Build worlds that create romantic tension by design</p>
+    </div>
+
+    <div class="page-footer">
+        <span>Worldbuilding</span>
+        <span>Romantasy</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     INTRODUCTION PAGE 1: WHAT THIS IS
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">What This Is</h2>
+
+    <p class="lead-text">This is a worldbuilding workbook designed specifically for romantasy — fantasy romance where the world isn't just backdrop, but an active force shaping and pressuring the love story.</p>
+
+    <p>In romantasy, worldbuilding isn't separate from romance. The political marriage that forces enemies together, the magical bond that connects two people against their will, the ancient feud that makes love forbidden, the class divide that seems impossible to cross — these aren't setting details. They're the engine of your story.</p>
+
+    <p>This workbook helps you build worlds that create romantic tension by design.</p>
+
+    <h2>Who This Is For</h2>
+
+    <p>This workbook is for writers who want to:</p>
+
+    <ul>
+        <li>Build fantasy worlds that feel real and internally consistent</li>
+        <li>Create external obstacles that pressure and test relationships</li>
+        <li>Understand how geography, politics, magic, culture, and history can generate romantic conflict</li>
+        <li>Move beyond generic fantasy settings to worlds that could only produce <em>your</em> story</li>
+        <li>Develop worldbuilding that readers will want to live in</li>
+    </ul>
+
+    <p>Whether you're writing your first romantasy or your tenth, whether you're a plotter who needs everything mapped before drafting or a pantser who discovers your world as you go — this workbook meets you where you are.</p>
+
+    <h2>How This Workbook Is Structured</h2>
+
+    <p>Each section follows a two-part structure:</p>
+
+    <h3>Part One: The Foundation</h3>
+    <p>This is the worldbuilding itself — how your geography, magic, government, religion, economy, culture, or history actually works. These elements exist in your world regardless of your characters' romantic situation.</p>
+    <p>Strong foundations make your world feel real. Readers can tell when a world has depth versus when it's cardboard scenery hastily assembled behind the love story.</p>
+
+    <div class="page-footer">
+        <span>Introduction</span>
+        <span></span>
+    </div>
+</div>
+
+<!-- ==========================================
+     INTRODUCTION PAGE 2: STRUCTURE CONTINUED
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h3 class="mt-0">Part Two: [Topic] & Romance</h3>
+    <p>This is where worldbuilding becomes romantic tension. Each section shows you how to mine its topic for obstacles, intimacy, stakes, and conflict specific to love stories.</p>
+
+    <p>A magic system isn't just about what spells exist — it's about what happens when one character is vastly more powerful than the other, or when a magical bond forces intimacy neither chose, or when using power for someone you love costs something real.</p>
+
+    <p><strong>You need both parts.</strong> A romance between a servant and a prince needs a believable class system (foundation) that actually creates stakes and obstacles for their relationship (romance application). Skip the foundation and your world feels thin. Skip the romance application and you're not using your world to its full potential.</p>
+
+    <h2>How to Use This Workbook</h2>
+
+    <h3>You Don't Have to Do Everything</h3>
+    <p>This workbook is comprehensive — intentionally so. Not every section will apply to your story. Not every question will be relevant.</p>
+    <p><strong>Skip freely.</strong> If your story doesn't involve inter-species romance, skip that section. If religion isn't a factor, move past it. If your characters aren't part of an institution, those questions aren't for you.</p>
+    <p>The goal isn't to fill every blank. The goal is to build what your specific story needs.</p>
+
+    <h3>You Don't Have to Go in Order</h3>
+    <p>The sections are numbered for reference, not because you must complete them sequentially.</p>
+    <p>Some writers start with magic because that's the heart of their world. Others start with the political situation that creates their central conflict. Some build geography first because place shapes everything else.</p>
+    <p>Start wherever you have the most energy or the clearest vision. Let that section inform the others.</p>
+
+    <div class="page-footer">
+        <span>Introduction</span>
+        <span></span>
+    </div>
+</div>
+
+<!-- ==========================================
+     INTRODUCTION PAGE 3: HOW TO USE CONTINUED
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h3 class="mt-0">Focus on What Creates Stakes</h3>
+    <p>As you work through each section, keep asking: <strong>How does this create obstacles for my characters?</strong></p>
+    <p>Not every piece of worldbuilding needs to directly pressure the romance — some details just make the world feel real. But if you find yourself developing elaborate systems that never touch your love story, you might be worldbuilding for worldbuilding's sake rather than story's sake.</p>
+    <p>The best romantasy worldbuilding does double duty: it makes the world feel real <em>and</em> it makes the romance feel impossible (until it isn't).</p>
+
+    <h3>Use the Integration Checks</h3>
+    <p>At the end of each section, you'll find Integration Checks — questions that connect that section's topic to others. These are important.</p>
+    <p>Worlds feel real when their systems interact. A magic system affects government (who has power). Religion shapes culture (what's taboo). History explains current politics (why the feud exists). Geography determines economy (who controls resources).</p>
+    <p>If each section exists in isolation, your world will feel like a collection of unrelated details. Integration Checks help you weave everything together.</p>
+
+    <h3>Examples Are Guides, Not Rules</h3>
+    <p>Throughout this workbook, you'll find examples drawn from popular romantasy novels — <em>ACOTAR</em>, <em>Fourth Wing</em>, <em>From Blood and Ash</em>, <em>Serpent & Dove</em>, and others. These show what good answers look like and what level of specificity is useful.</p>
+    <p>But these examples aren't templates to copy. Your world should be <em>yours</em>. Use the examples to understand the kind of thinking these questions invite, then develop answers that serve your unique story.</p>
+
+    <div class="page-footer">
+        <span>Introduction</span>
+        <span></span>
+    </div>
+</div>
+
+<!-- ==========================================
+     INTRODUCTION PAGE 4: TROPES & BEFORE YOU BEGIN
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">A Note on Tropes</h2>
+
+    <p>Romantasy is a trope-heavy genre, and that's not a weakness — it's a feature. Readers come to romantasy <em>wanting</em> enemies-to-lovers, forced proximity, forbidden love, fated mates, morally grey love interests, and "there's only one bed."</p>
+
+    <p>This workbook doesn't shy away from tropes. Instead, it helps you execute them well.</p>
+
+    <p>The difference between a tired trope and a beloved one isn't the trope itself — it's the execution. An enemies-to-lovers romance where the enmity is shallow and easily overcome is boring. An enemies-to-lovers romance where both characters have genuine, legitimate reasons to hate each other — where choosing love means betraying everything they believed — that's compelling.</p>
+
+    <p>Worldbuilding is how you make tropes feel earned.</p>
+
+    <p>The forced proximity isn't just "they're stuck together" — it's the specific institution, geography, political situation, or magical bond that makes escape impossible.</p>
+
+    <p>The forbidden love isn't just "they're not supposed to be together" — it's the specific laws, cultural taboos, religious strictures, or historical enmity that makes their love dangerous.</p>
+
+    <p>Build your world to support your tropes, and your tropes will sing.</p>
+
+    <h2>Before You Begin</h2>
+
+    <p>You don't need to know your whole story before starting. Many writers discover their plots through worldbuilding — realizing that the magic system they developed creates a perfect obstacle, or that the political situation they built suggests an ending they hadn't considered.</p>
+
+    <p>Let the worldbuilding work <em>with</em> your story, not as a separate task you complete before writing.</p>
+
+    <div class="page-footer">
+        <span>Introduction</span>
+        <span></span>
+    </div>
+</div>
+
+<!-- ==========================================
+     INTRODUCTION PAGE 5: LET'S BEGIN
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <p class="lead-text mt-0">And remember: worldbuilding exists to serve the story. A beautifully detailed world that doesn't create stakes for your characters is just a setting guide. A sparse world that perfectly pressures your romance is doing its job.</p>
+
+    <p>Build what you need. Skip what you don't. Make a world worth falling in love in.</p>
+
+    <div class="anchor-card">
+        <span class="anchor-title">The Core Truth</span>
+        <div class="anchor-question">"The best romantasy worldbuilding does double duty: it makes the world feel real and it makes the romance feel impossible — until it isn't."</div>
+    </div>
+
+    <h2>Let's Begin</h2>
+
+    <p class="lead-text">Turn to whichever section calls to you first. There's no wrong starting point.</p>
+
+    <p class="lead-text">Your world is waiting to be built.</p>
+
+    <div class="page-footer">
+        <span>Introduction</span>
+        <span></span>
+    </div>
+</div>
+
+<!-- ==========================================
+     TABLE OF CONTENTS
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">The Sections</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Section</th>
+                <th>Topic</th>
+                <th>What It Covers</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td><a href="#section-1">Geography & Environment</a></td>
+                <td>Physical world, climate, travel, how place creates obstacles</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td><a href="#section-2">Flora, Fauna & Ecosystems</a></td>
+                <td>Plants, animals, bonded creatures, inter-species romance</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td><a href="#section-3">Culture, Customs & Daily Life</a></td>
+                <td>Social norms, taboos, courtship, what's forbidden</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td><a href="#section-4">Economy, Labor & Resources</a></td>
+                <td>Wealth, class, debt, what money means for love</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td><a href="#section-5">Government, Power & Law</a></td>
+                <td>Politics, law, forbidden relationships, enemies-to-lovers</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td><a href="#section-6">Religion, Myth & Prophecy</a></td>
+                <td>Faith, vows, divine purpose, what the gods demand</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td><a href="#section-7">History & Lore</a></td>
+                <td>The past that haunts the present, inherited conflict</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td><a href="#section-8">Magic System</a></td>
+                <td>How magic works, magical bonds, power dynamics</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p><strong>Additional Sections</strong> (9-21) cover specialized topics: technology, time & calendar, language, magic conflicts, pressure cooker settings, institutions, and more.</p>
+
+    <p><strong>Appendix A: Revealing Worldbuilding in Prose</strong> — A practical guide to deploying your worldbuilding in scenes without info-dumps.</p>
+
+    <div class="anchor-card">
+        <span class="anchor-title">Before You Begin</span>
+        <div class="anchor-question">"Worldbuilding exists to serve the story. A beautifully detailed world that doesn't create stakes for your characters is just a setting guide."</div>
+        <p style="font-size: 0.9rem; color: var(--color-text-sub); margin: 0;">Build what you need. Skip what you don't. Make a world worth falling in love in.</p>
+    </div>
+
+    <div class="page-footer">
+        <span>Contents</span>
+        <span></span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: TITLE PAGE
+     ========================================== -->
+<div class="page worldbuilding" id="section-1">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <div class="section-title-page">
+        <span class="section-label">Section One</span>
+        <h1>Geography &<br>Environment</h1>
+        <p class="section-intro">Geography isn't just a map — it's the physical constraints that shape everything else. Mountains create borders that become political divisions. Deserts isolate cultures. Rivers determine where cities grow. Control of fertile valleys determines who holds power.</p>
+        <div class="flourish-divider"><span class="divider-icon">✦</span></div>
+    </div>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: INTRO PAGE
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <p class="lead-text">This section is divided into two parts:</p>
+
+    <p><strong>Part One: The Foundation</strong> — The physical reality of your world. Terrain, climate, resources, dangers, and how geography shapes where and how people live. This is the geographic baseline that exists regardless of your characters' romantic situation.</p>
+
+    <p><strong>Part Two: Geography & Romance</strong> — How physical geography creates romantic tension. Separation and proximity, dangerous journeys together, entering each other's worlds, places that hold emotional meaning.</p>
+
+    <p>You need both.</p>
+
+    <h2>A Note Before You Begin</h2>
+
+    <p>Not every question will apply to your story. <strong>Skip what doesn't fit.</strong></p>
+
+    <p><strong>Worldbuild for its own sake if you want.</strong> A richly developed world has value beyond what appears on the page. Use the "romance connection" prompts for brainstorming if they're helpful, or leave them blank if that element is just background texture.</p>
+
+    <p><strong>Come back later.</strong> If you're not sure whether something matters yet, skip it and return once your story has taken more shape.</p>
+
+    <p>This workbook is a tool, not a test.</p>
+
+    <h2>How to Think About Geography in Romantasy</h2>
+
+    <p>Geography in romantasy functions as a <strong>pressure system</strong> — the physical world can compress your characters together, force them apart, or create conditions where they must rely on each other. Before you draw a map, ask yourself: <em>What geographic situation does my romance need?</em></p>
+
+    <p>Not every hill and river needs to serve the plot. But the geography you emphasize — the locations where scenes happen, the terrain your characters traverse, the distances between them — should be doing something. Background geography creates atmosphere and believability. Foreground geography creates story.</p>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: GEOGRAPHY-AS-FRICTION FRAMEWORK
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h3 class="mt-0">The Geography-as-Friction Framework</h3>
+    <p class="hint">Develop geography that creates friction — between your characters, or between what they want and what they can have.</p>
+
+    <div class="framework-box">
+        <h4>Separation Friction</h4>
+        <p>What physical obstacles keep them apart?</p>
+        <ul>
+            <li>Different kingdoms separated by mountains</li>
+            <li>An ocean that takes months to cross</li>
+            <li>A magical barrier that can only be crossed under certain conditions</li>
+            <li>War zones that make travel deadly</li>
+        </ul>
+    </div>
+
+    <div class="framework-box">
+        <h4>Proximity Friction</h4>
+        <p>What forces them together despite themselves?</p>
+        <ul>
+            <li>A snowed-in mountain pass</li>
+            <li>A ship voyage with no escape</li>
+            <li>An isolated estate or academy</li>
+            <li>A dangerous journey requiring partnership</li>
+        </ul>
+    </div>
+
+    <div class="framework-box">
+        <h4>Resource Friction</h4>
+        <p>What geographic scarcity creates conflict?</p>
+        <ul>
+            <li>Water rights in a desert region</li>
+            <li>The only pass through the mountains</li>
+            <li>A rare magical resource found in contested territory</li>
+            <li>Trade routes that require cooperation between enemies</li>
+        </ul>
+    </div>
+
+    <p>Geography that doesn't create friction isn't wasted — it's just setting.</p>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: PRESSURE COOKER PRINCIPLE
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h3 class="mt-0">The "Pressure Cooker" Principle</h3>
+    <p>The most effective romantasy settings function as pressure cookers — environments that trap characters together and force interaction:</p>
+
+    <ul>
+        <li><strong>Physical trapping:</strong> Islands, academies, sieges, ships, remote estates</li>
+        <li><strong>Circumstantial trapping:</strong> Dangerous wilderness requiring partnership, diplomatic missions, shared exile</li>
+        <li><strong>Environmental trapping:</strong> Storms, seasons, magical barriers that prevent departure</li>
+    </ul>
+
+    <div class="anchor-card">
+        <span class="anchor-title">The Key Question</span>
+        <div class="anchor-question">If your characters could simply walk away from each other, would they? If yes, your geography might need to make walking away impossible, dangerous, or costly.</div>
+    </div>
+
+    <h2>Common Geographic Patterns in Romantasy</h2>
+
+    <h3>Settings That Force Proximity</h3>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Setting Type</th>
+                <th>Why It Works</th>
+                <th>Examples</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>The Academy/Training Ground</strong></td>
+                <td>Characters live, train, and compete in close quarters with no escape</td>
+                <td><em>Fourth Wing</em>, <em>Zodiac Academy</em></td>
+            </tr>
+            <tr>
+                <td><strong>The Isolated Estate</strong></td>
+                <td>Limited cast, limited space, limited options for avoidance</td>
+                <td>Gothic romances, <em>Pride and Prejudice</em> variations</td>
+            </tr>
+            <tr>
+                <td><strong>The Ship/Caravan</strong></td>
+                <td>Moving container with enforced proximity and shared danger</td>
+                <td>Pirate romance, trade caravan stories</td>
+            </tr>
+            <tr>
+                <td><strong>The Siege/War Camp</strong></td>
+                <td>External threat forces cooperation; death is the alternative</td>
+                <td>Military romantasy</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: MORE PATTERNS
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h3 class="mt-0">Geographic Barriers That Create Stakes</h3>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Barrier Type</th>
+                <th>Romantic Function</th>
+                <th>Story Possibilities</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Mountain ranges</strong></td>
+                <td>Separate nations/cultures; make travel seasonal</td>
+                <td>Characters from opposite sides; winter trapping</td>
+            </tr>
+            <tr>
+                <td><strong>Oceans</strong></td>
+                <td>Create complete separation; make departure permanent</td>
+                <td>Letters across distance; the weight of leaving</td>
+            </tr>
+            <tr>
+                <td><strong>Deserts</strong></td>
+                <td>Isolate cultures; make resources precious</td>
+                <td>Oasis politics; survival journeys</td>
+            </tr>
+            <tr>
+                <td><strong>Magical borders</strong></td>
+                <td>Can be crossed only by certain people or under certain conditions</td>
+                <td>One character can cross, one cannot</td>
+            </tr>
+            <tr>
+                <td><strong>War zones</strong></td>
+                <td>Make travel deadly; create no-man's-land between peoples</td>
+                <td>Enemies from opposing sides</td>
+            </tr>
+            <tr>
+                <td><strong>Political borders</strong></td>
+                <td>Crossing means treason or exile</td>
+                <td>Forbidden love across enemy lines</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Environmental Conditions That Affect Romance</h3>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Condition</th>
+                <th>How It Creates Pressure</th>
+                <th>Romantic Beats It Enables</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Harsh winters</strong></td>
+                <td>Traps characters indoors; requires shared warmth</td>
+                <td>Forced proximity; "snowed in" scenarios</td>
+            </tr>
+            <tr>
+                <td><strong>Dangerous nights</strong></td>
+                <td>Characters must shelter together after dark</td>
+                <td>Shared watch; protective sleeping arrangements</td>
+            </tr>
+            <tr>
+                <td><strong>Seasonal access</strong></td>
+                <td>Passes close, ships can't sail, travel becomes impossible</td>
+                <td>Racing against time; trapped until spring</td>
+            </tr>
+            <tr>
+                <td><strong>Resource scarcity</strong></td>
+                <td>Sharing becomes necessary; generosity becomes meaningful</td>
+                <td>Sharing food/water; sacrifice for the other</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: COMMON MISTAKES
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">Common Mistakes with Geographic Worldbuilding</h2>
+
+    <div class="mistake-box">
+        <div class="mistake-title">Mistake #1: The Teleporting World</div>
+        <p><strong>What it looks like:</strong> Characters travel vast distances with no sense of time passing. A journey that should take weeks happens between chapters with no mention of how they traveled or what dangers they faced.</p>
+        <p><strong>Why it hurts your romance:</strong> Distance has no weight. Separation has no stakes. Reunion carries no emotional punch.</p>
+        <span class="fix-label">How to Fix It</span>
+        <p>Establish travel times and stick to them. The journey itself can be where the romance happens.</p>
+    </div>
+
+    <div class="mistake-box">
+        <div class="mistake-title">Mistake #2: The Convenient Geography</div>
+        <p><strong>What it looks like:</strong> Geographic features appear or disappear based on plot needs. A mountain range exists when you need to separate characters but vanishes when they need to reunite.</p>
+        <p><strong>Why it hurts your romance:</strong> Readers notice. Stakes that feel fake are stakes that don't matter.</p>
+        <span class="fix-label">How to Fix It</span>
+        <p>Establish your geography early and let it constrain you. Let the physical world create problems you didn't plan for — those problems often generate the best scenes.</p>
+    </div>
+
+    <div class="mistake-box">
+        <div class="mistake-title">Mistake #3: The Empty Map</div>
+        <p><strong>What it looks like:</strong> You have a map with named places, but none feel lived-in. The geography exists but doesn't affect anything.</p>
+        <p><strong>Why it hurts your romance:</strong> Geography should create culture, which creates characters, which creates conflict. If your geography doesn't explain why people are the way they are, your world is just a painted backdrop.</p>
+        <span class="fix-label">How to Fix It</span>
+        <p>For every major geographic feature, ask: <em>How does this shape the people who live here?</em> Let geography explain cultural difference.</p>
+    </div>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: MORE MISTAKES + TRAVEL TIMES
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <div class="mistake-box">
+        <div class="mistake-title">Mistake #4: The Consequence-Free Environment</div>
+        <p><strong>What it looks like:</strong> Your world has dangerous regions and deadly terrain — but no one suffers consequences from them. Characters trek through the Deadly Wastes and emerge fine.</p>
+        <p><strong>Why it hurts your romance:</strong> If danger is all threat and no delivery, readers stop believing in it. And if readers don't believe the world is dangerous, they don't believe your characters need each other to survive it.</p>
+        <span class="fix-label">How to Fix It</span>
+        <p>Let the environment actually hurt people. Show consequences — exhaustion, injury, loss. Make survival meaningful.</p>
+    </div>
+
+    <div class="mistake-box">
+        <div class="mistake-title">Mistake #5: Geography Without Emotional Resonance</div>
+        <p><strong>What it looks like:</strong> You describe the setting in detail, but it's all physical — mountains are tall, forests are dense, cities are crowded. None of it connects to how your characters feel.</p>
+        <p><strong>Why it hurts your romance:</strong> Setting should be emotional landscape. The place where they first met should feel different than other places. The character's homeland should feel like <em>home</em>.</p>
+        <span class="fix-label">How to Fix It</span>
+        <p>Give each major location an emotional quality, and let characters experience it differently. The same castle might feel like prison to one character and sanctuary to another.</p>
+    </div>
+
+    <h2>Reference: Travel Times (Fantasy Approximations)</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Mode of Travel</th>
+                <th>Distance per Day</th>
+                <th>Notes</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Walking (easy terrain)</td>
+                <td>15-20 miles</td>
+                <td>Healthy adult, good weather</td>
+            </tr>
+            <tr>
+                <td>Walking (difficult terrain)</td>
+                <td>8-12 miles</td>
+                <td>Mountains, forest, desert</td>
+            </tr>
+            <tr>
+                <td>Horseback (sustainable)</td>
+                <td>25-35 miles</td>
+                <td>Without exhausting the horse</td>
+            </tr>
+            <tr>
+                <td>Horseback (hard riding)</td>
+                <td>50-60 miles</td>
+                <td>Cannot maintain long-term</td>
+            </tr>
+            <tr>
+                <td>Ship (sailing)</td>
+                <td>100-150 miles</td>
+                <td>Dependent on wind and current</td>
+            </tr>
+            <tr>
+                <td>Carriage/wagon</td>
+                <td>20-30 miles</td>
+                <td>Roads required; slower on rough terrain</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: PART ONE - FOUNDATION TITLE
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <span class="section-number">Section 1 · Part One</span>
+    <h1>The Foundation</h1>
+
+    <h2 class="mt-2">The Big Picture: Your World's Scale</h2>
+
+    <h4>What's the geographic scope of your story?</h4>
+    <p class="hint">Check the scope that best fits your story, then note the primary locations where your romance actually takes place.</p>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Scope</th>
+                <th style="width: 40px;">✓</th>
+                <th>Primary Location(s)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Single city/location (isolated island, palace, academy)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Single region (kingdom, province, territory)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Multiple regions (nations, continents)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Entire world (epic scope)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Multiple worlds/realms (parallel dimensions, portals)</td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h4>If your world is large, where specifically does your romance happen?</h4>
+    <p class="hint">You don't need to detail everything — just locations that matter.</p>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Location Type</th>
+                <th>Name/Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Primary location</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Secondary location</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Secondary location</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: TERRAIN TYPES
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">Terrain Types</h2>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Terrain</th>
+                <th>Exists?</th>
+                <th>Where?</th>
+                <th>What It Provides</th>
+                <th>What Challenges It Creates</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Mountains</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Forests</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Deserts</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Plains/Grasslands</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Wetlands/Swamps</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Coastline/Beaches</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Islands</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Rivers/Lakes</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Magical/unusual terrain</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h4>Which 2-3 terrains matter most for your story?</h4>
+    <p class="hint">Most stories don't use every terrain equally. Identify your priority terrains.</p>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Priority</th>
+                <th>Terrain</th>
+                <th>Why It Matters to Your Story</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: RESOURCES & TERRITORIAL CONTROL
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">Resources & Territorial Control</h2>
+
+    <p>Geography determines who has what — and therefore, who has power. Fertile land, fresh water, mineral deposits, trade routes: these are worth fighting over, worth marrying for, worth dying for.</p>
+
+    <p>In romantasy, resource control often creates the power imbalances that drive conflict between love interests. Resource control explains arranged marriages, political alliances, and the economic pressures that force characters into impossible choices.</p>
+
+    <h4>What natural resources are geographically concentrated?</h4>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Resource</th>
+                <th>Where It's Found</th>
+                <th>Who Controls It</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Fertile farmland</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Fresh water</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Timber/forests</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Mineral deposits</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Coastal access/ports</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Mountain passes</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Magical resources</td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h4>What geographic resource creates tension or conflict in your world?</h4>
+    <p class="hint">Water rights? Arable land? Access to the sea? Control of a trade route?</p>
+    <div class="writing-box">
+        <div class="writing-lines"></div>
+        <div class="writing-lines"></div>
+    </div>
+
+    <h4>How does geographic resource control affect your characters?</h4>
+    <p class="hint">Does one character's family/nation control something the other's needs? Is there territorial dispute between their peoples?</p>
+    <div class="writing-box">
+        <div class="writing-lines"></div>
+        <div class="writing-lines"></div>
+    </div>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: SENSORY WORLD
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">The Sensory World</h2>
+
+    <p>Geography isn't just about what's there — it's about what it feels like to be there. The sensory details of your setting create the emotional texture of scenes. A first kiss hits differently in a garden heavy with night-blooming jasmine than in a stone corridor that smells of torch smoke.</p>
+
+    <h4>What does your primary setting look, sound, smell, and feel like?</h4>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Sense</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>What you see</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>What you hear</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>What you smell</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>What the air feels like (temperature, humidity, wind)</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h4>How does the environment change at different times of day?</h4>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Time</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Morning</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Midday</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Evening</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Night</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h4>What's beautiful about this place?</h4>
+    <div class="writing-box small">
+        <div class="writing-lines"></div>
+    </div>
+
+    <h4>What's harsh or uncomfortable about this place?</h4>
+    <div class="writing-box small">
+        <div class="writing-lines"></div>
+    </div>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: CLIMATE & SEASONS
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">Climate, Weather & Seasons</h2>
+
+    <p>Weather creates immediate physical conditions that affect what's possible — travel, agriculture, warfare, daily life. Seasons can function as deadlines (they must marry before winter closes the pass), as waiting periods (trapped together until spring thaw), or as markers of time passing in a slow-burn romance.</p>
+
+    <h4>What's the overall climate?</h4>
+    <div class="writing-box small">
+        <div class="writing-lines"></div>
+    </div>
+
+    <h4>What seasons exist and how distinct are they?</h4>
+    <div class="writing-box small">
+        <div class="writing-lines"></div>
+    </div>
+
+    <h4>What season is your story set in?</h4>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Aspect</th>
+                <th>Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Season</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>What this season makes possible</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>What this season makes impossible</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h4>How do seasons affect life in your world?</h4>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Season</th>
+                <th>What's Possible</th>
+                <th>What's Impossible</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Summer/warm season</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Winter/cold season</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Transitional seasons</td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h4>Does the season create pressure or opportunity in your story?</h4>
+    <p class="hint">Racing against winter? Waiting for spring thaw? Only able to travel in summer?</p>
+    <div class="writing-box small">
+        <div class="writing-lines"></div>
+    </div>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: DANGEROUS REGIONS & BORDERS
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">Dangerous Regions</h2>
+
+    <p>Every world has places that are deadly — and therefore avoided, or crossed only with preparation and company. Dangerous regions serve romance by raising stakes and forcing partnership.</p>
+
+    <h4>What regions are dangerous or forbidden?</h4>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Region</th>
+                <th>What Makes It Dangerous</th>
+                <th>Who Goes There Anyway (and Why)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h4>Do your characters travel through dangerous territory?</h4>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Aspect</th>
+                <th>Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Where and why</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>What dangers they face</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Borders & Boundaries</h2>
+
+    <h4>What geographic features create borders?</h4>
+    <p class="hint">Mountain ranges? Rivers? Oceans? Magical barriers? Deserts?</p>
+    <div class="writing-box small">
+        <div class="writing-lines"></div>
+    </div>
+
+    <h4>How permeable are these borders?</h4>
+    <p class="hint">Easy to cross? Heavily guarded? Physically impassable? Seasonally accessible?</p>
+    <div class="writing-box small">
+        <div class="writing-lines"></div>
+    </div>
+
+    <h4>Do your characters come from opposite sides of a significant border?</h4>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Aspect</th>
+                <th>Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>What separates them</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>What crossing means (legally, socially, personally)</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: PART TWO - GEOGRAPHY & ROMANCE
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <span class="section-number">Section 1 · Part Two</span>
+    <h1>Geography & Romance</h1>
+
+    <h2 class="mt-2">Home & Belonging</h2>
+
+    <p>Geography isn't just physical — it's emotional. Home is one of the most emotionally charged concepts in romance. Characters may leave home to find love, may be torn between love and home, may find that home becomes wherever the other person is — or may discover that choosing this person means exile from everything familiar.</p>
+
+    <h4>Where does your protagonist feel at home?</h4>
+    <p class="hint">The place that shaped them, where they feel most themselves:</p>
+    <div class="writing-box">
+        <div class="writing-lines"></div>
+        <div class="writing-lines"></div>
+    </div>
+
+    <h4>What does home look, smell, sound like to them?</h4>
+    <p class="hint">The sensory details that mean "home":</p>
+    <div class="writing-box">
+        <div class="writing-lines"></div>
+        <div class="writing-lines"></div>
+    </div>
+
+    <h4>Where does your love interest feel at home?</h4>
+    <div class="writing-box">
+        <div class="writing-lines"></div>
+        <div class="writing-lines"></div>
+    </div>
+
+    <h4>Where does each character feel like an outsider?</h4>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Character</th>
+                <th>Where They Feel Alien</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Protagonist</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Love interest</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: ENTERING EACH OTHER'S WORLDS
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">Entering Each Other's Worlds</h2>
+
+    <p>If your characters come from different places, visiting each other's territory is significant. There's a particular vulnerability in bringing someone into your home territory. You see your world through their eyes, noticing things you'd stopped seeing — both the beauty and the flaws.</p>
+
+    <h4>Does one character visit the other's home territory?</h4>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Aspect</th>
+                <th>Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Who visits whose world</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h4>What's the sensory experience of entering unfamiliar territory?</h4>
+    <p class="hint">What do they notice first? What's strange? What's beautiful? What's uncomfortable?</p>
+    <div class="writing-box">
+        <div class="writing-lines"></div>
+        <div class="writing-lines"></div>
+    </div>
+
+    <h4>How does the "native" character see their home differently through the visitor's eyes?</h4>
+    <p class="hint">Pride? Shame? New appreciation? Defensiveness?</p>
+    <div class="writing-box">
+        <div class="writing-lines"></div>
+        <div class="writing-lines"></div>
+    </div>
+
+    <h4>What does the visitor understand about their partner after seeing where they come from?</h4>
+    <div class="writing-box">
+        <div class="writing-lines"></div>
+        <div class="writing-lines"></div>
+    </div>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: TRAVEL & ISOLATED LOCATIONS
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">Travel & Distance</h2>
+
+    <p>Distance creates stakes. If characters can teleport anywhere, separation has no weight. If journeys take weeks, every departure matters.</p>
+
+    <h4>How do people typically travel?</h4>
+    <p class="hint">On foot? Horseback? Ships? Flying creatures? Magical transportation?</p>
+    <div class="writing-box small">
+        <div class="writing-lines"></div>
+    </div>
+
+    <h4>How long does travel take between key locations?</h4>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Route</th>
+                <th>Travel Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>From capital to border</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>From one character's home to the other's</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Across the dangerous region</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h4>Do your characters undertake a significant journey?</h4>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Aspect</th>
+                <th>Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>From where to where</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>How long</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>What happens during the journey</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Isolated Locations</h2>
+
+    <h4>What isolated locations exist?</h4>
+    <p class="hint">Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:</p>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Location</th>
+                <th>Type</th>
+                <th>Why People Go</th>
+                <th>Why Leaving Is Difficult</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: EMOTIONAL LANDSCAPE & INTEGRATION
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">Geography as Emotional Landscape</h2>
+
+    <p>The physical world can resonate with or contrast against the emotional journey. A love scene in a sunlit meadow feels different than one in a crumbling tower. A confession during a storm carries different weight than one in stillness.</p>
+
+    <h4>What's the emotional quality of your primary setting?</h4>
+    <p class="hint">Does it feel oppressive, expansive, peaceful, threatening, beautiful, decaying?</p>
+    <div class="writing-box">
+        <div class="writing-lines"></div>
+        <div class="writing-lines"></div>
+    </div>
+
+    <h4>Is there a location that becomes meaningful to your characters specifically?</h4>
+    <p class="hint">A place they return to, a place where something changed, a place that's "theirs":</p>
+    <div class="writing-box">
+        <div class="writing-lines"></div>
+        <div class="writing-lines"></div>
+    </div>
+
+    <h2>Integration Check</h2>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Question</th>
+                <th>Your Answer</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>How does geography explain cultural differences? <em>(Reference: Section 3)</em></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>How does geography create or reinforce power structures? <em>(Reference: Section 5)</em></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>How does geography interact with magic? <em>(Reference: Section 8)</em></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>What geographic resource or territory is contested in your world?</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
+     SECTION 1: QUICK REFERENCE
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">Quick Reference: Geographic Stakes</h2>
+
+    <table class="input-table">
+        <thead>
+            <tr>
+                <th>Element</th>
+                <th>Your World</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Key location 1</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Key location 2</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Key location 3</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>The contested resource or territory</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>The barrier separating peoples or characters</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>The dangerous region</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>The isolated location</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>The significant journey (from → to)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>The place that matters emotionally</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="anchor-card">
+        <span class="anchor-title">Final Thought</span>
+        <div class="anchor-question">Your map isn't just where things are — it's why characters must make the choices they make. The mountain range is why two nations distrust each other. The desert is why whoever controls the oasis controls the trade route.</div>
+        <p style="font-size: 0.9rem; color: var(--color-text-sub); margin: 0;">Build geography that explains your world and creates the situations your story needs.</p>
+    </div>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+</body>
+</html>
