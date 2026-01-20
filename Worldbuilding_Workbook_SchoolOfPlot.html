@@ -578,6 +578,33 @@
         .mb-2 { margin-bottom: 1rem; }
         .text-center { text-align: center; }
         .text-muted { color: var(--color-text-muted); }
+
+        /* Navigation Links */
+        .nav-link {
+            display: block;
+            text-align: center;
+            margin-top: 1.5rem;
+            padding-top: 1rem;
+            border-top: 1px solid var(--color-border);
+        }
+
+        .nav-link a {
+            color: var(--color-accent);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s ease;
+        }
+
+        .nav-link a:hover {
+            color: var(--color-text);
+            text-decoration: underline;
+        }
+
+        @media print {
+            .nav-link {
+                display: none;
+            }
+        }
     </style>
 </head>
 <body>
@@ -782,7 +809,7 @@
 <!-- ==========================================
      TABLE OF CONTENTS
      ========================================== -->
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="contents">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -793,58 +820,97 @@
     <table>
         <thead>
             <tr>
-                <th>Section</th>
+                <th>#</th>
                 <th>Topic</th>
-                <th>What It Covers</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>1</td>
                 <td><a href="#section-1">Geography & Environment</a></td>
-                <td>Physical world, climate, travel, how place creates obstacles</td>
             </tr>
             <tr>
                 <td>2</td>
                 <td><a href="#section-2">Flora, Fauna & Ecosystems</a></td>
-                <td>Plants, animals, bonded creatures, inter-species romance</td>
             </tr>
             <tr>
                 <td>3</td>
                 <td><a href="#section-3">Culture, Customs & Daily Life</a></td>
-                <td>Social norms, taboos, courtship, what's forbidden</td>
             </tr>
             <tr>
                 <td>4</td>
                 <td><a href="#section-4">Economy, Labor & Resources</a></td>
-                <td>Wealth, class, debt, what money means for love</td>
             </tr>
             <tr>
                 <td>5</td>
                 <td><a href="#section-5">Government, Power & Law</a></td>
-                <td>Politics, law, forbidden relationships, enemies-to-lovers</td>
             </tr>
             <tr>
                 <td>6</td>
                 <td><a href="#section-6">Religion, Myth & Prophecy</a></td>
-                <td>Faith, vows, divine purpose, what the gods demand</td>
             </tr>
             <tr>
                 <td>7</td>
                 <td><a href="#section-7">History & Lore</a></td>
-                <td>The past that haunts the present, inherited conflict</td>
             </tr>
             <tr>
                 <td>8</td>
                 <td><a href="#section-8">Magic System</a></td>
-                <td>How magic works, magical bonds, power dynamics</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td><a href="#section-9">Technology & Innovation</a></td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td><a href="#section-10">Time, Seasons & Calendar</a></td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td><a href="#section-11">Language & Communication</a></td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td><a href="#section-12">Magic Conflicts & Corruptions</a></td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td><a href="#section-13">The Pressure Cooker</a></td>
+            </tr>
+            <tr>
+                <td>14</td>
+                <td><a href="#section-14">Institutions & Structures</a></td>
+            </tr>
+            <tr>
+                <td>15</td>
+                <td><a href="#section-15">Designing Your Key Locations</a></td>
+            </tr>
+            <tr>
+                <td>16</td>
+                <td><a href="#section-16">The Web of Systems</a></td>
+            </tr>
+            <tr>
+                <td>17</td>
+                <td><a href="#section-17">The Consistency Check</a></td>
+            </tr>
+            <tr>
+                <td>18</td>
+                <td><a href="#section-18">The Agency Check</a></td>
+            </tr>
+            <tr>
+                <td>19</td>
+                <td><a href="#section-19">World-Romance Integration</a></td>
+            </tr>
+            <tr>
+                <td>20</td>
+                <td><a href="#section-20">Quick Reference Sheets</a></td>
+            </tr>
+            <tr>
+                <td>A</td>
+                <td><a href="#appendix">Appendix: Common Mistakes</a></td>
             </tr>
         </tbody>
     </table>
-
-    <p><strong>Additional Sections</strong> (9-21) cover specialized topics: technology, time & calendar, language, magic conflicts, pressure cooker settings, institutions, and more.</p>
-
-    <p><strong>Appendix A: Revealing Worldbuilding in Prose</strong> — A practical guide to deploying your worldbuilding in scenes without info-dumps.</p>
 
     <div class="anchor-card">
         <span class="anchor-title">Before You Begin</span>
@@ -2136,6 +2202,8 @@
         <div class="anchor-question">Your map isn't just where things are — it's why characters must make the choices they make. The mountain range is why two nations distrust each other. The desert is why whoever controls the oasis controls the trade route.</div>
         <p style="font-size: 0.9rem; color: var(--color-text-sub); margin: 0;">Build geography that explains your world and creates the situations your story needs.</p>
     </div>
+
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
 
     <div class="page-footer">
         <span>Section 1</span>
@@ -3469,6 +3537,8 @@
         <p style="font-size: 0.9rem; color: var(--color-text-sub); margin: 0;">The question isn't "how does the non-human become acceptable?" It's "how do two people with genuinely different natures build something that honors both?"</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 2</span>
         <span>Inter-Species Romance</span>
@@ -4653,6 +4723,8 @@
         <p style="font-size: 0.9rem; color: var(--color-text-sub); margin: 0;">Don't info-dump culture. Show it through action: characters following or breaking rules, social awkwardness when norms are violated. The best cultural worldbuilding is invisible until someone breaks the rules — and then everyone knows exactly what line was crossed.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 3</span>
         <span>Culture, Customs & Daily Life</span>
@@ -5398,6 +5470,8 @@
         <p style="font-size: 0.9rem; color: var(--color-text-sub); margin: 0;">The question isn't "how does the tax system work?" — it's "what would this character do if they couldn't eat tomorrow?" Economics creates stakes when it forces impossible choices: Love or survival? Pride or security? Build an economy that makes these choices real.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 4</span>
         <span>Economy, Labor & Resources</span>
@@ -5409,7 +5483,7 @@
      ========================================== -->
 
 <!-- SECTION 5: TITLE PAGE -->
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-5">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -8221,6 +8295,8 @@
         <p style="font-size: 0.9rem; color: var(--color-text-sub); margin: 0;">Political worldbuilding in romantasy isn't about creating a realistic government — it's about creating meaningful obstacles that require growth, sacrifice, or systemic change to overcome. If your characters can simply ignore the laws or wait for the problem to disappear, your political obstacles aren't strong enough. But if breaking the law means war, if being caught means death — now you have stakes worth writing about.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 5</span>
         <span>Government, Power & Law</span>
@@ -8232,7 +8308,7 @@
      ========================================== -->
 
 <!-- SECTION 6: TITLE PAGE -->
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-6">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -10161,6 +10237,8 @@
         <p style="font-size: 0.9rem; color: var(--color-text-sub); margin: 0;">Even if you're not religious, your characters might be. Their faith should feel genuine — not just an obstacle you created. The best religious worldbuilding makes readers understand why a character would choose faith over love, or why abandoning faith is a true sacrifice. Faith provides comfort, community, identity, and meaning. When characters risk losing that for love, it should hurt. Build a religion that matters enough to fight for, or against, or to redefine entirely.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 6</span>
         <span>Religion, Myth & Prophecy</span>
@@ -10172,7 +10250,7 @@
      ========================================== -->
 
 <!-- SECTION 7: TITLE PAGE -->
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-7">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -12351,6 +12429,8 @@
         <p>Without history, your characters' choices happen in a vacuum. With history, every choice either continues a pattern or breaks one. "We've been enemies for five hundred years" makes reconciliation meaningful. "My ancestor killed yours" makes forgiveness costly. Build a history that makes the present feel inevitable — then let your characters prove the future doesn't have to be.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 7</span>
         <span>History & Lore</span>
@@ -12361,7 +12441,7 @@
      SECTION 8: LANGUAGE & COMMUNICATION
      ============================================================ -->
 
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-8">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -13725,6 +13805,8 @@
         <p>Every word they teach each other, every silence they share, every shift from formal to intimate should mark a deepening connection. Don't just have them speak the same language. Make them learn each other.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 8</span>
         <span>Language & Communication</span>
@@ -13735,7 +13817,7 @@
      SECTION 9: TECHNOLOGY & INFRASTRUCTURE
      ============================================================ -->
 
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-9">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -15233,6 +15315,8 @@
         <p>Technology isn't about gadgets — it's about what your world makes easy and what it makes hard. Build a technology level that creates the constraints your story needs, then let your characters navigate those constraints.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 9</span>
         <span>Technology & Infrastructure</span>
@@ -15243,7 +15327,7 @@
      SECTION 10: BUILDING YOUR MAGIC SYSTEM — THE FOUNDATION
      ============================================================ -->
 
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-10">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -16220,6 +16304,8 @@
         <p>Build magic that forces your characters to make hard choices—and makes readers feel the weight of those choices.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 10</span>
         <span>Magic System Foundation</span>
@@ -16230,7 +16316,7 @@
      SECTION 11: MAGIC & INTIMACY
      ============================================================ -->
 
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-11">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -16810,6 +16896,8 @@
         <p>Whether your magic includes fated bonds or not, the real intimacy comes from characters choosing each other. The bond can say they're matched; only the characters can prove it true.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 11</span>
         <span>Magic & Intimacy</span>
@@ -16820,7 +16908,7 @@
      SECTION 12: MAGIC AS CONFLICT GENERATOR
      ============================================================ -->
 
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-12">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -17344,6 +17432,8 @@
         <p>Magic that only helps is boring. Magic that helps and hurts, that grants power and demands sacrifice, that connects and divides — that's the magic that makes romantasy work.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 12</span>
         <span>Magic as Conflict Generator</span>
@@ -17355,7 +17445,7 @@
      ============================================================ -->
 
 <!-- SECTION 13: INTRO -->
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-13">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -18093,6 +18183,8 @@
         <p>The best forced proximity makes separation impossible — but the characters still have to choose each other. The pressure cooker removes the option to run; it doesn't remove the need to decide.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 13</span>
         <span>The Pressure Cooker</span>
@@ -18104,7 +18196,7 @@
      ============================================================ -->
 
 <!-- SECTION 14: INTRO -->
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-14">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -19046,6 +19138,8 @@
         <p>Design an institution with enough grip that your characters can't just walk away — and then watch them try anyway. The institution creates the pressure; your characters' responses reveal who they really are.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 14</span>
         <span>Institutions & Structures</span>
@@ -19057,7 +19151,7 @@
      ============================================================ -->
 
 <!-- SECTION 15: INTRO -->
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-15">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -19797,6 +19891,8 @@
         <p>Design places that readers will remember because the space itself was part of the story. The best romantic moments don't just happen <em>in</em> locations — they happen <em>because of</em> them.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 15</span>
         <span>Designing Your Key Locations</span>
@@ -19808,7 +19904,7 @@
      ============================================================ -->
 
 <!-- SECTION 16: INTRO -->
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-16">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -20645,6 +20741,8 @@
         <p>The best romantasy endings show that choosing each other wasn't just personally meaningful — it mattered to the world.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 16</span>
         <span>The Web of Systems</span>
@@ -20656,7 +20754,7 @@
      ============================================================ -->
 
 <!-- SECTION 17: INTRO -->
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-17">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -21583,6 +21681,8 @@
         <p>That's how you earn the happy ending.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 17</span>
         <span>The Consistency Check</span>
@@ -21594,7 +21694,7 @@
      ============================================================ -->
 
 <!-- SECTION 18: TITLE PAGE -->
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-18">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -22522,6 +22622,8 @@
         <p><strong>That choice is what makes it love.</strong></p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 18</span>
         <span>The Agency Check</span>
@@ -22533,7 +22635,7 @@
      ============================================================ -->
 
 <!-- SECTION 19: TITLE PAGE -->
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-19">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -23575,6 +23677,8 @@
         <p>Build a world that makes love both impossible and necessary — then let them choose it anyway.</p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 19</span>
         <span>World-Romance Integration</span>
@@ -23586,7 +23690,7 @@
      ============================================================ -->
 
 <!-- SECTION 20: TITLE PAGE -->
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="section-20">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -25071,6 +25175,8 @@
         <p><strong>Happy writing!</strong></p>
     </div>
 
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
     <div class="page-footer">
         <span>Section 20</span>
         <span>Quick Reference Sheets</span>
@@ -25082,7 +25188,7 @@
      ============================================================ -->
 
 <!-- APPENDIX: TITLE PAGE -->
-<div class="page worldbuilding">
+<div class="page worldbuilding" id="appendix">
     <div class="corner-flourish top-left"></div>
     <div class="corner-flourish top-right"></div>
     <div class="corner-flourish bottom-left"></div>
@@ -25769,6 +25875,8 @@
 
         <p>The fact that you're thinking about these issues means you're already ahead. Now take what you've learned and make your world stronger.</p>
     </div>
+
+    <div class="nav-link"><a href="#contents">Back to Contents</a></div>
 
     <div class="page-footer">
         <span>Appendix</span>
