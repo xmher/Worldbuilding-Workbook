@@ -605,6 +605,47 @@
                 display: none;
             }
         }
+
+        /* Section Mini-TOC */
+        .section-toc {
+            margin: 1rem 0;
+        }
+
+        .section-toc h3 {
+            font-size: 1rem;
+            color: var(--color-accent);
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .section-toc ul {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 1rem 0;
+            columns: 2;
+            column-gap: 2rem;
+        }
+
+        .section-toc li {
+            margin-bottom: 0.4rem;
+            break-inside: avoid;
+        }
+
+        .section-toc a {
+            color: var(--color-text);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s ease;
+        }
+
+        .section-toc a:hover {
+            color: var(--color-accent);
+        }
+
+        .section-toc-single ul {
+            columns: 1;
+        }
     </style>
 </head>
 <body>
@@ -947,6 +988,59 @@
 </div>
 
 <!-- ==========================================
+     SECTION 1: MINI-TOC
+     ========================================== -->
+<div class="page worldbuilding">
+    <div class="corner-flourish top-left"></div>
+    <div class="corner-flourish top-right"></div>
+    <div class="corner-flourish bottom-left"></div>
+    <div class="corner-flourish bottom-right"></div>
+
+    <h2 class="mt-0">In This Section</h2>
+
+    <div class="section-toc">
+        <h3>Concepts & Frameworks</h3>
+        <ul>
+            <li><a href="#s1-intro">How to Think About Geography</a></li>
+            <li><a href="#s1-patterns">Common Geographic Patterns</a></li>
+            <li><a href="#s1-mistakes">Common Mistakes</a></li>
+            <li><a href="#s1-travel-times">Reference: Travel Times</a></li>
+        </ul>
+    </div>
+
+    <div class="section-toc">
+        <h3>Part One: The Foundation</h3>
+        <ul>
+            <li><a href="#s1-big-picture">The Big Picture: World's Scale</a></li>
+            <li><a href="#s1-terrain">Terrain Types</a></li>
+            <li><a href="#s1-resources">Resources & Territorial Control</a></li>
+            <li><a href="#s1-sensory">The Sensory World</a></li>
+            <li><a href="#s1-climate">Climate, Weather & Seasons</a></li>
+            <li><a href="#s1-dangerous">Dangerous Regions</a></li>
+            <li><a href="#s1-borders">Borders & Boundaries</a></li>
+        </ul>
+    </div>
+
+    <div class="section-toc">
+        <h3>Part Two: Geography & Romance</h3>
+        <ul>
+            <li><a href="#s1-home">Home & Belonging</a></li>
+            <li><a href="#s1-worlds">Entering Each Other's Worlds</a></li>
+            <li><a href="#s1-travel">Travel & Distance</a></li>
+            <li><a href="#s1-isolated">Isolated Locations</a></li>
+            <li><a href="#s1-emotional">Geography as Emotional Landscape</a></li>
+            <li><a href="#s1-integration">Integration Check</a></li>
+            <li><a href="#s1-quick-ref">Quick Reference</a></li>
+        </ul>
+    </div>
+
+    <div class="page-footer">
+        <span>Section 1</span>
+        <span>Geography & Environment</span>
+    </div>
+</div>
+
+<!-- ==========================================
      SECTION 1: INTRO PAGE
      ========================================== -->
 <div class="page worldbuilding">
@@ -973,7 +1067,7 @@
 
     <p>This workbook is a tool, not a test.</p>
 
-    <h2>How to Think About Geography in Romantasy</h2>
+    <h2 id="s1-intro">How to Think About Geography in Romantasy</h2>
 
     <p>Geography in romantasy functions as a <strong>pressure system</strong> — the physical world can compress your characters together, force them apart, or create conditions where they must rely on each other. Before you draw a map, ask yourself: <em>What geographic situation does my romance need?</em></p>
 
@@ -1061,7 +1155,7 @@
         <div class="anchor-question">If your characters could simply walk away from each other, would they? If yes, your geography might need to make walking away impossible, dangerous, or costly.</div>
     </div>
 
-    <h2>Common Geographic Patterns in Romantasy</h2>
+    <h2 id="s1-patterns">Common Geographic Patterns in Romantasy</h2>
 
     <h3>Settings That Force Proximity</h3>
 
@@ -1205,7 +1299,7 @@
     <div class="corner-flourish bottom-left"></div>
     <div class="corner-flourish bottom-right"></div>
 
-    <h2 class="mt-0">Common Mistakes with Geographic Worldbuilding</h2>
+    <h2 class="mt-0" id="s1-mistakes">Common Mistakes with Geographic Worldbuilding</h2>
 
     <div class="mistake-box">
         <div class="mistake-title">Mistake #1: The Teleporting World</div>
@@ -1262,7 +1356,7 @@
         <p>Give each major location an emotional quality, and let characters experience it differently. The same castle might feel like prison to one character and sanctuary to another.</p>
     </div>
 
-    <h2>Reference: Travel Times (Fantasy Approximations)</h2>
+    <h2 id="s1-travel-times">Reference: Travel Times (Fantasy Approximations)</h2>
 
     <table>
         <thead>
@@ -1324,7 +1418,7 @@
     <span class="section-number">Section 1 · Part One</span>
     <h1>The Foundation</h1>
 
-    <h2 class="mt-2">The Big Picture: Your World's Scale</h2>
+    <h2 class="mt-2" id="s1-big-picture">The Big Picture: Your World's Scale</h2>
 
     <h4>What's the geographic scope of your story?</h4>
     <p class="hint">Check the scope that best fits your story, then note the primary locations where your romance actually takes place.</p>
@@ -1407,7 +1501,7 @@
     <div class="corner-flourish bottom-left"></div>
     <div class="corner-flourish bottom-right"></div>
 
-    <h2 class="mt-0">Terrain Types</h2>
+    <h2 class="mt-0" id="s1-terrain">Terrain Types</h2>
 
     <table class="input-table">
         <thead>
@@ -1531,7 +1625,7 @@
     <div class="corner-flourish bottom-left"></div>
     <div class="corner-flourish bottom-right"></div>
 
-    <h2 class="mt-0">Resources & Territorial Control</h2>
+    <h2 class="mt-0" id="s1-resources">Resources & Territorial Control</h2>
 
     <p>Geography determines who has what — and therefore, who has power. Fertile land, fresh water, mineral deposits, trade routes: these are worth fighting over, worth marrying for, worth dying for.</p>
 
@@ -1611,7 +1705,7 @@
     <div class="corner-flourish bottom-left"></div>
     <div class="corner-flourish bottom-right"></div>
 
-    <h2 class="mt-0">The Sensory World</h2>
+    <h2 class="mt-0" id="s1-sensory">The Sensory World</h2>
 
     <p>Geography isn't just about what's there — it's about what it feels like to be there. The sensory details of your setting create the emotional texture of scenes. A first kiss hits differently in a garden heavy with night-blooming jasmine than in a stone corridor that smells of torch smoke.</p>
 
@@ -1696,7 +1790,7 @@
     <div class="corner-flourish bottom-left"></div>
     <div class="corner-flourish bottom-right"></div>
 
-    <h2 class="mt-0">Climate, Weather & Seasons</h2>
+    <h2 class="mt-0" id="s1-climate">Climate, Weather & Seasons</h2>
 
     <p>Weather creates immediate physical conditions that affect what's possible — travel, agriculture, warfare, daily life. Seasons can function as deadlines (they must marry before winter closes the pass), as waiting periods (trapped together until spring thaw), or as markers of time passing in a slow-burn romance.</p>
 
@@ -1782,7 +1876,7 @@
     <div class="corner-flourish bottom-left"></div>
     <div class="corner-flourish bottom-right"></div>
 
-    <h2 class="mt-0">Dangerous Regions</h2>
+    <h2 class="mt-0" id="s1-dangerous">Dangerous Regions</h2>
 
     <p>Every world has places that are deadly — and therefore avoided, or crossed only with preparation and company. Dangerous regions serve romance by raising stakes and forcing partnership.</p>
 
@@ -1831,7 +1925,7 @@
         </tbody>
     </table>
 
-    <h2>Borders & Boundaries</h2>
+    <h2 id="s1-borders">Borders & Boundaries</h2>
 
     <h4>What geographic features create borders?</h4>
     <p class="hint">Mountain ranges? Rivers? Oceans? Magical barriers? Deserts?</p>
@@ -1882,7 +1976,7 @@
     <span class="section-number">Section 1 · Part Two</span>
     <h1>Geography & Romance</h1>
 
-    <h2 class="mt-2">Home & Belonging</h2>
+    <h2 class="mt-2" id="s1-home">Home & Belonging</h2>
 
     <p>Geography isn't just physical — it's emotional. Home is one of the most emotionally charged concepts in romance. Characters may leave home to find love, may be torn between love and home, may find that home becomes wherever the other person is — or may discover that choosing this person means exile from everything familiar.</p>
 
@@ -1936,7 +2030,7 @@
     <div class="corner-flourish bottom-left"></div>
     <div class="corner-flourish bottom-right"></div>
 
-    <h2 class="mt-0">Entering Each Other's Worlds</h2>
+    <h2 class="mt-0" id="s1-worlds">Entering Each Other's Worlds</h2>
 
     <p>If your characters come from different places, visiting each other's territory is significant. There's a particular vulnerability in bringing someone into your home territory. You see your world through their eyes, noticing things you'd stopped seeing — both the beauty and the flaws.</p>
 
@@ -1986,7 +2080,7 @@
     <div class="corner-flourish bottom-left"></div>
     <div class="corner-flourish bottom-right"></div>
 
-    <h2 class="mt-0">Travel & Distance</h2>
+    <h2 class="mt-0" id="s1-travel">Travel & Distance</h2>
 
     <p>Distance creates stakes. If characters can teleport anywhere, separation has no weight. If journeys take weeks, every departure matters.</p>
 
@@ -2045,7 +2139,7 @@
         </tbody>
     </table>
 
-    <h2>Isolated Locations</h2>
+    <h2 id="s1-isolated">Isolated Locations</h2>
 
     <h4>What isolated locations exist?</h4>
     <p class="hint">Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:</p>
@@ -2090,7 +2184,7 @@
     <div class="corner-flourish bottom-left"></div>
     <div class="corner-flourish bottom-right"></div>
 
-    <h2 class="mt-0">Geography as Emotional Landscape</h2>
+    <h2 class="mt-0" id="s1-emotional">Geography as Emotional Landscape</h2>
 
     <p>The physical world can resonate with or contrast against the emotional journey. A love scene in a sunlit meadow feels different than one in a crumbling tower. A confession during a storm carries different weight than one in stillness.</p>
 
@@ -2104,7 +2198,7 @@
     <div class="writing-box">
     </div>
 
-    <h2>Integration Check</h2>
+    <h2 id="s1-integration">Integration Check</h2>
 
     <table class="input-table">
         <thead>
@@ -2148,7 +2242,7 @@
     <div class="corner-flourish bottom-left"></div>
     <div class="corner-flourish bottom-right"></div>
 
-    <h2 class="mt-0">Quick Reference: Geographic Stakes</h2>
+    <h2 class="mt-0" id="s1-quick-ref">Quick Reference: Geographic Stakes</h2>
 
     <table class="input-table">
         <thead>
