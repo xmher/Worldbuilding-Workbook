@@ -422,6 +422,11 @@
         .mb-1 { margin-bottom: 0.5rem; }
         .mb-2 { margin-bottom: 1rem; }
         .break-before { break-before: page; }
+        /* Compact reference tables - tighter spacing to fit more per page */
+        table.compact th { padding: 8px 10px; font-size: 0.65rem; }
+        table.compact td { padding: 8px 10px; font-size: 0.85rem; line-height: 1.4; }
+        table.compact { margin: 1rem 0; }
+        h3.compact { margin-top: 1rem; margin-bottom: 0.5rem; font-size: 1rem; }
         .text-center { text-align: center; }
         .text-muted { color: var(--color-text-muted); }
         @media screen {
@@ -578,9 +583,9 @@
 
 <h2 id="s1-patterns" class="break-before">Common Geographic Patterns in Romantasy</h2>
 
-<h3>Settings That Force Proximity</h3>
+<h3 class="compact">Settings That Force Proximity</h3>
 
-<table>
+<table class="compact">
     <thead>
         <tr>
             <th>Setting Type</th>
@@ -617,9 +622,9 @@
  SECTION 1: MORE PATTERNS
  ========================================== -->
 
-<h3 class="mt-0">Geographic Barriers That Create Stakes</h3>
+<h3 class="mt-0 compact">Geographic Barriers That Create Stakes</h3>
 
-<table>
+<table class="compact">
     <thead>
         <tr>
             <th>Barrier Type</th>
@@ -661,9 +666,9 @@
     </tbody>
 </table>
 
-<h3>Environmental Conditions That Affect Romance</h3>
+<h3 class="compact">Environmental Conditions That Affect Romance</h3>
 
-<table>
+<table class="compact">
     <thead>
         <tr>
             <th>Condition</th>
