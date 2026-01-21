@@ -1,6 +1,6 @@
 # SECTION 1: Geography & Environment
 
-Geography isn't just a map — it's the physical constraints that shape everything else. Mountains create borders that become political divisions. Deserts isolate cultures. Rivers determine where cities grow. Control of fertile valleys determines who holds power.
+Geography isn't just a map — it's one of the biggest influences that shape people and societies. Mountains create borders that become political divisions. Deserts isolate cultures. Rivers determine where cities grow. Control of fertile valleys determines who holds power.
 
 This section is divided into two parts:
 
@@ -26,9 +26,9 @@ This workbook is a tool, not a test.
 
 ## How to Think About Geography in Romantasy
 
-Geography in romantasy functions as a **pressure system** — the physical world can compress your characters together, force them apart, or create conditions where they must rely on each other. Before you draw a map, ask yourself: *What geographic situation does my romance need?*
+Geography in romantasy functions as a **physical pressure system** — the physical world can force your characters together, force them apart, or create conditions where they'll have to rely on each other. Before you draw a map, ask yourself: *What geographic situation does my romance need?*
 
-Not every hill and river needs to serve the plot. But the geography you emphasize — the locations where scenes happen, the terrain your characters traverse, the distances between them — should be doing something. Background geography creates atmosphere and believability. Foreground geography creates story.
+Not every hill and river needs to serve the plot. But the geography you emphasize — the locations where scenes happen, the terrain your characters traverse, or the distances between them — should be doing something. Background geography creates atmosphere and believability, but you can also use geography to push the plot and characters to develop..
 
 ### The Geography-as-Friction Framework
 
