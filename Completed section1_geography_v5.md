@@ -58,13 +58,17 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 The most effective romantasy settings function as pressure cookers — environments that trap characters together and force interaction:
 
-- **Physical trapping:** Islands, academies, sieges, ships, remote estates
-- **Circumstantial trapping:** Dangerous wilderness requiring partnership, diplomatic missions, shared exile
-- **Environmental trapping:** Storms, seasons, magical barriers that prevent departure
+- **Physical trapping:** Islands, academies, sieges, ships, remote estates — these are locations with hard boundaries. Your characters literally cannot leave. The walls of an academy, the shores of an island, the hull of a ship — these become the edges of their world. Every interaction happens within these confines, and avoidance becomes nearly impossible.
+
+- **Circumstantial trapping:** Dangerous wilderness requiring partnership, diplomatic missions, shared exile — here, leaving is technically possible but practically disastrous. Characters could walk away, but doing so means death, disgrace, or failure. The pressure comes from mutual need rather than physical walls.
+
+- **Environmental trapping:** Storms, seasons, magical barriers that prevent departure — these are temporary but absolute. The mountain pass is snowed in until spring. The magical barrier won't lift until the ritual is complete. Characters know they'll eventually be free, which creates a different tension: the clock is ticking on their forced proximity.
+
+The best pressure cookers combine multiple types. An academy on an island (physical) where students must partner to survive training (circumstantial) during a season when storms make escape impossible (environmental) creates layers of inescapable togetherness.
 
 *If your characters could simply walk away from each other, would they?* If yes, your geography might need to make walking away impossible, dangerous, or costly.
 
----
+<div style="page-break-before: always;"></div>
 
 ## Common Geographic Patterns in Romantasy
 
