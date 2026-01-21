@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worldbuilding Workbook - Paged.js Sample</title>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+    <style>
+        :root {
+            --color-worldbuilding: #065f46;
+            --color-worldbuilding-light: rgba(6, 95, 70, 0.1);
+            --color-bg: #fdfbf7;
+            --color-noir: #1a1515;
+            --color-accent: #e2c98a;
+            --color-danger: #9f1239;
+            --color-text-main: #121212;
+            --color-text-sub: #444444;
+            --color-text-muted: #888888;
+            --font-display: 'Libre Baskerville', serif;
+            --font-accent: 'Cormorant Garamond', serif;
+            --font-body: 'Inter', sans-serif;
+            --theme-color: var(--color-worldbuilding);
+            --theme-color-light: var(--color-worldbuilding-light);
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            background-color: var(--color-bg);
+            color: var(--color-text-main);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            font-size: 11pt;
+        }
+
+        /* Paged.js page setup */
+        @page {
+            size: 8.5in 11in;
+            margin: 70px 80px 100px 80px;
+            background: var(--color-bg);
+
+            @bottom-center {
+                content: counter(page);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.7rem;
+                font-weight: 700;
+                color: var(--color-worldbuilding);
+            }
+
+            @bottom-left {
+                content: string(section-title);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.6rem;
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                color: #888;
+            }
+        }
+
+        @page:first {
+            @bottom-center { content: none; }
+            @bottom-left { content: none; }
+        }
+
+        /* Page decorations via Paged.js generated elements */
+        .pagedjs_page {
+            background: var(--color-bg) !important;
+        }
+
+        .pagedjs_page::before {
+            content: '';
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            right: 15px;
+            bottom: 15px;
+            border: 3px solid var(--color-worldbuilding);
+            pointer-events: none;
+            z-index: 1000;
+        }
+
+        .pagedjs_page::after {
+            content: '';
+            position: absolute;
+            top: 22px;
+            left: 22px;
+            right: 22px;
+            bottom: 22px;
+            border: 1px solid var(--color-accent);
+            pointer-events: none;
+            z-index: 1000;
+        }
+
+        /* Running headers */
+        h2 { string-set: section-title content(); }
+
+        /* Typography */
+        h1 {
+            font-family: var(--font-display);
+            font-size: 2rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--color-noir);
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+        }
+
+        h2 {
+            font-family: var(--font-display);
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--color-noir);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--color-accent);
+            break-after: avoid;
+        }
+
+        h3 {
+            font-family: var(--font-display);
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+            break-after: avoid;
+        }
+
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+            hyphens: auto;
+            orphans: 3;
+            widows: 3;
+        }
+
+        .lead-text {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+        }
+
+        ul, ol { margin: 1rem 0 1rem 1.5rem; }
+        li { margin-bottom: 0.5rem; }
+
+        /* Title page */
+        .title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 9in;
+            break-after: page;
+        }
+
+        .title-page h1 {
+            font-size: 2.5rem;
+            letter-spacing: 6px;
+            margin-bottom: 0.5rem;
+        }
+
+        .title-page .divider {
+            width: 100px;
+            height: 2px;
+            background: var(--color-accent);
+            margin: 2rem 0;
+        }
+
+        .title-page .tagline {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            color: var(--color-text-muted);
+            max-width: 400px;
+        }
+
+        .section-number {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        /* Section title page */
+        .section-title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 9in;
+            break-before: page;
+            break-after: page;
+        }
+
+        .section-title-page .section-label {
+            font-family: var(--font-display);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            color: var(--theme-color);
+            margin-bottom: 1rem;
+        }
+
+        .section-title-page h1 {
+            font-size: 2.2rem;
+            margin-bottom: 1rem;
+        }
+
+        .section-title-page .section-intro {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.8;
+            max-width: 90%;
+        }
+
+        /* Boxes */
+        .anchor-card {
+            border: 2px solid var(--color-noir);
+            background: white;
+            margin: 1.5rem 0;
+            padding: 25px;
+            break-inside: avoid;
+        }
+
+        .anchor-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .anchor-question {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 1.15rem;
+            border-left: 3px solid var(--color-accent);
+            padding-left: 15px;
+        }
+
+        .framework-box {
+            border: 2px solid var(--theme-color);
+            background: var(--theme-color-light);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+
+        .framework-box h4 {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-top: 0;
+            margin-bottom: 1rem;
+            font-style: normal;
+        }
+
+        .writing-box {
+            border: 1px solid var(--color-noir);
+            background: white;
+            padding: 15px 20px;
+            margin: 1rem 0 1.5rem 0;
+            min-height: 80px;
+            break-inside: avoid;
+        }
+
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .flourish-divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            margin: 1.5rem 0;
+        }
+
+        .flourish-divider::before,
+        .flourish-divider::after {
+            content: '';
+            height: 2px;
+            width: 80px;
+            background: var(--color-accent);
+        }
+
+        .flourish-divider .divider-icon {
+            font-size: 1.2rem;
+            color: var(--color-accent);
+        }
+
+        .mt-0 { margin-top: 0; }
+
+        /* Screen preview */
+        @media screen {
+            body { background: #e5e1da; padding: 20px; }
+            .pagedjs_page { box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 20px; }
+        }
+
+        @media print {
+            * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- TITLE PAGE -->
+<div class="title-page">
+    <span class="section-number">A Workbook For Writers</span>
+    <h1>The Romantasy<br>Worldbuilding Workbook</h1>
+    <div class="divider"></div>
+    <p class="tagline">Build worlds that create romantic tension by design</p>
+</div>
+
+<!-- INTRODUCTION -->
+<h2 class="mt-0">What This Is</h2>
+
+<p class="lead-text">This is a worldbuilding workbook designed specifically for romantasy — fantasy romance where the world isn't just backdrop, but an active force shaping and pressuring the love story.</p>
+
+<p>In romantasy, worldbuilding isn't separate from romance. The political marriage that forces enemies together, the magical bond that connects two people against their will, the ancient feud that makes love forbidden, the class divide that seems impossible to cross — these aren't setting details. They're the engine of your story.</p>
+
+<p>This workbook helps you build worlds that create romantic tension by design.</p>
+
+<h2>Who This Is For</h2>
+
+<p>This workbook is for writers who want to:</p>
+
+<ul>
+    <li>Build fantasy worlds that feel real and internally consistent</li>
+    <li>Create external obstacles that pressure and test relationships</li>
+    <li>Understand how geography, politics, magic, culture, and history can generate romantic conflict</li>
+    <li>Move beyond generic fantasy settings to worlds that could only produce <em>your</em> story</li>
+    <li>Develop worldbuilding that readers will want to live in</li>
+</ul>
+
+<p>Whether you're writing your first romantasy or your tenth, whether you're a plotter who needs everything mapped before drafting or a pantser who discovers your world as you go — this workbook meets you where you are.</p>
+
+<h2>How This Workbook Is Structured</h2>
+
+<p>Each section follows a two-part structure:</p>
+
+<h3>Part One: The Foundation</h3>
+<p>This is the worldbuilding itself — how your geography, magic, government, religion, economy, culture, or history actually works. These elements exist in your world regardless of your characters' romantic situation.</p>
+<p>Strong foundations make your world feel real. Readers can tell when a world has depth versus when it's cardboard scenery hastily assembled behind the love story.</p>
+
+<h3>Part Two: [Topic] & Romance</h3>
+<p>This is where worldbuilding becomes romantic tension. Each section shows you how to mine its topic for obstacles, intimacy, stakes, and conflict specific to love stories.</p>
+
+<p>A magic system isn't just about what spells exist — it's about what happens when one character is vastly more powerful than the other, or when a magical bond forces intimacy neither chose, or when using power for someone you love costs something real.</p>
+
+<p><strong>You need both parts.</strong> A romance between a servant and a prince needs a believable class system (foundation) that actually creates stakes and obstacles for their relationship (romance application). Skip the foundation and your world feels thin. Skip the romance application and you're not using your world to its full potential.</p>
+
+<h2>How to Use This Workbook</h2>
+
+<h3>You Don't Have to Do Everything</h3>
+<p>This workbook is comprehensive — intentionally so. Not every section will apply to your story. Not every question will be relevant.</p>
+<p><strong>Skip freely.</strong> If your story doesn't involve inter-species romance, skip that section. If religion isn't a factor, move past it. If your characters aren't part of an institution, those questions aren't for you.</p>
+<p>The goal isn't to fill every blank. The goal is to build what your specific story needs.</p>
+
+<h3>You Don't Have to Go in Order</h3>
+<p>The sections are numbered for reference, not because you must complete them sequentially.</p>
+<p>Some writers start with magic because that's the heart of their world. Others start with the political situation that creates their central conflict. Some build geography first because place shapes everything else.</p>
+<p>Start wherever you have the most energy or the clearest vision. Let that section inform the others.</p>
+
+<h3>Focus on What Creates Stakes</h3>
+<p>As you work through each section, keep asking: <strong>How does this create obstacles for my characters?</strong></p>
+<p>Not every piece of worldbuilding needs to directly pressure the romance — some details just make the world feel real. But if you find yourself developing elaborate systems that never touch your love story, you might be worldbuilding for worldbuilding's sake rather than story's sake.</p>
+<p>The best romantasy worldbuilding does double duty: it makes the world feel real <em>and</em> it makes the romance feel impossible (until it isn't).</p>
+
+<h2>A Note on Tropes</h2>
+
+<p>Romantasy is a trope-heavy genre, and that's not a weakness — it's a feature. Readers come to romantasy <em>wanting</em> enemies-to-lovers, forced proximity, forbidden love, fated mates, morally grey love interests, and "there's only one bed."</p>
+
+<p>This workbook doesn't shy away from tropes. Instead, it helps you execute them well.</p>
+
+<p>The difference between a tired trope and a beloved one isn't the trope itself — it's the execution. An enemies-to-lovers romance where the enmity is shallow and easily overcome is boring. An enemies-to-lovers romance where both characters have genuine, legitimate reasons to hate each other — where choosing love means betraying everything they believed — that's compelling.</p>
+
+<p>Worldbuilding is how you make tropes feel earned.</p>
+
+<div class="anchor-card">
+    <span class="anchor-title">The Core Truth</span>
+    <div class="anchor-question">"The best romantasy worldbuilding does double duty: it makes the world feel real and it makes the romance feel impossible — until it isn't."</div>
+</div>
+
+<h2>Let's Begin</h2>
+
+<p class="lead-text">Turn to whichever section calls to you first. There's no wrong starting point.</p>
+
+<p class="lead-text">Your world is waiting to be built.</p>
+
+<!-- SECTION 1: GEOGRAPHY -->
+<div class="section-title-page">
+    <span class="section-label">Section One</span>
+    <h1>Geography & Environment</h1>
+    <p class="section-intro">Geography isn't just a map — it's the physical constraints that shape everything else. Mountains create borders that become political divisions. Deserts isolate cultures. Rivers determine where cities grow. Control of fertile valleys determines who holds power.</p>
+    <div class="flourish-divider"><span class="divider-icon">✦</span></div>
+</div>
+
+<h2 class="mt-0">The Foundation</h2>
+
+<p class="lead-text">Before connecting geography to your romance, establish how your world's physical landscape actually works.</p>
+
+<h3>The Geography-as-Friction Framework</h3>
+
+<div class="framework-box">
+    <h4>Physical Barriers</h4>
+    <p>What geographic features create natural divisions in your world? Mountains, rivers, deserts, and oceans don't just shape maps — they shape cultures, trade routes, and who can reach whom.</p>
+</div>
+
+<div class="framework-box">
+    <h4>Resource Distribution</h4>
+    <p>Where are the valuable resources? Who controls them? Scarcity creates conflict; abundance creates targets. Your characters' access to resources shapes their power and vulnerability.</p>
+</div>
+
+<div class="framework-box">
+    <h4>Climate & Seasons</h4>
+    <p>How does weather affect daily life? Harsh winters isolate communities. Monsoons determine travel windows. Desert heat shapes when people move and work.</p>
+</div>
+
+<h2>Geography Questions</h2>
+
+<h3>Basic Landscape</h3>
+
+<p><strong>What's the general terrain of your world?</strong></p>
+<div class="writing-box">
+    <span class="writing-box-label">Your Answer</span>
+</div>
+
+<p><strong>If your world is large, where specifically does your romance happen?</strong></p>
+<div class="writing-box">
+    <span class="writing-box-label">Your Answer</span>
+</div>
+
+<p><strong>What natural features dominate the landscape where your story takes place?</strong></p>
+<div class="writing-box">
+    <span class="writing-box-label">Your Answer</span>
+</div>
+
+<p><strong>What geographic features create natural borders or barriers?</strong></p>
+<div class="writing-box">
+    <span class="writing-box-label">Your Answer</span>
+</div>
+
+<h3>Resources & Control</h3>
+
+<p><strong>What geographic resource creates tension or conflict in your world?</strong></p>
+<div class="writing-box">
+    <span class="writing-box-label">Your Answer</span>
+</div>
+
+<p><strong>Who controls the most valuable geographic locations?</strong></p>
+<div class="writing-box">
+    <span class="writing-box-label">Your Answer</span>
+</div>
+
+<p><strong>What happens to people who live in resource-poor areas?</strong></p>
+<div class="writing-box">
+    <span class="writing-box-label">Your Answer</span>
+</div>
+
+<h2>Geography & Romance</h2>
+
+<p class="lead-text">Now connect your geography to your love story. How does the physical world create obstacles, force proximity, or shape what's possible between your characters?</p>
+
+<h3>Distance & Separation</h3>
+
+<p><strong>How far apart are your characters' home territories?</strong></p>
+<div class="writing-box">
+    <span class="writing-box-label">Your Answer</span>
+</div>
+
+<p><strong>What geographic obstacles stand between them?</strong></p>
+<div class="writing-box">
+    <span class="writing-box-label">Your Answer</span>
+</div>
+
+<p><strong>How long would it take to travel from one's home to the other's?</strong></p>
+<div class="writing-box">
+    <span class="writing-box-label">Your Answer</span>
+</div>
+
+<div class="anchor-card">
+    <span class="anchor-title">Integration Check</span>
+    <div class="anchor-question">How does your geography connect to your magic system? To your political structure? To your economy? The best worldbuilding creates systems that reinforce each other.</div>
+</div>
+
+</body>
+</html>
