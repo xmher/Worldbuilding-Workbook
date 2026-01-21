@@ -228,7 +228,7 @@ Geography determines who has what — and therefore, who has power. Fertile land
 
 In romantasy, resource control often creates the power imbalances that drive conflict between love interests. These geographic facts become personal when your characters are on opposite sides of them.
 
-Resource control explains arranged marriages, political alliances, and the economic pressures that force characters into impossible choices.
+Resource control can explain arranged marriages, political alliances, and economic pressures that force characters to make impossible choices.
 
 **What natural resources are geographically concentrated?**
 
