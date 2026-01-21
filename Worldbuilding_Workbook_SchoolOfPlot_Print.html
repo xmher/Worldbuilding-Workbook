@@ -29342,10 +29342,14 @@
         console.log(`Total pages: ${pages.length}`);
         console.log(`Pages with overflow: ${overflowCount}`);
         console.log('');
-        console.table(results);
 
-        if (overflowCount > 0) {
-            console.log('%c⚠️ Pages with red outline need content adjustment', 'color: red; font-weight: bold;');
+        // Only show overflow pages in the table (much more useful)
+        const overflowPages = results.filter(r => r.overflow > 0);
+        if (overflowPages.length > 0) {
+            console.log('%c⚠️ Pages that need fixing:', 'color: red; font-weight: bold;');
+            console.table(overflowPages, ['page', 'contentHeight', 'maxHeight', 'overflow']);
+            console.log('');
+            console.log('Tip: Scroll through the document to find pages with red outlines');
         } else {
             console.log('%c✅ All pages fit within bounds!', 'color: green; font-weight: bold;');
         }
