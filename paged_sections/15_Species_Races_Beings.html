@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worldbuilding Workbook - Species_Races_Beings</title>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+    <style>
+        :root {
+            --color-worldbuilding: #065f46;
+            --color-worldbuilding-light: rgba(6, 95, 70, 0.1);
+            --color-bg: #fdfbf7;
+            --color-noir: #1a1515;
+            --color-accent: #e2c98a;
+            --color-danger: #9f1239;
+            --color-text-main: #121212;
+            --color-text-sub: #444444;
+            --color-text-muted: #888888;
+            --font-display: 'Libre Baskerville', serif;
+            --font-accent: 'Cormorant Garamond', serif;
+            --font-body: 'Inter', sans-serif;
+            --theme-color: var(--color-worldbuilding);
+            --theme-color-light: var(--color-worldbuilding-light);
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: var(--color-bg);
+            color: var(--color-text-main);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            font-size: 11pt;
+        }
+        @page {
+            size: 8.5in 11in;
+            margin: 70px 80px 100px 80px;
+            background: var(--color-bg);
+            @bottom-center {
+                content: counter(page);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.7rem;
+                font-weight: 700;
+                color: #065f46;
+            }
+            @bottom-left {
+                content: string(section-title);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.6rem;
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                color: #888;
+            }
+        }
+        @page:first {
+            @bottom-center { content: none; }
+            @bottom-left { content: none; }
+        }
+        .pagedjs_page {
+            background: var(--color-bg) !important;
+            position: relative !important;
+        }
+        .pagedjs_pagebox {
+            position: relative !important;
+        }
+        .pagedjs_pagebox::before {
+            content: '' !important;
+            position: absolute !important;
+            top: 15px !important;
+            left: 15px !important;
+            right: 15px !important;
+            bottom: 15px !important;
+            border: 3px solid #065f46 !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        .pagedjs_pagebox::after {
+            content: '' !important;
+            position: absolute !important;
+            top: 22px !important;
+            left: 22px !important;
+            right: 22px !important;
+            bottom: 22px !important;
+            border: 1px solid #e2c98a !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        h2 { string-set: section-title content(); }
+        h1 {
+            font-family: var(--font-display);
+            font-size: 2rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--color-noir);
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+        }
+        h2 {
+            font-family: var(--font-display);
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--color-noir);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--color-accent);
+            break-after: avoid;
+        }
+        h3 {
+            font-family: var(--font-display);
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+            break-after: avoid;
+        }
+        h4 {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            font-weight: 600;
+            font-style: italic;
+            color: var(--color-text-sub);
+            margin-top: 1.25rem;
+            margin-bottom: 0.5rem;
+            break-after: avoid;
+        }
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+            hyphens: auto;
+            orphans: 3;
+            widows: 3;
+        }
+        .lead-text {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+        }
+        .hint {
+            font-family: var(--font-accent);
+            font-style: italic;
+            color: var(--color-text-muted);
+            font-size: 0.95rem;
+            margin-top: -0.5rem;
+            margin-bottom: 1rem;
+        }
+        ul, ol { margin: 1rem 0 1rem 1.5rem; }
+        li { margin-bottom: 0.5rem; }
+        .title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .title-page h1 {
+            font-size: 2.5rem;
+            letter-spacing: 6px;
+            margin-bottom: 0.5rem;
+        }
+        .title-page .divider {
+            width: 100px;
+            height: 2px;
+            background: var(--color-accent);
+            margin: 2rem 0;
+        }
+        .title-page .tagline {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            color: var(--color-text-muted);
+            max-width: 400px;
+        }
+        .section-number {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .section-title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .section-title-page .section-label {
+            font-family: var(--font-display);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            color: var(--theme-color);
+            margin-bottom: 1rem;
+        }
+        .section-title-page h1 {
+            font-size: 2.2rem;
+            margin-bottom: 1rem;
+        }
+        .section-title-page .section-intro {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.8;
+            max-width: 90%;
+        }
+        .anchor-card {
+            border: 2px solid var(--color-noir);
+            background: white;
+            margin: 1.5rem 0;
+            padding: 25px;
+            break-inside: avoid;
+        }
+        .anchor-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 12px;
+            display: block;
+        }
+        .anchor-question {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 1.15rem;
+            border-left: 3px solid var(--color-accent);
+            padding-left: 15px;
+        }
+        .framework-box {
+            border: 2px solid var(--theme-color);
+            background: var(--theme-color-light);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .framework-box h4 {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-top: 0;
+            margin-bottom: 1rem;
+            font-style: normal;
+        }
+        .framework-box p { margin-bottom: 0.75rem; }
+        .framework-box ul { margin: 0.5rem 0 0.5rem 1.5rem; }
+        .framework-box li { margin-bottom: 0.5rem; }
+        .mistake-box {
+            border-left: 4px solid var(--color-danger);
+            background: rgba(159, 18, 57, 0.05);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .mistake-box .mistake-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--color-danger);
+            margin-bottom: 0.75rem;
+        }
+        .mistake-box p { margin-bottom: 0.5rem; font-size: 0.9rem; }
+        .mistake-box p:last-child { margin-bottom: 0; }
+        .fix-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--theme-color);
+            display: block;
+            margin-top: 0.75rem;
+        }
+        .writing-box {
+            border: 1px solid var(--color-noir);
+            background: white;
+            padding: 15px 20px;
+            margin: 1rem 0 1.5rem 0;
+            min-height: 80px;
+            break-inside: avoid;
+        }
+        .writing-box.large { min-height: 120px; }
+        .writing-box.small { min-height: 50px; }
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .checklist {
+            list-style: none;
+            margin: 1rem 0;
+            break-inside: avoid;
+        }
+        .checklist li {
+            position: relative;
+            padding-left: 30px;
+            margin-bottom: 0.75rem;
+            font-size: 0.95rem;
+        }
+        .checklist li::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 2px;
+            width: 16px;
+            height: 16px;
+            border: 1px solid var(--theme-color);
+            background: white;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            font-size: 0.9rem;
+            break-inside: avoid;
+        }
+        th {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            background: var(--theme-color);
+            color: white;
+            padding: 12px 15px;
+            text-align: left;
+        }
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #eee;
+            vertical-align: top;
+        }
+        tr:nth-child(even) { background: rgba(0,0,0,0.02); }
+        thead { display: table-header-group; }
+        tr { break-inside: avoid; }
+        .flourish-divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            margin: 1.5rem 0;
+        }
+        .flourish-divider::before,
+        .flourish-divider::after {
+            content: '';
+            height: 2px;
+            width: 80px;
+            background: var(--color-accent);
+        }
+        .flourish-divider .divider-icon {
+            font-size: 1.2rem;
+            color: var(--color-accent);
+        }
+        .section-toc { margin: 1rem 0; break-inside: avoid; }
+        .section-toc h3 {
+            font-size: 1rem;
+            color: var(--color-accent);
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .section-toc ul {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 1rem 0;
+            columns: 2;
+            column-gap: 2rem;
+        }
+        .section-toc li { margin-bottom: 0.4rem; break-inside: avoid; }
+        .section-toc a {
+            color: var(--color-text-main);
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .section-toc-single ul { columns: 1; }
+        .alphabetical-index, .thematic-index {
+            column-count: 2;
+            column-gap: 30px;
+            font-size: 8.5pt;
+            line-height: 1.4;
+        }
+        .index-entry { break-inside: avoid; margin-bottom: 0.6rem; }
+        .index-letter {
+            font-family: var(--font-display);
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin: 1rem 0 0.5rem 0;
+            padding-bottom: 0.25rem;
+            border-bottom: 1px solid var(--color-accent);
+            break-after: avoid;
+        }
+        .index-keyword { font-weight: 600; color: var(--color-noir); display: block; }
+        .index-reference {
+            display: block;
+            padding-left: 1rem;
+            color: var(--color-text-sub);
+            font-size: 8pt;
+        }
+        .index-reference a {
+            color: var(--theme-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .mt-0 { margin-top: 0; }
+        .mt-1 { margin-top: 0.5rem; }
+        .mt-2 { margin-top: 1rem; }
+        .mb-0 { margin-bottom: 0; }
+        .mb-1 { margin-bottom: 0.5rem; }
+        .mb-2 { margin-bottom: 1rem; }
+        .text-center { text-align: center; }
+        .text-muted { color: var(--color-text-muted); }
+        @media screen {
+            body { background: #e5e1da; padding: 20px; }
+            .pagedjs_page { box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 20px; }
+        }
+        @media print {
+            * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+        }
+    </style>
+</head>
+<body>
+
+<h2>Section 15: Designing Your Key Locations</h2>
+
+<p>You don't need to map every corner of your world. What you need are 3-5 carefully designed locations where pivotal romantic moments happen — places that do narrative work.</p>
+
+<p>A great romantasy location isn't just a pretty backdrop. It's a space with specific constraints that either force connection or make intimacy dangerous. The best locations have physical details that create story pressure: a narrow bridge where they must press close to pass, a garden where anyone might overhear, a cave where darkness strips away defenses.</p>
+
+<p>This section is a workshop. You've built geography (Section 1), established how the natural world works (Section 2), and identified institutions that trap your characters (Section 14). Now you're going to design the specific locations where your romance unfolds — the rooms, gardens, battlefields, and hidden corners where the important moments happen.</p>
+
+
+<!-- ==========================================
+ SECTION 15: MINI-TOC
+ ========================================== -->
+
+<h2 class="mt-0">In This Section</h2>
+
+<div class="section-toc">
+    <h3>Concepts & Frameworks</h3>
+    <ul>
+        <li><a href="#s15-why">Why Location Design Matters</a></li>
+        <li><a href="#s15-pivotal-moments">Identifying Your Pivotal Moments</a></li>
+        <li><a href="#s15-location-work">What Makes a Location Work</a></li>
+        <li><a href="#s15-template">Location Template</a></li>
+    </ul>
+</div>
+
+<div class="section-toc">
+    <h3>Location Types & Dynamics</h3>
+    <ul>
+        <li><a href="#s15-recurring">Locations That Recur</a></li>
+        <li><a href="#s15-lost">Lost Locations</a></li>
+        <li><a href="#s15-character">Location as Character</a></li>
+        <li><a href="#s15-connections">Cross-Location Connections</a></li>
+        <li><a href="#s15-final-location">The Final Location</a></li>
+    </ul>
+</div>
+
+<div class="section-toc">
+    <h3>Wrap-Up</h3>
+    <ul>
+        <li><a href="#s15-test">The Location Test</a></li>
+        <li><a href="#s15-integration">Integration Check</a></li>
+        <li><a href="#s15-quick-ref">Quick Reference</a></li>
+    </ul>
+</div>
+
+
+<!-- SECTION 15: WHY LOCATION DESIGN MATTERS -->
+
+<h3 class="mt-0" id="s15-why">Why Location Design Matters</h3>
+
+<div class="anchor-card">
+    <p><strong>Location isn't just "where something happens" — it's part of why it happens.</strong></p>
+</div>
+
+<p>A confession in a crowded ballroom means something different than a confession in a private garden. A kiss on a battlefield carries different weight than a kiss in a bedroom. The space shapes what's possible, what's risky, and what it means.</p>
+
+<p>Consider how location affects:</p>
+
+<ul>
+    <li><strong>Physical possibility</strong> — What can characters do in this space? What's impossible?</li>
+    <li><strong>Privacy and risk</strong> — Who might see? What are the consequences of discovery?</li>
+    <li><strong>Emotional resonance</strong> — What does this place mean to them? What memories does it hold?</li>
+    <li><strong>Symbolic weight</strong> — Does the location mirror or contrast with the emotional moment?</li>
+</ul>
+
+<div class="divider"></div>
+
+<h3 id="s15-pivotal-moments">Identifying Your Pivotal Moments</h3>
+
+<p>Before designing locations, identify the moments that need them.</p>
+
+<h4>List 3-5 major romantic moments in your story:</h4>
+<p class="hint">(Examples: first meeting, first real conversation, forced to cooperate, first touch, major argument, confession, first kiss, intimate scene, betrayal, reconciliation, final choice)</p>
+
+<table class="input-table">
+    <tbody>
+        <tr><td><strong>Moment 1:</strong></td><td></td></tr>
+        <tr><td><strong>Moment 2:</strong></td><td></td></tr>
+        <tr><td><strong>Moment 3:</strong></td><td></td></tr>
+        <tr><td><strong>Moment 4:</strong></td><td></td></tr>
+        <tr><td><strong>Moment 5:</strong></td><td></td></tr>
+    </tbody>
+</table>
+
+
+<!-- SECTION 15: MATCHING MOMENTS TO LOCATIONS -->
+
+<h4 class="mt-0">Matching Moments to Locations</h4>
+
+<p>For each moment, consider: Does this scene <em>need</em> a specific location, or could it happen anywhere?</p>
+
+<p>If it could happen anywhere, you have a location problem. The best scenes are shaped by where they happen.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Moment</th>
+            <th>Happens In</th>
+            <th>Why It Must Happen There</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Moment 1</td><td></td><td></td></tr>
+        <tr><td>Moment 2</td><td></td><td></td></tr>
+        <tr><td>Moment 3</td><td></td><td></td></tr>
+        <tr><td>Moment 4</td><td></td><td></td></tr>
+        <tr><td>Moment 5</td><td></td><td></td></tr>
+    </tbody>
+</table>
+
+
+<!-- SECTION 15: WHAT MAKES A LOCATION WORK -->
+
+<h3 class="mt-0" id="s15-location-work">What Makes a Location Work</h3>
+
+<p>Before designing specific locations, understand what makes locations effective in romantasy.</p>
+
+<div class="framework-box">
+    <h4>Locations That Force Connection</h4>
+    <p>Some spaces push characters together whether they want it or not:</p>
+    <ul>
+        <li><strong>Narrow spaces</strong> — Corridors, bridges, paths where they must stand close</li>
+        <li><strong>Shared resources</strong> — One fire, one water source, one shelter</li>
+        <li><strong>Dangerous surroundings</strong> — Safety requires staying together</li>
+        <li><strong>Limited seating/standing room</strong> — Must be near each other</li>
+        <li><strong>Tasks requiring cooperation</strong> — Work that needs two people</li>
+    </ul>
+</div>
+
+<div class="framework-box">
+    <h4>Locations That Enable Intimacy</h4>
+    <p>Some spaces allow moments that wouldn't be possible elsewhere:</p>
+    <ul>
+        <li><strong>Privacy</strong> — No witnesses, ability to speak freely</li>
+        <li><strong>Beauty</strong> — Setting that creates romantic atmosphere</li>
+        <li><strong>Comfort</strong> — Warmth, safety, permission to relax</li>
+        <li><strong>Liminal spaces</strong> — Between places, outside normal rules</li>
+        <li><strong>Neutral ground</strong> — Neither's territory, both somewhat vulnerable</li>
+    </ul>
+</div>
+
+
+<!-- SECTION 15: MORE LOCATION TYPES -->
+
+<div class="framework-box">
+    <h4>Locations That Create Risk</h4>
+    <p>Some spaces make intimacy dangerous:</p>
+    <ul>
+        <li><strong>Public but feels private</strong> — Could be seen at any moment</li>
+        <li><strong>Enemy territory</strong> — Being discovered means death</li>
+        <li><strong>Sacred spaces</strong> — Intimacy here is transgression</li>
+        <li><strong>Watched spaces</strong> — Someone is always observing</li>
+        <li><strong>Time-limited</strong> — They'll be interrupted soon</li>
+    </ul>
+</div>
+
+<div class="framework-box">
+    <h4>Locations That Reveal Character</h4>
+    <p>Some spaces show us who characters really are:</p>
+    <ul>
+        <li><strong>Their home territory</strong> — Seeing where they come from</li>
+        <li><strong>Their workplace</strong> — Seeing them in their element</li>
+        <li><strong>Under stress</strong> — How they act in dangerous locations</li>
+        <li><strong>In comfort</strong> — Who they are when they can relax</li>
+    </ul>
+</div>
+
+<div class="divider"></div>
+
+<h3 id="s15-template">Location Template</h3>
+
+<p>Use the following template for each key location. The questions are designed to help you think through how the location affects your scene.</p>
+
+
+<!-- SECTION 15: LOCATION TEMPLATE PAGE 1 -->
+
+<h3 class="mt-0">Location: ________________________________</h3>
+
+<h4>The Physical Space</h4>
+
+<p><strong>Describe the location in 2-3 sentences. What's the dominant impression?</strong></p>
+<p class="hint">(Think: size, lighting, temperature, sounds, smells, textures)</p>
+<div class="writing-box"></div>
+
+<p><strong>What sensory details would your characters notice most?</strong></p>
+<table class="input-table">
+    <tbody>
+        <tr><td>What they see:</td><td></td></tr>
+        <tr><td>What they hear:</td><td></td></tr>
+        <tr><td>What they smell:</td><td></td></tr>
+        <tr><td>What they feel (temperature, texture, air):</td><td></td></tr>
+    </tbody>
+</table>
+
+
+<!-- SECTION 15: LOCATION TEMPLATE PAGE 2 -->
+
+<h4 class="mt-0">Physical Constraints</h4>
+
+<p><strong>What does this space force or prevent?</strong></p>
+<table class="input-table">
+    <thead>
+        <tr><th>Force (what must happen)</th><th>Prevent (what can't happen)</th></tr>
+    </thead>
+    <tbody>
+        <tr><td></td><td></td></tr>
+        <tr><td></td><td></td></tr>
+        <tr><td></td><td></td></tr>
+    </tbody>
+</table>
+
+<p><strong>What features define the space?</strong></p>
+<table class="input-table">
+    <tbody>
+        <tr><td>Size/layout:</td><td></td></tr>
+        <tr><td>Exits/entrances:</td><td></td></tr>
+        <tr><td>Barriers/obstacles:</td><td></td></tr>
+        <tr><td>Dangerous elements:</td><td></td></tr>
+    </tbody>
+</table>
+
+<p><strong>What makes this location difficult to reach or leave?</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 15: LOCATION TEMPLATE PAGE 3 -->
+
+<h4 class="mt-0">Privacy & Risk</h4>
+
+<p><strong>How private is this location?</strong></p>
+<ul class="checkbox-list">
+    <li>☐ Completely private — no chance of interruption</li>
+    <li>☐ Semi-private — could be interrupted but unlikely</li>
+    <li>☐ Risky — interruption is possible at any moment</li>
+    <li>☐ Public — others are present or could arrive</li>
+</ul>
+
+<p><strong>Who else could be here? Who has access?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>What would happen if they were discovered here together?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Can they see/hear someone approaching, or could they be surprised?</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 15: LOCATION TEMPLATE PAGE 4 -->
+
+<h4 class="mt-0">What This Location Enables</h4>
+
+<p><strong>What can happen here that couldn't happen elsewhere?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>What comfort, safety, or resource does this location provide?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>What intimacy does the space allow?</strong></p>
+
+<p>Physical (can they touch, stand close, be comfortable):</p>
+<div class="writing-box"></div>
+
+<p>Emotional (can they speak freely, show vulnerability):</p>
+<div class="writing-box"></div>
+
+<h4>What This Location Prevents or Denies</h4>
+
+<p><strong>What intimacy is impossible here — and why?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>What do they want that this location won't allow?</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 15: LOCATION TEMPLATE PAGE 5 -->
+
+<h4 class="mt-0">Time and Atmosphere</h4>
+
+<p><strong>How does this location change at different times?</strong></p>
+<table class="input-table">
+    <tbody>
+        <tr><td>Dawn:</td><td></td></tr>
+        <tr><td>Midday:</td><td></td></tr>
+        <tr><td>Dusk:</td><td></td></tr>
+        <tr><td>Night:</td><td></td></tr>
+    </tbody>
+</table>
+
+<p><strong>What time does the pivotal scene happen, and why that time?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>How might weather transform this space?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Is weather significant in the scene that happens here?</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 15: LOCATION TEMPLATE PAGE 6 -->
+
+<h4 class="mt-0">History & Memory</h4>
+<p class="hint">(Reference Section 7 for your world's history)</p>
+
+<p><strong>What happened in this place before your characters arrive?</strong></p>
+<p class="hint">Has this location witnessed significant events? What ghosts linger?</p>
+<div class="writing-box"></div>
+
+<p><strong>Do your characters know the history of this place?</strong></p>
+<p class="hint">Does knowledge of the past affect how they feel here?</p>
+<div class="writing-box"></div>
+
+<p><strong>Does this location have personal significance to either character?</strong></p>
+<p class="hint">A place from their past, a meaningful memory, somewhere they've been before?</p>
+<div class="writing-box"></div>
+
+<h4>The Moment</h4>
+
+<p><strong>What pivotal moment happens here?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Why must it happen HERE specifically?</strong></p>
+<p class="hint">What about this location makes the moment possible, inevitable, or more meaningful?</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 15: RECURRING LOCATIONS -->
+
+<h3 class="mt-0" id="s15-recurring">Locations That Recur</h3>
+
+<p>Some locations appear multiple times in a story. Each return should feel different because the characters and relationship have changed.</p>
+
+<h4>Designing a Recurring Location</h4>
+
+<p><strong>If characters return to a location, what changes between visits?</strong></p>
+
+<table class="input-table">
+    <thead>
+        <tr><th>Visit</th><th>Relationship State</th><th>What's Different</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>First visit</td><td></td><td></td></tr>
+        <tr><td>Second visit</td><td></td><td></td></tr>
+        <tr><td>Third visit</td><td></td><td></td></tr>
+        <tr><td>Final visit</td><td></td><td></td></tr>
+    </tbody>
+</table>
+
+<p><strong>What do they notice on return that they missed before?</strong></p>
+<p class="hint">Details that only matter now, things that look different in light of what's happened:</p>
+<div class="writing-box"></div>
+
+<p><strong>How does their behavior in this space change?</strong></p>
+<p class="hint">Where they stand, how close, what they're comfortable doing:</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 15: "THEIR" PLACE -->
+
+<p class="mt-0"><strong>Does the location itself change, or only their perception of it?</strong></p>
+<p class="hint">Physical changes (seasons, damage, decay, growth) vs. emotional changes (what it means to them):</p>
+<div class="writing-box"></div>
+
+<h4>"Their" Place</h4>
+
+<p><strong>Do your characters have a location that becomes specifically theirs?</strong></p>
+<p class="hint">A place they return to, where significant moments keep happening:</p>
+<div class="writing-box"></div>
+
+<p><strong>How does it become theirs?</strong></p>
+<p class="hint">Through repetition? A significant first moment there? A private ritual they develop?</p>
+<div class="writing-box"></div>
+
+<p><strong>What would it mean to lose access to this place?</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 15: LOST LOCATIONS -->
+
+<h3 class="mt-0" id="s15-lost">Lost Locations</h3>
+
+<p>Some significant places are lost — destroyed, changed, or closed forever. The loss of a meaningful location carries weight.</p>
+
+<p><strong>Is there a location that becomes inaccessible to your characters?</strong></p>
+<p class="hint">Destroyed, transformed, forbidden, too dangerous, claimed by enemies, sealed by magic?</p>
+<div class="writing-box"></div>
+
+<p><strong>What did this location mean to them?</strong></p>
+<p class="hint">What happened there? What did it represent? What possibility did it hold?</p>
+<div class="writing-box"></div>
+
+<p><strong>How does losing access to this place affect them?</strong></p>
+<p class="hint">Grief? Loss of sanctuary? Loss of possibility? Motivation for action?</p>
+<div class="writing-box"></div>
+
+<p><strong>Is there something they wish they'd done there — but now can't?</strong></p>
+<p class="hint">A conversation never had, a moment never taken, a chance lost:</p>
+<div class="writing-box"></div>
+
+<p><strong>Does the lost location exist only in memory by the end?</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 15: LOCATION AS CHARACTER -->
+
+<h3 class="mt-0" id="s15-character">Location as Character</h3>
+
+<p>The best locations feel alive — not just as settings but as presences that affect the characters. A location can have personality, mood, even a kind of agency.</p>
+
+<p><strong>Does your location seem to have a will or character of its own?</strong></p>
+<p class="hint">A house that feels welcoming or hostile, a forest that seems to lead them somewhere, a room that holds secrets:</p>
+<div class="writing-box"></div>
+
+<p><strong>How does the location "respond" to the characters?</strong></p>
+<p class="hint">Does it seem to help them (convenient shelter, paths that lead where they need)? Resist them (doors that stick, paths that mislead)? Reveal things to them (hidden rooms, unexpected views)?</p>
+<div class="writing-box"></div>
+
+<p><strong>What personality would you give this location if it were a character?</strong></p>
+<p class="hint">Protective, threatening, indifferent, playful, melancholy, ancient, patient?</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 15: CROSS-LOCATION CONNECTIONS -->
+
+<h3 class="mt-0" id="s15-connections">Cross-Location Connections</h3>
+
+<h4>Variety Check</h4>
+
+<p><strong>Do your locations offer different types of pressure and intimacy?</strong></p>
+
+<p>Look at your key locations. Do you have a mix of:</p>
+<ul class="checkbox-list">
+    <li>☐ Public vs. private</li>
+    <li>☐ Dangerous vs. safe</li>
+    <li>☐ Forced proximity vs. chosen meeting</li>
+    <li>☐ Beautiful vs. harsh</li>
+    <li>☐ Familiar vs. unknown</li>
+    <li>☐ Their territory vs. neutral ground vs. enemy territory</li>
+</ul>
+
+<p><strong>If several locations feel similar, how could you change one for more contrast?</strong></p>
+<div class="writing-box"></div>
+
+<h4>Movement Between Locations</h4>
+
+<p><strong>How do characters move between locations?</strong></p>
+<p class="hint">Travel together or separately? Is the journey itself significant?</p>
+<div class="writing-box"></div>
+
+<p><strong>Does the transition between locations matter?</strong></p>
+<p class="hint">The walk from the ballroom to the garden, the journey from the city to the wilderness, the climb from the base of the tower to the top:</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 15: ARC OF LOCATIONS & FINAL LOCATION -->
+
+<h4 class="mt-0">The Arc of Locations</h4>
+
+<p><strong>How do your locations progress through the story?</strong></p>
+<p class="hint">Do they move from public to private? Safe to dangerous? Familiar to unknown? Constraint to freedom?</p>
+
+<table class="input-table">
+    <tbody>
+        <tr><td>Beginning locations:</td><td></td></tr>
+        <tr><td>Middle locations:</td><td></td></tr>
+        <tr><td>Climax location:</td><td></td></tr>
+        <tr><td>Resolution location:</td><td></td></tr>
+    </tbody>
+</table>
+
+<div class="divider"></div>
+
+<h3 id="s15-final-location">The Final Location</h3>
+
+<p><strong>Where does the romantic climax happen?</strong></p>
+<p class="hint">The moment of greatest emotional vulnerability, final confession, or decisive choice:</p>
+<div class="writing-box"></div>
+
+<p><strong>Why is this the right place for this moment?</strong></p>
+<p class="hint">Does it echo earlier locations? Represent how far they've come? Offer something they've never had before? Force a final confrontation they've been avoiding?</p>
+<div class="writing-box"></div>
+
+<p><strong>How is this location different from where they started?</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 15: LOCATION TEST -->
+
+<h3 class="mt-0" id="s15-test">The Location Test</h3>
+
+<p>A well-designed location does at least two of these:</p>
+
+<ul class="checkbox-list">
+    <li>☐ <strong>Forces physical proximity</strong> (must stand close, touch, share space)</li>
+    <li>☐ <strong>Creates danger requiring cooperation</strong> (must work together to survive)</li>
+    <li>☐ <strong>Provides privacy for vulnerability</strong> (can finally speak freely)</li>
+    <li>☐ <strong>Makes intimacy risky</strong> (discovery would have consequences)</li>
+    <li>☐ <strong>Offers something one character needs</strong> (forcing them into other's domain)</li>
+    <li>☐ <strong>Mirrors emotional state</strong> (space reflects their bond)</li>
+    <li>☐ <strong>Changes meaning as relationship evolves</strong> (same place, different significance)</li>
+    <li>☐ <strong>Has history that resonates</strong> (past events echo in present moment)</li>
+</ul>
+
+<div class="mistake-box">
+    <p><strong>For each of your key locations, check at least two boxes.</strong></p>
+    <p>If a location doesn't do at least two of these things, revise: add a constraint, raise stakes, build in history, adjust symbolism.</p>
+</div>
+
+
+<!-- SECTION 15: INTEGRATION CHECK -->
+
+<h3 class="mt-0" id="s15-integration">Integration Check</h3>
+
+<h4 id="q-s15-1">How do your key locations connect to your geography (Section 1)?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s15-2">Do any locations have significant flora/fauna (Section 2)?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s15-3">What cultural significance do locations carry (Section 3)?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s15-4">What historical weight do locations hold (Section 7)?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s15-5">How does technology affect these spaces (Section 9)?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s15-6">Do any locations exist within institutions (Section 14)?</h4>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 15: QUICK REFERENCE -->
+
+<h3 class="mt-0" id="s15-quick-ref">Quick Reference: Your Key Locations</h3>
+
+<table class="input-table">
+    <thead>
+        <tr><th>Location</th><th>Moment That Happens There</th><th>What It Forces/Enables</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Location 1:</td><td></td><td></td></tr>
+        <tr><td>Location 2:</td><td></td><td></td></tr>
+        <tr><td>Location 3:</td><td></td><td></td></tr>
+        <tr><td>Location 4:</td><td></td><td></td></tr>
+        <tr><td>Location 5:</td><td></td><td></td></tr>
+    </tbody>
+</table>
+
+<table class="input-table">
+    <tbody>
+        <tr><td><strong>Recurring location ("theirs"):</strong></td><td></td></tr>
+        <tr><td><strong>Lost location (if any):</strong></td><td></td></tr>
+        <tr><td><strong>Final/climax location:</strong></td><td></td></tr>
+    </tbody>
+</table>
+
+
+<!-- SECTION 15: FINAL -->
+
+<div class="framework-box">
+    <h3>Final Thought: Locations Work for the Story</h3>
+
+    <p>Every key location should be doing narrative work. It's not just where something happens — it's part of <em>why</em> it happens.</p>
+
+    <p>The space should constrain, enable, reveal, or transform. It should make moments possible that couldn't happen elsewhere, or make possible moments dangerous in ways they wouldn't be elsewhere.</p>
+
+    <p>If you can move a scene to any other location and nothing changes, the location isn't working hard enough. But if the scene could <em>only</em> happen here — because of the privacy, the danger, the history, the physical constraints — then you've designed a location that matters.</p>
+
+    <p>Design places that readers will remember because the space itself was part of the story. The best romantic moments don't just happen <em>in</em> locations — they happen <em>because of</em> them.</p>
+</div>
+
+<div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
+
+<!-- ============================================================
+ SECTION 16: THE WEB OF SYSTEMS
+ ============================================================ -->
+
+<!-- SECTION 16: INTRO -->
+</body></html>
