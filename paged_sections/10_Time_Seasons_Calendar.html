@@ -1,0 +1,1193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worldbuilding Workbook - Time_Seasons_Calendar</title>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+    <style>
+        :root {
+            --color-worldbuilding: #065f46;
+            --color-worldbuilding-light: rgba(6, 95, 70, 0.1);
+            --color-bg: #fdfbf7;
+            --color-noir: #1a1515;
+            --color-accent: #e2c98a;
+            --color-danger: #9f1239;
+            --color-text-main: #121212;
+            --color-text-sub: #444444;
+            --color-text-muted: #888888;
+            --font-display: 'Libre Baskerville', serif;
+            --font-accent: 'Cormorant Garamond', serif;
+            --font-body: 'Inter', sans-serif;
+            --theme-color: var(--color-worldbuilding);
+            --theme-color-light: var(--color-worldbuilding-light);
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: var(--color-bg);
+            color: var(--color-text-main);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            font-size: 11pt;
+        }
+        @page {
+            size: 8.5in 11in;
+            margin: 70px 80px 100px 80px;
+            background: var(--color-bg);
+            @bottom-center {
+                content: counter(page);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.7rem;
+                font-weight: 700;
+                color: #065f46;
+            }
+            @bottom-left {
+                content: string(section-title);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.6rem;
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                color: #888;
+            }
+        }
+        @page:first {
+            @bottom-center { content: none; }
+            @bottom-left { content: none; }
+        }
+        .pagedjs_page {
+            background: var(--color-bg) !important;
+            position: relative !important;
+        }
+        .pagedjs_pagebox {
+            position: relative !important;
+        }
+        .pagedjs_pagebox::before {
+            content: '' !important;
+            position: absolute !important;
+            top: 15px !important;
+            left: 15px !important;
+            right: 15px !important;
+            bottom: 15px !important;
+            border: 3px solid #065f46 !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        .pagedjs_pagebox::after {
+            content: '' !important;
+            position: absolute !important;
+            top: 22px !important;
+            left: 22px !important;
+            right: 22px !important;
+            bottom: 22px !important;
+            border: 1px solid #e2c98a !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        h2 { string-set: section-title content(); }
+        h1 {
+            font-family: var(--font-display);
+            font-size: 2rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--color-noir);
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+        }
+        h2 {
+            font-family: var(--font-display);
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--color-noir);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--color-accent);
+            break-after: avoid;
+        }
+        h3 {
+            font-family: var(--font-display);
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+            break-after: avoid;
+        }
+        h4 {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            font-weight: 600;
+            font-style: italic;
+            color: var(--color-text-sub);
+            margin-top: 1.25rem;
+            margin-bottom: 0.5rem;
+            break-after: avoid;
+        }
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+            hyphens: auto;
+            orphans: 3;
+            widows: 3;
+        }
+        .lead-text {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+        }
+        .hint {
+            font-family: var(--font-accent);
+            font-style: italic;
+            color: var(--color-text-muted);
+            font-size: 0.95rem;
+            margin-top: -0.5rem;
+            margin-bottom: 1rem;
+        }
+        ul, ol { margin: 1rem 0 1rem 1.5rem; }
+        li { margin-bottom: 0.5rem; }
+        .title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .title-page h1 {
+            font-size: 2.5rem;
+            letter-spacing: 6px;
+            margin-bottom: 0.5rem;
+        }
+        .title-page .divider {
+            width: 100px;
+            height: 2px;
+            background: var(--color-accent);
+            margin: 2rem 0;
+        }
+        .title-page .tagline {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            color: var(--color-text-muted);
+            max-width: 400px;
+        }
+        .section-number {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .section-title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .section-title-page .section-label {
+            font-family: var(--font-display);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            color: var(--theme-color);
+            margin-bottom: 1rem;
+        }
+        .section-title-page h1 {
+            font-size: 2.2rem;
+            margin-bottom: 1rem;
+        }
+        .section-title-page .section-intro {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.8;
+            max-width: 90%;
+        }
+        .anchor-card {
+            border: 2px solid var(--color-noir);
+            background: white;
+            margin: 1.5rem 0;
+            padding: 25px;
+            break-inside: avoid;
+        }
+        .anchor-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 12px;
+            display: block;
+        }
+        .anchor-question {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 1.15rem;
+            border-left: 3px solid var(--color-accent);
+            padding-left: 15px;
+        }
+        .framework-box {
+            border: 2px solid var(--theme-color);
+            background: var(--theme-color-light);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .framework-box h4 {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-top: 0;
+            margin-bottom: 1rem;
+            font-style: normal;
+        }
+        .framework-box p { margin-bottom: 0.75rem; }
+        .framework-box ul { margin: 0.5rem 0 0.5rem 1.5rem; }
+        .framework-box li { margin-bottom: 0.5rem; }
+        .mistake-box {
+            border-left: 4px solid var(--color-danger);
+            background: rgba(159, 18, 57, 0.05);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .mistake-box .mistake-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--color-danger);
+            margin-bottom: 0.75rem;
+        }
+        .mistake-box p { margin-bottom: 0.5rem; font-size: 0.9rem; }
+        .mistake-box p:last-child { margin-bottom: 0; }
+        .fix-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--theme-color);
+            display: block;
+            margin-top: 0.75rem;
+        }
+        .writing-box {
+            border: 1px solid var(--color-noir);
+            background: white;
+            padding: 15px 20px;
+            margin: 1rem 0 1.5rem 0;
+            min-height: 80px;
+            break-inside: avoid;
+        }
+        .writing-box.large { min-height: 120px; }
+        .writing-box.small { min-height: 50px; }
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .checklist {
+            list-style: none;
+            margin: 1rem 0;
+            break-inside: avoid;
+        }
+        .checklist li {
+            position: relative;
+            padding-left: 30px;
+            margin-bottom: 0.75rem;
+            font-size: 0.95rem;
+        }
+        .checklist li::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 2px;
+            width: 16px;
+            height: 16px;
+            border: 1px solid var(--theme-color);
+            background: white;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            font-size: 0.9rem;
+            break-inside: avoid;
+        }
+        th {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            background: var(--theme-color);
+            color: white;
+            padding: 12px 15px;
+            text-align: left;
+        }
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #eee;
+            vertical-align: top;
+        }
+        tr:nth-child(even) { background: rgba(0,0,0,0.02); }
+        thead { display: table-header-group; }
+        tr { break-inside: avoid; }
+        .flourish-divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            margin: 1.5rem 0;
+        }
+        .flourish-divider::before,
+        .flourish-divider::after {
+            content: '';
+            height: 2px;
+            width: 80px;
+            background: var(--color-accent);
+        }
+        .flourish-divider .divider-icon {
+            font-size: 1.2rem;
+            color: var(--color-accent);
+        }
+        .section-toc { margin: 1rem 0; break-inside: avoid; }
+        .section-toc h3 {
+            font-size: 1rem;
+            color: var(--color-accent);
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .section-toc ul {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 1rem 0;
+            columns: 2;
+            column-gap: 2rem;
+        }
+        .section-toc li { margin-bottom: 0.4rem; break-inside: avoid; }
+        .section-toc a {
+            color: var(--color-text-main);
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .section-toc-single ul { columns: 1; }
+        .alphabetical-index, .thematic-index {
+            column-count: 2;
+            column-gap: 30px;
+            font-size: 8.5pt;
+            line-height: 1.4;
+        }
+        .index-entry { break-inside: avoid; margin-bottom: 0.6rem; }
+        .index-letter {
+            font-family: var(--font-display);
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin: 1rem 0 0.5rem 0;
+            padding-bottom: 0.25rem;
+            border-bottom: 1px solid var(--color-accent);
+            break-after: avoid;
+        }
+        .index-keyword { font-weight: 600; color: var(--color-noir); display: block; }
+        .index-reference {
+            display: block;
+            padding-left: 1rem;
+            color: var(--color-text-sub);
+            font-size: 8pt;
+        }
+        .index-reference a {
+            color: var(--theme-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .mt-0 { margin-top: 0; }
+        .mt-1 { margin-top: 0.5rem; }
+        .mt-2 { margin-top: 1rem; }
+        .mb-0 { margin-bottom: 0; }
+        .mb-1 { margin-bottom: 0.5rem; }
+        .mb-2 { margin-bottom: 1rem; }
+        .text-center { text-align: center; }
+        .text-muted { color: var(--color-text-muted); }
+        @media screen {
+            body { background: #e5e1da; padding: 20px; }
+            .pagedjs_page { box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 20px; }
+        }
+        @media print {
+            * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+        }
+    </style>
+</head>
+<body>
+
+<h1 class="section-number">Section 10</h1>
+<h1 class="section-title">Building Your Magic System — The Foundation</h1>
+
+<p class="section-intro">Magic is often what makes a fantasy world feel like <em>fantasy</em>. But magic that can do anything is magic that means nothing. The most memorable magic systems have rules, costs, and limits—and those constraints are what make them interesting. When your character reaches for their power, we need to know what they're risking, what they're capable of, and what's completely beyond them.</p>
+
+<p>This section builds your magic from the ground up: where it comes from, who can use it, how it works, and—most importantly—what it <em>can't</em> do. Get this foundation right, and your magic will feel real. Skip it, and you'll find yourself writing your way into corners or solving problems too easily.</p>
+
+<p>One more thing before we dive in: magic in romantasy isn't just about battles and plot problems. It's also about <em>intimacy</em>—how your characters connect, what they hide from each other, what it means when they finally let someone see their power (or their vulnerability). As you build your system, keep one eye on how magic might bring your leads together or push them apart.</p>
+
+
+<!-- SECTION 10: IN THIS SECTION -->
+
+<h2 class="mt-0">In This Section</h2>
+
+<div class="section-toc">
+    <h3>Part One: The Foundation</h3>
+    <ul>
+        <li><a href="#s10-types">Reference: Types of Magic Systems</a></li>
+        <li><a href="#s10-source">The Source</a></li>
+        <li><a href="#s10-who-can-use">Who Can Use Magic</a></li>
+        <li><a href="#s10-how-works">How Magic Works</a></li>
+        <li><a href="#s10-cost">The Cost</a></li>
+        <li><a href="#s10-limits">The Limits</a></li>
+        <li><a href="#s10-scale-power">Scale and Power</a></li>
+        <li><a href="#s10-specializations">Types and Specializations</a></li>
+        <li><a href="#s10-hard-soft">Hard Magic vs. Soft Magic</a></li>
+    </ul>
+</div>
+
+<div class="section-toc">
+    <h3>Part Two: Magic & Story</h3>
+    <ul>
+        <li><a href="#s10-story">Magic in Your Story</a></li>
+        <li><a href="#s10-consistency">Consistency Check</a></li>
+    </ul>
+</div>
+
+
+<!-- SECTION 10: TYPES OF MAGIC SYSTEMS -->
+
+<h2 class="mt-0" id="s10-types">Reference: Types of Magic Systems</h2>
+
+<p>Magic doesn't have to mean spellcasting. Here are different approaches to inspire you—mix and match, or invent your own.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>How It Works</th>
+            <th>Example</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Elemental</strong></td>
+            <td>Control over natural forces (fire, water, earth, air)</td>
+            <td>Avatar, The Priory of the Orange Tree</td>
+        </tr>
+        <tr>
+            <td><strong>Spellcasting</strong></td>
+            <td>Words, gestures, or rituals produce specific effects</td>
+            <td>Harry Potter, The Name of the Wind</td>
+        </tr>
+        <tr>
+            <td><strong>Innate/Inborn</strong></td>
+            <td>Powers you're born with, often tied to bloodline</td>
+            <td>X-Men, Graceling, Ninth House</td>
+        </tr>
+        <tr>
+            <td><strong>Blood/Sacrifice</strong></td>
+            <td>Power drawn from blood, pain, or giving something up</td>
+            <td>Blood and Ash, Daughter of No Worlds</td>
+        </tr>
+        <tr>
+            <td><strong>Emotional/Will-Based</strong></td>
+            <td>Magic fueled by feelings, desire, or force of will</td>
+            <td>The Rage of Dragons</td>
+        </tr>
+        <tr>
+            <td><strong>Bond-Based</strong></td>
+            <td>Magic tied to a connection with another being</td>
+            <td>Fourth Wing, His Dark Materials</td>
+        </tr>
+        <tr>
+            <td><strong>Artifact-Based</strong></td>
+            <td>Power resides in objects, not people</td>
+            <td>Lord of the Rings</td>
+        </tr>
+        <tr>
+            <td><strong>Transformation</strong></td>
+            <td>Ability to change form</td>
+            <td>ACOTAR (shifting)</td>
+        </tr>
+        <tr>
+            <td><strong>Necromancy</strong></td>
+            <td>Power over death, spirits, or life's boundary</td>
+            <td>Gideon the Ninth, Sabriel</td>
+        </tr>
+        <tr>
+            <td><strong>Bargain/Contract</strong></td>
+            <td>Power gained through deals or binding agreements</td>
+            <td>ACOTAR (bargains)</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- SECTION 10: MORE MAGIC TYPES & THE SOURCE -->
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>How It Works</th>
+            <th>Example</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Symbiotic/Parasitic</strong></td>
+            <td>Magic requires or is enhanced by another being</td>
+            <td>Venom, The Fifth Season</td>
+        </tr>
+        <tr>
+            <td><strong>Music/Art-Based</strong></td>
+            <td>Creation through song, art, or expression</td>
+            <td>Wintersong</td>
+        </tr>
+        <tr>
+            <td><strong>True Names</strong></td>
+            <td>Power from knowing the true nature of things</td>
+            <td>Earthsea, The Name of the Wind</td>
+        </tr>
+        <tr>
+            <td><strong>Psychic/Mental</strong></td>
+            <td>Mind-reading, telekinesis, mental influence</td>
+            <td>Shatter Me, Carrie</td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s10-1">Which type(s) best describe your magic system?</h4>
+<p class="hint">You can combine multiple approaches.</p>
+<div class="writing-box"></div>
+
+<h4>If your system doesn't fit these categories, describe what makes it different:</h4>
+<div class="writing-box"></div>
+
+<div class="divider"></div>
+
+<h2 id="s10-source">The Source</h2>
+
+<p>Every magic system has an origin—where the power actually comes from. This shapes everything: who has access, how it's viewed by society, and what it costs to use.</p>
+
+
+<!-- SECTION 10: THE SOURCE -->
+
+<h4 id="q-s10-2" class="mt-0">Where does magic come from in your world?</h4>
+<p class="hint">Options: the gods or divine forces, the natural world (ley lines, elemental forces), an internal source (bloodlines, souls, emotions), external objects, knowledge and study, a bargain or bond, something unknown or mysterious.</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-3">Is there a single source of magic, or multiple types with different origins?</h4>
+<p class="hint">If multiple, how do they interact—or conflict?</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-4">Can the source be depleted, corrupted, or cut off? What happens if it is?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-5">How do people in your world explain where magic comes from?</h4>
+<p class="hint">Is the truth different from what most believe?</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: SOURCE ROMANTASY CHECK & WHO CAN USE -->
+
+<div class="anchor-card">
+    <h4 id="q-s10-6">Romantasy Check: Could the source of magic connect your leads—or divide them?</h4>
+    <p>Sometimes magic creates multiple layers of division. In <em>ACOTAR</em>: Feyre is human; Tamlin is High Fae. That's the obvious gap—she's mortal and powerless in his world. But there's also something he's not telling her. The reader experiences the divide as a mystery: <em>why won't he tell me the truth?</em></p>
+    <p>Or the division might be more straightforward: Magic runs through noble bloodlines, and she's aristocracy while he's common-born—except he's developing abilities that shouldn't exist in someone like him.</p>
+</div>
+
+<h4 id="q-s10-7">How might the source of magic affect your leads' relationship?</h4>
+<div class="writing-box"></div>
+
+<div class="divider"></div>
+
+<h2 id="s10-who-can-use">Who Can Use Magic</h2>
+
+<p>Not everyone has to be magical—and who <em>can</em> wield magic shapes everything from social structure to your protagonist's place in the world.</p>
+
+<h4 id="q-s10-8">How common is magic in your world?</h4>
+<p class="hint">Can nearly everyone use some form? Limited to certain bloodlines, species, or chosen ones? Can anyone learn it with training? Vanishingly rare?</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: WHO CAN USE MAGIC CONTINUED -->
+
+<h4 id="q-s10-9" class="mt-0">What determines whether someone can use magic?</h4>
+<p class="hint">Birth (bloodlines, species, being "chosen"), training and study, a triggering event (trauma, ritual), possession of an object or bond, random chance, a sacrifice or bargain.</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-10">Can magical ability be gained if you weren't born with it? Can it be lost or taken away?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-11">If magic is inherited, how does that affect families, dynasties, and marriages?</h4>
+<p class="hint">If it's learned, who controls access to that knowledge—and who's excluded?</p>
+<div class="writing-box"></div>
+
+<div class="anchor-card">
+    <h4 id="q-s10-12">Romantasy Check: How does who can use magic affect the dynamic between your leads?</h4>
+    <p>In <em>Serpent & Dove</em>: Lou is a witch hiding her magic; Reid is a witch hunter sworn to kill her kind. It's not just that one has magic and one doesn't—it's that his entire identity is built on destroying what she is. The question isn't just "who has power"—it's "what happens when he finds out?"</p>
+</div>
+
+
+<!-- SECTION 10: MAGICAL STATUS & HOW MAGIC WORKS -->
+
+<h4 id="q-s10-13" class="mt-0">How does magical access (or lack of it) shape the dynamic between your leads?</h4>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Protagonist's magical status</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Love Interest's magical status</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>What this means for their dynamic</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="divider"></div>
+
+<h2 id="s10-how-works">How Magic Works</h2>
+
+<p>This is the mechanical heart of your system—the "physics" of magic. You don't need to explain everything to readers, but <em>you</em> should understand how it operates so your story stays consistent.</p>
+
+<h4 id="q-s10-14">How does someone actually do magic? What does the process look like?</h4>
+<p class="hint">Spoken words, physical gestures, intense concentration, drawing symbols, channeling through objects, emotional states, rituals, physical contact, visualization, music or art.</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: HOW MAGIC WORKS CONTINUED -->
+
+<h4 id="q-s10-15" class="mt-0">What does magic look like when it happens?</h4>
+<p class="hint">What do bystanders see, hear, or feel?</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-16">How long does it take to use magic?</h4>
+<p class="hint">Can it be done instantly, or does it require preparation?</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-17">Can magic be interrupted? What happens if it's disrupted mid-use?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-18">Is magic precise or unpredictable?</h4>
+<p class="hint">Does the same action always produce the same result, or is there variation based on skill, emotion, or circumstance?</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: HOW MAGIC WORKS - ROMANTASY CHECK & COST -->
+
+<div class="anchor-card">
+    <h4 id="q-s10-19">Romantasy Check: Is there anything about how magic is performed that creates vulnerability or intimacy?</h4>
+    <p>In <em>Fourth Wing</em>: Dragon riders share a mental bond with their dragons—and sometimes with each other. Violet and Xaden can speak mind-to-mind, which sounds romantic until you realize it means he knows when she's scared, when she's lying, when she's thinking about him. There's nowhere to hide. The bond doesn't just connect them; it strips away the walls they've both built.</p>
+</div>
+
+<h4 id="q-s10-20">How might the process of using magic create vulnerable or intimate moments between your leads?</h4>
+<div class="writing-box"></div>
+
+<div class="divider"></div>
+
+<h2 id="s10-cost">The Cost</h2>
+
+<p>This is where your magic system gets genuinely interesting. Unlimited power is boring; power with a price creates drama. What does magic take from the user—and is it worth paying?</p>
+
+<h4 id="q-s10-21">What does using magic cost?</h4>
+<p class="hint">Physical energy/exhaustion, pain/damage, shortened lifespan, emotional toll, rare materials, time, moral cost (corruption, debt), something from the world around them.</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: THE COST CONTINUED -->
+
+<h4 id="q-s10-22" class="mt-0">Does the cost scale with the power used?</h4>
+<p class="hint">Is a small spell a small price, while world-shaking magic demands everything?</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-23">What happens when someone overextends—uses more magic than they can safely handle?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-24">Is the cost immediate, or does it accumulate over time?</h4>
+<p class="hint">Can someone use magic freely for years and then pay all at once?</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-25">Are there situational or plot-driven costs—times when magic can't be used safely?</h4>
+<p class="hint">In <em>ACOTAR</em>: Rhysand limits his magic use because the enemy can track it. Think about: Can magic be traced? Would using it alert enemies or violate a treaty? Does magic leave evidence?</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-26">Does your protagonist know the full cost of their power, or will they find out the hard way?</h4>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: COST ROMANTASY CHECK & LIMITS -->
+
+<div class="anchor-card">
+    <h4 id="q-s10-27">Romantasy Check: How might the cost of magic create romantic tension or sacrifice?</h4>
+    <p>In <em>From Blood and Ash</em>: Poppy's gift lets her sense others' emotions and take away their pain—but it means absorbing that pain into herself. Every time she helps someone, she suffers for it. When she uses her power on Hawke, she's not just healing him; she's choosing to hurt for him.</p>
+    <p>Or: His power is fueled by strong emotion, which means falling in love makes him more powerful but also more dangerous. Or: Magic costs memories, and she's starting to forget why she's fighting—including starting to forget him.</p>
+</div>
+
+<h4 id="q-s10-28">How might the cost of magic create stakes in the relationship?</h4>
+<div class="writing-box"></div>
+
+<div class="divider"></div>
+
+<h2 id="s10-limits">The Limits</h2>
+
+<p>What magic <em>cannot</em> do is more important than what it can. Limits create stakes, force creativity, and prevent your characters from solving every problem with a wave of their hand.</p>
+
+<h4>What is absolutely impossible with magic in your world? Name at least three things.</h4>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: TYPES OF LIMITATIONS -->
+
+<h3 class="mt-0">Reference: Types of Magic Limitations</h3>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Limitation Type</th>
+            <th>Examples</th>
+            <th>Story Function</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Impossible Acts</strong></td>
+            <td>Can't raise the dead, can't create love, can't time travel</td>
+            <td>Some problems must be solved without magic</td>
+        </tr>
+        <tr>
+            <td><strong>Material Weaknesses</strong></td>
+            <td>Iron disrupts fae, silver harms werewolves, salt breaks enchantments</td>
+            <td>Gives non-magical characters a chance</td>
+        </tr>
+        <tr>
+            <td><strong>Environmental</strong></td>
+            <td>Fails in certain locations/times</td>
+            <td>Creates dangerous/safe spaces</td>
+        </tr>
+        <tr>
+            <td><strong>Physical State</strong></td>
+            <td>Can't use when exhausted, injured, or emotional</td>
+            <td>Physical danger matters to mages</td>
+        </tr>
+        <tr>
+            <td><strong>Knowledge/Skill</strong></td>
+            <td>Must learn abilities, years of training required</td>
+            <td>Creates expertise hierarchies</td>
+        </tr>
+        <tr>
+            <td><strong>Resource Depletion</strong></td>
+            <td>Energy runs out, components consumed, limited uses</td>
+            <td>Creates tactical decisions</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- SECTION 10: MORE LIMITATIONS -->
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Limitation Type</th>
+            <th>Examples</th>
+            <th>Story Function</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Backlash</strong></td>
+            <td>Overuse causes damage, failed magic backfires, corruption</td>
+            <td>Makes magical choices risky</td>
+        </tr>
+        <tr>
+            <td><strong>Range/Scale</strong></td>
+            <td>Only affects what you see/touch, power diminishes with distance</td>
+            <td>Keeps magic personal</td>
+        </tr>
+        <tr>
+            <td><strong>Countermeasures</strong></td>
+            <td>Others can block/dispel, wards exist, immunities</td>
+            <td>Creates strategic depth</td>
+        </tr>
+        <tr>
+            <td><strong>Social/Legal</strong></td>
+            <td>Magic is illegal, regulated, taboo</td>
+            <td>External conflict beyond magic</td>
+        </tr>
+        <tr>
+            <td><strong>Specificity</strong></td>
+            <td>Fire mages can't do ice, each person has one gift</td>
+            <td>Requires teamwork</td>
+        </tr>
+        <tr>
+            <td><strong>Consent/Will</strong></td>
+            <td>Can't affect someone who truly resists</td>
+            <td>Protects character agency</td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s10-29">Which limitation types exist in your system?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-30">Are there things magic can technically do, but no one attempts because the cost or risk is too high?</h4>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: LIMITS CONTINUED & SCALE -->
+
+<h4 id="q-s10-31" class="mt-0">Can magic be resisted or defended against?</h4>
+<p class="hint">How do non-magical people protect themselves?</p>
+<div class="writing-box"></div>
+
+<div class="anchor-card">
+    <h4 id="q-s10-32">Romantasy Check: Do any of your limitations create romantic complications?</h4>
+    <p>In <em>The Cruel Prince</em>: The Fae cannot lie. Every cruel thing Cardan says, Jude knows he means. And every rare moment of honesty hits harder because she knows it's true; he literally cannot say "I love you" unless he does. The limitation forces them to become masters of misdirection and half-truths.</p>
+</div>
+
+<h4 id="q-s10-33">How might your magic's limitations affect the relationship?</h4>
+<div class="writing-box"></div>
+
+<div class="divider"></div>
+
+<h2 id="s10-scale-power">Scale and Power</h2>
+
+<p>Not all magic users are created equal. Understanding the range of power helps you place your characters and set stakes appropriately.</p>
+
+
+<!-- SECTION 10: SCALE AND POWER -->
+
+<h4 id="q-s10-34" class="mt-0">What's the range of magical power in your world?</h4>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Level</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Weakest magic user</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Strongest magic user</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s10-35">Where do your protagonist and love interest fall on this scale?</h4>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Character</th>
+            <th>Power Level</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Protagonist</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Love Interest</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s10-36">Is raw power the only measure of magical strength?</h4>
+<p class="hint">Or can skill, creativity, knowledge, or cleverness make a "weaker" user formidable?</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-37">What's the most impressive feat of magic in your world's history?</h4>
+<p class="hint">Could anyone alive today replicate it?</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: SCALE CONTINUED & TYPES -->
+
+<h4 id="q-s10-38" class="mt-0">Is magical power fixed, or can it grow?</h4>
+<p class="hint">How does someone become more powerful—and what do they risk in pursuing that growth?</p>
+<div class="writing-box"></div>
+
+<div class="anchor-card">
+    <h4 id="q-s10-39">Romantasy Check: If there's a power gap between your leads, how do you balance the relationship?</h4>
+    <p>In later <em>ACOTAR</em> books: Rhysand is the most powerful High Lord in history. But the story doesn't let that gap make Feyre irrelevant—she has things he needs that have nothing to do with magic: she sees through his masks, she challenges his decisions. Power isn't just magic—it's also who's willing to call you on your bullshit.</p>
+</div>
+
+<h4 id="q-s10-40">If there's a power gap, what does the less powerful person bring that the powerful one needs?</h4>
+<div class="writing-box"></div>
+
+<div class="divider"></div>
+
+<h2 id="s10-specializations">Types and Specializations</h2>
+
+<p>Some worlds have one kind of magic; others have many flavors. Understanding whether your magic is unified or diverse affects how characters relate to their powers—and to each other.</p>
+
+
+<!-- SECTION 10: TYPES AND SPECIALIZATIONS -->
+
+<h4 id="q-s10-41" class="mt-0">Is magic in your world one unified force, or are there distinct types, schools, or disciplines?</h4>
+<p class="hint">If there are distinct types, list them:</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-42">Do magic users specialize, or can someone master multiple types?</h4>
+<p class="hint">What determines their specialty—birth, choice, training, or something else?</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-43">Are some types of magic considered more valuable, dangerous, or taboo than others?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-44">Do different types of magic interact?</h4>
+<p class="hint">Can they combine for greater effect, cancel each other out, or create unexpected reactions?</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: TYPES ROMANTASY CHECK & HARD VS SOFT -->
+
+<div class="anchor-card">
+    <h4 id="q-s10-45">Romantasy Check: How do your leads' magic types interact?</h4>
+    <p>In <em>Gideon the Ninth</em>: Harrow is a necromancer—she works with bones and death. Gideon is her cavalier, a swordswoman with no magic. The magic demands partnership; their history demands distance. The tension is about two people who are magically designed to be partners but emotionally unable to trust each other.</p>
+</div>
+
+<h4 id="q-s10-46">How might your leads' types of magic interact—for good or ill?</h4>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Protagonist's magic</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Love Interest's magic</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>How they might clash</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>How they might complement</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="divider"></div>
+
+<h2 id="s10-hard-soft">Hard Magic vs. Soft Magic: Where Does Your System Land?</h2>
+
+<p><strong>Hard Magic</strong> has clearly defined rules, costs, and limitations. Readers understand what magic can and can't do, so magical solutions feel earned.</p>
+
+<p><strong>Soft Magic</strong> is mysterious and not fully explained. It creates wonder and danger. The risk: solving major problems with undefined magic can feel like cheating.</p>
+
+<p><strong>Most romantasy falls somewhere in between</strong>—defined enough for stakes, mysterious enough for wonder.</p>
+
+
+<!-- SECTION 10: HARD VS SOFT CONTINUED & STORY -->
+
+<h4 id="q-s10-47" class="mt-0">Where does your magic fall on the spectrum?</h4>
+<p class="hint">HARD (Clear rules) ←――――――――――→ SOFT (Mysterious, wondrous)</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-48">If your magic is on the harder side: Have you established the rules clearly enough that readers will accept magical solutions?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-49">If your magic is on the softer side: Are you avoiding using vague magic to solve major plot problems?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-50">If you're in the middle: Which elements are rule-bound and which are mysterious?</h4>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: MAGIC IN YOUR STORY -->
+
+<h2 class="mt-0" id="s10-story">Magic in Your Story</h2>
+
+<p>You've built the system. Now let's make sure it actually <em>works</em> for the story you're telling—both the plot and the romance.</p>
+
+<h3>Magic and Plot</h3>
+
+<h4 id="q-s10-51">How does magic create or complicate your central conflict?</h4>
+<p class="hint">Not just "there's a magical villain"—how do the <em>rules</em> of your magic shape what's possible?</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-52">What can your antagonist do with magic that makes them a genuine threat?</h4>
+<p class="hint">What limits prevent them from simply winning immediately?</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: MAGIC AND STORY BEATS -->
+
+<h3 class="mt-0">Act 1: Setup — The Inciting Incident</h3>
+
+<p>In <em>ACOTAR</em>: Feyre kills a faerie—a magical creature—in the woods. The inciting incident isn't just "something happens"; it's "something magical happens that she can't undo."</p>
+
+<h4 id="q-s10-53">What magical event, ability, or consequence pulls your protagonist out of their ordinary world?</h4>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-54">How does this same magical event connect them to the love interest?</h4>
+<p class="hint">In romantasy, the fantasy inciting incident and the meet-cute should be linked.</p>
+<div class="writing-box"></div>
+
+<h3>Act 2: Rising Action — Building Tension</h3>
+
+<p>In <em>ACOTAR</em>: As Feyre spends time in the Spring Court, she's surrounded by magic she doesn't understand. The curse is ticking down, adding urgency Tamlin can't explain. Magic isn't just backdrop; it's pressure.</p>
+
+<h4 id="q-s10-55">What magical obstacles, revelations, or complications arise as your leads grow closer?</h4>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: MORE STORY BEATS -->
+
+<h4 id="q-s10-56" class="mt-0">Does magic create intimacy or distance as they grow closer?</h4>
+<p class="hint">Shared power, training together, magical bonds forming? Or secrets, power imbalances, dangerous abilities?</p>
+<div class="writing-box"></div>
+
+<h3>Act 3: Crisis — Everything Falls Apart</h3>
+
+<p>In <em>ACOTAR</em>: Feyre is powerless among the most powerful beings in the world, Tamlin is bound and can't help her. The very magic that drew them together now seems to make saving each other impossible.</p>
+
+<h4 id="q-s10-57">What magical crisis makes everything seem hopeless?</h4>
+<p class="hint">How does magic trap, separate, or endanger your leads at their lowest point?</p>
+<div class="writing-box"></div>
+
+<h3>Act 4: Resolution — The Climax</h3>
+
+<p>In <em>ACOTAR</em>: Feyre solves Amarantha's riddle, and the answer is "love." Her willingness to die for Tamlin breaks the curse. The romantic sacrifice triggers the magical solution. The romantic climax IS the magical climax.</p>
+
+<h4 id="q-s10-58">How does your protagonist's romantic choice enable the magical resolution?</h4>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: MAGIC AND WORLD/ROMANCE -->
+
+<h4 id="q-s10-59" class="mt-0">What is your protagonist's magical state at the end versus the beginning?</h4>
+<p class="hint">Gained power, lost it, transformed, or learned to use it differently?</p>
+<div class="writing-box"></div>
+
+<h3>Magic and Your World</h3>
+
+<h4 id="q-s10-60">How has magic shaped the power structures in your world?</h4>
+<p class="hint">Who's on top because of magic—and who's at the bottom?</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-61">What do non-magical people think of magic users?</h4>
+<p class="hint">Fear? Reverence? Resentment? Envy? Exploitation?</p>
+<div class="writing-box"></div>
+
+<h3>Magic and Romance</h3>
+
+<h4 id="q-s10-62">Does your magic system include any bonds, bargains, or connections between people?</h4>
+<p class="hint">Soul bonds, mating marks, magical contracts, shared power?</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: MAGIC AND ROMANCE CONTINUED -->
+
+<h4 id="q-s10-63" class="mt-0">If you have magical bonds: Are they chosen or fated?</h4>
+<p class="hint">Can they be broken? What does your story say about destiny vs. choice?</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-64">How might magic create obstacles between your leads?</h4>
+<p class="hint">Forbidden types of magic, power imbalances, magic that makes trust difficult, duties that pull them apart, being on opposite sides.</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-65">How might magic create connection between your leads?</h4>
+<p class="hint">Shared abilities or training, one can help/heal/protect the other, magical communication, complementary powers, using magic together creates intimacy.</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-66">What would it mean for your protagonist to use their magic for their love interest in a personal, private way?</h4>
+<p class="hint">Protective, generous, or revealing something they usually hide:</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: MAGIC INTIMACY & CONSISTENCY CHECK -->
+
+<h4 id="q-s10-67" class="mt-0">What would it mean for your protagonist to use their magic in front of their love interest in a way they don't show others?</h4>
+<p class="hint">Revealing their full power, their vulnerability, or a secret aspect of their abilities:</p>
+<div class="writing-box"></div>
+
+<div class="divider"></div>
+
+<h2 id="s10-consistency">Consistency Check</h2>
+
+<p>Before you move on, let's make sure your magic system holds together.</p>
+
+<h4>Write out your magic system in two or three sentences:</h4>
+<p class="hint">Source, who can use it, how it works, main cost, biggest limit:</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-68">Does your magic system contradict itself anywhere?</h4>
+<p class="hint">For example: "Magic is extremely rare" but also "Every noble family has a court mage."</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 10: CONSISTENCY CHECK CONTINUED & FINAL -->
+
+<h4 class="mt-0">Think of the biggest problem your protagonist faces.</h4>
+<p class="hint">If a skeptical reader asked "Why didn't they just use magic to fix that?"—what's your answer?</p>
+<div class="writing-box"></div>
+
+<h4 id="q-s10-69">What's one thing you're still unsure about in your magic system?</h4>
+<p class="hint">Write it down—you may figure it out as you draft, or in later sections.</p>
+<div class="writing-box"></div>
+
+<div class="divider"></div>
+
+<div class="framework-box">
+    <h3>Final Thought: Magic Is About Choices</h3>
+    <p>The best magic systems aren't about power—they're about cost, consequence, and choice. Every time your character reaches for their magic, they should be weighing what they gain against what they risk.</p>
+    <p>Magic in romantasy should create both obstacles and opportunities for connection. It can divide your leads (forbidden powers, opposite sides, dangerous secrets) or unite them (shared abilities, complementary gifts, the vulnerability of showing someone your true power).</p>
+    <p>Build magic that forces your characters to make hard choices—and makes readers feel the weight of those choices.</p>
+</div>
+
+<div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
+
+<!-- ============================================================
+ SECTION 11: MAGIC & INTIMACY
+ ============================================================ -->
+
+</body></html>
