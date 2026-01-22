@@ -9511,15 +9511,25 @@ Without history, your characters' choices happen in a vacuum. With history, ever
 
 Language is intimacy and barrier in equal measure. Shared language creates understanding; language barriers force vulnerability and trust. In romantasy, language does more than convey information — it reveals power, creates secrets, enables private communication, and forces characters to truly listen to each other.
 
-**Language does three crucial things in romantasy:**
+This section is divided into two parts:
 
-1. **Creates barriers that require trust** — When characters don't share a language, communication becomes an act of vulnerability
-2. **Enables secret communication** — Private languages, coded messages, magical communication others can't intercept
-3. **Reveals power and status** — Who speaks the "proper" language, who controls literacy, who has access to knowledge
+**Part One: The Foundation** — How language works in your world. What languages exist, who speaks them, how people navigate multilingual spaces. This is the linguistic reality your characters inhabit regardless of their romantic situation.
 
-The key is understanding: What language barriers exist between your characters? What private communication methods do they develop? What does learning each other's language mean for intimacy?
+**Part Two: Language & Romance** — How language creates romantic tension. Barriers that force vulnerability, the intimacy of teaching and learning, what goes unsaid, private words only they share. This builds on the foundation to show how your world's language landscape specifically affects your love story.
 
-Don't build elaborate linguistic systems for their own sake. Build language that serves your story: misunderstandings that lead to clarity, private words only they understand, the vulnerability of teaching and learning.
+You need both. A romance where language barriers matter needs a believable multilingual world (foundation) that actually creates stakes and intimacy for the characters (romance application).
+
+---
+
+## A Note Before You Begin
+
+Not every question will apply to your story. Skip what doesn't fit.
+
+If your characters share a language fluently, the "language barrier" questions won't be relevant — but the questions about silence, lying, private communication, and how they argue still matter. Language shapes romance even when both characters speak the same tongue.
+
+---
+
+## Part One: The Foundation
 
 ---
 
@@ -9600,6 +9610,10 @@ How do they navigate it? What advantages or disadvantages do they have?
 _______________________________________________________________
 
 _______________________________________________________________
+
+---
+
+## Part Two: Language & Romance
 
 ---
 
@@ -10403,13 +10417,25 @@ Don't just have them speak the same language. Make them learn each other.
 
 Technology level determines what's possible and what's difficult. Can people communicate instantly across distances, or do letters take weeks? Can they travel in hours, or does separation mean months apart? Does infrastructure exist to support large populations, or is survival a daily struggle?
 
-**Technology does three crucial things in romantasy:**
+This section is divided into two parts:
 
-1. **Sets the pace of life** — How much time do people spend on survival vs. leisure? Who has time for anything beyond work?
-2. **Determines connection and separation** — Travel speed and communication methods define what distance means
-3. **Creates or removes obstacles** — Technology can solve problems (or its absence creates them)
+**Part One: The Foundation** — How technology actually works in your world. Transportation, communication, medicine, daily conveniences, and what level of infrastructure exists. This is the technological reality your characters live in regardless of their romantic situation.
 
-The key is understanding what your tech level makes easy and what it makes hard. Don't get lost in technical details. Focus on how technology shapes daily life, what it enables, and what it prevents.
+**Part Two: Technology & Romance** — How technology shapes romantic possibility. What privacy exists, how characters communicate when separated, what medical care means for injury and illness, how servants and surveillance affect intimacy. This builds on the foundation to show how your world's technology specifically affects your love story.
+
+You need both. A romance where letters take weeks to arrive needs a believable communication infrastructure (foundation) that actually creates longing and stakes for the characters (romance application).
+
+---
+
+## A Note Before You Begin
+
+Not every question will apply to your story. Skip what doesn't fit.
+
+Focus on the technology that matters for your plot. If communication isn't a factor, skip those questions. If medical care becomes important, develop that in detail. Build what you need for the story you're telling.
+
+---
+
+## Part One: The Foundation
 
 ---
 
@@ -11133,6 +11159,10 @@ Consequences for using it: _________________________________________
 
 ---
 
+## Part Two: Technology & Romance
+
+---
+
 ## Technology & Your Characters
 
 Now that you've established your world's technology level, consider how it specifically affects your characters.
@@ -11284,16 +11314,33 @@ The question isn't "what cool technology exists?" It's "what does my technology 
 ---
 
 
-# SECTION 10: BUILDING YOUR MAGIC SYSTEM — THE FOUNDATION
+# SECTION 10: Building Your Magic System
 
 Magic is often what makes a fantasy world feel like *fantasy*. But magic that can do anything is magic that means nothing. The most memorable magic systems have rules, costs, and limits—and those constraints are what make them interesting. When your character reaches for their power, we need to know what they're risking, what they're capable of, and what's completely beyond them.
 
-This section builds your magic from the ground up: where it comes from, who can use it, how it works, and—most importantly—what it *can't* do. Get this foundation right, and your magic will feel real. Skip it, and you'll find yourself writing your way into corners or solving problems too easily.
+This section is divided into two parts:
 
-One more thing before we dive in: magic in romantasy isn't just about battles and plot problems. It's also about *intimacy*—how your characters connect, what they hide from each other, what it means when they finally let someone see their power (or their vulnerability). As you build your system, keep one eye on how magic might bring your leads together or push them apart.
+**Part One: The Foundation** — How magic actually works in your world. Where it comes from, who can use it, what it costs, what it can't do. This is the magical reality your characters inhabit regardless of their romantic situation.
 
+**Part Two: Magic & Romance** (Section 11) — How magic creates romantic tension and intimacy. The small uses that mean everything, bonds and connections, power dynamics, secrets and vulnerabilities. This builds on the foundation to show how your world's magic specifically affects your love story.
 
-Reference: Types of Magic Systems
+You need both. A romance where magic matters needs a believable system with real limits (foundation) that actually creates stakes and intimacy for the characters (romance application).
+
+---
+
+## A Note Before You Begin
+
+Not every question will apply to your story. Skip what doesn't fit.
+
+Magic in romantasy isn't just about battles and plot problems. It's also about *intimacy*—how your characters connect, what they hide from each other, what it means when they finally let someone see their power (or their vulnerability). As you build your system, keep one eye on how magic might bring your leads together or push them apart.
+
+---
+
+## Part One: The Foundation
+
+---
+
+## Reference: Types of Magic Systems
 
 Magic doesn't have to mean spellcasting. Here are different approaches to inspire you—mix and match, or invent your own.
 
@@ -12058,6 +12105,10 @@ _______________________________________________________________________________
 
 ---
 
+
+## Part Two: Magic & Romance
+
+---
 
 # SECTION 11: Magic & Intimacy
 
