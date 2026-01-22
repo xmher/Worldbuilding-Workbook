@@ -327,6 +327,7 @@
             margin: 1.5rem 0;
             font-size: 0.9rem;
             break-inside: avoid;
+            border: 1px solid #1a1515;
         }
         th {
             font-family: var(--font-display);
@@ -337,10 +338,11 @@
             color: white;
             padding: 12px 15px;
             text-align: left;
+            border: 1px solid #1a1515;
         }
         td {
             padding: 12px 15px;
-            border-bottom: 1px solid #eee;
+            border: 1px solid #1a1515;
             vertical-align: top;
         }
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
@@ -423,6 +425,7 @@
         .mb-2 { margin-bottom: 1rem; }
         .text-center { text-align: center; }
         .text-muted { color: var(--color-text-muted); }
+        .break-before { break-before: page; }
         @media screen {
             body { background: #e5e1da; padding: 20px; }
             .pagedjs_page { box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 20px; }
@@ -437,7 +440,7 @@
 <div class="section-title-page">
     <span class="section-label">Section One</span>
     <h1>Geography &<br>Environment</h1>
-    <p class="section-intro">Geography isn't just a map — it's the physical constraints that shape everything else. Mountains create borders that become political divisions. Deserts isolate cultures. Rivers determine where cities grow. Control of fertile valleys determines who holds power.</p>
+    <p class="section-intro">Geography isn't just a map —it's the landscape that shapes everything else. Mountains create borders that become political divisions. Deserts isolate cultures. Rivers determine where cities grow. Control of fertile valleys determines who holds power.</p>
     <div class="flourish-divider"><span class="divider-icon">✦</span></div>
 </div>
 
@@ -518,10 +521,11 @@
  SECTION 1: GEOGRAPHY-AS-FRICTION FRAMEWORK
  ========================================== -->
 
+<div style="break-inside: avoid;">
 <h3 class="mt-0">The Geography-as-Friction Framework</h3>
 <p class="hint">Develop geography that creates friction — between your characters, or between what they want and what they can have.</p>
 
-<div class="framework-box">
+<div class="framework-box" style="margin: 1rem 0;">
     <h4>Separation Friction</h4>
     <p>What physical obstacles keep them apart?</p>
     <ul>
@@ -532,7 +536,7 @@
     </ul>
 </div>
 
-<div class="framework-box">
+<div class="framework-box" style="margin: 1rem 0;">
     <h4>Proximity Friction</h4>
     <p>What forces them together despite themselves?</p>
     <ul>
@@ -543,7 +547,7 @@
     </ul>
 </div>
 
-<div class="framework-box">
+<div class="framework-box" style="margin: 1rem 0;">
     <h4>Resource Friction</h4>
     <p>What geographic scarcity creates conflict?</p>
     <ul>
@@ -555,6 +559,7 @@
 </div>
 
 <p>Geography that doesn't create friction isn't wasted — it's just setting.</p>
+</div>
 
 
 <!-- ==========================================
@@ -562,19 +567,25 @@
  ========================================== -->
 
 <h3 class="mt-0">The "Pressure Cooker" Principle</h3>
-<p>The most effective romantasy settings function as pressure cookers — environments that trap characters together and force interaction:</p>
+<p>The most effective romantasy settings function as pressure cookers — environments that trap characters together and force interaction. The key is that <em>leaving must be impossible, dangerous, or carry unacceptable consequences</em>. When characters can't escape each other, they're forced to confront conflict instead of avoiding it, rely on each other despite distrust, and share space long enough for attraction to build beneath their defenses.</p>
+
+<p>Think about what makes the container seal tight:</p>
 
 <ul>
-    <li><strong>Physical trapping:</strong> Islands, academies, sieges, ships, remote estates</li>
-    <li><strong>Circumstantial trapping:</strong> Dangerous wilderness requiring partnership, diplomatic missions, shared exile</li>
-    <li><strong>Environmental trapping:</strong> Storms, seasons, magical barriers that prevent departure</li>
+    <li><strong>Physical trapping:</strong> Islands, academies, sieges, ships, remote estates — locations with literal boundaries characters cannot cross</li>
+    <li><strong>Circumstantial trapping:</strong> Dangerous wilderness requiring partnership, diplomatic missions, shared exile — situations where separating means failure or death</li>
+    <li><strong>Environmental trapping:</strong> Storms, seasons, magical barriers that prevent departure — external forces that make leaving impossible regardless of desire</li>
+    <li><strong>Social/political trapping:</strong> Arranged marriages, hostage situations, court obligations — circumstances where leaving would destroy reputation, alliance, or lives</li>
 </ul>
+
+<p>The pressure cooker works because proximity breeds intimacy. Characters see each other at their worst. They can't maintain facades. Small moments accumulate — shared meals, overheard conversations, accidental touches in tight quarters. The setting does half the work of bringing them together.</p>
 
 <div class="anchor-card">
     <span class="anchor-title">The Key Question</span>
     <div class="anchor-question">If your characters could simply walk away from each other, would they? If yes, your geography might need to make walking away impossible, dangerous, or costly.</div>
 </div>
 
+<div style="break-inside: avoid;">
 <h2 id="s1-patterns">Common Geographic Patterns in Romantasy</h2>
 
 <h3>Settings That Force Proximity</h3>
@@ -610,7 +621,7 @@
         </tr>
     </tbody>
 </table>
-
+</div>
 
 <!-- ==========================================
  SECTION 1: MORE PATTERNS
@@ -795,9 +806,7 @@
  SECTION 1: PART ONE - FOUNDATION TITLE
  ========================================== -->
 
-<div style="break-before: page;"></div>
-
-<span class="section-number">Section 1 · Part One</span>
+<span class="section-number break-before">Section 1 · Part One</span>
 <h1>The Foundation</h1>
 
 <h2 class="mt-2" id="s1-big-picture">The Big Picture: Your World's Scale</h2>
@@ -874,6 +883,8 @@
  ========================================== -->
 
 <h2 class="mt-0" id="s1-terrain">Terrain Types</h2>
+
+<p>Not every terrain needs equal development. Use the table below to survey what exists in your world, then identify which 2-3 terrains actually matter for your story — the ones your characters traverse, fight over, or call home.</p>
 
 <table class="input-table">
     <thead>
@@ -993,6 +1004,8 @@
 
 <p>In romantasy, resource control often creates the power imbalances that drive conflict between love interests. Resource control explains arranged marriages, political alliances, and the economic pressures that force characters into impossible choices.</p>
 
+<p><strong>How to write it:</strong> Don't explain resource conflict through exposition — show it through what characters can and can't do. A character from a water-scarce region might flinch at seeing someone leave a bath running. Someone from contested territory notices strategic value in landscape others see as beautiful. Let resource awareness emerge through small reactions, casual comments about price or scarcity, and the background hum of what everyone in this world worries about. When two characters come from opposite sides of a resource conflict, show the tension through what they assume about each other, what they're careful not to say, and the moments when privilege becomes visible.</p>
+
 <h4 id="q-s1-4">What natural resources are geographically concentrated?</h4>
 
 <table class="input-table">
@@ -1060,6 +1073,10 @@
 <h2 class="mt-0" id="s1-sensory">The Sensory World</h2>
 
 <p>Geography isn't just about what's there — it's about what it feels like to be there. The sensory details of your setting create the emotional texture of scenes. A first kiss hits differently in a garden heavy with night-blooming jasmine than in a stone corridor that smells of torch smoke.</p>
+
+<p><strong>How to write it:</strong> Filter sensory details through your POV character's emotional state. A character falling in love notices the warmth of sunlight, the sweet smell of blossoms, the softness of grass. The same garden, to a grieving character, might feel too bright, the flowers cloying, the birdsong intrusive. You don't need to describe everything — pick 2-3 sensory details per scene that reinforce the mood you're creating.</p>
+
+<p>Avoid the "weather report" opening (starting scenes with neutral descriptions of setting). Instead, integrate sensory details into action and emotion: not "The room was cold" but "She pulled her cloak tighter, breath misting in the unheated chamber." The character's interaction with the environment reveals both setting and feeling simultaneously.</p>
 
 <h4 id="q-s1-7">What does your primary setting look, sound, smell, and feel like?</h4>
 
@@ -1135,6 +1152,8 @@
 <h2 class="mt-0" id="s1-climate">Climate, Weather & Seasons</h2>
 
 <p>Weather creates immediate physical conditions that affect what's possible — travel, agriculture, warfare, daily life. Seasons can function as deadlines (they must marry before winter closes the pass), as waiting periods (trapped together until spring thaw), or as markers of time passing in a slow-burn romance.</p>
+
+<p><strong>How to write it:</strong> Use seasonal markers to show time passing without stating it directly — the first frost, the smell of rain after months of drought, the angle of afternoon light. Weather works best when it creates immediate physical problems: wet clothing that must be removed, cold that requires shared warmth, heat that makes tempers short. Don't just describe weather — show characters adapting to it, complaining about it, making decisions around it. A change in season can mirror emotional shifts: a relationship that thaws as winter ends, tension that builds with summer heat, a reckoning that arrives with autumn.</p>
 
 <h4 id="q-s1-11">What's the overall climate?</h4>
 <div class="writing-box small">
