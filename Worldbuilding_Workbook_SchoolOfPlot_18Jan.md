@@ -26,7 +26,7 @@ Whether you're writing your first romantasy or your tenth, whether you're a plot
 
 ## How This Workbook Is Structured
 
-Each section follows a two-part structure:
+**Sections 1-10** follow a two-part structure:
 
 ### Part One: The Foundation
 
@@ -41,6 +41,8 @@ This is where worldbuilding becomes romantic tension. Each section shows you how
 A magic system isn't just about what spells exist — it's about what happens when one character is vastly more powerful than the other, or when a magical bond forces intimacy neither chose, or when using power for someone you love costs something real.
 
 **You need both parts.** A romance between a servant and a prince needs a believable class system (foundation) that actually creates stakes and obstacles for their relationship (romance application). Skip the foundation and your world feels thin. Skip the romance application and you're not using your world to its full potential.
+
+**Sections 11 and beyond** are different. These are specialized application sections — focused tools for specific romantic situations. They don't follow the foundation/romance split because they're already entirely focused on how worldbuilding creates romantic tension: magic as conflict, forced proximity settings, institutional pressure cookers, and more. Use these sections when they apply to your story; skip them when they don't.
 
 ---
 
@@ -88,6 +90,8 @@ But these examples aren't templates to copy. Your world should be *yours*. Use t
 
 ## The Sections
 
+### Sections 1-10: Foundation & Romance (Two-Part Structure)
+
 | Section | Topic | What It Covers |
 |---------|-------|----------------|
 | 1 | Geography & Environment | Physical world, climate, travel, how place creates obstacles |
@@ -97,9 +101,23 @@ But these examples aren't templates to copy. Your world should be *yours*. Use t
 | 5 | Government, Power & Law | Politics, law, forbidden relationships, enemies-to-lovers |
 | 6 | Religion, Myth & Prophecy | Faith, vows, divine purpose, what the gods demand |
 | 7 | History & Lore | The past that haunts the present, inherited conflict |
-| 8 | Magic System | How magic works, magical bonds, power dynamics |
+| 8 | Language & Communication | Language barriers, silence, private words, intimacy through speech |
+| 9 | Technology & Infrastructure | Tech level, communication, travel, privacy, what's possible |
+| 10 | Magic System | How magic works, magical bonds, power dynamics, intimate uses |
 
-**Additional Sections** (9-21) cover specialized topics: technology, time & calendar, language, magic conflicts, pressure cooker settings, institutions, and more.
+### Sections 11+: Specialized Application Sections
+
+| Section | Topic | What It Covers |
+|---------|-------|----------------|
+| 11 | Magic as Conflict Generator | How magic creates obstacles, forbidden powers, power imbalance |
+| 12 | The Pressure Cooker | Forced proximity settings, why they can't leave |
+| 13 | Institutions & Structures | Academies, courts, military, religious orders as romantic pressure |
+| 14 | Designing Key Locations | Building scenes around meaningful places |
+| 15 | The Web of Systems | How your worldbuilding elements connect and reinforce each other |
+| 16 | The Consistency Check | Testing your world's internal logic |
+| 17 | The Agency Check | Ensuring characters have real choices |
+| 18 | World-Romance Integration | Final worksheet connecting world to love story |
+| 19 | Quick Reference Sheets | Summary tables for fast reference |
 
 **Appendix A: Revealing Worldbuilding in Prose** — A practical guide to deploying your worldbuilding in scenes without info-dumps.
 
@@ -12108,10 +12126,6 @@ _______________________________________________________________________________
 
 ## Part Two: Magic & Romance
 
----
-
-# SECTION 11: Magic & Intimacy
-
 Here's a trap many romantasy writers fall into: they design a magic system, then bolt on something "intimate" — a telepathic bond, a touch-based power transfer, a soul link that lets characters feel each other's emotions. These mechanics aren't inherently bad, but they're heavy-handed. They make the magic do the romantic work instead of the characters.
 
 The truth is, *any* magic system can create intimacy. It's not about what the magic *is* — it's about how your characters *choose to use it.*
@@ -12742,7 +12756,7 @@ _______________________________________________________________
 ---
 
 
-# SECTION 12: Magic as Conflict Generator
+# SECTION 11: Magic as Conflict Generator
 
 Magic isn't just a tool for solving problems — it's one of the best sources of problems. The limits, dangers, and social consequences of magic can create exactly the kind of pressure that romance needs: secrets that must be kept, distances that must be maintained, power dynamics that must be negotiated.
 
@@ -13294,7 +13308,7 @@ _______________________________________________________________
 ---
 
 
-# SECTION 13: The Pressure Cooker — Forced Proximity by Design
+# SECTION 12: The Pressure Cooker — Forced Proximity by Design
 
 You've already built geography that isolates (Section 1) and institutions that bind (Section 14). This section is about *using* those elements to create sustained proximity — settings that function as pressure systems, compressing your characters together until avoiding each other becomes impossible.
 
@@ -13916,7 +13930,7 @@ The best forced proximity makes separation impossible — but the characters sti
 ---
 
 
-# SECTION 14: Institutions & Structures
+# SECTION 13: Institutions & Structures
 
 Institutions aren't just settings — they're systems designed to control, rank, test, and bind people. In romantasy, the right institution becomes a pressure cooker: it forces your characters into proximity, creates hierarchies they must navigate, and establishes consequences that make leaving impossible or dangerous.
 
@@ -14758,7 +14772,7 @@ Design an institution with enough grip that your characters can't just walk away
 ---
 
 
-# SECTION 15: Designing Your Key Locations
+# SECTION 14: Designing Your Key Locations
 
 You don't need to map every corner of your world. What you need are 3-5 carefully designed locations where pivotal romantic moments happen — places that do narrative work.
 
@@ -15410,7 +15424,7 @@ Design places that readers will remember because the space itself was part of th
 ---
 
 
-# SECTION 16: The Web of Systems
+# SECTION 15: The Web of Systems
 
 A world isn't a collection of isolated facts — it's a web of interconnected systems. When you change one thing, it ripples outward. If magic exists, it changes warfare, which changes politics, which changes economy, which changes daily life. If your world has dragons, someone has to feed them, which means a dragon-feed economy, which means farms or hunting grounds, which means territorial disputes.
 
@@ -16150,7 +16164,7 @@ The best romantasy endings show that choosing each other wasn't just personally 
 ---
 
 
-# SECTION 17: The Consistency Check
+# SECTION 16: The Consistency Check
 
 Consistency isn't about being rigid — it's about keeping promises. When you establish a rule (magic costs blood, teleportation is impossible, lies are magically detectable), readers trust that rule will hold. If you break it without explanation, you break that trust.
 
@@ -16830,7 +16844,7 @@ That's how you earn the happy ending.
 ---
 
 
-# SECTION 18: The Agency Check
+# SECTION 17: The Agency Check
 
 The most powerful romantasy stories are those where characters choose each other despite everything — not because magic forces them, not because prophecy demands it, not because they have no other option. The worldbuilding creates pressure, obstacles, and opportunities, but at the end of the day, the characters must have agency.
 
@@ -17477,7 +17491,7 @@ That choice is what makes it love.
 ---
 
 
-# SECTION 19: World-Romance Integration Worksheet
+# SECTION 18: World-Romance Integration Worksheet
 
 This is where everything comes together. You've built your world, designed your magic, created your institutions, and checked for consistency and agency. Now it's time to make sure all of these elements are actually serving your romance.
 
@@ -18202,7 +18216,7 @@ Build a world that makes love both impossible and necessary — then let them ch
 ---
 
 
-# SECTION 20: Quick Reference Sheets
+# SECTION 19: Quick Reference Sheets
 
 These sheets are designed for easy access while writing. Fill them in as you complete other sections, then keep them accessible during drafting.
 
