@@ -348,6 +348,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -756,6 +781,11 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Transportation</td>
+            <td>Nightmares (shadow horses)</td>
+            <td>Only the fae nobility; protagonist's love interest has one named Ember</td>
+        </tr>
         <tr>
             <td>Meat/food</td>
             <td></td>
@@ -773,6 +803,16 @@
         </tr>
         <tr>
             <td>Companionship</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
             <td></td>
             <td></td>
         </tr>
@@ -925,12 +965,27 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Thornwolves</td>
+            <td>Dense forests between the kingdoms</td>
+            <td>Hunt in packs, venomous spines, force travelers to seek shelter — creates forced proximity scenes</td>
+        </tr>
         <tr>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -959,6 +1014,18 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Phoenix</td>
+            <td>High — can communicate through emotion/images</td>
+            <td>Fire magic, rebirth from ashes, healing tears</td>
+            <td>Bond with fire mages; protagonist bonds with one, linking her to love interest's court</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
         <tr>
             <td></td>
             <td></td>
@@ -971,7 +1038,13 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -1385,6 +1458,14 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Protagonist</td>
+            <td>Human — 70-80 years, already 23</td>
+        </tr>
+        <tr class="example-row">
+            <td>Love Interest</td>
+            <td>Fae — immortal unless killed, currently 847 years old</td>
+        </tr>
         <tr>
             <td>Protagonist</td>
             <td></td>
@@ -1539,6 +1620,14 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Human</td>
+            <td>Family horrified — fae killed her brother in the war; they see this as ultimate betrayal</td>
+        </tr>
+        <tr class="example-row">
+            <td>Non-human</td>
+            <td>Fae court sees humans as pets at best; his interest in a mortal is considered degrading</td>
+        </tr>
         <tr>
             <td>Human</td>
             <td></td>

@@ -348,6 +348,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -664,6 +689,10 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Morning</td>
+            <td>Prayer at dawn; light breakfast; nobles receive petitioners while commoners begin work in fields or shops</td>
+        </tr>
         <tr>
             <td>Morning</td>
             <td></td>
@@ -897,6 +926,10 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Physical (touch, proximity, eye contact)</td>
+            <td>Unmarried people can't be alone together; touching someone's hair is deeply intimate; sustained eye contact between strangers is aggressive</td>
+        </tr>
         <tr>
             <td>Physical (touch, proximity, eye contact)</td>
             <td></td>
@@ -911,6 +944,10 @@
         </tr>
         <tr>
             <td>Magical (certain powers, magical contact)</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1049,6 +1086,14 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Always acceptable</td>
+            <td>Formal handshake when introduced; brief touch on arm to get attention; passing objects hand to hand</td>
+        </tr>
+        <tr class="example-row">
+            <td>Borderline or scandalous</td>
+            <td>Hand-holding without gloves; dancing closer than arm's length; any touch lasting more than a moment</td>
+        </tr>
         <tr>
             <td>Always acceptable</td>
             <td></td>
@@ -1063,6 +1108,10 @@
         </tr>
         <tr>
             <td>Absolutely forbidden</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1150,11 +1199,14 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row"><td>1</td><td>Formal introduction through families; suitor sends a white rose to indicate interest</td></tr>
+        <tr class="example-row"><td>2</td><td>Chaperoned conversations at public events; dancing permitted at balls</td></tr>
         <tr><td>1</td><td></td></tr>
         <tr><td>2</td><td></td></tr>
         <tr><td>3</td><td></td></tr>
         <tr><td>4</td><td></td></tr>
         <tr><td>5</td><td></td></tr>
+        <tr class="blank-row"><td></td><td></td></tr>
     </tbody>
 </table>
 
@@ -1289,12 +1341,27 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>The Veiled Night</td>
+            <td>Autumn equinox; celebrates the thinning of barriers between worlds</td>
+            <td>Masquerade ball where identities are hidden; the one night per year when normal courtship rules are suspended — anything that happens "behind the veil" is not acknowledged</td>
+        </tr>
         <tr>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>

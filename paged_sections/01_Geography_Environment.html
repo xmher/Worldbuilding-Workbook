@@ -348,6 +348,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -823,6 +848,11 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Single city/location (isolated island, palace, academy)</td>
+            <td>✓</td>
+            <td>Thornwick Academy — a remote magical school on sea cliffs where students are trapped together for the term</td>
+        </tr>
         <tr>
             <td>Single city/location (isolated island, palace, academy)</td>
             <td></td>
@@ -862,6 +892,10 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Primary location</td>
+            <td>The Winter Court — an ice palace where protagonist is held hostage, forced into proximity with the prince</td>
+        </tr>
         <tr>
             <td>Primary location</td>
             <td></td>
@@ -872,6 +906,10 @@
         </tr>
         <tr>
             <td>Secondary location</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -897,6 +935,13 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Mountains</td>
+            <td>✓</td>
+            <td>Northern border between kingdoms</td>
+            <td>Natural defense, mineral deposits, isolation for monasteries</td>
+            <td>Impassable in winter, separates lovers from different kingdoms, treacherous passes</td>
+        </tr>
         <tr>
             <td>Mountains</td>
             <td></td>
@@ -955,6 +1000,20 @@
         </tr>
         <tr>
             <td>Magical/unusual terrain</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
             <td></td>
             <td></td>
             <td></td>
@@ -1021,6 +1080,11 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Fertile farmland</td>
+            <td>River valley between the two kingdoms</td>
+            <td>Contested — marriage alliance proposed to end the conflict</td>
+        </tr>
         <tr>
             <td>Fertile farmland</td>
             <td></td>
@@ -1053,6 +1117,16 @@
         </tr>
         <tr>
             <td>Magical resources</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
             <td></td>
             <td></td>
         </tr>
@@ -1246,12 +1320,27 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>The Blighted Wastes</td>
+            <td>Corrupted magic, monsters, no water for miles, disorienting mists</td>
+            <td>Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary</td>
+        </tr>
         <tr>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -1489,6 +1578,12 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Stormhold Keep</td>
+            <td>Remote mountain fortress</td>
+            <td>Political prisoners sent there; protagonist exiled after scandal</td>
+            <td>Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure</td>
+        </tr>
         <tr>
             <td></td>
             <td></td>
@@ -1496,6 +1591,18 @@
             <td></td>
         </tr>
         <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -1569,6 +1676,10 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Key location 1</td>
+            <td>The Winter Court — where protagonist is hostage and love interest is prince</td>
+        </tr>
         <tr>
             <td>Key location 1</td>
             <td></td>
@@ -1603,6 +1714,10 @@
         </tr>
         <tr>
             <td>The place that matters emotionally</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
             <td></td>
         </tr>
     </tbody>
