@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -348,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -637,6 +663,7 @@
 <h2 class="mt-2" id="s4-economic-systems">Economic Systems</h2>
 
 <h4 id="q-s4-1">What type of economy exists in your world?</h4>
+<p class="hint">Consider how the economic system shapes daily life and what opportunities exist for your characters. Does it allow for social mobility, or are people locked into their station?</p>
 
 <table class="input-table">
     <thead>
@@ -677,11 +704,11 @@
 
 <h4 id="q-s4-2">How is wealth created in your world?</h4>
 <p class="hint">Agriculture? Trade? Craftsmanship? Mining? Magic? Conquest?</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h4 id="q-s4-3">How does wealth move?</h4>
 <p class="hint">Can it be earned through work? Only inherited? Granted by rulers? Won through conquest?</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 
 <!-- ==========================================
@@ -691,6 +718,7 @@
 <h2 class="mt-0" id="s4-currency">Currency & Scale</h2>
 
 <h4 id="q-s4-4">What's the rough scale of money?</h4>
+<p class="hint">Readers need to feel the weight of money in your story. What costs would make your protagonist wince, and what would your love interest spend without thinking?</p>
 
 <table class="input-table">
     <thead>
@@ -720,14 +748,180 @@
             <td>A year's comfortable living</td>
             <td></td>
         </tr>
+        <tr class="example-row">
+            <td>Day's unskilled labor wage</td>
+            <td>5 copper pieces; a skilled craftsman earns 2 silver</td>
+        </tr>
+        <tr class="example-row">
+            <td>Simple meal</td>
+            <td>2 copper at a tavern; 1 copper from a street vendor</td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>Currency Design</h3>
+
+<p>You don't need to design a complete monetary system. But a few details about currency can make your world feel lived-in.</p>
+
+<p>What's stamped on a coin tells readers something about who's in power. What materials are used tells them what's valued. Perhaps gold coins show the king's face, or copper tokens bear a guild's symbol.</p>
+
+<p>These small choices help readers feel the weight of money when it changes hands in your story.</p>
+
+<h4>What materials is your currency made from?</h4>
+<p class="hint">Gold, silver, copper? Magical crystals? Stamped leather? Carved bone? The material itself says something about your world's resources and values.</p>
+<div class="writing-box small"></div>
+
+<h4>What's depicted on your currency?</h4>
+<p class="hint">Monarchs' faces? Religious symbols? Mythical creatures? National emblems? Consider what the ruling powers want citizens to see and remember every time they make a transaction.</p>
+<div class="writing-box small"></div>
+
+<h4>What are your currency denominations called?</h4>
+<p class="hint">Crowns, sovereigns, dragons, marks, florins? Names often reflect history, rulers, or cultural values. A coin called a "blessing" implies different values than one called a "skull."</p>
+<div class="writing-box small"></div>
+
+<h4>How do denominations relate to each other?</h4>
+<p class="hint">10 coppers to a silver? 20 silvers to a gold? Unusual ratios (like 12 or 7) can make your world feel distinct.</p>
+<div class="writing-box small"></div>
+
+<h4>Design Your Currency</h4>
+<p class="hint">Use this table to detail your currency system.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Denomination</th>
+            <th>Material</th>
+            <th>Value</th>
+            <th>What's Depicted</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Crown</td>
+            <td>Gold</td>
+            <td>100 coppers</td>
+            <td>Reigning monarch on front, royal crest on back</td>
+        </tr>
+        <tr class="example-row">
+            <td>Talon</td>
+            <td>Silver</td>
+            <td>10 coppers</td>
+            <td>Griffin clutching a sword</td>
+        </tr>
+        <tr class="example-row">
+            <td>Bit</td>
+            <td>Copper</td>
+            <td>Base unit</td>
+            <td>Sheaf of wheat</td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
 <h2 id="s4-work">Work & Occupations</h2>
 
+<h3>Reference: Fantasy Professions & Jobs</h3>
+
+<p class="hint">Use this list for inspiration when filling in occupation tables. What work shapes your characters' daily lives?</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Examples</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Nobility & Governance</strong></td>
+            <td>Lord/lady, steward, seneschal, ambassador, tax collector, herald, court advisor, magistrate</td>
+        </tr>
+        <tr>
+            <td><strong>Military & Combat</strong></td>
+            <td>Knight, soldier, guard, mercenary, assassin, archer, cavalry, siege engineer, weapons master</td>
+        </tr>
+        <tr>
+            <td><strong>Skilled Trades</strong></td>
+            <td>Blacksmith, carpenter, mason, tailor, cobbler, jeweler, glassblower, tanner, cooper, wheelwright</td>
+        </tr>
+        <tr>
+            <td><strong>Merchants & Trade</strong></td>
+            <td>Shopkeeper, trader, caravan master, ship captain, money-lender, auctioneer, innkeeper, tavern owner</td>
+        </tr>
+        <tr>
+            <td><strong>Service & Household</strong></td>
+            <td>Servant, maid, butler, cook, groom, lady's maid, valet, housekeeper, gardener, steward</td>
+        </tr>
+        <tr>
+            <td><strong>Food & Agriculture</strong></td>
+            <td>Farmer, shepherd, miller, baker, butcher, brewer, vintner, fisherman, beekeeper, hunter</td>
+        </tr>
+        <tr>
+            <td><strong>Healing & Medicine</strong></td>
+            <td>Healer, midwife, herbalist, apothecary, physician, surgeon, plague doctor, dentist</td>
+        </tr>
+        <tr>
+            <td><strong>Religious & Spiritual</strong></td>
+            <td>Priest, priestess, monk, nun, temple keeper, oracle, shrine maiden, inquisitor, exorcist</td>
+        </tr>
+        <tr>
+            <td><strong>Magical Professions</strong></td>
+            <td>Court mage, hedge witch, enchanter, potion-maker, diviner, ward-smith, spell-scribe, familiar handler</td>
+        </tr>
+        <tr>
+            <td><strong>Arts & Entertainment</strong></td>
+            <td>Bard, musician, actor, painter, sculptor, storyteller, jester, acrobat, dancer, playwright</td>
+        </tr>
+        <tr>
+            <td><strong>Scholarly & Learned</strong></td>
+            <td>Scribe, scholar, tutor, librarian, historian, cartographer, astronomer, alchemist, translator</td>
+        </tr>
+        <tr>
+            <td><strong>Underworld & Shadows</strong></td>
+            <td>Thief, pickpocket, smuggler, fence, spy, informant, bounty hunter, poisoner, tomb robber</td>
+        </tr>
+    </tbody>
+</table>
+
 <p><strong>How to write it:</strong> Work leaves marks. Show occupation through a character's body (callused hands, ink-stained fingers, the way they stand), their knowledge (what they notice, what's invisible to others), and their habits (reflexive actions learned through repetition). A blacksmith notices metalwork quality; a merchant calculates value automatically; a soldier assesses threat. When characters from different work worlds meet, let them discover each other through these competencies. There's intimacy in watching someone do what they're good at — and in being seen doing what you're good at by someone who appreciates it.</p>
 
 <h4 id="q-s4-5">What professions are respected? Looked down upon?</h4>
+<p class="hint">Occupational status shapes how people are treated and what doors open or close. If your characters have different occupations, how might society view their pairing?</p>
 
 <table class="input-table">
     <thead>
@@ -753,6 +947,26 @@
             <td>Disreputable or shameful</td>
             <td></td>
         </tr>
+        <tr class="example-row">
+            <td>Highly respected</td>
+            <td>Court mages, master healers, high priests, landed nobility</td>
+        </tr>
+        <tr class="example-row">
+            <td>Disreputable or shameful</td>
+            <td>Hedge witches, fortune-tellers, gravediggers, money-lenders</td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
@@ -764,6 +978,7 @@
 <h2 class="mt-0" id="s4-wealth">Wealth & Class</h2>
 
 <h4 id="q-s4-6">What does wealth look like at different levels?</h4>
+<p class="hint">Show the gap through concrete details. What does each character's home look like? What do they eat? What small luxuries does one take for granted that the other dreams of?</p>
 
 <table class="input-table">
     <thead>
@@ -793,18 +1008,151 @@
             <td>Impoverished</td>
             <td></td>
         </tr>
+        <tr class="example-row">
+            <td>Wealthy/Elite</td>
+            <td>Multiple estates, servants for every task, never think about cost, can influence laws</td>
+        </tr>
+        <tr class="example-row">
+            <td>Struggling</td>
+            <td>One missed harvest from hunger, mending clothes repeatedly, sharing rooms with strangers</td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s4-7">Can people change their economic class?</h4>
 <p class="hint">Through work? Marriage? Education? Magical ability? Or is class fixed at birth?</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h2 id="s4-resources">Resources & Scarcity</h2>
 
+<h3>Reference: Natural Resource Ideas</h3>
+
+<p class="hint">Use this list for inspiration. What resources exist in your world, and who controls them?</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Examples</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Precious Metals</strong></td>
+            <td>Gold, silver, copper, iron ore, bronze, platinum, mithril</td>
+        </tr>
+        <tr>
+            <td><strong>Gems & Stones</strong></td>
+            <td>Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble, quality building stone</td>
+        </tr>
+        <tr>
+            <td><strong>Textiles</strong></td>
+            <td>Silk, wool, linen, cotton, rare furs, leather, spider-silk, feathers</td>
+        </tr>
+        <tr>
+            <td><strong>Food & Agriculture</strong></td>
+            <td>Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits, chocolate/cacao</td>
+        </tr>
+        <tr>
+            <td><strong>Animal Products</strong></td>
+            <td>Ivory, bone, whale oil, animal fat, beeswax, dyes from shells (Tyrian purple), ambergris</td>
+        </tr>
+        <tr>
+            <td><strong>Plant Products</strong></td>
+            <td>Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee, tobacco, opium</td>
+        </tr>
+        <tr>
+            <td><strong>Fuel & Energy</strong></td>
+            <td>Coal, oil, charcoal, peat, magical crystals, dragon-fire, captured lightning</td>
+        </tr>
+        <tr>
+            <td><strong>Magical Resources</strong></td>
+            <td>Ley line access, enchanted springs, magical creatures, spell components, phoenix feathers, dragon scales</td>
+        </tr>
+        <tr>
+            <td><strong>Curiosities</strong></td>
+            <td>Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight, tears of gods</td>
+        </tr>
+    </tbody>
+</table>
+
 <h4 id="q-s4-8">What's the single most valuable resource in your world?</h4>
 <p class="hint">The thing people would kill for, die for, or sell their freedom for:</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
+
+<h3>Natural Resources &rarr; Culture Impact</h3>
+
+<p>What a place has shapes who its people become. A coastal village lives differently than a mining town.</p>
+
+<p>You don't need to catalog every resource in your world. Just think about the one or two things that define your main setting. Perhaps it's a forest kingdom where woodcraft is sacred, or a desert city built on control of the only water source.</p>
+
+<p>These resources create the backdrop for your characters' daily lives — and often, the source of their conflicts.</p>
+
+<h4>How do your world's primary resources shape local cultures?</h4>
+<p class="hint">Consider how abundance or scarcity of certain resources creates distinct traditions, crafts, and ways of life.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Resource</th>
+            <th>How It Shapes Culture</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Timber</td>
+            <td>Carpentry valued, forests sacred, wooden architecture dominates</td>
+        </tr>
+        <tr class="example-row">
+            <td>Gold/Precious metals</td>
+            <td>Mining economy, ornate craftsmanship, wealth displays define status</td>
+        </tr>
+        <tr class="example-row">
+            <td>Wool/Textiles</td>
+            <td>Weaving traditions passed down, nomadic herders, vibrant textile markets</td>
+        </tr>
+        <tr class="example-row">
+            <td>Grain/Agriculture</td>
+            <td>Harvest festivals central to calendar, farming cycles dictate life, land ownership matters deeply</td>
+        </tr>
+        <tr class="example-row">
+            <td>Salt</td>
+            <td>Preservation culture, salt mining communities, unique cuisine and trade routes</td>
+        </tr>
+        <tr class="example-row">
+            <td>Fish/Sea</td>
+            <td>Coastal culture, sailing traditions, sea worship, ports as cultural hubs</td>
+        </tr>
+        <tr class="example-row">
+            <td>Gemstones</td>
+            <td>Jewelry crafting traditions, mining towns, gem-based status symbols</td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 
 <!-- ==========================================
@@ -817,6 +1165,7 @@
 <h2 class="mt-2" id="s4-positions">Your Characters' Economic Positions</h2>
 
 <h4 id="q-s4-9">Where does your protagonist fall economically?</h4>
+<p class="hint">Their economic position shapes what they worry about, what they dream of, and what they would sacrifice for security or freedom.</p>
 
 <table class="input-table">
     <thead>
@@ -846,6 +1195,7 @@
 </table>
 
 <h4 id="q-s4-10">Where does your love interest fall economically?</h4>
+<p class="hint">How does their economic reality differ from your protagonist's? What assumptions do they make about money that might clash or align?</p>
 
 <table class="input-table">
     <thead>
@@ -887,17 +1237,18 @@
 
 <h4 id="q-s4-11">What can the wealthier character provide that the other can't access alone?</h4>
 <p class="hint">Safety? Comfort? Opportunity? Legal protection? Social access?</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h4 id="q-s4-12">What does the less wealthy character bring that money can't buy?</h4>
 <p class="hint">Skills? Knowledge? Magical ability? Street smarts? Moral clarity?</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h4 id="q-s4-13">How does the wealth gap affect their power dynamic?</h4>
 <p class="hint">Does one depend on the other? Is there resentment? Does the wealthy one use money as control?</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h4 id="q-s4-14">How do they each feel about the gap?</h4>
+<p class="hint">Shame? Guilt? Obliviousness? Resentment? These feelings may never be spoken aloud, but they shape every interaction.</p>
 
 <table class="input-table">
     <thead>
@@ -931,16 +1282,18 @@
 
 <h4 id="q-s4-15">If the wealthier character offers to pay for something, how does the other feel?</h4>
 <p class="hint">Grateful? Humiliated? Obligated? Suspicious of motives?</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h4 id="q-s4-16">What financial gesture would be genuinely romantic — not transactional?</h4>
-<div class="writing-box small"></div>
+<p class="hint">Not buying something expensive, but noticing what they need and providing it without being asked. The gesture that says "I see you" rather than "I can afford this."</p>
+<div class="writing-box"></div>
 
 <h2 id="s4-debt">Debt, Obligation & Economic Coercion</h2>
 
 <p>Debt creates a relationship before there is a relationship. The problem with debt in romance is that it clouds consent.</p>
 
 <h4 id="q-s4-17">Is either character in debt?</h4>
+<p class="hint">Debt creates obligation, and obligation clouds consent. Does debt to the love interest (or a third party) complicate the romance?</p>
 
 <table class="input-table">
     <thead>
@@ -975,6 +1328,7 @@
 <p>What people do for work isn't just how they earn money — it's how they spend most of their waking hours, what skills they develop, and often how they see themselves.</p>
 
 <h4 id="q-s4-18">What does your protagonist do to survive?</h4>
+<p class="hint">Work shapes who we become. What skills, knowledge, and worldview has their occupation given them?</p>
 
 <table class="input-table">
     <thead>
@@ -996,6 +1350,7 @@
 </table>
 
 <h4 id="q-s4-19">What does your love interest do to survive?</h4>
+<p class="hint">How does their work connect to or conflict with your protagonist's world? Do their occupations create proximity or distance?</p>
 
 <table class="input-table">
     <thead>
@@ -1018,7 +1373,7 @@
 
 <h4 id="q-s4-20">How do their occupations bring them together or keep them apart?</h4>
 <p class="hint">Same workplace? Completely separate worlds? Does one employ the other?</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 
 <!-- ==========================================
@@ -1032,6 +1387,7 @@
 <p><strong>How to write it:</strong> Make the sacrifice concrete and visible. Not just "gave up the inheritance" but: the smaller apartment, the mended clothes, the dinner that's mostly bread. Show what daily life looks like after the sacrifice — the moments of regret, the moments of fierce certainty that it was worth it. The witness to this sacrifice matters: when the love interest realizes what their partner gave up, or when the sacrificer reveals it (or carefully doesn't reveal it, and the other discovers it anyway). Economic sacrifice is most powerful when it's ongoing, not a one-time grand gesture — it's choosing, every day, to live with less because what you gained matters more.</p>
 
 <h4 id="q-s4-21">What economic security does each character sacrifice to be together?</h4>
+<p class="hint">What inheritance, income, protection, or opportunity do they lose by choosing each other? The sacrifice should cost enough to prove the love is real.</p>
 
 <table class="input-table">
     <thead>
