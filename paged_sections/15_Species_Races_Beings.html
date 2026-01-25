@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -348,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -538,11 +564,36 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>First real conversation (example)</td>
+            <td>The palace's hidden library</td>
+            <td>Only place in court without magical surveillance; both discovered it separately while hiding secrets</td>
+        </tr>
+        <tr class="example-row">
+            <td>First kiss (example)</td>
+            <td>The cliffside ruins at sunset</td>
+            <td>Ancient warding stones block tracking magic; surrounded by deadly drop that makes rescue impossible if discovered</td>
+        </tr>
         <tr><td>Moment 1</td><td></td><td></td></tr>
         <tr><td>Moment 2</td><td></td><td></td></tr>
         <tr><td>Moment 3</td><td></td><td></td></tr>
         <tr><td>Moment 4</td><td></td><td></td></tr>
         <tr><td>Moment 5</td><td></td><td></td></tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
@@ -776,10 +827,35 @@
         <tr><th>Visit</th><th>Relationship State</th><th>What's Different</th></tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>First visit (example)</td>
+            <td>Enemies forced together</td>
+            <td>She keeps her back to the wall; he stays near the exit; they speak in clipped, formal sentences</td>
+        </tr>
+        <tr class="example-row">
+            <td>Final visit (example)</td>
+            <td>Committed partners</td>
+            <td>They move around each other naturally; she sits in his chair; the space feels like theirs now</td>
+        </tr>
         <tr><td>First visit</td><td></td><td></td></tr>
         <tr><td>Second visit</td><td></td><td></td></tr>
         <tr><td>Third visit</td><td></td><td></td></tr>
         <tr><td>Final visit</td><td></td><td></td></tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
@@ -949,21 +1025,27 @@
 <h3 class="mt-0" id="s15-integration">Integration Check</h3>
 
 <h4 id="q-s15-1">How do your key locations connect to your geography (Section 1)?</h4>
+<p class="hint">Consider how terrain, climate, and natural features shape the physical constraints of each space.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s15-2">Do any locations have significant flora/fauna (Section 2)?</h4>
+<p class="hint">Plants, creatures, or natural elements can create atmosphere, danger, or sensory detail that grounds scenes.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s15-3">What cultural significance do locations carry (Section 3)?</h4>
+<p class="hint">Sacred sites, forbidden zones, traditional gathering places — cultural meaning adds weight to physical space.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s15-4">What historical weight do locations hold (Section 7)?</h4>
+<p class="hint">Battlefields, ruins, sites of tragedy or triumph — the past can haunt a place and inform present moments.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s15-5">How does technology affect these spaces (Section 9)?</h4>
+<p class="hint">Lighting, heating, construction methods, and available tools shape what's possible within a location.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s15-6">Do any locations exist within institutions (Section 14)?</h4>
+<p class="hint">Rooms within academies, corners of courts, spaces inside military camps — institutional settings contain locations within locations.</p>
 <div class="writing-box"></div>
 
 

@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -348,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -435,6 +461,340 @@
     </style>
 </head>
 <body>
+
+<!-- ==========================================
+ SECTION 10: TIMEKEEPING & CALENDAR
+ ========================================== -->
+
+<h1 class="section-number">Section 10</h1>
+<h1 class="section-title">Time, Seasons & Calendar</h1>
+
+<p class="section-intro">Time shapes everything — when people wake and sleep, when they celebrate, when crops are planted and harvested, when your characters can steal private moments. Understanding how your world measures time helps you create a sense of rhythm and place.</p>
+
+<p>You don't need to invent an elaborate calendar system unless it matters to your story. What you do need is enough detail to make your world feel like it has history and seasons.</p>
+
+<div class="section-toc section-toc-single">
+    <h3>In This Section</h3>
+    <ul>
+        <li><a href="#s10-time-measuring">Measuring Time</a></li>
+        <li><a href="#s10-calendar">The Calendar</a></li>
+        <li><a href="#s10-seasons">Seasons & Weather</a></li>
+        <li><a href="#s10-special-times">Special Times & Significant Dates</a></li>
+    </ul>
+</div>
+
+
+<h2 class="mt-0" id="s10-time-measuring">Measuring Time</h2>
+
+<p>Different cultures measure time differently. Some count from a great event; others track the reign of monarchs. The way your world marks years says something about what it values.</p>
+
+<h4 id="q-s10-time-1">How do people in your world measure time?</h4>
+<p class="hint">Hours marked by bells? Sun position? Magical timekeepers? Water clocks? Does precision matter to ordinary people?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s10-time-2">How long is a day? Is it the same as Earth's 24 hours?</h4>
+<p class="hint">Most fantasy uses Earth-standard time, but you can change this. Just be consistent.</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s10-time-3">What do people call the parts of the day?</h4>
+<p class="hint">Morning, noon, evening? Or something more evocative? "The golden hour," "the long watch," "shadowfall"?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Time Period</th>
+            <th>What It's Called</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Dawn</td>
+            <td>"First light," "the waking hour"</td>
+        </tr>
+        <tr class="example-row">
+            <td>Midday</td>
+            <td>"High sun," "the resting hour"</td>
+        </tr>
+        <tr>
+            <td>Dawn/Morning</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Midday</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Afternoon</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Evening/Dusk</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Night</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<h2 class="mt-0" id="s10-calendar">The Calendar</h2>
+
+<p>Calendars organize the year. They tell people when to plant, when to celebrate, when to mourn. Your calendar doesn't need to be complex, but knowing the basics helps ground your story in a sense of passing time.</p>
+
+<h3>Reference: Calendar Naming Ideas</h3>
+
+<p class="hint">Use these patterns to create evocative month and day names for your world.</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Naming Pattern</th>
+            <th>Examples</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Nature/Weather</strong></td>
+            <td>Frostmoon, Stormfall, Windsong, Firemist, Thaw, Harvest, Snowveil, Bloomtide</td>
+        </tr>
+        <tr>
+            <td><strong>Agricultural</strong></td>
+            <td>Sowing, Reaping, Planting Moon, Brewing Month, Shearing Time, Slaughter Moon</td>
+        </tr>
+        <tr>
+            <td><strong>Celestial</strong></td>
+            <td>Starmarch, Moondark, Sunpeak, Evenstar, Twilight Month, Shadow's Turn</td>
+        </tr>
+        <tr>
+            <td><strong>Religious/Mythic</strong></td>
+            <td>God's Rest, Prophet's Month, The Vigil, Saint's Tide, Blessing Moon, Atonement</td>
+        </tr>
+        <tr>
+            <td><strong>Historical Events</strong></td>
+            <td>Founding, Remembrance, Victory Month, The Mourning, Treaty's End, War's Wake</td>
+        </tr>
+        <tr>
+            <td><strong>Animals</strong></td>
+            <td>Wolf Moon, Stag Month, Raven's Turn, Bear Sleep, Eagle's Flight, Serpent's Rise</td>
+        </tr>
+        <tr>
+            <td><strong>Named for Rulers</strong></td>
+            <td>King's Month, Empress Tide, The Regent's Season, First Queen's Moon</td>
+        </tr>
+        <tr>
+            <td><strong>Ordinal/Numbered</strong></td>
+            <td>Firstmoon, Secondsun, Seventh Turn, Tenthwatch, The Long Month</td>
+        </tr>
+    </tbody>
+</table>
+
+<p class="hint">Day names often follow similar patterns: Moonday, Starday, Fireday, Restday, Market Day, Temple Day.</p>
+
+<h4 id="q-s10-cal-1">How many days are in a week? What are they called?</h4>
+<p class="hint">Seven is common, but not required. Are days named for gods, elements, or something else?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s10-cal-2">How many months are in a year? What are they called?</h4>
+<p class="hint">You can use familiar names, invent new ones, or simply reference seasons. Pick what serves your story.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Month/Period</th>
+            <th>Season</th>
+            <th>Named For</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Frostmoon</td>
+            <td>Deep winter</td>
+            <td>The time of deepest cold when the moon seems frozen</td>
+        </tr>
+        <tr class="example-row">
+            <td>Sowing</td>
+            <td>Early spring</td>
+            <td>When fields are planted</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s10-cal-3">How do people count years?</h4>
+<p class="hint">From a founding event? A religious moment? The current ruler's reign? How old is your world by its own reckoning?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s10-cal-4">What year does your story take place?</h4>
+<p class="hint">By your world's calendar, when is this happening?</p>
+<div class="writing-box">
+</div>
+
+
+<h2 class="mt-0" id="s10-seasons">Seasons & Weather</h2>
+
+<p>Seasons affect everything from clothing to mood to travel. They determine when wars can be fought and when lovers might sneak away to gardens. Know your seasons.</p>
+
+<h4 id="q-s10-seasons-1">How many seasons does your world have?</h4>
+<p class="hint">The familiar four? Only wet and dry? Six distinct seasons? Something tied to magical cycles?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s10-seasons-2">What season does your story primarily take place in?</h4>
+<p class="hint">Season affects mood, imagery, what characters wear, and what activities are possible.</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s10-seasons-3">How does the season affect your characters' lives?</h4>
+<p class="hint">Winter might trap them indoors together. Summer might mean war campaigns. Harvest might mean everyone's too busy for romance.</p>
+<div class="writing-box">
+</div>
+
+
+<h2 class="mt-0" id="s10-special-times">Special Times & Significant Dates</h2>
+
+<p>Some moments in time carry weight. The anniversary of a battle, the day magic was born, the night when the veil between worlds thins. These can become important to your plot or your characters' personal histories.</p>
+
+<h4 id="q-s10-special-1">What dates are significant in your world's history?</h4>
+<p class="hint">Founding days, treaties signed, great battles, magical events?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Date/Period</th>
+            <th>What Happened</th>
+            <th>How It's Marked</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>The Long Night (winter solstice)</td>
+            <td>When the barrier between realms is thinnest</td>
+            <td>Bonfires, staying awake until dawn, protective rituals</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s10-special-2">Are there dates significant to your main characters personally?</h4>
+<p class="hint">Birthdays, anniversaries, dates they'd rather forget?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Character</th>
+            <th>Significant Date</th>
+            <th>Why It Matters</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Protagonist</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Love Interest</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 10: MAGIC SYSTEM (PART 2)
+ ========================================== -->
 
 <h1 class="section-number">Section 10</h1>
 <h1 class="section-title">Building Your Magic System — The Foundation</h1>
@@ -582,6 +942,7 @@
 <div class="writing-box"></div>
 
 <h4>If your system doesn't fit these categories, describe what makes it different:</h4>
+<p class="hint">Unique magic systems are memorable. What makes yours distinctive from what readers have seen before?</p>
 <div class="writing-box"></div>
 
 <div class="divider"></div>
@@ -602,6 +963,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s10-4">Can the source be depleted, corrupted, or cut off? What happens if it is?</h4>
+<p class="hint">Vulnerable magic sources create stakes. What would your protagonist do if their power began to fail?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s10-5">How do people in your world explain where magic comes from?</h4>
@@ -618,6 +980,7 @@
 </div>
 
 <h4 id="q-s10-7">How might the source of magic affect your leads' relationship?</h4>
+<p class="hint">Magic's origin can unite or divide. Do your characters share the same source, or does their magic come from opposing places?</p>
 <div class="writing-box"></div>
 
 <div class="divider"></div>
@@ -638,6 +1001,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s10-10">Can magical ability be gained if you weren't born with it? Can it be lost or taken away?</h4>
+<p class="hint">The permanence of magical ability affects what characters fear and hope for. Could your protagonist gain power - or lose everything?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s10-11">If magic is inherited, how does that affect families, dynasties, and marriages?</h4>
@@ -653,6 +1017,7 @@
 <!-- SECTION 10: MAGICAL STATUS & HOW MAGIC WORKS -->
 
 <h4 id="q-s10-13" class="mt-0">How does magical access (or lack of it) shape the dynamic between your leads?</h4>
+<p class="hint">Power imbalances create tension. How do your characters navigate differences in magical ability?</p>
 
 <table class="input-table">
     <thead>
@@ -662,6 +1027,18 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Protagonist's magical status</td>
+            <td>Latent power, newly awakened; untrained but potentially immense; she's only beginning to understand what she can do</td>
+        </tr>
+        <tr class="example-row">
+            <td>Love Interest's magical status</td>
+            <td>Fully trained, centuries of control; he's considered one of the most powerful mages alive but hides the true extent</td>
+        </tr>
+        <tr class="example-row">
+            <td>What this means for their dynamic</td>
+            <td>He could easily overpower her — so he holds back; she resents being protected but also fears hurting him if she loses control</td>
+        </tr>
         <tr>
             <td>Protagonist's magical status</td>
             <td></td>
@@ -672,6 +1049,18 @@
         </tr>
         <tr>
             <td>What this means for their dynamic</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -699,6 +1088,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s10-17">Can magic be interrupted? What happens if it's disrupted mid-use?</h4>
+<p class="hint">Interruptible magic creates vulnerability during casting - a moment when the powerful become defenseless.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s10-18">Is magic precise or unpredictable?</h4>
@@ -714,6 +1104,7 @@
 </div>
 
 <h4 id="q-s10-20">How might the process of using magic create vulnerable or intimate moments between your leads?</h4>
+<p class="hint">The physical or emotional demands of casting can strip away defenses. What might your characters reveal when magic leaves them exposed?</p>
 <div class="writing-box"></div>
 
 <div class="divider"></div>
@@ -734,6 +1125,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s10-23">What happens when someone overextends—uses more magic than they can safely handle?</h4>
+<p class="hint">Overextension consequences create tension in high-stakes moments. What would your protagonist risk by pushing too far?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s10-24">Is the cost immediate, or does it accumulate over time?</h4>
@@ -745,6 +1137,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s10-26">Does your protagonist know the full cost of their power, or will they find out the hard way?</h4>
+<p class="hint">Hidden costs create devastating revelations. What might your protagonist discover about the price they've been paying - or will pay?</p>
 <div class="writing-box"></div>
 
 
@@ -757,6 +1150,7 @@
 </div>
 
 <h4 id="q-s10-28">How might the cost of magic create stakes in the relationship?</h4>
+<p class="hint">When magic demands sacrifice, what would one character pay to protect the other - and what would the other feel about that price?</p>
 <div class="writing-box"></div>
 
 <div class="divider"></div>
@@ -766,6 +1160,7 @@
 <p>What magic <em>cannot</em> do is more important than what it can. Limits create stakes, force creativity, and prevent your characters from solving every problem with a wave of their hand.</p>
 
 <h4>What is absolutely impossible with magic in your world? Name at least three things.</h4>
+<p class="hint">Firm limitations prevent magic from solving every problem. What must your characters face without magical shortcuts?</p>
 <div class="writing-box"></div>
 
 
@@ -861,9 +1256,11 @@
 </table>
 
 <h4 id="q-s10-29">Which limitation types exist in your system?</h4>
+<p class="hint">Every limitation creates story opportunities. Which constraints will force your characters to be creative, vulnerable, or dependent on others?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s10-30">Are there things magic can technically do, but no one attempts because the cost or risk is too high?</h4>
+<p class="hint">Forbidden-but-possible magic creates temptation. What might your protagonist be desperate enough to try?</p>
 <div class="writing-box"></div>
 
 
@@ -879,6 +1276,7 @@
 </div>
 
 <h4 id="q-s10-33">How might your magic's limitations affect the relationship?</h4>
+<p class="hint">Limitations can protect or obstruct love. Can magic reveal truth, or does it force lies? Does it prevent harm, or make protection impossible?</p>
 <div class="writing-box"></div>
 
 <div class="divider"></div>
@@ -891,6 +1289,7 @@
 <!-- SECTION 10: SCALE AND POWER -->
 
 <h4 id="q-s10-34" class="mt-0">What's the range of magical power in your world?</h4>
+<p class="hint">Understanding power's spectrum helps you position your characters - and creates context for whether their abilities are remarkable or ordinary.</p>
 
 <table class="input-table">
     <thead>
@@ -912,6 +1311,7 @@
 </table>
 
 <h4 id="q-s10-35">Where do your protagonist and love interest fall on this scale?</h4>
+<p class="hint">Their relative power positions create dynamics. Is one vastly stronger? Are they evenly matched? Does it even out in unexpected ways?</p>
 
 <table class="input-table">
     <thead>
@@ -953,6 +1353,7 @@
 </div>
 
 <h4 id="q-s10-40">If there's a power gap, what does the less powerful person bring that the powerful one needs?</h4>
+<p class="hint">Balanced relationships require more than magical equality. What does each character offer that the other cannot provide for themselves?</p>
 <div class="writing-box"></div>
 
 <div class="divider"></div>
@@ -965,7 +1366,7 @@
 <!-- SECTION 10: TYPES AND SPECIALIZATIONS -->
 
 <h4 id="q-s10-41" class="mt-0">Is magic in your world one unified force, or are there distinct types, schools, or disciplines?</h4>
-<p class="hint">If there are distinct types, list them:</p>
+<p class="hint">Different magical traditions can create cultural divides or opportunities for complementary partnership. If there are distinct types, list them.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s10-42">Do magic users specialize, or can someone master multiple types?</h4>
@@ -973,6 +1374,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s10-43">Are some types of magic considered more valuable, dangerous, or taboo than others?</h4>
+<p class="hint">Stigmatized magic creates secrets to hide or discover. Does either character possess abilities they must conceal?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s10-44">Do different types of magic interact?</h4>
@@ -988,6 +1390,7 @@
 </div>
 
 <h4 id="q-s10-46">How might your leads' types of magic interact—for good or ill?</h4>
+<p class="hint">Complementary magic can create partnership; conflicting magic can create danger or forbidden attraction.</p>
 
 <table class="input-table">
     <thead>
@@ -1035,12 +1438,15 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s10-48">If your magic is on the harder side: Have you established the rules clearly enough that readers will accept magical solutions?</h4>
+<p class="hint">Hard magic requires setup. The abilities your protagonist uses to solve problems must be demonstrated beforehand.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s10-49">If your magic is on the softer side: Are you avoiding using vague magic to solve major plot problems?</h4>
+<p class="hint">Soft magic works better for creating problems than solving them. Deus ex magica feels like cheating.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s10-50">If you're in the middle: Which elements are rule-bound and which are mysterious?</h4>
+<p class="hint">Be consistent about what the reader understands vs. what remains wondrous. Clarity about your character's abilities; mystery about the larger world.</p>
 <div class="writing-box"></div>
 
 
@@ -1068,6 +1474,7 @@
 <p>In <em>ACOTAR</em>: Feyre kills a faerie—a magical creature—in the woods. The inciting incident isn't just "something happens"; it's "something magical happens that she can't undo."</p>
 
 <h4 id="q-s10-53">What magical event, ability, or consequence pulls your protagonist out of their ordinary world?</h4>
+<p class="hint">The inciting incident often involves magic working in ways the protagonist didn't expect or couldn't control.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s10-54">How does this same magical event connect them to the love interest?</h4>
@@ -1079,6 +1486,7 @@
 <p>In <em>ACOTAR</em>: As Feyre spends time in the Spring Court, she's surrounded by magic she doesn't understand. The curse is ticking down, adding urgency Tamlin can't explain. Magic isn't just backdrop; it's pressure.</p>
 
 <h4 id="q-s10-55">What magical obstacles, revelations, or complications arise as your leads grow closer?</h4>
+<p class="hint">Magic should complicate the romance as much as it complicates the plot - secrets about power, dangerous abilities, conflicting duties.</p>
 <div class="writing-box"></div>
 
 
@@ -1101,6 +1509,7 @@
 <p>In <em>ACOTAR</em>: Feyre solves Amarantha's riddle, and the answer is "love." Her willingness to die for Tamlin breaks the curse. The romantic sacrifice triggers the magical solution. The romantic climax IS the magical climax.</p>
 
 <h4 id="q-s10-58">How does your protagonist's romantic choice enable the magical resolution?</h4>
+<p class="hint">In the best romantasy, love is not separate from magic - the emotional climax and the magical climax should intertwine.</p>
 <div class="writing-box"></div>
 
 
@@ -1159,7 +1568,7 @@
 <p>Before you move on, let's make sure your magic system holds together.</p>
 
 <h4>Write out your magic system in two or three sentences:</h4>
-<p class="hint">Source, who can use it, how it works, main cost, biggest limit:</p>
+<p class="hint">This summary should capture the essence of your magic: source, who can use it, how it works, main cost, and biggest limit. If you can't summarize it clearly, the system may need simplification.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s10-68">Does your magic system contradict itself anywhere?</h4>
@@ -1170,7 +1579,7 @@
 <!-- SECTION 10: CONSISTENCY CHECK CONTINUED & FINAL -->
 
 <h4 class="mt-0">Think of the biggest problem your protagonist faces.</h4>
-<p class="hint">If a skeptical reader asked "Why didn't they just use magic to fix that?"—what's your answer?</p>
+<p class="hint">If a skeptical reader asked "Why didn't they just use magic to fix that?" - what's your answer? Good limitations create good answers.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s10-69">What's one thing you're still unsure about in your magic system?</h4>
