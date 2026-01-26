@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -348,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -573,9 +599,29 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Thornhaven Castle</td>
+            <td>The Fae Borderlands</td>
+            <td>3 days by horse, 1 day through the shadow roads (but dangerous)</td>
+        </tr>
         <tr><td></td><td></td><td></td></tr>
         <tr><td></td><td></td><td></td></tr>
         <tr><td></td><td></td><td></td></tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 

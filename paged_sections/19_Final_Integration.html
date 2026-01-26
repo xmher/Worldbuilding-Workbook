@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -348,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -663,6 +689,21 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Early story</td>
+            <td>Prince Kael (love interest)</td>
+            <td>He controls her freedom as political hostage; she's a prisoner in his court</td>
+        </tr>
+        <tr class="example-row">
+            <td>Midpoint</td>
+            <td>Balanced / shifting</td>
+            <td>She discovers she's the only one who can break his kingdom's curse; he needs her</td>
+        </tr>
+        <tr class="example-row">
+            <td>Near end</td>
+            <td>Lirien (protagonist)</td>
+            <td>She's mastered her magic and could destroy him; she chooses alliance instead</td>
+        </tr>
         <tr>
             <td>Early story</td>
             <td></td>
@@ -675,6 +716,21 @@
         </tr>
         <tr>
             <td>Near end</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
             <td></td>
             <td></td>
         </tr>

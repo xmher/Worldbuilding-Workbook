@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -286,11 +287,11 @@
             background: white;
             padding: 15px 20px;
             margin: 1rem 0 1.5rem 0;
-            min-height: 120px;
+            min-height: 80px;
             break-inside: avoid;
         }
-        .writing-box.large { min-height: 180px; }
-        .writing-box.small { min-height: 80px; }
+        .writing-box.large { min-height: 120px; }
+        .writing-box.small { min-height: 50px; }
         .writing-box-label {
             font-family: var(--font-display);
             font-size: 0.65rem;
@@ -348,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -619,21 +645,6 @@
             <td>External threat forces cooperation; death is the alternative</td>
             <td>Military romantasy</td>
         </tr>
-        <tr>
-            <td><strong>The Prison/Captivity</strong></td>
-            <td>Captor and captive, or fellow prisoners; power imbalance meets forced proximity</td>
-            <td>Kidnapping romance, political hostage stories</td>
-        </tr>
-        <tr>
-            <td><strong>The Embassy/Diplomatic Mission</strong></td>
-            <td>Representatives of opposing sides must coexist in neutral territory</td>
-            <td>Political romance, enemies-to-lovers across faction lines</td>
-        </tr>
-        <tr>
-            <td><strong>The Healing House/Infirmary</strong></td>
-            <td>Injury requires care; vulnerability is unavoidable</td>
-            <td>Caretaker dynamics, bedside confessions</td>
-        </tr>
     </tbody>
 </table>
 </div>
@@ -683,21 +694,6 @@
             <td>Crossing means treason or exile</td>
             <td>Forbidden love across enemy lines</td>
         </tr>
-        <tr>
-            <td><strong>Dense forests/Wilderness</strong></td>
-            <td>Easy to get lost; hide fugitives; slow travel to a crawl</td>
-            <td>Getting lost together; outlaws hiding from pursuit</td>
-        </tr>
-        <tr>
-            <td><strong>Rivers</strong></td>
-            <td>Natural boundaries; control of crossings means control of movement</td>
-            <td>Meeting at the bridge; opposite banks</td>
-        </tr>
-        <tr>
-            <td><strong>Underground realms</strong></td>
-            <td>Surface dwellers can't easily enter; creates hidden civilizations</td>
-            <td>Forbidden descent; love across realms of light and dark</td>
-        </tr>
     </tbody>
 </table>
 
@@ -732,31 +728,6 @@
             <td>Sharing becomes necessary; generosity becomes meaningful</td>
             <td>Sharing food/water; sacrifice for the other</td>
         </tr>
-        <tr>
-            <td><strong>Monsoon/Rainy season</strong></td>
-            <td>Flooding isolates communities; trapped indoors for days</td>
-            <td>Waiting out storms together; rain-soaked confessions</td>
-        </tr>
-        <tr>
-            <td><strong>Extreme heat</strong></td>
-            <td>Slows everything down; less clothing; seeking shade and water</td>
-            <td>Swimming holes; languid afternoons; rising tensions</td>
-        </tr>
-        <tr>
-            <td><strong>Fog/Mist</strong></td>
-            <td>Reduced visibility; easy to get lost; intimate atmosphere</td>
-            <td>Finding each other in the mist; whispered conversations</td>
-        </tr>
-        <tr>
-            <td><strong>Tides</strong></td>
-            <td>Coastal areas cut off at high tide; timing-based access</td>
-            <td>Stranded together; secret places only accessible at certain hours</td>
-        </tr>
-        <tr>
-            <td><strong>Extended darkness</strong></td>
-            <td>Polar nights or underground; long nights blur boundaries</td>
-            <td>Firelight intimacy; losing track of time together</td>
-        </tr>
     </tbody>
 </table>
 
@@ -765,7 +736,6 @@
  SECTION 1: COMMON MISTAKES
  ========================================== -->
 
-<div style="break-inside: avoid;">
 <h2 class="mt-0" id="s1-mistakes">Common Mistakes with Geographic Worldbuilding</h2>
 
 <div class="mistake-box">
@@ -790,7 +760,6 @@
     <p><strong>Why it hurts your romance:</strong> Geography should create culture, which creates characters, which creates conflict. If your geography doesn't explain why people are the way they are, your world is just a painted backdrop.</p>
     <span class="fix-label">How to Fix It</span>
     <p>For every major geographic feature, ask: <em>How does this shape the people who live here?</em> Let geography explain cultural difference.</p>
-</div>
 </div>
 
 
@@ -880,6 +849,11 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Single city/location (isolated island, palace, academy)</td>
+            <td>✓</td>
+            <td>Thornwick Academy — a remote magical school on sea cliffs where students are trapped together for the term</td>
+        </tr>
         <tr>
             <td>Single city/location (isolated island, palace, academy)</td>
             <td></td>
@@ -905,10 +879,15 @@
             <td></td>
             <td></td>
         </tr>
+        <tr>
+            <td>Other: Describe →</td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
-<h4 id="q-s1-2">If your world is large, where specifically does your romance happen?</h4>
+<h4 id="q-s1-2" class="break-before">If your world is large, where specifically does your romance happen?</h4>
 <p class="hint">You don't need to detail everything — just locations that matter.</p>
 
 <table class="input-table">
@@ -919,6 +898,10 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Primary location</td>
+            <td>The Winter Court — an ice palace where protagonist is held hostage, forced into proximity with the prince</td>
+        </tr>
         <tr>
             <td>Primary location</td>
             <td></td>
@@ -931,6 +914,328 @@
             <td>Secondary location</td>
             <td></td>
         </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: KINGDOMS & NATIONS OVERVIEW
+ ========================================== -->
+
+<h2 class="break-before" id="s1-kingdoms">Kingdoms & Nations Overview</h2>
+
+<p>Got multiple kingdoms or nations in your world? This table helps you keep track of them.</p>
+
+<p>You don't need to fill in every field. Just jot down what you know right now. Perhaps you only know the name and climate — that's fine. You can always come back later as your story takes shape.</p>
+
+<p class="hint">This is reference material. Fill in what you know now; come back as your world develops.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 25%;">Aspect</th>
+            <th>Kingdom/Nation 1</th>
+            <th>Kingdom/Nation 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Name</td>
+            <td>Valdoria</td>
+            <td>The Ember Isles</td>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Capital</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Neighbouring lands</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Known for</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Main industry/resource</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Climate</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Primary species</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Religion</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Government type</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Allies</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Enemies/rivals</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Notable landmark</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Role in your story</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<table class="input-table break-before">
+    <thead>
+        <tr>
+            <th style="width: 25%;">Aspect</th>
+            <th>Kingdom/Nation 3</th>
+            <th>Kingdom/Nation 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Name</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Capital</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Neighbouring lands</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Known for</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Main industry/resource</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Climate</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Primary species</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Religion</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Government type</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Allies</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Enemies/rivals</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Notable landmark</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Role in your story</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: NAMING PLACES
+ ========================================== -->
+
+<h2 class="break-before" id="s1-naming">Naming Places</h2>
+
+<p>Good place names make your world feel real. You don't need to invent a whole language — just notice how real places get their names.</p>
+
+<p>Most names come from geography (Blackwood, Riverside), historical figures (Washington), or descriptions in old languages (Oxford means "ford where oxen cross"). Borrow the patterns, not the exact words.</p>
+
+<p>For a quick approach, pick a real language that sounds right for your region and search "[language] + place names" for inspiration. For deeper work, see <a href="#s11-naming"><em>Section 11: Language & Communication</em></a>.</p>
+
+<h4>Common English Place Name Patterns</h4>
+<p class="hint">Mix prefixes and suffixes to generate names. "Ash" + "ford" = Ashford. "Black" + "moor" = Blackmoor.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Suffix</th>
+            <th>Meaning</th>
+            <th>Example</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>-ham</td>
+            <td>homestead, village</td>
+            <td>Nottingham</td>
+        </tr>
+        <tr>
+            <td>-ton / -town</td>
+            <td>fenced settlement</td>
+            <td>Brighton</td>
+        </tr>
+        <tr>
+            <td>-ford</td>
+            <td>river crossing</td>
+            <td>Oxford</td>
+        </tr>
+        <tr>
+            <td>-ley / -leigh</td>
+            <td>clearing, meadow</td>
+            <td>Barnsley</td>
+        </tr>
+        <tr>
+            <td>-dale / -vale</td>
+            <td>valley</td>
+            <td>Airedale</td>
+        </tr>
+        <tr>
+            <td>-burgh / -bury</td>
+            <td>fortified place</td>
+            <td>Edinburgh</td>
+        </tr>
+        <tr>
+            <td>-port</td>
+            <td>harbor, market town</td>
+            <td>Southport</td>
+        </tr>
+        <tr>
+            <td>-moor / -mere</td>
+            <td>marshland, lake</td>
+            <td>Windermere</td>
+        </tr>
+        <tr>
+            <td>-fell / -mount</td>
+            <td>hill, mountain</td>
+            <td>Scafell</td>
+        </tr>
+        <tr>
+            <td>-holme / -holm</td>
+            <td>island, water meadow</td>
+            <td>Stockholm</td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s1-naming">Your World's Place Name Patterns</h4>
+<p class="hint">Create prefixes and suffixes that fit your world's languages. What sounds right for this culture?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Prefix/Suffix</th>
+            <th>Meaning</th>
+            <th>Example in Your World</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Kel- / -kel</td>
+            <td>silver, moonlight</td>
+            <td>Kelvareth (Silver City)</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
@@ -941,77 +1246,58 @@
 
 <h2 class="mt-0" id="s1-terrain">Terrain Types</h2>
 
-<p>Not every terrain needs equal development. Use the table below to survey what exists in your world, then identify which 2-3 terrains actually matter for your story — the ones your characters traverse, fight over, or call home.</p>
+<p>Not every terrain needs equal development. Consider what exists in your world — <em>mountains, forests, deserts, plains, wetlands, coastlines, islands, rivers, tundra, magical or unusual terrain</em> — then focus on the 2-3 that actually matter for your story: the ones your characters traverse, fight over, or call home.</p>
+
+<h4 id="q-s1-3">What terrains shape your story?</h4>
+<p class="hint">Only fill in terrains that matter. If your characters never see a desert, skip it.</p>
 
 <table class="input-table">
     <thead>
         <tr>
             <th>Terrain</th>
-            <th>Exists?</th>
             <th>Where?</th>
             <th>What It Provides</th>
             <th>What Challenges It Creates</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr class="example-row">
             <td>Mountains</td>
+            <td>Northern border between kingdoms</td>
+            <td>Natural defense, mineral deposits, isolation for monasteries</td>
+            <td>Impassable in winter, separates lovers from different kingdoms, treacherous passes</td>
+        </tr>
+        <tr>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>Forests</td>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>Deserts</td>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
-        <tr>
-            <td>Plains/Grasslands</td>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
-        <tr>
-            <td>Wetlands/Swamps</td>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
-        <tr>
-            <td>Coastline/Beaches</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Islands</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Rivers/Lakes</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Magical/unusual terrain</td>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -1019,38 +1305,6 @@
         </tr>
     </tbody>
 </table>
-
-<div style="break-inside: avoid;">
-<h4 id="q-s1-3">Which 2-3 terrains matter most for your story?</h4>
-<p class="hint">Most stories don't use every terrain equally. Identify your priority terrains.</p>
-
-<table class="input-table">
-    <thead>
-        <tr>
-            <th>Priority</th>
-            <th>Terrain</th>
-            <th>Why It Matters to Your Story</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-</div>
 
 
 <!-- ==========================================
@@ -1073,7 +1327,7 @@
 
 <h3>Reference: Natural Resource Ideas</h3>
 
-<p class="hint">Use this list for inspiration when filling out the table below.</p>
+<p class="hint">Use this list for inspiration when filling in the resource table below.</p>
 
 <table>
     <thead>
@@ -1089,7 +1343,7 @@
         </tr>
         <tr>
             <td><strong>Gems & Stones</strong></td>
-            <td>Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble, quality building stone</td>
+            <td>Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble</td>
         </tr>
         <tr>
             <td><strong>Textiles</strong></td>
@@ -1097,15 +1351,15 @@
         </tr>
         <tr>
             <td><strong>Food & Agriculture</strong></td>
-            <td>Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits, chocolate/cacao</td>
+            <td>Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits</td>
         </tr>
         <tr>
             <td><strong>Animal Products</strong></td>
-            <td>Ivory, bone, whale oil, animal fat, beeswax, dyes from shells (Tyrian purple), ambergris</td>
+            <td>Ivory, bone, whale oil, beeswax, dyes from shells (Tyrian purple), ambergris</td>
         </tr>
         <tr>
             <td><strong>Plant Products</strong></td>
-            <td>Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee, tobacco, opium</td>
+            <td>Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee</td>
         </tr>
         <tr>
             <td><strong>Fuel & Energy</strong></td>
@@ -1113,16 +1367,17 @@
         </tr>
         <tr>
             <td><strong>Magical Resources</strong></td>
-            <td>Ley line access, enchanted springs, magical creatures, spell components, phoenix feathers, dragon scales</td>
+            <td>Ley line access, enchanted springs, spell components, phoenix feathers, dragon scales</td>
         </tr>
         <tr>
             <td><strong>Curiosities</strong></td>
-            <td>Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight, tears of gods</td>
+            <td>Fossils, meteoric iron, ancient artifacts, bottled starlight, tears of gods</td>
         </tr>
     </tbody>
 </table>
 
 <h4 id="q-s1-4">What natural resources are geographically concentrated?</h4>
+<p class="hint">Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?</p>
 
 <table class="input-table">
     <thead>
@@ -1133,6 +1388,11 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Fertile farmland</td>
+            <td>River valley between the two kingdoms</td>
+            <td>Contested — marriage alliance proposed to end the conflict</td>
+        </tr>
         <tr>
             <td>Fertile farmland</td>
             <td></td>
@@ -1168,11 +1428,26 @@
             <td></td>
             <td></td>
         </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s1-5">What geographic resource creates tension or conflict in your world?</h4>
-<p class="hint">Water rights? Arable land? Access to the sea? Control of a trade route?</p>
+<p class="hint">Water rights? Arable land? Trade routes? Does the conflict show up as war, political marriage, trade embargo, or something subtler?</p>
 <div class="writing-box">
 </div>
 
@@ -1201,6 +1476,7 @@
 <p>Avoid the "weather report" opening (starting scenes with neutral descriptions of setting). Instead, integrate sensory details into action and emotion: not "The room was cold" but "She pulled her cloak tighter, breath misting in the unheated chamber." The character's interaction with the environment reveals both setting and feeling simultaneously.</p>
 
 <h4 id="q-s1-7">What does your primary setting look, sound, smell, and feel like?</h4>
+<p class="hint">Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?</p>
 
 <table class="input-table">
     <thead>
@@ -1226,18 +1502,11 @@
             <td>What the air feels like (temperature, humidity, wind)</td>
             <td></td>
         </tr>
-        <tr>
-            <td>What textures you touch</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>What you taste (food, dust, salt air, etc.)</td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s1-8">How does the environment change at different times of day?</h4>
+<p class="hint">Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?</p>
 
 <table class="input-table">
     <thead>
@@ -1267,11 +1536,13 @@
 </table>
 
 <h4 id="q-s1-9">What's beautiful about this place?</h4>
-<div class="writing-box small">
+<p class="hint">The details a character falling in love would notice. What would make someone homesick for this place?</p>
+<div class="writing-box">
 </div>
 
 <h4 id="q-s1-10">What's harsh or uncomfortable about this place?</h4>
-<div class="writing-box small">
+<p class="hint">What do people endure or complain about? What takes getting used to?</p>
+<div class="writing-box">
 </div>
 
 
@@ -1286,19 +1557,43 @@
 <p><strong>How to write it:</strong> Use seasonal markers to show time passing without stating it directly — the first frost, the smell of rain after months of drought, the angle of afternoon light. Weather works best when it creates immediate physical problems: wet clothing that must be removed, cold that requires shared warmth, heat that makes tempers short. Don't just describe weather — show characters adapting to it, complaining about it, making decisions around it. A change in season can mirror emotional shifts: a relationship that thaws as winter ends, tension that builds with summer heat, a reckoning that arrives with autumn.</p>
 
 <h4 id="q-s1-11">What's the overall climate?</h4>
-<div class="writing-box small">
-</div>
-
-<h4 id="q-s1-12">What seasons exist and how distinct are they?</h4>
-<div class="writing-box small">
-</div>
-
-<h4 id="q-s1-13">What season is your story mainly set in, and how does it shape the plot?</h4>
-<p class="hint">Consider what this season makes possible (festivals, travel, harvests) and what it makes difficult or impossible (blocked mountain passes, frozen rivers, impassable mud).</p>
+<p class="hint">Tropical, temperate, arid, polar? How does it shape what people wear, build, and grow?</p>
 <div class="writing-box">
 </div>
 
+<h4 id="q-s1-12">What seasons exist and how distinct are they?</h4>
+<p class="hint">Traditional four seasons? A long winter and brief summer? Magical seasons tied to something other than the sun?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s1-13">What season is your story set in?</h4>
+<p class="hint">Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Season</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>What this season makes possible</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>What this season makes impossible</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
 <h4 id="q-s1-14">How do seasons affect life in your world?</h4>
+<p class="hint">When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors?</p>
 
 <table class="input-table">
     <thead>
@@ -1329,21 +1624,20 @@
 
 <h4 id="q-s1-15">Does the season create pressure or opportunity in your story?</h4>
 <p class="hint">Racing against winter? Waiting for spring thaw? Only able to travel in summer?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 
 <!-- ==========================================
- SECTION 1: DANGEROUS PLACES & BORDERS
+ SECTION 1: DANGEROUS REGIONS & BORDERS
  ========================================== -->
 
-<h2 class="mt-0" id="s1-dangerous">Dangerous Places</h2>
+<h2 class="mt-0" id="s1-dangerous">Dangerous Regions</h2>
 
-<p>Every world has places that are deadly — and therefore avoided, or crossed only with preparation and company. Dangerous places serve romance by raising stakes and forcing partnership. Survival requires cooperation. Cooperation requires trust. Trust requires vulnerability.</p>
+<p>Every world has places that are deadly — and therefore avoided, or crossed only with preparation and company. Dangerous regions serve romance by raising stakes and forcing partnership.</p>
 
-<p><strong>How to write it:</strong> The most common mistake is telling readers something is deadly without proving it. Characters warn "No one survives the Thornwood" while protagonists stroll through unscathed. To make danger feel real, show consequences: guides get injured, resources run low, mistakes cost blood. When characters emerge, they should be changed — exhausted, wounded, closer. If they're exactly the same as when they entered, you've wasted the setting.</p>
-
-<h4 id="q-s1-16">What places are dangerous or forbidden?</h4>
+<h4 id="q-s1-16">What regions are dangerous or forbidden?</h4>
+<p class="hint">Every world has places people warn you not to go. What makes them deadly? What would force your characters there anyway?</p>
 
 <table class="input-table">
     <thead>
@@ -1354,27 +1648,32 @@
         </tr>
     </thead>
     <tbody>
-        <tr style="height: 60px;">
+        <tr class="example-row">
+            <td>The Blighted Wastes</td>
+            <td>Corrupted magic, monsters, no water for miles, disorienting mists</td>
+            <td>Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary</td>
+        </tr>
+        <tr>
             <td></td>
             <td></td>
             <td></td>
         </tr>
-        <tr style="height: 60px;">
+        <tr>
             <td></td>
             <td></td>
             <td></td>
         </tr>
-        <tr style="height: 60px;">
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
         </tr>
-        <tr style="height: 60px;">
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
         </tr>
-        <tr style="height: 60px;">
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -1383,33 +1682,67 @@
 </table>
 
 <h4 id="q-s1-17">Do your characters travel through dangerous territory?</h4>
-<p class="hint">Where do they go and why? What dangers do they face? How do they prepare? What do they learn about each other, and how does the danger change their relationship?</p>
-<div class="writing-box large">
-</div>
+<p class="hint">Shared danger bonds people fast. What threats would force them to rely on each other?</p>
 
-<h2 id="s1-borders" class="break-before">Borders & Boundaries</h2>
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Where and why</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>What dangers they face</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h2 id="s1-borders">Borders & Boundaries</h2>
 
 <h4 id="q-s1-18">What geographic features create borders?</h4>
 <p class="hint">Mountain ranges? Rivers? Oceans? Magical barriers? Deserts?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h4 id="q-s1-19">How permeable are these borders?</h4>
 <p class="hint">Easy to cross? Heavily guarded? Physically impassable? Seasonally accessible?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h4 id="q-s1-20">Do your characters come from opposite sides of a significant border?</h4>
-<p class="hint">Borders create instant tension in romance. Consider: What separates them? What does crossing mean legally, socially, personally? What does each side believe about the other? What assumptions do they make at first? What would happen if their relationship were discovered? Where could they meet safely?</p>
-<div class="writing-box large">
-</div>
+<p class="hint">Borders create "us" and "them." What assumptions would each character have about someone from the other side?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>What separates them</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>What crossing means (legally, socially, personally)</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 
 <!-- ==========================================
  SECTION 1: PART TWO - GEOGRAPHY & ROMANCE
  ========================================== -->
 
-<span class="section-number break-before">Section 1 · Part Two</span>
+<span class="section-number">Section 1 · Part Two</span>
 <h1>Geography & Romance</h1>
 
 <h2 class="mt-2" id="s1-home">Home & Belonging</h2>
@@ -1420,19 +1753,21 @@
 
 <h4 id="q-s1-21">Where does your protagonist feel at home?</h4>
 <p class="hint">The place that shaped them, where they feel most themselves:</p>
-<div class="writing-box large">
+<div class="writing-box">
 </div>
 
-<h4 id="q-s1-22" class="break-before">What does home look, smell, sound like to them?</h4>
+<h4 id="q-s1-22">What does home look, smell, sound like to them?</h4>
 <p class="hint">The sensory details that mean "home":</p>
 <div class="writing-box">
 </div>
 
 <h4 id="q-s1-23">Where does your love interest feel at home?</h4>
+<p class="hint">The place that shaped them, where they're most themselves. How different is it from your protagonist's home?</p>
 <div class="writing-box">
 </div>
 
 <h4 id="q-s1-24">Where does each character feel like an outsider?</h4>
+<p class="hint">Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?</p>
 
 <table class="input-table">
     <thead>
@@ -1465,9 +1800,22 @@
 <p><strong>How to write it:</strong> When a character enters their love interest's world, filter every observation through their outsider perspective. What confuses them? What impresses them? What makes them uncomfortable? Use their reactions to reveal both the world and the character. The "native" character, meanwhile, experiences a different kind of vulnerability — suddenly aware of poverty they'd normalized, privilege they'd taken for granted, or customs that seem strange when explained aloud. Write the small moments: the love interest automatically reaching to help with something the visitor doesn't know how to do, the visitor mispronouncing a word everyone here knows, the native defending their home against a criticism they privately agree with. These fish-out-of-water scenes build intimacy because they require explanation, patience, and the trust to look foolish in front of someone.</p>
 
 <h4 id="q-s1-25">Does one character visit the other's home territory?</h4>
-<p class="hint">Who visits whose world? When and why?</p>
-<div class="writing-box">
-</div>
+<p class="hint">Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Who visits whose world</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 <h4 id="q-s1-26">What's the sensory experience of entering unfamiliar territory?</h4>
 <p class="hint">What do they notice first? What's strange? What's beautiful? What's uncomfortable?</p>
@@ -1480,6 +1828,7 @@
 </div>
 
 <h4 id="q-s1-28">What does the visitor understand about their partner after seeing where they come from?</h4>
+<p class="hint">Place explains people. What becomes clear about your love interest once you see where they grew up?</p>
 <div class="writing-box">
 </div>
 
@@ -1496,10 +1845,61 @@
 
 <h4 id="q-s1-29">How do people typically travel?</h4>
 <p class="hint">On foot? Horseback? Ships? Flying creatures? Magical transportation?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
+<h4>Travel Time Reference</h4>
+<p class="hint">These are real-world estimates. Feel free to adjust for your world — magic, flying creatures, or difficult terrain will change things.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Mode of Travel</th>
+            <th>Distance per Day</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Walking (comfortable pace)</td>
+            <td>15-20 miles / 25-32 km</td>
+            <td>Healthy adult with breaks</td>
+        </tr>
+        <tr>
+            <td>Forced march</td>
+            <td>25-30 miles / 40-50 km</td>
+            <td>Exhausting, not sustainable</td>
+        </tr>
+        <tr>
+            <td>Riding (sustainable)</td>
+            <td>25-35 miles / 40-55 km</td>
+            <td>One horse, regular rest</td>
+        </tr>
+        <tr>
+            <td>Hard ride</td>
+            <td>40-50 miles / 65-80 km</td>
+            <td>Tiring the horse</td>
+        </tr>
+        <tr>
+            <td>Changing horses (relay)</td>
+            <td>80-100 miles / 130-160 km</td>
+            <td>Fresh mounts at stations</td>
+        </tr>
+        <tr>
+            <td>Sailing ship (favorable wind)</td>
+            <td>100-150 miles / 160-240 km</td>
+            <td>Highly variable</td>
+        </tr>
+        <tr>
+            <td>Carriage/wagon</td>
+            <td>20-30 miles / 32-50 km</td>
+            <td>Roads required</td>
+        </tr>
+    </tbody>
+</table>
+
 <h4 id="q-s1-30">How long does travel take between key locations?</h4>
+<p class="hint">Distance creates stakes. A week apart feels different than a year. How painful is separation in your world?</p>
 
 <table class="input-table">
     <thead>
@@ -1525,9 +1925,30 @@
 </table>
 
 <h4 id="q-s1-31">Do your characters undertake a significant journey?</h4>
-<p class="hint">From where to where? How long does it take? What happens along the way that changes their relationship?</p>
-<div class="writing-box large">
-</div>
+<p class="hint">The road is where walls come down. What would a long journey together reveal about each of them?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>From where to where</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>How long</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>What happens during the journey</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 <h2 id="s1-isolated">Isolated Locations</h2>
 
@@ -1548,11 +1969,11 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+        <tr class="example-row">
+            <td>Stormhold Keep</td>
+            <td>Remote mountain fortress</td>
+            <td>Political prisoners sent there; protagonist exiled after scandal</td>
+            <td>Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure</td>
         </tr>
         <tr>
             <td></td>
@@ -1566,13 +1987,19 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -1592,7 +2019,7 @@
 
 <p><strong>How to write it:</strong> Match or intentionally contrast your setting with emotional beats. A first kiss in a dangerous place carries urgency; the same kiss in a peaceful garden suggests safety and choice. Use pathetic fallacy sparingly but effectively — a storm during a confrontation, sunlight breaking through as characters reconcile. More subtly, let characters notice their environment differently based on emotional state: a character in love sees beauty everywhere; a heartbroken character finds the same landscape bleak. Create "their place" — a location that becomes sacred to the relationship, whether it's where they first met, first kissed, or survived something together. When characters return to meaningful locations, the resonance should be felt without being over-explained. A single line — "She hadn't been back to the bridge since that night" — can carry enormous weight if you've built the association.</p>
 
-<h4 id="q-s1-33" class="break-before">What's the emotional quality of your primary setting?</h4>
+<h4 id="q-s1-33">What's the emotional quality of your primary setting?</h4>
 <p class="hint">Does it feel oppressive, expansive, peaceful, threatening, beautiful, decaying?</p>
 <div class="writing-box">
 </div>
@@ -1646,6 +2073,10 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Key location 1</td>
+            <td>The Winter Court — where protagonist is hostage and love interest is prince</td>
+        </tr>
         <tr>
             <td>Key location 1</td>
             <td></td>
@@ -1681,6 +2112,87 @@
         <tr>
             <td>The place that matters emotionally</td>
             <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: MAP MAKING
+ ========================================== -->
+
+<h2 class="break-before" id="s1-maps">Map Making (Optional)</h2>
+
+<p>You don't need a map. Plenty of great fantasy stories were written without one.</p>
+
+<p>That said, maps can help you keep travel times consistent and visualize where things are in relation to each other. If you decide to make one, let your story's needs guide you.</p>
+
+<p>For example: How far is the border your characters are fleeing toward? Is the palace defensible? Where might lovers meet in secret? Build your geography around the situations your plot requires.</p>
+
+<h4>Map-Making Tools</h4>
+<p class="hint">Free options unless noted. Search these names online for current links.</p>
+<ul>
+    <li><strong>Inkarnate</strong> — Popular fantasy map maker (free tier available)</li>
+    <li><strong>Azgaar's Fantasy Map Generator</strong> — Procedural generation with editing</li>
+    <li><strong>Wonderdraft</strong> — One-time purchase, professional quality</li>
+    <li><strong>Donjon</strong> — Random generators for maps and dungeons</li>
+    <li><strong>World Anvil</strong> — Worldbuilding wiki with map tools (subscription)</li>
+</ul>
+
+<h4>What to Include on Your Map</h4>
+<p class="hint">Consider which of these appear in your world. You don't need all of them.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Possible Locations</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Geographic features</td>
+            <td>Mountains, rivers, forests, lakes, coastlines, islands, deserts, swamps, valleys</td>
+        </tr>
+        <tr>
+            <td>Political boundaries</td>
+            <td>Kingdom borders, disputed territories, neutral zones, conquered lands</td>
+        </tr>
+        <tr>
+            <td>Cities & settlements</td>
+            <td>Capitals, port cities, border towns, villages, abandoned settlements</td>
+        </tr>
+        <tr>
+            <td>Trade & travel</td>
+            <td>Major roads, trade routes, mountain passes, river crossings, ports</td>
+        </tr>
+        <tr>
+            <td>Fortifications</td>
+            <td>Castles, walls, watchtowers, military camps, fortresses</td>
+        </tr>
+        <tr>
+            <td>Religious sites</td>
+            <td>Temples, shrines, pilgrimage routes, sacred groves, forbidden places</td>
+        </tr>
+        <tr>
+            <td>Magical locations</td>
+            <td>Ley lines, magical academies, cursed regions, power sources</td>
+        </tr>
+        <tr>
+            <td>Story-specific</td>
+            <td>Where characters meet, where they're forbidden to go, where they flee to</td>
         </tr>
     </tbody>
 </table>

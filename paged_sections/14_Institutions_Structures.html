@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -348,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -535,12 +561,32 @@
 
 <table class="input-table">
     <tbody>
+        <tr class="example-row">
+            <td>First year (example)</td>
+            <td>Basic magic training, no outside contact allowed, shared dormitories with four to a room; protagonist starts here</td>
+        </tr>
+        <tr class="example-row">
+            <td>Inner Circle (example)</td>
+            <td>Elite fourth-years with private chambers and direct access to the Archmage; love interest holds this position</td>
+        </tr>
         <tr>
             <td>Privileges at the top:</td>
             <td></td>
         </tr>
         <tr>
             <td>Consequences at the bottom:</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -610,12 +656,32 @@
 
 <table class="input-table">
     <tbody>
+        <tr class="example-row">
+            <td>Queen's Inner Circle (example)</td>
+            <td>Twelve advisors with private audience rights; love interest is the youngest member ever appointed, causing resentment</td>
+        </tr>
+        <tr class="example-row">
+            <td>Lady-in-Waiting (example)</td>
+            <td>Protagonist's cover position; grants access to royal quarters but no political voice; must attend the princess constantly</td>
+        </tr>
         <tr>
             <td>Protagonist's position:</td>
             <td></td>
         </tr>
         <tr>
             <td>Love interest's position:</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -682,12 +748,32 @@
 
 <table class="input-table">
     <tbody>
+        <tr class="example-row">
+            <td>Commander (example)</td>
+            <td>Leads 500 soldiers in the northern battalion; protagonist earned position through merit despite noble opposition</td>
+        </tr>
+        <tr class="example-row">
+            <td>War Mage (example)</td>
+            <td>Love interest is assigned to protagonist's unit as magical support; outranks her in magic but answers to her in battle</td>
+        </tr>
         <tr>
             <td>Protagonist:</td>
             <td></td>
         </tr>
         <tr>
             <td>Love interest:</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1073,6 +1159,7 @@
 </div>
 
 <h4 id="q-s14-13">What is that cost in your story?</h4>
+<p class="hint">Name the specific consequences that make walking away impossible, not just inconvenient.</p>
 <div class="writing-box"></div>
 
 
@@ -1081,18 +1168,23 @@
 <h3 class="mt-0" id="s14-integration">Integration Check</h3>
 
 <h4 id="q-s14-14">How does your institution reflect or enforce government structures (from Section 5)?</h4>
+<p class="hint">Consider whether the institution serves the ruling power, challenges it, or operates in its shadow.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s14-15">How does your institution reflect cultural values (from Section 3)?</h4>
+<p class="hint">What beliefs about honor, duty, family, or success does this institution embody or exploit?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s14-16">How does economic power shape your institution (from Section 4)?</h4>
+<p class="hint">Who funds it, who profits from it, and who pays the price of its existence?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s14-17">How does religion intersect with your institution (from Section 6)?</h4>
+<p class="hint">Does faith legitimize, condemn, or operate parallel to this institution's authority?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s14-18">How does magic affect how the institution functions (from Section 10)?</h4>
+<p class="hint">Does magic enable control, create hierarchy, or offer paths to subvert the institution's rules?</p>
 <div class="writing-box"></div>
 
 

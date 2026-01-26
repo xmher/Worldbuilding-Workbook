@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -348,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -512,6 +538,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s11-6">What magical gesture would your characters recognize as meaningful that others would overlook or misunderstand?</h4>
+<p class="hint">Private meaning transforms ordinary magic into intimate language. What small act holds significance only for them?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s11-7">How might your character's magic show care in a way that words wouldn't?</h4>
@@ -549,9 +576,11 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s11-12">What does the love interest notice about the protagonist's magic that others overlook?</h4>
+<p class="hint">Seeing what others miss is a form of intimacy. What do they perceive that reveals how closely they watch?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s11-13">What do they see in each other's magic that makes them understand each other differently?</h4>
+<p class="hint">Witnessing someone's magic can reveal who they truly are - their restraint, their passion, their fear, their care.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s11-14">Is there a moment where one character sees the other use magic and realizes something important?</h4>
@@ -665,6 +694,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s11-28">Has anyone in your world rejected a bond? What happened to them?</h4>
+<p class="hint">Stories of rejection establish stakes. Do cautionary tales make your characters more afraid - or more determined to resist?</p>
 <div class="writing-box"></div>
 
 
@@ -710,6 +740,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s11-35">What makes it inconvenient for your love interest?</h4>
+<p class="hint">Both characters should have reasons to resist. What does the love interest stand to lose by accepting this connection?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s11-36">What would your characters lose by accepting the bond?</h4>
@@ -853,6 +884,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s11-58">When your characters connect through magic, is it because the magic compels it — or because they're choosing to use their magic to reach each other?</h4>
+<p class="hint">The distinction matters. Compelled connection may feel intense, but chosen connection reveals character.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s11-59">At what point in your story do your characters choose each other as people?</h4>
@@ -866,6 +898,117 @@
     <p>The most romantic uses of magic aren't the ones built into the system — they're the ones your characters invent. Private gestures, secret communications, the choice to use power gently when gentleness isn't required.</p>
     <p>Whether your magic includes fated bonds or not, the real intimacy comes from characters choosing each other. The bond can say they're matched; only the characters can prove it true.</p>
 </div>
+
+
+<!-- SECTION 11: BASIC WORDS TEMPLATE -->
+
+<h2 id="s11-basic-words">Basic Words Template</h2>
+
+<p>You don't need to build a complete language. A handful of key words and phrases can add real flavor to your world.</p>
+
+<p>These are the terms that come up most often in stories. Pick the ones that matter for your plot and characters, and don't worry about filling every row.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Word/Phrase</th>
+            <th>Your Language</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Hello/Greeting</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Goodbye/Farewell</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Yes</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>No</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Please</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Thank you</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Sorry/Forgive me</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>I love you</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Help</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Stop</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Friend</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Enemy</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Common curse/swear</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Toast/Cheers</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Terms of endearment</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 <div class="nav-link"><a href="#contents">Back to Contents</a></div>
 

@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -286,11 +287,11 @@
             background: white;
             padding: 15px 20px;
             margin: 1rem 0 1.5rem 0;
-            min-height: 120px;
+            min-height: 80px;
             break-inside: avoid;
         }
-        .writing-box.large { min-height: 180px; }
-        .writing-box.small { min-height: 80px; }
+        .writing-box.large { min-height: 120px; }
+        .writing-box.small { min-height: 50px; }
         .writing-box-label {
             font-family: var(--font-display);
             font-size: 0.65rem;
@@ -348,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -469,6 +495,7 @@
     <h3>Part One: The Foundation</h3>
     <ul>
         <li><a href="#s5-intro">A Note Before You Begin</a></li>
+        <li><a href="#s5-gov-reference">Types of Government Reference</a></li>
         <li><a href="#s5-government">Forms of Government</a></li>
         <li><a href="#s5-laws">How Laws Work</a></li>
         <li><a href="#s5-enforcement-foundation">Law Enforcement & Justice</a></li>
@@ -564,6 +591,61 @@
 </div>
 
 
+<!-- SECTION 5: TYPES OF GOVERNMENT REFERENCE -->
+
+<h2 id="s5-gov-reference">Types of Government Reference</h2>
+
+<p>You don't need to invent a government from scratch. Most fantasy worlds draw on familiar types, and that's a strength, not a weakness.</p>
+
+<p>Here's a quick reference to get you started. Think about which one fits your world—or mix and match. The right choice depends on what conflicts and constraints you want your characters to navigate.</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Description</th>
+            <th>Romantic Implications</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Monarchy</strong></td>
+            <td>King/Queen rules, power by bloodline</td>
+            <td>Succession drama, forbidden love across ranks</td>
+        </tr>
+        <tr>
+            <td><strong>Empire</strong></td>
+            <td>Multiple states under one emperor</td>
+            <td>Characters from different conquered regions</td>
+        </tr>
+        <tr>
+            <td><strong>Oligarchy</strong></td>
+            <td>Small group of wealthy/powerful rule</td>
+            <td>Family alliances, marriage as power play</td>
+        </tr>
+        <tr>
+            <td><strong>Republic</strong></td>
+            <td>Elected representatives make laws</td>
+            <td>Political marriages, faction rivalries</td>
+        </tr>
+        <tr>
+            <td><strong>Theocracy</strong></td>
+            <td>Religious leaders hold power</td>
+            <td>Forbidden love, duty vs desire</td>
+        </tr>
+        <tr>
+            <td><strong>Federation</strong></td>
+            <td>States united under central government</td>
+            <td>Regional loyalties, border tensions</td>
+        </tr>
+    </tbody>
+</table>
+
+<h4>Which government type(s) does your world use?</h4>
+<p class="hint">Your world might use one type, combine elements from several, or have different systems in different regions.</p>
+<div class="writing-box"></div>
+
+
 <!-- SECTION 5: NOTE BEFORE YOU BEGIN -->
 
 <h2 class="mt-0" id="s5-intro">A Note Before You Begin</h2>
@@ -585,6 +667,7 @@
 <h3>Government Types</h3>
 
 <h4 id="q-s5-1">What form of government exists?</h4>
+<p class="hint">The form of government determines who has power to make your characters' lives easier or harder, and what paths exist to change unjust laws.</p>
 
 <table class="input-table">
     <thead>
@@ -666,9 +749,11 @@
 </table>
 
 <h4 id="q-s5-2">Which describes your world?</h4>
+<p class="hint">You can combine elements or note regional differences. Consider how this system creates obstacles for your romance.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-3">If your world has multiple nations, do they have different systems?</h4>
+<p class="hint">Political differences between nations can separate lovers or offer escape routes. Where would your characters flee if they had to?</p>
 <div class="writing-box"></div>
 
 
@@ -677,17 +762,13 @@
 <h3 class="mt-0">Current Rulers</h3>
 
 <h4 id="q-s5-4">Who currently holds power?</h4>
+<p class="hint">This person (or council) controls your characters' fate. Do they have reason to help or hinder the romance?</p>
 
 <table class="input-table">
-    <colgroup>
-        <col style="width: 20%;">
-        <col style="width: 40%;">
-        <col style="width: 40%;">
-    </colgroup>
     <thead>
         <tr>
-            <th></th>
-            <th>Your World</th>
+            <th>Aspect</th>
+            <th>Details</th>
             <th>Example (Serpent & Dove)</th>
         </tr>
     </thead>
@@ -711,6 +792,31 @@
             <td>How long they've ruled</td>
             <td></td>
             <td><em>Two decades — long enough to shape an entire generation's beliefs about magic and witches</em></td>
+        </tr>
+        <tr class="example-row">
+            <td>Title/Position</td>
+            <td>High Queen of the Thornwood Realm</td>
+            <td><em>The Archbishop — head of the Church, supreme authority on matters of faith and law</em></td>
+        </tr>
+        <tr class="example-row">
+            <td>How they gained power</td>
+            <td>Inherited through the sacred bloodline after her mother's mysterious death; rumors persist of darker means</td>
+            <td><em>Rose through Church ranks, built his reputation on successful witch burnings, political maneuvering</em></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -770,6 +876,31 @@
             <td></td>
             <td></td>
         </tr>
+        <tr class="example-row">
+            <td>Royal decree</td>
+            <td>The monarch can issue new edicts at will; nobles may petition for reversal</td>
+            <td>Easy for small matters; controversial changes invite rebellion</td>
+        </tr>
+        <tr class="example-row">
+            <td>Ancient compact</td>
+            <td>Laws bound by magic at the realm's founding; breaking them has catastrophic consequences</td>
+            <td>Considered impossible until someone discovers a loophole</td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
@@ -783,6 +914,7 @@
 <h2 class="mt-0" id="s5-enforcement-foundation">Law Enforcement & Justice</h2>
 
 <h4 id="q-s5-10">Who enforces the law?</h4>
+<p class="hint">These are the people your characters must evade, bribe, or confront. How present are they in daily life?</p>
 
 <table class="input-table">
     <thead>
@@ -793,17 +925,32 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+        <tr class="example-row">
+            <td>The Queen's Shadow</td>
+            <td>Political crimes, treason, threats to the crown</td>
+            <td>Reports directly to the Queen; answers to no one else</td>
+        </tr>
+        <tr class="example-row">
+            <td>City Watch</td>
+            <td>Common crimes, public order, market disputes</td>
+            <td>Local lord or city council; quality varies wildly by district</td>
         </tr>
         <tr>
             <td></td>
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -816,9 +963,38 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s5-12">How does the justice system work?</h4>
-<p class="hint">Who judges (monarch, courts, religious authority, trial by combat)? Are there trials? Do the accused have rights? Can verdicts be appealed? Who can afford good representation?</p>
-<div class="writing-box large">
-</div>
+<p class="hint">If your characters are caught, what process awaits them? Understanding this helps you write the stakes of discovery.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Who judges (monarch, courts, religious authority, trial by combat)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Are there trials?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Do the accused have rights?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Can verdicts be appealed?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Who can afford good representation?</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 
 <!-- SECTION 5: JUSTICE EQUALITY & POLITICAL STRUCTURE -->
@@ -842,6 +1018,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s5-16">What positions exist that matter for your story?</h4>
+<p class="hint">Focus on positions that your characters hold, aspire to, or must navigate around. Who could grant them permission or protection?</p>
 
 <table class="input-table">
     <thead>
@@ -878,6 +1055,7 @@
 <p>If magic exists, it interacts with political power. Who has magic affects who rules.</p>
 
 <h4 id="q-s5-17">How does magic relate to political authority?</h4>
+<p class="hint">Magic can reinforce or threaten power structures. If one of your characters has magic, how does that affect their political standing?</p>
 
 <table class="input-table">
     <thead>
@@ -911,12 +1089,34 @@
 </table>
 
 <h4 id="q-s5-18">Which describes your world?</h4>
+<p class="hint">Consider how this relationship between magic and power affects your characters' standing and options.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-19">Who controls access to magical power?</h4>
-<p class="hint">How is magic acquired (birth, training, divine gift, artifacts)? Who controls training and access? Can magical power be taken away?</p>
-<div class="writing-box">
-</div>
+<p class="hint">Gatekeepers create obstacles. Could your characters be denied magic, or forced to use it against their will?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>How is magic acquired (birth, training, divine gift, artifacts)?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Who controls training/access?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Can magical power be taken away?</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 <h4 id="q-s5-20">What laws govern magic use?</h4>
 <p class="hint">What's forbidden? What's required? What's regulated?</p>
@@ -930,6 +1130,7 @@
 <p>Most political systems have competing factions — groups with different goals who struggle for power and influence.</p>
 
 <h4 id="q-s5-21">What major factions exist?</h4>
+<p class="hint">Factions create allies and enemies. Which factions might support or oppose your characters' relationship?</p>
 
 <table class="input-table">
     <thead>
@@ -973,6 +1174,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s5-23">Is there current factional conflict that affects your story?</h4>
+<p class="hint">Political instability creates both danger and opportunity. Could your characters use factional conflict to their advantage?</p>
 <div class="writing-box"></div>
 
 
@@ -981,6 +1183,7 @@
 <h2 class="mt-0" id="s5-war-foundation">War & Military</h2>
 
 <h4 id="q-s5-24">What's the current state of conflict?</h4>
+<p class="hint">War separates lovers, creates enemies-to-lovers scenarios, and raises the stakes for forbidden relationships.</p>
 
 <table class="input-table">
     <thead>
@@ -1014,15 +1217,42 @@
 </table>
 
 <h4 id="q-s5-25">Which describes your world?</h4>
-<div class="writing-box small"></div>
+<p class="hint">The state of conflict shapes daily life and determines what risks your characters face.</p>
+<div class="writing-box"></div>
 
 <h4 id="q-s5-26">Who are potential or actual enemies?</h4>
+<p class="hint">External threats can unite unlikely lovers or tear them apart if they're on different sides.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-27">How does the military work?</h4>
-<p class="hint">Who serves (volunteers, conscripts, nobility, mercenaries)? How large is it? What's military service status (honored, feared, pitied)? Are there magical military forces?</p>
-<div class="writing-box">
-</div>
+<p class="hint">Military obligations can separate lovers, create forbidden relationships between ranks, or bring enemies into close quarters.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Who serves (volunteers, conscripts, nobility, mercenaries)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>How large is the military</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>What's military service status (honored, feared, pitied)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Are there magical military forces</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 
 <!-- ==========================================
@@ -1349,6 +1579,7 @@
 <!-- SECTION 5: CLASS SYSTEMS CONTINUED -->
 
 <h4 id="q-s5-44" class="mt-0">Where do your characters fall?</h4>
+<p class="hint">The gap between them creates the romantic tension. What does each take for granted that the other has never experienced?</p>
 
 <table class="input-table">
     <thead>
@@ -1374,7 +1605,7 @@
 
 <h4 id="q-s5-45">How many ranks separate them?</h4>
 <p class="hint">Same class? One or two apart (scandalous but navigable)? Extreme gap (servant/royal)?</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h4 id="q-s5-46">What laws enforce class separation?</h4>
 <p class="hint">Restricted spaces? Forbidden interactions? What happens if someone acts "above their station"?</p>
@@ -1392,6 +1623,7 @@
 <p>If multiple intelligent species exist, there are likely laws governing interaction. These laws often create the hardest obstacles — not just social disapproval but fundamental questions about whether such unions are even possible or recognized.</p>
 
 <h4 id="q-s5-48">What species exist in your world?</h4>
+<p class="hint">List the major species and note which are considered "people" under the law and which are marginalized or oppressed.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-49">What legal restrictions exist between species?</h4>
@@ -1399,6 +1631,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s5-50">If your characters are different species, what laws affect them?</h4>
+<p class="hint">Species differences can create fundamental questions about whether their love is even legally possible, or whether children could exist.</p>
 <div class="writing-box"></div>
 
 
@@ -1411,6 +1644,7 @@
 <p>What makes arranged marriage compelling as a trope is the tension between obligation and desire. They're bound together by duty, politics, or necessity. The question becomes: can something real grow in soil that wasn't chosen?</p>
 
 <h4 id="q-s5-51">Is one or both characters in an arranged marriage or betrothal?</h4>
+<p class="hint">Arranged marriages create both obstacles (if to someone else) and opportunities (if to each other) for romantic tension.</p>
 <p>If yes:</p>
 
 <h4 id="q-s5-52">Who arranged it and why?</h4>
@@ -1444,7 +1678,7 @@
 
 <h4 id="q-s5-56">How long have they been married?</h4>
 <p class="hint">Just wed? Months? Years of cold distance?</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h4 id="q-s5-57">What were the circumstances of the wedding?</h4>
 <p class="hint">Did they meet before? Was one or both unwilling? Was there hope, dread, or resignation?</p>
@@ -1494,6 +1728,7 @@
 <!-- SECTION 5: POLITICAL MARRIAGES CONTINUED -->
 
 <h4 id="q-s5-64" class="mt-0">Is your characters' relationship politically important?</h4>
+<p class="hint">Politically significant relationships carry weight beyond personal feelings. Their union could end wars or start them.</p>
 <p>If yes:</p>
 
 <h4 id="q-s5-65">What political problem does their union solve?</h4>
@@ -1501,6 +1736,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s5-66">Who benefits from their union? Who's threatened by it?</h4>
+<p class="hint">Those who benefit will push them together; those threatened will work to tear them apart.</p>
 
 <table class="input-table">
     <thead>
@@ -1530,6 +1766,7 @@
 </table>
 
 <h4 id="q-s5-67">What happens if they refuse the political obligation?</h4>
+<p class="hint">The consequences of refusal determine whether they have a real choice or only an illusion of one.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-68">How does political pressure affect their emotional relationship?</h4>
@@ -1552,6 +1789,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s5-71">What happens when your characters are caught?</h4>
+<p class="hint">Make consequences concrete and escalating. What happens the first time versus repeated offenses?</p>
 
 <table class="input-table">
     <thead>
@@ -1621,7 +1859,8 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s5-77">How does this status affect what they can do — or what can be done to them?</h4>
-<div class="writing-box small"></div>
+<p class="hint">Special status can be both shield and cage. What freedoms does it grant, and what constraints does it impose?</p>
+<div class="writing-box"></div>
 
 
 <!-- SECTION 5: DIPLOMATIC PROTECTION CONTINUED -->
@@ -1643,17 +1882,20 @@
 <h2 id="s5-trials">Trials & Justice</h2>
 
 <h4 id="q-s5-81">If caught, do your characters get a trial?</h4>
-<div class="writing-box small"></div>
+<p class="hint">A trial creates narrative opportunity for public confrontation, defense, and dramatic revelations.</p>
+<div class="writing-box"></div>
 
 <h4 id="q-s5-82">Who judges them?</h4>
 <p class="hint">Monarch? Court? Religious authority? Magical council? Trial by combat?</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h4 id="q-s5-83">Can they appeal? Is there any legal recourse?</h4>
-<div class="writing-box small"></div>
+<p class="hint">Hope of appeal can drive plot; no recourse raises the stakes considerably.</p>
+<div class="writing-box"></div>
 
 <h4 id="q-s5-84">Who would or could defend them?</h4>
-<div class="writing-box small"></div>
+<p class="hint">Allies willing to speak for them reveal the depth of support or isolation your characters face.</p>
+<div class="writing-box"></div>
 
 
 <!-- SECTION 5: FACTIONS & OPPOSITION -->
@@ -1663,6 +1905,7 @@
 <p>Your couple doesn't exist in a vacuum. Political factions may support or oppose them based on how the relationship affects larger power struggles.</p>
 
 <h4 id="q-s5-85">What major factions exist?</h4>
+<p class="hint">Focus on factions that would care about your characters' relationship, either to support or destroy it.</p>
 
 <table class="input-table">
     <thead>
@@ -1692,6 +1935,7 @@
 </table>
 
 <h4 id="q-s5-86">Where do your characters fall?</h4>
+<p class="hint">Factional loyalty creates another layer of obligation and potential betrayal in the romance.</p>
 
 <table class="input-table">
     <thead>
@@ -1716,9 +1960,11 @@
 </table>
 
 <h4 id="q-s5-87">Are they on the same side, opposite sides, or unaligned?</h4>
-<div class="writing-box small"></div>
+<p class="hint">Same side creates shared purpose; opposite sides creates the richest enemies-to-lovers tension.</p>
+<div class="writing-box"></div>
 
 <h4 id="q-s5-88">If on opposite sides, what would it take to betray their faction for each other?</h4>
+<p class="hint">The moment of choosing love over loyalty is one of the most powerful beats in enemies-to-lovers. What would push them to it?</p>
 <div class="writing-box"></div>
 
 
@@ -1727,6 +1973,7 @@
 <h2 class="mt-0" id="s5-enemies">Political Enemies</h2>
 
 <h4 id="q-s5-89">Who has political reason to keep your characters apart?</h4>
+<p class="hint">Name specific antagonists. What do they stand to lose if your characters unite?</p>
 
 <table class="input-table">
     <thead>
@@ -1761,6 +2008,7 @@
 <h2 id="s5-allies">Political Allies</h2>
 
 <h4 id="q-s5-90">Who supports your characters despite political opposition?</h4>
+<p class="hint">Allies provide hope and aid, but their support should cost them something too.</p>
 
 <table class="input-table">
     <thead>
@@ -1797,6 +2045,7 @@
 <h3>The State of Conflict</h3>
 
 <h4 id="q-s5-91">Is your world at war, at peace, or somewhere in between?</h4>
+<p class="hint">The state of conflict shapes what's possible for your characters and what risks they face being together.</p>
 <ul>
     <li>Active warfare (battles happening now)</li>
     <li>Cold war (hostility without open conflict)</li>
@@ -1807,9 +2056,11 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s5-92">If at war: who's fighting whom, and why?</h4>
+<p class="hint">Understanding the conflict helps you understand what choosing each other would cost your characters.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-93">If at peace: what threatens to break it? What tensions simmer beneath the surface?</h4>
+<p class="hint">Fragile peace creates its own tension. Could your characters' relationship tip the balance toward war or lasting peace?</p>
 <div class="writing-box"></div>
 
 
@@ -1837,9 +2088,35 @@
 <!-- SECTION 5: MILITARY SERVICE & RELATIONSHIP -->
 
 <h4 id="q-s5-98" class="mt-0">Is either of your characters in military service?</h4>
-<p class="hint">Which character? What's their role/rank? Why do they serve? What have they seen or done?</p>
-<div class="writing-box">
-</div>
+<p class="hint">Military service creates duty that can conflict with love, and experiences that change a person.</p>
+<p>If yes:</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Which character</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Role/rank</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Why they serve</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>What they've seen or done</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 <h4 id="q-s5-99">If one character is a soldier, how does this affect the relationship?</h4>
 <p class="hint">Absence and separation? PTSD and emotional distance? Skills that are attractive or frightening? Duty that conflicts with love?</p>
@@ -1850,18 +2127,13 @@
 <p>If your characters are on opposite sides of a war, their relationship is treason — choosing each other means betraying everything they were raised to believe in.</p>
 
 <h4 id="q-s5-100">Are your characters on opposite sides of a conflict?</h4>
+<p class="hint">Opposite sides creates the highest-stakes enemies-to-lovers setup. Choosing each other means betraying everything.</p>
 <p>If yes:</p>
 
 <table class="input-table">
-    <colgroup>
-        <col style="width: 15%;">
-        <col style="width: 25%;">
-        <col style="width: 25%;">
-        <col style="width: 35%;">
-    </colgroup>
     <thead>
         <tr>
-            <th></th>
+            <th>Aspect</th>
             <th>Protagonist</th>
             <th>Love Interest</th>
             <th>Example (Serpent & Dove)</th>
@@ -1931,14 +2203,53 @@
 <p>War leaves marks that don't heal.</p>
 
 <h4 id="q-s5-105">Has either character killed in war?</h4>
-<p class="hint">Which character? What were the circumstances? How does it affect them now?</p>
-<div class="writing-box">
-</div>
+<p class="hint">Violence changes people. How does this experience affect their capacity for intimacy and trust?</p>
+<p>If yes:</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Which character</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Circumstances</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>How it affects them</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 <h4 id="q-s5-106">Has either character lost someone to the conflict?</h4>
-<p class="hint">Who was lost and how? How does this loss shape them?</p>
-<div class="writing-box">
-</div>
+<p class="hint">Loss creates grief that shapes how they see the enemy and complicates falling for one of "them."</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Who was lost and how</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>How it shapes them</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 <h4 id="q-s5-107">Is there blood between their peoples that can't be easily forgiven?</h4>
 <p class="hint">Atrocities, massacres, betrayals during the conflict:</p>
@@ -1948,6 +2259,7 @@
 <!-- SECTION 5: NAVIGATING VIOLENCE & DESERTION -->
 
 <h4 id="q-s5-108" class="mt-0">Does one character bear responsibility (personally or ancestrally) for violence against the other's people?</h4>
+<p class="hint">Inherited guilt or direct responsibility creates one of the deepest obstacles to overcome in enemies-to-lovers.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-109">How do they navigate this?</h4>
@@ -1986,6 +2298,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s5-116">In peacetime, could they be together openly — or would old hatreds persist?</h4>
+<p class="hint">Peace doesn't erase memory. Consider whether society would accept them even after conflict ends.</p>
 <div class="writing-box"></div>
 
 
@@ -2010,43 +2323,44 @@
 
 <p><strong>☐ Opposing sides of a war or conflict</strong><br>
 They or their peoples are literally trying to kill each other.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <p><strong>☐ Historical wrongs between their peoples</strong><br>
 One group harmed the other in ways that haven't been forgiven.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 
 <!-- SECTION 5: ENEMIES TO LOVERS - FOUNDATIONS CONTINUED -->
 
 <p class="mt-0"><strong>☐ Directly opposed goals</strong><br>
 What one wants requires destroying what the other wants.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <p><strong>☐ One has power over the other (and has used it)</strong><br>
 Master/slave, conqueror/conquered, oppressor/oppressed.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <p><strong>☐ One has personally harmed the other (or their loved ones)</strong><br>
 Not their peoples — them specifically. Direct personal injury.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <p><strong>☐ Fundamentally opposed beliefs or values</strong><br>
 What one considers moral, the other considers evil.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <p><strong>☐ Competition for something only one can have</strong><br>
 Throne, position, resource, territory — winner takes all.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <p><strong>☐ One represents the system that oppresses the other</strong><br>
 Even if they didn't create it, they benefit from and enforce it.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 
 <!-- SECTION 5: ENEMIES TO LOVERS - LEGITIMACY TEST -->
 
 <h4 id="q-s5-118" class="mt-0">How many of these apply to your story?</h4>
+<p class="hint">More sources of enmity create richer conflict, but also require more careful resolution.</p>
 <ul>
     <li><strong>1:</strong> You have a foundation. Consider whether it's strong enough.</li>
     <li><strong>2-3:</strong> Good complexity. Multiple layers of conflict.</li>
@@ -2081,7 +2395,7 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 
 <h4 id="q-s5-123">How recent is this history?</h4>
 <p class="hint">Living memory? Grandparents' time? Centuries ago but never forgotten?</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h4 id="q-s5-124">What evidence of this history remains?</h4>
 <p class="hint">Scars on the land, displaced peoples, stolen artifacts, suppressed culture, ongoing inequality?</p>
@@ -2116,12 +2430,15 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 <p>The most intense enmity: one has directly harmed the other.</p>
 
 <h4 id="q-s5-126">What did one character do to the other (or their loved ones)?</h4>
+<p class="hint">Personal harm creates the most intense enmity. Be specific about what happened.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-127">Was it intentional, justified (in their mind), or accidental?</h4>
-<div class="writing-box small"></div>
+<p class="hint">Their understanding of the harm shapes whether and how forgiveness might be possible.</p>
+<div class="writing-box"></div>
 
 <h4 id="q-s5-128">Does the one who caused harm feel guilty, justified, or conflicted?</h4>
+<p class="hint">Guilt opens paths to reconciliation; justification requires the character to change their worldview first.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-129">What would justice look like to the wronged party?</h4>
@@ -2139,6 +2456,7 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 <p>Sometimes they're enemies because they believe fundamentally different things about how the world should work.</p>
 
 <h4 id="q-s5-131">What does each character believe that the other finds repugnant?</h4>
+<p class="hint">Ideological conflict requires characters to reckon with genuinely opposing values, not just misunderstanding.</p>
 
 <table class="input-table">
     <thead>
@@ -2204,9 +2522,11 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-136">What does the protagonist do that surprises the love interest?</h4>
+<p class="hint">An act of honor, mercy, or kindness that doesn't fit the enemy stereotype.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-137">How does the love interest initially explain this?</h4>
+<p class="hint">Denial, suspicion of manipulation, or cognitive dissonance are common first reactions.</p>
 <div class="writing-box"></div>
 
 
@@ -2224,9 +2544,11 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-140">What does the love interest learn about the protagonist's perspective?</h4>
+<p class="hint">Context that reveals the protagonist's position isn't simple villainy but complex circumstance.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-141">How does this change them?</h4>
+<p class="hint">Understanding doesn't require agreement, but it should shift how they see the conflict.</p>
 <div class="writing-box"></div>
 
 
@@ -2240,12 +2562,15 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-143">What does this cost them?</h4>
+<p class="hint">Real sacrifice makes the choice meaningful. What do they give up that they can never get back?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-144">What does the love interest do that their side would consider betrayal?</h4>
+<p class="hint">The mirror moment: their matching act of choosing love over loyalty.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-145">What does this cost them?</h4>
+<p class="hint">The cost should be commensurate with the protagonist's sacrifice.</p>
 <div class="writing-box"></div>
 
 <h3>Reckoning with the Enmity</h3>
@@ -2310,9 +2635,11 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 <!-- SECTION 5: ENEMIES TO LOVERS - FORGIVENESS -->
 
 <h4 id="q-s5-150" class="mt-0">Is there an apology? Is it sufficient?</h4>
+<p class="hint">Words alone may not be enough. What actions accompany the apology to make it real?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-151">Is there forgiveness? Is it earned?</h4>
+<p class="hint">Unearned forgiveness feels false to readers. What makes forgiveness possible here?</p>
 <div class="writing-box"></div>
 
 <h4>What Can't Be Fixed</h4>
@@ -2323,9 +2650,11 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-153">How do they live with what can't be fixed?</h4>
+<p class="hint">Acceptance isn't forgetting. How do they honor what was lost while building something new?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-154">Is there anything one can do to make amends — even if it can't undo the harm?</h4>
+<p class="hint">Amends isn't about erasing the past but about what they do with the future.</p>
 <div class="writing-box"></div>
 
 
@@ -2338,11 +2667,12 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-156">What does the love interest lose?</h4>
+<p class="hint">Parallel sacrifice creates balance. They should both give up something significant.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-157">Are these losses worth it?</h4>
 <p class="hint">The answer should be "yes, but barely" — the cost should be real enough that choosing each other means something.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h3>World Impact</h3>
 
@@ -2379,19 +2709,19 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 
 <h4 id="q-s5-160">Check: Is your enmity based primarily on misunderstanding?</h4>
 <p class="hint">If clearing up one misunderstanding would dissolve the conflict, you don't have enemies-to-lovers — you have miscommunication romance. That's fine, but it's a different trope.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h4 id="q-s5-161">Check: Does attraction make them forget their legitimate grievances?</h4>
 <p class="hint">Enemies shouldn't stop being enemies just because they find each other hot. Physical attraction while maintaining genuine conflict is part of the tension.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h4 id="q-s5-162">Check: Do they ever actually address the reason they were enemies?</h4>
 <p class="hint">If they just fall in love and the conflict is never discussed, resolved, or reckoned with, the ending feels unearned.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h4 id="q-s5-163">Check: Does falling in love make either character unrecognizable?</h4>
 <p class="hint">They can change, but they shouldn't become entirely different people. The stern commander can soften without becoming a puppy.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 
 <!-- SECTION 5: SUCCESSION & HEIRS -->
@@ -2401,6 +2731,7 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 <p>If your characters are part of powerful families, succession affects the romance. Who they marry, whether they produce heirs, and what bloodlines they mix all have political consequences.</p>
 
 <h4 id="q-s5-164">What does each character stand to inherit?</h4>
+<p class="hint">Inheritance creates stakes beyond the personal. Their choices may affect generations.</p>
 
 <table class="input-table">
     <thead>
@@ -2426,14 +2757,33 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-166">Is either expected to produce an heir?</h4>
-<p class="hint">What's the timeline? What happens if they don't?</p>
-<div class="writing-box">
-</div>
+<p class="hint">Heir expectations add pressure and create conflict if the relationship makes heirs impossible or complicated.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Timeline</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>What happens if they don't</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 <h4 id="q-s5-167">If they're different species or one is sterile, how does this affect heir requirements?</h4>
+<p class="hint">Biological complications can be devastating when bloodlines are politically essential.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-168">Could their relationship cause or solve a succession crisis?</h4>
+<p class="hint">High-stakes inheritance drama raises the pressure on their relationship considerably.</p>
 <div class="writing-box"></div>
 
 
@@ -2511,6 +2861,7 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-174">How can this obstacle be overcome?</h4>
+<p class="hint">Consider what's possible in your world and what fits your characters' values.</p>
 <ul>
     <li>Changing who they are (gaining status, power, different identity)</li>
     <li>Changing the system (reform or revolution)</li>
@@ -2519,6 +2870,7 @@ Even if they didn't create it, they benefit from and enforce it.</p>
 </ul>
 
 <h4 id="q-s5-175">Which path do your characters take?</h4>
+<p class="hint">The path they choose reveals their character and shapes the story's themes.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s5-176">When does the political obstacle force a choice?</h4>

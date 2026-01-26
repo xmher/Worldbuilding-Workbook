@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -348,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -547,11 +573,31 @@
 <p><strong>What are the 3-5 most important rules of your magic system?</strong></p>
 <table class="input-table">
     <tbody>
+        <tr class="example-row">
+            <td>Protagonist's magic tie (example)</td>
+            <td>Her dormant fire magic awakens during moments of strong emotion, especially around the love interest; she cannot yet control it</td>
+        </tr>
+        <tr class="example-row">
+            <td>Academy rebel (example)</td>
+            <td>Breaks curfew regularly, questions ancient traditions openly, has drawn the attention of both reformers and enforcers</td>
+        </tr>
         <tr><td>1.</td><td></td></tr>
         <tr><td>2.</td><td></td></tr>
         <tr><td>3.</td><td></td></tr>
         <tr><td>4.</td><td></td></tr>
         <tr><td>5.</td><td></td></tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
@@ -686,9 +732,29 @@
         <tr><th>From</th><th>To</th><th>Travel Time</th></tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Night Court capital</td>
+            <td>Day Court border</td>
+            <td>Three days by horse; magical winnowing forbidden across court lines without diplomatic permission</td>
+        </tr>
         <tr><td></td><td></td><td></td></tr>
         <tr><td></td><td></td><td></td></tr>
         <tr><td></td><td></td><td></td></tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
@@ -808,6 +874,18 @@
         <tr><td></td><td></td></tr>
         <tr><td></td><td></td></tr>
         <tr><td></td><td></td></tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
@@ -959,6 +1037,7 @@
 </div>
 
 <h4 id="q-s17-1">Have you intentionally broken a rule?</h4>
+<p class="hint">Justified rule-breaking can strengthen your story, but only if the break is the point, has explanation, and carries real consequences.</p>
 <table class="input-table">
     <tbody>
         <tr><td>The rule:</td><td></td></tr>

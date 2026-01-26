@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -286,11 +287,11 @@
             background: white;
             padding: 15px 20px;
             margin: 1rem 0 1.5rem 0;
-            min-height: 120px;
+            min-height: 80px;
             break-inside: avoid;
         }
-        .writing-box.large { min-height: 180px; }
-        .writing-box.small { min-height: 80px; }
+        .writing-box.large { min-height: 120px; }
+        .writing-box.small { min-height: 50px; }
         .writing-box-label {
             font-family: var(--font-display);
             font-size: 0.65rem;
@@ -348,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -465,6 +491,8 @@
         <li><a href="#s3-daily-life">Daily Life & Routines</a></li>
         <li><a href="#s3-home">Home & Household</a></li>
         <li><a href="#s3-family">Family Structure</a></li>
+        <li><a href="#s3-food">Food & Meals</a></li>
+        <li><a href="#s3-architecture">Architecture & Building</a></li>
         <li><a href="#s3-religion-daily">Religion in Daily Life</a></li>
         <li><a href="#s3-superstitions">Superstitions & Folk Beliefs</a></li>
         <li><a href="#s3-manners">Manners & Etiquette</a></li>
@@ -486,6 +514,7 @@
         <li><a href="#s3-marriage">Marriage Customs</a></li>
         <li><a href="#s3-gender">Gender Roles</a></li>
         <li><a href="#s3-life-stages">Life Stages & Coming of Age</a></li>
+        <li><a href="#s3-children">Children & Education</a></li>
         <li><a href="#s3-festivals">Festivals & Celebrations</a></li>
         <li><a href="#s3-hierarchy">Social Hierarchy</a></li>
         <li><a href="#s3-names">Language & Names</a></li>
@@ -645,7 +674,7 @@
  SECTION 3: PART ONE - FOUNDATION
  ========================================== -->
 
-<span class="section-number break-before">Section 3 · Part One</span>
+<span class="section-number">Section 3 · Part One</span>
 <h1>The Foundation</h1>
 
 <h2 class="mt-2" id="s3-daily-life">Daily Life & Routines</h2>
@@ -655,6 +684,7 @@
 <p><strong>How to write it:</strong> You don't need to show every routine — just enough to establish a baseline so readers feel the disruption when it breaks. A few sentences of morning ritual (the tea always taken, the prayer always said) make it meaningful when your character is too distracted to complete them. Use routine to reveal character: what they do first, what they skip when rushed, what small comfort they never sacrifice. When romance intrudes on routine — when they start waking thinking of someone, when the familiar walk home feels charged because they might see that person — readers feel the shift because you've established what normal looked like.</p>
 
 <h4 id="q-s3-1">What's the rhythm of a typical day?</h4>
+<p class="hint">When might your protagonist naturally cross paths with their love interest? What parts of the day offer opportunity for private moments?</p>
 
 <table class="input-table">
     <thead>
@@ -664,6 +694,10 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Morning</td>
+            <td>Prayer at dawn; light breakfast; nobles receive petitioners while commoners begin work in fields or shops</td>
+        </tr>
         <tr>
             <td>Morning</td>
             <td></td>
@@ -685,12 +719,12 @@
 
 <h4 id="q-s3-2">What's the weekly or monthly rhythm?</h4>
 <p class="hint">Market days? Rest days? Religious observances? Regular social gatherings?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h4 id="q-s3-3">What do people do when they're not working?</h4>
 <p class="hint">Leisure, entertainment, socializing — what fills non-work hours?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 
@@ -703,6 +737,7 @@
 <p><strong>How to write it:</strong> Describe homes through what the POV character notices — and what they don't notice reveals their own background. A character raised in poverty catalogues every expensive object; one raised wealthy might not register luxury at all but notice immediately when something is "wrong." Use specific objects rather than general descriptions: not "a wealthy home" but "silver candlesticks left casually on a side table, more books than she'd seen in her life, a fire burning in an empty room." Let the home reveal character history through accumulated objects, wear patterns, what's been mended versus replaced. When a character enters their love interest's home for the first time, slow down — this is them understanding who this person is through where they live.</p>
 
 <h4 id="q-s3-4">What does a typical home look like for different classes?</h4>
+<p class="hint">What would your protagonist notice entering the love interest's home for the first time? What reveals their background or values?</p>
 
 <table class="input-table">
     <thead>
@@ -729,25 +764,214 @@
 
 <h4 id="q-s3-5">Who lives together?</h4>
 <p class="hint">Nuclear families? Extended families? Multiple generations? Servants in the household?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h4 id="q-s3-6">How much privacy exists within a home?</h4>
 <p class="hint">Private bedrooms? Shared sleeping spaces? Thin walls? Servants everywhere?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h2 id="s3-family">Family Structure & Relationships</h2>
 
 <h4 id="q-s3-7">What's the typical family structure?</h4>
 <p class="hint">Who heads the household? How are decisions made? What's the hierarchy?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h4 id="q-s3-8">What obligations exist between family members?</h4>
 <p class="hint">What do children owe parents? What do parents owe children? Extended family?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
+
+
+<!-- ==========================================
+ SECTION 3: FOOD & MEALS
+ ========================================== -->
+
+<h2 class="mt-0" id="s3-food">Food & Meals</h2>
+
+<p>Food reveals culture. What people eat, how they prepare it, and who they share it with tells you everything about values, resources, and social bonds.</p>
+
+<p>You don't need to invent an entire cuisine. Focus on the details that matter for your story: What would your characters share over dinner? What meal might they cook for someone they love?</p>
+
+<h4 id="q-s3-food-1">What's the staple food in your world?</h4>
+<p class="hint">Bread cultures feel different from rice cultures, which feel different from potato or maize cultures. What fills bellies?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s3-food-2">What's a typical meal for different classes?</h4>
+<p class="hint">The gap between what nobles eat and what commoners eat reveals social divides your characters might cross.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Class</th>
+            <th>Typical Meal</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Wealthy/noble</td>
+            <td>Multiple courses, meat daily, imported spices, wine — meals are social performances</td>
+        </tr>
+        <tr class="example-row">
+            <td>Common/poor</td>
+            <td>Bread, pottage, vegetables in season, meat only on feast days — meals are fuel</td>
+        </tr>
+        <tr>
+            <td>Wealthy/noble</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Middle/merchant</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Common/poor</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s3-food-3">How many meals per day, and when?</h4>
+<p class="hint">When do people eat? Do they break fast at dawn? Is the main meal midday or evening? When might your characters share a table?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s3-food-4">Who prepares food, and who serves it?</h4>
+<p class="hint">Servants? The women of the household? Professional cooks? Shared duties? Who's doing the work?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s3-food-5">What foods are considered luxuries or treats?</h4>
+<p class="hint">Sugar, spices, exotic fruits, specific meats — what's special enough to gift or celebrate with?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s3-food-6">Are there foods that are forbidden, taboo, or restricted?</h4>
+<p class="hint">Religious dietary laws? Class-based restrictions? Foods associated with certain groups?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s3-food-7">What drinks are common?</h4>
+<p class="hint">Water, ale, wine, tea, coffee, milk — what do people drink daily vs. for celebration?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s3-food-8">What does sharing a meal mean?</h4>
+<p class="hint">Is eating together a sign of trust? Friendship? Family bond? Business arrangement?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s3-food-9">What might your protagonist cook for or share with the love interest?</h4>
+<p class="hint">Food can be intimate. What meal might become significant in your story?</p>
+<div class="writing-box">
+</div>
+
+
+<!-- ==========================================
+ SECTION 3: ARCHITECTURE
+ ========================================== -->
+
+<h2 class="mt-0" id="s3-architecture">Architecture & Building</h2>
+
+<p>How people build says a lot about who they are. A desert palace won't look anything like a northern fortress. You don't need to be an architect to figure this out.</p>
+
+<p>Just think about what makes sense. Hot climates need shade and airflow. Cold climates need thick walls and big hearths. When your characters travel between regions, these differences help readers feel the change.</p>
+
+<h4>How Climate Shapes Architecture</h4>
+<p class="hint">Consider how your world's climate affects how people build.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Climate</th>
+            <th>Architectural Adaptations</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Hot/sunny</td>
+            <td>Thick walls, small windows, courtyards, flat roofs, light colors, shaded walkways, cross-ventilation</td>
+        </tr>
+        <tr>
+            <td>Rainy/humid</td>
+            <td>Steep roofs, covered walkways, raised foundations, gutter systems, overhangs, indoor-focused living</td>
+        </tr>
+        <tr>
+            <td>Cold/snowy</td>
+            <td>Thick insulation, steep roofs for snow, small windows, central hearths, vestibules/mudrooms</td>
+        </tr>
+        <tr>
+            <td>Windy/coastal</td>
+            <td>Low profiles, reinforced structures, windbreaks, secure shutters, anchored roofs</td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s3-arch-1">What architectural style dominates your main setting?</h4>
+<p class="hint">Research real-world architecture that inspires your world — note distinctive elements like columns, arches, domes, materials.</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s3-arch-2">What do different types of buildings look like?</h4>
+<p class="hint">How can your protagonist tell a temple from a tavern at a glance?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Building Type</th>
+            <th>Distinctive Features</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Palace/noble estate</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Temple/place of worship</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Merchant's home/shop</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Common dwelling</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Military/fortification</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 
 <!-- ==========================================
@@ -760,17 +984,64 @@
 
 <h4 id="q-s3-9">What role does religion/spirituality play in daily life?</h4>
 <p class="hint">Daily prayers or rituals? Religious dietary restrictions? Spiritual interpretations of everyday events?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h4 id="q-s3-10">What life events have religious significance?</h4>
 <p class="hint">Birth, coming of age, marriage, death — what rituals mark these transitions?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h2 id="s3-superstitions">Superstitions & Folk Beliefs</h2>
 
 <p>Beyond formal religion, most cultures have folk beliefs — things everyone "knows" even if they can't explain why. These small details make a world feel lived-in.</p>
+
+<h3>Reference: Common Superstitions & Omens</h3>
+
+<p class="hint">Use this list for inspiration. Pick a few that fit your world's mood and culture.</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Examples</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Lucky/Unlucky Numbers</strong></td>
+            <td>Three for luck, seven for magic, thirteen cursed, odd numbers for the living, even for the dead</td>
+        </tr>
+        <tr>
+            <td><strong>Animal Omens</strong></td>
+            <td>Ravens mean death, white animals are blessed, black cats bring luck (or doom), owls warn of secrets</td>
+        </tr>
+        <tr>
+            <td><strong>Weather Signs</strong></td>
+            <td>Red sky warnings, thunder during weddings, rain on a journey's start, fog hiding spirits</td>
+        </tr>
+        <tr>
+            <td><strong>Protective Actions</strong></td>
+            <td>Iron wards off fae, salt purifies, crossing thresholds with right foot, spitting to avert evil eye</td>
+        </tr>
+        <tr>
+            <td><strong>Bad Luck Triggers</strong></td>
+            <td>Speaking a dead person's name, whistling at night, opening umbrellas indoors, breaking mirrors</td>
+        </tr>
+        <tr>
+            <td><strong>Good Luck Rituals</strong></td>
+            <td>Knocking wood, throwing coins in water, carrying charms, first-footing at new year, bride's "something old"</td>
+        </tr>
+        <tr>
+            <td><strong>Threshold Beliefs</strong></td>
+            <td>Don't step on cracks, carry brides over doorways, leave offerings at crossroads, dawn/dusk are dangerous</td>
+        </tr>
+        <tr>
+            <td><strong>Dreams & Visions</strong></td>
+            <td>Dreams of water mean change, falling dreams warn of pride, dreaming of someone means they're thinking of you</td>
+        </tr>
+    </tbody>
+</table>
 
 <h4 id="q-s3-11">What common superstitions exist?</h4>
 <p class="hint">Lucky/unlucky numbers, colors, animals? Actions that invite bad fortune? Protective gestures?</p>
@@ -779,7 +1050,7 @@
 
 <h4 id="q-s3-12">What everyday rituals do people perform without thinking?</h4>
 <p class="hint">Knocking on wood, crossing fingers, small offerings, phrases spoken at certain moments:</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 
@@ -792,6 +1063,7 @@
 <p><strong>How to write it:</strong> Don't explain the rules — show the violation and its aftermath. When your character commits a social error, write the immediate physical reaction of others: the sharp intake of breath, the exchanged glance, the beat of silence before conversation resumes. Let your character feel the wrongness before they understand it. For deliberate rule-breaking, show the internal calculation: the character knowing what they're risking and choosing to act anyway. Manners become romantic tension when one character watches another navigate their world — the competence or incompetence, the subtle corrections, the moment when the outsider finally gets it right. Small rudeness is often more powerful than large insult; the cut direct, the wrong form of address, the turned shoulder.</p>
 
 <h4 id="q-s3-13">How do people greet each other?</h4>
+<p class="hint">What greeting between your characters might feel charged or meaningful? How might your protagonist stumble with unfamiliar customs?</p>
 
 <table class="input-table">
     <thead>
@@ -821,19 +1093,20 @@
 </table>
 
 <h4 id="q-s3-14">What's considered rude in everyday interaction?</h4>
-<div class="writing-box small">
+<p class="hint">What faux pas might an outsider commit? What rudeness could create tension or misunderstanding between your characters?</p>
+<div class="writing-box">
 </div>
 
 <h2 id="s3-entertainment">Entertainment, Arts & Leisure</h2>
 
 <h4 id="q-s3-15">What entertainment is common?</h4>
 <p class="hint">Music, theater, games, sports, storytelling, gambling — what do people do for enjoyment?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h4 id="q-s3-16">What stories or legends does everyone know?</h4>
 <p class="hint">The cultural touchstones — tales children grow up hearing, references everyone understands:</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 
@@ -841,10 +1114,57 @@
  SECTION 3: PART TWO - CULTURE & ROMANCE
  ========================================== -->
 
-<span class="section-number break-before">Section 3 · Part Two</span>
+<span class="section-number">Section 3 · Part Two</span>
 <h1>Culture & Romance</h1>
 
 <h2 class="mt-2" id="s3-values">Core Values & Worldview</h2>
+
+<h3>Reference: Cultural Values & Traits</h3>
+
+<p class="hint">Use this list when deciding what your culture values most. Pick 3-5 that define your world.</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Possible Values</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Personal Virtues</strong></td>
+            <td>Honor, loyalty, courage, humility, patience, wisdom, honesty, compassion, self-reliance, cunning</td>
+        </tr>
+        <tr>
+            <td><strong>Social Bonds</strong></td>
+            <td>Family duty, clan loyalty, hospitality, community harmony, respect for elders, friendship, romantic love</td>
+        </tr>
+        <tr>
+            <td><strong>Achievement</strong></td>
+            <td>Ambition, excellence, competition, innovation, artistic mastery, scholarly pursuit, martial prowess</td>
+        </tr>
+        <tr>
+            <td><strong>Spiritual</strong></td>
+            <td>Piety, ritual observance, connection to ancestors, mystical insight, fate acceptance, divine service</td>
+        </tr>
+        <tr>
+            <td><strong>Material</strong></td>
+            <td>Wealth, status, land ownership, beautiful possessions, comfort, security, legacy</td>
+        </tr>
+        <tr>
+            <td><strong>Freedom</strong></td>
+            <td>Independence, personal choice, adventure, wanderlust, self-expression, breaking tradition</td>
+        </tr>
+        <tr>
+            <td><strong>Order</strong></td>
+            <td>Tradition, hierarchy, obedience, propriety, law, duty, sacrifice for the greater good</td>
+        </tr>
+        <tr>
+            <td><strong>Power</strong></td>
+            <td>Strength, dominance, conquest, political influence, magical ability, control, leadership</td>
+        </tr>
+    </tbody>
+</table>
 
 <p>Every culture has foundational beliefs — the virtues people are taught from childhood, the qualities that earn respect, the failures that bring shame. Your characters exist within these value systems, shaped by them even when they rebel.</p>
 
@@ -875,7 +1195,8 @@
 </table>
 
 <h4 id="q-s3-18">What cultural value must one or both characters sacrifice to be together?</h4>
-<div class="writing-box small">
+<p class="hint">The cost of love. What belief, duty, or principle must bend or break? Does this sacrifice change who they are?</p>
+<div class="writing-box">
 </div>
 
 
@@ -888,6 +1209,7 @@
 <p>What's forbidden reveals what a culture fears. In romantasy, taboos create the "forbidden love" stakes. Taboos work best when specific and consequential.</p>
 
 <h4 id="q-s3-19">What actions, topics, or behaviors are taboo in your culture?</h4>
+<p class="hint">Taboos reveal what a society fears. Which taboos will your characters dance around, and which will they ultimately cross?</p>
 
 <table class="input-table">
     <thead>
@@ -897,6 +1219,10 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Physical (touch, proximity, eye contact)</td>
+            <td>Unmarried people can't be alone together; touching someone's hair is deeply intimate; sustained eye contact between strangers is aggressive</td>
+        </tr>
         <tr>
             <td>Physical (touch, proximity, eye contact)</td>
             <td></td>
@@ -913,10 +1239,23 @@
             <td>Magical (certain powers, magical contact)</td>
             <td></td>
         </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s3-20">What happens when someone breaks a taboo?</h4>
+<p class="hint">Stakes need teeth. Make consequences real and specific so readers feel the danger when your characters risk transgression.</p>
 
 <table class="input-table">
     <thead>
@@ -956,6 +1295,7 @@
 <p>In many societies, what people <em>believe</em> about you matters as much as what you actually do. Gossip spreads. Reputation is fragile. Once lost, it may never be recovered.</p>
 
 <h4 id="q-s3-22">What destroys a reputation?</h4>
+<p class="hint">What whispers could ruin your protagonist or love interest? How does their position make them vulnerable to gossip?</p>
 
 <table class="input-table">
     <thead>
@@ -977,7 +1317,8 @@
 </table>
 
 <h4 id="q-s3-23">Can a ruined reputation be recovered? How?</h4>
-<div class="writing-box small">
+<p class="hint">Is redemption possible in your world, or are some falls permanent? This affects how much your characters risk for love.</p>
+<div class="writing-box">
 </div>
 
 <h2 id="s3-privacy">Privacy, Surveillance & Being Watched</h2>
@@ -985,6 +1326,7 @@
 <p>Romance requires private moments, but privacy is often scarce. Privacy scarcity makes intimacy feel earned.</p>
 
 <h4 id="q-s3-24">Where can your characters be alone together?</h4>
+<p class="hint">Every stolen moment needs a location. What spaces offer privacy, and what makes each one risky or thrilling?</p>
 
 <table class="input-table">
     <thead>
@@ -1006,6 +1348,7 @@
 </table>
 
 <h4 id="q-s3-25">What would happen if they were seen together?</h4>
+<p class="hint">The threat of discovery creates urgency. Who might see them, and what would those witnesses do with that knowledge?</p>
 
 <table class="input-table">
     <thead>
@@ -1040,6 +1383,7 @@
 <p>In many cultures, who can touch whom — and how — is heavily regulated. Touch restrictions are powerful tools for slow-burn romance. When a brush of fingers is transgressive, it carries charge that explicit contact in a permissive culture can't match.</p>
 
 <h4 id="q-s3-26">What touch is considered appropriate between unmarried people?</h4>
+<p class="hint">Touch restrictions make every brush of skin meaningful. Define the boundaries your characters will push against.</p>
 
 <table class="input-table">
     <thead>
@@ -1049,6 +1393,14 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Always acceptable</td>
+            <td>Formal handshake when introduced; brief touch on arm to get attention; passing objects hand to hand</td>
+        </tr>
+        <tr class="example-row">
+            <td>Borderline or scandalous</td>
+            <td>Hand-holding without gloves; dancing closer than arm's length; any touch lasting more than a moment</td>
+        </tr>
         <tr>
             <td>Always acceptable</td>
             <td></td>
@@ -1063,6 +1415,18 @@
         </tr>
         <tr>
             <td>Absolutely forbidden</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1088,6 +1452,7 @@
 <p>What people wear signals who they are — class, status, availability, beliefs. Clothing rules create romantic tension: the veil that can't be removed, the color that marks someone as spoken for, the hair that only a spouse may see unbound.</p>
 
 <h4 id="q-s3-29">What does clothing communicate in your culture?</h4>
+<p class="hint">What can your protagonist tell about someone at a glance? What might they wear to signal availability or disguise their identity?</p>
 
 <table class="input-table">
     <thead>
@@ -1110,17 +1475,123 @@
 
 <h4 id="q-s3-30">What's considered scandalous or provocative to reveal?</h4>
 <p class="hint">Not just the obvious — some cultures consider bare forearms, uncovered hair, or visible ankles shocking:</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h4 id="q-s3-31">What do hairstyles signify in your culture?</h4>
 <p class="hint">Bound vs. loose? Cut vs. uncut? Covered vs. uncovered? Specific styles for specific statuses?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h4 id="q-s3-32">Is there significance to who can touch someone's hair?</h4>
 <p class="hint">Is it intimate? Forbidden? Reserved for family or spouse?</p>
-<div class="writing-box small">
+<div class="writing-box">
+</div>
+
+<h4>Fashion by Class & Context</h4>
+
+<p>Clothes tell stories. A quick glance at someone's outfit can reveal their place in society and whether they're dressed for work or celebration.</p>
+
+<p>You don't need to describe every stitch. Just know enough to make your descriptions feel true when they matter to the scene.</p>
+
+<p class="hint">What do people actually wear? Consider both everyday clothes and special occasions.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Context</th>
+            <th>Wealthy/Noble</th>
+            <th>Common/Working</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Daily wear</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Formal events</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Work/labor</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Religious occasions</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mourning</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Wedding/celebration</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4>Historical Fashion Terms Reference</h4>
+
+<p>If your world draws on medieval or Renaissance styles, here are some common terms. You don't need to use all of them. Pick the ones that feel right for your setting.</p>
+
+<p>Perhaps your characters wear something entirely different. That's fine. This is just a starting point to help you find the right words.</p>
+
+<p class="hint">Common terms from medieval/Renaissance fashion, if your world draws on these periods.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Term</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Chemise/shift</td>
+            <td>Basic undergarment worn against skin; linen, usually white</td>
+        </tr>
+        <tr>
+            <td>Doublet</td>
+            <td>Fitted men's jacket, often padded, worn over shirt</td>
+        </tr>
+        <tr>
+            <td>Kirtle</td>
+            <td>Women's fitted dress worn over chemise, under outer gown</td>
+        </tr>
+        <tr>
+            <td>Breeches</td>
+            <td>Men's trousers, often knee-length</td>
+        </tr>
+        <tr>
+            <td>Stays/corset</td>
+            <td>Structured undergarment shaping the torso</td>
+        </tr>
+        <tr>
+            <td>Petticoat</td>
+            <td>Underskirt(s) for warmth and volume</td>
+        </tr>
+        <tr>
+            <td>Jerkin</td>
+            <td>Sleeveless jacket, often leather</td>
+        </tr>
+        <tr>
+            <td>Cloak/mantle</td>
+            <td>Outer wrap for warmth and protection</td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s3-fashion-own">What are your world's distinctive garments?</h4>
+<p class="hint">What clothing exists in your world that doesn't exist in ours? Magical garments? Cultural specifics?</p>
+<div class="writing-box">
 </div>
 
 
@@ -1150,17 +1621,22 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row"><td>1</td><td>Formal introduction through families; suitor sends a white rose to indicate interest</td></tr>
+        <tr class="example-row"><td>2</td><td>Chaperoned conversations at public events; dancing permitted at balls</td></tr>
         <tr><td>1</td><td></td></tr>
         <tr><td>2</td><td></td></tr>
         <tr><td>3</td><td></td></tr>
         <tr><td>4</td><td></td></tr>
         <tr><td>5</td><td></td></tr>
+        <tr class="blank-row"><td></td><td></td></tr>
+        <tr class="blank-row"><td></td><td></td></tr>
+        <tr class="blank-row"><td></td><td></td></tr>
     </tbody>
 </table>
 
 <h4 id="q-s3-35">What's the role of family in courtship?</h4>
 <p class="hint">Must families approve? Arrange meetings? Give formal consent?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 
@@ -1176,22 +1652,23 @@
 
 <h4 id="q-s3-36">Are there traditional courtship gifts or tokens?</h4>
 <p class="hint">What objects carry romantic meaning? (Flowers, jewelry, handkerchiefs, enchanted items, etc.)</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h4 id="q-s3-37">What does giving or accepting such a token signify?</h4>
 <p class="hint">Interest? Serious intent? Engagement? Binding commitment?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h2 id="s3-marriage">Marriage Customs & Ceremonies</h2>
 
 <h4 id="q-s3-38">What makes a marriage "real" in cultural terms?</h4>
 <p class="hint">Religious ceremony? Community witness? Consummation? Exchange of vows? Magical binding?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h4>Describe a traditional wedding ceremony in your world:</h4>
+<p class="hint">Consider how these traditions might feature in your story's climax or resolution. What elements carry the most emotional weight?</p>
 
 <table class="input-table">
     <thead>
@@ -1232,6 +1709,7 @@
 <p><strong>How to write it:</strong> Show characters bumping against expectations through accumulated small frictions, not just big dramatic confrontations. The dress that restricts movement. The conversation they're excluded from. The assumption about what they want that no one bothers to check. A character who chafes might: take small rebellions (loosened corset, snuck book, hours stolen for practice), modulate behavior based on who's watching, have an internal voice that questions rules they outwardly follow. Show the cost of conforming — the exhaustion, the self-censoring, the moments of private grief for paths not taken. When two characters with different relationships to gender expectations fall for each other, let them see each other differently than the world does.</p>
 
 <h4 id="q-s3-39">How do these expectations affect your characters?</h4>
+<p class="hint">Do they conform, resist, or navigate around expectations? How does their relationship to gender roles shape their desires and fears?</p>
 
 <table class="input-table">
     <thead>
@@ -1254,20 +1732,140 @@
 
 <h4 id="q-s3-40">Does either character violate gender expectations?</h4>
 <p class="hint">How? What consequences do they face — social, legal, or personal?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h2 id="s3-life-stages">Life Stages & Coming of Age</h2>
 
 <h4 id="q-s3-41">What marks the transition to adulthood?</h4>
 <p class="hint">Age? Ceremony? Achievement? Magical awakening? Physical maturity?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h4 id="q-s3-42">What can people do as adults that they couldn't do as children?</h4>
 <p class="hint">Marry without consent? Own property? Make contracts? Use certain magic?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
+
+
+<!-- ==========================================
+ SECTION 3: CHILDREN & EDUCATION
+ ========================================== -->
+
+<h2 class="mt-0" id="s3-children">Children & Education</h2>
+
+<p>How a society raises its children reveals what it values most. Some worlds prioritize discipline, others creativity. Some educate everyone equally; others reserve knowledge for the elite.</p>
+
+<p>Think about what childhood looks like in your world. Your characters were shaped by how they were raised — and if they have or will have children, these questions become personal.</p>
+
+<h4 id="q-s3-child-1">Who raises children?</h4>
+<p class="hint">Parents alone? Extended family? Wet nurses and governesses? The entire community? Does it differ by class?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s3-child-2">How are children educated?</h4>
+<p class="hint">Formal schooling? Apprenticeships? Home tutoring? Religious instruction? Learning by doing alongside parents?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Class/Group</th>
+            <th>How They're Educated</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Noble children</td>
+            <td>Private tutors in languages, history, etiquette; boys learn combat and governance; girls learn household management and diplomacy</td>
+        </tr>
+        <tr class="example-row">
+            <td>Common children</td>
+            <td>Learn their parents' trade by working alongside them; basic numeracy from market haggling; most cannot read</td>
+        </tr>
+        <tr>
+            <td>Noble/wealthy</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Middle/merchant</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Common/poor</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Magical children</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s3-child-3">What are children expected to learn?</h4>
+<p class="hint">Reading and writing? A trade? Religious duties? Combat? Magic? Social graces? Gender-specific skills?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s3-child-4">At what age do children start working or training?</h4>
+<p class="hint">When does childhood end in practical terms? When are they expected to contribute?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s3-child-5">Are there institutions that take children from their families?</h4>
+<p class="hint">Temples, military academies, magical schools, noble fostering arrangements? What does separation mean?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s3-child-6">What happens to orphaned children?</h4>
+<p class="hint">Extended family takes them? Orphanages? The streets? Temple care? Is it a shameful state or simply practical?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s3-child-7">How were your main characters raised?</h4>
+<p class="hint">Their upbringing shaped who they are. What was childhood like for them?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Character</th>
+            <th>How They Were Raised</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Protagonist</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Love Interest</td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 
 <!-- ==========================================
@@ -1279,6 +1877,7 @@
 <p>Special occasions compress time, force proximity, and create heightened emotional moments. They're classic romance settings — the energy is different, rules may relax, everyone is gathered.</p>
 
 <h4 id="q-s3-43">What major festivals or celebrations exist in your world?</h4>
+<p class="hint">Festivals compress emotions and force proximity. Which celebration might serve as a pivotal scene in your romance?</p>
 
 <table class="input-table">
     <thead>
@@ -1289,12 +1888,32 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>The Veiled Night</td>
+            <td>Autumn equinox; celebrates the thinning of barriers between worlds</td>
+            <td>Masquerade ball where identities are hidden; the one night per year when normal courtship rules are suspended — anything that happens "behind the veil" is not acknowledged</td>
+        </tr>
         <tr>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -1304,7 +1923,7 @@
 
 <h4 id="q-s3-44">Do festivals allow any relaxation of normal rules?</h4>
 <p class="hint">Masquerades where identity is hidden? Nights when normal rules are suspended?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 <h2 id="s3-hierarchy">Social Hierarchy in Practice</h2>
@@ -1312,9 +1931,30 @@
 <p>Even without laws, social hierarchy creates rules. Everyone knows how to behave around their betters and their lessers.</p>
 
 <h4 id="q-s3-45">What are the unwritten rules of cross-class interaction?</h4>
-<p class="hint">How do rules differ for eye contact, forms of address, who speaks first, physical proximity, who can touch whom?</p>
-<div class="writing-box large">
-</div>
+<p class="hint">If your characters come from different social positions, these invisible rules shape every interaction between them.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Rule</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Eye contact</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Forms of address</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Who speaks first</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 
 <!-- ==========================================
@@ -1328,6 +1968,7 @@
 <p><strong>How to write it:</strong> Build anticipation for the name-shift by establishing formality early and letting it chafe. Show characters noticing each other's names, wanting to use them differently, catching themselves. The moment of shift needs context: who initiates it, whether it's asked or simply taken, whether the other person reciprocates. Write the physical sensation — the way a name feels different in the mouth, the vulnerability of hearing your first name from someone who's only ever used your title. After the shift, show the newness: the slight stumble, the self-consciousness, the intimacy of being addressed differently than the world addresses you. If one character uses the new name and the other isn't ready, that asymmetry is its own kind of tension.</p>
 
 <h4 id="q-s3-46">What different forms of address exist?</h4>
+<p class="hint">The shift from formal to informal address can be as significant as a first kiss. What progression exists in your world?</p>
 
 <table class="input-table">
     <thead>
@@ -1353,13 +1994,34 @@
 </table>
 
 <h4 id="q-s3-47">When do your characters shift how they address each other?</h4>
-<p class="hint">This is often a pivotal intimacy moment. What do they call each other at first? What do they shift to? When does this happen and why?</p>
-<div class="writing-box">
-</div>
+<p class="hint">This is often a pivotal intimacy moment:</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>From</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>To</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>When and why</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 <h4 id="q-s3-48">Is there significance to names in your world?</h4>
 <p class="hint">True names with power? Secret names? Multiple names for different contexts?</p>
-<div class="writing-box small">
+<div class="writing-box">
 </div>
 
 
