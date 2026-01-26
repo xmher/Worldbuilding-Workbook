@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -286,11 +287,11 @@
             background: white;
             padding: 15px 20px;
             margin: 1rem 0 1.5rem 0;
-            min-height: 120px;
+            min-height: 80px;
             break-inside: avoid;
         }
-        .writing-box.large { min-height: 180px; }
-        .writing-box.small { min-height: 80px; }
+        .writing-box.large { min-height: 120px; }
+        .writing-box.small { min-height: 50px; }
         .writing-box-label {
             font-family: var(--font-display);
             font-size: 0.65rem;
@@ -341,8 +342,6 @@
             border: 1px solid #1a1515;
         }
         td {
-            min-height: 40px;
-            height: 40px;
             padding: 12px 15px;
             border: 1px solid #1a1515;
             vertical-align: top;
@@ -350,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -427,7 +451,6 @@
         .mb-2 { margin-bottom: 1rem; }
         .text-center { text-align: center; }
         .text-muted { color: var(--color-text-muted); }
-        .break-before { break-before: page; }
         @media screen {
             body { background: #e5e1da; padding: 20px; }
             .pagedjs_page { box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 20px; }
@@ -613,6 +636,7 @@
 </table>
 
 <h4 id="q-s7-2">Which methods exist in your world?</h4>
+<p class="hint">The methods shape what kinds of history survive and who has access to it.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-3">Which method is considered most authoritative?</h4>
@@ -622,6 +646,7 @@
 <h3>Who Keeps History</h3>
 
 <h4 id="q-s7-4">Who are the historians and record-keepers?</h4>
+<p class="hint">Whoever controls the records controls the narrative. Their biases become your world's "official history."</p>
 
 <table class="input-table">
     <thead>
@@ -664,9 +689,11 @@
 <!-- SECTION 7: WHO KEEPS HISTORY CONTINUED -->
 
 <h4 id="q-s7-5" class="mt-0">Who keeps history in your world?</h4>
+<p class="hint">Focus on the keepers most relevant to your story. Whose version of history do your characters know?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-6">What institutions preserve the past?</h4>
+<p class="hint">Institutions that hold history can become plot elements: libraries to break into, forbidden archives, restricted knowledge.</p>
 
 <table class="input-table">
     <thead>
@@ -677,6 +704,16 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Libraries/archives</td>
+            <td>Chronicles of the realm, treaties, lineage records going back twelve generations</td>
+            <td>Scholars with royal writ; nobility by right; others by petition and bribery</td>
+        </tr>
+        <tr class="example-row">
+            <td>Magical repositories</td>
+            <td>Spell grimoires, accounts of magical catastrophes, records of forbidden workings</td>
+            <td>Only initiated mages; the knowledge inside is considered too dangerous for the uninitiated</td>
+        </tr>
         <tr>
             <td>Libraries/archives</td>
             <td></td>
@@ -702,12 +739,17 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -720,6 +762,7 @@
 <p>Elite record-keeping is one thing, but what do common people actually know about the past?</p>
 
 <h4 id="q-s7-7">How do most people learn about history?</h4>
+<p class="hint">This shapes what your characters "know" about the past. Oral tradition produces different knowledge than formal archives.</p>
 <ul>
     <li>Stories from elders and family</li>
     <li>Religious teachings</li>
@@ -731,6 +774,7 @@
 </ul>
 
 <h4 id="q-s7-8">Which are most common in your world?</h4>
+<p class="hint">Consider how your characters learned the history they know. Songs? Grandparents' stories? Temple teachings?</p>
 <div class="writing-box"></div>
 
 
@@ -788,11 +832,15 @@
             <td>Magic (curse, sealing, etc.)</td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
         </tr>
@@ -803,11 +851,13 @@
 <!-- SECTION 7: ACCURACY & RELATIONSHIP TO PAST -->
 
 <h4 id="q-s7-14" class="mt-0">Are there ruins, artifacts, or fragments that hint at what's lost?</h4>
+<p class="hint">Physical remnants of the past create story opportunities: discoveries, quests, mysteries to solve.</p>
 <div class="writing-box"></div>
 
 <h2 id="s7-accuracy">How Accurate Is Historical Knowledge?</h2>
 
 <h4 id="q-s7-15">How much does your world actually know about its past?</h4>
+<p class="hint">The gap between what really happened and what people believe creates room for revelations that change everything.</p>
 
 <table class="input-table">
     <thead>
@@ -843,16 +893,6 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -861,6 +901,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s7-17">Are there historical "facts" everyone believes that might be wrong?</h4>
+<p class="hint">False histories create powerful plot reveals. What would it mean for your characters to learn the truth?</p>
 <div class="writing-box"></div>
 
 
@@ -871,6 +912,7 @@
 <p>Different cultures have different relationships with their history — some venerate it, some try to escape it, some barely think about it.</p>
 
 <h4 id="q-s7-18">What's your culture's attitude toward the past?</h4>
+<p class="hint">This shapes how your characters relate to tradition, change, and the weight of ancestral expectations.</p>
 
 <table class="input-table">
     <thead>
@@ -904,6 +946,7 @@
 </table>
 
 <h4 id="q-s7-19">Which describes your world (or different groups within it)?</h4>
+<p class="hint">Different groups may have different attitudes. Characters from different backgrounds may clash over what the past means.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-20">How do people interact with historical sites?</h4>
@@ -912,7 +955,7 @@
 
 <h4 id="q-s7-21">Do people venerate ancestors?</h4>
 <p class="hint">How? Shrines? Prayers? Consulting spirits? Obligation to fulfill their wishes?</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 
 <!-- SECTION 7: TIMELINE & DEFINING EVENT -->
@@ -975,6 +1018,7 @@
 </table>
 
 <h4 id="q-s7-23">Which layers matter for your story?</h4>
+<p class="hint">Focus on the eras that directly affect your characters' lives and relationships.</p>
 <div class="writing-box"></div>
 
 
@@ -983,6 +1027,7 @@
 <h2 class="mt-0" id="s7-shape-of-history">The Shape of History</h2>
 
 <h4 id="q-s7-24">What's the overall arc of your world's history?</h4>
+<p class="hint">The shape of history affects the mood of your world. Decline feels different from recovery or cycles.</p>
 
 <table class="input-table">
     <thead>
@@ -1027,6 +1072,7 @@
 </table>
 
 <h4 id="q-s7-25">Which describes your world?</h4>
+<p class="hint">You can combine patterns or note that different groups perceive different arcs.</p>
 <div class="writing-box"></div>
 
 <div class="divider"></div>
@@ -1040,6 +1086,7 @@
 <h3>The Defining Event</h3>
 
 <h4 id="q-s7-26">What single historical event most shaped the current world?</h4>
+<p class="hint">This is the event everyone references, the "before and after" that defines eras. How does it affect your characters?</p>
 
 
 <!-- SECTION 7: DEFINING EVENT & CONFLICTS -->
@@ -1079,16 +1126,6 @@
             <td>Long-term effects still felt today</td>
             <td></td>
             <td><em>Fae see humans as lesser; humans fear fae; the Wall shapes all politics; no one trusts the peace to last</em></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
     </tbody>
 </table>
@@ -1133,9 +1170,55 @@
 
 <h2 class="mt-0" id="s7-historical-conflicts">Historical Conflicts</h2>
 
+<h3>Reference: What Causes Wars & Conflicts</h3>
+
+<p class="hint">Use this list when you need a believable reason for historical (or current) conflict in your world.</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Conflict Triggers</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Resources</strong></td>
+            <td>Land, water, trade routes, magical resources, fertile territory, mining rights, access to the sea</td>
+        </tr>
+        <tr>
+            <td><strong>Power & Succession</strong></td>
+            <td>Disputed throne, rival claimants, power vacuum, assassination, broken alliance, betrayed treaty</td>
+        </tr>
+        <tr>
+            <td><strong>Religion & Ideology</strong></td>
+            <td>Heresy, forced conversion, holy sites, competing gods, prophecy fulfillment, religious persecution</td>
+        </tr>
+        <tr>
+            <td><strong>Identity & Culture</strong></td>
+            <td>Ethnic cleansing, cultural suppression, forbidden magic, species conflict, language bans, slavery</td>
+        </tr>
+        <tr>
+            <td><strong>Honor & Vengeance</strong></td>
+            <td>Blood feud, broken oath, unavenged murder, stolen bride, insulted ruler, desecrated sacred site</td>
+        </tr>
+        <tr>
+            <td><strong>Expansion & Fear</strong></td>
+            <td>Imperial ambition, preemptive strike, border incursion, refugee crisis, rising power threatens neighbors</td>
+        </tr>
+        <tr>
+            <td><strong>Magical Causes</strong></td>
+            <td>Magical plague, curse, prophecy, magical weapon discovered, ley line shift, forbidden magic unleashed</td>
+        </tr>
+    </tbody>
+</table>
+
+<p class="hint">Tip: The best conflicts have multiple causes. A war might start over resources but be remembered as religious.</p>
+
 <p>Wars and conflicts create lasting divisions. Even centuries later, people remember who fought whom.</p>
 
 <h4 id="q-s7-27">What major conflicts shaped your world?</h4>
+<p class="hint">Focus on conflicts relevant to your characters. Old wars create old resentments that live on in families and nations.</p>
 
 <table class="input-table">
     <thead>
@@ -1197,6 +1280,7 @@
 <p>Every history has its heroes, villains, and legendary names.</p>
 
 <h4 id="q-s7-32">Who are the great heroes everyone knows?</h4>
+<p class="hint">Heroes create expectations. Is your protagonist compared to one? Does the love interest idolize someone your protagonist's people consider a villain?</p>
 
 <table class="input-table">
     <thead>
@@ -1207,6 +1291,16 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Eiravel the Undying</td>
+            <td>United the warring kingdoms; died holding the mountain pass against the demon horde alone</td>
+            <td>Statues in every city square; invoked before battles; the standard all rulers are measured against</td>
+        </tr>
+        <tr class="example-row">
+            <td>Lady Morgaine Blackthorn</td>
+            <td>Defied the High Council to save her lover from execution; sparked the Rebellion of Roses</td>
+            <td>Controversial: traitor to some, symbol of love's power to others; her ballad still sung at weddings</td>
+        </tr>
         <tr>
             <td></td>
             <td></td>
@@ -1221,6 +1315,7 @@
 </table>
 
 <h4 id="q-s7-33">Who are the great villains?</h4>
+<p class="hint">Villains create cautionary tales. Is either character compared to a villain? What would it mean to be descended from one?</p>
 
 <table class="input-table">
     <thead>
@@ -1231,6 +1326,16 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>The Pale King</td>
+            <td>Broke the ancient compact; unleashed the Blight that killed half the continent</td>
+            <td>His name is never spoken aloud; his sealed tower still stands, forbidden</td>
+        </tr>
+        <tr class="example-row">
+            <td>Queen Seraphine the Betrayer</td>
+            <td>Poisoned the peace delegation; murdered her husband to seize sole power</td>
+            <td>Her portrait hangs reversed in the palace; her descendants changed their names</td>
+        </tr>
         <tr>
             <td></td>
             <td></td>
@@ -1262,6 +1367,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s7-37">Does this lost knowledge matter for your story?</h4>
+<p class="hint">Lost knowledge can drive plot: quests for artifacts, discoveries that change everything, forbidden knowledge that explains current problems.</p>
 <div class="writing-box"></div>
 
 
@@ -1427,6 +1533,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s7-40">What would it mean if the "other side's" history turned out to be true?</h4>
+<p class="hint">This is a powerful moment: discovering your people's heroes were villains, or that the enemy's grievances are justified.</p>
 <div class="writing-box"></div>
 
 <div class="divider"></div>
@@ -1436,6 +1543,7 @@
 <p>History that people alive can remember feels most immediate. This is where wounds are still fresh and stories are still contested.</p>
 
 <h4 id="q-s7-41">What major event happened within living memory (last 50-80 years)?</h4>
+<p class="hint">Events in living memory feel most immediate. Grandparents remember; wounds haven't healed; survivors still walk among us.</p>
 
 <table class="input-table">
     <thead>
@@ -1461,14 +1569,6 @@
             <td>How it shaped the current world</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1476,6 +1576,7 @@
 <!-- SECTION 7: FAMILY EFFECTS & STORIES -->
 
 <h4 id="q-s7-42" class="mt-0">How did this event affect your characters' families?</h4>
+<p class="hint">Personal family impact makes history feel real and creates specific, concrete reasons for enmity or alliance.</p>
 
 <table class="input-table">
     <thead>
@@ -1493,18 +1594,11 @@
             <td>Love Interest</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s7-43">Were their families on the same side or opposing sides?</h4>
+<p class="hint">Same side creates shared understanding; opposing sides creates the classic Romeo and Juliet tension.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-44">Does this recent history create conflict between them?</h4>
@@ -1526,9 +1620,11 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s7-46">What stories does your love interest's family tell?</h4>
+<p class="hint">Their family stories may complement, contradict, or directly oppose your protagonist's family mythology.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-47">How do these family stories shape who each character believes they should be?</h4>
+<p class="hint">We're shaped by the stories we inherit. What expectations do family legends place on your characters?</p>
 
 <table class="input-table">
     <thead>
@@ -1546,14 +1642,6 @@
             <td>Love Interest</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1565,10 +1653,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s7-49">What family story has each character never questioned — until now?</h4>
-<div class="writing-box"></div>
-
-<h4 id="q-s7-50-new">What story from the past does your character carry — whether or not it's true?</h4>
-<p class="hint">The tale that shaped who they are. The ancestor they're trying to live up to, or live down. The wrong that must be righted, the glory that must be restored, the shame that must stay buried. What version of history do they need to believe?</p>
+<p class="hint">Falling in love with the "wrong" person often forces us to question the stories we were raised on.</p>
 <div class="writing-box"></div>
 
 <div class="divider"></div>
@@ -1578,6 +1663,7 @@
 <p>Some objects hold the past — weapons that killed, rings that bound, letters that revealed truth. These objects make history tangible.</p>
 
 <h4 id="q-s7-50">What object from the past does your protagonist possess or know about?</h4>
+<p class="hint">Objects make history tangible. What heirloom, artifact, or memento connects your protagonist to the past?</p>
 
 <table class="input-table">
     <thead>
@@ -1597,14 +1683,6 @@
         </tr>
         <tr>
             <td>What it means to them</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1614,6 +1692,7 @@
 <!-- SECTION 7: HEIRLOOMS CONTINUED -->
 
 <h4 id="q-s7-51" class="mt-0">What about your love interest?</h4>
+<p class="hint">Their heirloom may connect to your protagonist's, or reveal history from the "other side."</p>
 
 <table class="input-table">
     <thead>
@@ -1633,14 +1712,6 @@
         </tr>
         <tr>
             <td>What it means to them</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1672,9 +1743,11 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s7-56">What ideals did they establish? Are those ideals still honored or corrupted?</h4>
+<p class="hint">The gap between founding ideals and current reality creates tension your characters might exploit or embody.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-57">Was there a golden age that fell?</h4>
+<p class="hint">Fallen golden ages create nostalgia, decline narratives, and dreams of restoration that can shape your romance.</p>
 
 <table class="input-table">
     <thead>
@@ -1700,14 +1773,6 @@
             <td>What was lost</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1723,6 +1788,7 @@
 <h2 id="s7-wars-romance">Wars & Conflicts That Affect Your Romance</h2>
 
 <h4 id="q-s7-59">What major conflict most directly affects your romance?</h4>
+<p class="hint">Focus on the conflict that created the enmity, separation, or forbidden status affecting your characters.</p>
 
 <table class="input-table">
     <thead>
@@ -1756,24 +1822,18 @@
             <td>Consequences</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s7-60">Are their families/nations/species on opposing sides of this conflict?</h4>
+<p class="hint">Opposing sides creates the classic enemies-to-lovers setup rooted in history, not personal enmity.</p>
 <div class="writing-box"></div>
 
 
 <!-- SECTION 7: WARS CONTINUED & GENERATIONAL TRAUMA -->
 
 <h4 id="q-s7-61" class="mt-0">Are there still active hostilities, or is this a cold peace?</h4>
+<p class="hint">Active conflict raises immediate stakes; cold peace allows for secret meetings but the danger of reigniting war.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-62">What would it mean for them to be together despite this history?</h4>
@@ -1798,9 +1858,11 @@
 <!-- SECTION 7: GENERATIONAL TRAUMA CONTINUED -->
 
 <h4 id="q-s7-65" class="mt-0">What historical trauma does your love interest carry?</h4>
+<p class="hint">Their trauma may complement, mirror, or directly conflict with your protagonist's inherited wounds.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-66">How does it manifest in them?</h4>
+<p class="hint">Trauma shows in behavior: avoidance, triggers, fierce protectiveness, distrust of certain people.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-67">If their traumas come from the same event but opposite sides, how do they navigate that?</h4>
@@ -1819,6 +1881,7 @@
 <p>Some historical events are too terrible to be simply "past." Atrocities leave marks that last for generations.</p>
 
 <h4 id="q-s7-69">Did either side in historical conflicts commit atrocities?</h4>
+<p class="hint">Atrocities create wounds that don't heal with time. They raise questions of guilt, responsibility, and whether forgiveness is possible.</p>
 
 <table class="input-table">
     <thead>
@@ -1840,18 +1903,11 @@
             <td>Who suffered</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s7-70">How is this remembered?</h4>
+<p class="hint">Perpetrators and victims remember differently. Understanding both perspectives deepens your enemies-to-lovers tension.</p>
 
 <table class="input-table">
     <thead>
@@ -1869,21 +1925,15 @@
             <td>By the victims</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s7-71">Is this atrocity acknowledged, denied, justified, or forgotten?</h4>
+<p class="hint">How society handles atrocity shapes whether your characters can discuss it openly or must navigate denial and silence.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-72">Does one character carry guilt for ancestors' actions? Does the other carry rage for ancestors' suffering?</h4>
+<p class="hint">Inherited guilt and rage create one of the most complex emotional obstacles in enemies-to-lovers romance.</p>
 <div class="writing-box"></div>
 
 
@@ -1894,6 +1944,7 @@
 <p>Every culture tells stories about love — the great romances, the tragic affairs, the cautionary tales. Your characters may be compared to these legendary couples, expected to follow their path or warned against it. If everyone knows how the story ends, your characters are fighting not just their own obstacles but the expectation that they'll end the same way.</p>
 
 <h4 id="q-s7-73">What famous love story does your culture tell?</h4>
+<p class="hint">Legendary couples create templates and expectations. Your characters may be compared to them favorably or as a warning.</p>
 
 <table class="input-table">
     <thead>
@@ -1924,16 +1975,6 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1945,6 +1986,7 @@
 <!-- SECTION 7: LEGENDARY LOVERS CONTINUED -->
 
 <h4 id="q-s7-75" class="mt-0">Do people compare your characters to legendary lovers?</h4>
+<p class="hint">Being compared to famous lovers creates pressure: will they end the same way? Can they escape the pattern?</p>
 
 <table class="input-table">
     <thead>
@@ -1966,18 +2008,11 @@
             <td>Is it meant as compliment, warning, or accusation</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s7-76">How do your characters feel about being compared to this couple?</h4>
+<p class="hint">They may embrace the comparison, resent it, fear it, or use it strategically.</p>
 
 <table class="input-table">
     <thead>
@@ -1993,14 +2028,6 @@
         </tr>
         <tr>
             <td>Love Interest</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -2020,6 +2047,7 @@
 <h2 class="mt-0" id="s7-escaping-legend">Living Up to — or Escaping — the Legend</h2>
 
 <h4 id="q-s7-79">Is either character descended from a famous historical figure?</h4>
+<p class="hint">Famous ancestry creates expectations and obligations. It can also create enmity if one's ancestor harmed the other's people.</p>
 
 <table class="input-table">
     <thead>
@@ -2041,18 +2069,11 @@
             <td>What's expected of them</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s7-80">Does either character hold a position once held by someone legendary?</h4>
+<p class="hint">Inheriting a legendary role means living in someone's shadow. Did the predecessor succeed or fail? Love or lose?</p>
 
 <table class="input-table">
     <thead>
@@ -2078,14 +2099,6 @@
             <td>The shadow this casts</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -2101,6 +2114,7 @@
 <p>Sometimes the most important history is hidden.</p>
 
 <h4 id="q-s7-82">Is there a historical truth that's been suppressed or rewritten?</h4>
+<p class="hint">Hidden history creates mystery and revelation. What would change if your characters discovered the truth?</p>
 
 <table class="input-table">
     <thead>
@@ -2120,14 +2134,6 @@
         </tr>
         <tr>
             <td>Who suppressed it and why</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -2173,24 +2179,19 @@
             <td>How it ended</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s7-88">Do people compare your characters to this historical precedent?</h4>
+<p class="hint">Comparison creates pressure and expectation. People may assume they know how this will end.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-89">Are they doomed to repeat history, or determined to break the cycle?</h4>
+<p class="hint">This tension drives many romantasy plots: can love transcend patterns that have played out before?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-90">What would breaking the cycle require?</h4>
+<p class="hint">Different choices, different circumstances, or something fundamentally different about these two people.</p>
 <div class="writing-box"></div>
 
 
@@ -2201,6 +2202,7 @@
 <p>If your world has immortals or ancient beings, they remember history firsthand — they don't just know about the old war, they fought in it.</p>
 
 <h4 id="q-s7-91">Is either of your characters a long-lived being?</h4>
+<p class="hint">Immortals carry history in their living memory. They don't just know about the past; they lived it.</p>
 
 <table class="input-table">
     <thead>
@@ -2220,14 +2222,6 @@
         </tr>
         <tr>
             <td>What history they've lived through</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -2262,14 +2256,6 @@
             <td>Do they see the mortal as another loss waiting to happen?</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -2298,14 +2284,6 @@
             <td>Are they aware of their own mortality in the relationship?</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -2331,6 +2309,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s7-96">What reputation does their family name carry?</h4>
+<p class="hint">Names carry weight. Does their family name open doors or close them? Inspire trust or fear?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-97">What obligations do they inherit?</h4>
@@ -2338,12 +2317,14 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s7-98">What did your love interest's ancestors do that affects them now?</h4>
+<p class="hint">Their ancestral legacy may conflict with or complement your protagonist's inheritance.</p>
 <div class="writing-box"></div>
 
 
 <!-- SECTION 7: ANCESTRAL LEGACIES & BLOODLINE -->
 
 <h4 id="q-s7-99" class="mt-0">What reputation does their family carry?</h4>
+<p class="hint">Consider how the families' reputations interact. Does one family's honor threaten the other's?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s7-100">Do ancestral legacies put them in conflict?</h4>
@@ -2359,6 +2340,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s7-102">What does each character's bloodline mean?</h4>
+<p class="hint">Heritage can grant powers, social standing, obligations, or curses that affect the relationship.</p>
 
 <table class="input-table">
     <thead>
@@ -2376,14 +2358,6 @@
             <td>Love Interest</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -2399,6 +2373,7 @@
 <p>Places where history happened carry weight. Returning to them makes the past present.</p>
 
 <h4 id="q-s7-104">What historical places matter for your story?</h4>
+<p class="hint">Places where history happened become charged settings. Returning to them brings the past into the present.</p>
 
 <table class="input-table">
     <thead>
@@ -2458,14 +2433,6 @@
             <td>Could understanding history change how people view your characters' relationship?</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -2512,14 +2479,6 @@
         </tr>
         <tr>
             <td>How history resolves</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>

@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -286,11 +287,11 @@
             background: white;
             padding: 15px 20px;
             margin: 1rem 0 1.5rem 0;
-            min-height: 120px;
+            min-height: 80px;
             break-inside: avoid;
         }
-        .writing-box.large { min-height: 180px; }
-        .writing-box.small { min-height: 80px; }
+        .writing-box.large { min-height: 120px; }
+        .writing-box.small { min-height: 50px; }
         .writing-box-label {
             font-family: var(--font-display);
             font-size: 0.65rem;
@@ -341,8 +342,6 @@
             border: 1px solid #1a1515;
         }
         td {
-            min-height: 40px;
-            height: 40px;
             padding: 12px 15px;
             border: 1px solid #1a1515;
             vertical-align: top;
@@ -350,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -427,7 +451,6 @@
         .mb-2 { margin-bottom: 1rem; }
         .text-center { text-align: center; }
         .text-muted { color: var(--color-text-muted); }
-        .break-before { break-before: page; }
         @media screen {
             body { background: #e5e1da; padding: 20px; }
             .pagedjs_page { box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 20px; }
@@ -456,6 +479,246 @@
 <p>The key is understanding: What language barriers exist between your characters? What private communication methods do they develop? What does learning each other's language mean for intimacy?</p>
 
 <p>Don't build elaborate linguistic systems for their own sake. Build language that serves your story: misunderstandings that lead to clarity, private words only they understand, the vulnerability of teaching and learning.</p>
+
+
+<!-- REFERENCE: SOFT VS HARD MAGIC SYSTEMS -->
+
+<h2 id="s8-soft-hard-magic">Soft vs Hard Magic Systems</h2>
+
+<p>Your magic doesn't have to fit neatly into one category—most systems fall somewhere in between. But understanding this spectrum helps you use magic well in your story.</p>
+
+<h3>The Spectrum</h3>
+
+<p><strong>Hard magic</strong> has clear rules that readers can learn. When your character solves a problem with magic, it feels earned because the reader saw it coming. <strong>Soft magic</strong> stays mysterious. It creates wonder and atmosphere rather than puzzles to solve.</p>
+
+<p>The key question: How much do your readers need to understand for your plot to work?</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Aspect</th>
+            <th>Hard Magic</th>
+            <th>Soft Magic</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Rules</td>
+            <td>Clearly defined, consistent</td>
+            <td>Vague, mysterious</td>
+        </tr>
+        <tr>
+            <td>Limitations</td>
+            <td>Built into the system</td>
+            <td>Often external (cost, taboo)</td>
+        </tr>
+        <tr>
+            <td>Problem-solving</td>
+            <td>Strategic use of rules</td>
+            <td>Symbolic, emotional</td>
+        </tr>
+        <tr>
+            <td>Examples</td>
+            <td>Avatar, Mistborn</td>
+            <td>LOTR, fairy tales</td>
+        </tr>
+    </tbody>
+</table>
+
+<p class="hint">Most stories blend both approaches. Your protagonist might use a hard magic system while encountering soft, mysterious magic from ancient sources or other cultures. The key is consistency: if your magic solves problems, readers need to understand its rules first.</p>
+
+
+<!-- REFERENCE: TYPES OF MAGIC SYSTEMS -->
+
+<h2 id="s8-magic-types">Types of Magic Systems</h2>
+
+<p>You don't have to reinvent magic from scratch. These common archetypes give you a starting point.</p>
+
+<p>Feel free to combine them—most interesting systems do.</p>
+
+<ul>
+    <li><strong>Elemental</strong> — Magic tied to natural forces (fire, water, earth, air) or their combinations</li>
+    <li><strong>Hereditary/Bloodline</strong> — Magic passed genetically through family lines; often tied to ancestry or species</li>
+    <li><strong>Incantation-based</strong> — Power accessed through spoken spells, words of power, or specific phrases</li>
+    <li><strong>Ritual magic</strong> — Magic requiring ceremonies, specific timing, sacrifices, or group participation</li>
+    <li><strong>Tool-based</strong> — Magic channeled through wands, staffs, artifacts, or enchanted objects</li>
+    <li><strong>Divine/Gifted</strong> — Power granted by gods, spirits, or higher beings; may require faith or service</li>
+    <li><strong>Innate/Wild</strong> — Magic one is born with, often uncontrolled or instinctive; may require training to master</li>
+    <li><strong>Learned/Academic</strong> — Magic studied like a science or craft; requires education and practice</li>
+    <li><strong>Sympathetic/Contagion</strong> — Magic where like affects like, or contact creates connection (voodoo dolls, true names)</li>
+    <li><strong>Soul/Life-force based</strong> — Magic that costs vitality, lifespan, or spiritual energy to cast</li>
+</ul>
+
+<p class="hint">Consider which types exist in your world, who has access to each, and what combining types might mean for your characters.</p>
+
+
+<!-- REFERENCE: SPELLS & POWERS TRACKER -->
+
+<h2 id="s8-spells-tracker">Your Character's Spells & Powers</h2>
+
+<p>If your characters use specific spells, abilities, or powers, it helps to track them. This keeps your magic consistent and reminds you what tools your protagonist has available.</p>
+
+<p>You don't need to fill every row. Start with the abilities that matter most to your story. Add more as they develop.</p>
+
+<h4>Protagonist's Magical Abilities</h4>
+<p class="hint">Track your protagonist's powers, how they work, and what they cost. This prevents inconsistencies and helps you plan dramatic moments.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Ability/Spell</th>
+            <th>What It Does</th>
+            <th>Cost/Limitation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Shadow-step</td>
+            <td>Move instantly between shadows within sight</td>
+            <td>Exhausting; can't carry others; fails in full sunlight</td>
+        </tr>
+        <tr class="example-row">
+            <td>Pain-reading</td>
+            <td>Sense others' physical injuries through touch</td>
+            <td>Feels echoes of their pain; overwhelming in crowds</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4>Love Interest's Magical Abilities</h4>
+<p class="hint">Knowing both characters' abilities helps you plan how their powers might complement, clash, or create tension.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Ability/Spell</th>
+            <th>What It Does</th>
+            <th>Cost/Limitation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4>Abilities They Haven't Discovered Yet</h4>
+<p class="hint">Powers that will emerge later in the story. Planning these helps you foreshadow them earlier.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th>Character</th>
+            <th>Hidden Ability</th>
+            <th>When/How It Emerges</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 
 <!-- SECTION 8: MINI-TOC -->
@@ -529,6 +792,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s8-2">What are the major languages?</h4>
+<p class="hint">Consider who speaks each language, its cultural prestige, and whether knowing it grants access or marks someone as an outsider.</p>
 
 <table class="input-table">
     <thead>
@@ -539,6 +803,21 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Common Tongue</td>
+            <td>Everyone in the human kingdoms; traders from other realms</td>
+            <td>Common — the language of commerce and daily life; considered unsophisticated by nobles</td>
+        </tr>
+        <tr class="example-row">
+            <td>High Fae</td>
+            <td>The Fae courts; human scholars and diplomats who've studied it</td>
+            <td>Prestigious — spoken at court; magical contracts must be written in it to be binding</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
         <tr>
             <td></td>
             <td></td>
@@ -549,7 +828,17 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -559,6 +848,7 @@
 <p class="hint">Status options: common, prestigious, forbidden, sacred, trade, etc.</p>
 
 <h4 id="q-s8-3">Is there a common/trade language most people speak?</h4>
+<p class="hint">What does using this language signal about a speaker? Does your protagonist rely on it or resist it?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s8-4">Are there trade pidgins or mixed languages?</h4>
@@ -589,6 +879,7 @@
 <p>If your characters don't share a first language, you have built-in tension.</p>
 
 <h4 id="q-s8-8">What languages does your protagonist speak?</h4>
+<p class="hint">How did they learn each one? What doors does their linguistic knowledge open or close?</p>
 
 <table class="input-table">
     <thead>
@@ -606,11 +897,15 @@
             <td>Other languages and fluency</td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
         </tr>
@@ -621,6 +916,7 @@
 <!-- SECTION 8: LANGUAGE BARRIERS CONTINUED -->
 
 <h4 id="q-s8-9" class="mt-0">What languages does your love interest speak?</h4>
+<p class="hint">Do they share a language with the protagonist, or will communication itself become part of their journey together?</p>
 
 <table class="input-table">
     <thead>
@@ -636,14 +932,6 @@
         </tr>
         <tr>
             <td>Other languages and fluency</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -664,6 +952,7 @@
 <p>If characters need translation, a third party enters their relationship.</p>
 
 <h4 id="q-s8-12">Do your characters ever need a translator?</h4>
+<p class="hint">A third party in their communication creates both vulnerability and opportunity for misunderstanding.</p>
 
 <table class="input-table">
     <thead>
@@ -679,14 +968,6 @@
         </tr>
         <tr>
             <td>How trustworthy are they</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -719,6 +1000,7 @@
 <!-- SECTION 8: FIRST WORDS & VOICE -->
 
 <h4 id="q-s8-17" class="mt-0">What word or phrase does the protagonist learn first from the love interest?</h4>
+<p class="hint">First words carry weight. Is it practical, accidental, or something that reveals character?</p>
 
 <table class="input-table">
     <thead>
@@ -738,20 +1020,13 @@
         </tr>
         <tr>
             <td>Context of learning it</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
 </table>
 
 <h4 id="q-s8-18">What word or phrase does the love interest learn first from the protagonist?</h4>
+<p class="hint">What does their choice to learn this particular word reveal about what they notice or value?</p>
 
 <table class="input-table">
     <thead>
@@ -771,14 +1046,6 @@
         </tr>
         <tr>
             <td>Context of learning it</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -800,9 +1067,11 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s8-21">What does your love interest's voice sound like?</h4>
+<p class="hint">Think beyond pitch - consider texture, rhythm, what emotions color their speech, and how your protagonist experiences hearing them.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s8-22">What does each character notice about the other's voice?</h4>
+<p class="hint">What they notice reveals what draws them - the catch in a breath, the way anger sounds, the softening when they speak to each other.</p>
 
 <table class="input-table">
     <thead>
@@ -818,14 +1087,6 @@
         </tr>
         <tr>
             <td>Love interest notices</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -851,6 +1112,7 @@
 <h2 id="s8-accents">Accents, Dialects & Class Markers</h2>
 
 <h4 id="q-s8-26">Do different regions have distinct accents or dialects?</h4>
+<p class="hint">Accents reveal origin - and in romantasy, they can mark characters as belonging or outsider, noble or common, trustworthy or suspicious.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s8-27">Does accent mark social class?</h4>
@@ -861,6 +1123,7 @@
 <!-- SECTION 8: CHARACTER SPEECH -->
 
 <h4 id="q-s8-28" class="mt-0">How does your protagonist speak?</h4>
+<p class="hint">Speech patterns reveal history. Does their accent betray origins they try to hide, or signal status they want others to recognize?</p>
 
 <table class="input-table">
     <thead>
@@ -876,20 +1139,13 @@
         </tr>
         <tr>
             <td>What it reveals about their background</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
 </table>
 
 <h4 id="q-s8-29">How does your love interest speak?</h4>
+<p class="hint">Consider how their speech marks them in your world - and what the protagonist notices about it that others might miss.</p>
 
 <table class="input-table">
     <thead>
@@ -905,14 +1161,6 @@
         </tr>
         <tr>
             <td>What it reveals about their background</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -950,14 +1198,6 @@
         </tr>
         <tr>
             <td>Love interest doesn't say</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1009,14 +1249,6 @@
             <td>Love interest</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1039,14 +1271,6 @@
             <td>Love interest's tells</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1054,6 +1278,7 @@
 <!-- SECTION 8: CATCHING LIES & OVERHEARING -->
 
 <h4 id="q-s8-40" class="mt-0">When does one catch the other in a lie?</h4>
+<p class="hint">The moment of catching a lie is pivotal. What does it cost the relationship - and what does confronting (or not confronting) it reveal?</p>
 
 <table class="input-table">
     <thead>
@@ -1075,14 +1300,6 @@
             <td>What happened</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1101,6 +1318,7 @@
 <p>Sometimes we learn most from conversations not meant for us.</p>
 
 <h4 id="q-s8-43">Does either character overhear something significant?</h4>
+<p class="hint">Overheard words carry different weight than words spoken directly. They can confirm fears, offer unexpected hope, or create devastating misunderstandings.</p>
 
 <table class="input-table">
     <thead>
@@ -1122,14 +1340,6 @@
             <td>Who was speaking (and to whom)</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1141,6 +1351,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s8-45">Does the speaker know they were overheard?</h4>
+<p class="hint">The asymmetry of knowledge creates tension. Does the listener reveal what they know, or carry it as a secret?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s8-46">Is there something one character says about the other when they think they're not listening?</h4>
@@ -1158,6 +1369,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s8-48">What does the love interest learn to read in the protagonist?</h4>
+<p class="hint">The small signs only they notice - the tells that reveal mood, need, or hidden feeling beneath a composed surface.</p>
 <div class="writing-box"></div>
 
 
@@ -1196,14 +1408,6 @@
             <td>Love interest</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1226,14 +1430,6 @@
             <td>Love interest</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1241,6 +1437,7 @@
 <!-- SECTION 8: ARGUMENTS CONTINUED & LITERACY -->
 
 <h4 id="q-s8-53" class="mt-0">What's a fight they have?</h4>
+<p class="hint">Real conflict reveals character. What triggers it, what gets said that can't be unsaid, and how does the aftermath shape them?</p>
 
 <table class="input-table">
     <thead>
@@ -1262,14 +1459,6 @@
             <td>How it ends</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1278,6 +1467,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s8-55">What do they learn about each other through conflict?</h4>
+<p class="hint">Arguments can deepen understanding as much as gentle moments. What truths emerge only when defenses are down?</p>
 <div class="writing-box"></div>
 
 <div class="divider"></div>
@@ -1285,6 +1475,7 @@
 <h2 id="s8-literacy">Literacy & Written Language</h2>
 
 <h4 id="q-s8-56">What writing systems exist?</h4>
+<p class="hint">Alphabets, pictographs, magical scripts - consider whether different cultures share writing systems and what that implies for communication.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s8-57">How common is literacy?</h4>
@@ -1295,6 +1486,7 @@
 <!-- SECTION 8: LITERACY & LETTERS -->
 
 <h4 id="q-s8-58" class="mt-0">Can your characters read and write?</h4>
+<p class="hint">Literacy can be a source of power, shame, or connection. How does each character's relationship to written language shape their world?</p>
 
 <table class="input-table">
     <thead>
@@ -1312,14 +1504,6 @@
             <td>Love interest</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1332,6 +1516,7 @@
 <h2 id="s8-letters">Letters & Written Communication</h2>
 
 <h4 id="q-s8-60">Do your characters exchange letters or written messages?</h4>
+<p class="hint">Written words can be kept, hidden, reread, discovered. What can they say on paper that they cannot say aloud?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s8-61">What's the significance of written communication?</h4>
@@ -1350,6 +1535,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s8-64">What do they write that they couldn't say?</h4>
+<p class="hint">The distance of pen and paper sometimes makes confession possible. What truths emerge only in writing?</p>
 <div class="writing-box"></div>
 
 <div class="divider"></div>
@@ -1383,18 +1569,11 @@
             <td>Who has access</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s8-66">Do your characters use magical communication?</h4>
+<p class="hint">Magical methods can create instant connection or bypass barriers - but they may also be monitored, traced, or have their own costs.</p>
 
 <table class="input-table">
     <thead>
@@ -1412,14 +1591,6 @@
             <td>When they use it</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1427,9 +1598,11 @@
 <!-- SECTION 8: MAGICAL COMMUNICATION & SACRED LANGUAGES -->
 
 <h4 id="q-s8-67" class="mt-0">Is magical communication private, or can it be intercepted?</h4>
+<p class="hint">The belief that communication is private changes what people say. What happens if that privacy is an illusion?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s8-68">What can they say magically that they can't say aloud?</h4>
+<p class="hint">When magic provides a private channel, what becomes possible? Confessions in the dark, words across distance, thoughts too dangerous to speak.</p>
 <div class="writing-box"></div>
 
 <div class="divider"></div>
@@ -1437,6 +1610,7 @@
 <h2 id="s8-sacred">Sacred, Secret & Forbidden Languages</h2>
 
 <h4 id="q-s8-69">Are there languages that are sacred, secret, or forbidden?</h4>
+<p class="hint">Restricted languages carry power - knowing them can mark someone as chosen, criminal, or dangerous. Who guards these tongues?</p>
 
 <table class="input-table">
     <thead>
@@ -1456,14 +1630,6 @@
         </tr>
         <tr>
             <td>Why it's special</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1493,6 +1659,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s8-74">Do your characters have true names different from common names?</h4>
+<p class="hint">A true name given is ultimate vulnerability. What would it mean for your protagonist to share - or withhold - this from their love interest?</p>
 
 <table class="input-table">
     <thead>
@@ -1513,20 +1680,11 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s8-75">When does one learn the other's true name?</h4>
+<p class="hint">This moment marks a turning point. Is it freely given or discovered? What changes when this knowledge passes between them?</p>
 
 <table class="input-table">
     <thead>
@@ -1544,14 +1702,6 @@
             <td>What it means for their relationship</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1561,6 +1711,7 @@
 <h2 class="mt-0" id="s8-address">Forms of Address & Shifting Intimacy</h2>
 
 <h4 id="q-s8-76">What forms of address exist?</h4>
+<p class="hint">Titles, honorifics, and familiar names create layers of intimacy. The shift from formal to informal often marks a relationship's evolution.</p>
 
 <table class="input-table">
     <thead>
@@ -1580,14 +1731,6 @@
         </tr>
         <tr>
             <td>Intimate (pet names, private names)</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1616,14 +1759,6 @@
             <td>When the shift happens</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1632,6 +1767,7 @@
 <h2 id="s8-code">Code, Cipher & Private Language</h2>
 
 <h4 id="q-s8-78">Do your characters develop a code or private language?</h4>
+<p class="hint">Inside jokes, meaningful glances, words that mean something only to them - private language marks a unique bond.</p>
 
 <table class="input-table">
     <thead>
@@ -1653,14 +1789,6 @@
             <td>When they first use it</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1670,6 +1798,7 @@
 <h2 class="mt-0" id="s8-words-love">Words for Love</h2>
 
 <h4 id="q-s8-79">What words express love or affection in your world's languages?</h4>
+<p class="hint">Endearments carry cultural weight. Are they common or reserved? What does using - or avoiding - such words reveal?</p>
 
 <table class="input-table">
     <thead>
@@ -1687,14 +1816,6 @@
             <td>More intimate or private words</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1703,6 +1824,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s8-81">What's the first affectionate thing one says in the other's language?</h4>
+<p class="hint">Learning to say something tender in someone else's tongue is an act of reaching across distance. What makes this moment significant?</p>
 
 <table class="input-table">
     <thead>
@@ -1720,14 +1842,6 @@
             <td>How the other reacts</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1741,6 +1855,7 @@
 <h2 class="mt-0" id="s8-misunderstanding">Misunderstanding & Clarity</h2>
 
 <h4 id="q-s8-83">What misunderstanding occurs because of language barriers?</h4>
+<p class="hint">Language gaps create room for confusion, comedy, or heartbreak. What gets lost in translation between your characters?</p>
 
 <table class="input-table">
     <thead>
@@ -1756,14 +1871,6 @@
         </tr>
         <tr>
             <td>How it's resolved</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1795,14 +1902,6 @@
         </tr>
         <tr>
             <td>How does language interact with magic (from Part 1)?</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1859,14 +1958,6 @@
         </tr>
         <tr>
             <td>The true name revelation (if applicable)</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>

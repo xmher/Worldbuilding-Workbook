@@ -147,6 +147,7 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
+            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -286,11 +287,11 @@
             background: white;
             padding: 15px 20px;
             margin: 1rem 0 1.5rem 0;
-            min-height: 120px;
+            min-height: 80px;
             break-inside: avoid;
         }
-        .writing-box.large { min-height: 180px; }
-        .writing-box.small { min-height: 80px; }
+        .writing-box.large { min-height: 120px; }
+        .writing-box.small { min-height: 50px; }
         .writing-box-label {
             font-family: var(--font-display);
             font-size: 0.65rem;
@@ -341,8 +342,6 @@
             border: 1px solid #1a1515;
         }
         td {
-            min-height: 40px;
-            height: 40px;
             padding: 12px 15px;
             border: 1px solid #1a1515;
             vertical-align: top;
@@ -350,6 +349,31 @@
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -427,7 +451,6 @@
         .mb-2 { margin-bottom: 1rem; }
         .text-center { text-align: center; }
         .text-muted { color: var(--color-text-muted); }
-        .break-before { break-before: page; }
         @media screen {
             body { background: #e5e1da; padding: 20px; }
             .pagedjs_page { box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 20px; }
@@ -598,6 +621,7 @@
 </table>
 
 <h4 id="q-s6-1">Which describes your world?</h4>
+<p class="hint">Your choice shapes how faith functions in your story and what religious doubt or devotion means for your characters.</p>
 <div class="writing-box"></div>
 
 
@@ -608,6 +632,7 @@
 <p>This changes everything. In a world where gods visibly answer prayers, atheism is unreasonable. In a world where they don't, devout faith is a choice — admirable or foolish depending on perspective.</p>
 
 <h4 id="q-s6-2">What's the divine reality of your world?</h4>
+<p class="hint">Whether gods are real and active affects how your characters relate to faith and what divine intervention might mean for their romance.</p>
 
 <table class="input-table">
     <thead>
@@ -641,6 +666,7 @@
 </table>
 
 <h4 id="q-s6-3">Which describes your world?</h4>
+<p class="hint">The answer changes everything about how characters experience faith and what defying religious rules might cost.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s6-4">If gods are real, what can they actually do?</h4>
@@ -657,6 +683,47 @@
 <div class="divider"></div>
 
 <h2 id="s6-deities">Major Deities & Powers</h2>
+
+<h3>Reference: Deity Domains & Aspects</h3>
+
+<p class="hint">Use this list for inspiration when creating gods. Pick domains that create story opportunities.</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Possible Domains</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Nature & Elements</strong></td>
+            <td>Sun, moon, stars, storms, sea, earth, fire, harvest, seasons, animals, forests, rivers</td>
+        </tr>
+        <tr>
+            <td><strong>Life & Death</strong></td>
+            <td>Birth, fertility, healing, plague, death, the afterlife, ancestors, rebirth, dreams</td>
+        </tr>
+        <tr>
+            <td><strong>Human Affairs</strong></td>
+            <td>Love, marriage, family, war, peace, justice, vengeance, merchants, travelers, thieves</td>
+        </tr>
+        <tr>
+            <td><strong>Knowledge & Craft</strong></td>
+            <td>Wisdom, prophecy, secrets, magic, smithing, weaving, music, poetry, writing, time</td>
+        </tr>
+        <tr>
+            <td><strong>Abstract Concepts</strong></td>
+            <td>Fate, fortune, chaos, order, truth, lies, beauty, boundaries, thresholds, oaths</td>
+        </tr>
+        <tr>
+            <td><strong>Emotions & States</strong></td>
+            <td>Joy, grief, rage, fear, madness, ecstasy, courage, despair, hope, desire</td>
+        </tr>
+    </tbody>
+</table>
+
+<p class="hint">Tip: Gods with overlapping domains create pantheon politics. A god of war and a god of death might compete for soldiers' prayers.</p>
 
 <p>Identify the gods or spiritual forces that exist in your world. Focus on those relevant to your story — you don't need a complete pantheon, just the ones who matter.</p>
 
@@ -695,16 +762,6 @@
             <td>What they offer in return</td>
             <td></td>
             <td><em>Magic (for those who can channel it), community, purpose, afterlife</em></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
     </tbody>
 </table>
@@ -748,16 +805,6 @@
             <td></td>
             <td><em>Nothing but the end of suffering (through annihilation)</em></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -771,6 +818,26 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Name</td>
+            <td>Seluris, the Silver Lady — goddess of twilight, secrets, and forbidden love</td>
+        </tr>
+        <tr class="example-row">
+            <td>Domain</td>
+            <td>The liminal spaces: dusk and dawn, doorways and crossroads, love that defies boundaries</td>
+        </tr>
+        <tr class="example-row">
+            <td>Personality/nature</td>
+            <td>Mysterious, neither cruel nor kind; favors those who risk everything for what they desire</td>
+        </tr>
+        <tr class="example-row">
+            <td>What they demand</td>
+            <td>A secret kept, a vow made in moonlight; she does not ask for worship, only authenticity</td>
+        </tr>
+        <tr class="example-row">
+            <td>What they offer</td>
+            <td>Safe passage through dangerous transitions; blessings on unions the world condemns</td>
+        </tr>
         <tr>
             <td>Name</td>
             <td></td>
@@ -791,11 +858,15 @@
             <td>What they offer</td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
         </tr>
@@ -816,6 +887,7 @@
 <h3>Religious Organizations</h3>
 
 <h4 id="q-s6-7">What religious institutions exist?</h4>
+<p class="hint">Focus on institutions that could affect your romance: those that might forbid, bless, or complicate your characters' relationship.</p>
 
 <table class="input-table">
     <thead>
@@ -845,10 +917,29 @@
             <td></td>
             <td></td>
         </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s6-8">Who leads religious institutions?</h4>
+<p class="hint">These leaders may become allies or antagonists. Consider who holds power to help or harm your characters' relationship.</p>
 
 <table class="input-table">
     <thead>
@@ -877,18 +968,6 @@
             <td></td>
             <td></td>
             <td><em>Priests — trained in seminaries, assigned to parishes, conduct daily services</em></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
     </tbody>
 </table>
@@ -928,6 +1007,7 @@
 <p>Religion isn't just institutions and doctrine — it's the small daily acts that structure believers' lives. Knowing what ordinary religious practice looks like helps you write characters who feel genuinely devout or genuinely lapsed.</p>
 
 <h4 id="q-s6-13">What religious practices are part of daily life?</h4>
+<p class="hint">Daily practices make faith feel real on the page. What rituals would your characters perform automatically, or deliberately skip?</p>
 
 <table class="input-table">
     <thead>
@@ -938,6 +1018,16 @@
         </tr>
     </thead>
     <tbody>
+        <tr class="example-row">
+            <td>Morning observance</td>
+            <td>At sunrise, facing east</td>
+            <td>Touch the heart and lips, whisper a prayer of gratitude for the new day</td>
+        </tr>
+        <tr class="example-row">
+            <td>Meal rituals</td>
+            <td>Before the first bite</td>
+            <td>Leave a small portion aside for the ancestors; eating it is deeply disrespectful</td>
+        </tr>
         <tr>
             <td>Morning observance</td>
             <td></td>
@@ -958,12 +1048,17 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -980,6 +1075,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s6-16">How do people mark sacred vs. ordinary time or space?</h4>
+<p class="hint">Thresholds between sacred and ordinary create charged moments. What changes when your characters cross into holy ground or holy time?</p>
 <div class="writing-box"></div>
 
 
@@ -990,6 +1086,7 @@
 <p>Religion governs time. Holy days, sacred seasons, periods of fasting or celebration — these rhythms structure the year and create occasions where religious expectations are heightened.</p>
 
 <h4 id="q-s6-17">What major holy days exist?</h4>
+<p class="hint">Holy days create story opportunities: festivals where rules relax, sacred days when forbidden love feels more transgressive, rituals that bring characters together.</p>
 
 <table class="input-table">
     <thead>
@@ -1038,6 +1135,7 @@
 <p><strong>How to write it:</strong> A sacred space should feel different from the moment of entry. The quality of silence, the smell of incense or old stone, the way sound behaves differently. Show characters adjusting their behavior unconsciously: lowering voices, slowing steps, becoming physically smaller or more careful. Let the space impose rules without anyone stating them — the devout character knows to genuflect; the outsider watches and follows a beat behind. Sacred spaces in romance create charged moments: the confession spoken where lies feel impossible, the forbidden touch in a place that makes it more transgressive, the sanctuary offered that puts both characters under the god's eye. Use the physical details — candlelight, echoing footsteps, cold stone — to create atmosphere that heightens whatever emotional beat the scene carries.</p>
 
 <h4 id="q-s6-20">What sacred locations exist?</h4>
+<p class="hint">Sacred spaces can serve as sanctuary, meeting place, or site of spiritual reckoning for your characters.</p>
 
 <table class="input-table">
     <thead>
@@ -1073,16 +1171,6 @@
             <td></td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1097,6 +1185,7 @@
 <p>What happens after death shapes how people live, what they fear, and what sacrifices they'll make. Characters who believe in reunion after death approach sacrifice differently than those who believe death is final.</p>
 
 <h4 id="q-s6-22">What do people believe happens after death?</h4>
+<p class="hint">Afterlife beliefs shape how characters think about sacrifice, loss, and whether lovers can be reunited after death.</p>
 
 <table class="input-table">
     <thead>
@@ -1126,14 +1215,6 @@
             <td>Can the living affect the dead's fate?</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1159,6 +1240,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s6-26">What are the major sacred stories everyone knows?</h4>
+<p class="hint">These stories create templates for how characters understand their own lives. Do any parallel your romance?</p>
 
 <table class="input-table">
     <thead>
@@ -1411,9 +1493,11 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s6-29">What does your love interest actually believe?</h4>
+<p class="hint">Their genuine beliefs may align with or differ from your protagonist's, creating harmony or another layer of conflict.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s6-30">How does each character's personal faith differ from official doctrine?</h4>
+<p class="hint">The gap between personal belief and institutional religion creates room for characters to redefine faith rather than abandon it.</p>
 
 <table class="input-table">
     <thead>
@@ -1431,16 +1515,6 @@
         </tr>
         <tr>
             <td>Love Interest</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
             <td></td>
         </tr>
@@ -1462,15 +1536,12 @@
 <p class="hint">Someone with deep faith faces a different struggle than someone who doesn't really believe but is bound by social religion.</p>
 <div class="writing-box"></div>
 
-<h4 id="q-s6-34-new">What does your character believe when they're alone in the dark?</h4>
-<p class="hint">Not what they say they believe, or what they're supposed to believe — what they actually feel is true. What prayer comes unbidden? What doubt won't stay buried? What do they reach for when nothing else is left?</p>
-<div class="writing-box"></div>
-
 <div class="divider"></div>
 
 <h2 id="s6-devotion">Daily Practice & Devotion</h2>
 
 <h4 id="q-s6-34">What religious practices does each character observe?</h4>
+<p class="hint">Daily practices reveal the texture of faith. What rituals would each character perform or skip, and what does that show about their beliefs?</p>
 
 <table class="input-table">
     <thead>
@@ -1488,16 +1559,6 @@
         </tr>
         <tr>
             <td>Love Interest</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
             <td></td>
         </tr>
@@ -1543,6 +1604,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s6-42">Is there a holy day that brings your characters together?</h4>
+<p class="hint">Religious gatherings create opportunities for encounter, shared experience, or stolen moments during sacred time.</p>
 
 <table class="input-table">
     <thead>
@@ -1564,14 +1626,6 @@
             <td>What happens</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1587,6 +1641,7 @@
 <p>For your characters, the question isn't just "what does their religion forbid?" but "what would they lose if they left?" The answer is rarely just "their faith."</p>
 
 <h4 id="q-s6-43">What religious community do your characters belong to?</h4>
+<p class="hint">Community is often what people lose first when they defy religious rules. What support, identity, and belonging would they sacrifice?</p>
 
 <table class="input-table">
     <thead>
@@ -1602,14 +1657,6 @@
         </tr>
         <tr>
             <td>Love Interest</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1636,14 +1683,6 @@
         </tr>
         <tr>
             <td>Love Interest</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1678,6 +1717,7 @@
 <!-- SECTION 6: RELIGIOUS LAW CONTINUED -->
 
 <h4 id="q-s6-50" class="mt-0">What religious restrictions specifically affect your characters' relationship?</h4>
+<p class="hint">Identify the specific rules that create obstacles. These become the stakes your characters must navigate.</p>
 <ul>
     <li>☐ Forbidden to marry outside the faith</li>
     <li>☐ Celibacy required for certain roles</li>
@@ -1747,6 +1787,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s6-60">Is either character part of the religious hierarchy?</h4>
+<p class="hint">Religious roles often carry vows and obligations that directly conflict with romantic love.</p>
 
 <table class="input-table">
     <thead>
@@ -1771,16 +1812,6 @@
             <td>What they'd lose by leaving</td>
             <td></td>
             <td><em>Her sisterhood, her identity, her purpose, her place in the only family she's known</em></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
     </tbody>
 </table>
@@ -1813,6 +1844,7 @@
 <p><strong>How to write it:</strong> The power of prophecy lies in how characters receive it. Slow down the revelation: the speaker's manner, the quality of their voice, the specific words (prophecies should sound distinct from ordinary speech — rhythmic, archaic, ambiguous). Show the listener's physical reaction as meaning sinks in. After the prophecy, show characters obsessing over wording, looking for loopholes, asking themselves what it <em>really</em> means. Prophecy creates dramatic irony — readers may understand implications characters miss, or vice versa. Use asymmetric knowledge: one character knows a prophecy about their relationship that the other doesn't, and must decide whether to reveal it. The prophecy's shadow should fall across their choices: is this feeling real, or am I just fulfilling what was foretold?</p>
 
 <h4 id="q-s6-64">Do prophecies exist in your world?</h4>
+<p class="hint">Prophecy adds a layer of fate vs. choice to your romance. Characters may resist destiny or embrace it.</p>
 <p>If yes:</p>
 
 <h4 id="q-s6-65">How do prophecies work?</h4>
@@ -1827,6 +1859,7 @@
 <!-- SECTION 6: PROPHECY ABOUT CHARACTERS -->
 
 <h4 id="q-s6-67" class="mt-0">Is there a prophecy about your characters or their relationship?</h4>
+<p class="hint">Prophecies about the romance itself create unique tension around whether love is chosen or fated.</p>
 <p>If yes:</p>
 
 <h4 id="q-s6-68">What does the prophecy say?</h4>
@@ -1835,12 +1868,14 @@
 
 <h4 id="q-s6-69">Who knows about this prophecy?</h4>
 <p class="hint">Everyone? Select few? Only one character? The asymmetry of knowledge creates tension.</p>
-<div class="writing-box small"></div>
+<div class="writing-box"></div>
 
 <h4 id="q-s6-70">Does the prophecy suggest they're fated to be together or fated to be apart?</h4>
+<p class="hint">Either direction creates tension. Fated together: is the love real? Fated apart: can they defy destiny?</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s6-71">How does each character react to the prophecy?</h4>
+<p class="hint">Characters may embrace, resist, deny, or be torn about what prophecy means for them.</p>
 
 <table class="input-table">
     <thead>
@@ -1858,14 +1893,6 @@
             <td>Love Interest</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1877,6 +1904,7 @@
 <p>If prophecy says they're fated, how do you preserve their agency? Romance readers want to believe love is chosen, not predetermined. The best prophesied-love stories find ways to make destiny feel like choice.</p>
 
 <h4 id="q-s6-72">Which approach are you using?</h4>
+<p class="hint">How you handle prophecy shapes whether love feels chosen or predetermined. Most satisfying romances preserve agency.</p>
 <ul>
     <li>☐ The prophecy is misinterpreted — what they think it means isn't what it means</li>
     <li>☐ The prophecy creates the problem — knowing they're "fated" makes them resist</li>
@@ -1901,6 +1929,7 @@
 <p>Being chosen by the gods is a burden as much as a gift. Divine purpose competes with personal desire — how do you have a life when you're supposed to be saving the world?</p>
 
 <h4 id="q-s6-75">Is either character marked by divine favor, curse, or destiny?</h4>
+<p class="hint">Being chosen creates obligations that compete with personal desire. What does destiny demand that love cannot give?</p>
 
 <table class="input-table">
     <thead>
@@ -1926,16 +1955,6 @@
             <td></td>
             <td><em>Ascend and become a holy vessel — but the truth is far darker</em></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -1957,6 +1976,7 @@
 <p>Interfaith love creates challenges woven into daily life. Whose holidays do you celebrate? Which faith do you raise children in? When someone dies, whose death rituals bring comfort?</p>
 
 <h4 id="q-s6-78">Do your characters practice different religions?</h4>
+<p class="hint">Interfaith love creates daily challenges beyond the initial obstacle: whose traditions, whose holidays, whose gods?</p>
 <p>If yes:</p>
 
 <table class="input-table">
@@ -1975,18 +1995,11 @@
             <td>Love Interest</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
 <h4 id="q-s6-79">What does each faith teach about the other?</h4>
+<p class="hint">Mutual hostility between faiths raises the stakes considerably. Mutual respect makes blending easier but may reduce tension.</p>
 
 <table class="input-table">
     <thead>
@@ -2004,14 +2017,6 @@
             <td>Love Interest's</td>
             <td></td>
         </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
@@ -2027,6 +2032,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s6-82">Can they build a shared spiritual life, or will faith always divide them?</h4>
+<p class="hint">This question shapes the long-term viability of the relationship. Some couples find synthesis; others accept respectful difference.</p>
 <div class="writing-box"></div>
 
 <div class="divider"></div>
@@ -2047,9 +2053,11 @@
 <!-- SECTION 6: SIN & GUILT CONTINUED -->
 
 <h4 id="q-s6-84" class="mt-0">What romantic or sexual behaviors are considered sinful?</h4>
+<p class="hint">Understanding what's forbidden helps you write the internal conflict of characters who believe they're doing wrong.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s6-85">Does either character feel they're sinning by being in this relationship?</h4>
+<p class="hint">Religious shame operates differently than social shame. It follows you into private moments and colors how you see yourself.</p>
 
 <table class="input-table">
     <thead>
@@ -2069,14 +2077,6 @@
         </tr>
         <tr>
             <td>How they reconcile this</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -2102,6 +2102,7 @@
 <div class="writing-box"></div>
 
 <h4 id="q-s6-89">If one character is willing to die, what do they believe happens next?</h4>
+<p class="hint">Their afterlife beliefs shape whether dying for love feels like ending or beginning, loss or reunion.</p>
 <div class="writing-box"></div>
 
 <h4 id="q-s6-90">Does belief in the afterlife make sacrifice easier or harder?</h4>
@@ -2150,16 +2151,6 @@
             <td>Or does religion make legitimizing impossible?</td>
             <td></td>
             <td><em>The vows are clear: a handmaiden serves the queen, not her own heart. There's no loophole, only the choice to break or keep faith</em></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
     </tbody>
 </table>
@@ -2217,16 +2208,6 @@
             <td>How religion resolves</td>
             <td></td>
             <td><em>She redefines faith — love as strength, not weakness; service to the world, not just the order</em></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
         </tr>
     </tbody>
 </table>
