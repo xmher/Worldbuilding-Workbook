@@ -147,7 +147,6 @@
             font-size: 0.95rem;
             margin-top: -0.5rem;
             margin-bottom: 1rem;
-            break-after: avoid;
         }
         ul, ol { margin: 1rem 0 1rem 1.5rem; }
         li { margin-bottom: 0.5rem; }
@@ -287,11 +286,11 @@
             background: white;
             padding: 15px 20px;
             margin: 1rem 0 1.5rem 0;
-            min-height: 80px;
+            min-height: 120px;
             break-inside: avoid;
         }
-        .writing-box.large { min-height: 120px; }
-        .writing-box.small { min-height: 50px; }
+        .writing-box.large { min-height: 180px; }
+        .writing-box.small { min-height: 120px; }
         .writing-box-label {
             font-family: var(--font-display);
             font-size: 0.65rem;
@@ -345,35 +344,12 @@
             padding: 12px 15px;
             border: 1px solid #1a1515;
             vertical-align: top;
+            min-height: 40px;
+            height: 40px;
         }
         tr:nth-child(even) { background: rgba(0,0,0,0.02); }
         thead { display: table-header-group; }
         tr { break-inside: avoid; }
-        /* Input tables with more writing space */
-        .input-table td {
-            min-height: 45px;
-            height: 45px;
-        }
-        .input-table td:last-child {
-            min-height: 60px;
-        }
-        /* Example row styling */
-        tr.example-row {
-            background: rgba(6, 95, 70, 0.08) !important;
-        }
-        tr.example-row td {
-            color: var(--color-text-muted);
-            font-style: italic;
-            font-size: 0.85rem;
-        }
-        tr.example-row td:first-child {
-            font-style: normal;
-            color: var(--color-text-sub);
-        }
-        /* Blank rows for custom entries */
-        tr.blank-row td {
-            height: 50px;
-        }
         .flourish-divider {
             display: flex;
             align-items: center;
@@ -553,6 +529,10 @@
 
 <p>The natural world in romantasy serves story in three ways: as <strong>backdrop</strong> (atmosphere and texture), as <strong>obstacle</strong> (danger, scarcity, survival pressure), or as <strong>connector</strong> (shared experiences, creature bonds, care for animals together). Nature becomes powerful when it creates situations your characters must navigate together.</p>
 
+<p>As <strong>backdrop</strong>, the natural world sets emotional tone. A forest can feel enchanted or threatening depending on how you describe it. Night-blooming flowers in a garden create a different romantic atmosphere than wind-stripped tundra. The creatures that inhabit your world — birdsong at dawn, wolves howling in the distance, the ever-present hum of insects — form the sensory texture that makes scenes feel real.</p>
+
+<p>As <strong>obstacle</strong> and <strong>connector</strong>, nature forces characters together and reveals who they are. A venomous bite requires one to care for the other. A predator means they can't separate. Surviving harsh terrain strips away pretense — and surviving it <em>together</em> builds bonds that feel earned rather than declared.</p>
+
 
 <!-- ==========================================
  SECTION 2: NATURE FRAMEWORKS
@@ -630,9 +610,19 @@
             <td>Teaching to ride, training a hawk</td>
         </tr>
         <tr>
-            <td><strong>The animal witness</strong></td>
-            <td>Pet/mount present during vulnerable moments, normalizing intimacy</td>
-            <td>Horse that's "seen everything"</td>
+            <td><strong>The protective instinct</strong></td>
+            <td>Character's animal protects or defends the love interest, signaling the animal "approves"</td>
+            <td>Dog that guards them while they sleep</td>
+        </tr>
+        <tr>
+            <td><strong>The creature in danger</strong></td>
+            <td>Beloved animal is threatened; how partner responds reveals their values and priorities</td>
+            <td>Risking themselves to save the other's horse</td>
+        </tr>
+        <tr>
+            <td><strong>The unexpected gentleness</strong></td>
+            <td>Tough or cold character revealed as gentle with animals, showing hidden capacity for tenderness</td>
+            <td>Assassin who feeds stray cats</td>
         </tr>
     </tbody>
 </table>
@@ -719,14 +709,14 @@
 <div class="writing-box">
 </div>
 
-<h4 id="q-s2-2">How magical is the natural world?</h4>
-<p class="hint">Completely mundane (magic is separate from nature)? Subtly magical (nature has hidden power)? Overtly magical (magical creatures are common)? Sentient (nature has awareness or will)?</p>
-<div class="writing-box">
+<h4 id="q-s2-2">Where does magic live in your natural world?</h4>
+<p class="hint">Does magic flow through everything like a second heartbeat, or does it pool in specific places — ancient groves, mountain peaks, the deep ocean? Can ordinary people sense it, or only those with training? Is nature itself aware, watching, waiting? Does the land remember what happened on it?</p>
+<div class="writing-box large">
 </div>
 
-<h4 id="q-s2-3">What's the overall health of the ecosystem?</h4>
+<h4 class="break-before" id="q-s2-3">What's the overall health of the ecosystem?</h4>
 <p class="hint">Thriving? Balanced? Under pressure from civilization? Recovering from past damage? Dying?</p>
-<div class="writing-box">
+<div class="writing-box small">
 </div>
 
 
@@ -734,46 +724,60 @@
  SECTION 2: FOOD CHAINS & DOMESTICATED ANIMALS
  ========================================== -->
 
-<h2 class="mt-0 break-before" id="s2-food-chains">Food Chains & Natural Balance</h2>
+<h2 class="mt-0" id="s2-food-chains">Food Chains & Natural Balance</h2>
 
 <p class="hint">If your world uses Earth-like wildlife, skip most of this — just note magical creatures or significant deviations.</p>
 
-<h4 id="q-s2-4">What's at the top of the food chain in various environments?</h4>
-<p class="hint">These predators shape what your characters fear in the wild. Could any of them create danger or forced proximity in your story?</p>
+<h4 id="q-s2-4">What's the apex predator — and what does that mean for everyone else?</h4>
+<p class="hint">What do people fear when they travel at night? What stories do parents tell children to keep them close? What makes a region dangerous — and what would it mean if your characters had to cross it?</p>
 
 <table class="input-table">
     <thead>
         <tr>
             <th>Environment</th>
-            <th>Apex Predator</th>
+            <th>What Hunts Here</th>
+            <th>How People Avoid It</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Forests</td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
             <td>Plains/grasslands</td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
             <td>Mountains</td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Water (rivers, lakes, ocean)</td>
+            <td>Water</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
             <td></td>
         </tr>
     </tbody>
 </table>
 
-<h2 id="s2-domesticated">Domesticated Animals</h2>
+<h2 class="break-before" id="s2-domesticated">Domesticated Animals</h2>
 
 <p>The animals people have tamed shape daily life, economy, and culture. What pulls the plows? What provides meat, milk, leather, wool? What do people ride?</p>
 
 <h4 id="q-s2-5">What animals have been domesticated in your world?</h4>
-<p class="hint">Think about what your protagonist interacts with daily. Which animals reveal character through how people treat them?</p>
 
 <table class="input-table">
     <thead>
@@ -784,11 +788,6 @@
         </tr>
     </thead>
     <tbody>
-        <tr class="example-row">
-            <td>Transportation</td>
-            <td>Nightmares (shadow horses)</td>
-            <td>Only the fae nobility; protagonist's love interest has one named Ember</td>
-        </tr>
         <tr>
             <td>Meat/food</td>
             <td></td>
@@ -809,17 +808,12 @@
             <td></td>
             <td></td>
         </tr>
-        <tr class="blank-row">
+        <tr>
             <td></td>
             <td></td>
             <td></td>
         </tr>
-        <tr class="blank-row">
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr class="blank-row">
+        <tr>
             <td></td>
             <td></td>
             <td></td>
@@ -827,9 +821,9 @@
     </tbody>
 </table>
 
-<h4 id="q-s2-6">Are there domesticated magical creatures?</h4>
-<p class="hint">If so, what are they used for and who has access to them?</p>
-<div class="writing-box">
+<h4 id="q-s2-6">What magical creatures have people learned to tame or work alongside?</h4>
+<p class="hint">What roles do they fill — labor, transportation, protection, companionship? Who has access to them, and who doesn't? Skip if your world has no domesticated magical creatures.</p>
+<div class="writing-box large">
 </div>
 
 
@@ -837,59 +831,69 @@
  SECTION 2: AGRICULTURE & WILD PLANTS
  ========================================== -->
 
-<h2 class="mt-0" id="s2-agriculture">Agriculture & Cultivated Plants</h2>
+<h2 class="mt-0 break-before" id="s2-agriculture">Agriculture & Cultivated Plants</h2>
 
 <p class="hint">If your world has Earth-like agriculture, skip the basics and focus on what's unique: magical crops, supernatural plants, or specific foods that matter to your story.</p>
 
-<h4 id="q-s2-7">What are the staple crops?</h4>
-<p class="hint">The grains, roots, or plants that feed most people:</p>
+<h4 id="q-s2-7">What do people grow to survive — and what would happen if they couldn't?</h4>
+<p class="hint">The grain that feeds armies, the root vegetable that gets families through winter. What's taken for granted until it's gone? What would a failed harvest mean?</p>
 <div class="writing-box">
 </div>
 
-<h4 id="q-s2-8">What non-food crops are important?</h4>
-<p class="hint">Cloth, medicine, and intoxicants shape daily life. What might your characters wear, use for healing, or drink?</p>
+<h4 id="q-s2-8">Beyond the table, what plants shape daily life?</h4>
+<p class="hint">The fiber that becomes cloth — who wears rough homespun and who wears fine linen? The dyes that mark status — what colors are reserved for royalty or forbidden to commoners? The herbs that ease pain or bring sleep — who has access when they're desperate? The intoxicants people crave — what's socially acceptable and what's scandalous? Consider also: plants for perfume and cosmetics, ritual herbs with religious significance, materials for building or crafting. Who controls the supply, and what happens when it runs short?</p>
 
 <table class="input-table">
     <thead>
         <tr>
-            <th>Crop Type</th>
-            <th>Specific Plant</th>
-            <th>What It's Used For</th>
+            <th>Plant</th>
+            <th>What It Provides</th>
+            <th>Who Controls It</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Fiber (for cloth)</td>
             <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Medicinal herbs</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>Intoxicants</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
             <td></td>
             <td></td>
         </tr>
     </tbody>
 </table>
 
-<h2 id="s2-foraging">Wild Plants & Foraging</h2>
+<h2 class="break-before" id="s2-foraging">Wild Plants & Foraging</h2>
 
-<h4 id="q-s2-9">What can be safely gathered from the wild?</h4>
-<p class="hint">Edible plants, nuts, berries, mushrooms:</p>
+<h4 id="q-s2-9">What gifts does the wild offer — to those who know where to look?</h4>
+<p class="hint">Berries, mushrooms, herbs, honey. What knowledge separates survival from starvation? What might one character know that could save the other?</p>
 <div class="writing-box">
 </div>
 
-<h4 id="q-s2-10">What's poisonous or dangerous?</h4>
-<p class="hint">Plants to avoid, common poisoning risks:</p>
+<h4 id="q-s2-10">What plant might kill — or save — at the wrong moment?</h4>
+<p class="hint">The berry that looks identical to a safe one. The flower that's medicine in small doses, death in large. What dangerous knowledge might one character have that the other lacks?</p>
 <div class="writing-box">
 </div>
 
-<h4 id="q-s2-11">Who knows foraging skills?</h4>
-<p class="hint">Rural common knowledge? Specialized profession? Lost art? Class-dependent?</p>
+<h4 id="q-s2-11">Who can read the wild — and who's helpless in it?</h4>
+<p class="hint">Is foraging knowledge common or rare? Could one character teach the other what's safe to eat? What intimacy might come from "let me show you"?</p>
 <div class="writing-box">
 </div>
 
@@ -904,34 +908,48 @@
 
 <p><strong>How to write it:</strong> Slow the pace down. A healing scene is built on small physical details: the temperature of water, the sting of antiseptic, the careful pressure of bandaging. Let the injured character be genuinely vulnerable — not stoic and silent but hissing at pain, fighting to stay still, embarrassed by their own weakness. The healer's competence is attractive; show their hands knowing what to do. Use the enforced proximity: one character can't move away, the other must stay close. Don't rush to dialogue — let the silence and the touching do the work. The intimacy comes from the combination of pain, trust, and gentleness.</p>
 
-<h4 id="q-s2-12">What natural remedies exist?</h4>
-<p class="hint">Healing scenes create intimacy. What would one character use to tend the other's wounds or illness?</p>
+<h4 id="q-s2-12">When someone you love is hurt, what do you reach for?</h4>
+<p class="hint">The herbs that bring down fever, the poultice for wounds, the tea that helps you sleep. Who knows these remedies — and who's desperate to learn when it matters most?</p>
 
 <table class="input-table">
     <thead>
         <tr>
             <th>Ailment</th>
             <th>Remedy</th>
+            <th>Who Knows This</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Pain</td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
             <td>Fever</td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
-            <td>Infection/wounds</td>
+            <td>Wounds</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
             <td></td>
         </tr>
     </tbody>
 </table>
 
-<h4 id="q-s2-13">Is there a plant that's crucial to your plot?</h4>
-<p class="hint">A cure for a curse? The only antidote to a poison? A rare ingredient for a necessary spell?</p>
+<h4 class="break-before" id="q-s2-13">What plant might your characters desperately need — and what makes it hard to get?</h4>
+<p class="hint">The cure that only grows on cliff faces. The antidote found in enemy territory. The ingredient that blooms once a decade. What quest might a plant send them on?</p>
 
 <table class="input-table">
     <thead>
@@ -964,44 +982,24 @@
 
 <p><strong>How to write it:</strong> Build the encounter in layers: first the signs (tracks, silence, smell), then the glimpse, then the full reveal. Let your POV character's body react before their mind catches up — the prickle on the neck, the instinct to freeze. During the encounter, narrow focus to immediate sensory details: the creature's breath, the sound of its movement, the texture of the ground they're pressed against. After, show the physical aftermath — the shaking hands, the delayed terror, the way adrenaline crash feels. Shared dangerous encounters bond characters because they've seen each other in survival mode, stripped of social performance.</p>
 
-<h4 id="q-s2-14">What are the most dangerous creatures in your world?</h4>
-<p class="hint">Danger forces characters together. What creature might your protagonist and love interest need to survive together?</p>
+<h4 id="q-s2-14">What makes seasoned travelers go pale?</h4>
+<p class="hint">The creatures that haunt certain roads, waters, or woods. What do people warn each other about — and what warnings get ignored until it's too late?</p>
 
 <table class="input-table">
     <thead>
         <tr>
             <th>Creature</th>
-            <th>Where Found</th>
-            <th>Why Dangerous</th>
+            <th>Where It Hunts</th>
+            <th>What Survivors Say</th>
         </tr>
     </thead>
     <tbody>
-        <tr class="example-row">
-            <td>Thornwolves</td>
-            <td>Dense forests between the kingdoms</td>
-            <td>Hunt in packs, venomous spines, force travelers to seek shelter — creates forced proximity scenes</td>
-        </tr>
         <tr>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr class="blank-row">
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr class="blank-row">
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -1016,65 +1014,9 @@
 
 <h2 class="mt-0" id="s2-magical">Magical Creatures</h2>
 
-<h3>Reference: Fantasy Creature Ideas</h3>
-
-<p class="hint">Use this list for inspiration. Mix and match, or create something entirely new.</p>
-
-<table>
-    <thead>
-        <tr>
-            <th>Category</th>
-            <th>Examples</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><strong>Flying Creatures</strong></td>
-            <td>Dragons, wyverns, griffins, phoenixes, rocs, pegasi, hippogriffs, thunderbirds, harpies</td>
-        </tr>
-        <tr>
-            <td><strong>Shapeshifters</strong></td>
-            <td>Werewolves, werecats, skinwalkers, selkies, kitsune, tanuki, doppelgangers, mimics</td>
-        </tr>
-        <tr>
-            <td><strong>Aquatic</strong></td>
-            <td>Merfolk, sea serpents, krakens, sirens, kelpies, selkies, leviathans, water horses, naiads</td>
-        </tr>
-        <tr>
-            <td><strong>Forest & Nature</strong></td>
-            <td>Unicorns, treants, dryads, will-o'-wisps, sprites, satyrs, centaurs, giant spiders, dire wolves</td>
-        </tr>
-        <tr>
-            <td><strong>Undead & Dark</strong></td>
-            <td>Vampires, wraiths, banshees, revenants, liches, specters, ghouls, wights, death hounds</td>
-        </tr>
-        <tr>
-            <td><strong>Elemental</strong></td>
-            <td>Fire salamanders, ice wyrms, earth golems, storm spirits, magma beasts, frost giants, djinn</td>
-        </tr>
-        <tr>
-            <td><strong>Fae & Spirits</strong></td>
-            <td>Pixies, brownies, redcaps, bogarts, pucks, changelings, banshees, will-o'-wisps, sluagh</td>
-        </tr>
-        <tr>
-            <td><strong>Chimeric & Hybrid</strong></td>
-            <td>Chimeras, manticores, sphinxes, cockatrices, basilisks, hydras, perytons, owlbears</td>
-        </tr>
-        <tr>
-            <td><strong>Bonded/Familiar Types</strong></td>
-            <td>Ravens, cats, owls, snakes, foxes, wolves, small dragons, fire lizards, shadow hounds</td>
-        </tr>
-        <tr>
-            <td><strong>Giant Versions</strong></td>
-            <td>Giant eagles, dire bears, mammoth wolves, enormous boars, colossal serpents, titanic stags</td>
-        </tr>
-    </tbody>
-</table>
-
 <p>Magical creatures occupy a different space than mundane wildlife. They might be rare and legendary, or common as horses. They might be intelligent, tameable, or utterly alien.</p>
 
 <h4 id="q-s2-15">What magical creatures exist in your world?</h4>
-<p class="hint">Consider creatures that might bond with characters, serve as obstacles, or hold symbolic meaning in your story.</p>
 
 <table class="input-table">
     <thead>
@@ -1086,12 +1028,6 @@
         </tr>
     </thead>
     <tbody>
-        <tr class="example-row">
-            <td>Phoenix</td>
-            <td>High — can communicate through emotion/images</td>
-            <td>Fire magic, rebirth from ashes, healing tears</td>
-            <td>Bond with fire mages; protagonist bonds with one, linking her to love interest's court</td>
-        </tr>
         <tr>
             <td></td>
             <td></td>
@@ -1105,24 +1041,6 @@
             <td></td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr class="blank-row">
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr class="blank-row">
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr class="blank-row">
             <td></td>
             <td></td>
             <td></td>
@@ -1133,10 +1051,10 @@
 
 <h4 id="q-s2-16">How common or rare are magical creatures?</h4>
 <p class="hint">Everyday occurrence? Regional? Nearly mythical?</p>
-<div class="writing-box">
+<div class="writing-box small">
 </div>
 
-<h4 id="q-s2-17">How do magical creatures fit into the ecosystem?</h4>
+<h4 class="break-before" id="q-s2-17">How do magical creatures fit into the ecosystem?</h4>
 <p class="hint">Do they fill normal ecological roles? Exist outside natural laws? Disrupt normal nature?</p>
 <div class="writing-box">
 </div>
@@ -1146,7 +1064,7 @@
  SECTION 2: PART TWO - NATURE & ROMANCE
  ========================================== -->
 
-<span class="section-number">Section 2 · Part Two</span>
+<span class="section-number break-before">Section 2 · Part Two</span>
 <h1>Nature & Romance</h1>
 
 <h2 class="mt-2" id="s2-creature-bonds">Creature Bonds</h2>
@@ -1155,8 +1073,8 @@
 
 <p>But creature bonds can shortcut romantic development if you're not careful. The best creature bond romances treat the bond as creating circumstances — proximity, shared responsibility — rather than dictating romantic outcomes.</p>
 
-<h4 id="q-s2-18">Do any creatures in your world bond with humans?</h4>
-<p class="hint">If no, skip to the next section.</p>
+<h4 id="q-s2-18">What creatures in your world form bonds with humans — and what does that connection feel like?</h4>
+<p class="hint">Dragons, familiars, spirit animals, bonded mounts? Describe the creatures and the nature of the bond. Skip to the next section if your world doesn't include creature bonds.</p>
 <div class="writing-box">
 </div>
 
@@ -1180,8 +1098,7 @@
  SECTION 2: CHARACTER BONDED CREATURES
  ========================================== -->
 
-<h4 id="q-s2-22" class="mt-0">Do your characters have bonded creatures?</h4>
-<p class="hint">Bonded creatures create shared responsibility and parallel romantic bonds. How might these relationships mirror or contrast with the romance?</p>
+<h4 id="q-s2-22" class="mt-0">Describe your characters' bonded creatures:</h4>
 
 <table class="input-table">
     <thead>
@@ -1211,7 +1128,6 @@
 </table>
 
 <h4 id="q-s2-23">If both characters have bonded creatures, how do the creatures relate to each other?</h4>
-<p class="hint">Do the creatures reflect the romantic tension? Mirror the relationship's progression? Create obstacles or opportunities for the characters?</p>
 <div class="writing-box">
 </div>
 
@@ -1220,8 +1136,8 @@
     <div class="anchor-question">If the creatures have some connection, does that force the humans together? Or does it just create proximity, opportunity, or shared responsibility — while the relationship itself must be built by the characters?</div>
 </div>
 
-<h4 id="q-s2-24">Could the characters have the creature bond without having a romantic relationship?</h4>
-<p class="hint">Are there bonded rider pairs who aren't romantically involved? Is romance a separate thing from creature partnership?</p>
+<h4 id="q-s2-24">What separates the creature bond from the romantic bond?</h4>
+<p class="hint">Can people share a creature bond without being lovers? What makes romance different from — or intertwined with — the connection their creatures share?</p>
 <div class="writing-box">
 </div>
 
@@ -1234,8 +1150,7 @@
 
 <p>Not every significant animal is a magical bonded creature. How someone treats their horse, their dog, their cat tells you something that words can't. Animals also witness relationships without judgment — their small acceptances mark relationship progression.</p>
 
-<h4 id="q-s2-25">Does your protagonist have an animal companion?</h4>
-<p class="hint">How someone treats their animal reveals character. What does this companion show readers about your protagonist?</p>
+<h4 id="q-s2-25">Your protagonist's animal companion:</h4>
 
 <table class="input-table">
     <thead>
@@ -1260,8 +1175,7 @@
     </tbody>
 </table>
 
-<h4 id="q-s2-26">Does your love interest have an animal companion?</h4>
-<p class="hint">Does the animal accept your protagonist? That small moment of acceptance can mark relationship progression.</p>
+<h4 id="q-s2-26">Your love interest's animal companion:</h4>
 
 <table class="input-table">
     <thead>
@@ -1288,8 +1202,7 @@
 
 <h2 id="s2-shared">Shared Experiences with Nature</h2>
 
-<h4 id="q-s2-27">Do your characters encounter wildlife together?</h4>
-<p class="hint">Shared encounters reveal who each person truly is. What might show your protagonist a new side of the love interest?</p>
+<h4 id="q-s2-27">What wildlife might your characters encounter together — and what would each reveal about themselves?</h4>
 
 <table class="input-table">
     <thead>
@@ -1306,8 +1219,7 @@
     </tbody>
 </table>
 
-<h4 id="q-s2-28">Do your characters care for an animal together?</h4>
-<p class="hint">Shared caregiving builds domestic intimacy and reveals nurturing instincts. What creature might bring them together?</p>
+<h4 id="q-s2-28">What creature might your characters care for together — and what would that shared responsibility create between them?</h4>
 
 <table class="input-table">
     <thead>
@@ -1337,31 +1249,46 @@
 
 <p>Cultures attach meaning to plants and animals — symbols, omens, sacred creatures. A flower given as a gift means more when readers know what it symbolizes.</p>
 
-<h4 id="q-s2-29">What creatures have symbolic meaning in your culture?</h4>
-<p class="hint">Symbols add layers to scenes. What creature might appear at a significant romantic moment, and what would it mean?</p>
+<h4 id="q-s2-29">What creature would appear in a lover's poetry — or on a family crest?</h4>
+<p class="hint">The symbols people choose to represent loyalty, passion, cunning, protection. What would it mean to give someone a pendant shaped like this? What creature would a character compare their beloved to?</p>
 
 <table class="input-table">
     <thead>
         <tr>
-            <th>Association</th>
+            <th>Meaning</th>
             <th>Creature</th>
+            <th>How It's Used</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Love</td>
+            <td>Love/devotion</td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>Death</td>
+            <td>Death/mourning</td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>Royalty/power</td>
+            <td>Power/nobility</td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>Luck (good or bad)</td>
+            <td>Luck/fate</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1369,7 +1296,7 @@
 
 <h4 id="q-s2-30">What plants have symbolic meaning?</h4>
 <p class="hint">Flowers associated with romance, mourning, celebration:</p>
-<div class="writing-box">
+<div class="writing-box small">
 </div>
 
 <h2 id="s2-integration">Integration Check</h2>
@@ -1454,7 +1381,7 @@
  SECTION 2B: INTER-SPECIES ROMANCE TITLE
  ========================================== -->
 
-<span class="section-number">Section 2 · Supplement</span>
+<span class="section-number break-before">Section 2 · Supplement</span>
 <h1 id="s2-inter-species">Inter-Species Romance</h1>
 
 <p class="lead-text">When your love interests aren't the same species — human and fae, mortal and immortal, shifter and non-shifter, vampire and living — the worldbuilding itself becomes the obstacle.</p>
@@ -1487,35 +1414,40 @@
 
 <h3>Biology & Physicality</h3>
 
-<h4 id="q-s2-31">What biological differences exist between your species?</h4>
-<p class="hint">Consider: strength, speed, senses, temperature, diet, sleep patterns, healing, aging, reproduction.</p>
+<h4 id="q-s2-31">What makes your non-human character's body different — and what does that mean for intimacy?</h4>
+<p class="hint">Different temperature, strength, diet, sleep patterns, healing. What would a partner discover sharing a bed — or a meal, or a wound that needs tending? What must be navigated when bodies aren't quite the same?</p>
 
 <table class="input-table">
     <thead>
         <tr>
-            <th>Aspect</th>
-            <th>Protagonist</th>
-            <th>Love Interest</th>
+            <th>Difference</th>
+            <th>What It Means Day-to-Day</th>
+            <th>What It Means for Intimacy</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Biological differences that matter</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
             <td></td>
             <td></td>
         </tr>
     </tbody>
 </table>
 
-<h4 id="q-s2-32">Are there biological incompatibilities?</h4>
-<p class="hint">Touch that burns? Venom? Pheromones that overwhelm? Blood that's intoxicating or poisonous?</p>
+<h4 id="q-s2-32">What biological incompatibilities create tension or danger between them?</h4>
+<p class="hint">Touch that burns? Venom? Pheromones that overwhelm? Blood that's intoxicating or poisonous? What physical barriers exist to intimacy?</p>
 <div class="writing-box">
 </div>
 
 <h3>Senses & Perception</h3>
 
-<h4 id="q-s2-33">Does one species perceive the world differently?</h4>
-<p class="hint">Heat vision, magical sight, ability to sense emotions, scent-based communication:</p>
+<h4 id="q-s2-33">How does your non-human character perceive the world differently?</h4>
+<p class="hint">Heat vision, magical sight, ability to sense emotions, scent-based communication — what do they experience that their partner can't?</p>
 <div class="writing-box">
 </div>
 
@@ -1533,31 +1465,26 @@
 
 <p>One of the most profound differences in inter-species romance is how long each partner will live. A human falling for an immortal faces a fundamentally different future than two humans.</p>
 
-<h4 id="q-s2-35">How long does each species typically live?</h4>
-<p class="hint">Lifespan disparity creates profound romantic stakes. How does knowing one will outlive the other shape the relationship?</p>
+<h4 id="q-s2-35">How much time do they have — and does one of them know it better than the other?</h4>
+<p class="hint">The weight of loving someone who will outlive you by centuries, or knowing you'll watch them age while you remain unchanged. What does "forever" mean when one of you has so much more of it?</p>
 
 <table class="input-table">
     <thead>
         <tr>
             <th>Character</th>
-            <th>Species Lifespan</th>
+            <th>Expected Lifespan</th>
+            <th>How They Feel About It</th>
         </tr>
     </thead>
     <tbody>
-        <tr class="example-row">
-            <td>Protagonist</td>
-            <td>Human — 70-80 years, already 23</td>
-        </tr>
-        <tr class="example-row">
-            <td>Love Interest</td>
-            <td>Fae — immortal unless killed, currently 847 years old</td>
-        </tr>
         <tr>
             <td>Protagonist</td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
             <td>Love Interest</td>
+            <td></td>
             <td></td>
         </tr>
     </tbody>
@@ -1573,8 +1500,8 @@
 <div class="writing-box">
 </div>
 
-<h4 id="q-s2-38">Is there any way to change this?</h4>
-<p class="hint">Can the mortal become immortal? Can the immortal give up their lifespan? What would either cost?</p>
+<h4 id="q-s2-38">What would it cost to change this — and who would pay?</h4>
+<p class="hint">Can the mortal become immortal? Can the immortal give up their lifespan? What would transformation require — and what would be lost?</p>
 <div class="writing-box">
 </div>
 
@@ -1594,12 +1521,12 @@
 
 <h4 id="q-s2-40">How strong are these instincts? Can they be controlled?</h4>
 <p class="hint">Easily overridden? Suppressible but uncomfortable? Overwhelming in certain situations?</p>
-<div class="writing-box">
+<div class="writing-box small">
 </div>
 
 <h4 id="q-s2-41">How does your character feel about their instincts?</h4>
 <p class="hint">Do they embrace this part of themselves? Fight it? Feel ashamed? Consider it a gift?</p>
-<div class="writing-box">
+<div class="writing-box small">
 </div>
 
 <div class="anchor-card">
@@ -1621,9 +1548,9 @@
 <div class="writing-box">
 </div>
 
-<h4 id="q-s2-43">Can a mate bond be rejected?</h4>
-<p class="hint">If yes — at what cost? Pain? Illness? Death? Permanent inability to bond with anyone else?</p>
-<div class="writing-box">
+<h4 id="q-s2-43">What happens if someone tries to reject or fight the mate bond?</h4>
+<p class="hint">What does resistance cost — pain, illness, death, permanent inability to bond with anyone else? Or can it be walked away from?</p>
+<div class="writing-box small">
 </div>
 
 <h4 id="q-s2-44">How does the human partner feel about being biologically "chosen"?</h4>
@@ -1658,14 +1585,14 @@
 <div class="writing-box">
 </div>
 
-<h4 id="q-s2-46">Have they hurt people before?</h4>
-<p class="hint">Not accidentally — deliberately. Have they killed? Hunted? Used their powers to harm?</p>
-<div class="writing-box">
+<h4 id="q-s2-46">What harm have they done — deliberately, not accidentally?</h4>
+<p class="hint">Have they killed? Hunted? Used their powers to hurt? What does their past tell us about what they're capable of?</p>
+<div class="writing-box small">
 </div>
 
-<h4 id="q-s2-47">Are they currently dangerous to the protagonist?</h4>
-<p class="hint">Could they hurt their partner if they lost control? Is this a real possibility?</p>
-<div class="writing-box">
+<h4 id="q-s2-47">What danger do they pose to the protagonist — and how real is the threat of losing control?</h4>
+<p class="hint">Could they hurt their partner if something snapped? Is this a constant tension or a distant possibility?</p>
+<div class="writing-box small">
 </div>
 
 <div class="mistake-box">
@@ -1686,18 +1613,17 @@
 
 <p><strong>How to write it:</strong> Show prejudice through accumulation of small moments rather than dramatic confrontations. The way a shopkeeper's smile freezes. The conversation that stops when they enter a room. The friend who keeps "forgetting" to include them. The questions that are really accusations: "But what do you <em>eat</em>?" Show the exhaustion of navigating hostile spaces, and the relief of spaces where both can exist without performance. Let the "insider" partner sometimes fail to notice what their partner experiences — the blind spot of privilege — and let that failure matter. The tension of living between worlds isn't one big conflict; it's the daily friction of belonging nowhere completely.</p>
 
-<h4 id="q-s2-48">Can your couple live openly in human society?</h4>
-<p class="hint">Is the non-human's nature visible? Would they have to hide? Is there prejudice, fear, laws against them?</p>
+<h4 id="q-s2-48">What would your couple face trying to live openly in human society?</h4>
+<p class="hint">Would the non-human have to hide their nature? What prejudice, fear, or laws would they encounter? What spaces would be closed to them?</p>
 <div class="writing-box">
 </div>
 
-<h4 id="q-s2-49">Can your couple live openly in non-human society?</h4>
-<p class="hint">How do other non-humans view humans? As lesser? Prey? Novelty? How would the human partner be treated?</p>
+<h4 id="q-s2-49">What would your couple face trying to live openly in non-human society?</h4>
+<p class="hint">How do other non-humans view humans — as lesser, prey, curiosity, contamination? How would the human partner be treated?</p>
 <div class="writing-box">
 </div>
 
 <h4 id="q-s2-50">What do each character's families/communities think of the relationship?</h4>
-<p class="hint">External opposition raises stakes. Whose disapproval hurts most, and what would each character sacrifice to be together?</p>
 
 <table class="input-table">
     <thead>
@@ -1707,14 +1633,6 @@
         </tr>
     </thead>
     <tbody>
-        <tr class="example-row">
-            <td>Human</td>
-            <td>Family horrified — fae killed her brother in the war; they see this as ultimate betrayal</td>
-        </tr>
-        <tr class="example-row">
-            <td>Non-human</td>
-            <td>Fae court sees humans as pets at best; his interest in a mortal is considered degrading</td>
-        </tr>
         <tr>
             <td>Human</td>
             <td></td>
@@ -1726,8 +1644,8 @@
     </tbody>
 </table>
 
-<h4 id="q-s2-51">Does either character have to choose between their partner and their people?</h4>
-<p class="hint">This choice creates powerful romantic stakes. What would each give up, and does the other want them to make that sacrifice?</p>
+<h4 id="q-s2-51">What might force either character to choose between their partner and their people?</h4>
+<p class="hint">What circumstances could make this an impossible choice — and what would each be giving up?</p>
 <div class="writing-box">
 </div>
 
@@ -1740,8 +1658,8 @@
 
 <p>In many inter-species romances, one character can become like the other — turned, transformed, or granted immortality.</p>
 
-<h4 id="q-s2-52">Can the human become the non-human's species?</h4>
-<p class="hint">Turned vampire? Made immortal? Given fae blood? Become a shifter?</p>
+<h4 id="q-s2-52">What transformation is possible — and what would it mean?</h4>
+<p class="hint">Could the human be turned, made immortal, given fae blood, become a shifter? What would they gain — and what would they lose forever?</p>
 <div class="writing-box">
 </div>
 
@@ -1751,7 +1669,6 @@
 </div>
 
 <h4 id="q-s2-54">Who wants transformation — and who doesn't?</h4>
-<p class="hint">Disagreement about transformation creates tension. Does one want to change and the other resist it? Why?</p>
 
 <table class="input-table">
     <thead>

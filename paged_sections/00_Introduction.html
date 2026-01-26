@@ -342,6 +342,8 @@
             border: 1px solid #1a1515;
         }
         td {
+            min-height: 40px;
+            height: 40px;
             padding: 12px 15px;
             border: 1px solid #1a1515;
             vertical-align: top;
@@ -451,6 +453,7 @@
         .mb-2 { margin-bottom: 1rem; }
         .text-center { text-align: center; }
         .text-muted { color: var(--color-text-muted); }
+        .break-before { break-before: page; }
         @media screen {
             body { background: #e5e1da; padding: 20px; }
             .pagedjs_page { box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 20px; }
@@ -599,10 +602,9 @@
  TABLE OF CONTENTS
  ========================================== -->
 
-<div style="break-inside: avoid;">
 <h2 class="mt-0">The Sections</h2>
 
-<table>
+<table style="break-inside: auto;">
     <thead>
         <tr>
             <th>page no.</th>
@@ -700,7 +702,6 @@
         </tr>
     </tbody>
 </table>
-</div>
 
 <div class="anchor-card">
     <span class="anchor-title">Before You Begin</span>
