@@ -1,0 +1,1692 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worldbuilding Workbook - Economy_Labor_Resources</title>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+    <style>
+        :root {
+            --color-worldbuilding: #065f46;
+            --color-worldbuilding-light: rgba(6, 95, 70, 0.1);
+            --color-bg: #fdfbf7;
+            --color-noir: #1a1515;
+            --color-accent: #e2c98a;
+            --color-danger: #9f1239;
+            --color-text-main: #121212;
+            --color-text-sub: #444444;
+            --color-text-muted: #888888;
+            --font-display: 'Libre Baskerville', serif;
+            --font-accent: 'Cormorant Garamond', serif;
+            --font-body: 'Inter', sans-serif;
+            --theme-color: var(--color-worldbuilding);
+            --theme-color-light: var(--color-worldbuilding-light);
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: var(--color-bg);
+            color: var(--color-text-main);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            font-size: 11pt;
+        }
+        @page {
+            size: 8.5in 11in;
+            margin: 70px 80px 100px 80px;
+            background: var(--color-bg);
+            @bottom-center {
+                content: counter(page);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.7rem;
+                font-weight: 700;
+                color: #065f46;
+            }
+            @bottom-left {
+                content: string(section-title);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.6rem;
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                color: #888;
+            }
+        }
+        @page:first {
+            @bottom-center { content: none; }
+            @bottom-left { content: none; }
+        }
+        .pagedjs_page {
+            background: var(--color-bg) !important;
+            position: relative !important;
+        }
+        .pagedjs_pagebox {
+            position: relative !important;
+        }
+        .pagedjs_pagebox::before {
+            content: '' !important;
+            position: absolute !important;
+            top: 15px !important;
+            left: 15px !important;
+            right: 15px !important;
+            bottom: 15px !important;
+            border: 3px solid #065f46 !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        .pagedjs_pagebox::after {
+            content: '' !important;
+            position: absolute !important;
+            top: 22px !important;
+            left: 22px !important;
+            right: 22px !important;
+            bottom: 22px !important;
+            border: 1px solid #e2c98a !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        h2 { string-set: section-title content(); }
+        h1 {
+            font-family: var(--font-display);
+            font-size: 2rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--color-noir);
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+        }
+        h2 {
+            font-family: var(--font-display);
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--color-noir);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--color-accent);
+            break-after: avoid;
+        }
+        h3 {
+            font-family: var(--font-display);
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+            break-after: avoid;
+        }
+        h4 {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            font-weight: 600;
+            font-style: italic;
+            color: var(--color-text-sub);
+            margin-top: 1.25rem;
+            margin-bottom: 0.5rem;
+            break-after: avoid;
+        }
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+            hyphens: auto;
+            orphans: 3;
+            widows: 3;
+        }
+        .lead-text {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+        }
+        .hint {
+            font-family: var(--font-accent);
+            font-style: italic;
+            color: var(--color-text-muted);
+            font-size: 0.95rem;
+            margin-top: -0.5rem;
+            margin-bottom: 1rem;
+            break-after: avoid;
+        }
+        ul, ol { margin: 1rem 0 1rem 1.5rem; }
+        li { margin-bottom: 0.5rem; }
+        .title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .title-page h1 {
+            font-size: 2.5rem;
+            letter-spacing: 6px;
+            margin-bottom: 0.5rem;
+        }
+        .title-page .divider {
+            width: 100px;
+            height: 2px;
+            background: var(--color-accent);
+            margin: 2rem 0;
+        }
+        .title-page .tagline {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            color: var(--color-text-muted);
+            max-width: 400px;
+        }
+        .section-number {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .section-title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .section-title-page .section-label {
+            font-family: var(--font-display);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            color: var(--theme-color);
+            margin-bottom: 1rem;
+        }
+        .section-title-page h1 {
+            font-size: 2.2rem;
+            margin-bottom: 1rem;
+        }
+        .section-title-page .section-intro {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.8;
+            max-width: 90%;
+        }
+        .anchor-card {
+            border: 2px solid var(--color-noir);
+            background: white;
+            margin: 1.5rem 0;
+            padding: 25px;
+            break-inside: avoid;
+        }
+        .anchor-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 12px;
+            display: block;
+        }
+        .anchor-question {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 1.15rem;
+            border-left: 3px solid var(--color-accent);
+            padding-left: 15px;
+        }
+        .framework-box {
+            border: 2px solid var(--theme-color);
+            background: var(--theme-color-light);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .framework-box h4 {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-top: 0;
+            margin-bottom: 1rem;
+            font-style: normal;
+        }
+        .framework-box p { margin-bottom: 0.75rem; }
+        .framework-box ul { margin: 0.5rem 0 0.5rem 1.5rem; }
+        .framework-box li { margin-bottom: 0.5rem; }
+        .mistake-box {
+            border-left: 4px solid var(--color-danger);
+            background: rgba(159, 18, 57, 0.05);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .mistake-box .mistake-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--color-danger);
+            margin-bottom: 0.75rem;
+        }
+        .mistake-box p { margin-bottom: 0.5rem; font-size: 0.9rem; }
+        .mistake-box p:last-child { margin-bottom: 0; }
+        .fix-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--theme-color);
+            display: block;
+            margin-top: 0.75rem;
+        }
+        .writing-box {
+            border: 1px solid var(--color-noir);
+            background: white;
+            padding: 15px 20px;
+            margin: 1rem 0 1.5rem 0;
+            min-height: 140px;
+            break-inside: avoid;
+        }
+        .writing-box.large { min-height: 200px; }
+        .writing-box.small { min-height: 80px; }
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .checklist {
+            list-style: none;
+            margin: 1rem 0;
+            break-inside: avoid;
+        }
+        .checklist li {
+            position: relative;
+            padding-left: 30px;
+            margin-bottom: 0.75rem;
+            font-size: 0.95rem;
+        }
+        .checklist li::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 2px;
+            width: 16px;
+            height: 16px;
+            border: 1px solid var(--theme-color);
+            background: white;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            font-size: 0.9rem;
+            break-inside: avoid;
+            border: 1px solid #1a1515;
+        }
+        th {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            background: var(--theme-color);
+            color: white;
+            padding: 12px 15px;
+            text-align: left;
+            border: 1px solid #1a1515;
+        }
+        td {
+            padding: 12px 15px;
+            border: 1px solid #1a1515;
+            vertical-align: top;
+        }
+        tr:nth-child(even) { background: rgba(0,0,0,0.02); }
+        thead { display: table-header-group; }
+        tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
+        .flourish-divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            margin: 1.5rem 0;
+        }
+        .flourish-divider::before,
+        .flourish-divider::after {
+            content: '';
+            height: 2px;
+            width: 80px;
+            background: var(--color-accent);
+        }
+        .flourish-divider .divider-icon {
+            font-size: 1.2rem;
+            color: var(--color-accent);
+        }
+        .section-toc { margin: 1rem 0; break-inside: avoid; }
+        .section-toc h3 {
+            font-size: 1rem;
+            color: var(--color-accent);
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .section-toc ul {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 1rem 0;
+            columns: 2;
+            column-gap: 2rem;
+        }
+        .section-toc li { margin-bottom: 0.4rem; break-inside: avoid; }
+        .section-toc a {
+            color: var(--color-text-main);
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .section-toc-single ul { columns: 1; }
+        .alphabetical-index, .thematic-index {
+            column-count: 2;
+            column-gap: 30px;
+            font-size: 8.5pt;
+            line-height: 1.4;
+        }
+        .index-entry { break-inside: avoid; margin-bottom: 0.6rem; }
+        .index-letter {
+            font-family: var(--font-display);
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin: 1rem 0 0.5rem 0;
+            padding-bottom: 0.25rem;
+            border-bottom: 1px solid var(--color-accent);
+            break-after: avoid;
+        }
+        .index-keyword { font-weight: 600; color: var(--color-noir); display: block; }
+        .index-reference {
+            display: block;
+            padding-left: 1rem;
+            color: var(--color-text-sub);
+            font-size: 8pt;
+        }
+        .index-reference a {
+            color: var(--theme-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .mt-0 { margin-top: 0; }
+        .mt-1 { margin-top: 0.5rem; }
+        .mt-2 { margin-top: 1rem; }
+        .mb-0 { margin-bottom: 0; }
+        .mb-1 { margin-bottom: 0.5rem; }
+        .mb-2 { margin-bottom: 1rem; }
+        .text-center { text-align: center; }
+        .text-muted { color: var(--color-text-muted); }
+        @media screen {
+            body { background: #e5e1da; padding: 20px; }
+            .pagedjs_page { box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 20px; }
+        }
+        @media print {
+            * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+        }
+
+        /* ============================================
+           STYLE #2 ENHANCEMENTS
+           ============================================ */
+
+        /* 1. Corner Flourishes - L-shaped brackets at page corners */
+        .pagedjs_page::after {
+            content: '' !important;
+            position: absolute !important;
+            top: 28px !important;
+            left: 28px !important;
+            right: 28px !important;
+            bottom: 28px !important;
+            background:
+                /* Top-left corner */
+                linear-gradient(#065f46, #065f46) top left / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) top left / 2px 22px no-repeat,
+                /* Top-right corner */
+                linear-gradient(#065f46, #065f46) top right / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) top right / 2px 22px no-repeat,
+                /* Bottom-left corner */
+                linear-gradient(#065f46, #065f46) bottom left / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) bottom left / 2px 22px no-repeat,
+                /* Bottom-right corner */
+                linear-gradient(#065f46, #065f46) bottom right / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) bottom right / 2px 22px no-repeat !important;
+            pointer-events: none !important;
+            z-index: 1001 !important;
+        }
+
+        /* 6. Anchor Card Watermark */
+        .anchor-card {
+            position: relative;
+            overflow: hidden;
+        }
+        .anchor-card::before {
+            content: "\2726" !important;
+            position: absolute !important;
+            top: -5px !important;
+            right: -5px !important;
+            font-size: 5rem !important;
+            opacity: 0.06 !important;
+            transform: rotate(15deg) !important;
+            color: var(--theme-color) !important;
+            pointer-events: none !important;
+            z-index: 0 !important;
+        }
+
+        /* 7. Gradient Section Divider */
+        .section-divider {
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--color-accent), transparent);
+            margin: 2rem 0;
+        }
+
+        /* 2. Writing Box Labels (enhanced) */
+        .writing-box {
+            position: relative;
+        }
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+            opacity: 0.7;
+        }
+
+        /* 3. Iceberg Component */
+        .iceberg-container {
+            margin: 1.5rem 0;
+            background: white;
+            border: 1px solid var(--color-noir);
+            overflow: hidden;
+            break-inside: avoid;
+        }
+        .iceberg-surface {
+            background: rgba(226, 201, 138, 0.15);
+            padding: 20px 25px;
+            border-bottom: 2px dashed var(--theme-color);
+        }
+        .iceberg-depth {
+            background: white;
+            padding: 20px 25px;
+        }
+        .iceberg-label {
+            font-family: var(--font-display);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--color-text-muted);
+            display: block;
+            margin-bottom: 8px;
+        }
+        .iceberg-value {
+            font-family: var(--font-display);
+            font-size: 1.05rem;
+            color: var(--color-text-main);
+        }
+        .iceberg-sub {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 0.9rem;
+            color: var(--color-text-sub);
+            margin-top: 5px;
+        }
+
+        /* 4. Mirror Component */
+        .mirror-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2px;
+            background: var(--color-accent);
+            border: 1px solid var(--color-noir);
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .mirror-side {
+            background: white;
+            padding: 20px;
+        }
+        .mirror-side h5 {
+            margin: 0 0 10px 0;
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-align: center;
+        }
+        .mask-side h5 { color: var(--theme-color); }
+        .shadow-side { background: #f8f8f8; }
+        .shadow-side h5 { color: var(--color-noir); }
+
+        /* 5. Psychological Cycle / Flow Component */
+        .flow-cycle {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 1.5rem 0;
+            gap: 12px;
+            break-inside: avoid;
+        }
+        .flow-step {
+            width: 100%;
+            background: white;
+            border: 1px solid var(--theme-color);
+            padding: 15px 20px;
+            text-align: center;
+            position: relative;
+            box-shadow: 3px 3px 0px var(--color-accent);
+        }
+        .flow-step::after {
+            content: '\2193';
+            position: absolute;
+            bottom: -20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: var(--theme-color);
+            font-weight: bold;
+            font-size: 1.1rem;
+            z-index: 1;
+        }
+        .flow-step:last-child::after { content: none; }
+        .flow-label {
+            font-family: var(--font-display);
+            font-size: 0.55rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 5px;
+        }
+        .flow-text {
+            font-family: var(--font-display);
+            font-size: 0.95rem;
+        }
+    </style>
+</head>
+<body>
+
+<div class="section-title-page">
+    <span class="section-label">Section Four</span>
+    <h1>Economy, Labor<br>& Resources</h1>
+    <p class="section-intro">Money makes the world go round — even fantasy worlds. Economics determines who eats and who starves, who has power and who serves, who can choose their life and who has no choice at all. It shapes what people do all day, what they aspire to, and what they're willing to sacrifice.</p>
+    <hr class="section-divider">
+</div>
+
+
+<!-- ==========================================
+ SECTION 4: MINI-TOC
+ ========================================== -->
+
+<h2 class="mt-0">In This Section</h2>
+
+<div class="section-toc">
+    <h3>Concepts & Frameworks</h3>
+    <ul>
+        <li><a href="#s4-intro">A Note Before You Begin</a></li>
+        <li><a href="#s4-frameworks">How Economics Works in Romantasy</a></li>
+        <li><a href="#s4-patterns">Common Patterns</a></li>
+        <li><a href="#s4-mistakes">Common Mistakes</a></li>
+    </ul>
+</div>
+
+<div class="section-toc">
+    <h3>Part One: The Foundation</h3>
+    <ul>
+        <li><a href="#s4-economic-systems">Economic Systems</a></li>
+        <li><a href="#s4-currency">Currency & Scale</a></li>
+        <li><a href="#s4-work">Work & Occupations</a></li>
+        <li><a href="#s4-wealth">Wealth & Class</a></li>
+        <li><a href="#s4-resources">Resources & Scarcity</a></li>
+    </ul>
+</div>
+
+<div class="section-toc">
+    <h3>Part Two: Economy & Romance</h3>
+    <ul>
+        <li><a href="#s4-positions">Your Characters' Economic Positions</a></li>
+        <li><a href="#s4-wealth-gap">The Wealth Gap Dynamic</a></li>
+        <li><a href="#s4-gifts">Money, Gifts & What They Mean</a></li>
+        <li><a href="#s4-debt">Debt, Obligation & Economic Coercion</a></li>
+        <li><a href="#s4-labor">Labor & Occupation in Romance</a></li>
+        <li><a href="#s4-sacrifice">Economic Sacrifice</a></li>
+        <li><a href="#s4-quick-ref">Quick Reference</a></li>
+    </ul>
+</div>
+
+
+<!-- ==========================================
+ SECTION 4: INTRO PAGE
+ ========================================== -->
+
+<p class="lead-text">This section is divided into two parts:</p>
+
+<p><strong>Part One: The Foundation.</strong> How the economy actually works. What people do for a living, how wealth is created and distributed, what's valuable and what's scarce. This is the economic reality your characters live in regardless of their romantic situation.</p>
+
+<p><strong>Part Two: Economy & Romance.</strong> How economic realities create romantic tension. Power imbalances between lovers, financial pressures that force impossible choices, what money means when it passes between people who care about each other.</p>
+
+<p>You need both.</p>
+
+<h2 id="s4-intro">A Note Before You Begin</h2>
+
+<p>Not every question will apply to your story. <strong>Skip what doesn't.</strong></p>
+
+<p><strong>If your world mirrors a historical economy, focus on what's different.</strong> Focus on what deviates from reader expectations and what specifically creates tension for your romance.</p>
+
+<p><strong>Economics can stay in the background.</strong> If your obstacles are political, magical, or cultural rather than economic, develop just enough economy to make the world feel real.</p>
+
+
+<!-- ==========================================
+ SECTION 4: ECONOMIC FRAMEWORKS
+ ========================================== -->
+
+<h2 class="mt-0" id="s4-frameworks">How Economics Works in Romantasy</h2>
+
+<p>Economics in romantasy typically creates tension through <strong>imbalance</strong>, <strong>pressure</strong>, and <strong>transaction</strong>. Money isn't just money — it's power, security, freedom, and control.</p>
+
+<div class="framework-box">
+    <h4>Economic Imbalance</h4>
+    <p>When one character has significantly more wealth than the other:</p>
+    <ul>
+        <li>Power dynamics shift: who depends on whom?</li>
+        <li>Generosity can feel like control</li>
+        <li>Pride and shame enter the relationship</li>
+        <li>The question "do they love me or my money?" haunts the wealthy</li>
+    </ul>
+</div>
+
+<div class="framework-box">
+    <h4>Economic Pressure</h4>
+    <p>When financial necessity forces choices:</p>
+    <ul>
+        <li>Arranged marriages for money or alliance</li>
+        <li>Accepting employment from a love interest</li>
+        <li>Choosing security over love (or love over security)</li>
+        <li>Debt creating obligation</li>
+    </ul>
+</div>
+
+<div class="framework-box">
+    <h4>Economic Transaction</h4>
+    <p>When money or resources pass between lovers:</p>
+    <ul>
+        <li>Gifts carry meaning beyond their value</li>
+        <li>Help can feel like charity</li>
+        <li>Refusal can feel like rejection</li>
+        <li>"I owe you" creates imbalance</li>
+    </ul>
+</div>
+
+
+<!-- ==========================================
+ SECTION 4: PRICE TAG PRINCIPLE
+ ========================================== -->
+
+<h3 class="mt-0">The "Price Tag" Principle</h3>
+<p>In a world with economic systems, every romantic gesture has a price, whether characters acknowledge it or not. A gift isn't just thoughtful; it represents hours of labor, or careless wealth, or sacrifice. Choosing to stay with someone means forgoing the advantageous match. Running away together means abandoning financial security. Love doesn't exist outside economics. It exists <em>despite</em> economics.</p>
+
+<p>Think about the economic weight behind romantic choices:</p>
+
+<ul>
+    <li><strong>What love costs:</strong> Dowries refused, inheritances lost, profitable marriages rejected. Every "I choose you" has a price someone pays</li>
+    <li><strong>What money reveals:</strong> How characters spend, save, give, and refuse money shows their values more honestly than words. Generosity from poverty means more than generosity from wealth</li>
+    <li><strong>What debt creates:</strong> Financial obligation between lovers poisons equality. "You owe me" and "I can't repay you" corrode intimacy unless characters find ways to rebalance</li>
+    <li><strong>What scarcity forces:</strong> When resources are limited, sharing becomes sacrifice, and sacrifice becomes proof of love, but also a source of guilt</li>
+</ul>
+
+<p>The price tag principle works because economic reality grounds romantic idealism. "Love conquers all" is a beautiful sentiment — but your reader knows someone has to eat. When characters choose love at genuine financial cost, readers believe the choice. When they ignore economics entirely, the story floats free of consequence.</p>
+
+<div class="anchor-card">
+    <span class="anchor-title">The Key Question</span>
+    <div class="anchor-question">What does your character's romantic choice cost them economically — and is that cost real enough that readers feel the weight of the sacrifice?</div>
+</div>
+
+
+<!-- ==========================================
+ SECTION 4: COMMON PATTERNS
+ ========================================== -->
+
+<div style="break-inside: avoid;">
+<h2 class="mt-0" id="s4-patterns">Common Patterns: Economics in Romantasy</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Pattern</th>
+            <th>How It Works</th>
+            <th>What It Creates</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>The wealth gap</strong></td>
+            <td>One character rich, one poor</td>
+            <td>Power imbalance; questions about motives</td>
+        </tr>
+        <tr>
+            <td><strong>The economic rescue</strong></td>
+            <td>Wealthy character can solve poor character's problems</td>
+            <td>Gratitude vs. obligation; "am I being bought?"</td>
+        </tr>
+        <tr>
+            <td><strong>The arrangement</strong></td>
+            <td>Financial necessity forces proximity</td>
+            <td>Forced proximity; "is this real?"</td>
+        </tr>
+        <tr>
+            <td><strong>The debt</strong></td>
+            <td>One owes the other (money, life, service)</td>
+            <td>Obligation; when is the debt paid?</td>
+        </tr>
+        <tr>
+            <td><strong>The sacrifice</strong></td>
+            <td>One gives up wealth/security for love</td>
+            <td>High stakes; proving love isn't about money</td>
+        </tr>
+        <tr>
+            <td><strong>The inheritance threat</strong></td>
+            <td>Being together means losing fortune</td>
+            <td>External pressure; choosing love or security</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+
+<!-- ==========================================
+ SECTION 4: COMMON MISTAKES
+ ========================================== -->
+
+<h2 class="mt-0" id="s4-mistakes">Common Mistakes with Economic Worldbuilding</h2>
+
+<div class="mistake-box">
+    <div class="mistake-title">Mistake #1: The Meaningless Wealth Gap</div>
+    <p><strong>What it looks like:</strong> One character is rich and one is poor, but it never affects anything. The poor character has no financial pressures.</p>
+    <p><strong>Why it hurts your romance:</strong> Economic difference creates stakes only when it has real consequences.</p>
+    <span class="fix-label">How to Fix It</span>
+    <p>Make the gap mean something. The poor character faces real scarcity. The rich character's money affects the power dynamic.</p>
+</div>
+
+<div class="mistake-box">
+    <div class="mistake-title">Mistake #2: The Infinite Wealth</div>
+    <p><strong>What it looks like:</strong> The wealthy character can buy their way out of any problem. Money is never actually a constraint.</p>
+    <p><strong>Why it hurts your romance:</strong> Stakes require constraints. If wealth solves everything, the story loses tension.</p>
+    <span class="fix-label">How to Fix It</span>
+    <p>Give wealth limits. Their wealth is tied up, controlled by family, or comes with strings. Or money simply can't solve this particular problem.</p>
+</div>
+
+<div class="mistake-box">
+    <div class="mistake-title">Mistake #3: The Invisible Economy</div>
+    <p><strong>What it looks like:</strong> Characters exist in an economic vacuum. No one seems to work or worry about money.</p>
+    <span class="fix-label">How to Fix It</span>
+    <p>Ground characters in economic reality. Readers should understand how they survive. Choices have economic consequences.</p>
+</div>
+
+
+<!-- ==========================================
+ SECTION 4: PART ONE - FOUNDATION
+ ========================================== -->
+
+<span class="section-number break-before">Section 4 · Part One</span>
+<h1>The Foundation</h1>
+
+<h2 class="mt-2" id="s4-economic-systems">Economic Systems</h2>
+
+<p>The economic system defines how goods and services are produced, distributed, and consumed in your world. It determines who holds power, who can rise, and who is trapped. It shapes what obstacles your characters face and what choices they're forced to make. Whether your world runs on feudal land ownership, guild-controlled trades, or magical commerce, the system itself creates the playing field your romance unfolds on.</p>
+
+<p><strong>How to write it:</strong> Let economic realities shape your plot naturally. A character who needs money will take risks they'd otherwise avoid. A character with wealth has options but also becomes a target. Don't lecture readers about your economic system. Show it through what characters can and can't afford to do.</p>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-1">What type of economy exists in your world?</h4>
+<p class="hint">Consider how the economic system shapes daily life and what opportunities exist for your characters. Does it allow for social mobility, or are people locked into their station?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 25%">Type</th>
+            <th>✓</th>
+            <th>How Wealth Works</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Feudal/Agrarian</td>
+            <td></td>
+            <td>Land-based wealth; peasants work land owned by lords</td>
+        </tr>
+        <tr>
+            <td>Mercantile/Trade</td>
+            <td></td>
+            <td>Wealth from commerce; merchant class rising</td>
+        </tr>
+        <tr>
+            <td>Guild-Based</td>
+            <td></td>
+            <td>Professions controlled by guilds; must apprentice</td>
+        </tr>
+        <tr>
+            <td>Magical Economy</td>
+            <td></td>
+            <td>Magic is primary source of wealth/production</td>
+        </tr>
+        <tr>
+            <td>Scarcity/Survival</td>
+            <td></td>
+            <td>Resources desperately scarce; survival is primary concern</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-2">How is wealth created in your world?</h4>
+<p class="hint">Agriculture? Trade? Craftsmanship? Mining? Magic? Conquest?</p>
+<div class="writing-box"></div>
+</div>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-3">How does wealth move?</h4>
+<p class="hint">Can it be earned through work? Only inherited? Granted by rulers? Won through conquest?</p>
+<div class="writing-box"></div>
+</div>
+
+
+<!-- ==========================================
+ SECTION 4: CURRENCY & WORK
+ ========================================== -->
+
+<h2 class="mt-0" id="s4-currency">Currency & Scale</h2>
+
+<p>Currency is how your world measures value: the system that determines what things cost and what people can afford. Getting the scale of money right matters because it grounds your story in tangible reality and lets readers instantly understand the stakes when a character spends, earns, or loses money. Even if you never explain exchange rates on the page, you need to know them so that economic moments feel consistent and believable.</p>
+
+<p><strong>How to write it:</strong> Make money tangible. Instead of abstract numbers, show what money buys: a week's food, a horse, a dress that costs more than a servant's yearly wages. When your characters spend, show what they're giving up. When they receive, show what becomes possible. The weight of a coin purse tells your readers something numbers can't.</p>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-4">What's the rough scale of money?</h4>
+<p class="hint">Readers need to feel the weight of money in your story. What costs would make your protagonist wince, and what would your love interest spend without thinking?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Item</th>
+            <th>Approximate Cost</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Day's unskilled labor wage</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Simple meal</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Night at an inn</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>A decent horse</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>A year's comfortable living</td>
+            <td></td>
+        </tr>
+        <tr class="example-row">
+            <td>Day's unskilled labor wage</td>
+            <td>5 copper pieces; a skilled craftsman earns 2 silver</td>
+        </tr>
+        <tr class="example-row">
+            <td>Simple meal</td>
+            <td>2 copper at a tavern; 1 copper from a street vendor</td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<h3>Currency Design</h3>
+
+<p>You don't need to design a complete monetary system. But a few details about currency can make your world feel lived-in.</p>
+
+<p>What's stamped on a coin tells readers something about who's in power. What materials are used tells them what's valued. Perhaps gold coins show the king's face, or copper tokens bear a guild's symbol.</p>
+
+<p>These small choices help readers feel the weight of money when it changes hands in your story.</p>
+
+<h4>What materials is your currency made from?</h4>
+<p class="hint">Gold, silver, copper? Magical crystals? Stamped leather? Carved bone? The material itself says something about your world's resources and values.</p>
+<div class="writing-box small"></div>
+
+<h4>What's depicted on your currency?</h4>
+<p class="hint">Monarchs' faces? Religious symbols? Mythical creatures? National emblems? Consider what the ruling powers want citizens to see and remember every time they make a transaction.</p>
+<div class="writing-box small"></div>
+
+<h4>What are your currency denominations called?</h4>
+<p class="hint">Crowns, sovereigns, dragons, marks, florins? Names often reflect history, rulers, or cultural values. A coin called a "blessing" implies different values than one called a "skull."</p>
+<div class="writing-box small"></div>
+
+<h4>How do denominations relate to each other?</h4>
+<p class="hint">10 coppers to a silver? 20 silvers to a gold? Unusual ratios (like 12 or 7) can make your world feel distinct.</p>
+<div class="writing-box small"></div>
+
+<h4>Design Your Currency</h4>
+<p class="hint">Use this table to detail your currency system.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 20%">Denomination</th>
+            <th>Material</th>
+            <th>Value</th>
+            <th>What's Depicted</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Crown</td>
+            <td>Gold</td>
+            <td>100 coppers</td>
+            <td>Reigning monarch on front, royal crest on back</td>
+        </tr>
+        <tr class="example-row">
+            <td>Talon</td>
+            <td>Silver</td>
+            <td>10 coppers</td>
+            <td>Griffin clutching a sword</td>
+        </tr>
+        <tr class="example-row">
+            <td>Bit</td>
+            <td>Copper</td>
+            <td>Base unit</td>
+            <td>Sheaf of wheat</td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h2 id="s4-work">Work & Occupations</h2>
+
+<p>Work defines how your characters spend their days and shapes their identity, skills, and social standing. A character's occupation determines who they interact with, what they know, and what opportunities or limitations they face. In romance, occupational differences create natural friction. A healer and a soldier see the world through fundamentally different lenses, and that tension is story fuel.</p>
+
+<p><strong>How to write it:</strong> Ground your characters in the physical reality of their work. Show callused hands, ink-stained fingers, or the particular exhaustion that comes from standing at a forge all day. Occupation shapes not just what your characters do but how they think. A spy reads every conversation for hidden meaning, while a farmer measures time by seasons, not clocks. Use professional knowledge as a source of both competence and conflict; let your characters impress or unsettle each other with skills the other doesn't share. When two characters from different occupational worlds fall for each other, their clashing expertise and assumptions become a rich vein of romantic tension.</p>
+
+<h3>Reference: Fantasy Professions & Jobs</h3>
+
+<p class="hint">Use this list for inspiration when filling in occupation tables. What work shapes your characters' daily lives?</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Examples</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Nobility & Governance</strong></td>
+            <td>Lord/lady, steward, seneschal, ambassador, tax collector, herald, court advisor, magistrate</td>
+        </tr>
+        <tr>
+            <td><strong>Military & Combat</strong></td>
+            <td>Knight, soldier, guard, mercenary, assassin, archer, cavalry, siege engineer, weapons master</td>
+        </tr>
+        <tr>
+            <td><strong>Skilled Trades</strong></td>
+            <td>Blacksmith, carpenter, mason, tailor, cobbler, jeweler, glassblower, tanner, cooper, wheelwright</td>
+        </tr>
+        <tr>
+            <td><strong>Merchants & Trade</strong></td>
+            <td>Shopkeeper, trader, caravan master, ship captain, money-lender, auctioneer, innkeeper, tavern owner</td>
+        </tr>
+        <tr>
+            <td><strong>Service & Household</strong></td>
+            <td>Servant, maid, butler, cook, groom, lady's maid, valet, housekeeper, gardener, steward</td>
+        </tr>
+        <tr>
+            <td><strong>Food & Agriculture</strong></td>
+            <td>Farmer, shepherd, miller, baker, butcher, brewer, vintner, fisherman, beekeeper, hunter</td>
+        </tr>
+        <tr>
+            <td><strong>Healing & Medicine</strong></td>
+            <td>Healer, midwife, herbalist, apothecary, physician, surgeon, plague doctor, dentist</td>
+        </tr>
+        <tr>
+            <td><strong>Religious & Spiritual</strong></td>
+            <td>Priest, priestess, monk, nun, temple keeper, oracle, shrine maiden, inquisitor, exorcist</td>
+        </tr>
+        <tr>
+            <td><strong>Magical Professions</strong></td>
+            <td>Court mage, hedge witch, enchanter, potion-maker, diviner, ward-smith, spell-scribe, familiar handler</td>
+        </tr>
+        <tr>
+            <td><strong>Arts & Entertainment</strong></td>
+            <td>Bard, musician, actor, painter, sculptor, storyteller, jester, acrobat, dancer, playwright</td>
+        </tr>
+        <tr>
+            <td><strong>Scholarly & Learned</strong></td>
+            <td>Scribe, scholar, tutor, librarian, historian, cartographer, astronomer, alchemist, translator</td>
+        </tr>
+        <tr>
+            <td><strong>Underworld & Shadows</strong></td>
+            <td>Thief, pickpocket, smuggler, fence, spy, informant, bounty hunter, poisoner, tomb robber</td>
+        </tr>
+    </tbody>
+</table>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-5">What professions are respected? Looked down upon?</h4>
+<p class="hint">Occupational status shapes how people are treated and what doors open or close. If your characters have different occupations, how might society view their pairing?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Status</th>
+            <th>Occupations</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Highly respected</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Respectable/ordinary</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Necessary but low-status</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Disreputable or shameful</td>
+            <td></td>
+        </tr>
+        <tr class="example-row">
+            <td>Highly respected</td>
+            <td>Court mages, master healers, high priests, landed nobility</td>
+        </tr>
+        <tr class="example-row">
+            <td>Disreputable or shameful</td>
+            <td>Hedge witches, fortune-tellers, gravediggers, money-lenders</td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+
+<!-- ==========================================
+ SECTION 4: WEALTH & RESOURCES
+ ========================================== -->
+
+<h2 class="mt-0" id="s4-wealth">Wealth & Class</h2>
+
+<p>Wealth and class determine not just what your characters own, but how they move through the world: who defers to them, who dismisses them, and what doors open or close. In romance, class difference is one of the most powerful sources of tension because it affects whether characters can even occupy the same social spaces, let alone build a life together.</p>
+
+<p><strong>How to write it:</strong> Class difference is felt in small moments. The wealthy character who's never carried their own bags. The poor character who mentally calculates every meal's cost. Show class through what your characters notice: the rich notice beauty; the poor notice what things cost. When they enter each other's worlds, both feel out of place in different ways.</p>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-6">What does wealth look like at different levels?</h4>
+<p class="hint">Show the gap through concrete details. What does each character's home look like? What do they eat? What small luxuries does one take for granted that the other dreams of?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Level</th>
+            <th>What Life Looks Like</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Wealthy/Elite</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Comfortable</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Getting by</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Struggling</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Impoverished</td>
+            <td></td>
+        </tr>
+        <tr class="example-row">
+            <td>Wealthy/Elite</td>
+            <td>Multiple estates, servants for every task, never think about cost, can influence laws</td>
+        </tr>
+        <tr class="example-row">
+            <td>Struggling</td>
+            <td>One missed harvest from hunger, mending clothes repeatedly, sharing rooms with strangers</td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-7">Can people change their economic class?</h4>
+<p class="hint">Through work? Marriage? Education? Magical ability? Or is class fixed at birth?</p>
+<div class="writing-box"></div>
+</div>
+
+<h2 id="s4-resources">Resources & Scarcity</h2>
+
+<p>Resources are the raw materials your world runs on: food, fuel, magical ingredients, building materials, anything people need to survive and thrive. What's abundant and what's scarce shapes entire economies, power structures, and conflicts. For romance, resource scarcity creates organic stakes: characters who control something rare have leverage, and characters who need it have vulnerability.</p>
+
+<p><strong>How to write it:</strong> Scarcity creates desperation, and desperation drives plot. When resources are limited, every choice has stakes. A character who controls something scarce has power; a character who needs it has vulnerability. Use resource scarcity to force your characters into impossible positions, the choices that reveal who they really are.</p>
+
+<div class="anchor-card">
+    <span class="anchor-title">Building on Section 1</span>
+    <div class="anchor-question">Your Resource Foundation</div>
+    <p style="font-size: 0.9rem; color: var(--color-text-sub); margin: 0;">In <a href="01_Geography_Environment.html#s1-resources">Section 1: Resources & Territorial Control</a>, you mapped where resources are found and who controls them. Now we'll explore how that control creates economic stakes and romantic tension.</p>
+</div>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-8">What's the single most valuable resource in your world?</h4>
+<p class="hint">The thing people would kill for, die for, or sell their freedom for:</p>
+<div class="writing-box"></div>
+</div>
+
+<h3>Natural Resources &rarr; Culture Impact</h3>
+
+<p>What a place has shapes who its people become. A coastal village lives differently than a mining town.</p>
+
+<p>You don't need to catalog every resource in your world. Just think about the one or two things that define your main setting. Perhaps it's a forest kingdom where woodcraft is sacred, or a desert city built on control of the only water source.</p>
+
+<p>These resources create the backdrop for your characters' daily lives, and often, the source of their conflicts.</p>
+
+<h4>How do your world's primary resources shape local cultures?</h4>
+<p class="hint">Consider how abundance or scarcity of certain resources creates distinct traditions, crafts, and ways of life.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Resource</th>
+            <th>How It Shapes Culture</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Timber</td>
+            <td>Carpentry valued, forests sacred, wooden architecture dominates</td>
+        </tr>
+        <tr class="example-row">
+            <td>Gold/Precious metals</td>
+            <td>Mining economy, ornate craftsmanship, wealth displays define status</td>
+        </tr>
+        <tr class="example-row">
+            <td>Wool/Textiles</td>
+            <td>Weaving traditions passed down, nomadic herders, vibrant textile markets</td>
+        </tr>
+        <tr class="example-row">
+            <td>Grain/Agriculture</td>
+            <td>Harvest festivals central to calendar, farming cycles dictate life, land ownership matters deeply</td>
+        </tr>
+        <tr class="example-row">
+            <td>Salt</td>
+            <td>Preservation culture, salt mining communities, unique cuisine and trade routes</td>
+        </tr>
+        <tr class="example-row">
+            <td>Fish/Sea</td>
+            <td>Coastal culture, sailing traditions, sea worship, ports as cultural hubs</td>
+        </tr>
+        <tr class="example-row">
+            <td>Gemstones</td>
+            <td>Jewelry crafting traditions, mining towns, gem-based status symbols</td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 4: PART TWO - ECONOMY & ROMANCE
+ ========================================== -->
+
+<span class="section-number break-before">Section 4 · Part Two</span>
+<h1>Economy & Romance</h1>
+
+<h2 class="mt-2" id="s4-positions">Your Characters' Economic Positions</h2>
+
+<p>Where your characters fall on the spectrum from desperate poverty to effortless wealth shapes everything about how they experience the world. Economic position determines what a character worries about, what they take for granted, and what they'd sacrifice for love or security. Mapping each character's specific economic reality gives you concrete, personal stakes that generic "rich vs. poor" setups can't match.</p>
+
+<p><strong>How to write it:</strong> Economic position shapes worldview. Your characters who've always had money don't think about it the same way as those who've struggled. Show this through unconscious assumptions: what each character considers normal, what surprises them, what they fail to notice about the other's reality.</p>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-9">Where does your protagonist fall economically?</h4>
+<p class="hint">Their economic position shapes what they worry about, what they dream of, and what they would sacrifice for security or freedom.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Economic status (wealthy, comfortable, struggling, poor)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Source of income/survival</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Economic security (stable, precarious, desperate)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Economic autonomy (independent, dependent, controlled)</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-10">Where does your love interest fall economically?</h4>
+<p class="hint">How does their economic reality differ from your protagonist's? What assumptions do they make about money that might clash or align?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Economic status</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Source of income/survival</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Economic security</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Economic autonomy</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+
+<!-- ==========================================
+ SECTION 4: WEALTH GAP DYNAMICS
+ ========================================== -->
+
+<h2 class="mt-0" id="s4-wealth-gap">The Wealth Gap Dynamic</h2>
+
+<p>If your characters have different economic positions, that tension runs deeper than "one has money, one doesn't." The most interesting wealth-gap romances don't resolve this by pretending money doesn't matter. They work through it.</p>
+
+<p><strong>How to write it:</strong> Show the gap through small moments more than big gestures. The wealthy character casually ordering something the other couldn't afford in a month. The poor character flinching at prices. Different assumptions about what's "normal": having multiple coats, eating meat daily, never worrying about next month's rent. Show both directions: the wealthy character's obliviousness (not unkind, just inexperienced), and the poor character's knowledge the wealthy one lacks (how to stretch food, read a room for danger, survive without protection). When wealth difference creates friction, don't resolve it quickly — let characters struggle with pride, obligation, and the way money complicates everything. The best wealth-gap romances make readers feel both sides.</p>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-11">What can the wealthier character provide that the other can't access alone?</h4>
+<p class="hint">Safety? Comfort? Opportunity? Legal protection? Social access?</p>
+<div class="writing-box"></div>
+</div>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-12">What does the less wealthy character bring that money can't buy?</h4>
+<p class="hint">Skills? Knowledge? Magical ability? Street smarts? Moral clarity?</p>
+<div class="writing-box"></div>
+</div>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-13">How does the wealth gap affect their power dynamic?</h4>
+<p class="hint">Does one depend on the other? Is there resentment? Does the wealthy one use money as control?</p>
+<div class="writing-box"></div>
+</div>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-14">How do they each feel about the gap?</h4>
+<p class="hint">Shame? Guilt? Obliviousness? Resentment? These feelings may never be spoken aloud, but they shape every interaction.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Character</th>
+            <th>How They Feel About the Gap</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Wealthier character</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Less wealthy character</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+
+<!-- ==========================================
+ SECTION 4: MONEY, GIFTS & DEBT
+ ========================================== -->
+
+<h2 class="mt-0" id="s4-gifts">Money, Gifts & What They Mean</h2>
+
+<p>When money or expensive gifts pass between people who care about each other, it's never simple. For the giver, a gift can be an expression of care, or a substitute for harder things. For the receiver, it can feel like love made tangible, or like charity.</p>
+
+<p><strong>How to write it:</strong> The tension in financial offers is in the moment of decision. Slow down when one character offers and the other must respond. Show the internal calculation: the receiver weighing need against pride, wondering what accepting means. Show the giver noticing this hesitation, perhaps trying to make it easier, or accidentally making it worse. The words matter: "Let me help" versus "You need this" versus "It's nothing" carry different weights. After an offer is accepted or refused, show the aftermath: the lingering awkwardness, the shift in how they see each other. A refused offer can wound the giver; an accepted offer can bind the receiver. Neither is simple.</p>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-15">If the wealthier character offers to pay for something, how does the other feel?</h4>
+<p class="hint">Grateful? Humiliated? Obligated? Suspicious of motives?</p>
+<div class="writing-box"></div>
+</div>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-16">What financial gesture would be genuinely romantic — not transactional?</h4>
+<p class="hint">Not buying something expensive, but noticing what they need and providing it without being asked. The gesture that says "I see you" rather than "I can afford this."</p>
+<div class="writing-box"></div>
+</div>
+
+<h2 id="s4-debt">Debt, Obligation & Economic Coercion</h2>
+
+<p>Debt creates a relationship before there is a relationship. The problem with debt in romance is that it clouds consent.</p>
+
+<p><strong>How to write it:</strong> When debt exists between romantic interests, address the power imbalance directly. The romance only works if you show the character with power actively choosing not to use it, and the other character having genuine freedom to walk away. Otherwise you have coercion, not romance.</p>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-17">Is either character in debt?</h4>
+<p class="hint">Debt creates obligation, and obligation clouds consent. Does debt to the love interest (or a third party) complicate the romance?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>To whom</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>For what (money, life saved, magical service)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>What happens if they can't repay</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+
+<!-- ==========================================
+ SECTION 4: LABOR & SACRIFICE
+ ========================================== -->
+
+<h2 class="mt-0" id="s4-labor">Labor & Occupation in Romance</h2>
+
+<p>What people do for work isn't just how they earn money. It's how they spend most of their waking hours, what skills they develop, and often how they see themselves.</p>
+
+<p><strong>How to write it:</strong> Show characters in their work element. Competence is attractive — write scenes where your characters do what they're good at. Work also creates natural obstacles to romance: schedules that don't align, duties that call them away, colleagues who notice too much. Use the workplace as both setting and source of tension.</p>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-18">What does your protagonist do to survive?</h4>
+<p class="hint">Work shapes who we become. What skills, knowledge, and worldview has their occupation given them?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Occupation</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Skills learned through work</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-19">What does your love interest do to survive?</h4>
+<p class="hint">How does their work connect to or conflict with your protagonist's world? Do their occupations create proximity or distance?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Occupation</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Skills learned through work</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-20">How do their occupations bring them together or keep them apart?</h4>
+<p class="hint">Same workplace? Completely separate worlds? Does one employ the other?</p>
+<div class="writing-box"></div>
+</div>
+
+
+<!-- ==========================================
+ SECTION 4: SACRIFICE & QUICK REFERENCE
+ ========================================== -->
+
+<h2 class="mt-0" id="s4-sacrifice">Economic Sacrifice</h2>
+
+<p>One of romance's most powerful beats is the moment a character gives up material security for love. Economic sacrifice proves love is real in a way words cannot.</p>
+
+<p><strong>How to write it:</strong> Make the sacrifice concrete and visible. Not just "gave up the inheritance" but: the smaller apartment, the mended clothes, the dinner that's mostly bread. Show what daily life looks like after the sacrifice: the moments of regret, the moments of fierce certainty that it was worth it. The witness to this sacrifice matters: when the love interest realizes what their partner gave up, or when the sacrificer reveals it (or carefully doesn't reveal it, and the other discovers it anyway). Economic sacrifice is most powerful when it's ongoing, not a one-time grand gesture — it's choosing, every day, to live with less because what you gained matters more.</p>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s4-21">What economic security does each character sacrifice to be together?</h4>
+<p class="hint">What inheritance, income, protection, or opportunity do they lose by choosing each other? The sacrifice should cost enough to prove the love is real.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Character</th>
+            <th>What They Sacrifice</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Protagonist</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Love Interest</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<div style="break-inside: avoid;">
+<h2 id="s4-quick-ref">Quick Reference: Economic Stakes</h2>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Element</th>
+            <th>Your World</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Type of economy</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Primary economic obstacle for romance</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Economic power imbalance</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>The valuable/scarce resource</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Economic debt or obligation</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Economic sacrifice required to be together</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<div class="anchor-card">
+    <span class="anchor-title">Final Thought</span>
+    <div class="anchor-question">Money Gets Personal</div>
+    <p style="font-size: 0.9rem; color: var(--color-text-sub); margin: 0;">The question isn't "how does the tax system work?" — it's "what would this character do if they couldn't eat tomorrow?" Economics creates stakes when it forces impossible choices: Love or survival? Pride or security? Build an economy that makes these choices real.</p>
+</div>
+
+<div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
+
+<!-- ==========================================
+ SECTION 5: GOVERNMENT, POWER & LAW
+ ========================================== -->
+
+<!-- SECTION 5: TITLE PAGE -->
+</body></html>

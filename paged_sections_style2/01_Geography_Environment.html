@@ -1,0 +1,2573 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worldbuilding Workbook - Geography_Environment</title>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+    <style>
+        :root {
+            --color-worldbuilding: #065f46;
+            --color-worldbuilding-light: rgba(6, 95, 70, 0.1);
+            --color-bg: #fdfbf7;
+            --color-noir: #1a1515;
+            --color-accent: #e2c98a;
+            --color-danger: #9f1239;
+            --color-text-main: #121212;
+            --color-text-sub: #444444;
+            --color-text-muted: #888888;
+            --font-display: 'Libre Baskerville', serif;
+            --font-accent: 'Cormorant Garamond', serif;
+            --font-body: 'Inter', sans-serif;
+            --theme-color: var(--color-worldbuilding);
+            --theme-color-light: var(--color-worldbuilding-light);
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: var(--color-bg);
+            color: var(--color-text-main);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            font-size: 11pt;
+        }
+        @page {
+            size: 8.5in 11in;
+            margin: 70px 80px 100px 80px;
+            background: var(--color-bg);
+            @bottom-center {
+                content: counter(page);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.7rem;
+                font-weight: 700;
+                color: #065f46;
+            }
+            @bottom-left {
+                content: string(section-title);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.6rem;
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                color: #888;
+            }
+        }
+        @page:first {
+            @bottom-center { content: none; }
+            @bottom-left { content: none; }
+        }
+        .pagedjs_page {
+            background: var(--color-bg) !important;
+            position: relative !important;
+        }
+        .pagedjs_pagebox {
+            position: relative !important;
+        }
+        .pagedjs_pagebox::before {
+            content: '' !important;
+            position: absolute !important;
+            top: 15px !important;
+            left: 15px !important;
+            right: 15px !important;
+            bottom: 15px !important;
+            border: 3px solid #065f46 !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        .pagedjs_pagebox::after {
+            content: '' !important;
+            position: absolute !important;
+            top: 22px !important;
+            left: 22px !important;
+            right: 22px !important;
+            bottom: 22px !important;
+            border: 1px solid #e2c98a !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        h2 { string-set: section-title content(); }
+        h1 {
+            font-family: var(--font-display);
+            font-size: 2rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--color-noir);
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+        }
+        h2 {
+            font-family: var(--font-display);
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--color-noir);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--color-accent);
+            break-after: avoid;
+        }
+        h3 {
+            font-family: var(--font-display);
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+            break-after: avoid;
+        }
+        h4 {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            font-weight: 600;
+            font-style: italic;
+            color: var(--color-text-sub);
+            margin-top: 1.25rem;
+            margin-bottom: 0.5rem;
+            break-after: avoid;
+        }
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+            hyphens: auto;
+            orphans: 3;
+            widows: 3;
+        }
+        .lead-text {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+        }
+        .hint {
+            font-family: var(--font-accent);
+            font-style: italic;
+            color: var(--color-text-muted);
+            font-size: 0.95rem;
+            margin-top: -0.5rem;
+            margin-bottom: 1rem;
+            break-after: avoid;
+        }
+        ul, ol { margin: 1rem 0 1rem 1.5rem; }
+        li { margin-bottom: 0.5rem; }
+        .title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .title-page h1 {
+            font-size: 2.5rem;
+            letter-spacing: 6px;
+            margin-bottom: 0.5rem;
+        }
+        .title-page .divider {
+            width: 100px;
+            height: 2px;
+            background: var(--color-accent);
+            margin: 2rem 0;
+        }
+        .title-page .tagline {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            color: var(--color-text-muted);
+            max-width: 400px;
+        }
+        .section-number {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .section-title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .section-title-page .section-label {
+            font-family: var(--font-display);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            color: var(--theme-color);
+            margin-bottom: 1rem;
+        }
+        .section-title-page h1 {
+            font-size: 2.2rem;
+            margin-bottom: 1rem;
+        }
+        .section-title-page .section-intro {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.8;
+            max-width: 90%;
+        }
+        .anchor-card {
+            border: 2px solid var(--color-noir);
+            background: white;
+            margin: 1.5rem 0;
+            padding: 25px;
+            break-inside: avoid;
+        }
+        .anchor-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 12px;
+            display: block;
+        }
+        .anchor-question {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 1.15rem;
+            border-left: 3px solid var(--color-accent);
+            padding-left: 15px;
+        }
+        .framework-box {
+            border: 2px solid var(--theme-color);
+            background: var(--theme-color-light);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .framework-box h4 {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-top: 0;
+            margin-bottom: 1rem;
+            font-style: normal;
+        }
+        .framework-box p { margin-bottom: 0.75rem; }
+        .framework-box ul { margin: 0.5rem 0 0.5rem 1.5rem; }
+        .framework-box li { margin-bottom: 0.5rem; }
+        .mistake-box {
+            border-left: 4px solid var(--color-danger);
+            background: rgba(159, 18, 57, 0.05);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .mistake-box .mistake-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--color-danger);
+            margin-bottom: 0.75rem;
+        }
+        .mistake-box p { margin-bottom: 0.5rem; font-size: 0.9rem; }
+        .mistake-box p:last-child { margin-bottom: 0; }
+        .fix-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--theme-color);
+            display: block;
+            margin-top: 0.75rem;
+        }
+        .writing-box {
+            border: 1px solid var(--color-noir);
+            background: white;
+            padding: 15px 20px;
+            margin: 1rem 0 1.5rem 0;
+            min-height: 140px;
+            break-inside: avoid;
+        }
+        .writing-box.large { min-height: 200px; }
+        .writing-box.small { min-height: 80px; }
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .checklist {
+            list-style: none;
+            margin: 1rem 0;
+            break-inside: avoid;
+        }
+        .checklist li {
+            position: relative;
+            padding-left: 30px;
+            margin-bottom: 0.75rem;
+            font-size: 0.95rem;
+        }
+        .checklist li::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 2px;
+            width: 16px;
+            height: 16px;
+            border: 1px solid var(--theme-color);
+            background: white;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            font-size: 0.9rem;
+            break-inside: avoid;
+            border: 1px solid #1a1515;
+        }
+        th {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            background: var(--theme-color);
+            color: white;
+            padding: 12px 15px;
+            text-align: left;
+            border: 1px solid #1a1515;
+        }
+        td {
+            padding: 12px 15px;
+            border: 1px solid #1a1515;
+            vertical-align: top;
+        }
+        tr:nth-child(even) { background: rgba(0,0,0,0.02); }
+        thead { display: table-header-group; }
+        tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 55px;
+            height: 55px;
+        }
+        .input-table td:last-child {
+            min-height: 75px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 60px;
+        }
+        .flourish-divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            margin: 1.5rem 0;
+        }
+        .flourish-divider::before,
+        .flourish-divider::after {
+            content: '';
+            height: 2px;
+            width: 80px;
+            background: var(--color-accent);
+        }
+        .flourish-divider .divider-icon {
+            font-size: 1.2rem;
+            color: var(--color-accent);
+        }
+        .section-toc { margin: 1rem 0; break-inside: avoid; }
+        .section-toc h3 {
+            font-size: 1rem;
+            color: var(--color-accent);
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .section-toc ul {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 1rem 0;
+            columns: 2;
+            column-gap: 2rem;
+        }
+        .section-toc li { margin-bottom: 0.4rem; break-inside: avoid; }
+        .section-toc a {
+            color: var(--color-text-main);
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .section-toc-single ul { columns: 1; }
+        .alphabetical-index, .thematic-index {
+            column-count: 2;
+            column-gap: 30px;
+            font-size: 8.5pt;
+            line-height: 1.4;
+        }
+        .index-entry { break-inside: avoid; margin-bottom: 0.6rem; }
+        .index-letter {
+            font-family: var(--font-display);
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin: 1rem 0 0.5rem 0;
+            padding-bottom: 0.25rem;
+            border-bottom: 1px solid var(--color-accent);
+            break-after: avoid;
+        }
+        .index-keyword { font-weight: 600; color: var(--color-noir); display: block; }
+        .index-reference {
+            display: block;
+            padding-left: 1rem;
+            color: var(--color-text-sub);
+            font-size: 8pt;
+        }
+        .index-reference a {
+            color: var(--theme-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .mt-0 { margin-top: 0; }
+        .mt-1 { margin-top: 0.5rem; }
+        .mt-2 { margin-top: 1rem; }
+        .mb-0 { margin-bottom: 0; }
+        .mb-1 { margin-bottom: 0.5rem; }
+        .mb-2 { margin-bottom: 1rem; }
+        .text-center { text-align: center; }
+        .text-muted { color: var(--color-text-muted); }
+        .break-before { break-before: page; }
+        @media screen {
+            body { background: #e5e1da; padding: 20px; }
+            .pagedjs_page { box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 20px; }
+        }
+        @media print {
+            * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+        }
+
+        /* ============================================
+           STYLE #2 ENHANCEMENTS
+           ============================================ */
+
+        /* 1. Corner Flourishes - L-shaped brackets at page corners */
+        .pagedjs_page::after {
+            content: '' !important;
+            position: absolute !important;
+            top: 28px !important;
+            left: 28px !important;
+            right: 28px !important;
+            bottom: 28px !important;
+            background:
+                /* Top-left corner */
+                linear-gradient(#065f46, #065f46) top left / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) top left / 2px 22px no-repeat,
+                /* Top-right corner */
+                linear-gradient(#065f46, #065f46) top right / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) top right / 2px 22px no-repeat,
+                /* Bottom-left corner */
+                linear-gradient(#065f46, #065f46) bottom left / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) bottom left / 2px 22px no-repeat,
+                /* Bottom-right corner */
+                linear-gradient(#065f46, #065f46) bottom right / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) bottom right / 2px 22px no-repeat !important;
+            pointer-events: none !important;
+            z-index: 1001 !important;
+        }
+
+        /* 6. Anchor Card Watermark */
+        .anchor-card {
+            position: relative;
+            overflow: hidden;
+        }
+        .anchor-card::before {
+            content: "\2726" !important;
+            position: absolute !important;
+            top: -5px !important;
+            right: -5px !important;
+            font-size: 5rem !important;
+            opacity: 0.06 !important;
+            transform: rotate(15deg) !important;
+            color: var(--theme-color) !important;
+            pointer-events: none !important;
+            z-index: 0 !important;
+        }
+
+        /* 7. Gradient Section Divider */
+        .section-divider {
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--color-accent), transparent);
+            margin: 2rem 0;
+        }
+
+        /* 2. Writing Box Labels (enhanced) */
+        .writing-box {
+            position: relative;
+        }
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+            opacity: 0.7;
+        }
+
+        /* 3. Iceberg Component */
+        .iceberg-container {
+            margin: 1.5rem 0;
+            background: white;
+            border: 1px solid var(--color-noir);
+            overflow: hidden;
+            break-inside: avoid;
+        }
+        .iceberg-surface {
+            background: rgba(226, 201, 138, 0.15);
+            padding: 20px 25px;
+            border-bottom: 2px dashed var(--theme-color);
+        }
+        .iceberg-depth {
+            background: white;
+            padding: 20px 25px;
+        }
+        .iceberg-label {
+            font-family: var(--font-display);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--color-text-muted);
+            display: block;
+            margin-bottom: 8px;
+        }
+        .iceberg-value {
+            font-family: var(--font-display);
+            font-size: 1.05rem;
+            color: var(--color-text-main);
+        }
+        .iceberg-sub {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 0.9rem;
+            color: var(--color-text-sub);
+            margin-top: 5px;
+        }
+
+        /* 4. Mirror Component */
+        .mirror-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2px;
+            background: var(--color-accent);
+            border: 1px solid var(--color-noir);
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .mirror-side {
+            background: white;
+            padding: 20px;
+        }
+        .mirror-side h5 {
+            margin: 0 0 10px 0;
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-align: center;
+        }
+        .mask-side h5 { color: var(--theme-color); }
+        .shadow-side { background: #f8f8f8; }
+        .shadow-side h5 { color: var(--color-noir); }
+
+        /* 5. Psychological Cycle / Flow Component */
+        .flow-cycle {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 1.5rem 0;
+            gap: 12px;
+            break-inside: avoid;
+        }
+        .flow-step {
+            width: 100%;
+            background: white;
+            border: 1px solid var(--theme-color);
+            padding: 15px 20px;
+            text-align: center;
+            position: relative;
+            box-shadow: 3px 3px 0px var(--color-accent);
+        }
+        .flow-step::after {
+            content: '\2193';
+            position: absolute;
+            bottom: -20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: var(--theme-color);
+            font-weight: bold;
+            font-size: 1.1rem;
+            z-index: 1;
+        }
+        .flow-step:last-child::after { content: none; }
+        .flow-label {
+            font-family: var(--font-display);
+            font-size: 0.55rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 5px;
+        }
+        .flow-text {
+            font-family: var(--font-display);
+            font-size: 0.95rem;
+        }
+    </style>
+</head>
+<body>
+
+<div class="section-title-page">
+    <span class="section-label">Section One</span>
+    <h1>Geography &<br>Environment</h1>
+    <p class="section-intro">Geography isn't just a map —it's the landscape that shapes everything else. Mountains create borders that become political divisions. Deserts isolate cultures. Rivers determine where cities grow. Control of fertile valleys determines who holds power.</p>
+    <hr class="section-divider">
+</div>
+
+
+<!-- ==========================================
+ SECTION 1: MINI-TOC
+ ========================================== -->
+
+<h2 class="mt-0">In This Section</h2>
+
+<div class="section-toc">
+    <h3>Concepts & Frameworks</h3>
+    <ul>
+        <li><a href="#s1-intro">How to Think About Geography</a></li>
+        <li><a href="#s1-patterns">Common Geographic Patterns</a></li>
+        <li><a href="#s1-mistakes">Common Mistakes</a></li>
+        <li><a href="#s1-travel-times">Reference: Travel Times</a></li>
+    </ul>
+</div>
+
+<div class="section-toc">
+    <h3>Part One: The Foundation</h3>
+    <ul>
+        <li><a href="#s1-big-picture">The Big Picture: World's Scale</a></li>
+        <li><a href="#s1-naming">Naming Places</a></li>
+        <li><a href="#s1-kingdoms">Kingdoms & Nations Overview</a></li>
+        <li><a href="#s1-terrain">Terrain Types</a></li>
+        <li><a href="#s1-resources">Resources & Territorial Control</a></li>
+        <li><a href="#s1-sensory">Describing Your Setting</a></li>
+        <li><a href="#s1-climate">Climate, Weather & Seasons</a></li>
+        <li><a href="#s1-dangerous">Dangerous Regions</a></li>
+        <li><a href="#s1-borders">Borders & Boundaries</a></li>
+    </ul>
+</div>
+
+<div class="section-toc">
+    <h3>Part Two: Geography & Romance</h3>
+    <ul>
+        <li><a href="#s1-home">Home & Belonging</a></li>
+        <li><a href="#s1-worlds">Entering Each Other's Worlds</a></li>
+        <li><a href="#s1-travel">Travel & Distance</a></li>
+        <li><a href="#s1-isolated">Isolated Locations</a></li>
+        <li><a href="#s1-emotional">Places with Meaning</a></li>
+        <li><a href="#s1-integration">Integration Check</a></li>
+        <li><a href="#s1-quick-ref">Geography Summary</a></li>
+        <li><a href="#s1-maps">Map Making (Optional)</a></li>
+    </ul>
+</div>
+
+
+<!-- ==========================================
+ SECTION 1: INTRO PAGE
+ ========================================== -->
+
+<p class="lead-text">This section is divided into two parts:</p>
+
+<p><strong>Part One: The Foundation</strong> — The physical reality of your world. Terrain, climate, resources, dangers, and how geography shapes where and how people live. This is the geographic baseline that exists regardless of your characters' romantic situation.</p>
+
+<p><strong>Part Two: Geography & Romance</strong> — How physical geography creates romantic tension. Separation and proximity, dangerous journeys together, entering each other's worlds, places that hold emotional meaning.</p>
+
+<p>You need both.</p>
+
+<h2>A Note Before You Begin</h2>
+
+<p>Not every question will apply to your story. <strong>Skip what doesn't fit.</strong></p>
+
+<p><strong>Worldbuild for its own sake if you want.</strong> A richly developed world has value beyond what appears on the page. Use the "romance connection" prompts for brainstorming if they're helpful, or leave them blank if that element is just background texture.</p>
+
+<p><strong>Come back later.</strong> If you're not sure whether something matters yet, skip it and return once your story has taken more shape.</p>
+
+<p>This workbook is a tool, not a test.</p>
+
+<h2 id="s1-intro">How to Think About Geography in Romantasy</h2>
+
+<p>Geography in romantasy functions as a <strong>pressure system</strong> — the physical world can compress your characters together, force them apart, or create conditions where they must rely on each other. Before you draw a map, ask yourself: <em>What geographic situation does my romance need?</em></p>
+
+<p>Not every hill and river needs to serve the plot. But the geography you emphasize — the locations where scenes happen, the terrain your characters traverse, the distances between them — should be doing something. Background geography creates atmosphere and believability. Foreground geography creates story.</p>
+
+
+<!-- ==========================================
+ SECTION 1: GEOGRAPHY-AS-FRICTION FRAMEWORK
+ ========================================== -->
+
+<div style="break-inside: avoid;">
+<h3 class="mt-0">The Geography-as-Friction Framework</h3>
+<p class="hint">Develop geography that creates friction — between your characters, or between what they want and what they can have.</p>
+
+<div class="framework-box" style="margin: 1rem 0;">
+    <h4>Separation Friction</h4>
+    <p>What physical obstacles keep them apart?</p>
+    <ul>
+        <li>Different kingdoms separated by mountains</li>
+        <li>An ocean that takes months to cross</li>
+        <li>A magical barrier that can only be crossed under certain conditions</li>
+        <li>War zones that make travel deadly</li>
+    </ul>
+</div>
+
+<div class="framework-box" style="margin: 1rem 0;">
+    <h4>Proximity Friction</h4>
+    <p>What forces them together despite themselves?</p>
+    <ul>
+        <li>A snowed-in mountain pass</li>
+        <li>A ship voyage with no escape</li>
+        <li>An isolated estate or academy</li>
+        <li>A dangerous journey requiring partnership</li>
+    </ul>
+</div>
+
+<div class="framework-box" style="margin: 1rem 0;">
+    <h4>Resource Friction</h4>
+    <p>What geographic scarcity creates conflict?</p>
+    <ul>
+        <li>Water rights in a desert region</li>
+        <li>The only pass through the mountains</li>
+        <li>A rare magical resource found in contested territory</li>
+        <li>Trade routes that require cooperation between enemies</li>
+    </ul>
+</div>
+
+<p>Geography that doesn't create friction isn't wasted — it's just setting.</p>
+</div>
+
+
+<!-- ==========================================
+ SECTION 1: PRESSURE COOKER PRINCIPLE
+ ========================================== -->
+
+<h3 class="mt-0">The "Pressure Cooker" Principle</h3>
+<p>The most effective romantasy settings function as pressure cookers — environments that trap characters together and force interaction. The key is that <em>leaving must be impossible, dangerous, or carry unacceptable consequences</em>. When characters can't escape each other, they're forced to confront conflict instead of avoiding it, rely on each other despite distrust, and share space long enough for attraction to build beneath their defenses.</p>
+
+<p>Think about what makes the container seal tight:</p>
+
+<ul>
+    <li><strong>Physical trapping:</strong> Islands, academies, sieges, ships, remote estates — locations with literal boundaries characters cannot cross</li>
+    <li><strong>Circumstantial trapping:</strong> Dangerous wilderness requiring partnership, diplomatic missions, shared exile — situations where separating means failure or death</li>
+    <li><strong>Environmental trapping:</strong> Storms, seasons, magical barriers that prevent departure — external forces that make leaving impossible regardless of desire</li>
+    <li><strong>Social/political trapping:</strong> Arranged marriages, hostage situations, court obligations — circumstances where leaving would destroy reputation, alliance, or lives</li>
+</ul>
+
+<p>The pressure cooker works because proximity breeds intimacy. Characters see each other at their worst. They can't maintain facades. Small moments accumulate — shared meals, overheard conversations, accidental touches in tight quarters. The setting does half the work of bringing them together.</p>
+
+<div class="anchor-card">
+    <span class="anchor-title">The Key Question</span>
+    <div class="anchor-question">If your characters could simply walk away from each other, would they? If yes, your geography might need to make walking away impossible, dangerous, or costly.</div>
+</div>
+
+<div style="break-inside: avoid;">
+<h2 id="s1-patterns">Common Geographic Patterns in Romantasy</h2>
+
+<h3>Settings That Force Proximity</h3>
+
+<table>
+    <thead>
+        <tr>
+            <th>Setting Type</th>
+            <th>Why It Works</th>
+            <th>Examples</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>The Academy/Training Ground</strong></td>
+            <td>Characters live, train, and compete in close quarters with no escape</td>
+            <td><em>Fourth Wing</em>, <em>Zodiac Academy</em></td>
+        </tr>
+        <tr>
+            <td><strong>The Isolated Estate</strong></td>
+            <td>Limited cast, limited space, limited options for avoidance</td>
+            <td>Gothic romances, <em>Pride and Prejudice</em> variations</td>
+        </tr>
+        <tr>
+            <td><strong>The Ship/Caravan</strong></td>
+            <td>Moving container with enforced proximity and shared danger</td>
+            <td>Pirate romance, trade caravan stories</td>
+        </tr>
+        <tr>
+            <td><strong>The Siege/War Camp</strong></td>
+            <td>External threat forces cooperation; death is the alternative</td>
+            <td>Military romantasy</td>
+        </tr>
+        <tr>
+            <td><strong>The Prison/Captivity</strong></td>
+            <td>Hostage and captor, shared cell, or trapped in enemy territory together</td>
+            <td>Captive romance, enemies-to-lovers</td>
+        </tr>
+        <tr>
+            <td><strong>The Dangerous Quest</strong></td>
+            <td>Mission requires partnership; separating means failure or death</td>
+            <td>Quest narratives, escort missions</td>
+        </tr>
+        <tr>
+            <td><strong>The Snowed-In/Stranded</strong></td>
+            <td>Weather or disaster traps characters until conditions change</td>
+            <td>Cabin romance, "only one bed"</td>
+        </tr>
+        <tr>
+            <td><strong>The Royal Court</strong></td>
+            <td>Political obligations, arranged proximity, can't leave without scandal</td>
+            <td>Court intrigue, political marriage</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<!-- ==========================================
+ SECTION 1: MORE PATTERNS
+ ========================================== -->
+
+<h3 class="mt-0">Geographic Barriers That Create Stakes</h3>
+
+<table>
+    <thead>
+        <tr>
+            <th>Barrier Type</th>
+            <th>Romantic Function</th>
+            <th>Story Possibilities</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Mountain ranges</strong></td>
+            <td>Separate nations/cultures; make travel seasonal</td>
+            <td>Characters from opposite sides; winter trapping</td>
+        </tr>
+        <tr>
+            <td><strong>Oceans</strong></td>
+            <td>Create complete separation; make departure permanent</td>
+            <td>Letters across distance; the weight of leaving</td>
+        </tr>
+        <tr>
+            <td><strong>Deserts</strong></td>
+            <td>Isolate cultures; make resources precious</td>
+            <td>Oasis politics; survival journeys</td>
+        </tr>
+        <tr>
+            <td><strong>Magical borders</strong></td>
+            <td>Can be crossed only by certain people or under certain conditions</td>
+            <td>One character can cross, one cannot</td>
+        </tr>
+        <tr>
+            <td><strong>War zones</strong></td>
+            <td>Make travel deadly; create no-man's-land between peoples</td>
+            <td>Enemies from opposing sides</td>
+        </tr>
+        <tr>
+            <td><strong>Political borders</strong></td>
+            <td>Crossing means treason or exile</td>
+            <td>Forbidden love across enemy lines</td>
+        </tr>
+        <tr>
+            <td><strong>Cursed/Blighted lands</strong></td>
+            <td>Regions too dangerous to cross; require special protection</td>
+            <td>Must find another way; one character immune, one isn't</td>
+        </tr>
+        <tr>
+            <td><strong>Class geography</strong></td>
+            <td>Slums vs. palace district; social ruin to cross</td>
+            <td>Wrong-side-of-tracks romance; secret meetings in between spaces</td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>Environmental Conditions That Affect Romance</h3>
+
+<table>
+    <thead>
+        <tr>
+            <th>Condition</th>
+            <th>How It Creates Pressure</th>
+            <th>Romantic Beats It Enables</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Harsh winters</strong></td>
+            <td>Traps characters indoors; requires shared warmth</td>
+            <td>Forced proximity; "snowed in" scenarios</td>
+        </tr>
+        <tr>
+            <td><strong>Dangerous nights</strong></td>
+            <td>Characters must shelter together after dark</td>
+            <td>Shared watch; protective sleeping arrangements</td>
+        </tr>
+        <tr>
+            <td><strong>Seasonal access</strong></td>
+            <td>Passes close, ships can't sail, travel becomes impossible</td>
+            <td>Racing against time; trapped until spring</td>
+        </tr>
+        <tr>
+            <td><strong>Resource scarcity</strong></td>
+            <td>Sharing becomes necessary; generosity becomes meaningful</td>
+            <td>Sharing food/water; sacrifice for the other</td>
+        </tr>
+        <tr>
+            <td><strong>Extreme heat</strong></td>
+            <td>Travel only possible at night; requires shade-sharing, water rationing</td>
+            <td>Night travel intimacy; sharing precious water; heat exhaustion care</td>
+        </tr>
+        <tr>
+            <td><strong>Hostile territory after dark</strong></td>
+            <td>Monsters or predators hunt at night; must camp together for safety</td>
+            <td>One bed/bedroll situations; taking turns on watch; protective instincts</td>
+        </tr>
+        <tr>
+            <td><strong>Corrupted/poisoned land</strong></td>
+            <td>Regions that drain magic or health; must move quickly or rely on healer</td>
+            <td>Dependency on one character's abilities; racing against deterioration</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: COMMON MISTAKES
+ ========================================== -->
+
+<h2 class="mt-0" id="s1-mistakes">Common Mistakes with Geographic Worldbuilding</h2>
+
+<div class="mistake-box">
+    <div class="mistake-title">Mistake #1: The Teleporting World</div>
+    <p><strong>What it looks like:</strong> Characters travel vast distances with no sense of time passing. A journey that should take weeks happens between chapters with no mention of how they traveled or what dangers they faced.</p>
+    <p><strong>Why it hurts your romance:</strong> Distance has no weight. Separation has no stakes. Reunion carries no emotional punch.</p>
+    <span class="fix-label">How to Fix It</span>
+    <p>Establish travel times and stick to them. The journey itself can be where the romance happens.</p>
+</div>
+
+<div class="mistake-box">
+    <div class="mistake-title">Mistake #2: The Convenient Geography</div>
+    <p><strong>What it looks like:</strong> Geographic features appear or disappear based on plot needs. A mountain range exists when you need to separate characters but vanishes when they need to reunite.</p>
+    <p><strong>Why it hurts your romance:</strong> Readers notice. Stakes that feel fake are stakes that don't matter.</p>
+    <span class="fix-label">How to Fix It</span>
+    <p>Establish your geography early and let it constrain you. Let the physical world create problems you didn't plan for — those problems often generate the best scenes.</p>
+</div>
+
+<div class="mistake-box">
+    <div class="mistake-title">Mistake #3: The Empty Map</div>
+    <p><strong>What it looks like:</strong> You have a map with named places, but none feel lived-in. The geography exists but doesn't affect anything.</p>
+    <p><strong>Why it hurts your romance:</strong> Geography should create culture, which creates characters, which creates conflict. If your geography doesn't explain why people are the way they are, your world is just a painted backdrop.</p>
+    <span class="fix-label">How to Fix It</span>
+    <p>For every major geographic feature, ask: <em>How does this shape the people who live here?</em> Let geography explain cultural difference.</p>
+</div>
+
+
+<!-- ==========================================
+ SECTION 1: MORE MISTAKES + TRAVEL TIMES
+ ========================================== -->
+
+<div class="mistake-box">
+    <div class="mistake-title">Mistake #4: The Consequence-Free Environment</div>
+    <p><strong>What it looks like:</strong> Your world has dangerous regions and deadly terrain — but no one suffers consequences from them. Characters trek through the Deadly Wastes and emerge fine.</p>
+    <p><strong>Why it hurts your romance:</strong> If danger is all threat and no delivery, readers stop believing in it. And if readers don't believe the world is dangerous, they don't believe your characters need each other to survive it.</p>
+    <span class="fix-label">How to Fix It</span>
+    <p>Let the environment actually hurt people. Show consequences — exhaustion, injury, loss. Make survival meaningful.</p>
+</div>
+
+<div class="mistake-box">
+    <div class="mistake-title">Mistake #5: Geography Without Emotional Resonance</div>
+    <p><strong>What it looks like:</strong> You describe the setting in detail, but it's all physical — mountains are tall, forests are dense, cities are crowded. None of it connects to how your characters feel.</p>
+    <p><strong>Why it hurts your romance:</strong> Setting should be emotional landscape. The place where they first met should feel different than other places. The character's homeland should feel like <em>home</em>.</p>
+    <span class="fix-label">How to Fix It</span>
+    <p>Give each major location an emotional quality, and let characters experience it differently. The same castle might feel like prison to one character and sanctuary to another.</p>
+</div>
+
+<h2 id="s1-travel-times">Reference: Travel Times (Fantasy Approximations)</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Mode of Travel</th>
+            <th>Distance per Day</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Walking (easy terrain)</td>
+            <td>15-20 miles</td>
+            <td>Healthy adult, good weather</td>
+        </tr>
+        <tr>
+            <td>Walking (difficult terrain)</td>
+            <td>8-12 miles</td>
+            <td>Mountains, forest, desert</td>
+        </tr>
+        <tr>
+            <td>Horseback (sustainable)</td>
+            <td>25-35 miles</td>
+            <td>Without exhausting the horse</td>
+        </tr>
+        <tr>
+            <td>Horseback (hard riding)</td>
+            <td>50-60 miles</td>
+            <td>Cannot maintain long-term</td>
+        </tr>
+        <tr>
+            <td>Ship (sailing)</td>
+            <td>100-150 miles</td>
+            <td>Dependent on wind and current</td>
+        </tr>
+        <tr>
+            <td>Carriage/wagon</td>
+            <td>20-30 miles</td>
+            <td>Roads required; slower on rough terrain</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: PART ONE - FOUNDATION TITLE
+ ========================================== -->
+
+<span class="section-number break-before">Section 1 · Part One</span>
+<h1>The Foundation</h1>
+
+<h2 class="mt-2" id="s1-big-picture">The Big Picture: Your World's Scale</h2>
+
+<h4 id="q-s1-1">What's the geographic scope of your story?</h4>
+<p class="hint">Check the scope that best fits your story, then note the primary locations where your romance actually takes place.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 25%">Scope</th>
+            <th style="width: 40px;">✓</th>
+            <th>Primary Location(s)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Single city/location (isolated island, palace, academy)</td>
+            <td>✓</td>
+            <td>Thornwick Academy — a remote magical school on sea cliffs where students are trapped together for the term</td>
+        </tr>
+        <tr style="height: 80px;">
+            <td>Single city/location (isolated island, palace, academy)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 80px;">
+            <td>Single region (kingdom, province, territory)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 80px;">
+            <td>Multiple regions (nations, continents)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 80px;">
+            <td>Entire world (epic scope)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 80px;">
+            <td>Multiple worlds/realms (parallel dimensions, portals)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 80px;">
+            <td>Other: Describe →</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s1-2" class="break-before">If your world is large, where specifically does your romance happen?</h4>
+<p class="hint">You don't need to detail everything — just locations that matter.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Location Type</th>
+            <th>Name/Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Primary location</td>
+            <td>The Winter Court — an ice palace where protagonist is held hostage, forced into proximity with the prince</td>
+        </tr>
+        <tr style="height: 80px;">
+            <td>Primary location</td>
+            <td></td>
+        </tr>
+        <tr style="height: 80px;">
+            <td>Secondary location</td>
+            <td></td>
+        </tr>
+        <tr style="height: 80px;">
+            <td>Secondary location</td>
+            <td></td>
+        </tr>
+        <tr style="height: 80px;">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 80px;">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 80px;">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: NAMING PLACES
+ ========================================== -->
+
+<h2 class="break-before" id="s1-naming">Naming Places</h2>
+
+<p>Good place names make your world feel real. You don't need to invent a whole language — just notice how real places get their names.</p>
+
+<p>Most names come from geography (Blackwood, Riverside), historical figures (Washington), or descriptions in old languages (Oxford means "ford where oxen cross"). Borrow the patterns, not the exact words.</p>
+
+<h3>How to Research Naming Conventions</h3>
+
+<p>Want to create place names that evoke a particular culture or aesthetic? Here's how to find patterns yourself:</p>
+
+<div class="framework-box">
+    <h4>Quick Research Methods</h4>
+    <ul>
+        <li><strong>Search "[language] place name meanings"</strong> — e.g., "Old Norse place name meanings" or "Welsh place name elements"</li>
+        <li><strong>Search "[language] words for [terrain]"</strong> — e.g., "Japanese words for mountain" or "Gaelic words for river"</li>
+        <li><strong>Look up real places</strong> — Search "etymology of [real place name]" to see how actual names were constructed</li>
+        <li><strong>Wikipedia's toponymy pages</strong> — Search "[language] toponymy" for organized lists of place name elements</li>
+        <li><strong>Behind the Name</strong> — The website behindthename.com has a place names section with etymologies</li>
+    </ul>
+</div>
+
+<p>For deeper language work, see <a href="#s11-naming"><em>Section 11: Language & Communication</em></a>.</p>
+
+<h4 class="break-before">Common English Place Name Patterns</h4>
+<p class="hint">Mix prefixes and suffixes to generate names. "Ash" + "ford" = Ashford. "Black" + "moor" = Blackmoor.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 25%">Suffix</th>
+            <th>Meaning</th>
+            <th>Example</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>-ham</td>
+            <td>homestead, village</td>
+            <td>Nottingham</td>
+        </tr>
+        <tr>
+            <td>-ton / -town</td>
+            <td>fenced settlement</td>
+            <td>Brighton</td>
+        </tr>
+        <tr>
+            <td>-ford</td>
+            <td>river crossing</td>
+            <td>Oxford</td>
+        </tr>
+        <tr>
+            <td>-ley / -leigh</td>
+            <td>clearing, meadow</td>
+            <td>Barnsley</td>
+        </tr>
+        <tr>
+            <td>-dale / -vale</td>
+            <td>valley</td>
+            <td>Airedale</td>
+        </tr>
+        <tr>
+            <td>-burgh / -bury</td>
+            <td>fortified place</td>
+            <td>Edinburgh</td>
+        </tr>
+        <tr>
+            <td>-port</td>
+            <td>harbor, market town</td>
+            <td>Southport</td>
+        </tr>
+        <tr>
+            <td>-moor / -mere</td>
+            <td>marshland, lake</td>
+            <td>Windermere</td>
+        </tr>
+        <tr>
+            <td>-fell / -mount</td>
+            <td>hill, mountain</td>
+            <td>Scafell</td>
+        </tr>
+        <tr>
+            <td>-holme / -holm</td>
+            <td>island, water meadow</td>
+            <td>Stockholm</td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 class="break-before">Nordic/Scandinavian Place Name Patterns</h4>
+<p class="hint">Good for cold, northern, Viking-inspired settings. Old Norse roots appear in many English place names too.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 25%">Element</th>
+            <th>Meaning</th>
+            <th>Example</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>-by</td>
+            <td>farm, settlement</td>
+            <td>Whitby, Grimsby</td>
+        </tr>
+        <tr>
+            <td>-vik / -wick</td>
+            <td>bay, inlet</td>
+            <td>Reykjavik, Lerwick</td>
+        </tr>
+        <tr>
+            <td>-fjord / -firth</td>
+            <td>long narrow inlet</td>
+            <td>Sognefjord</td>
+        </tr>
+        <tr>
+            <td>-heim / -hem</td>
+            <td>home, world</td>
+            <td>Trondheim</td>
+        </tr>
+        <tr>
+            <td>-berg / -borg</td>
+            <td>mountain / fortress</td>
+            <td>Gothenburg</td>
+        </tr>
+        <tr>
+            <td>-dal / -dalen</td>
+            <td>valley</td>
+            <td>Gudvangen</td>
+        </tr>
+        <tr>
+            <td>-ness / -nes</td>
+            <td>headland, promontory</td>
+            <td>Skagen</td>
+        </tr>
+        <tr>
+            <td>-stad / -sted</td>
+            <td>place, site</td>
+            <td>Halstead</td>
+        </tr>
+        <tr>
+            <td>-land</td>
+            <td>land, territory</td>
+            <td>Iceland, Gotland</td>
+        </tr>
+        <tr>
+            <td>-thwaite</td>
+            <td>clearing, meadow</td>
+            <td>Braithwaite</td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 class="break-before">Celtic/Welsh Place Name Patterns</h4>
+<p class="hint">Good for mystical, ancient, fae-adjacent settings. Celtic names often describe landscape features poetically.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 25%">Element</th>
+            <th>Meaning</th>
+            <th>Example</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Aber-</td>
+            <td>river mouth</td>
+            <td>Aberdeen, Aberystwyth</td>
+        </tr>
+        <tr>
+            <td>Caer- / Car-</td>
+            <td>fort, stronghold</td>
+            <td>Caernarfon, Cardiff</td>
+        </tr>
+        <tr>
+            <td>Llan-</td>
+            <td>church, sacred enclosure</td>
+            <td>Llandudno</td>
+        </tr>
+        <tr>
+            <td>Pen-</td>
+            <td>head, top, end</td>
+            <td>Penrith, Penzance</td>
+        </tr>
+        <tr>
+            <td>Tre- / Tref-</td>
+            <td>homestead, town</td>
+            <td>Tremaine</td>
+        </tr>
+        <tr>
+            <td>Dun- / Din-</td>
+            <td>hill fort</td>
+            <td>Edinburgh (Dun Edin)</td>
+        </tr>
+        <tr>
+            <td>-combe / -cwm</td>
+            <td>valley</td>
+            <td>Ilfracombe</td>
+        </tr>
+        <tr>
+            <td>Glyn- / Glen-</td>
+            <td>valley</td>
+            <td>Glencoe</td>
+        </tr>
+        <tr>
+            <td>Loch- / Lough-</td>
+            <td>lake</td>
+            <td>Lochaber</td>
+        </tr>
+        <tr>
+            <td>Inver- / Innis-</td>
+            <td>river mouth / island</td>
+            <td>Inverness</td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 class="break-before">Slavic Place Name Patterns</h4>
+<p class="hint">Good for Eastern European-inspired settings. Slavic names often use descriptive compounds.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 25%">Element</th>
+            <th>Meaning</th>
+            <th>Example</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>-grad / -gorod</td>
+            <td>city, fortified place</td>
+            <td>Belgrade, Novgorod</td>
+        </tr>
+        <tr>
+            <td>-ov / -ova / -ovo</td>
+            <td>belonging to (possessive)</td>
+            <td>Sarajevo, Krakow</td>
+        </tr>
+        <tr>
+            <td>Novo- / Novy-</td>
+            <td>new</td>
+            <td>Novosibirsk</td>
+        </tr>
+        <tr>
+            <td>Staro- / Stary-</td>
+            <td>old</td>
+            <td>Starograd</td>
+        </tr>
+        <tr>
+            <td>-pol / -pole</td>
+            <td>field</td>
+            <td>Sevastopol</td>
+        </tr>
+        <tr>
+            <td>Belo- / Byelo-</td>
+            <td>white</td>
+            <td>Belgrade (Beograd)</td>
+        </tr>
+        <tr>
+            <td>Cerno- / Cherno-</td>
+            <td>black</td>
+            <td>Chernobyl</td>
+        </tr>
+        <tr>
+            <td>-ice / -itz</td>
+            <td>place suffix</td>
+            <td>Katowice</td>
+        </tr>
+        <tr>
+            <td>-sk / -sko</td>
+            <td>place/region suffix</td>
+            <td>Gdansk, Minsk</td>
+        </tr>
+        <tr>
+            <td>Veliko- / Veliky-</td>
+            <td>great, large</td>
+            <td>Veliky Novgorod</td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 class="break-before" id="q-s1-naming">Your World's Place Name Patterns</h4>
+<p class="hint">Create prefixes and suffixes that fit your world's languages. What sounds right for this culture?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 25%">Prefix/Suffix</th>
+            <th>Meaning</th>
+            <th>Example in Your World</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Kel- / -kel</td>
+            <td>silver, moonlight</td>
+            <td>Kelvareth (Silver City)</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: KINGDOMS & NATIONS OVERVIEW
+ ========================================== -->
+
+<h2 id="s1-kingdoms">Kingdoms & Nations Overview</h2>
+
+<p>Got multiple kingdoms or nations in your world? This table helps you keep track of them.</p>
+
+<p>You don't need to fill in every field. Just jot down what you know right now. Perhaps you only know the name and climate — that's fine. You can always come back later as your story takes shape.</p>
+
+<p class="hint">This is reference material. Fill in what you know now; come back as your world develops.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 25%;">Aspect</th>
+            <th style="border-left: 3px solid #1a1515;">Kingdom/Nation 1</th>
+            <th style="border-left: 3px solid #1a1515;">Kingdom/Nation 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Name</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Capital</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Neighbouring lands</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Known for</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Main industry/resource</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Climate</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Primary species</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Religion</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Government type</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Allies</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Enemies/rivals</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Notable landmark</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Role in your story</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+    </tbody>
+</table>
+
+<table class="input-table break-before">
+    <thead>
+        <tr>
+            <th style="width: 25%;">Aspect</th>
+            <th style="border-left: 3px solid #1a1515;">Kingdom/Nation 3</th>
+            <th style="border-left: 3px solid #1a1515;">Kingdom/Nation 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Name</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Capital</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Neighbouring lands</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Known for</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Main industry/resource</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Climate</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Primary species</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Religion</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Government type</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Allies</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Enemies/rivals</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Notable landmark</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+        <tr>
+            <td>Role in your story</td>
+            <td style="background: rgba(6, 95, 70, 0.04); border-left: 3px solid #1a1515;"></td>
+            <td style="background: rgba(226, 201, 138, 0.12); border-left: 3px solid #1a1515;"></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: TERRAIN TYPES
+ ========================================== -->
+
+<h2 class="mt-0" id="s1-terrain">Terrain Types</h2>
+
+<p>Not every terrain needs equal development. Consider what exists in your world — <em>mountains, forests, deserts, plains, wetlands, coastlines, islands, rivers, tundra, magical or unusual terrain</em> — then focus on the 2-3 that actually matter for your story: the ones your characters traverse, fight over, or call home.</p>
+
+<h4 id="q-s1-3">What terrains shape your story?</h4>
+<p class="hint">Only fill in terrains that matter. If your characters never see a desert, skip it.</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 20%">Terrain</th>
+            <th>Where?</th>
+            <th>What It Provides</th>
+            <th>What Challenges It Creates</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Mountains</td>
+            <td>Northern border</td>
+            <td>Defense, minerals, isolation</td>
+            <td>Impassable in winter, separates kingdoms</td>
+        </tr>
+        <tr style="height: 70px;">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 70px;">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 70px;">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 70px;">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 70px;">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 70px;">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: RESOURCES & TERRITORIAL CONTROL
+ ========================================== -->
+
+<h2 class="mt-0 break-before" id="s1-resources">Resources & Territorial Control</h2>
+
+<p>Geography determines who has what — and therefore, who has power. Fertile land, fresh water, mineral deposits, trade routes: these are worth fighting over, worth marrying for, worth dying for.</p>
+
+<p>In romantasy, resource control can create power imbalances that drive conflict between our two (or more) love interests. Resource control is a believable tactic to explain arranged marriages, political alliances, or economic pressures that force characters to make impossible choices.</p>
+
+<p><strong>How to write it:</strong> Don't explain resource conflict through exposition — show it through what characters can and can't do. A character from a water-scarce region might flinch at seeing someone leave a bath running. Someone from contested territory notices strategic value in landscape others see as beautiful. Let resource awareness emerge through small reactions, casual comments about price or scarcity, and the background hum of what everyone in this world worries about. When two characters come from opposite sides of a resource conflict, show the tension through what they assume about each other, what they're careful not to say, and the moments when privilege becomes visible.</p>
+
+<div class="anchor-card">
+    <span class="anchor-title">Real-World Inspiration</span>
+    <div class="anchor-question">Resources have always shaped conflict</div>
+    <p style="font-size: 0.9rem; color: var(--color-text-sub); margin: 0;"><strong>Oil</strong> drives wars and political alliances. <strong>Water rights</strong> spark disputes between nations sharing rivers. <strong>Spices</strong> once fueled colonial expansion. <strong>Salt</strong> was taxed so heavily it caused revolutions. <strong>Diamonds</strong> fund civil wars. <strong>Rare earth minerals</strong> create modern tech dependencies. What resource in your world holds this kind of power?</p>
+</div>
+
+<h3 class="break-before">Reference: Natural Resource Ideas</h3>
+
+<p class="hint">Use this list for inspiration when filling in the resource table below.</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Examples</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Precious Metals</strong></td>
+            <td>Gold, silver, copper, iron ore, bronze, platinum, mithril</td>
+        </tr>
+        <tr>
+            <td><strong>Gems & Stones</strong></td>
+            <td>Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble</td>
+        </tr>
+        <tr>
+            <td><strong>Textiles</strong></td>
+            <td>Silk, wool, linen, cotton, rare furs, leather, spider-silk, feathers</td>
+        </tr>
+        <tr>
+            <td><strong>Food & Agriculture</strong></td>
+            <td>Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits</td>
+        </tr>
+        <tr>
+            <td><strong>Animal Products</strong></td>
+            <td>Ivory, bone, whale oil, beeswax, dyes from shells (Tyrian purple), ambergris</td>
+        </tr>
+        <tr>
+            <td><strong>Plant Products</strong></td>
+            <td>Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee</td>
+        </tr>
+        <tr>
+            <td><strong>Fuel & Energy</strong></td>
+            <td>Coal, oil, charcoal, peat, magical crystals, dragon-fire, captured lightning</td>
+        </tr>
+        <tr>
+            <td><strong>Magical Resources</strong></td>
+            <td>Ley line access, enchanted springs, spell components, phoenix feathers, dragon scales</td>
+        </tr>
+        <tr>
+            <td><strong>Curiosities</strong></td>
+            <td>Fossils, meteoric iron, ancient artifacts, bottled starlight, tears of gods</td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 class="break-before" id="q-s1-4">What natural resources are geographically concentrated?</h4>
+<p class="hint">Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 25%">Resource</th>
+            <th>Where It's Found</th>
+            <th>Who Controls It</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Fertile farmland</td>
+            <td>River valley between the two kingdoms</td>
+            <td>Contested — marriage alliance proposed to end the conflict</td>
+        </tr>
+        <tr style="height: 50px;">
+            <td>Fertile farmland</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 50px;">
+            <td>Fresh water</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 50px;">
+            <td>Timber/forests</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 50px;">
+            <td>Mineral deposits</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 50px;">
+            <td>Coastal access/ports</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 50px;">
+            <td>Mountain passes</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 50px;">
+            <td>Magical resources</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 50px;">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 50px;">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="height: 50px;">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 class="break-before" id="q-s1-5">What geographic resource creates tension or conflict in your world?</h4>
+<p class="hint">Water rights? Arable land? Trade routes? Does the conflict show up as war, political marriage, trade embargo, or something subtler?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s1-6">How does geographic resource control affect your characters?</h4>
+<p class="hint">Does one character's family/nation control something the other's needs? Is there territorial dispute between their peoples?</p>
+<div class="writing-box">
+</div>
+
+<div class="anchor-card">
+    <span class="anchor-title">Continue in Section 4</span>
+    <div class="anchor-question">Resources & Scarcity</div>
+    <p style="font-size: 0.9rem; color: var(--color-text-sub); margin: 0;">You've mapped where resources are found and who controls them. In <a href="04_Economy_Labor_Resources.html#s4-resources">Section 4: Resources & Scarcity</a>, you'll explore how resource control creates economic stakes, cultural traditions, and romantic tension.</p>
+</div>
+
+
+<!-- ==========================================
+ SECTION 1: SENSORY WORLD
+ ========================================== -->
+
+<h2 class="mt-0" id="s1-sensory">Describing Your Setting</h2>
+
+<p>Geography isn't just about what's there — it's about what it feels like to be there. The sensory details of your setting create the emotional texture of scenes. A first kiss hits differently in a garden heavy with night-blooming jasmine than in a stone corridor that smells of torch smoke.</p>
+
+<p><strong>How to write it:</strong> Filter sensory details through your POV character's emotional state. A character falling in love notices the warmth of sunlight, the sweet smell of blossoms, the softness of grass. The same garden, to a grieving character, might feel too bright, the flowers cloying, the birdsong intrusive. You don't need to describe everything — pick 2-3 sensory details per scene that reinforce the mood you're creating.</p>
+
+<p>Avoid the "weather report" opening (starting scenes with neutral descriptions of setting). Instead, integrate sensory details into action and emotion: not "The room was cold" but "She pulled her cloak tighter, breath misting in the unheated chamber." The character's interaction with the environment reveals both setting and feeling simultaneously.</p>
+
+<h4 id="q-s1-7">What does your primary setting look, sound, smell, and feel like?</h4>
+<p class="hint">Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 80px;">Sense</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Sight</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Sound</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Smell</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Touch</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s1-8">How does the environment change at different times of day?</h4>
+<p class="hint">Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 80px;">Time</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Morning</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Midday</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Evening</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Night</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s1-9">What's beautiful about this place?</h4>
+<p class="hint">The details a character falling in love would notice. What would make someone homesick for this place?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s1-10">What's harsh or uncomfortable about this place?</h4>
+<p class="hint">What do people endure or complain about? What takes getting used to?</p>
+<div class="writing-box">
+</div>
+
+
+<!-- ==========================================
+ SECTION 1: CLIMATE & SEASONS
+ ========================================== -->
+
+<h2 class="mt-0" id="s1-climate">Climate, Weather & Seasons</h2>
+
+<p>Weather creates immediate physical conditions that affect what's possible — travel, agriculture, warfare, daily life. Seasons can function as deadlines (they must marry before winter closes the pass), as waiting periods (trapped together until spring thaw), or as markers of time passing in a slow-burn romance.</p>
+
+<p><strong>How to write it:</strong> Use seasonal markers to show time passing without stating it directly — the first frost, the smell of rain after months of drought, the angle of afternoon light. Weather works best when it creates immediate physical problems: wet clothing that must be removed, cold that requires shared warmth, heat that makes tempers short. Don't just describe weather — show characters adapting to it, complaining about it, making decisions around it. A change in season can mirror emotional shifts: a relationship that thaws as winter ends, tension that builds with summer heat, a reckoning that arrives with autumn.</p>
+
+<h4 class="break-before" id="q-s1-11">What's the overall climate?</h4>
+<p class="hint">Tropical, temperate, arid, polar? How does it shape what people wear, build, and grow?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s1-12">What seasons exist and how distinct are they?</h4>
+<p class="hint">Traditional four seasons? A long winter and brief summer? Magical seasons tied to something other than the sun?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s1-13">What season is your story set in?</h4>
+<p class="hint">Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 100px;">Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="height: 65px;">
+            <td>Season</td>
+            <td></td>
+        </tr>
+        <tr style="height: 90px;">
+            <td>Makes possible</td>
+            <td></td>
+        </tr>
+        <tr style="height: 90px;">
+            <td>Makes impossible</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 class="break-before" id="q-s1-14">How do seasons affect life in your world?</h4>
+<p class="hint">When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 25%">Season</th>
+            <th>What's Possible</th>
+            <th>What's Impossible</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Summer/warm season</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Winter/cold season</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Transitional seasons</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s1-15">Does the season create pressure or opportunity in your story?</h4>
+<p class="hint">Racing against winter? Waiting for spring thaw? Only able to travel in summer?</p>
+<div class="writing-box">
+</div>
+
+
+<!-- ==========================================
+ SECTION 1: DANGEROUS REGIONS & BORDERS
+ ========================================== -->
+
+<h2 class="mt-0" id="s1-dangerous">Dangerous Regions</h2>
+
+<p>Every world has places that are deadly — and therefore avoided, or crossed only with preparation and company. Dangerous regions serve romance by raising stakes and forcing partnership. Survival requires cooperation. Cooperation requires trust. Trust requires vulnerability.</p>
+
+<p><strong>How to write it:</strong> The most common mistake is telling readers a place is deadly without proving it. Characters warn "No one survives the Thornwood" while protagonists stroll through unscathed. To make danger feel real, show consequences: guides get injured, supplies run low, mistakes cost blood. When characters emerge, they should be changed — exhausted, wounded, closer. The journey through danger is where walls come down.</p>
+
+<h4 class="break-before" id="q-s1-16">What regions are dangerous or forbidden?</h4>
+<p class="hint">Every world has places people warn you not to go. What makes them deadly? What would force your characters there anyway?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 25%">Region</th>
+            <th>What Makes It Dangerous</th>
+            <th>Who Goes There Anyway (and Why)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>The Blighted Wastes</td>
+            <td>Corrupted magic, monsters, no water for miles, disorienting mists</td>
+            <td>Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s1-17">Do your characters travel through dangerous territory?</h4>
+<p class="hint">Shared danger bonds people fast. What threats would force them to rely on each other?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 155px;">Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="height: 60px;">
+            <td>Where and why</td>
+            <td></td>
+        </tr>
+        <tr style="height: 60px;">
+            <td>What dangers they face</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h2 id="s1-borders">Borders & Boundaries</h2>
+
+<h4 id="q-s1-18">What geographic features create borders?</h4>
+<p class="hint">Mountain ranges? Rivers? Oceans? Magical barriers? Deserts?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s1-19">How permeable are these borders?</h4>
+<p class="hint">Easy to cross? Heavily guarded? Physically impassable? Seasonally accessible?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s1-20">Do your characters come from opposite sides of a significant border?</h4>
+<p class="hint">Borders create "us" and "them." What assumptions would each character have about someone from the other side?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 310px;">Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="height: 80px;">
+            <td>What separates them</td>
+            <td></td>
+        </tr>
+        <tr style="height: 80px;">
+            <td>What crossing means (legally, socially, personally)</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: PART TWO - GEOGRAPHY & ROMANCE
+ ========================================== -->
+
+<span class="section-number break-before">Section 1 · Part Two</span>
+<h1>Geography & Romance</h1>
+
+<h2 class="mt-2" id="s1-home">Home & Belonging</h2>
+
+<p>Geography isn't just physical — it's emotional. Home is one of the most emotionally charged concepts in romance. Characters may leave home to find love, may be torn between love and home, may find that home becomes wherever the other person is — or may discover that choosing this person means exile from everything familiar.</p>
+
+<p><strong>How to write it:</strong> Show home through specific, sensory details rather than telling readers a place matters. What does your character reach for when they're homesick? What smell instantly transports them back? When writing scenes set in a character's home territory, let them move through space with ease and familiarity — they know which floorboard creaks, which window sticks. Contrast this with how they move through unfamiliar spaces: hesitant, observant, slightly off-balance. The tension between "where I belong" and "where love is taking me" creates some of romance's most powerful emotional beats. A character choosing to stay in their lover's world — or asking their lover to come to theirs — is a declaration as significant as any verbal confession.</p>
+
+<h4 id="q-s1-21">Where does your protagonist feel at home?</h4>
+<p class="hint">The place that shaped them, where they feel most themselves:</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s1-22">What does home look, smell, sound like to them?</h4>
+<p class="hint">The sensory details that mean "home":</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s1-23">Where does your love interest feel at home?</h4>
+<p class="hint">The place that shaped them, where they're most themselves. How different is it from your protagonist's home?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s1-24">Where does each character feel like an outsider?</h4>
+<p class="hint">Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Character</th>
+            <th>Where They Feel Alien</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Protagonist</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Love interest</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: ENTERING EACH OTHER'S WORLDS
+ ========================================== -->
+
+<h2 class="mt-0" id="s1-worlds">Entering Each Other's Worlds</h2>
+
+<p>If your characters come from different places, visiting each other's territory is significant. There's a particular vulnerability in bringing someone into your home territory. You see your world through their eyes, noticing things you'd stopped seeing — both the beauty and the flaws.</p>
+
+<p><strong>How to write it:</strong> When a character enters their love interest's world, filter every observation through their outsider perspective. What confuses them? What impresses them? What makes them uncomfortable? Use their reactions to reveal both the world and the character. The "native" character, meanwhile, experiences a different kind of vulnerability — suddenly aware of poverty they'd normalized, privilege they'd taken for granted, or customs that seem strange when explained aloud. Write the small moments: the love interest automatically reaching to help with something the visitor doesn't know how to do, the visitor mispronouncing a word everyone here knows, the native defending their home against a criticism they privately agree with. These fish-out-of-water scenes build intimacy because they require explanation, patience, and the trust to look foolish in front of someone.</p>
+
+<h4 id="q-s1-25">Does one character visit the other's home territory?</h4>
+<p class="hint">Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 155px;">Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Who visits whose world</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="q-s1-26">What's the sensory experience of entering unfamiliar territory?</h4>
+<p class="hint">What do they notice first? What's strange? What's beautiful? What's uncomfortable?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s1-27">How does the "native" character see their home differently through the visitor's eyes?</h4>
+<p class="hint">Pride? Shame? New appreciation? Defensiveness?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s1-28">What does the visitor understand about their partner after seeing where they come from?</h4>
+<p class="hint">Place explains people. What becomes clear about your love interest once you see where they grew up?</p>
+<div class="writing-box">
+</div>
+
+
+<!-- ==========================================
+ SECTION 1: TRAVEL & ISOLATED LOCATIONS
+ ========================================== -->
+
+<h2 class="mt-0" id="s1-travel">Travel & Distance</h2>
+
+<p>Distance creates stakes. If characters can teleport anywhere, separation has no weight. If journeys take weeks, every departure matters.</p>
+
+<p><strong>How to write it:</strong> Travel forces shared vulnerability—tending blisters, sharing warmth, enforced proximity. Danger bonds people faster than safety. For separation, make distance felt: letters arriving too late, the agony of not knowing.</p>
+
+<h4 id="q-s1-29">How do people typically travel?</h4>
+<p class="hint">On foot? Horseback? Ships? Flying creatures? Magical transportation?</p>
+<div class="writing-box small">
+</div>
+
+<p class="hint">See <a href="#s1-travel-times">Reference: Travel Times</a> earlier in this section for distance estimates.</p>
+
+<h4 id="q-s1-30">How long does travel take between key locations?</h4>
+<p class="hint">Distance creates stakes. A week apart feels different than a year. How painful is separation in your world?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Route</th>
+            <th>Travel Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>From capital to border</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>From one character's home to the other's</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Across the dangerous region</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 class="break-before" id="q-s1-31">Do your characters undertake a significant journey?</h4>
+<p class="hint">The road is where walls come down. What would a long journey together reveal about each of them?</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Aspect</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>From where to where</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>How long</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>What happens during the journey</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<h2 id="s1-isolated">Isolated Locations</h2>
+
+<p>Isolation is romance's secret weapon. When characters cannot leave, they cannot avoid each other — and avoidance is the enemy of romantic development. Isolated settings force confrontation, require cooperation, and create the pressure that transforms reluctant attraction into something undeniable.</p>
+
+<p><strong>How to write it:</strong> Establish early why leaving isn't an option, and make that reason feel real and insurmountable. Then use the confined space intentionally: the only warm room where everyone gathers, the narrow hallways where characters keep brushing past each other, the shared resources that require negotiation. Write the claustrophobia alongside the intimacy — isolation can feel oppressive, and characters might resent their forced proximity even as attraction builds. The best isolated-setting romances use the location's specific constraints: a ship means someone must keep watch, an academy means competitive dynamics, a snowed-in estate means dwindling supplies. Let the setting generate plot. And remember: when characters finally could leave but choose to stay, that choice becomes a declaration.</p>
+
+<h4 class="break-before" id="q-s1-32">What isolated locations exist?</h4>
+<p class="hint">Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:</p>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 20%">Location</th>
+            <th>Type</th>
+            <th>Why People Go</th>
+            <th>Why Leaving Is Difficult</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Stormhold Keep</td>
+            <td>Remote mountain fortress</td>
+            <td>Political prisoners sent there; protagonist exiled after scandal</td>
+            <td>Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: EMOTIONAL LANDSCAPE & INTEGRATION
+ ========================================== -->
+
+<h2 class="mt-0" id="s1-emotional">Places with Meaning</h2>
+
+<p>The physical world can resonate with or contrast against the emotional journey. A love scene in a sunlit meadow feels different than one in a crumbling tower. A confession during a storm carries different weight than one in stillness.</p>
+
+<p><strong>How to write it:</strong> Match or intentionally contrast your setting with emotional beats. A first kiss in a dangerous place carries urgency; the same kiss in a peaceful garden suggests safety and choice. Use pathetic fallacy sparingly but effectively — a storm during a confrontation, sunlight breaking through as characters reconcile. More subtly, let characters notice their environment differently based on emotional state: a character in love sees beauty everywhere; a heartbroken character finds the same landscape bleak. Create "their place" — a location that becomes sacred to the relationship, whether it's where they first met, first kissed, or survived something together. When characters return to meaningful locations, the resonance should be felt without being over-explained. A single line — "She hadn't been back to the bridge since that night" — can carry enormous weight if you've built the association.</p>
+
+<h4 id="q-s1-33">What's the emotional quality of your primary setting?</h4>
+<p class="hint">Does it feel oppressive, expansive, peaceful, threatening, beautiful, decaying?</p>
+<div class="writing-box">
+</div>
+
+<h4 id="q-s1-34">Is there a location that becomes meaningful to your characters specifically?</h4>
+<p class="hint">A place they return to, a place where something changed, a place that's "theirs":</p>
+<div class="writing-box">
+</div>
+
+<h2 id="s1-integration">Integration Check</h2>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 52%">Question</th>
+            <th>Your Answer</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>How does geography explain cultural differences? <em>(Reference: Section 3)</em></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>How does geography create or reinforce power structures? <em>(Reference: Section 5)</em></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>How does geography interact with magic? <em>(Reference: Section 8)</em></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>What geographic resource or territory is contested in your world?</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: QUICK REFERENCE
+ ========================================== -->
+
+<h2 class="mt-0" id="s1-quick-ref">Geography Summary</h2>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Element</th>
+            <th>Your World</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Key location 1</td>
+            <td>The Winter Court — where protagonist is hostage and love interest is prince</td>
+        </tr>
+        <tr>
+            <td>Key location 1</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Key location 2</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Key location 3</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>The contested resource or territory</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>The barrier separating peoples or characters</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>The dangerous region</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>The isolated location</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>The significant journey (from → to)</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>The place that matters emotionally</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- ==========================================
+ SECTION 1: MAP MAKING
+ ========================================== -->
+
+<h2 class="break-before" id="s1-maps">Map Making (Optional)</h2>
+
+<p>You don't need a map, but one can help keep travel times consistent. Build geography around plot needs: How far is the border? Where might lovers meet in secret?</p>
+
+<p class="hint"><strong>Tools:</strong> Inkarnate (free tier) · Azgaar's Fantasy Map Generator (free) · Wonderdraft (one-time purchase) · Donjon (free) · World Anvil (subscription)</p>
+
+<h4>What to Include on Your Map</h4>
+
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 30%">Category</th>
+            <th>Possible Locations</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Geographic features</td>
+            <td>Mountains, rivers, forests, lakes, coastlines, islands, deserts, swamps, valleys</td>
+        </tr>
+        <tr>
+            <td>Political boundaries</td>
+            <td>Kingdom borders, disputed territories, neutral zones, conquered lands</td>
+        </tr>
+        <tr>
+            <td>Cities & settlements</td>
+            <td>Capitals, port cities, border towns, villages, abandoned settlements</td>
+        </tr>
+        <tr>
+            <td>Trade & travel</td>
+            <td>Major roads, trade routes, mountain passes, river crossings, ports</td>
+        </tr>
+        <tr>
+            <td>Fortifications</td>
+            <td>Castles, walls, watchtowers, military camps, fortresses</td>
+        </tr>
+        <tr>
+            <td>Religious sites</td>
+            <td>Temples, shrines, pilgrimage routes, sacred groves, forbidden places</td>
+        </tr>
+        <tr>
+            <td>Magical locations</td>
+            <td>Ley lines, magical academies, cursed regions, power sources</td>
+        </tr>
+        <tr>
+            <td>Story-specific</td>
+            <td>Where characters meet, where they're forbidden to go, where they flee to</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="anchor-card">
+    <span class="anchor-title">Final Thought</span>
+    <div class="anchor-question">Your map isn't just where things are — it's why characters must make the choices they make. The mountain range is why two nations distrust each other. The desert is why whoever controls the oasis controls the trade route.</div>
+    <p style="font-size: 0.9rem; color: var(--color-text-sub); margin: 0;">Build geography that explains your world and creates the situations your story needs.</p>
+</div>
+
+<div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
+
+<!-- ==========================================
+ SECTION 2: TITLE PAGE
+ ========================================== -->
+</body></html>

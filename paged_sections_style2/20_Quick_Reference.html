@@ -1,0 +1,1743 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worldbuilding Workbook - Quick_Reference</title>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+    <style>
+        :root {
+            --color-worldbuilding: #065f46;
+            --color-worldbuilding-light: rgba(6, 95, 70, 0.1);
+            --color-bg: #fdfbf7;
+            --color-noir: #1a1515;
+            --color-accent: #e2c98a;
+            --color-danger: #9f1239;
+            --color-text-main: #121212;
+            --color-text-sub: #444444;
+            --color-text-muted: #888888;
+            --font-display: 'Libre Baskerville', serif;
+            --font-accent: 'Cormorant Garamond', serif;
+            --font-body: 'Inter', sans-serif;
+            --theme-color: var(--color-worldbuilding);
+            --theme-color-light: var(--color-worldbuilding-light);
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: var(--color-bg);
+            color: var(--color-text-main);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            font-size: 11pt;
+        }
+        @page {
+            size: 8.5in 11in;
+            margin: 70px 80px 100px 80px;
+            background: var(--color-bg);
+            @bottom-center {
+                content: counter(page);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.7rem;
+                font-weight: 700;
+                color: #065f46;
+            }
+            @bottom-left {
+                content: string(section-title);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.6rem;
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                color: #888;
+            }
+        }
+        @page:first {
+            @bottom-center { content: none; }
+            @bottom-left { content: none; }
+        }
+        .pagedjs_page {
+            background: var(--color-bg) !important;
+            position: relative !important;
+        }
+        .pagedjs_pagebox {
+            position: relative !important;
+        }
+        .pagedjs_pagebox::before {
+            content: '' !important;
+            position: absolute !important;
+            top: 15px !important;
+            left: 15px !important;
+            right: 15px !important;
+            bottom: 15px !important;
+            border: 3px solid #065f46 !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        .pagedjs_pagebox::after {
+            content: '' !important;
+            position: absolute !important;
+            top: 22px !important;
+            left: 22px !important;
+            right: 22px !important;
+            bottom: 22px !important;
+            border: 1px solid #e2c98a !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        h2 { string-set: section-title content(); }
+        h1 {
+            font-family: var(--font-display);
+            font-size: 2rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--color-noir);
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+        }
+        h2 {
+            font-family: var(--font-display);
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--color-noir);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--color-accent);
+            break-after: avoid;
+        }
+        h3 {
+            font-family: var(--font-display);
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+            break-after: avoid;
+        }
+        h4 {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            font-weight: 600;
+            font-style: italic;
+            color: var(--color-text-sub);
+            margin-top: 1.25rem;
+            margin-bottom: 0.5rem;
+            break-after: avoid;
+        }
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+            hyphens: auto;
+            orphans: 3;
+            widows: 3;
+        }
+        .lead-text {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+        }
+        .hint {
+            font-family: var(--font-accent);
+            font-style: italic;
+            color: var(--color-text-muted);
+            font-size: 0.95rem;
+            margin-top: -0.5rem;
+            margin-bottom: 1rem;
+            break-after: avoid;
+        }
+        ul, ol { margin: 1rem 0 1rem 1.5rem; }
+        li { margin-bottom: 0.5rem; }
+        .title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .title-page h1 {
+            font-size: 2.5rem;
+            letter-spacing: 6px;
+            margin-bottom: 0.5rem;
+        }
+        .title-page .divider {
+            width: 100px;
+            height: 2px;
+            background: var(--color-accent);
+            margin: 2rem 0;
+        }
+        .title-page .tagline {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            color: var(--color-text-muted);
+            max-width: 400px;
+        }
+        .section-number {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .section-title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .section-title-page .section-label {
+            font-family: var(--font-display);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            color: var(--theme-color);
+            margin-bottom: 1rem;
+        }
+        .section-title-page h1 {
+            font-size: 2.2rem;
+            margin-bottom: 1rem;
+        }
+        .section-title-page .section-intro {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.8;
+            max-width: 90%;
+        }
+        .anchor-card {
+            border: 2px solid var(--color-noir);
+            background: white;
+            margin: 1.5rem 0;
+            padding: 25px;
+            break-inside: avoid;
+        }
+        .anchor-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 12px;
+            display: block;
+        }
+        .anchor-question {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 1.15rem;
+            border-left: 3px solid var(--color-accent);
+            padding-left: 15px;
+        }
+        .framework-box {
+            border: 2px solid var(--theme-color);
+            background: var(--theme-color-light);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .framework-box h4 {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-top: 0;
+            margin-bottom: 1rem;
+            font-style: normal;
+        }
+        .framework-box p { margin-bottom: 0.75rem; }
+        .framework-box ul { margin: 0.5rem 0 0.5rem 1.5rem; }
+        .framework-box li { margin-bottom: 0.5rem; }
+        .mistake-box {
+            border-left: 4px solid var(--color-danger);
+            background: rgba(159, 18, 57, 0.05);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .mistake-box .mistake-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--color-danger);
+            margin-bottom: 0.75rem;
+        }
+        .mistake-box p { margin-bottom: 0.5rem; font-size: 0.9rem; }
+        .mistake-box p:last-child { margin-bottom: 0; }
+        .fix-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--theme-color);
+            display: block;
+            margin-top: 0.75rem;
+        }
+        .writing-box {
+            border: 1px solid var(--color-noir);
+            background: white;
+            padding: 15px 20px;
+            margin: 1rem 0 1.5rem 0;
+            min-height: 140px;
+            break-inside: avoid;
+        }
+        .writing-box.large { min-height: 200px; }
+        .writing-box.small { min-height: 80px; }
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .checklist {
+            list-style: none;
+            margin: 1rem 0;
+            break-inside: avoid;
+        }
+        .checklist li {
+            position: relative;
+            padding-left: 30px;
+            margin-bottom: 0.75rem;
+            font-size: 0.95rem;
+        }
+        .checklist li::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 2px;
+            width: 16px;
+            height: 16px;
+            border: 1px solid var(--theme-color);
+            background: white;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            font-size: 0.9rem;
+            break-inside: avoid;
+            border: 1px solid #1a1515;
+        }
+        th {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            background: var(--theme-color);
+            color: white;
+            padding: 12px 15px;
+            text-align: left;
+            border: 1px solid #1a1515;
+        }
+        td {
+            min-height: 40px;
+            height: 40px;
+            padding: 12px 15px;
+            border: 1px solid #1a1515;
+            vertical-align: top;
+        }
+        tr:nth-child(even) { background: rgba(0,0,0,0.02); }
+        thead { display: table-header-group; }
+        tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
+        .flourish-divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            margin: 1.5rem 0;
+        }
+        .flourish-divider::before,
+        .flourish-divider::after {
+            content: '';
+            height: 2px;
+            width: 80px;
+            background: var(--color-accent);
+        }
+        .flourish-divider .divider-icon {
+            font-size: 1.2rem;
+            color: var(--color-accent);
+        }
+        .section-toc { margin: 1rem 0; break-inside: avoid; }
+        .section-toc h3 {
+            font-size: 1rem;
+            color: var(--color-accent);
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .section-toc ul {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 1rem 0;
+            columns: 2;
+            column-gap: 2rem;
+        }
+        .section-toc li { margin-bottom: 0.4rem; break-inside: avoid; }
+        .section-toc a {
+            color: var(--color-text-main);
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .section-toc-single ul { columns: 1; }
+        .alphabetical-index, .thematic-index {
+            column-count: 2;
+            column-gap: 30px;
+            font-size: 8.5pt;
+            line-height: 1.4;
+        }
+        .index-entry { break-inside: avoid; margin-bottom: 0.6rem; }
+        .index-letter {
+            font-family: var(--font-display);
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin: 1rem 0 0.5rem 0;
+            padding-bottom: 0.25rem;
+            border-bottom: 1px solid var(--color-accent);
+            break-after: avoid;
+        }
+        .index-keyword { font-weight: 600; color: var(--color-noir); display: block; }
+        .index-reference {
+            display: block;
+            padding-left: 1rem;
+            color: var(--color-text-sub);
+            font-size: 8pt;
+        }
+        .index-reference a {
+            color: var(--theme-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .mt-0 { margin-top: 0; }
+        .mt-1 { margin-top: 0.5rem; }
+        .mt-2 { margin-top: 1rem; }
+        .mb-0 { margin-bottom: 0; }
+        .mb-1 { margin-bottom: 0.5rem; }
+        .mb-2 { margin-bottom: 1rem; }
+        .text-center { text-align: center; }
+        .text-muted { color: var(--color-text-muted); }
+        .break-before { break-before: page; }
+        @media screen {
+            body { background: #e5e1da; padding: 20px; }
+            .pagedjs_page { box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 20px; }
+        }
+        @media print {
+            * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+        }
+
+        /* ============================================
+           STYLE #2 ENHANCEMENTS
+           ============================================ */
+
+        /* 1. Corner Flourishes - L-shaped brackets at page corners */
+        .pagedjs_page::after {
+            content: '' !important;
+            position: absolute !important;
+            top: 28px !important;
+            left: 28px !important;
+            right: 28px !important;
+            bottom: 28px !important;
+            background:
+                /* Top-left corner */
+                linear-gradient(#065f46, #065f46) top left / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) top left / 2px 22px no-repeat,
+                /* Top-right corner */
+                linear-gradient(#065f46, #065f46) top right / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) top right / 2px 22px no-repeat,
+                /* Bottom-left corner */
+                linear-gradient(#065f46, #065f46) bottom left / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) bottom left / 2px 22px no-repeat,
+                /* Bottom-right corner */
+                linear-gradient(#065f46, #065f46) bottom right / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) bottom right / 2px 22px no-repeat !important;
+            pointer-events: none !important;
+            z-index: 1001 !important;
+        }
+
+        /* 6. Anchor Card Watermark */
+        .anchor-card {
+            position: relative;
+            overflow: hidden;
+        }
+        .anchor-card::before {
+            content: "\2726" !important;
+            position: absolute !important;
+            top: -5px !important;
+            right: -5px !important;
+            font-size: 5rem !important;
+            opacity: 0.06 !important;
+            transform: rotate(15deg) !important;
+            color: var(--theme-color) !important;
+            pointer-events: none !important;
+            z-index: 0 !important;
+        }
+
+        /* 7. Gradient Section Divider */
+        .section-divider {
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--color-accent), transparent);
+            margin: 2rem 0;
+        }
+
+        /* 2. Writing Box Labels (enhanced) */
+        .writing-box {
+            position: relative;
+        }
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+            opacity: 0.7;
+        }
+
+        /* 3. Iceberg Component */
+        .iceberg-container {
+            margin: 1.5rem 0;
+            background: white;
+            border: 1px solid var(--color-noir);
+            overflow: hidden;
+            break-inside: avoid;
+        }
+        .iceberg-surface {
+            background: rgba(226, 201, 138, 0.15);
+            padding: 20px 25px;
+            border-bottom: 2px dashed var(--theme-color);
+        }
+        .iceberg-depth {
+            background: white;
+            padding: 20px 25px;
+        }
+        .iceberg-label {
+            font-family: var(--font-display);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--color-text-muted);
+            display: block;
+            margin-bottom: 8px;
+        }
+        .iceberg-value {
+            font-family: var(--font-display);
+            font-size: 1.05rem;
+            color: var(--color-text-main);
+        }
+        .iceberg-sub {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 0.9rem;
+            color: var(--color-text-sub);
+            margin-top: 5px;
+        }
+
+        /* 4. Mirror Component */
+        .mirror-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2px;
+            background: var(--color-accent);
+            border: 1px solid var(--color-noir);
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .mirror-side {
+            background: white;
+            padding: 20px;
+        }
+        .mirror-side h5 {
+            margin: 0 0 10px 0;
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-align: center;
+        }
+        .mask-side h5 { color: var(--theme-color); }
+        .shadow-side { background: #f8f8f8; }
+        .shadow-side h5 { color: var(--color-noir); }
+
+        /* 5. Psychological Cycle / Flow Component */
+        .flow-cycle {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 1.5rem 0;
+            gap: 12px;
+            break-inside: avoid;
+        }
+        .flow-step {
+            width: 100%;
+            background: white;
+            border: 1px solid var(--theme-color);
+            padding: 15px 20px;
+            text-align: center;
+            position: relative;
+            box-shadow: 3px 3px 0px var(--color-accent);
+        }
+        .flow-step::after {
+            content: '\2193';
+            position: absolute;
+            bottom: -20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: var(--theme-color);
+            font-weight: bold;
+            font-size: 1.1rem;
+            z-index: 1;
+        }
+        .flow-step:last-child::after { content: none; }
+        .flow-label {
+            font-family: var(--font-display);
+            font-size: 0.55rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 5px;
+        }
+        .flow-text {
+            font-family: var(--font-display);
+            font-size: 0.95rem;
+        }
+    </style>
+</head>
+<body>
+
+<div class="section-title-page">
+    <h1 class="section-number">Section 20</h1>
+    <h2 class="section-title">Quick Reference Sheets</h2>
+    <p class="section-subtitle">Your At-A-Glance Writing Companion</p>
+</div>
+
+
+
+<!-- ==========================================
+ SECTION 20: MINI-TOC
+ ========================================== -->
+
+<h2 class="mt-0">In This Section</h2>
+
+<div class="section-toc">
+    <h3>World & Setting</h3>
+    <ul>
+        <li><a href="#s20-world">World At-A-Glance</a></li>
+        <li><a href="#s20-characters">Character Quick Reference</a></li>
+        <li><a href="#s20-timeline">Timeline</a></li>
+        <li><a href="#s20-glossary">Glossary</a></li>
+        <li><a href="#s20-magic">The Magic System</a></li>
+        <li><a href="#s20-sensory">Sensory Palette</a></li>
+        <li><a href="#s20-society">Society & Culture</a></li>
+        <li><a href="#s20-laws">Laws That Matter</a></li>
+    </ul>
+</div>
+
+<div class="section-toc">
+    <h3>Romance & Conflict</h3>
+    <ul>
+        <li><a href="#s20-romance-mechanics">The Romance Mechanics</a></li>
+        <li><a href="#s20-pressure">Pressure Points</a></li>
+        <li><a href="#s20-conflict">Conflict Engines</a></li>
+        <li><a href="#s20-rules">Key Rules</a></li>
+        <li><a href="#s20-choice">The Choice Moments</a></li>
+        <li><a href="#s20-tropes">Romantic Tropes In Use</a></li>
+        <li><a href="#s20-climax">The Climax</a></li>
+    </ul>
+</div>
+
+<div class="section-toc">
+    <h3>Reference & Checklists</h3>
+    <ul>
+        <li><a href="#s20-consistency">Consistency Checklist</a></li>
+        <li><a href="#s20-quick-facts">Quick Facts</a></li>
+        <li><a href="#s20-elevator">The Elevator Pitch</a></li>
+        <li><a href="#s20-reader-questions">Common Reader Questions</a></li>
+        <li><a href="#s20-established">Things I've Established Mid-Draft</a></li>
+        <li><a href="#s20-notes">Notes To Self</a></li>
+        <li><a href="#s20-mantra">The Integration Mantra</a></li>
+        <li><a href="#s20-final">Final Checklist Before Drafting</a></li>
+    </ul>
+</div>
+
+
+<!-- SECTION 20: INTRODUCTION -->
+
+<p>These sheets are designed for easy access while writing. Fill them in as you complete other sections, then keep them accessible during drafting.</p>
+
+<h3>How to Use This Section</h3>
+
+<div class="framework-box">
+    <h4>When to fill this in:</h4>
+    <ul>
+        <li>After completing each section of the workbook, transfer key answers here</li>
+        <li>Before starting to draft, review and complete any gaps</li>
+        <li>During drafting, update with new details you establish</li>
+    </ul>
+
+    <h4>How to use while writing:</h4>
+    <ul>
+        <li>Keep these sheets open (printed or in a separate window)</li>
+        <li>Check before writing any scene: Are my details consistent?</li>
+        <li>Add new details in "Things I've Established Mid-Draft" as you create them</li>
+    </ul>
+</div>
+
+<div class="anchor-card">
+    <p><strong>The goal:</strong> Never pause mid-scene wondering "how does this work?" or "did I establish this?" The answers are here.</p>
+</div>
+
+
+<!-- SECTION 20: WORLD AT-A-GLANCE -->
+
+<h2 class="mt-0" id="s20-world">WORLD AT-A-GLANCE</h2>
+
+<p><strong>Genre/Subgenre:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Setting in one sentence:</strong></p>
+<div class="writing-box" style="height: 80px;"></div>
+
+<p><strong>Tech/Magic Level:</strong></p>
+<p class="text-muted">(Reference: Section 9: Technology; Section 10: Magic)</p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Tone/Atmosphere:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<h3>Key Locations (3-5)</h3>
+<p class="text-muted">(Reference: Section 15: Key Locations)</p>
+
+<p>1.</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p>2.</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+
+<!-- SECTION 20: WORLD AT-A-GLANCE CONTINUED -->
+
+<h3 class="mt-0">Key Locations (continued)</h3>
+
+<p>3.</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p>4.</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p>5.</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Dangerous Regions:</strong></p>
+<p class="text-muted">(Reference: Section 1: Geography)</p>
+<div class="writing-box"></div>
+
+<p><strong>Travel Times:</strong></p>
+<table class="input-table">
+    <thead>
+        <tr>
+            <th style="width: 25%">From</th>
+            <th>To</th>
+            <th>Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Thornhaven Castle</td>
+            <td>The Fae Borderlands</td>
+            <td>3 days by horse, 1 day through the shadow roads (but dangerous)</td>
+        </tr>
+        <tr><td></td><td></td><td></td></tr>
+        <tr><td></td><td></td><td></td></tr>
+        <tr><td></td><td></td><td></td></tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- SECTION 20: WHO RULES -->
+
+<h3 class="mt-0">Who Rules</h3>
+<p class="text-muted">(Reference: Section 5: Government, Power & Law)</p>
+
+<p><strong>Government Type:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Current Ruler(s):</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Major Factions/Houses:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Who has real power:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: CHARACTER QUICK REFERENCE - PROTAGONIST -->
+
+<h2 class="mt-0" id="s20-characters">CHARACTER QUICK REFERENCE</h2>
+
+<h3>Protagonist</h3>
+
+<p><strong>Name:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Also called:</strong> (nicknames, titles, aliases)</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Age:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Physical appearance:</strong> (key details for consistency)</p>
+<div class="writing-box"></div>
+
+<p><strong>Distinguishing features:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>What they wear typically:</strong></p>
+<p class="text-muted">(Reference: Section 3: Dress, Appearance & Adornment)</p>
+<div class="writing-box" style="height: 60px;"></div>
+
+
+<!-- SECTION 20: PROTAGONIST CONTINUED -->
+
+<h3 class="mt-0">Protagonist (continued)</h3>
+
+<p><strong>Voice/speech patterns:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Key personality traits:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Greatest strength:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Greatest flaw:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>What they want (external goal):</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>What they need (internal):</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Emotional wound/fear:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>The lie they believe:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+
+<!-- SECTION 20: LOVE INTEREST -->
+
+<h3 class="mt-0">Love Interest</h3>
+
+<p><strong>Name:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Also called:</strong> (nicknames, titles, aliases)</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Age:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Physical appearance:</strong> (key details for consistency)</p>
+<div class="writing-box"></div>
+
+<p><strong>Distinguishing features:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>What they wear typically:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+
+<!-- SECTION 20: LOVE INTEREST CONTINUED -->
+
+<h3 class="mt-0">Love Interest (continued)</h3>
+
+<p><strong>Voice/speech patterns:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Key personality traits:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Greatest strength:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Greatest flaw:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>What they want (external goal):</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>What they need (internal):</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Emotional wound/fear:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>The lie they believe:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+
+<!-- SECTION 20: KEY SUPPORTING CHARACTERS -->
+
+<h3 class="mt-0">Key Supporting Characters</h3>
+
+<p><strong>Character 1:</strong></p>
+<p>Name:</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Role in story:</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Relationship to protagonist:</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Key trait:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Character 2:</strong></p>
+<p>Name:</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Role in story:</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Relationship to protagonist:</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Key trait:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+
+<!-- SECTION 20: MORE SUPPORTING CHARACTERS -->
+
+<h3 class="mt-0">Key Supporting Characters (continued)</h3>
+
+<p><strong>Character 3:</strong></p>
+<p>Name:</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Role in story:</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Relationship to protagonist:</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Key trait:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Antagonist:</strong></p>
+<p>Name:</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>What they want:</p>
+<div class="writing-box" style="height: 50px;"></div>
+<p>Why they oppose the protagonists:</p>
+<div class="writing-box" style="height: 60px;"></div>
+<p>What system they represent:</p>
+<p class="text-muted">(Reference: Section 16: Antagonist & Systems)</p>
+<div class="writing-box" style="height: 50px;"></div>
+
+
+<!-- SECTION 20: TIMELINE -->
+
+<h2 class="mt-0" id="s20-timeline">TIMELINE</h2>
+
+<h3>Story Timeline</h3>
+
+<p><strong>How much time passes in the story:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Starting date/season:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Ending date/season:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<h3>Key Dates/Events</h3>
+
+<p><strong>Before story begins:</strong></p>
+<p class="text-muted">(Reference: Section 7: History)</p>
+<div class="writing-box"></div>
+
+<p><strong>Act 1:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: TIMELINE CONTINUED -->
+
+<h3 class="mt-0">Timeline (continued)</h3>
+
+<p><strong>Act 2:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Act 3:</strong></p>
+<div class="writing-box"></div>
+
+<h3>Time Between Key Events</h3>
+
+<p><strong>From [event] to [event]:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>From [event] to [event]:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>From [event] to [event]:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<h3>Important Historical Dates</h3>
+<p class="text-muted">(Reference: Section 7: History & Lore)</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: GLOSSARY -->
+
+<h2 class="mt-0" id="s20-glossary">GLOSSARY</h2>
+
+<h3>Made-Up Terms</h3>
+
+<p><strong>Term:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Meaning:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Term:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Meaning:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Term:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Meaning:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Term:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Meaning:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+
+<!-- SECTION 20: GLOSSARY CONTINUED -->
+
+<h3 class="mt-0">Glossary (continued)</h3>
+
+<p><strong>Term:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Meaning:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<h3>Place Names (with pronunciation if needed)</h3>
+<div class="writing-box"></div>
+
+<h3>Character Names (spelling reference)</h3>
+<div class="writing-box"></div>
+
+<h3>Titles and Forms of Address</h3>
+<p class="text-muted">(Reference: Section 3: Language of Deference; Section 8: Titles & Terms)</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: THE MAGIC SYSTEM -->
+
+<h2 class="mt-0" id="s20-magic">THE MAGIC SYSTEM</h2>
+<p class="text-muted">(Reference: Section 10: Magic System)</p>
+
+<h3>Core Rules</h3>
+
+<p><strong>Who can use magic:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>How magic is accessed:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>What magic costs:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>What magic CANNOT do:</strong></p>
+<p>1.</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>2.</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>3.</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+
+<!-- SECTION 20: MAGIC & ROMANCE -->
+
+<h3 class="mt-0">Magic & Romance</h3>
+<p class="text-muted">(Reference: Magic & Intimacy supplement)</p>
+
+<p><strong>How magic pushes them together:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>How magic pulls them apart:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>The intimacy mechanic:</strong></p>
+<p class="text-muted">(How does magic create vulnerability or connection?)</p>
+<div class="writing-box"></div>
+
+<p><strong>Magical consequence of their union:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: SENSORY PALETTE -->
+
+<h2 class="mt-0" id="s20-sensory">SENSORY PALETTE</h2>
+
+<p>Keep these details consistent throughout your writing.</p>
+<p class="text-muted">(Reference: Section 1: Geography; Section 2: Flora & Fauna)</p>
+
+<h3>Visual</h3>
+
+<p><strong>Dominant colors of the world:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Quality of light:</strong> (golden, grey, harsh, soft, magical glow)</p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>What the sky looks like:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Visual motifs that repeat:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<h3>Sound</h3>
+
+<p><strong>Ambient sounds of primary setting:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+
+<!-- SECTION 20: SENSORY PALETTE CONTINUED -->
+
+<h3 class="mt-0">Sensory Palette (continued)</h3>
+
+<p><strong>Sounds associated with magic:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Sounds of danger/tension:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<h3>Smell</h3>
+
+<p><strong>What the primary setting smells like:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Scent associated with protagonist:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Scent associated with love interest:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<h3>Touch/Temperature</h3>
+
+<p><strong>Climate feel:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Textures that matter:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>What magic feels like:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+
+<!-- SECTION 20: TASTE -->
+
+<h3 class="mt-0">Taste</h3>
+
+<p><strong>Common foods/drinks:</strong></p>
+<p class="text-muted">(Reference: Section 2: What They Eat)</p>
+<div class="writing-box"></div>
+
+<p><strong>Luxury foods:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>What they eat together:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+
+<!-- SECTION 20: SOCIETY & CULTURE -->
+
+<h2 class="mt-0" id="s20-society">SOCIETY & CULTURE</h2>
+<p class="text-muted">(Reference: Section 3: Culture, Customs & Daily Life)</p>
+
+<h3>Social Hierarchy</h3>
+
+<p><strong>Top:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Middle:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Bottom:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Protagonist's place:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Love interest's place:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+
+<!-- SECTION 20: VALUES & COURTSHIP -->
+
+<h3 class="mt-0">Values & Taboos</h3>
+
+<p><strong>What this culture values most:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>What is forbidden/taboo:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>The rule their romance breaks:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<h3>Courtship & Marriage</h3>
+<p class="text-muted">(Reference: Section 3: Courtship customs; Section 5: Marriage laws)</p>
+
+<p><strong>How people court:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>What touch is forbidden/significant:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>What makes marriage official:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+
+<!-- SECTION 20: LAWS THAT MATTER -->
+
+<h2 class="mt-0" id="s20-laws">LAWS THAT MATTER</h2>
+<p class="text-muted">(Reference: Section 5: Government, Power & Law)</p>
+
+<p><strong>Law #1:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Punishment for breaking:</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Effect on romance:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Law #2:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Punishment for breaking:</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Effect on romance:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Law #3:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Punishment for breaking:</p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Effect on romance:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+
+<!-- SECTION 20: LAWS CONTINUED -->
+
+<h3 class="mt-0">Laws That Matter (continued)</h3>
+
+<p><strong>The law they will break:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>The specific consequences:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: ROMANCE MECHANICS -->
+
+<h2 class="mt-0" id="s20-romance-mechanics">THE ROMANCE MECHANICS</h2>
+
+<h3>How They're Forced Together</h3>
+<p class="text-muted">(Reference: Section 13: Pressure Cooker; Section 14: Institutions)</p>
+
+<p><strong>Primary mechanism:</strong></p>
+<ul class="checkbox-list">
+    <li>☐ Fated mates/magical bond</li>
+    <li>☐ Arranged marriage/political alliance</li>
+    <li>☐ Academy/institutional partnership</li>
+    <li>☐ Dangerous mission/shared goal</li>
+    <li>☐ Geographical isolation</li>
+    <li>☐ Other: ________________</li>
+</ul>
+
+<p><strong>Details:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Can they escape it?</strong> ☐ Yes ☐ No ☐ At great cost</p>
+
+
+<!-- SECTION 20: HOW THEY'RE KEPT APART -->
+
+<h3 class="mt-0">How They're Kept Apart</h3>
+<p class="text-muted">(Reference: Section 19: Obstacle Inventory)</p>
+
+<p><strong>Obstacle 1:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+<p>Worldbuilding source:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Obstacle 2:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+<p>Worldbuilding source:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Obstacle 3:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+<p>Worldbuilding source:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<h3>Power Dynamics</h3>
+<p class="text-muted">(Reference: Section 18: Agency Check)</p>
+
+<p><strong>Who starts with more power:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+
+
+<!-- SECTION 20: POWER DYNAMICS -->
+
+<h3 class="mt-0">Power Dynamics (continued)</h3>
+
+<p><strong>Type of power:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>What leverage the weaker character holds:</strong></p>
+<div class="writing-box" style="height: 80px;"></div>
+
+<p><strong>How power shifts:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: PRESSURE POINTS -->
+
+<h2 class="mt-0" id="s20-pressure">PRESSURE POINTS</h2>
+
+<h3>Location-Based</h3>
+<p class="text-muted">(Reference: Section 15: Key Locations)</p>
+
+<p><strong>Where they're trapped together:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>Where they must be apart:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>Where discovery is most dangerous:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<h3>Time-Based</h3>
+<p class="text-muted">(Reference: Section 17: Dual Clock)</p>
+
+<p><strong>The deadline:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>What happens if missed:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+
+<!-- SECTION 20: SOCIAL PRESSURE -->
+
+<h3 class="mt-0">Social-Based</h3>
+
+<p><strong>Who's watching:</strong></p>
+<div class="writing-box" style="height: 80px;"></div>
+
+<p><strong>Consequences of being caught:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: CONFLICT ENGINES -->
+
+<h2 class="mt-0" id="s20-conflict">CONFLICT ENGINES</h2>
+
+<h3>External Conflict</h3>
+
+<p><strong>The main threat/problem:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Why they must face it together:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>What happens if they fail:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<h3>Internal Conflict</h3>
+
+<p><strong>Protagonist's emotional wound:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>How it makes them resist the relationship:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+
+<!-- SECTION 20: INTERNAL CONFLICT CONTINUED -->
+
+<h3 class="mt-0">Internal Conflict (continued)</h3>
+
+<p><strong>Love interest's emotional wound:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>How it makes them resist:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<h3>Where They Intersect</h3>
+
+<p><strong>How external conflict forces them to face internal wounds:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>How resolving relationship helps solve external problem:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: KEY RULES -->
+
+<h2 class="mt-0" id="s20-rules">KEY RULES (The 5-7 That Matter Most)</h2>
+<p class="text-muted">(Reference: Section 17: Consistency Check)</p>
+
+<p><strong>Rule #1:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Romance relevance:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Rule #2:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Romance relevance:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Rule #3:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Romance relevance:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Rule #4:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Romance relevance:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+
+<!-- SECTION 20: KEY RULES CONTINUED -->
+
+<h3 class="mt-0">Key Rules (continued)</h3>
+
+<p><strong>Rule #5:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Romance relevance:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Rule #6:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Romance relevance:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+<p><strong>Rule #7:</strong></p>
+<div class="writing-box" style="height: 40px;"></div>
+<p>Romance relevance:</p>
+<div class="writing-box" style="height: 40px;"></div>
+
+
+<!-- SECTION 20: THE CHOICE MOMENTS -->
+
+<h2 class="mt-0" id="s20-choice">THE CHOICE MOMENTS</h2>
+<p class="text-muted">(Reference: Section 18: Agency Check)</p>
+
+<p><strong>When protagonist actively chooses love interest:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>What it costs them:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>When love interest actively chooses protagonist:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>What it costs them:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>The moment they defy worldbuilding rules to be together:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: CHOICE MOMENTS CONTINUED -->
+
+<h3 class="mt-0">The Choice Moments (continued)</h3>
+
+<p><strong>What rule they break:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>The consequences they accept:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: ROMANTIC TROPES -->
+
+<h2 class="mt-0" id="s20-tropes">ROMANTIC TROPES IN USE</h2>
+
+<p>Check all that apply and note specifics:</p>
+
+<ul class="checkbox-list">
+    <li>☐ Forced Proximity (How: ________________)</li>
+    <li>☐ Forbidden Love (Why forbidden: ________________)</li>
+    <li>☐ Fated Mates — Type of bond: ________________</li>
+    <li>☐ Enemies to Lovers (Why enemies: ________________)</li>
+    <li>☐ Power Imbalance — Who has power: ________________</li>
+    <li>☐ Arranged Marriage (Why arranged: ________________)</li>
+    <li>☐ Only One Bed (or equivalent): ________________</li>
+    <li>☐ Touch-Based Magic: ________________</li>
+    <li>☐ Telepathic/Soul Bond: ________________</li>
+    <li>☐ Protector Romance (Who protects whom: ________________)</li>
+    <li>☐ Grumpy/Sunshine — Who's which: ________________</li>
+    <li>☐ Slow Burn — What prevents faster resolution: ________________</li>
+    <li>☐ Other: ________________</li>
+</ul>
+
+<p><strong>What makes your use of these tropes unique:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: THE CLIMAX -->
+
+<h2 class="mt-0" id="s20-climax">THE CLIMAX</h2>
+<p class="text-muted">(Reference: Section 19: Final Integration Questions)</p>
+
+<p><strong>External climax (fantasy plot resolution):</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Relationship climax (romantic resolution):</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>How they happen together:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>What they sacrifice:</strong></p>
+<p>Protagonist:</p>
+<div class="writing-box" style="height: 60px;"></div>
+<p>Love interest:</p>
+<div class="writing-box" style="height: 60px;"></div>
+
+
+<!-- SECTION 20: CLIMAX CONTINUED -->
+
+<h3 class="mt-0">The Climax (continued)</h3>
+
+<p><strong>Why their union matters to the wider world:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: CONSISTENCY CHECKLIST -->
+
+<h2 class="mt-0" id="s20-consistency">CONSISTENCY CHECKLIST</h2>
+<p class="text-muted">(Reference: Section 17: Consistency Check)</p>
+
+<h3>Before Writing a Scene:</h3>
+<ul class="checkbox-list">
+    <li>☐ Travel time consistent with established distances?</li>
+    <li>☐ Magic limitations still apply?</li>
+    <li>☐ Authority figures present or absent for established reason?</li>
+    <li>☐ Established dangers still dangerous?</li>
+    <li>☐ Character knowledge accurate for this point in story?</li>
+    <li>☐ Political/social rules being enforced?</li>
+    <li>☐ Power levels consistent with previous scenes?</li>
+</ul>
+
+<h3>If Breaking a Rule:</h3>
+<ul class="checkbox-list">
+    <li>☐ Is there an in-world explanation?</li>
+    <li>☐ Will there be consequences?</li>
+    <li>☐ Was this possibility set up earlier?</li>
+</ul>
+
+
+<!-- SECTION 20: QUICK FACTS -->
+
+<h2 class="mt-0" id="s20-quick-facts">QUICK FACTS</h2>
+
+<p><strong>Currency:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Timekeeping:</strong> (hours, days, calendar)</p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>Distance measurements:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>Major holidays/festivals:</strong></p>
+<p class="text-muted">(Reference: Section 6: Sacred Time)</p>
+<div class="writing-box"></div>
+
+<p><strong>Common phrases/sayings:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>Important symbols:</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+
+<!-- SECTION 20: QUICK FACTS CONTINUED -->
+
+<h3 class="mt-0">Quick Facts (continued)</h3>
+
+<p><strong>What people swear by:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>Typical food/drink:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>Climate/seasons:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+
+<!-- SECTION 20: THE ELEVATOR PITCH -->
+
+<h2 class="mt-0" id="s20-elevator">THE ELEVATOR PITCH</h2>
+
+<p><strong>The world:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>The characters:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>The conflict:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>The romance:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>The stakes:</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>In one sentence:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 20: COMMON READER QUESTIONS -->
+
+<h2 class="mt-0" id="s20-reader-questions">COMMON READER QUESTIONS</h2>
+<p class="text-muted">(Useful for marketing, queries, and pitch materials)</p>
+
+<p><strong>"What kind of magic system?"</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>"How is it different from [similar book]?"</strong></p>
+<div class="writing-box" style="height: 60px;"></div>
+
+<p><strong>"Is it spicy or fade to black?"</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>"Major tropes?"</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+<p><strong>"Love triangle?"</strong> ☐ Yes ☐ No</p>
+
+<p><strong>"HEA?"</strong> ☐ Yes ☐ No ☐ HFN (Happy For Now)</p>
+
+<p><strong>"Standalone or series?"</strong></p>
+<div class="writing-box" style="height: 50px;"></div>
+
+
+<!-- SECTION 20: THINGS I'VE ESTABLISHED MID-DRAFT -->
+
+<h2 class="mt-0" id="s20-established">THINGS I'VE ESTABLISHED MID-DRAFT</h2>
+<p class="text-muted">(Add details here as you write so you don't forget them. Include page/chapter where established.)</p>
+
+<div class="writing-box" style="height: 500px;"></div>
+
+
+<!-- SECTION 20: NOTES TO SELF -->
+
+<h2 class="mt-0" id="s20-notes">NOTES TO SELF</h2>
+<p class="text-muted">(Reminders, inconsistencies caught, things to fix in revision)</p>
+
+<div class="writing-box" style="height: 500px;"></div>
+
+
+<!-- SECTION 20: THE INTEGRATION MANTRA -->
+
+<h2 class="mt-0" id="s20-mantra">THE INTEGRATION MANTRA</h2>
+<p class="text-muted">(Reference: Section 19: World-Romance Integration)</p>
+
+<div class="framework-box">
+    <h3>Every worldbuilding element should do at least two of these:</h3>
+    <ol>
+        <li>Push characters together OR pull them apart (ideally both)</li>
+        <li>Create opportunities for intimacy OR obstacles to overcome</li>
+        <li>Force meaningful choices with real costs</li>
+        <li>Have consistent rules the romance works within</li>
+        <li>Matter to both the fantasy plot AND the relationship</li>
+    </ol>
+    <p><strong>If an element doesn't do at least two of these, cut it or strengthen it.</strong></p>
+</div>
+
+
+<!-- SECTION 20: FINAL CHECKLIST -->
+
+<h2 class="mt-0" id="s20-final">FINAL CHECKLIST BEFORE DRAFTING</h2>
+
+<ul class="checkbox-list">
+    <li>☐ World at-a-glance complete</li>
+    <li>☐ Character details consistent</li>
+    <li>☐ Timeline established</li>
+    <li>☐ Magic rules clear</li>
+    <li>☐ Key locations defined</li>
+    <li>☐ Obstacles identified with worldbuilding sources</li>
+    <li>☐ Power dynamics mapped</li>
+    <li>☐ Choice moments identified</li>
+    <li>☐ Climax integrates romance and fantasy</li>
+    <li>☐ Consistency rules clear</li>
+</ul>
+
+<div class="anchor-card">
+    <h3>Ready to write.</h3>
+    <p>Keep these sheets accessible. Update as your story evolves.</p>
+    <p><strong>Happy writing!</strong></p>
+</div>
+
+<div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
+
+<!-- ============================================================
+ APPENDIX: COMMON ROMANTASY WORLDBUILDING MISTAKES
+ ============================================================ -->
+
+<!-- APPENDIX: TITLE PAGE -->
+</body></html>

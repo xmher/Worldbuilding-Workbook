@@ -1,0 +1,1449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worldbuilding Workbook - Character_Integration</title>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+    <style>
+        :root {
+            --color-worldbuilding: #065f46;
+            --color-worldbuilding-light: rgba(6, 95, 70, 0.1);
+            --color-bg: #fdfbf7;
+            --color-noir: #1a1515;
+            --color-accent: #e2c98a;
+            --color-danger: #9f1239;
+            --color-text-main: #121212;
+            --color-text-sub: #444444;
+            --color-text-muted: #888888;
+            --font-display: 'Libre Baskerville', serif;
+            --font-accent: 'Cormorant Garamond', serif;
+            --font-body: 'Inter', sans-serif;
+            --theme-color: var(--color-worldbuilding);
+            --theme-color-light: var(--color-worldbuilding-light);
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: var(--color-bg);
+            color: var(--color-text-main);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            font-size: 11pt;
+        }
+        @page {
+            size: 8.5in 11in;
+            margin: 70px 80px 100px 80px;
+            background: var(--color-bg);
+            @bottom-center {
+                content: counter(page);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.7rem;
+                font-weight: 700;
+                color: #065f46;
+            }
+            @bottom-left {
+                content: string(section-title);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.6rem;
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                color: #888;
+            }
+        }
+        @page:first {
+            @bottom-center { content: none; }
+            @bottom-left { content: none; }
+        }
+        .pagedjs_page {
+            background: var(--color-bg) !important;
+            position: relative !important;
+        }
+        .pagedjs_pagebox {
+            position: relative !important;
+        }
+        .pagedjs_pagebox::before {
+            content: '' !important;
+            position: absolute !important;
+            top: 15px !important;
+            left: 15px !important;
+            right: 15px !important;
+            bottom: 15px !important;
+            border: 3px solid #065f46 !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        .pagedjs_pagebox::after {
+            content: '' !important;
+            position: absolute !important;
+            top: 22px !important;
+            left: 22px !important;
+            right: 22px !important;
+            bottom: 22px !important;
+            border: 1px solid #e2c98a !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        h2 { string-set: section-title content(); }
+        h1 {
+            font-family: var(--font-display);
+            font-size: 2rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--color-noir);
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+        }
+        h2 {
+            font-family: var(--font-display);
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--color-noir);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--color-accent);
+            break-after: avoid;
+        }
+        h3 {
+            font-family: var(--font-display);
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+            break-after: avoid;
+        }
+        h4 {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            font-weight: 600;
+            font-style: italic;
+            color: var(--color-text-sub);
+            margin-top: 1.25rem;
+            margin-bottom: 0.5rem;
+            break-after: avoid;
+        }
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+            hyphens: auto;
+            orphans: 3;
+            widows: 3;
+        }
+        .lead-text {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+        }
+        .hint {
+            font-family: var(--font-accent);
+            font-style: italic;
+            color: var(--color-text-muted);
+            font-size: 0.95rem;
+            margin-top: -0.5rem;
+            margin-bottom: 1rem;
+            break-after: avoid;
+        }
+        ul, ol { margin: 1rem 0 1rem 1.5rem; }
+        li { margin-bottom: 0.5rem; }
+        .title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .title-page h1 {
+            font-size: 2.5rem;
+            letter-spacing: 6px;
+            margin-bottom: 0.5rem;
+        }
+        .title-page .divider {
+            width: 100px;
+            height: 2px;
+            background: var(--color-accent);
+            margin: 2rem 0;
+        }
+        .title-page .tagline {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            color: var(--color-text-muted);
+            max-width: 400px;
+        }
+        .section-number {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .section-title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .section-title-page .section-label {
+            font-family: var(--font-display);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            color: var(--theme-color);
+            margin-bottom: 1rem;
+        }
+        .section-title-page h1 {
+            font-size: 2.2rem;
+            margin-bottom: 1rem;
+        }
+        .section-title-page .section-intro {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.8;
+            max-width: 90%;
+        }
+        .anchor-card {
+            border: 2px solid var(--color-noir);
+            background: white;
+            margin: 1.5rem 0;
+            padding: 25px;
+            break-inside: avoid;
+        }
+        .anchor-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 12px;
+            display: block;
+        }
+        .anchor-question {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 1.15rem;
+            border-left: 3px solid var(--color-accent);
+            padding-left: 15px;
+        }
+        .framework-box {
+            border: 2px solid var(--theme-color);
+            background: var(--theme-color-light);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .framework-box h4 {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-top: 0;
+            margin-bottom: 1rem;
+            font-style: normal;
+        }
+        .framework-box p { margin-bottom: 0.75rem; }
+        .framework-box ul { margin: 0.5rem 0 0.5rem 1.5rem; }
+        .framework-box li { margin-bottom: 0.5rem; }
+        .mistake-box {
+            border-left: 4px solid var(--color-danger);
+            background: rgba(159, 18, 57, 0.05);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .mistake-box .mistake-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--color-danger);
+            margin-bottom: 0.75rem;
+        }
+        .mistake-box p { margin-bottom: 0.5rem; font-size: 0.9rem; }
+        .mistake-box p:last-child { margin-bottom: 0; }
+        .fix-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--theme-color);
+            display: block;
+            margin-top: 0.75rem;
+        }
+        .writing-box {
+            border: 1px solid var(--color-noir);
+            background: white;
+            padding: 15px 20px;
+            margin: 1rem 0 1.5rem 0;
+            min-height: 140px;
+            break-inside: avoid;
+        }
+        .writing-box.large { min-height: 200px; }
+        .writing-box.small { min-height: 80px; }
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .checklist {
+            list-style: none;
+            margin: 1rem 0;
+            break-inside: avoid;
+        }
+        .checklist li {
+            position: relative;
+            padding-left: 30px;
+            margin-bottom: 0.75rem;
+            font-size: 0.95rem;
+        }
+        .checklist li::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 2px;
+            width: 16px;
+            height: 16px;
+            border: 1px solid var(--theme-color);
+            background: white;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            font-size: 0.9rem;
+            break-inside: avoid;
+            border: 1px solid #1a1515;
+        }
+        th {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            background: var(--theme-color);
+            color: white;
+            padding: 12px 15px;
+            text-align: left;
+            border: 1px solid #1a1515;
+        }
+        td {
+            min-height: 40px;
+            height: 40px;
+            padding: 12px 15px;
+            border: 1px solid #1a1515;
+            vertical-align: top;
+        }
+        tr:nth-child(even) { background: rgba(0,0,0,0.02); }
+        thead { display: table-header-group; }
+        tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
+        .flourish-divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            margin: 1.5rem 0;
+        }
+        .flourish-divider::before,
+        .flourish-divider::after {
+            content: '';
+            height: 2px;
+            width: 80px;
+            background: var(--color-accent);
+        }
+        .flourish-divider .divider-icon {
+            font-size: 1.2rem;
+            color: var(--color-accent);
+        }
+        .section-toc { margin: 1rem 0; break-inside: avoid; }
+        .section-toc h3 {
+            font-size: 1rem;
+            color: var(--color-accent);
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .section-toc ul {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 1rem 0;
+            columns: 2;
+            column-gap: 2rem;
+        }
+        .section-toc li { margin-bottom: 0.4rem; break-inside: avoid; }
+        .section-toc a {
+            color: var(--color-text-main);
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .section-toc-single ul { columns: 1; }
+        .alphabetical-index, .thematic-index {
+            column-count: 2;
+            column-gap: 30px;
+            font-size: 8.5pt;
+            line-height: 1.4;
+        }
+        .index-entry { break-inside: avoid; margin-bottom: 0.6rem; }
+        .index-letter {
+            font-family: var(--font-display);
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin: 1rem 0 0.5rem 0;
+            padding-bottom: 0.25rem;
+            border-bottom: 1px solid var(--color-accent);
+            break-after: avoid;
+        }
+        .index-keyword { font-weight: 600; color: var(--color-noir); display: block; }
+        .index-reference {
+            display: block;
+            padding-left: 1rem;
+            color: var(--color-text-sub);
+            font-size: 8pt;
+        }
+        .index-reference a {
+            color: var(--theme-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .mt-0 { margin-top: 0; }
+        .mt-1 { margin-top: 0.5rem; }
+        .mt-2 { margin-top: 1rem; }
+        .mb-0 { margin-bottom: 0; }
+        .mb-1 { margin-bottom: 0.5rem; }
+        .mb-2 { margin-bottom: 1rem; }
+        .text-center { text-align: center; }
+        .text-muted { color: var(--color-text-muted); }
+        .break-before { break-before: page; }
+        @media screen {
+            body { background: #e5e1da; padding: 20px; }
+            .pagedjs_page { box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 20px; }
+        }
+        @media print {
+            * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+        }
+
+        /* ============================================
+           STYLE #2 ENHANCEMENTS
+           ============================================ */
+
+        /* 1. Corner Flourishes - L-shaped brackets at page corners */
+        .pagedjs_page::after {
+            content: '' !important;
+            position: absolute !important;
+            top: 28px !important;
+            left: 28px !important;
+            right: 28px !important;
+            bottom: 28px !important;
+            background:
+                /* Top-left corner */
+                linear-gradient(#065f46, #065f46) top left / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) top left / 2px 22px no-repeat,
+                /* Top-right corner */
+                linear-gradient(#065f46, #065f46) top right / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) top right / 2px 22px no-repeat,
+                /* Bottom-left corner */
+                linear-gradient(#065f46, #065f46) bottom left / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) bottom left / 2px 22px no-repeat,
+                /* Bottom-right corner */
+                linear-gradient(#065f46, #065f46) bottom right / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) bottom right / 2px 22px no-repeat !important;
+            pointer-events: none !important;
+            z-index: 1001 !important;
+        }
+
+        /* 6. Anchor Card Watermark */
+        .anchor-card {
+            position: relative;
+            overflow: hidden;
+        }
+        .anchor-card::before {
+            content: "\2726" !important;
+            position: absolute !important;
+            top: -5px !important;
+            right: -5px !important;
+            font-size: 5rem !important;
+            opacity: 0.06 !important;
+            transform: rotate(15deg) !important;
+            color: var(--theme-color) !important;
+            pointer-events: none !important;
+            z-index: 0 !important;
+        }
+
+        /* 7. Gradient Section Divider */
+        .section-divider {
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--color-accent), transparent);
+            margin: 2rem 0;
+        }
+
+        /* 2. Writing Box Labels (enhanced) */
+        .writing-box {
+            position: relative;
+        }
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+            opacity: 0.7;
+        }
+
+        /* 3. Iceberg Component */
+        .iceberg-container {
+            margin: 1.5rem 0;
+            background: white;
+            border: 1px solid var(--color-noir);
+            overflow: hidden;
+            break-inside: avoid;
+        }
+        .iceberg-surface {
+            background: rgba(226, 201, 138, 0.15);
+            padding: 20px 25px;
+            border-bottom: 2px dashed var(--theme-color);
+        }
+        .iceberg-depth {
+            background: white;
+            padding: 20px 25px;
+        }
+        .iceberg-label {
+            font-family: var(--font-display);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--color-text-muted);
+            display: block;
+            margin-bottom: 8px;
+        }
+        .iceberg-value {
+            font-family: var(--font-display);
+            font-size: 1.05rem;
+            color: var(--color-text-main);
+        }
+        .iceberg-sub {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 0.9rem;
+            color: var(--color-text-sub);
+            margin-top: 5px;
+        }
+
+        /* 4. Mirror Component */
+        .mirror-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2px;
+            background: var(--color-accent);
+            border: 1px solid var(--color-noir);
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .mirror-side {
+            background: white;
+            padding: 20px;
+        }
+        .mirror-side h5 {
+            margin: 0 0 10px 0;
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-align: center;
+        }
+        .mask-side h5 { color: var(--theme-color); }
+        .shadow-side { background: #f8f8f8; }
+        .shadow-side h5 { color: var(--color-noir); }
+
+        /* 5. Psychological Cycle / Flow Component */
+        .flow-cycle {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 1.5rem 0;
+            gap: 12px;
+            break-inside: avoid;
+        }
+        .flow-step {
+            width: 100%;
+            background: white;
+            border: 1px solid var(--theme-color);
+            padding: 15px 20px;
+            text-align: center;
+            position: relative;
+            box-shadow: 3px 3px 0px var(--color-accent);
+        }
+        .flow-step::after {
+            content: '\2193';
+            position: absolute;
+            bottom: -20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: var(--theme-color);
+            font-weight: bold;
+            font-size: 1.1rem;
+            z-index: 1;
+        }
+        .flow-step:last-child::after { content: none; }
+        .flow-label {
+            font-family: var(--font-display);
+            font-size: 0.55rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 5px;
+        }
+        .flow-text {
+            font-family: var(--font-display);
+            font-size: 0.95rem;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Section 17: The Consistency Check</h2>
+
+<p>Consistency isn't about being rigid. It's about keeping promises. When you establish a rule (magic costs blood, teleportation is impossible, lies are magically detectable), readers trust that rule will hold. If you break it without explanation, you break that trust.</p>
+
+<p>In romantasy, the temptation to break rules is constant. You need your characters to kiss, so suddenly the guards aren't patrolling. You need them separated, so suddenly the teleportation that worked before doesn't. You need tension, so the character who could read minds in chapter three mysteriously forgets that ability in chapter ten.</p>
+
+<p>This is the "vibes vs. logic" problem: prioritizing what feels romantic over what makes logical sense in your world. While romantasy readers suspend disbelief for love stories, they won't forgive a world that only works when it's convenient.</p>
+
+<p>This section helps you test your worldbuilding's internal logic and catch inconsistencies before they undermine your story.</p>
+
+
+<!-- ==========================================
+ SECTION 17: MINI-TOC
+ ========================================== -->
+
+<h2 class="mt-0">In This Section</h2>
+
+<div class="section-toc">
+    <h3>Foundations</h3>
+    <ul>
+        <li><a href="#s17-prioritizing">Prioritizing Consistency</a></li>
+        <li><a href="#s17-rules">The Rules You've Established</a></li>
+    </ul>
+</div>
+
+<div class="section-toc">
+    <h3>Testing Your World</h3>
+    <ul>
+        <li><a href="#s17-would-happen">The "Would This Actually Happen?" Test</a></li>
+        <li><a href="#s17-convenience">The Convenience Check</a></li>
+        <li><a href="#s17-vibes">The "Vibes vs. Logic" Problem</a></li>
+        <li><a href="#s17-pause">Does the Fantasy Plot Pause?</a></li>
+    </ul>
+</div>
+
+<div class="section-toc">
+    <h3>Knowledge &amp; Logic</h3>
+    <ul>
+        <li><a href="#s17-knowledge">Character Knowledge Consistency</a></li>
+        <li><a href="#s17-logic-test">The Internal Logic Test</a></li>
+    </ul>
+</div>
+
+<div class="section-toc">
+    <h3>Breaking &amp; Fixing Rules</h3>
+    <ul>
+        <li><a href="#s17-break-rules">When to Break Your Own Rules</a></li>
+        <li><a href="#s17-forgive">What Readers Will Forgive</a></li>
+        <li><a href="#s17-catching">Catching and Fixing Errors</a></li>
+    </ul>
+</div>
+
+<div class="section-toc">
+    <h3>Reference</h3>
+    <ul>
+        <li><a href="#s17-series">Series Consistency</a></li>
+        <li><a href="#s17-checklist">The Consistency Checklist</a></li>
+        <li><a href="#s17-quick-ref">Quick Reference</a></li>
+        <li><a href="#s17-final">Final Thought</a></li>
+    </ul>
+</div>
+
+
+<!-- SECTION 17: PRIORITIZING CONSISTENCY -->
+
+<h3 class="mt-0" id="s17-prioritizing">Prioritizing Consistency</h3>
+
+<p>Not all consistency matters equally. Before diving into detailed checks, understand what's critical versus what's flexible.</p>
+
+<div class="framework-box">
+    <h4>Critical Consistency (Must Hold)</h4>
+    <p>These breaks will seriously damage reader trust:</p>
+    <ul>
+        <li><strong>Magic rules:</strong> If magic costs something in chapter one, it should cost the same thing in chapter twenty</li>
+        <li><strong>Character abilities:</strong> Powers shouldn't appear or disappear based on plot needs</li>
+        <li><strong>Stated consequences:</strong> If you establish that discovery means death, discovery must mean death</li>
+        <li><strong>Physical limitations:</strong> Travel times, distances, and environmental dangers</li>
+    </ul>
+</div>
+
+<div class="framework-box">
+    <h4>Flexible Consistency (Can Bend)</h4>
+    <p>These can flex slightly without breaking trust:</p>
+    <ul>
+        <li><strong>Minor timing:</strong> Exact travel times can vary if not plot-critical</li>
+        <li><strong>Background details:</strong> The color of a minor character's eyes, the name of a tavern</li>
+        <li><strong>Vague power levels:</strong> "Very powerful" can mean different things in different contexts</li>
+        <li><strong>Coincidences that bring characters together:</strong> This is romance; fate is expected</li>
+    </ul>
+</div>
+
+
+<!-- SECTION 17: KEY QUESTION -->
+
+<div class="anchor-card">
+    <h4>The Key Question</h4>
+    <p><strong>Am I bending rules to serve the story, or breaking them to avoid consequences?</strong></p>
+    <p><em>Bending:</em> The guards are absent because there's a festival (established earlier).</p>
+    <p><em>Breaking:</em> The guards are absent because I needed them gone for this scene.</p>
+</div>
+
+<div class="divider"></div>
+
+<h3 id="s17-rules">The Rules You've Established</h3>
+
+<p>Before you can test for consistency, you need to know exactly what rules your world operates under. This means documenting the magic, political, social, and physical laws you've established, whether explicitly stated or quietly implied. These rules are promises to your reader, and broken promises erode trust faster than anything else in fiction.</p>
+
+<h4>Magic Rules</h4>
+<p class="hint">(Reference: Section 10 — Magic System)</p>
+
+<p><strong>What are the 3-5 most important rules of your magic system?</strong></p>
+<table class="input-table">
+    <tbody>
+        <tr class="example-row">
+            <td>Protagonist's magic tie (example)</td>
+            <td>Her dormant fire magic awakens during moments of strong emotion, especially around the love interest; she cannot yet control it</td>
+        </tr>
+        <tr class="example-row">
+            <td>Academy rebel (example)</td>
+            <td>Breaks curfew regularly, questions ancient traditions openly, has drawn the attention of both reformers and enforcers</td>
+        </tr>
+        <tr><td>1.</td><td></td></tr>
+        <tr><td>2.</td><td></td></tr>
+        <tr><td>3.</td><td></td></tr>
+        <tr><td>4.</td><td></td></tr>
+        <tr><td>5.</td><td></td></tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<p><strong>Have you ever bent or broken these rules for plot convenience?</strong></p>
+<p class="hint">If yes, was there an in-world explanation, or did you just need it to work differently?</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 17: POLITICAL/LEGAL RULES -->
+
+<h4 class="mt-0">Political/Legal Rules</h4>
+<p class="hint">(Reference: Section 5 — Government, Power & Law)</p>
+
+<p><strong>What are the most important laws or political realities?</strong></p>
+<table class="input-table">
+    <tbody>
+        <tr><td>1.</td><td></td></tr>
+        <tr><td>2.</td><td></td></tr>
+        <tr><td>3.</td><td></td></tr>
+        <tr><td>4.</td><td></td></tr>
+    </tbody>
+</table>
+
+<p><strong>Have characters broken these laws without facing stated consequences?</strong></p>
+<p class="hint">If yes, why didn't they face consequences? Will readers accept that reason?</p>
+<div class="writing-box"></div>
+
+<h4>Social/Cultural Rules</h4>
+<p class="hint">(Reference: Section 3 — Culture, Customs & Daily Life)</p>
+
+<p><strong>What are the unbreakable customs or taboos?</strong></p>
+<table class="input-table">
+    <tbody>
+        <tr><td>1.</td><td></td></tr>
+        <tr><td>2.</td><td></td></tr>
+        <tr><td>3.</td><td></td></tr>
+        <tr><td>4.</td><td></td></tr>
+    </tbody>
+</table>
+
+
+<!-- SECTION 17: SOCIAL & PHYSICAL RULES -->
+
+<p class="mt-0"><strong>Do characters violate these customs, and do others react appropriately?</strong></p>
+<p class="hint">If a character breaks a taboo and no one reacts, readers notice.</p>
+<div class="writing-box"></div>
+
+<h4>Physical/Environmental Rules</h4>
+<p class="hint">(Reference: Section 1 — Geography; Section 9 — Technology)</p>
+
+<p><strong>What are the physical limitations of your world?</strong></p>
+<p class="hint">Travel times, communication speed, environmental dangers, seasonal constraints:</p>
+<table class="input-table">
+    <tbody>
+        <tr><td>1.</td><td></td></tr>
+        <tr><td>2.</td><td></td></tr>
+        <tr><td>3.</td><td></td></tr>
+        <tr><td>4.</td><td></td></tr>
+    </tbody>
+</table>
+
+<p><strong>Have these limitations stopped mattering when inconvenient?</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 17: WOULD THIS ACTUALLY HAPPEN TEST -->
+
+<h3 class="mt-0" id="s17-would-happen">The "Would This Actually Happen?" Test</h3>
+
+<p>For major plot points, especially romantic moments, ask: Given my rules, would this actually happen?</p>
+
+<h4>Describe a key romantic scene:</h4>
+<div class="writing-box"></div>
+
+<h4>Apply your rules:</h4>
+<table class="input-table">
+    <thead>
+        <tr><th style="width: 52%">Question</th><th>Your Answer</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>If guards patrol this area, where are they during this scene?</td><td></td></tr>
+        <tr><td>If magic can detect lies/emotions/presence, why doesn't it detect this?</td><td></td></tr>
+        <tr><td>If this location is dangerous, why hasn't the danger manifested?</td><td></td></tr>
+        <tr><td>If discovery means severe punishment, why risk it here and now?</td><td></td></tr>
+        <tr><td>If other characters would intervene, why don't they?</td><td></td></tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- SECTION 17: REVERSAL TEST -->
+
+<h4 class="mt-0">The Reversal Test</h4>
+
+<p><strong>What would actually happen if they were caught?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Who would catch them, and why haven't they?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Is there a good in-world reason they don't get caught, or are you just protecting them?</strong></p>
+<div class="writing-box"></div>
+
+<p class="hint">If you're just protecting them, add a reason (lookout, shift change, concealment magic, distraction) or let them get caught and deal with consequences.</p>
+
+<div class="divider"></div>
+
+<h3 id="s17-convenience">The Convenience Check</h3>
+
+<p>Convenience is the most common consistency killer in romantasy. It happens when characters' abilities, environmental dangers, or authority figures flex to accommodate whatever the plot needs in a given scene. This section helps you audit whether your story's obstacles remain consistent or quietly disappear when they become inconvenient for the romance or the plot.</p>
+
+<h4>Powers and Abilities</h4>
+
+<p><strong>List your protagonist's key abilities:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 17: CONVENIENCE CHECK CONTINUED -->
+
+<p class="mt-0"><strong>List your love interest's key abilities:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Do abilities remain consistent in power level?</strong></p>
+<p class="hint">A character who fights off ten soldiers in one scene but loses to two in another (without explanation like injury, exhaustion, or magical interference) is inconsistent.</p>
+<div class="writing-box"></div>
+
+<p><strong>Does anyone forget an ability that would solve the current problem?</strong></p>
+<div class="writing-box"></div>
+
+<h4>Environmental Consistency</h4>
+
+<p><strong>Map key locations and travel times:</strong></p>
+<table class="input-table">
+    <thead>
+        <tr><th style="width: 25%">From</th><th>To</th><th>Travel Time</th></tr>
+    </thead>
+    <tbody>
+        <tr class="example-row">
+            <td>Night Court capital</td>
+            <td>Day Court border</td>
+            <td>Three days by horse; magical winnowing forbidden across court lines without diplomatic permission</td>
+        </tr>
+        <tr><td></td><td></td><td></td></tr>
+        <tr><td></td><td></td><td></td></tr>
+        <tr><td></td><td></td><td></td></tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<!-- SECTION 17: ENVIRONMENTAL & AUTHORITY -->
+
+<p class="mt-0"><strong>Have you changed these times for plot convenience?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Do environmental dangers remain consistent?</strong></p>
+<p class="hint">If the forest is full of monsters in one chapter, it should still be dangerous in the next (unless something changed).</p>
+<div class="writing-box"></div>
+
+<h4>Authority and Surveillance</h4>
+
+<p><strong>Are authority figures consistently present or absent?</strong></p>
+<p class="hint">Do guards only patrol when you need tension, then vanish when you need privacy?</p>
+<div class="writing-box"></div>
+
+<p><strong>Does surveillance (magical or mundane) work consistently?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Fix:</strong> If you need guards absent, show why (disturbance elsewhere, shift change, bribe, festival, deliberate distraction). Don't just have them disappear.</p>
+
+
+<!-- SECTION 17: VIBES VS LOGIC -->
+
+<h3 class="mt-0" id="s17-vibes">The "Vibes vs. Logic" Problem</h3>
+
+<p>The "vibes vs. logic" problem is the core tension of romantasy writing: you want emotionally resonant scenes, but your world has rules that might interfere with them. When you prioritize atmosphere and feeling over the internal logic you have established, readers can sense it even if they cannot articulate what went wrong. This section helps you identify those moments and gives you tools to reconcile emotion with consistency.</p>
+
+<h4>Identifying Vibes-Over-Logic Moments</h4>
+
+<p>Check if you've done any of these:</p>
+<ul class="checkbox-list">
+    <li>☐ Magic with strict rules suddenly works differently for a romantic moment</li>
+    <li>☐ Political danger that drives the plot pauses completely for romantic scenes</li>
+    <li>☐ Characters have privacy in places that should be public or monitored</li>
+    <li>☐ Consequences you've established don't apply when protagonists break rules</li>
+    <li>☐ Worldbuilding obstacles disappear when they become inconvenient</li>
+    <li>☐ Characters forget abilities, knowledge, or resources that would help</li>
+</ul>
+
+<p><strong>How many did you check?</strong></p>
+<p class="hint">0-1: You're probably fine. | 2-3: Review these specific instances. | 4+: You have a pattern to address.</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 17: FIXING VIBES PROBLEMS -->
+
+<h4 class="mt-0">Fixing Vibes-Over-Logic Problems</h4>
+
+<p>For each issue, you have three options:</p>
+
+<div class="framework-box">
+    <p><strong>Option 1: Add an in-world explanation</strong><br>
+    If magic works differently here, establish earlier that it can work this way under specific conditions. If guards are absent, show why.</p>
+
+    <p><strong>Option 2: Accept the consequences</strong><br>
+    Let them get caught. Let the rule-breaking be a plot point, not a convenience. Often this creates better story.</p>
+
+    <p><strong>Option 3: Change the rule</strong><br>
+    If you keep breaking this rule, maybe it's wrong. Make it less restrictive from the start so you don't have to keep working around it.</p>
+</div>
+
+<table class="input-table">
+    <thead>
+        <tr><th style="width: 30%">Issue</th><th>Which Fix</th></tr>
+    </thead>
+    <tbody>
+        <tr><td></td><td></td></tr>
+        <tr><td></td><td></td></tr>
+        <tr><td></td><td></td></tr>
+    </tbody>
+</table>
+
+
+<!-- SECTION 17: FANTASY PLOT PAUSE -->
+
+<h3 class="mt-0" id="s17-pause">Does the Fantasy Plot Pause for the Romance?</h3>
+
+<p>In romantasy, the fantasy plot and the romance should reinforce each other rather than take turns. When the external threat conveniently pauses so characters can have uninterrupted romantic moments, it signals that your world does not have real stakes. The best romantasy weaves romantic development into the fantasy action so neither thread goes slack.</p>
+
+<h4>The Timeline Test</h4>
+
+<p><strong>Outline major fantasy plot points and romantic beats chronologically:</strong></p>
+<table class="input-table">
+    <thead>
+        <tr><th style="width: 30%">Plot Point</th><th>Romantic Beat</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>1.</td><td>1.</td></tr>
+        <tr><td>2.</td><td>2.</td></tr>
+        <tr><td>3.</td><td>3.</td></tr>
+        <tr><td>4.</td><td>4.</td></tr>
+    </tbody>
+</table>
+
+<p><strong>Do fantasy plot points stop advancing when romance heats up?</strong></p>
+<p class="hint">Example problem: The dark lord marches toward the city but waits patiently while protagonists have a three-chapter relationship arc with no external pressure.</p>
+<div class="writing-box"></div>
+
+<p><strong>Do romantic beats happen during plot events or in pauses between them?</strong></p>
+<p class="hint"><em>Ideal:</em> First kiss while hiding from enemies. Confession after surviving battle together. Argument because they disagree on mission strategy.<br>
+<em>Less ideal:</em> Plot pauses entirely for romantic cabin retreat with no time pressure or external stakes.</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 17: PRESSURE TEST -->
+
+<h4 class="mt-0">The Pressure Test</h4>
+
+<p><strong>For each major romantic moment, what external pressure is active?</strong></p>
+<p class="hint">Ticking clock, pursuing enemy, deadline, magical countdown, someone who might discover them, limited time before forced separation, danger that could interrupt?</p>
+
+<table class="input-table">
+    <thead>
+        <tr><th style="width: 30%">Romantic Moment</th><th>Active External Pressure</th></tr>
+    </thead>
+    <tbody>
+        <tr><td></td><td></td></tr>
+        <tr><td></td><td></td></tr>
+        <tr><td></td><td></td></tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+        <tr class="blank-row">
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<p class="hint">If any moment has no external pressure, consider adding one. Romance under pressure is more compelling than romance in a vacuum.</p>
+
+<h4>The Dual Clock</h4>
+
+<p><strong>Your fantasy plot deadline:</strong></p>
+<p class="hint">(War reaches city, curse takes effect, prophecy deadline passes, trial concludes, army arrives)</p>
+<div class="writing-box"></div>
+
+<p><strong>Your romantic plot deadline:</strong></p>
+<p class="hint">(When they must make final choice about each other, point of no return for the relationship)</p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 17: DUAL CLOCK CONTINUED -->
+
+<p class="mt-0"><strong>Do these deadlines converge?</strong></p>
+<p class="hint"><em>Ideal:</em> Must defeat enemy together, which requires trust they haven't built. Must break curse by admitting love. Political marriage deadline is also war deadline. Confession must happen before battle they might not survive.</p>
+<div class="writing-box"></div>
+
+<p><strong>If deadlines are separate, can you align them?</strong></p>
+<div class="writing-box"></div>
+
+<div class="divider"></div>
+
+<h3 id="s17-knowledge">Character Knowledge Consistency</h3>
+
+<p>Characters should only know what they have been shown learning. Knowledge consistency means tracking who knows what, when they learned it, and ensuring no character acts on information they should not yet have. This is especially critical in romantasy, where secrets, reveals, and misunderstandings drive both the romance and the plot, and a single slip can collapse the tension you have built.</p>
+
+<h4>Information Tracking</h4>
+
+<p><strong>What does your protagonist know (and when did they learn it)?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>What does your love interest know (and when did they learn it)?</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 17: KNOWLEDGE TRACKING -->
+
+<p class="mt-0"><strong>What does protagonist know that love interest doesn't?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>What does love interest know that protagonist doesn't?</strong></p>
+<div class="writing-box"></div>
+
+<h4>The Reveal Check</h4>
+
+<p><strong>Your major revelation or secret:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Could this character have figured this out earlier?</strong></p>
+<p class="hint">If yes, why didn't they? Good reasons: deliberately avoiding it, couldn't bear to know, information was genuinely hidden, had no reason to look. Bad reasons: just didn't think to ask, plot needed them not to know yet.</p>
+<div class="writing-box"></div>
+
+<p><strong>Does any character act on information they shouldn't have yet?</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 17: MISUNDERSTANDING CHECK -->
+
+<h4 class="mt-0">The Misunderstanding Check</h4>
+
+<p><strong>Your major misunderstanding:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Why don't they just ask each other directly?</strong></p>
+
+<table class="input-table">
+    <thead>
+        <tr><th style="width: 30%">Good Reasons</th><th>Bad Reasons</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Cultural taboo against directness</td><td>Just didn't think to ask</td></tr>
+        <tr><td>Fear of rejection or vulnerability</td><td>Plot needs them not to know</td></tr>
+        <tr><td>Asking would reveal dangerous secret</td><td>Avoiding conversation for drama</td></tr>
+        <tr><td>No privacy to have conversation</td><td>Characters being unnecessarily stupid</td></tr>
+        <tr><td>Magical compulsion prevents honesty</td><td>Author needed conflict</td></tr>
+        <tr><td>Asking the question is itself risky</td><td></td></tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<p><strong>Which applies to your story?</strong></p>
+<div class="writing-box"></div>
+
+<p class="hint">If they could resolve the misunderstanding with a single conversation but don't, readers get frustrated, unless there's a solid reason that conversation can't happen.</p>
+
+
+<!-- SECTION 17: INTERNAL LOGIC TEST -->
+
+<h3 class="mt-0" id="s17-logic-test">The Internal Logic Test</h3>
+
+<p>For any major plot event, apply this three-part test:</p>
+
+<div class="framework-box">
+    <h4>1. The Setup Test</h4>
+    <p><strong>Was this possibility established earlier?</strong></p>
+    <p class="hint">If magic does something new in the climax, was it hinted magic could do this? If a character reveals a hidden skill, were there earlier signs?</p>
+</div>
+
+<div class="framework-box">
+    <h4>2. The Rules Test</h4>
+    <p><strong>Does this outcome follow logically from established rules?</strong></p>
+    <p class="hint">Given what you've established about how your world works, does this make sense?</p>
+</div>
+
+<div class="framework-box">
+    <h4>3. The Character Test</h4>
+    <p><strong>Would these characters actually do this, given who they are and what they know?</strong></p>
+    <p class="hint">Not what you need them to do, but what they would actually choose.</p>
+</div>
+
+
+<!-- SECTION 17: APPLY LOGIC TEST -->
+
+<h4 class="mt-0">Apply to your climax or major turning point:</h4>
+
+<p><strong>Event:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Setup Test — was this established?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Rules Test — does this follow rules?</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Character Test — would they do this?</strong></p>
+<div class="writing-box"></div>
+
+<p class="hint">If you answered "no" to any, you have a consistency problem to address.</p>
+
+
+<!-- SECTION 17: WHEN TO BREAK RULES -->
+
+<h3 class="mt-0" id="s17-break-rules">When to Break Your Own Rules</h3>
+
+<p>Sometimes you should break a rule, but intentionally, with explanation, and with impact.</p>
+
+<div class="framework-box">
+    <h4>Justified Rule-Breaking</h4>
+    <p><strong>1. The break is the point</strong><br>
+    The entire story builds to this moment where the impossible becomes possible. Proper setup earns the payoff.</p>
+
+    <p><strong>2. There's an in-world explanation</strong><br>
+    You introduced an exception earlier, or the break reveals new information about how things actually work.</p>
+
+    <p><strong>3. The consequence is severe</strong><br>
+    Breaking the rule has a cost that makes the story more complex, not easier. The rule-break creates new problems.</p>
+</div>
+
+<div style="break-inside: avoid;">
+<h4 id="q-s17-1">Have you intentionally broken a rule?</h4>
+<p class="hint">Justified rule-breaking can strengthen your story, but only if the break is the point, has explanation, and carries real consequences.</p>
+<table class="input-table">
+    <tbody>
+        <tr><td>The rule:</td><td></td></tr>
+        <tr><td>Why you broke it:</td><td></td></tr>
+        <tr><td>What makes it justified:</td><td></td></tr>
+        <tr><td>What consequences follow:</td><td></td></tr>
+    </tbody>
+</table>
+</div>
+
+
+<!-- SECTION 17: WHAT READERS FORGIVE -->
+
+<h3 class="mt-0" id="s17-forgive">What Readers Will Forgive</h3>
+
+<p>Not all inconsistencies matter equally.</p>
+
+<div class="framework-box">
+    <h4>Readers Will Usually Forgive:</h4>
+    <ul>
+        <li><strong>Minor timing/distance variations</strong> if the story is emotionally compelling</li>
+        <li><strong>Vague power levels</strong> if outcomes feel earned</li>
+        <li><strong>Convenient coincidences</strong> that bring characters together (this is romance, and fate is expected)</li>
+        <li><strong>Slightly flexible rules</strong> if the flexibility is consistent</li>
+        <li><strong>Offscreen solutions</strong> to minor logistical problems</li>
+        <li><strong>Characters making emotional rather than optimal decisions</strong> (they're human)</li>
+    </ul>
+</div>
+
+<div class="mistake-box">
+    <h4>Readers Will NOT Forgive:</h4>
+    <ul>
+        <li><strong>Rules that only apply to non-protagonists</strong> (everyone else dies from this, but not our heroes)</li>
+        <li><strong>Abilities that appear/disappear based on plot needs</strong> (why didn't they just do what they did in chapter 3?)</li>
+        <li><strong>Consequences that vanish</strong> (huge danger established, then never pays off)</li>
+        <li><strong>Characters acting stupid to preserve conflict</strong> (just TALK to each other!)</li>
+        <li><strong>Deus ex machina solutions</strong> that weren't set up</li>
+        <li><strong>The world stopping</strong> so characters can have romantic moments with zero tension</li>
+    </ul>
+</div>
+
+
+<!-- SECTION 17: THE DIFFERENCE -->
+
+<h4 class="mt-0">The Difference</h4>
+
+<p>Readers forgive inconsistencies that serve emotion <em>if you've earned their trust</em> through generally consistent worldbuilding.</p>
+
+<p>They don't forgive inconsistencies that feel like cheating, where you're protecting characters from your own rules, or making things easy when they should be hard.</p>
+
+<div class="anchor-card">
+    <p><strong>Ask:</strong> Am I bending rules to serve the story, or breaking them to avoid consequences I don't want to write?</p>
+</div>
+
+<div class="writing-box"></div>
+
+<div class="divider"></div>
+
+<h3 id="s17-catching">Catching and Fixing Errors</h3>
+
+<h4>If You Catch It While Drafting:</h4>
+
+<p><strong>Option 1: Fix it going forward and revise backward</strong><br>
+Change earlier instances to match your new understanding of how things work.</p>
+
+<p><strong>Option 2: Make the inconsistency a feature</strong><br>
+If magic worked differently once, maybe there's a reason. Turn the error into a mystery or revelation.</p>
+
+<p><strong>Option 3: Acknowledge and explain</strong><br>
+Add a line explaining why this instance is different from established pattern.</p>
+
+
+<!-- SECTION 17: CATCHING ERRORS CONTINUED -->
+
+<h4 class="mt-0">If You Catch It Late:</h4>
+<ul>
+    <li>Note it for revision</li>
+    <li>If writing a series, you can sometimes address inconsistencies in later books</li>
+    <li>Accept that readers may notice, but a strong story survives minor inconsistencies</li>
+    <li>Major inconsistencies need fixing; minor ones can slide</li>
+</ul>
+
+<h4>Using Beta Readers</h4>
+
+<p>Beta readers catch consistency errors you're blind to. Ask them specifically:</p>
+<ul>
+    <li>Did anything feel too convenient or too easy?</li>
+    <li>Did any rule seem to change without explanation?</li>
+    <li>Did any character forget an ability or know something they shouldn't?</li>
+    <li>Did the world feel consistent throughout?</li>
+    <li>Were there moments that pulled you out of the story?</li>
+</ul>
+
+<p><strong>Consistency questions for your beta readers:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 17: SERIES CONSISTENCY -->
+
+<h3 class="mt-0" id="s17-series">Series Consistency</h3>
+
+<p>If this is book one of a series, you need to track rules across books.</p>
+
+<h4>Create a Series Bible</h4>
+<p>Document and maintain:</p>
+
+<p><strong>Magic rules and limitations:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Travel times between key locations:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Political structures and current power holders:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Character abilities and their established limits:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 17: SERIES BIBLE CONTINUED -->
+
+<p class="mt-0"><strong>Major worldbuilding facts that can't change:</strong></p>
+<div class="writing-box"></div>
+
+<h4>What to Track Across Books:</h4>
+<ul>
+    <li>Character ages and timeline progression</li>
+    <li>Who knows what and when they learned it</li>
+    <li>Relationship status and history between all characters</li>
+    <li>Political situation changes book to book</li>
+    <li>Any rule clarifications, expansions, or exceptions</li>
+    <li>Consequences from previous books that should still matter</li>
+</ul>
+
+<p><strong>Will you need a series bible?</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 17: CONSISTENCY CHECKLIST -->
+
+<h3 class="mt-0" id="s17-checklist">The Consistency Checklist</h3>
+
+<p>Use this for any major plot point or romantic beat:</p>
+
+<ul class="checkbox-list">
+    <li>☐ Does this follow established magic rules?</li>
+    <li>☐ Does this follow established political/social rules?</li>
+    <li>☐ Are environmental conditions consistent with previous scenes?</li>
+    <li>☐ Do characters have only the knowledge and abilities they should have at this point?</li>
+    <li>☐ Are authority figures and obstacles present as established (or absent for good reason)?</li>
+    <li>☐ Does external plot pressure continue during this scene?</li>
+    <li>☐ If a rule is bent or broken, is there a clear in-world reason?</li>
+    <li>☐ Would readers who've been paying attention accept this?</li>
+</ul>
+
+
+<!-- SECTION 17: QUICK REFERENCE -->
+
+<h3 class="mt-0" id="s17-quick-ref">Quick Reference: Your Consistency Priorities</h3>
+
+<p><strong>Rules that absolutely must hold (critical consistency):</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Rules you can bend slightly (flexible consistency):</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>Consequences that must happen if rules are broken:</strong></p>
+<div class="writing-box"></div>
+
+<p><strong>The biggest consistency risk in your story:</strong></p>
+<div class="writing-box"></div>
+
+
+<!-- SECTION 17: FINAL -->
+
+<div class="framework-box">
+    <h3 id="s17-final">Final Thought: Trust Your Worldbuilding</h3>
+
+    <p>Your world doesn't have to be perfectly realistic. It's fantasy. But it does have to be internally consistent. The rules you establish create boundaries that make choices meaningful.</p>
+
+    <p>When characters break rules, it should cost them something. When they work within rules, victories should feel earned. When the impossible becomes possible, it should be a moment of wonder, not convenience.</p>
+
+    <p>Trust your worldbuilding. Let it create real obstacles. Let it make things genuinely hard.</p>
+
+    <p>The romance will be stronger for it. Love that overcomes real obstacles (obstacles grounded in consistent worldbuilding) means more than love that overcomes obstacles that conveniently disappear.</p>
+
+    <p>Build a world with rules. Then let your characters fight for each other within those rules.</p>
+
+    <p>That's how you earn the happy ending.</p>
+</div>
+
+<div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
+
+<!-- ============================================================
+ SECTION 18: THE AGENCY CHECK
+ ============================================================ -->
+
+<!-- SECTION 18: TITLE PAGE -->
+</body></html>

@@ -1,0 +1,2915 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worldbuilding Workbook - Appendix_Index</title>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+    <style>
+        :root {
+            --color-worldbuilding: #065f46;
+            --color-worldbuilding-light: rgba(6, 95, 70, 0.1);
+            --color-bg: #fdfbf7;
+            --color-noir: #1a1515;
+            --color-accent: #e2c98a;
+            --color-danger: #9f1239;
+            --color-text-main: #121212;
+            --color-text-sub: #444444;
+            --color-text-muted: #888888;
+            --font-display: 'Libre Baskerville', serif;
+            --font-accent: 'Cormorant Garamond', serif;
+            --font-body: 'Inter', sans-serif;
+            --theme-color: var(--color-worldbuilding);
+            --theme-color-light: var(--color-worldbuilding-light);
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: var(--color-bg);
+            color: var(--color-text-main);
+            font-family: var(--font-body);
+            line-height: 1.6;
+            font-size: 11pt;
+        }
+        @page {
+            size: 8.5in 11in;
+            margin: 70px 80px 100px 80px;
+            background: var(--color-bg);
+            @bottom-center {
+                content: counter(page);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.7rem;
+                font-weight: 700;
+                color: #065f46;
+            }
+            @bottom-left {
+                content: string(section-title);
+                font-family: 'Libre Baskerville', serif;
+                font-size: 0.6rem;
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                color: #888;
+            }
+        }
+        @page:first {
+            @bottom-center { content: none; }
+            @bottom-left { content: none; }
+        }
+        .pagedjs_page {
+            background: var(--color-bg) !important;
+            position: relative !important;
+        }
+        .pagedjs_pagebox {
+            position: relative !important;
+        }
+        .pagedjs_pagebox::before {
+            content: '' !important;
+            position: absolute !important;
+            top: 15px !important;
+            left: 15px !important;
+            right: 15px !important;
+            bottom: 15px !important;
+            border: 3px solid #065f46 !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        .pagedjs_pagebox::after {
+            content: '' !important;
+            position: absolute !important;
+            top: 22px !important;
+            left: 22px !important;
+            right: 22px !important;
+            bottom: 22px !important;
+            border: 1px solid #e2c98a !important;
+            pointer-events: none !important;
+            z-index: 1000 !important;
+        }
+        h2 { string-set: section-title content(); }
+        h1 {
+            font-family: var(--font-display);
+            font-size: 2rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--color-noir);
+            margin-bottom: 1.5rem;
+            line-height: 1.2;
+        }
+        h2 {
+            font-family: var(--font-display);
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--color-noir);
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--color-accent);
+            break-after: avoid;
+        }
+        h3 {
+            font-family: var(--font-display);
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+            break-after: avoid;
+        }
+        h4 {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            font-weight: 600;
+            font-style: italic;
+            color: var(--color-text-sub);
+            margin-top: 1.25rem;
+            margin-bottom: 0.5rem;
+            break-after: avoid;
+        }
+        p {
+            margin-bottom: 1rem;
+            text-align: justify;
+            hyphens: auto;
+            orphans: 3;
+            widows: 3;
+        }
+        .lead-text {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.7;
+            margin-bottom: 1.5rem;
+        }
+        .hint {
+            font-family: var(--font-accent);
+            font-style: italic;
+            color: var(--color-text-muted);
+            font-size: 0.95rem;
+            margin-top: -0.5rem;
+            margin-bottom: 1rem;
+            break-after: avoid;
+        }
+        ul, ol { margin: 1rem 0 1rem 1.5rem; }
+        li { margin-bottom: 0.5rem; }
+        .title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .title-page h1 {
+            font-size: 2.5rem;
+            letter-spacing: 6px;
+            margin-bottom: 0.5rem;
+        }
+        .title-page .divider {
+            width: 100px;
+            height: 2px;
+            background: var(--color-accent);
+            margin: 2rem 0;
+        }
+        .title-page .tagline {
+            font-family: var(--font-accent);
+            font-size: 1.1rem;
+            color: var(--color-text-muted);
+            max-width: 400px;
+        }
+        .section-number {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .section-title-page {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-height: 9in;
+            break-after: page;
+        }
+        .section-title-page .section-label {
+            font-family: var(--font-display);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            color: var(--theme-color);
+            margin-bottom: 1rem;
+        }
+        .section-title-page h1 {
+            font-size: 2.2rem;
+            margin-bottom: 1rem;
+        }
+        .section-title-page .section-intro {
+            font-family: var(--font-accent);
+            font-size: 1.15rem;
+            font-style: italic;
+            color: var(--color-text-sub);
+            line-height: 1.8;
+            max-width: 90%;
+        }
+        .anchor-card {
+            border: 2px solid var(--color-noir);
+            background: white;
+            margin: 1.5rem 0;
+            padding: 25px;
+            break-inside: avoid;
+        }
+        .anchor-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 12px;
+            display: block;
+        }
+        .anchor-question {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 1.15rem;
+            border-left: 3px solid var(--color-accent);
+            padding-left: 15px;
+        }
+        .framework-box {
+            border: 2px solid var(--theme-color);
+            background: var(--theme-color-light);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .framework-box h4 {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-top: 0;
+            margin-bottom: 1rem;
+            font-style: normal;
+        }
+        .framework-box p { margin-bottom: 0.75rem; }
+        .framework-box ul { margin: 0.5rem 0 0.5rem 1.5rem; }
+        .framework-box li { margin-bottom: 0.5rem; }
+        .mistake-box {
+            border-left: 4px solid var(--color-danger);
+            background: rgba(159, 18, 57, 0.05);
+            padding: 20px 25px;
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .mistake-box .mistake-title {
+            font-family: var(--font-display);
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--color-danger);
+            margin-bottom: 0.75rem;
+        }
+        .mistake-box p { margin-bottom: 0.5rem; font-size: 0.9rem; }
+        .mistake-box p:last-child { margin-bottom: 0; }
+        .fix-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--theme-color);
+            display: block;
+            margin-top: 0.75rem;
+        }
+        .writing-box {
+            border: 1px solid var(--color-noir);
+            background: white;
+            padding: 15px 20px;
+            margin: 1rem 0 1.5rem 0;
+            min-height: 140px;
+            break-inside: avoid;
+        }
+        .writing-box.large { min-height: 200px; }
+        .writing-box.small { min-height: 80px; }
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .checklist {
+            list-style: none;
+            margin: 1rem 0;
+            break-inside: avoid;
+        }
+        .checklist li {
+            position: relative;
+            padding-left: 30px;
+            margin-bottom: 0.75rem;
+            font-size: 0.95rem;
+        }
+        .checklist li::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 2px;
+            width: 16px;
+            height: 16px;
+            border: 1px solid var(--theme-color);
+            background: white;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            font-size: 0.9rem;
+            break-inside: avoid;
+            border: 1px solid #1a1515;
+        }
+        th {
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            background: var(--theme-color);
+            color: white;
+            padding: 12px 15px;
+            text-align: left;
+            border: 1px solid #1a1515;
+        }
+        td {
+            min-height: 40px;
+            height: 40px;
+            padding: 12px 15px;
+            border: 1px solid #1a1515;
+            vertical-align: top;
+        }
+        tr:nth-child(even) { background: rgba(0,0,0,0.02); }
+        thead { display: table-header-group; }
+        tr { break-inside: avoid; }
+        /* Input tables with more writing space */
+        .input-table td {
+            min-height: 45px;
+            height: 45px;
+        }
+        .input-table td:last-child {
+            min-height: 60px;
+        }
+        /* Example row styling */
+        tr.example-row {
+            background: rgba(6, 95, 70, 0.08) !important;
+        }
+        tr.example-row td {
+            color: var(--color-text-muted);
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+        tr.example-row td:first-child {
+            font-style: normal;
+            color: var(--color-text-sub);
+        }
+        /* Blank rows for custom entries */
+        tr.blank-row td {
+            height: 50px;
+        }
+        .flourish-divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            margin: 1.5rem 0;
+        }
+        .flourish-divider::before,
+        .flourish-divider::after {
+            content: '';
+            height: 2px;
+            width: 80px;
+            background: var(--color-accent);
+        }
+        .flourish-divider .divider-icon {
+            font-size: 1.2rem;
+            color: var(--color-accent);
+        }
+        .section-toc { margin: 1rem 0; break-inside: avoid; }
+        .section-toc h3 {
+            font-size: 1rem;
+            color: var(--color-accent);
+            margin-bottom: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .section-toc ul {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 1rem 0;
+            columns: 2;
+            column-gap: 2rem;
+        }
+        .section-toc li { margin-bottom: 0.4rem; break-inside: avoid; }
+        .section-toc a {
+            color: var(--color-text-main);
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .section-toc-single ul { columns: 1; }
+        .alphabetical-index, .thematic-index {
+            column-count: 2;
+            column-gap: 30px;
+            font-size: 8.5pt;
+            line-height: 1.4;
+        }
+        .index-entry { break-inside: avoid; margin-bottom: 0.6rem; }
+        .index-letter {
+            font-family: var(--font-display);
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--theme-color);
+            margin: 1rem 0 0.5rem 0;
+            padding-bottom: 0.25rem;
+            border-bottom: 1px solid var(--color-accent);
+            break-after: avoid;
+        }
+        .index-keyword { font-weight: 600; color: var(--color-noir); display: block; }
+        .index-reference {
+            display: block;
+            padding-left: 1rem;
+            color: var(--color-text-sub);
+            font-size: 8pt;
+        }
+        .index-reference a {
+            color: var(--theme-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .mt-0 { margin-top: 0; }
+        .mt-1 { margin-top: 0.5rem; }
+        .mt-2 { margin-top: 1rem; }
+        .mb-0 { margin-bottom: 0; }
+        .mb-1 { margin-bottom: 0.5rem; }
+        .mb-2 { margin-bottom: 1rem; }
+        .text-center { text-align: center; }
+        .text-muted { color: var(--color-text-muted); }
+        .break-before { break-before: page; }
+        @media screen {
+            body { background: #e5e1da; padding: 20px; }
+            .pagedjs_page { box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 20px; }
+        }
+        @media print {
+            * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+        }
+
+        /* ============================================
+           STYLE #2 ENHANCEMENTS
+           ============================================ */
+
+        /* 1. Corner Flourishes - L-shaped brackets at page corners */
+        .pagedjs_page::after {
+            content: '' !important;
+            position: absolute !important;
+            top: 28px !important;
+            left: 28px !important;
+            right: 28px !important;
+            bottom: 28px !important;
+            background:
+                /* Top-left corner */
+                linear-gradient(#065f46, #065f46) top left / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) top left / 2px 22px no-repeat,
+                /* Top-right corner */
+                linear-gradient(#065f46, #065f46) top right / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) top right / 2px 22px no-repeat,
+                /* Bottom-left corner */
+                linear-gradient(#065f46, #065f46) bottom left / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) bottom left / 2px 22px no-repeat,
+                /* Bottom-right corner */
+                linear-gradient(#065f46, #065f46) bottom right / 22px 2px no-repeat,
+                linear-gradient(#065f46, #065f46) bottom right / 2px 22px no-repeat !important;
+            pointer-events: none !important;
+            z-index: 1001 !important;
+        }
+
+        /* 6. Anchor Card Watermark */
+        .anchor-card {
+            position: relative;
+            overflow: hidden;
+        }
+        .anchor-card::before {
+            content: "\2726" !important;
+            position: absolute !important;
+            top: -5px !important;
+            right: -5px !important;
+            font-size: 5rem !important;
+            opacity: 0.06 !important;
+            transform: rotate(15deg) !important;
+            color: var(--theme-color) !important;
+            pointer-events: none !important;
+            z-index: 0 !important;
+        }
+
+        /* 7. Gradient Section Divider */
+        .section-divider {
+            border: none;
+            height: 1px;
+            background: linear-gradient(to right, transparent, var(--color-accent), transparent);
+            margin: 2rem 0;
+        }
+
+        /* 2. Writing Box Labels (enhanced) */
+        .writing-box {
+            position: relative;
+        }
+        .writing-box-label {
+            font-family: var(--font-display);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 0.5rem;
+            opacity: 0.7;
+        }
+
+        /* 3. Iceberg Component */
+        .iceberg-container {
+            margin: 1.5rem 0;
+            background: white;
+            border: 1px solid var(--color-noir);
+            overflow: hidden;
+            break-inside: avoid;
+        }
+        .iceberg-surface {
+            background: rgba(226, 201, 138, 0.15);
+            padding: 20px 25px;
+            border-bottom: 2px dashed var(--theme-color);
+        }
+        .iceberg-depth {
+            background: white;
+            padding: 20px 25px;
+        }
+        .iceberg-label {
+            font-family: var(--font-display);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--color-text-muted);
+            display: block;
+            margin-bottom: 8px;
+        }
+        .iceberg-value {
+            font-family: var(--font-display);
+            font-size: 1.05rem;
+            color: var(--color-text-main);
+        }
+        .iceberg-sub {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 0.9rem;
+            color: var(--color-text-sub);
+            margin-top: 5px;
+        }
+
+        /* 4. Mirror Component */
+        .mirror-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2px;
+            background: var(--color-accent);
+            border: 1px solid var(--color-noir);
+            margin: 1.5rem 0;
+            break-inside: avoid;
+        }
+        .mirror-side {
+            background: white;
+            padding: 20px;
+        }
+        .mirror-side h5 {
+            margin: 0 0 10px 0;
+            font-family: var(--font-display);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            text-align: center;
+        }
+        .mask-side h5 { color: var(--theme-color); }
+        .shadow-side { background: #f8f8f8; }
+        .shadow-side h5 { color: var(--color-noir); }
+
+        /* 5. Psychological Cycle / Flow Component */
+        .flow-cycle {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 1.5rem 0;
+            gap: 12px;
+            break-inside: avoid;
+        }
+        .flow-step {
+            width: 100%;
+            background: white;
+            border: 1px solid var(--theme-color);
+            padding: 15px 20px;
+            text-align: center;
+            position: relative;
+            box-shadow: 3px 3px 0px var(--color-accent);
+        }
+        .flow-step::after {
+            content: '\2193';
+            position: absolute;
+            bottom: -20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: var(--theme-color);
+            font-weight: bold;
+            font-size: 1.1rem;
+            z-index: 1;
+        }
+        .flow-step:last-child::after { content: none; }
+        .flow-label {
+            font-family: var(--font-display);
+            font-size: 0.55rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 5px;
+        }
+        .flow-text {
+            font-family: var(--font-display);
+            font-size: 0.95rem;
+        }
+    </style>
+</head>
+<body>
+
+<div class="section-title-page">
+    <h1 class="section-number">Appendix</h1>
+    <h2 class="section-title">Common Romantasy Worldbuilding Mistakes</h2>
+    <p class="section-subtitle">And How to Avoid Them</p>
+</div>
+
+
+<!-- ==========================================
+ APPENDIX: MINI-TOC
+ ========================================== -->
+
+<h2 class="mt-0">In This Appendix</h2>
+
+<div class="section-toc section-toc-single">
+    <h3>Common Mistakes</h3>
+    <ul>
+        <li><a href="#appendix-backdrop-world">Mistake #1: The Backdrop World</a></li>
+        <li><a href="#appendix-medieval-europe">Mistake #2: Medieval Europe with Starbucks</a></li>
+        <li><a href="#appendix-inconsistent-magic">Mistake #3: Magic When Convenient, Absent When Inconvenient</a></li>
+        <li><a href="#appendix-pausing-danger">Mistake #4: Political Danger That Pauses for Romance</a></li>
+        <li><a href="#appendix-captivity-consent">Mistake #5: Captivity Romance Without Addressing Consent</a></li>
+        <li><a href="#appendix-fated-mates">Mistake #6: Fated Mates That Remove All Agency</a></li>
+        <li><a href="#appendix-inconsistent-rules">Mistake #7: Inconsistent World Rules</a></li>
+        <li><a href="#appendix-soft-boiled">Mistake #8: The Soft-Boiled World</a></li>
+        <li><a href="#appendix-non-romantic">Mistake #9: Forgetting the Non-Romantic Story</a></li>
+        <li><a href="#appendix-perfect-world">Mistake #10: The One Perfect World</a></li>
+    </ul>
+</div>
+
+<div class="section-toc section-toc-single">
+    <h3>Resources</h3>
+    <ul>
+        <li><a href="#appendix-self-check">Quick Self-Check</a></li>
+    </ul>
+</div>
+
+
+<!-- APPENDIX: INTRODUCTION -->
+
+<p>Every genre has its pitfalls. These are the worldbuilding mistakes that trip up romantasy writers most often: the patterns that make readers roll their eyes, leave reviews about "plot holes," or put the book down feeling unsatisfied.</p>
+
+<p>You've probably encountered these as a reader. This appendix helps you recognize when you're falling into them as a writer, and shows you how to fix them.</p>
+
+
+<!-- APPENDIX: MISTAKE #1 -->
+
+<h2 class="mt-0" id="appendix-backdrop-world">Mistake #1: The Backdrop World</h2>
+
+<h3>What It Looks Like</h3>
+
+<p>The world exists, but it doesn't <em>do</em> anything. Settings are described but never matter. Magic exists but never creates problems. Politics are mentioned but never affect the characters. The romance could happen anywhere. This just happens to be a castle instead of a coffee shop.</p>
+
+<div class="mistake-box">
+    <h4>Warning signs:</h4>
+    <ul>
+        <li>You can summarize your plot without mentioning any worldbuilding elements</li>
+        <li>The fantasy setting never prevents the characters from doing what they want</li>
+        <li>Magic only appears when it's helpful, never when it's inconvenient</li>
+        <li>Removing all fantasy elements wouldn't change the relationship arc</li>
+    </ul>
+</div>
+
+<h3>Why It Happens</h3>
+
+<p>Usually because the writer built the world and the romance separately, then put them in the same book without integrating them. The world is <em>setting</em>, not <em>story</em>.</p>
+
+
+<!-- APPENDIX: MISTAKE #1 FIX -->
+
+<h3 class="mt-0">How to Fix: The Backdrop World</h3>
+
+<div class="framework-box">
+    <p><strong>Test:</strong> For each major worldbuilding element, ask: "How does this create obstacles for the romance?" and "How does this create opportunities for intimacy?"</p>
+    <p>If you can't answer both questions, the element isn't integrated.</p>
+</div>
+
+<p><strong>Fix:</strong> Go back to your worldbuilding and add friction. Your magic system should create at least one major obstacle. Your political structure should forbid something the characters want to do. Your cultural rules should make their relationship scandalous, dangerous, or complicated.</p>
+
+<p>The world should be actively making their lives difficult — and that difficulty should be specific to <em>this</em> world, not generic obstacles that could exist anywhere.</p>
+
+
+<!-- APPENDIX: MISTAKE #2 -->
+
+<h2 class="mt-0" id="appendix-medieval-europe">Mistake #2: Medieval Europe with Starbucks</h2>
+
+<h3>What It Looks Like</h3>
+
+<p>The setting looks like pseudo-medieval fantasy (castles, horses, swords) but everyone thinks, speaks, and acts like contemporary Americans. The characters have modern attitudes about gender, class, and relationships. The social structures that would actually exist in this kind of society are absent or treated as easily ignored.</p>
+
+<div class="mistake-box">
+    <h4>Warning signs:</h4>
+    <ul>
+        <li>Characters face no real consequences for breaking social rules</li>
+        <li>Women hold power or defy expectations without anyone being surprised</li>
+        <li>Class differences are mentioned but never actually matter</li>
+        <li>Characters use anachronistic language or hold anachronistic beliefs</li>
+        <li>The "rules" of society only apply when they create a fun obstacle, then disappear</li>
+    </ul>
+</div>
+
+<h3>Why It Happens</h3>
+
+<p>Writers want the aesthetic of historical fantasy without the constraints. They want their protagonist to be independent and equal, which is harder to write in a historically-grounded setting. Or they simply don't realize how differently people thought and lived in pre-modern societies.</p>
+
+
+<!-- APPENDIX: MISTAKE #2 FIX -->
+
+<h3 class="mt-0">How to Fix: Medieval Europe with Starbucks</h3>
+
+<div class="framework-box">
+    <p><strong>Option 1: Make it actually historical in feel</strong></p>
+    <p>Research how pre-modern societies actually worked. Make the constraints real. Your protagonist can still be remarkable, but they should be remarkable <em>in context</em> — pushing against real limitations, facing real consequences, finding power within systems that constrain them.</p>
+
+    <p><strong>Option 2: Build a world where modern attitudes make sense</strong></p>
+    <p>You don't have to write historical attitudes. But if your world has gender equality, explain why. What's different about this society that created different norms? Make the modern attitudes <em>worldbuilt</em>, not just assumed.</p>
+
+    <p><strong>Option 3: Address the tension explicitly</strong></p>
+    <p>Your protagonist can have anachronistically modern views, but make that <em>the point</em>. Show that their attitudes put them in conflict with their society. Don't pretend everyone secretly agrees with them.</p>
+</div>
+
+
+<!-- APPENDIX: MISTAKE #3 -->
+
+<h2 class="mt-0" id="appendix-inconsistent-magic">Mistake #3: Magic When Convenient, Absent When Inconvenient</h2>
+
+<h3>What It Looks Like</h3>
+
+<p>The magic system's rules shift to serve the plot. Characters have powers that could solve problems but don't use them. Limitations appear suddenly when magic would make things too easy, then vanish when magic needs to save the day. The system has no internal logic. It does whatever the current scene requires.</p>
+
+<div class="mistake-box">
+    <h4>Warning signs:</h4>
+    <ul>
+        <li>Characters "forget" abilities they've used before</li>
+        <li>New limitations are introduced right when they become relevant</li>
+        <li>The power level of magic varies wildly between scenes</li>
+        <li>You've used phrases like "for some reason, her magic wouldn't work"</li>
+        <li>Magic solves the climax in a way that wasn't established earlier</li>
+    </ul>
+</div>
+
+<h3>Why It Happens</h3>
+
+<p>Writers build magic systems that are too powerful, then have to keep nerfing them to maintain tension. Or they don't fully understand their own system and accidentally create contradictions. Or they use magic as a get-out-of-jail-free card without thinking through implications.</p>
+
+
+<!-- APPENDIX: MISTAKE #3 FIX -->
+
+<h3 class="mt-0">How to Fix: Inconsistent Magic</h3>
+
+<div class="framework-box">
+    <p><strong>Fix the system, not the scenes</strong></p>
+    <p>Go back to your magic system design and build in limitations from the start. Every power should have costs, constraints, and situations where it doesn't work. Write these down and keep them consistent.</p>
+
+    <p><strong>Establish rules before you need them</strong></p>
+    <p>If magic can't work in iron buildings, establish that <em>before</em> your characters need to break into an iron building. If the protagonist's power requires concentration, show it failing when they're distracted <em>before</em> the climax requires them to maintain focus under pressure.</p>
+
+    <p><strong>Track abilities</strong></p>
+    <p>Keep a list of what each character can do with magic. Before each scene, check: could any of these abilities solve this problem? If yes, you need an established reason why they don't use it, or change the scene.</p>
+</div>
+
+
+<!-- APPENDIX: MISTAKE #4 -->
+
+<h2 class="mt-0" id="appendix-pausing-danger">Mistake #4: Political Danger That Pauses for Romance</h2>
+
+<h3>What It Looks Like</h3>
+
+<p>The worldbuilding establishes high stakes (war, political intrigue, deadly consequences for rule-breaking), but these stakes mysteriously pause whenever the romance needs space. The approaching army waits. The dangerous court stops watching. The forbidden relationship proceeds without interruption because the plot needs them to have their moments.</p>
+
+<div class="mistake-box">
+    <h4>Warning signs:</h4>
+    <ul>
+        <li>Tense situations resolve off-page so characters can have relationship scenes</li>
+        <li>Antagonists who were pursuing them stop pursuing without explanation</li>
+        <li>Characters take multi-day romantic retreats in the middle of urgent crises</li>
+        <li>The "danger" never actually interrupts the romance</li>
+        <li>Time seems to work differently when they're together vs. apart</li>
+    </ul>
+</div>
+
+<h3>Why It Happens</h3>
+
+<p>Writers want to give the romance room to breathe but don't know how to create space within the ongoing tension. They build high-stakes worlds and then can't figure out how to make the romance work <em>inside</em> those stakes.</p>
+
+
+<!-- APPENDIX: MISTAKE #4 FIX -->
+
+<h3 class="mt-0">How to Fix: Pausing Danger</h3>
+
+<div class="framework-box">
+    <p><strong>Put the romance inside the tension</strong></p>
+    <p>Instead of pausing the danger for romance, let the romance happen <em>during</em> the danger. First kiss while hiding from enemies. Confession before a battle they might not survive. Growing closer because they're the only people each other can trust in hostile territory.</p>
+
+    <p><strong>Create justified breathing room</strong></p>
+    <p>If you need lower-tension scenes, build them into the worldbuilding. Safe houses that actually make sense. Travel time between locations. Recovery periods after battles. Make the "safe" moments feel earned and temporary.</p>
+
+    <p><strong>Keep the clock ticking</strong></p>
+    <p>Even during romantic scenes, remind readers what's waiting. A deadline they're aware of. The sound of armies marching in the distance. The knowledge that they'll have to return to the danger. Intimacy under pressure is more intense, not less.</p>
+</div>
+
+
+<!-- APPENDIX: MISTAKE #5 -->
+
+<h2 class="mt-0" id="appendix-captivity-consent">Mistake #5: Captivity Romance Without Addressing Consent</h2>
+
+<h3>What It Looks Like</h3>
+
+<p>One character has power over the other (prisoner, slave, captor's guest, magically bound), and romance develops without the power imbalance being meaningfully addressed. The captive falls for their captor. The prisoner loves their jailer. The dynamic is presented as romantic without acknowledging that the captive cannot freely choose.</p>
+
+<div class="mistake-box">
+    <h4>Warning signs:</h4>
+    <ul>
+        <li>Romance progresses while one character literally cannot leave</li>
+        <li>The captor's "kindness" within captivity is treated as romantic</li>
+        <li>Stockholm syndrome dynamics are romanticized rather than examined</li>
+        <li>The power imbalance is never explicitly addressed or equalized</li>
+        <li>The captive never gains the ability to leave before choosing to stay</li>
+    </ul>
+</div>
+
+<h3>Why It Happens</h3>
+
+<p>Captivity scenarios are popular because they guarantee forced proximity and high stakes. Writers don't always think through the consent implications, or they rely on the fictional nature of the story to excuse dynamics that would be troubling in reality.</p>
+
+
+<!-- APPENDIX: MISTAKE #5 FIX -->
+
+<h3 class="mt-0">How to Fix: Captivity Romance</h3>
+
+<div class="framework-box">
+    <p><strong>Give them a real choice</strong></p>
+    <p>At some point, the captive must genuinely be able to leave. They should be free, know they're free, and <em>then</em> choose to stay. Romance that begins in captivity can work, but it needs this moment of free choice.</p>
+
+    <p><strong>Address the dynamic explicitly</strong></p>
+    <p>Have characters acknowledge the power imbalance. The captor should recognize what they've done. The captive should process their complicated feelings. Don't pretend the captivity didn't affect the dynamic.</p>
+
+    <p><strong>Show the captor earning trust</strong></p>
+    <p>If the captor wants the captive's love, they should have to <em>earn</em> it — and that starts with dismantling their own power over the other person. A captor who keeps someone imprisoned while wanting their love is not romantic; they're a warden who wants credit for being nice about it.</p>
+
+    <p><strong>Consider the story you're telling</strong></p>
+    <p>Captivity romance <em>can</em> be done well, but it requires intention. If you're not interested in examining power, consent, and the complexities of feelings that develop under duress, this might not be the scenario for your story.</p>
+</div>
+
+
+<!-- APPENDIX: MISTAKE #6 -->
+
+<h2 class="mt-0" id="appendix-fated-mates">Mistake #6: Fated Mates That Remove All Agency</h2>
+
+<h3>What It Looks Like</h3>
+
+<p>The worldbuilding includes some form of magical destiny (fated mates, soul bonds, prophecy), and this destiny does all the romantic heavy lifting. Characters are together because they're fated to be, not because they chose each other. The magic creates the relationship; the characters are just along for the ride.</p>
+
+<div class="mistake-box">
+    <h4>Warning signs:</h4>
+    <ul>
+        <li>Characters are attracted to each other primarily because of the bond</li>
+        <li>Resisting the bond is futile or punished</li>
+        <li>The relationship has no development arc: they're immediately bonded</li>
+        <li>You couldn't explain why they'd choose each other without the magic</li>
+        <li>The story would still work if you replaced one half with anyone else who was "fated"</li>
+    </ul>
+</div>
+
+<h3>Why It Happens</h3>
+
+<p>Fate and bonds are satisfying because they promise HEA from the start. Writers lean on them to create instant connection and guarantee the romance. But when the magic does everything, the characters do nothing, and readers don't feel the relationship is earned.</p>
+
+
+<!-- APPENDIX: MISTAKE #6 FIX -->
+
+<h3 class="mt-0">How to Fix: Fated Mates Agency</h3>
+
+<div class="framework-box">
+    <p><strong>Make the bond a starting point, not a destination</strong></p>
+    <p>The bond can bring them together, but the relationship should still require work. They should have conflicts, differences, reasons they struggle to connect. Fate might say they're matched; that doesn't make them automatically compatible.</p>
+
+    <p><strong>Add cost to accepting the bond</strong></p>
+    <p>If they could just accept the bond with no downsides, there's no tension. Make acceptance require sacrifice, change, or loss. Make the choice to accept meaningful.</p>
+
+    <p><strong>Create reasons to resist</strong></p>
+    <p>Characters who immediately embrace their fate have no arc. Give them reasons to fight it — past trauma, conflicting loyalties, personal goals that the bond threatens. The drama is in the resistance.</p>
+
+    <p><strong>Build a relationship that would work without the bond</strong></p>
+    <p>Ask yourself: if the bond didn't exist, would these two people have anything? Do they like each other? Do they have chemistry? Do they <em>see</em> each other? The bond should confirm a connection that's built on the page, not replace it.</p>
+</div>
+
+
+<!-- APPENDIX: MISTAKE #7 -->
+
+<h2 class="mt-0" id="appendix-inconsistent-rules">Mistake #7: Inconsistent World Rules</h2>
+
+<h3>What It Looks Like</h3>
+
+<p>The rules you establish — about magic, politics, culture, geography — don't stay consistent. Things that were established as true stop being true. Travel times change. Magic works differently in different scenes. Laws are enforced selectively. The world bends to accommodate whatever the current scene needs.</p>
+
+<div class="mistake-box">
+    <h4>Warning signs:</h4>
+    <ul>
+        <li>You can't answer basic questions about how your world works</li>
+        <li>Beta readers are confused about what's possible</li>
+        <li>You've written yourself into corners and just ignored them</li>
+        <li>Different scenes seem to operate by different rules</li>
+        <li>You've had to retcon or explain away contradictions</li>
+    </ul>
+</div>
+
+<h3>Why It Happens</h3>
+
+<p>Complex worlds are hard to keep track of. Writers change their minds mid-draft. Exciting scenes seem to require bending the rules. It's easy to forget what you established 200 pages ago.</p>
+
+
+<!-- APPENDIX: MISTAKE #7 FIX -->
+
+<h3 class="mt-0">How to Fix: Inconsistent Rules</h3>
+
+<div class="framework-box">
+    <p><strong>Document your rules</strong></p>
+    <p>Use the Quick Reference sheets in this workbook. Write down how things work and check your document before writing scenes that involve those elements.</p>
+
+    <p><strong>Track as you write</strong></p>
+    <p>Keep a running document of things you establish mid-draft. "In chapter 7, I established that the journey takes three days." This prevents contradicting yourself.</p>
+
+    <p><strong>When in doubt, add explanation</strong></p>
+    <p>If you need to bend a rule, add an in-world reason. Why <em>is</em> this journey faster? Why <em>doesn't</em> the magic work here? Explanation is better than inconsistency.</p>
+
+    <p><strong>Let the rules constrain you</strong></p>
+    <p>Sometimes the best solution to "this rule is inconvenient" is not to break the rule but to let the inconvenience happen. Limitations create story.</p>
+</div>
+
+
+<!-- APPENDIX: MISTAKE #8 -->
+
+<h2 class="mt-0" id="appendix-soft-boiled">Mistake #8: The Soft-Boiled World</h2>
+
+<h3>What It Looks Like</h3>
+
+<p>The world has dangers, but they never really hurt anyone (who matters). The war is happening, but main characters don't die. The forbidden relationship is forbidden, but no one actually suffers consequences for pursuing it. The stakes are theoretical rather than actual.</p>
+
+<div class="mistake-box">
+    <h4>Warning signs:</h4>
+    <ul>
+        <li>Characters survive situations that should kill them</li>
+        <li>Rule-breaking is discovered but forgiven</li>
+        <li>The "dangerous" enemy never actually wins</li>
+        <li>Consequences are threatened but never delivered</li>
+        <li>Near-misses substitute for actual costs</li>
+    </ul>
+</div>
+
+<h3>Why It Happens</h3>
+
+<p>Writers get attached to their characters and don't want to hurt them. They want the romance to succeed and fear that real consequences would derail it. They mistake "dark atmosphere" for "actual stakes."</p>
+
+
+<!-- APPENDIX: MISTAKE #8 FIX -->
+
+<h3 class="mt-0">How to Fix: The Soft-Boiled World</h3>
+
+<div class="framework-box">
+    <p><strong>Let something actually happen</strong></p>
+    <p>Not everything — you don't have to kill your protagonists. But <em>something</em> bad should occur that can't be undone. A secondary character dies. The forbidden relationship is discovered and there <em>are</em> consequences. The escape plan fails and they have to deal with capture.</p>
+
+    <p><strong>Make consequences permanent</strong></p>
+    <p>Temporary setbacks aren't stakes. If a character can be injured and healed, cursed and uncursed, arrested and released with no lasting impact, the tension is hollow. Some losses should be permanent.</p>
+
+    <p><strong>Hurt your protagonists</strong></p>
+    <p>Not kill — hurt. Let them fail at something important. Let them lose something they can't get back. Let the antagonist win a round. Struggle that ends in easy victory isn't compelling; struggle with real cost is.</p>
+</div>
+
+
+<!-- APPENDIX: MISTAKE #9 -->
+
+<h2 class="mt-0" id="appendix-non-romantic">Mistake #9: Forgetting the Non-Romantic Story</h2>
+
+<h3>What It Looks Like</h3>
+
+<p>The fantasy plot exists only to serve the romance. There's a villain, but they're barely developed. There's a quest, but it's just something for the characters to do between romantic moments. The "fantasy" part of romantasy is thin, perfunctory, or obviously subordinate to the relationship.</p>
+
+<div class="mistake-box">
+    <h4>Warning signs:</h4>
+    <ul>
+        <li>You struggle to explain what the fantasy plot is about</li>
+        <li>The antagonist has no clear motivation</li>
+        <li>The external conflict could be resolved quickly if anyone tried</li>
+        <li>Readers skim the "plot" scenes to get to the romance</li>
+        <li>Remove the romance and there's no story left</li>
+    </ul>
+</div>
+
+<h3>Why It Happens</h3>
+
+<p>The writer is primarily interested in the romance and treats the fantasy elements as necessary dressing. They might not enjoy or feel confident writing action, politics, or magic. The romance is the point; everything else is filler.</p>
+
+
+<!-- APPENDIX: MISTAKE #9 FIX -->
+
+<h3 class="mt-0">How to Fix: Forgetting the Non-Romantic Story</h3>
+
+<div class="framework-box">
+    <p><strong>Invest in both plots equally</strong></p>
+    <p>Your fantasy conflict should be interesting enough to carry a book on its own. Your antagonist should have real motivations, real power, real threat. Your protagonist should have goals beyond "get together with love interest."</p>
+
+    <p><strong>Integrate, don't subordinate</strong></p>
+    <p>The romance shouldn't serve the fantasy plot or vice versa. They should be intertwined so completely that you can't separate them. The romantic conflict should affect the fantasy conflict and vice versa.</p>
+
+    <p><strong>Ask: would I read this if the romance were removed?</strong></p>
+    <p>If the answer is no, your fantasy plot needs work. You're writing romantasy — both elements should pull their weight.</p>
+</div>
+
+
+<!-- APPENDIX: MISTAKE #10 -->
+
+<h2 class="mt-0" id="appendix-perfect-world">Mistake #10: The One Perfect World</h2>
+
+<h3>What It Looks Like</h3>
+
+<p>Every element of the worldbuilding exists to serve the romance. Every custom creates romantic tension. Every law forbids exactly what the characters want to do. Every magical element is about connection. The world feels engineered rather than lived-in.</p>
+
+<div class="mistake-box">
+    <h4>Warning signs:</h4>
+    <ul>
+        <li>Every worldbuilding element relates to the romance</li>
+        <li>There's nothing in the world that doesn't affect the protagonists</li>
+        <li>The world has no life beyond the characters</li>
+        <li>Secondary characters exist only to help or hinder the romance</li>
+        <li>It feels like a stage set, not a real place</li>
+    </ul>
+</div>
+
+<h3>Why It Happens</h3>
+
+<p>Following advice to make worldbuilding "serve the story" too literally. The writer builds only what's directly relevant and nothing else, creating a world that's thin and artificial.</p>
+
+
+<!-- APPENDIX: MISTAKE #10 FIX -->
+
+<h3 class="mt-0">How to Fix: The One Perfect World</h3>
+
+<div class="framework-box">
+    <p><strong>Build more than you need</strong></p>
+    <p>Your world should have things in it that don't directly affect the romance. Secondary characters with their own concerns. Historical events that are just history. Cultural elements that create texture without creating plot. Not everything needs to be Chekhov's gun.</p>
+
+    <p><strong>Let the world be indifferent</strong></p>
+    <p>The world doesn't care about your protagonists' romance. The marketplace is busy whether they're in love or not. The war continues regardless of their feelings. The world should feel like it exists independent of them.</p>
+
+    <p><strong>Show life beyond the couple</strong></p>
+    <p>Other people are living their lives. Other romances exist. Other concerns matter to people in this world. Your protagonists' story is <em>one</em> story, not <em>the</em> story.</p>
+</div>
+
+
+<!-- APPENDIX: QUICK SELF-CHECK -->
+
+<h2 class="mt-0" id="appendix-self-check">Quick Self-Check</h2>
+
+<p>Before you finish your draft, run through this checklist:</p>
+
+<ul class="checkbox-list">
+    <li>☐ Can the romance happen ONLY in this world, or could it happen anywhere?</li>
+    <li>☐ Do your magic/political/cultural rules stay consistent throughout?</li>
+    <li>☐ Does danger actually hurt anyone, or is it all near-misses?</li>
+    <li>☐ Could you explain why your characters choose each other without mentioning fate or magic?</li>
+    <li>☐ Do consequences that are threatened actually happen?</li>
+    <li>☐ If one character has power over the other, do they ever genuinely have the option to leave?</li>
+    <li>☐ Does the fantasy plot matter independently of the romance?</li>
+    <li>☐ Would removing the romance leave a functional story? Would removing the fantasy leave a functional story?</li>
+    <li>☐ Does your world feel real beyond the main characters?</li>
+    <li>☐ Have you ever broken your own rules for convenience?</li>
+</ul>
+
+<p>If you answered "no" or "not sure" to any of these, go back and address it. These are the mistakes that separate forgettable romantasy from the books readers remember.</p>
+
+
+<!-- APPENDIX: FINAL THOUGHT -->
+
+<div class="framework-box">
+    <h3>Final Thought: Mistakes Are Fixable</h3>
+
+    <p>Every writer falls into some of these traps in early drafts. Finding them isn't failure — it's part of the process. The goal isn't to write perfectly the first time; it's to develop the awareness to catch these patterns and the skills to fix them.</p>
+
+    <p>The fact that you're thinking about these issues means you're already ahead. Now take what you've learned and make your world stronger.</p>
+</div>
+
+<div class="nav-link"><a href="#contents">Back to Contents</a></div>
+
+
+
+<!-- ==========================================
+ QUESTION INDEX: TITLE PAGE
+ ========================================== -->
+
+<div class="section-title-page">
+    <span class="section-label">Index</span>
+    <h1>Question Index</h1>
+    <p class="section-intro">A comprehensive index of all questions in this workbook, organized both by keyword and by theme. Use this index to quickly find specific topics, discover cross-section connections, and ensure you haven't missed any crucial worldbuilding elements.</p>
+    <hr class="section-divider">
+</div>
+
+
+
+<!-- ==========================================
+ THEMATIC INDEX
+ ========================================== -->
+
+<h2 class="mt-0">Thematic Index</h2>
+<p class="lead-text">Questions grouped by theme across all sections — useful for seeing how topics connect throughout your world.</p>
+
+<div class="thematic-index">
+    <div class="theme-section">
+        <h3 class="theme-title">Magic</h3>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-2">s2</a></span>
+            <span class="theme-question">How magical is the natural world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-6">s2</a></span>
+            <span class="theme-question">Are there domesticated magical creatures?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-15">s2</a></span>
+            <span class="theme-question">What magical creatures exist in your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-16">s2</a></span>
+            <span class="theme-question">How common or rare are magical creatures?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-17">s2</a></span>
+            <span class="theme-question">How do magical creatures fit into the ecosystem?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s4-13">s4</a></span>
+            <span class="theme-question">How does the wealth gap affect their power dynamic?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-29">s5</a></span>
+            <span class="theme-question">Who currently holds power?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-15">s5</a></span>
+            <span class="theme-question">How do people move up (or down) in political power?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-17">s5</a></span>
+            <span class="theme-question">How does magic relate to political authority?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-19">s5</a></span>
+            <span class="theme-question">Who controls access to magical power?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-20">s5</a></span>
+            <span class="theme-question">What laws govern magic use?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-30">s5</a></span>
+            <span class="theme-question">How did they gain power?</span>
+        </div>
+    </div>
+    <div class="theme-section">
+        <h3 class="theme-title">Romance & Relationships</h3>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-2">s1</a></span>
+            <span class="theme-question">If your world is large, where specifically does your romance happen?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-23">s1</a></span>
+            <span class="theme-question">Where does your love interest feel at home?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-28">s1</a></span>
+            <span class="theme-question">What does the visitor understand about their partner after seeing where they come from?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-1">s2</a></span>
+            <span class="theme-question">What's the general relationship between people and nature in your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-18">s2</a></span>
+            <span class="theme-question">Do any creatures in your world bond with humans?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-19">s2</a></span>
+            <span class="theme-question">How does the bond form?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-20">s2</a></span>
+            <span class="theme-question">What does the bond provide?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-21">s2</a></span>
+            <span class="theme-question">What does the bond cost or demand?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-22">s2</a></span>
+            <span class="theme-question">Do your characters have bonded creatures?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-26">s3</a></span>
+            <span class="theme-question">What touch is considered appropriate between unmarried people?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-27">s3</a></span>
+            <span class="theme-question">What touch is considered particularly intimate — perhaps more so than a kiss?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-28">s3</a></span>
+            <span class="theme-question">When do your characters first break the touch barrier?</span>
+        </div>
+    </div>
+    <div class="theme-section">
+        <h3 class="theme-title">Conflict & Obstacles</h3>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-5">s1</a></span>
+            <span class="theme-question">What geographic resource creates tension or conflict in your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-15">s1</a></span>
+            <span class="theme-question">Does the season create pressure or opportunity in your story?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-16">s1</a></span>
+            <span class="theme-question">What regions are dangerous or forbidden?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-17">s1</a></span>
+            <span class="theme-question">Do your characters travel through dangerous territory?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-10">s2</a></span>
+            <span class="theme-question">What's poisonous or dangerous?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-14">s2</a></span>
+            <span class="theme-question">What are the most dangerous creatures in your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-21">s2</a></span>
+            <span class="theme-question">What does the bond cost or demand?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-34">s2</a></span>
+            <span class="theme-question">What can one perceive about the other that's normally hidden?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-45">s2</a></span>
+            <span class="theme-question">In what way is your non-human character dangerous?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-47">s2</a></span>
+            <span class="theme-question">Are they currently dangerous to the protagonist?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-18">s3</a></span>
+            <span class="theme-question">What cultural value must one or both characters sacrifice to be together?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-21">s3</a></span>
+            <span class="theme-question">What taboo do your characters break first?</span>
+        </div>
+    </div>
+</div>
+
+
+
+
+<h2 class="mt-0">Thematic Index <span style="font-size: 0.7em; color: var(--color-text-muted);">(continued)</span></h2>
+
+<div class="thematic-index">
+    <div class="theme-section">
+        <h3 class="theme-title">Power & Politics</h3>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s4-13">s4</a></span>
+            <span class="theme-question">How does the wealth gap affect their power dynamic?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-1">s5</a></span>
+            <span class="theme-question">What form of government exists?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-25">s5</a></span>
+            <span class="theme-question">Which describes your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-3">s5</a></span>
+            <span class="theme-question">If your world has multiple nations, do they have different systems?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-29">s5</a></span>
+            <span class="theme-question">Who currently holds power?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-5">s5</a></span>
+            <span class="theme-question">What do they want?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-32">s5</a></span>
+            <span class="theme-question">What threatens their rule?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s6-5">s6</a></span>
+            <span class="theme-question">What limits divine power?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s6-9">s6</a></span>
+            <span class="theme-question">How much power does religious authority have?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s6-10">s6</a></span>
+            <span class="theme-question">How does religious authority relate to political authority?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s6-32">s6</a></span>
+            <span class="theme-question">Does either character have genuine faith but reject religious authority?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s6-59">s6</a></span>
+            <span class="theme-question">What power do religious authorities have?</span>
+        </div>
+    </div>
+    <div class="theme-section">
+        <h3 class="theme-title">Culture & Society</h3>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-29">s2</a></span>
+            <span class="theme-question">What creatures have symbolic meaning in your culture?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-48">s2</a></span>
+            <span class="theme-question">Can your couple live openly in human society?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-49">s2</a></span>
+            <span class="theme-question">Can your couple live openly in non-human society?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-1">s3</a></span>
+            <span class="theme-question">What's the rhythm of a typical day?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-2">s3</a></span>
+            <span class="theme-question">What's the weekly or monthly rhythm?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-3">s3</a></span>
+            <span class="theme-question">What do people do when they're not working?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-4">s3</a></span>
+            <span class="theme-question">What does a typical home look like for different classes?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-5">s3</a></span>
+            <span class="theme-question">Who lives together?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-6">s3</a></span>
+            <span class="theme-question">How much privacy exists within a home?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s4-7">s4</a></span>
+            <span class="theme-question">Can people change their economic class?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-43">s5</a></span>
+            <span class="theme-question">What social hierarchy exists?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-46">s5</a></span>
+            <span class="theme-question">What laws enforce class separation?</span>
+        </div>
+    </div>
+    <div class="theme-section">
+        <h3 class="theme-title">Religion & Belief</h3>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-44">s2</a></span>
+            <span class="theme-question">How does the human partner feel about being biologically "chosen"?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-9">s3</a></span>
+            <span class="theme-question">What role does religion/spirituality play in daily life?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-10">s3</a></span>
+            <span class="theme-question">What life events have religious significance?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-16">s3</a></span>
+            <span class="theme-question">What stories or legends does everyone know?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-101">s5</a></span>
+            <span class="theme-question">What does each side believe about the other?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-131">s5</a></span>
+            <span class="theme-question">What does each character believe that the other finds repugnant?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-132">s5</a></span>
+            <span class="theme-question">Why does each believe this?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-133">s5</a></span>
+            <span class="theme-question">Is either belief clearly wrong?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s6-3">s6</a></span>
+            <span class="theme-question">Which describes your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s6-2">s6</a></span>
+            <span class="theme-question">What's the divine reality of your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s6-4">s6</a></span>
+            <span class="theme-question">If gods are real, what can they actually do?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s6-5">s6</a></span>
+            <span class="theme-question">What limits divine power?</span>
+        </div>
+    </div>
+</div>
+
+
+
+
+<h2 class="mt-0">Thematic Index <span style="font-size: 0.7em; color: var(--color-text-muted);">(continued)</span></h2>
+
+<div class="thematic-index">
+    <div class="theme-section">
+        <h3 class="theme-title">Family & Lineage</h3>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-50">s2</a></span>
+            <span class="theme-question">What do each character's families/communities think of the relationship?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-7">s3</a></span>
+            <span class="theme-question">What's the typical family structure?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-8">s3</a></span>
+            <span class="theme-question">What obligations exist between family members?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-35">s3</a></span>
+            <span class="theme-question">What's the role of family in courtship?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-42">s3</a></span>
+            <span class="theme-question">What can people do as adults that they couldn't do as children?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-164">s5</a></span>
+            <span class="theme-question">What does each character stand to inherit?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-165">s5</a></span>
+            <span class="theme-question">How does their relationship affect inheritance?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-166">s5</a></span>
+            <span class="theme-question">Is either expected to produce an heir?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-167">s5</a></span>
+            <span class="theme-question">If they're different species or one is sterile, how does this affect heir requirements?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s6-46">s6</a></span>
+            <span class="theme-question">Is their family's acceptance tied to religious conformity?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s7-9">s7</a></span>
+            <span class="theme-question">What history do children learn?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s7-21">s7</a></span>
+            <span class="theme-question">Do people venerate ancestors?</span>
+        </div>
+    </div>
+    <div class="theme-section">
+        <h3 class="theme-title">Species & Biology</h3>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-1">s2</a></span>
+            <span class="theme-question">What's the general relationship between people and nature in your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-2">s2</a></span>
+            <span class="theme-question">How magical is the natural world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-3">s2</a></span>
+            <span class="theme-question">What's the overall health of the ecosystem?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-4">s2</a></span>
+            <span class="theme-question">What's at the top of the food chain in various environments?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-5">s2</a></span>
+            <span class="theme-question">What animals have been domesticated in your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-6">s2</a></span>
+            <span class="theme-question">Are there domesticated magical creatures?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-47">s3</a></span>
+            <span class="theme-question">When do your characters shift how they address each other?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-48">s5</a></span>
+            <span class="theme-question">What species exist in your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-49">s5</a></span>
+            <span class="theme-question">What legal restrictions exist between species?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-50">s5</a></span>
+            <span class="theme-question">If your characters are different species, what laws affect them?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-61">s5</a></span>
+            <span class="theme-question">What begins to shift those boundaries?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-167">s5</a></span>
+            <span class="theme-question">If they're different species or one is sterile, how does this affect heir requirements?</span>
+        </div>
+    </div>
+    <div class="theme-section">
+        <h3 class="theme-title">Geography & Setting</h3>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-1">s1</a></span>
+            <span class="theme-question">What's the geographic scope of your story?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-2">s1</a></span>
+            <span class="theme-question">If your world is large, where specifically does your romance happen?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-3">s1</a></span>
+            <span class="theme-question">Which 2-3 terrains matter most for your story?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-4">s1</a></span>
+            <span class="theme-question">What natural resources are geographically concentrated?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-5">s1</a></span>
+            <span class="theme-question">What geographic resource creates tension or conflict in your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-6">s1</a></span>
+            <span class="theme-question">How does geographic resource control affect your characters?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-4">s3</a></span>
+            <span class="theme-question">What does a typical home look like for different classes?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-6">s3</a></span>
+            <span class="theme-question">How much privacy exists within a home?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-60">s5</a></span>
+            <span class="theme-question">What private boundaries have they established?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-61">s5</a></span>
+            <span class="theme-question">What begins to shift those boundaries?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-111">s5</a></span>
+            <span class="theme-question">Could either character desert or defect for the relationship?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-175">s5</a></span>
+            <span class="theme-question">Which path do your characters take?</span>
+        </div>
+    </div>
+</div>
+
+
+
+
+<h2 class="mt-0">Thematic Index <span style="font-size: 0.7em; color: var(--color-text-muted);">(continued)</span></h2>
+
+<div class="thematic-index">
+    <div class="theme-section">
+        <h3 class="theme-title">Economics & Resources</h3>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-4">s1</a></span>
+            <span class="theme-question">What natural resources are geographically concentrated?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-5">s1</a></span>
+            <span class="theme-question">What geographic resource creates tension or conflict in your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-6">s1</a></span>
+            <span class="theme-question">How does geographic resource control affect your characters?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-21">s2</a></span>
+            <span class="theme-question">What does the bond cost or demand?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-53">s2</a></span>
+            <span class="theme-question">What does transformation cost?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-4">s3</a></span>
+            <span class="theme-question">What does a typical home look like for different classes?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-17">s3</a></span>
+            <span class="theme-question">What does your culture value most highly?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-18">s3</a></span>
+            <span class="theme-question">What cultural value must one or both characters sacrifice to be together?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-45">s3</a></span>
+            <span class="theme-question">What are the unwritten rules of cross-class interaction?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s4-1">s4</a></span>
+            <span class="theme-question">What type of economy exists in your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s4-2">s4</a></span>
+            <span class="theme-question">How is wealth created in your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s4-3">s4</a></span>
+            <span class="theme-question">How does wealth move?</span>
+        </div>
+    </div>
+    <div class="theme-section">
+        <h3 class="theme-title">History & Backstory</h3>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-1">s1</a></span>
+            <span class="theme-question">What's the geographic scope of your story?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-3">s1</a></span>
+            <span class="theme-question">Which 2-3 terrains matter most for your story?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-13">s1</a></span>
+            <span class="theme-question">What season is your story set in?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s1-15">s1</a></span>
+            <span class="theme-question">Does the season create pressure or opportunity in your story?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-10">s3</a></span>
+            <span class="theme-question">What life events have religious significance?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-16">s3</a></span>
+            <span class="theme-question">What stories or legends does everyone know?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s4-9">s4</a></span>
+            <span class="theme-question">Where does your protagonist fall economically?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s4-10">s4</a></span>
+            <span class="theme-question">Where does your love interest fall economically?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-16">s5</a></span>
+            <span class="theme-question">What positions exist that matter for your story?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-23">s5</a></span>
+            <span class="theme-question">Is there current factional conflict that affects your story?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-86">s5</a></span>
+            <span class="theme-question">Where do your characters fall?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-58">s5</a></span>
+            <span class="theme-question">What's their relationship like at the start of the story?</span>
+        </div>
+    </div>
+    <div class="theme-section">
+        <h3 class="theme-title">Identity & Secrets</h3>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s2-34">s2</a></span>
+            <span class="theme-question">What can one perceive about the other that's normally hidden?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-16">s3</a></span>
+            <span class="theme-question">What stories or legends does everyone know?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s3-30">s3</a></span>
+            <span class="theme-question">What's considered scandalous or provocative to reveal?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-119">s5</a></span>
+            <span class="theme-question">Could a reasonable person, knowing what your protagonist knows, hate your love interest?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s5-120">s5</a></span>
+            <span class="theme-question">Could a reasonable person, knowing what your love interest knows, hate your protagonist?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s6-23">s6</a></span>
+            <span class="theme-question">Are these beliefs literally true in your world?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s6-35">s6</a></span>
+            <span class="theme-question">Are there practices they've stopped observing? Started observing? Hidden from others?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s6-66">s6</a></span>
+            <span class="theme-question">Are prophecies always true, sometimes true, or open to interpretation?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s7-15">s7</a></span>
+            <span class="theme-question">How much does your world actually know about its past?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s7-38">s7</a></span>
+            <span class="theme-question">If your characters come from different backgrounds, do they know different histories?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s7-40">s7</a></span>
+            <span class="theme-question">What would it mean if the "other side's" history turned out to be true?</span>
+        </div>
+        <div class="theme-entry">
+            <span class="theme-section-ref"><a href="#q-s7-50">s7</a></span>
+            <span class="theme-question">What object from the past does your protagonist possess or know about?</span>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- ==========================================
+ ALPHABETICAL INDEX
+ ========================================== -->
+
+<h2 class="mt-0">Alphabetical Index</h2>
+<p class="lead-text">Find specific topics quickly by keyword. Section references link directly to the relevant section.</p>
+
+<div class="alphabetical-index">
+    <div class="index-entry">
+        <span class="index-keyword">Ability</span>
+        <span class="index-reference"><a href="#q-s10-10">s10</a>: Can magical ability be gained if you weren't born with it? Can it be lost or tak...</span>
+        <span class="index-reference"><a href="#q-s10-53">s10</a>: What magical event, ability, or consequence pulls your protagonist out of their ...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Adulthood</span>
+        <span class="index-reference"><a href="#q-s3-41">s3</a>: What marks the transition to adulthood?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Age</span>
+        <span class="index-reference"><a href="#q-s7-57">s7</a>: Was there a golden age that fell?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Alliance</span>
+        <span class="index-reference"><a href="#q-s12-48">s12</a>: How might their positions regarding magical authority create tension between the...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Ancestor</span>
+        <span class="index-reference"><a href="#q-s7-21">s7</a>: Do people venerate ancestors?</span>
+        <span class="index-reference"><a href="#q-s7-72">s7</a>: Does one character carry guilt for ancestors' actions? Does the other carry rage...</span>
+        <span class="index-reference"><a href="#q-s7-95">s7</a>: What did your protagonist's ancestors do that affects them now?</span>
+        <span class="index-reference"><a href="#q-s7-98">s7</a>: What did your love interest's ancestors do that affects them now?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Animal</span>
+        <span class="index-reference"><a href="#q-s2-5">s2</a>: What animals have been domesticated in your world?</span>
+        <span class="index-reference"><a href="#q-s2-25">s2</a>: Does your protagonist have an animal companion?</span>
+        <span class="index-reference"><a href="#q-s2-26">s2</a>: Does your love interest have an animal companion?</span>
+        <span class="index-reference"><a href="#q-s2-28">s2</a>: Do your characters care for an animal together?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Arranged</span>
+        <span class="index-reference"><a href="#q-s5-51">s5</a>: Is one or both characters in an arranged marriage or betrothal?</span>
+        <span class="index-reference"><a href="#q-s5-52">s5</a>: Who arranged it and why?</span>
+        <span class="index-reference"><a href="#q-s5-54">s5</a>: Who is the arranged partner?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Authority</span>
+        <span class="index-reference"><a href="#q-s5-17">s5</a>: How does magic relate to political authority?</span>
+        <span class="index-reference"><a href="#q-s6-9">s6</a>: How much power does religious authority have?</span>
+        <span class="index-reference"><a href="#q-s6-10">s6</a>: How does religious authority relate to political authority?</span>
+        <span class="index-reference"><a href="#q-s6-32">s6</a>: Does either character have genuine faith but reject religious authority?</span>
+        <span class="index-reference"><a href="#q-s6-61">s6</a>: Does religious authority oppose or support the relationship?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Belief</span>
+        <span class="index-reference"><a href="#q-s5-133">s5</a>: Is either belief clearly wrong?</span>
+        <span class="index-reference"><a href="#q-s6-23">s6</a>: Are these beliefs literally true in your world?</span>
+        <span class="index-reference"><a href="#q-s6-24">s6</a>: How do afterlife beliefs affect behavior?</span>
+        <span class="index-reference"><a href="#q-s6-31">s6</a>: Does either character follow religious practice without genuine belief?</span>
+        <span class="index-reference"><a href="#q-s6-90">s6</a>: Does belief in the afterlife make sacrifice easier or harder?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Betrothal</span>
+        <span class="index-reference"><a href="#q-s5-51">s5</a>: Is one or both characters in an arranged marriage or betrothal?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Biological</span>
+        <span class="index-reference"><a href="#q-s2-31">s2</a>: What biological differences exist between your species?</span>
+        <span class="index-reference"><a href="#q-s2-32">s2</a>: Are there biological incompatibilities?</span>
+        <span class="index-reference"><a href="#q-s2-39">s2</a>: What instincts or biological drives does your non-human character have?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Blood</span>
+        <span class="index-reference"><a href="#q-s5-107">s5</a>: Is there blood between their peoples that can't be easily forgiven?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Bond</span>
+        <span class="index-reference"><a href="#q-s2-18">s2</a>: Do any creatures in your world bond with humans?</span>
+        <span class="index-reference"><a href="#q-s2-19">s2</a>: How does the bond form?</span>
+        <span class="index-reference"><a href="#q-s2-20">s2</a>: What does the bond provide?</span>
+        <span class="index-reference"><a href="#q-s2-21">s2</a>: What does the bond cost or demand?</span>
+        <span class="index-reference"><a href="#q-s2-24">s2</a>: Could the characters have the creature bond without having a romantic relationsh...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Border</span>
+        <span class="index-reference"><a href="#q-s1-18">s1</a>: What geographic features create borders?</span>
+        <span class="index-reference"><a href="#q-s1-19">s1</a>: How permeable are these borders?</span>
+        <span class="index-reference"><a href="#q-s1-20">s1</a>: Do your characters come from opposite sides of a significant border?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Celebration</span>
+        <span class="index-reference"><a href="#q-s3-43">s3</a>: What major festivals or celebrations exist in your world?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Character</span>
+        <span class="index-reference"><a href="#q-s1-6">s1</a>: How does geographic resource control affect your characters?</span>
+        <span class="index-reference"><a href="#q-s1-17">s1</a>: Do your characters travel through dangerous territory?</span>
+        <span class="index-reference"><a href="#q-s1-20">s1</a>: Do your characters come from opposite sides of a significant border?</span>
+        <span class="index-reference"><a href="#q-s1-24">s1</a>: Where does each character feel like an outsider?</span>
+        <span class="index-reference"><a href="#q-s1-25">s1</a>: Does one character visit the other's home territory?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Children</span>
+        <span class="index-reference"><a href="#q-s3-42">s3</a>: What can people do as adults that they couldn't do as children?</span>
+        <span class="index-reference"><a href="#q-s7-9">s7</a>: What history do children learn?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Choice</span>
+        <span class="index-reference"><a href="#q-s5-63">s5</a>: When does obligation become choice?</span>
+        <span class="index-reference"><a href="#q-s5-176">s5</a>: When does the political obstacle force a choice?</span>
+        <span class="index-reference"><a href="#q-s10-58">s10</a>: How does your protagonist's romantic choice enable the magical resolution?</span>
+        <span class="index-reference"><a href="#q-s16-44">s16</a>: What does each character choose — and what does that choice cost?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Class</span>
+        <span class="index-reference"><a href="#q-s3-45">s3</a>: What are the unwritten rules of cross-class interaction?</span>
+        <span class="index-reference"><a href="#q-s4-7">s4</a>: Can people change their economic class?</span>
+        <span class="index-reference"><a href="#q-s5-46">s5</a>: What laws enforce class separation?</span>
+        <span class="index-reference"><a href="#q-s5-47">s5</a>: What social consequences exist for cross-class relationships?</span>
+        <span class="index-reference"><a href="#q-s8-27">s8</a>: Does accent mark social class?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Climate</span>
+        <span class="index-reference"><a href="#q-s1-11">s1</a>: What's the overall climate?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Clothing</span>
+        <span class="index-reference"><a href="#q-s3-29">s3</a>: What does clothing communicate in your culture?</span>
+        <span class="index-reference"><a href="#q-s9-65">s9</a>: What does clothing signal about class and status?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Community</span>
+        <span class="index-reference"><a href="#q-s6-43">s6</a>: What religious community do your characters belong to?</span>
+        <span class="index-reference"><a href="#q-s6-44">s6</a>: What does religious community provide?</span>
+        <span class="index-reference"><a href="#q-s6-45">s6</a>: What would each character lose if cast out of their religious community?</span>
+        <span class="index-reference"><a href="#q-s6-47">s6</a>: Are there people in their religious community who might support them despite doc...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Conflict</span>
+        <span class="index-reference"><a href="#q-s1-5">s1</a>: What geographic resource creates tension or conflict in your world?</span>
+        <span class="index-reference"><a href="#q-s5-23">s5</a>: Is there current factional conflict that affects your story?</span>
+        <span class="index-reference"><a href="#q-s5-24">s5</a>: What's the current state of conflict?</span>
+        <span class="index-reference"><a href="#q-s5-94">s5</a>: How does the state of conflict affect daily life?</span>
+        <span class="index-reference"><a href="#q-s5-100">s5</a>: Are your characters on opposite sides of a conflict?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Consequence</span>
+        <span class="index-reference"><a href="#q-s5-42">s5</a>: What are the consequences of an illegal marriage?</span>
+        <span class="index-reference"><a href="#q-s5-47">s5</a>: What social consequences exist for cross-class relationships?</span>
+        <span class="index-reference"><a href="#q-s6-51">s6</a>: What are the consequences for violating religious law?</span>
+        <span class="index-reference"><a href="#q-s9-21">s9</a>: What are the consequences of being overheard?</span>
+        <span class="index-reference"><a href="#q-s10-53">s10</a>: What magical event, ability, or consequence pulls your protagonist out of their ...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Control</span>
+        <span class="index-reference"><a href="#q-s1-6">s1</a>: How does geographic resource control affect your characters?</span>
+        <span class="index-reference"><a href="#q-s5-19">s5</a>: Who controls access to magical power?</span>
+        <span class="index-reference"><a href="#q-s5-34">s5</a>: Who controls access to magic?</span>
+        <span class="index-reference"><a href="#q-s12-33">s12</a>: Who controls magical resources in your world? Who's excluded from access?</span>
+        <span class="index-reference"><a href="#q-s12-35">s12</a>: How might resource scarcity or control put pressure on your leads' relationship?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Corruption</span>
+        <span class="index-reference"><a href="#q-s12-37">s12</a>: Is magical corruption spreading, stable, or being healed?</span>
+        <span class="index-reference"><a href="#q-s12-39">s12</a>: Could magical corruption threaten your characters directly?</span>
+        <span class="index-reference"><a href="#q-s14-12">s14</a>: Is there corruption they could exploit — or that threatens them?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Cost</span>
+        <span class="index-reference"><a href="#q-s2-21">s2</a>: What does the bond cost or demand?</span>
+        <span class="index-reference"><a href="#q-s2-53">s2</a>: What does transformation cost?</span>
+        <span class="index-reference"><a href="#q-s5-115">s5</a>: What would peace cost?</span>
+        <span class="index-reference"><a href="#q-s5-145">s5</a>: What does this cost them?</span>
+        <span class="index-reference"><a href="#q-s10-21">s10</a>: What does using magic cost?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Courtship</span>
+        <span class="index-reference"><a href="#q-s3-35">s3</a>: What's the role of family in courtship?</span>
+        <span class="index-reference"><a href="#q-s3-36">s3</a>: Are there traditional courtship gifts or tokens?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Creature</span>
+        <span class="index-reference"><a href="#q-s2-6">s2</a>: Are there domesticated magical creatures?</span>
+        <span class="index-reference"><a href="#q-s2-14">s2</a>: What are the most dangerous creatures in your world?</span>
+        <span class="index-reference"><a href="#q-s2-15">s2</a>: What magical creatures exist in your world?</span>
+        <span class="index-reference"><a href="#q-s2-16">s2</a>: How common or rare are magical creatures?</span>
+        <span class="index-reference"><a href="#q-s2-17">s2</a>: How do magical creatures fit into the ecosystem?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Culture</span>
+        <span class="index-reference"><a href="#q-s2-29">s2</a>: What creatures have symbolic meaning in your culture?</span>
+        <span class="index-reference"><a href="#q-s3-17">s3</a>: What does your culture value most highly?</span>
+        <span class="index-reference"><a href="#q-s3-19">s3</a>: What actions, topics, or behaviors are taboo in your culture?</span>
+        <span class="index-reference"><a href="#q-s3-29">s3</a>: What does clothing communicate in your culture?</span>
+        <span class="index-reference"><a href="#q-s3-31">s3</a>: What do hairstyles signify in your culture?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Curse</span>
+        <span class="index-reference"><a href="#q-s6-75">s6</a>: Is either character marked by divine favor, curse, or destiny?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Custom</span>
+        <span class="index-reference"><a href="#q-s16-28">s16</a>: Pick your most important custom or taboo. What created it?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Dangerous</span>
+        <span class="index-reference"><a href="#q-s1-16">s1</a>: What regions are dangerous or forbidden?</span>
+        <span class="index-reference"><a href="#q-s1-17">s1</a>: Do your characters travel through dangerous territory?</span>
+        <span class="index-reference"><a href="#q-s2-10">s2</a>: What's poisonous or dangerous?</span>
+        <span class="index-reference"><a href="#q-s2-14">s2</a>: What are the most dangerous creatures in your world?</span>
+        <span class="index-reference"><a href="#q-s2-45">s2</a>: In what way is your non-human character dangerous?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Death</span>
+        <span class="index-reference"><a href="#q-s6-22">s6</a>: What do people believe happens after death?</span>
+        <span class="index-reference"><a href="#q-s6-88">s6</a>: Can lovers be reunited after death?</span>
+        <span class="index-reference"><a href="#q-s16-27">s16</a>: Why hasn't magic solved poverty, disease, war, or death?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Debt</span>
+        <span class="index-reference"><a href="#q-s4-17">s4</a>: Is either character in debt?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Desire</span>
+        <span class="index-reference"><a href="#q-s6-52">s6</a>: Does either character prioritize religious law over their own desires?</span>
+        <span class="index-reference"><a href="#q-s6-76">s6</a>: How does divine purpose conflict with personal desire?</span>
+        <span class="index-reference"><a href="#q-s6-83">s6</a>: What does your religion teach about desire and love?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Destiny</span>
+        <span class="index-reference"><a href="#q-s6-75">s6</a>: Is either character marked by divine favor, curse, or destiny?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Difference</span>
+        <span class="index-reference"><a href="#q-s2-31">s2</a>: What biological differences exist between your species?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Domesticated</span>
+        <span class="index-reference"><a href="#q-s2-5">s2</a>: What animals have been domesticated in your world?</span>
+        <span class="index-reference"><a href="#q-s2-6">s2</a>: Are there domesticated magical creatures?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Economic</span>
+        <span class="index-reference"><a href="#q-s4-7">s4</a>: Can people change their economic class?</span>
+        <span class="index-reference"><a href="#q-s4-21">s4</a>: What economic security does each character sacrifice to be together?</span>
+        <span class="index-reference"><a href="#q-s14-16">s14</a>: How does economic power shape your institution (from Section 4)?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Education</span>
+        <span class="index-reference"><a href="#q-s9-73">s9</a>: Who can access education?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Enemy</span>
+        <span class="index-reference"><a href="#q-s5-102">s5</a>: What would each character's people say about them loving the enemy?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Enforcement</span>
+        <span class="index-reference"><a href="#q-s5-70">s5</a>: How effective is enforcement?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Environment</span>
+        <span class="index-reference"><a href="#q-s1-8">s1</a>: How does the environment change at different times of day?</span>
+        <span class="index-reference"><a href="#q-s2-4">s2</a>: What's at the top of the food chain in various environments?</span>
+        <span class="index-reference"><a href="#q-s8-7">s8</a>: Do your characters spend time in multilingual environments?</span>
+        <span class="index-reference"><a href="#q-s16-29">s16</a>: How does it affect geography/environment?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Event</span>
+        <span class="index-reference"><a href="#q-s3-10">s3</a>: What life events have religious significance?</span>
+        <span class="index-reference"><a href="#q-s7-26">s7</a>: What single historical event most shaped the current world?</span>
+        <span class="index-reference"><a href="#q-s7-41">s7</a>: What major event happened within living memory (last 50-80 years)?</span>
+        <span class="index-reference"><a href="#q-s7-42">s7</a>: How did this event affect your characters' families?</span>
+        <span class="index-reference"><a href="#q-s7-67">s7</a>: If their traumas come from the same event but opposite sides, how do they naviga...</span>
+    </div>
+</div>
+
+
+
+
+<h2 class="mt-0">Alphabetical Index <span style="font-size: 0.7em; color: var(--color-text-muted);">(continued)</span></h2>
+
+<div class="alphabetical-index">
+    <div class="index-entry">
+        <span class="index-keyword">Evidence</span>
+        <span class="index-reference"><a href="#q-s5-124">s5</a>: What evidence of this history remains?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Expectation</span>
+        <span class="index-reference"><a href="#q-s3-39">s3</a>: How do these expectations affect your characters?</span>
+        <span class="index-reference"><a href="#q-s3-40">s3</a>: Does either character violate gender expectations?</span>
+        <span class="index-reference"><a href="#q-s7-77">s7</a>: Does the comparison create pressure or expectation?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Faction</span>
+        <span class="index-reference"><a href="#q-s5-85">s5</a>: What major factions exist?</span>
+        <span class="index-reference"><a href="#q-s5-22">s5</a>: How do factions compete?</span>
+        <span class="index-reference"><a href="#q-s5-88">s5</a>: If on opposite sides, what would it take to betray their faction for each other?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Faith</span>
+        <span class="index-reference"><a href="#q-s6-30">s6</a>: How does each character's personal faith differ from official doctrine?</span>
+        <span class="index-reference"><a href="#q-s6-32">s6</a>: Does either character have genuine faith but reject religious authority?</span>
+        <span class="index-reference"><a href="#q-s6-33">s6</a>: How does personal faith affect how they approach religious obstacles?</span>
+        <span class="index-reference"><a href="#q-s6-36">s6</a>: What comfort does faith provide?</span>
+        <span class="index-reference"><a href="#q-s6-37">s6</a>: What does it feel like when they pray or practice their faith?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Family</span>
+        <span class="index-reference"><a href="#q-s3-7">s3</a>: What's the typical family structure?</span>
+        <span class="index-reference"><a href="#q-s3-8">s3</a>: What obligations exist between family members?</span>
+        <span class="index-reference"><a href="#q-s3-35">s3</a>: What's the role of family in courtship?</span>
+        <span class="index-reference"><a href="#q-s6-46">s6</a>: Is their family's acceptance tied to religious conformity?</span>
+        <span class="index-reference"><a href="#q-s7-45">s7</a>: What stories does your protagonist's family tell about themselves?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Fate</span>
+        <span class="index-reference"><a href="#q-s6-91">s6</a>: Does their relationship affect their afterlife fate?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Fear</span>
+        <span class="index-reference"><a href="#q-s12-4">s12</a>: How does the fear of causing harm affect how your character lets people close?</span>
+        <span class="index-reference"><a href="#q-s12-30">s12</a>: What magical violation exists in your world that your characters fear most?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Festival</span>
+        <span class="index-reference"><a href="#q-s3-43">s3</a>: What major festivals or celebrations exist in your world?</span>
+        <span class="index-reference"><a href="#q-s3-44">s3</a>: Do festivals allow any relaxation of normal rules?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Forbidden</span>
+        <span class="index-reference"><a href="#q-s1-16">s1</a>: What regions are dangerous or forbidden?</span>
+        <span class="index-reference"><a href="#q-s6-19">s6</a>: Are there forbidden times?</span>
+        <span class="index-reference"><a href="#q-s6-39">s6</a>: Are there periods when certain activities are forbidden?</span>
+        <span class="index-reference"><a href="#q-s8-69">s8</a>: Are there languages that are sacred, secret, or forbidden?</span>
+        <span class="index-reference"><a href="#q-s8-71">s8</a>: Does either character teach the other a sacred or forbidden language?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Forgiveness</span>
+        <span class="index-reference"><a href="#q-s5-151">s5</a>: Is there forgiveness? Is it earned?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Gender</span>
+        <span class="index-reference"><a href="#q-s3-40">s3</a>: Does either character violate gender expectations?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Geographic</span>
+        <span class="index-reference"><a href="#q-s1-1">s1</a>: What's the geographic scope of your story?</span>
+        <span class="index-reference"><a href="#q-s1-5">s1</a>: What geographic resource creates tension or conflict in your world?</span>
+        <span class="index-reference"><a href="#q-s1-6">s1</a>: How does geographic resource control affect your characters?</span>
+        <span class="index-reference"><a href="#q-s1-18">s1</a>: What geographic features create borders?</span>
+        <span class="index-reference"><a href="#q-s13-40">s13</a>: What geographic features create your pressure cooker (from Section 1)?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Gift</span>
+        <span class="index-reference"><a href="#q-s3-36">s3</a>: Are there traditional courtship gifts or tokens?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">God</span>
+        <span class="index-reference"><a href="#q-s6-4">s6</a>: If gods are real, what can they actually do?</span>
+        <span class="index-reference"><a href="#q-s6-6">s6</a>: How do the gods relate to each other?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Government</span>
+        <span class="index-reference"><a href="#q-s5-1">s5</a>: What form of government exists?</span>
+        <span class="index-reference"><a href="#q-s5-28">s5</a>: What form of government exists in your world?</span>
+        <span class="index-reference"><a href="#q-s14-14">s14</a>: How does your institution reflect or enforce government structures (from Section...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Guilt</span>
+        <span class="index-reference"><a href="#q-s7-72">s7</a>: Does one character carry guilt for ancestors' actions? Does the other carry rage...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Hair</span>
+        <span class="index-reference"><a href="#q-s3-32">s3</a>: Is there significance to who can touch someone's hair?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Healing</span>
+        <span class="index-reference"><a href="#q-s9-36">s9</a>: Does magical healing exist?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Heir</span>
+        <span class="index-reference"><a href="#q-s5-166">s5</a>: Is either expected to produce an heir?</span>
+        <span class="index-reference"><a href="#q-s5-167">s5</a>: If they're different species or one is sterile, how does this affect heir requir...</span>
+        <span class="index-reference"><a href="#q-s9-42">s9</a>: Is there pressure on anyone to produce heirs?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Hidden</span>
+        <span class="index-reference"><a href="#q-s2-34">s2</a>: What can one perceive about the other that's normally hidden?</span>
+        <span class="index-reference"><a href="#q-s6-35">s6</a>: Are there practices they've stopped observing? Started observing? Hidden from ot...</span>
+        <span class="index-reference"><a href="#q-s7-84">s7</a>: Do your characters discover this hidden history?</span>
+        <span class="index-reference"><a href="#q-s11-46">s11</a>: Can a bond be hidden?</span>
+        <span class="index-reference"><a href="#q-s12-13">s12</a>: What would the love interest do if they discovered the hidden cost?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Hierarchy</span>
+        <span class="index-reference"><a href="#q-s5-14">s5</a>: What's the political hierarchy?</span>
+        <span class="index-reference"><a href="#q-s5-43">s5</a>: What social hierarchy exists?</span>
+        <span class="index-reference"><a href="#q-s6-60">s6</a>: Is either character part of the religious hierarchy?</span>
+        <span class="index-reference"><a href="#q-s14-9">s14</a>: Where are your characters in this hierarchy?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">History</span>
+        <span class="index-reference"><a href="#q-s5-123">s5</a>: How recent is this history?</span>
+        <span class="index-reference"><a href="#q-s5-124">s5</a>: What evidence of this history remains?</span>
+        <span class="index-reference"><a href="#q-s5-125">s5</a>: How does each character relate to this history?</span>
+        <span class="index-reference"><a href="#q-s7-1">s7</a>: What methods preserve history in your world?</span>
+        <span class="index-reference"><a href="#q-s7-5">s7</a>: Who keeps history in your world?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Home</span>
+        <span class="index-reference"><a href="#q-s1-21">s1</a>: Where does your protagonist feel at home?</span>
+        <span class="index-reference"><a href="#q-s1-22">s1</a>: What does home look, smell, sound like to them?</span>
+        <span class="index-reference"><a href="#q-s1-23">s1</a>: Where does your love interest feel at home?</span>
+        <span class="index-reference"><a href="#q-s1-25">s1</a>: Does one character visit the other's home territory?</span>
+        <span class="index-reference"><a href="#q-s1-27">s1</a>: How does the "native" character see their home differently through the visitor's...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Hybrid</span>
+        <span class="index-reference"><a href="#q-s14-1">s14</a>: If hybrid, what elements combine?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Identity</span>
+        <span class="index-reference"><a href="#q-s9-44">s9</a>: How do people prove identity?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Illegal</span>
+        <span class="index-reference"><a href="#q-s5-42">s5</a>: What are the consequences of an illegal marriage?</span>
+        <span class="index-reference"><a href="#q-s12-6">s12</a>: Is your character's magic forbidden, illegal, or socially condemned?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Inheritance</span>
+        <span class="index-reference"><a href="#q-s5-165">s5</a>: How does their relationship affect inheritance?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Instinct</span>
+        <span class="index-reference"><a href="#q-s2-39">s2</a>: What instincts or biological drives does your non-human character have?</span>
+        <span class="index-reference"><a href="#q-s2-40">s2</a>: How strong are these instincts? Can they be controlled?</span>
+        <span class="index-reference"><a href="#q-s2-41">s2</a>: How does your character feel about their instincts?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Institution</span>
+        <span class="index-reference"><a href="#q-s6-7">s6</a>: What religious institutions exist?</span>
+        <span class="index-reference"><a href="#q-s6-8">s6</a>: Who leads religious institutions?</span>
+        <span class="index-reference"><a href="#q-s7-6">s7</a>: What institutions preserve the past?</span>
+        <span class="index-reference"><a href="#q-s13-41">s13</a>: What institution binds them (from Section 14)?</span>
+        <span class="index-reference"><a href="#q-s14-2">s14</a>: What does your institution claim to do?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Interest</span>
+        <span class="index-reference"><a href="#q-s1-23">s1</a>: Where does your love interest feel at home?</span>
+        <span class="index-reference"><a href="#q-s2-26">s2</a>: Does your love interest have an animal companion?</span>
+        <span class="index-reference"><a href="#q-s3-33">s3</a>: How do people show romantic interest?</span>
+        <span class="index-reference"><a href="#q-s4-10">s4</a>: Where does your love interest fall economically?</span>
+        <span class="index-reference"><a href="#q-s4-19">s4</a>: What does your love interest do to survive?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Journey</span>
+        <span class="index-reference"><a href="#q-s1-31">s1</a>: Do your characters undertake a significant journey?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Justice</span>
+        <span class="index-reference"><a href="#q-s5-12">s5</a>: How does the justice system work?</span>
+        <span class="index-reference"><a href="#q-s5-13">s5</a>: Is justice equal?</span>
+        <span class="index-reference"><a href="#q-s5-129">s5</a>: What would justice look like to the wronged party?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Kingdom</span>
+        <span class="index-reference"><a href="#q-s16-24">s16</a>: What does your kingdom actually produce that makes it wealthy?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Knowledge</span>
+        <span class="index-reference"><a href="#q-s5-139">s5</a>: How does this knowledge change the protagonist's view?</span>
+        <span class="index-reference"><a href="#q-s7-10">s7</a>: Is there a gap between elite and common historical knowledge?</span>
+        <span class="index-reference"><a href="#q-s7-37">s7</a>: Does this lost knowledge matter for your story?</span>
+        <span class="index-reference"><a href="#q-s9-33">s9</a>: What medical knowledge exists?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Language</span>
+        <span class="index-reference"><a href="#q-s8-1">s8</a>: How many languages exist in your world?</span>
+        <span class="index-reference"><a href="#q-s8-2">s8</a>: What are the major languages?</span>
+        <span class="index-reference"><a href="#q-s8-3">s8</a>: Is there a common/trade language most people speak?</span>
+        <span class="index-reference"><a href="#q-s8-4">s8</a>: Are there trade pidgins or mixed languages?</span>
+        <span class="index-reference"><a href="#q-s8-5">s8</a>: Where do multiple languages mix?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Law</span>
+        <span class="index-reference"><a href="#q-s5-7">s5</a>: Who makes laws?</span>
+        <span class="index-reference"><a href="#q-s5-8">s5</a>: Can laws be changed? How?</span>
+        <span class="index-reference"><a href="#q-s5-9">s5</a>: Are there laws considered unchangeable?</span>
+        <span class="index-reference"><a href="#q-s5-69">s5</a>: Who enforces the law?</span>
+        <span class="index-reference"><a href="#q-s5-20">s5</a>: What laws govern magic use?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Legend</span>
+        <span class="index-reference"><a href="#q-s3-16">s3</a>: What stories or legends does everyone know?</span>
+        <span class="index-reference"><a href="#q-s7-81">s7</a>: How does living in a legend's shadow affect your character?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Location</span>
+        <span class="index-reference"><a href="#q-s1-30">s1</a>: How long does travel take between key locations?</span>
+        <span class="index-reference"><a href="#q-s1-32">s1</a>: What isolated locations exist?</span>
+        <span class="index-reference"><a href="#q-s1-34">s1</a>: Is there a location that becomes meaningful to your characters specifically?</span>
+        <span class="index-reference"><a href="#q-s6-20">s6</a>: What sacred locations exist?</span>
+        <span class="index-reference"><a href="#q-s9-6">s9</a>: How long does travel take between important locations?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Love</span>
+        <span class="index-reference"><a href="#q-s1-23">s1</a>: Where does your love interest feel at home?</span>
+        <span class="index-reference"><a href="#q-s2-26">s2</a>: Does your love interest have an animal companion?</span>
+        <span class="index-reference"><a href="#q-s4-10">s4</a>: Where does your love interest fall economically?</span>
+        <span class="index-reference"><a href="#q-s4-19">s4</a>: What does your love interest do to survive?</span>
+        <span class="index-reference"><a href="#q-s5-119">s5</a>: Could a reasonable person, knowing what your protagonist knows, hate your love i...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Lover</span>
+        <span class="index-reference"><a href="#q-s6-88">s6</a>: Can lovers be reunited after death?</span>
+        <span class="index-reference"><a href="#q-s7-75">s7</a>: Do people compare your characters to legendary lovers?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Magic</span>
+        <span class="index-reference"><a href="#q-s5-17">s5</a>: How does magic relate to political authority?</span>
+        <span class="index-reference"><a href="#q-s5-20">s5</a>: What laws govern magic use?</span>
+        <span class="index-reference"><a href="#q-s5-34">s5</a>: Who controls access to magic?</span>
+        <span class="index-reference"><a href="#q-s5-36">s5</a>: If one character has magic and the other doesn't, how does this affect their pol...</span>
+        <span class="index-reference"><a href="#q-s9-3">s9</a>: How does magic affect technology?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Magical</span>
+        <span class="index-reference"><a href="#q-s2-2">s2</a>: How magical is the natural world?</span>
+        <span class="index-reference"><a href="#q-s2-6">s2</a>: Are there domesticated magical creatures?</span>
+        <span class="index-reference"><a href="#q-s2-15">s2</a>: What magical creatures exist in your world?</span>
+        <span class="index-reference"><a href="#q-s2-16">s2</a>: How common or rare are magical creatures?</span>
+        <span class="index-reference"><a href="#q-s2-17">s2</a>: How do magical creatures fit into the ecosystem?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Marriage</span>
+        <span class="index-reference"><a href="#q-s3-38">s3</a>: What makes a marriage "real" in cultural terms?</span>
+        <span class="index-reference"><a href="#q-s5-40">s5</a>: What makes a marriage legal and binding?</span>
+        <span class="index-reference"><a href="#q-s5-41">s5</a>: Can marriages be dissolved?</span>
+        <span class="index-reference"><a href="#q-s5-42">s5</a>: What are the consequences of an illegal marriage?</span>
+        <span class="index-reference"><a href="#q-s5-51">s5</a>: Is one or both characters in an arranged marriage or betrothal?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Mate</span>
+        <span class="index-reference"><a href="#q-s2-42">s2</a>: What exactly happens biologically when a mate is recognized?</span>
+        <span class="index-reference"><a href="#q-s2-43">s2</a>: Can a mate bond be rejected?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Memory</span>
+        <span class="index-reference"><a href="#q-s7-41">s7</a>: What major event happened within living memory (last 50-80 years)?</span>
+    </div>
+</div>
+
+
+
+
+<h2 class="mt-0">Alphabetical Index <span style="font-size: 0.7em; color: var(--color-text-muted);">(continued)</span></h2>
+
+<div class="alphabetical-index">
+    <div class="index-entry">
+        <span class="index-keyword">Military</span>
+        <span class="index-reference"><a href="#q-s5-27">s5</a>: How does the military work?</span>
+        <span class="index-reference"><a href="#q-s5-95">s5</a>: Who serves in the military?</span>
+        <span class="index-reference"><a href="#q-s5-96">s5</a>: Is military service required?</span>
+        <span class="index-reference"><a href="#q-s5-98">s5</a>: Is either of your characters in military service?</span>
+        <span class="index-reference"><a href="#q-s9-68">s9</a>: What's the most advanced military technology?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Money</span>
+        <span class="index-reference"><a href="#q-s4-4">s4</a>: What's the rough scale of money?</span>
+        <span class="index-reference"><a href="#q-s4-12">s4</a>: What does the less wealthy character bring that money can't buy?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Mortal</span>
+        <span class="index-reference"><a href="#q-s7-92">s7</a>: If one character is ancient and one is mortal, how does this affect the relation...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Myth</span>
+        <span class="index-reference"><a href="#q-s7-16">s7</a>: Where does history blur into myth?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Name</span>
+        <span class="index-reference"><a href="#q-s3-48">s3</a>: Is there significance to names in your world?</span>
+        <span class="index-reference"><a href="#q-s7-96">s7</a>: What reputation does their family name carry?</span>
+        <span class="index-reference"><a href="#q-s8-25">s8</a>: What does their name sound like in the other's voice?</span>
+        <span class="index-reference"><a href="#q-s8-72">s8</a>: Do true names have power in your world?</span>
+        <span class="index-reference"><a href="#q-s8-73">s8</a>: How does your true name system differ from the familiar versions?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Nation</span>
+        <span class="index-reference"><a href="#q-s5-3">s5</a>: If your world has multiple nations, do they have different systems?</span>
+        <span class="index-reference"><a href="#q-s7-54">s7</a>: How was your world/nation/society founded?</span>
+        <span class="index-reference"><a href="#q-s7-60">s7</a>: Are their families/nations/species on opposing sides of this conflict?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Nature</span>
+        <span class="index-reference"><a href="#q-s2-1">s2</a>: What's the general relationship between people and nature in your world?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Obstacle</span>
+        <span class="index-reference"><a href="#q-s5-62">s5</a>: What's the obstacle now — if they're already married?</span>
+        <span class="index-reference"><a href="#q-s5-174">s5</a>: How can this obstacle be overcome?</span>
+        <span class="index-reference"><a href="#q-s5-176">s5</a>: When does the political obstacle force a choice?</span>
+        <span class="index-reference"><a href="#q-s6-33">s6</a>: How does personal faith affect how they approach religious obstacles?</span>
+        <span class="index-reference"><a href="#q-s10-55">s10</a>: What magical obstacles, revelations, or complications arise as your leads grow c...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Occupation</span>
+        <span class="index-reference"><a href="#q-s4-20">s4</a>: How do their occupations bring them together or keep them apart?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Outsider</span>
+        <span class="index-reference"><a href="#q-s1-24">s1</a>: Where does each character feel like an outsider?</span>
+        <span class="index-reference"><a href="#q-s12-27">s12</a>: What would an outsider see when watching their dynamic?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Partner</span>
+        <span class="index-reference"><a href="#q-s1-28">s1</a>: What does the visitor understand about their partner after seeing where they com...</span>
+        <span class="index-reference"><a href="#q-s2-44">s2</a>: How does the human partner feel about being biologically "chosen"?</span>
+        <span class="index-reference"><a href="#q-s2-51">s2</a>: Does either character have to choose between their partner and their people?</span>
+        <span class="index-reference"><a href="#q-s5-54">s5</a>: Who is the arranged partner?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Past</span>
+        <span class="index-reference"><a href="#q-s7-6">s7</a>: What institutions preserve the past?</span>
+        <span class="index-reference"><a href="#q-s7-15">s7</a>: How much does your world actually know about its past?</span>
+        <span class="index-reference"><a href="#q-s7-18">s7</a>: What's your culture's attitude toward the past?</span>
+        <span class="index-reference"><a href="#q-s7-50">s7</a>: What object from the past does your protagonist possess or know about?</span>
+        <span class="index-reference"><a href="#q-s7-93">s7</a>: What does the long-lived character carry from their past?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Peace</span>
+        <span class="index-reference"><a href="#q-s5-91">s5</a>: Is your world at war, at peace, or somewhere in between?</span>
+        <span class="index-reference"><a href="#q-s5-93">s5</a>: If at peace: what threatens to break it? What tensions simmer beneath the surfac...</span>
+        <span class="index-reference"><a href="#q-s5-115">s5</a>: What would peace cost?</span>
+        <span class="index-reference"><a href="#q-s7-61">s7</a>: Are there still active hostilities, or is this a cold peace?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">People</span>
+        <span class="index-reference"><a href="#q-s1-29">s1</a>: How do people typically travel?</span>
+        <span class="index-reference"><a href="#q-s2-1">s2</a>: What's the general relationship between people and nature in your world?</span>
+        <span class="index-reference"><a href="#q-s2-46">s2</a>: Have they hurt people before?</span>
+        <span class="index-reference"><a href="#q-s2-51">s2</a>: Does either character have to choose between their partner and their people?</span>
+        <span class="index-reference"><a href="#q-s3-3">s3</a>: What do people do when they're not working?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Place</span>
+        <span class="index-reference"><a href="#q-s1-9">s1</a>: What's beautiful about this place?</span>
+        <span class="index-reference"><a href="#q-s1-10">s1</a>: What's harsh or uncomfortable about this place?</span>
+        <span class="index-reference"><a href="#q-s6-63">s6</a>: Are there places where certain relationships are blessed — or cursed?</span>
+        <span class="index-reference"><a href="#q-s7-104">s7</a>: What historical places matter for your story?</span>
+        <span class="index-reference"><a href="#q-s7-105">s7</a>: Do your characters visit a place where history happened?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Plant</span>
+        <span class="index-reference"><a href="#q-s2-13">s2</a>: Is there a plant that's crucial to your plot?</span>
+        <span class="index-reference"><a href="#q-s2-30">s2</a>: What plants have symbolic meaning?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Political</span>
+        <span class="index-reference"><a href="#q-s5-14">s5</a>: What's the political hierarchy?</span>
+        <span class="index-reference"><a href="#q-s5-15">s5</a>: How do people move up (or down) in political power?</span>
+        <span class="index-reference"><a href="#q-s5-17">s5</a>: How does magic relate to political authority?</span>
+        <span class="index-reference"><a href="#q-s5-36">s5</a>: If one character has magic and the other doesn't, how does this affect their pol...</span>
+        <span class="index-reference"><a href="#q-s5-65">s5</a>: What political problem does their union solve?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Power</span>
+        <span class="index-reference"><a href="#q-s4-13">s4</a>: How does the wealth gap affect their power dynamic?</span>
+        <span class="index-reference"><a href="#q-s5-29">s5</a>: Who currently holds power?</span>
+        <span class="index-reference"><a href="#q-s5-15">s5</a>: How do people move up (or down) in political power?</span>
+        <span class="index-reference"><a href="#q-s5-19">s5</a>: Who controls access to magical power?</span>
+        <span class="index-reference"><a href="#q-s5-30">s5</a>: How did they gain power?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Pressure</span>
+        <span class="index-reference"><a href="#q-s1-15">s1</a>: Does the season create pressure or opportunity in your story?</span>
+        <span class="index-reference"><a href="#q-s5-68">s5</a>: How does political pressure affect their emotional relationship?</span>
+        <span class="index-reference"><a href="#q-s7-77">s7</a>: Does the comparison create pressure or expectation?</span>
+        <span class="index-reference"><a href="#q-s9-42">s9</a>: Is there pressure on anyone to produce heirs?</span>
+        <span class="index-reference"><a href="#q-s12-35">s12</a>: How might resource scarcity or control put pressure on your leads' relationship?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Priest</span>
+        <span class="index-reference"><a href="#q-s6-11">s6</a>: Who becomes clergy/priests/religious figures?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Privacy</span>
+        <span class="index-reference"><a href="#q-s3-6">s3</a>: How much privacy exists within a home?</span>
+        <span class="index-reference"><a href="#q-s9-95">s9</a>: What privacy do they have?</span>
+        <span class="index-reference"><a href="#q-s9-96">s9</a>: If one character has servants/attendants, how does that affect privacy?</span>
+        <span class="index-reference"><a href="#q-s13-38">s13</a>: When do they have true privacy?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Profession</span>
+        <span class="index-reference"><a href="#q-s4-5">s4</a>: What professions are respected? Looked down upon?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Promise</span>
+        <span class="index-reference"><a href="#q-s12-14">s12</a>: What promises in your world are magically enforced?</span>
+        <span class="index-reference"><a href="#q-s12-18">s12</a>: What's the most dangerous promise your character could make? What would push the...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Prophecy</span>
+        <span class="index-reference"><a href="#q-s6-67">s6</a>: Is there a prophecy about your characters or their relationship?</span>
+        <span class="index-reference"><a href="#q-s6-68">s6</a>: What does the prophecy say?</span>
+        <span class="index-reference"><a href="#q-s6-69">s6</a>: Who knows about this prophecy?</span>
+        <span class="index-reference"><a href="#q-s6-70">s6</a>: Does the prophecy suggest they're fated to be together or fated to be apart?</span>
+        <span class="index-reference"><a href="#q-s6-71">s6</a>: How does each character react to the prophecy?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Protagonist</span>
+        <span class="index-reference"><a href="#q-s1-21">s1</a>: Where does your protagonist feel at home?</span>
+        <span class="index-reference"><a href="#q-s2-25">s2</a>: Does your protagonist have an animal companion?</span>
+        <span class="index-reference"><a href="#q-s2-47">s2</a>: Are they currently dangerous to the protagonist?</span>
+        <span class="index-reference"><a href="#q-s4-9">s4</a>: Where does your protagonist fall economically?</span>
+        <span class="index-reference"><a href="#q-s4-18">s4</a>: What does your protagonist do to survive?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Protect</span>
+        <span class="index-reference"><a href="#q-s5-78">s5</a>: Could their status protect the other character?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Relationship</span>
+        <span class="index-reference"><a href="#q-s2-1">s2</a>: What's the general relationship between people and nature in your world?</span>
+        <span class="index-reference"><a href="#q-s2-24">s2</a>: Could the characters have the creature bond without having a romantic relationsh...</span>
+        <span class="index-reference"><a href="#q-s2-50">s2</a>: What do each character's families/communities think of the relationship?</span>
+        <span class="index-reference"><a href="#q-s3-34">s3</a>: What's the expected progression of a relationship?</span>
+        <span class="index-reference"><a href="#q-s5-37">s5</a>: Could your characters' relationship threaten the magical power structure?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Religion</span>
+        <span class="index-reference"><a href="#q-s3-9">s3</a>: What role does religion/spirituality play in daily life?</span>
+        <span class="index-reference"><a href="#q-s6-48">s6</a>: What does your religion teach about love and marriage?</span>
+        <span class="index-reference"><a href="#q-s6-78">s6</a>: Do your characters practice different religions?</span>
+        <span class="index-reference"><a href="#q-s6-83">s6</a>: What does your religion teach about desire and love?</span>
+        <span class="index-reference"><a href="#q-s14-17">s14</a>: How does religion intersect with your institution (from Section 6)?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Reputation</span>
+        <span class="index-reference"><a href="#q-s3-22">s3</a>: What destroys a reputation?</span>
+        <span class="index-reference"><a href="#q-s3-23">s3</a>: Can a ruined reputation be recovered? How?</span>
+        <span class="index-reference"><a href="#q-s7-96">s7</a>: What reputation does their family name carry?</span>
+        <span class="index-reference"><a href="#q-s7-99">s7</a>: What reputation does their family carry?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Resource</span>
+        <span class="index-reference"><a href="#q-s1-4">s1</a>: What natural resources are geographically concentrated?</span>
+        <span class="index-reference"><a href="#q-s1-5">s1</a>: What geographic resource creates tension or conflict in your world?</span>
+        <span class="index-reference"><a href="#q-s1-6">s1</a>: How does geographic resource control affect your characters?</span>
+        <span class="index-reference"><a href="#q-s4-8">s4</a>: What's the single most valuable resource in your world?</span>
+        <span class="index-reference"><a href="#q-s12-32">s12</a>: Does magic in your world require resources that can be controlled, hoarded, or f...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Restriction</span>
+        <span class="index-reference"><a href="#q-s5-39">s5</a>: Why do these restrictions exist?</span>
+        <span class="index-reference"><a href="#q-s5-49">s5</a>: What legal restrictions exist between species?</span>
+        <span class="index-reference"><a href="#q-s6-41">s6</a>: How do these timing restrictions affect your characters?</span>
+        <span class="index-reference"><a href="#q-s6-50">s6</a>: What religious restrictions specifically affect your characters' relationship?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Revelation</span>
+        <span class="index-reference"><a href="#q-s10-55">s10</a>: What magical obstacles, revelations, or complications arise as your leads grow c...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Revolution</span>
+        <span class="index-reference"><a href="#q-s5-170">s5</a>: If peaceful change is impossible, what would revolution look like?</span>
+        <span class="index-reference"><a href="#q-s5-171">s5</a>: Would your characters join or lead a revolution?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Ritual</span>
+        <span class="index-reference"><a href="#q-s3-12">s3</a>: What everyday rituals do people perform without thinking?</span>
+        <span class="index-reference"><a href="#q-s13-20">s13</a>: Does a routine moment become ritual — something they both anticipate?</span>
+        <span class="index-reference"><a href="#q-s13-22">s13</a>: Do they develop private rituals only they share?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Rival</span>
+        <span class="index-reference"><a href="#q-s13-12">s13</a>: Is there a rival for either character's attention?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Role</span>
+        <span class="index-reference"><a href="#q-s3-9">s3</a>: What role does religion/spirituality play in daily life?</span>
+        <span class="index-reference"><a href="#q-s3-35">s3</a>: What's the role of family in courtship?</span>
+        <span class="index-reference"><a href="#q-s5-114">s5</a>: Could your characters' relationship play a role in ending the conflict?</span>
+        <span class="index-reference"><a href="#q-s6-62">s6</a>: Does a sacred site play a role in your romance?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Romance</span>
+        <span class="index-reference"><a href="#q-s1-2">s1</a>: If your world is large, where specifically does your romance happen?</span>
+        <span class="index-reference"><a href="#q-s5-33">s5</a>: How does this instability affect your romance?</span>
+        <span class="index-reference"><a href="#q-s6-62">s6</a>: Does a sacred site play a role in your romance?</span>
+        <span class="index-reference"><a href="#q-s7-59">s7</a>: What major conflict most directly affects your romance?</span>
+        <span class="index-reference"><a href="#q-s12-16">s12</a>: Does this binding create an obstacle to the romance?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Ruin</span>
+        <span class="index-reference"><a href="#q-s7-14">s7</a>: Are there ruins, artifacts, or fragments that hint at what's lost?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Rule</span>
+        <span class="index-reference"><a href="#q-s3-44">s3</a>: Do festivals allow any relaxation of normal rules?</span>
+        <span class="index-reference"><a href="#q-s3-45">s3</a>: What are the unwritten rules of cross-class interaction?</span>
+        <span class="index-reference"><a href="#q-s5-32">s5</a>: What threatens their rule?</span>
+        <span class="index-reference"><a href="#q-s5-35">s5</a>: Do mages rule, serve rulers, or oppose rulers?</span>
+        <span class="index-reference"><a href="#q-s10-48">s10</a>: If your magic is on the harder side: Have you established the rules clearly enou...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Ruler</span>
+        <span class="index-reference"><a href="#q-s5-35">s5</a>: Do mages rule, serve rulers, or oppose rulers?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Sacred</span>
+        <span class="index-reference"><a href="#q-s6-16">s6</a>: How do people mark sacred vs. ordinary time or space?</span>
+        <span class="index-reference"><a href="#q-s6-18">s6</a>: Are there sacred seasons or periods?</span>
+        <span class="index-reference"><a href="#q-s6-20">s6</a>: What sacred locations exist?</span>
+        <span class="index-reference"><a href="#q-s6-21">s6</a>: What makes a space sacred?</span>
+        <span class="index-reference"><a href="#q-s6-26">s6</a>: What are the major sacred stories everyone knows?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Sacrifice</span>
+        <span class="index-reference"><a href="#q-s3-18">s3</a>: What cultural value must one or both characters sacrifice to be together?</span>
+        <span class="index-reference"><a href="#q-s4-21">s4</a>: What economic security does each character sacrifice to be together?</span>
+        <span class="index-reference"><a href="#q-s5-74">s5</a>: Could the protected character sacrifice their protection for the other?</span>
+        <span class="index-reference"><a href="#q-s5-172">s5</a>: What would they sacrifice to change the system?</span>
+        <span class="index-reference"><a href="#q-s6-90">s6</a>: Does belief in the afterlife make sacrifice easier or harder?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Scandal</span>
+        <span class="index-reference"><a href="#q-s11-45">s11</a>: Is their specific bond acceptable, or does who they're bonded to create scandal?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Season</span>
+        <span class="index-reference"><a href="#q-s1-12">s1</a>: What seasons exist and how distinct are they?</span>
+        <span class="index-reference"><a href="#q-s1-13">s1</a>: What season is your story set in?</span>
+        <span class="index-reference"><a href="#q-s1-14">s1</a>: How do seasons affect life in your world?</span>
+        <span class="index-reference"><a href="#q-s1-15">s1</a>: Does the season create pressure or opportunity in your story?</span>
+        <span class="index-reference"><a href="#q-s6-18">s6</a>: Are there sacred seasons or periods?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Secret</span>
+        <span class="index-reference"><a href="#q-s8-69">s8</a>: Are there languages that are sacred, secret, or forbidden?</span>
+        <span class="index-reference"><a href="#q-s9-26">s9</a>: Can servants be trusted with secrets?</span>
+    </div>
+</div>
+
+
+
+
+<h2 class="mt-0">Alphabetical Index <span style="font-size: 0.7em; color: var(--color-text-muted);">(continued)</span></h2>
+
+<div class="alphabetical-index">
+    <div class="index-entry">
+        <span class="index-keyword">Security</span>
+        <span class="index-reference"><a href="#q-s4-21">s4</a>: What economic security does each character sacrifice to be together?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Separation</span>
+        <span class="index-reference"><a href="#q-s5-46">s5</a>: What laws enforce class separation?</span>
+        <span class="index-reference"><a href="#q-s13-39">s13</a>: What is the cost of separation in your story?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Servant</span>
+        <span class="index-reference"><a href="#q-s9-22">s9</a>: Do servants exist in your world? How common are they?</span>
+        <span class="index-reference"><a href="#q-s9-23">s9</a>: What do servants do?</span>
+        <span class="index-reference"><a href="#q-s9-24">s9</a>: What do servants see and hear?</span>
+        <span class="index-reference"><a href="#q-s9-25">s9</a>: What's the relationship between servants and employers?</span>
+        <span class="index-reference"><a href="#q-s9-26">s9</a>: Can servants be trusted with secrets?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Shame</span>
+        <span class="index-reference"><a href="#q-s6-86">s6</a>: Does religious shame affect how they behave in the relationship?</span>
+        <span class="index-reference"><a href="#q-s6-87">s6</a>: What would it take to release religious shame?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Shift</span>
+        <span class="index-reference"><a href="#q-s3-47">s3</a>: When do your characters shift how they address each other?</span>
+        <span class="index-reference"><a href="#q-s5-61">s5</a>: What begins to shift those boundaries?</span>
+        <span class="index-reference"><a href="#q-s8-77">s8</a>: What shift in how they address each other marks growing intimacy?</span>
+        <span class="index-reference"><a href="#q-s12-26">s12</a>: How does the power balance shift throughout your story?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Skill</span>
+        <span class="index-reference"><a href="#q-s2-11">s2</a>: Who knows foraging skills?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Social</span>
+        <span class="index-reference"><a href="#q-s5-43">s5</a>: What social hierarchy exists?</span>
+        <span class="index-reference"><a href="#q-s5-47">s5</a>: What social consequences exist for cross-class relationships?</span>
+        <span class="index-reference"><a href="#q-s5-97">s5</a>: What's the social status of soldiers?</span>
+        <span class="index-reference"><a href="#q-s8-27">s8</a>: Does accent mark social class?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Society</span>
+        <span class="index-reference"><a href="#q-s2-48">s2</a>: Can your couple live openly in human society?</span>
+        <span class="index-reference"><a href="#q-s2-49">s2</a>: Can your couple live openly in non-human society?</span>
+        <span class="index-reference"><a href="#q-s7-54">s7</a>: How was your world/nation/society founded?</span>
+        <span class="index-reference"><a href="#q-s11-44">s11</a>: How does your society view bonded pairs?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Soldier</span>
+        <span class="index-reference"><a href="#q-s5-97">s5</a>: What's the social status of soldiers?</span>
+        <span class="index-reference"><a href="#q-s5-99">s5</a>: If one character is a soldier, how does this affect the relationship?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Source</span>
+        <span class="index-reference"><a href="#q-s10-3">s10</a>: Is there a single source of magic, or multiple types with different origins?</span>
+        <span class="index-reference"><a href="#q-s10-4">s10</a>: Can the source be depleted, corrupted, or cut off? What happens if it is?</span>
+        <span class="index-reference"><a href="#q-s10-6">s10</a>: Romantasy Check: Could the source of magic connect your leads—or divide them?</span>
+        <span class="index-reference"><a href="#q-s10-7">s10</a>: How might the source of magic affect your leads' relationship?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Species</span>
+        <span class="index-reference"><a href="#q-s2-31">s2</a>: What biological differences exist between your species?</span>
+        <span class="index-reference"><a href="#q-s2-33">s2</a>: Does one species perceive the world differently?</span>
+        <span class="index-reference"><a href="#q-s2-35">s2</a>: How long does each species typically live?</span>
+        <span class="index-reference"><a href="#q-s2-52">s2</a>: Can the human become the non-human's species?</span>
+        <span class="index-reference"><a href="#q-s5-48">s5</a>: What species exist in your world?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Spiritual</span>
+        <span class="index-reference"><a href="#q-s6-82">s6</a>: Can they build a shared spiritual life, or will faith always divide them?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Status</span>
+        <span class="index-reference"><a href="#q-s5-76">s5</a>: Does either character have special legal status?</span>
+        <span class="index-reference"><a href="#q-s5-77">s5</a>: How does this status affect what they can do — or what can be done to them?</span>
+        <span class="index-reference"><a href="#q-s5-78">s5</a>: Could their status protect the other character?</span>
+        <span class="index-reference"><a href="#q-s5-79">s5</a>: Could their status endanger the other character?</span>
+        <span class="index-reference"><a href="#q-s5-80">s5</a>: What would they lose if they gave up their special status?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Story</span>
+        <span class="index-reference"><a href="#q-s1-1">s1</a>: What's the geographic scope of your story?</span>
+        <span class="index-reference"><a href="#q-s1-3">s1</a>: Which 2-3 terrains matter most for your story?</span>
+        <span class="index-reference"><a href="#q-s1-13">s1</a>: What season is your story set in?</span>
+        <span class="index-reference"><a href="#q-s1-15">s1</a>: Does the season create pressure or opportunity in your story?</span>
+        <span class="index-reference"><a href="#q-s5-16">s5</a>: What positions exist that matter for your story?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Structure</span>
+        <span class="index-reference"><a href="#q-s3-7">s3</a>: What's the typical family structure?</span>
+        <span class="index-reference"><a href="#q-s5-37">s5</a>: Could your characters' relationship threaten the magical power structure?</span>
+        <span class="index-reference"><a href="#q-s10-60">s10</a>: How has magic shaped the power structures in your world?</span>
+        <span class="index-reference"><a href="#q-s14-14">s14</a>: How does your institution reflect or enforce government structures (from Section...</span>
+        <span class="index-reference"><a href="#q-s16-16">s16</a>: How do these values show up in laws and political structure?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Succession</span>
+        <span class="index-reference"><a href="#q-s5-168">s5</a>: Could their relationship cause or solve a succession crisis?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Superstition</span>
+        <span class="index-reference"><a href="#q-s3-11">s3</a>: What common superstitions exist?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Survival</span>
+        <span class="index-reference"><a href="#q-s9-29">s9</a>: How much time do ordinary people spend on survival tasks?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Symbol</span>
+        <span class="index-reference"><a href="#q-s6-14">s6</a>: What religious objects or symbols do people wear or keep?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">System</span>
+        <span class="index-reference"><a href="#q-s5-3">s5</a>: If your world has multiple nations, do they have different systems?</span>
+        <span class="index-reference"><a href="#q-s5-12">s5</a>: How does the justice system work?</span>
+        <span class="index-reference"><a href="#q-s5-172">s5</a>: What would they sacrifice to change the system?</span>
+        <span class="index-reference"><a href="#q-s8-56">s8</a>: What writing systems exist?</span>
+        <span class="index-reference"><a href="#q-s8-73">s8</a>: How does your true name system differ from the familiar versions?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Taboo</span>
+        <span class="index-reference"><a href="#q-s3-19">s3</a>: What actions, topics, or behaviors are taboo in your culture?</span>
+        <span class="index-reference"><a href="#q-s3-20">s3</a>: What happens when someone breaks a taboo?</span>
+        <span class="index-reference"><a href="#q-s3-21">s3</a>: What taboo do your characters break first?</span>
+        <span class="index-reference"><a href="#q-s10-43">s10</a>: Are some types of magic considered more valuable, dangerous, or taboo than other...</span>
+        <span class="index-reference"><a href="#q-s16-17">s16</a>: What is taboo or shameful — and why?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Technology</span>
+        <span class="index-reference"><a href="#q-s9-1">s9</a>: What's the approximate technology level?</span>
+        <span class="index-reference"><a href="#q-s9-2">s9</a>: Is technology consistent across your world, or does it vary?</span>
+        <span class="index-reference"><a href="#q-s9-3">s9</a>: How does magic affect technology?</span>
+        <span class="index-reference"><a href="#q-s9-68">s9</a>: What's the most advanced military technology?</span>
+        <span class="index-reference"><a href="#q-s9-81">s9</a>: What technology enables entertainment?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Tension</span>
+        <span class="index-reference"><a href="#q-s1-5">s1</a>: What geographic resource creates tension or conflict in your world?</span>
+        <span class="index-reference"><a href="#q-s5-93">s5</a>: If at peace: what threatens to break it? What tensions simmer beneath the surfac...</span>
+        <span class="index-reference"><a href="#q-s10-27">s10</a>: Romantasy Check: How might the cost of magic create romantic tension or sacrific...</span>
+        <span class="index-reference"><a href="#q-s11-48">s11</a>: If the bond is asymmetrical, how does this create tension?</span>
+        <span class="index-reference"><a href="#q-s12-48">s12</a>: How might their positions regarding magical authority create tension between the...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Territory</span>
+        <span class="index-reference"><a href="#q-s1-17">s1</a>: Do your characters travel through dangerous territory?</span>
+        <span class="index-reference"><a href="#q-s1-25">s1</a>: Does one character visit the other's home territory?</span>
+        <span class="index-reference"><a href="#q-s1-26">s1</a>: What's the sensory experience of entering unfamiliar territory?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Threat</span>
+        <span class="index-reference"><a href="#q-s10-52">s10</a>: What can your antagonist do with magic that makes them a genuine threat?</span>
+        <span class="index-reference"><a href="#q-s13-14">s13</a>: Is there a threat — someone who would expose or harm them?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Time</span>
+        <span class="index-reference"><a href="#q-s1-8">s1</a>: How does the environment change at different times of day?</span>
+        <span class="index-reference"><a href="#q-s6-16">s6</a>: How do people mark sacred vs. ordinary time or space?</span>
+        <span class="index-reference"><a href="#q-s6-19">s6</a>: Are there forbidden times?</span>
+        <span class="index-reference"><a href="#q-s8-7">s8</a>: Do your characters spend time in multilingual environments?</span>
+        <span class="index-reference"><a href="#q-s9-29">s9</a>: How much time do ordinary people spend on survival tasks?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Token</span>
+        <span class="index-reference"><a href="#q-s3-36">s3</a>: Are there traditional courtship gifts or tokens?</span>
+        <span class="index-reference"><a href="#q-s3-37">s3</a>: What does giving or accepting such a token signify?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Touch</span>
+        <span class="index-reference"><a href="#q-s3-26">s3</a>: What touch is considered appropriate between unmarried people?</span>
+        <span class="index-reference"><a href="#q-s3-27">s3</a>: What touch is considered particularly intimate — perhaps more so than a kiss?</span>
+        <span class="index-reference"><a href="#q-s3-28">s3</a>: When do your characters first break the touch barrier?</span>
+        <span class="index-reference"><a href="#q-s3-32">s3</a>: Is there significance to who can touch someone's hair?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Training</span>
+        <span class="index-reference"><a href="#q-s12-2">s12</a>: Can this danger be managed with training, or is it inherent to the magic itself?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Transformation</span>
+        <span class="index-reference"><a href="#q-s2-53">s2</a>: What does transformation cost?</span>
+        <span class="index-reference"><a href="#q-s2-54">s2</a>: Who wants transformation — and who doesn't?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Travel</span>
+        <span class="index-reference"><a href="#q-s1-17">s1</a>: Do your characters travel through dangerous territory?</span>
+        <span class="index-reference"><a href="#q-s1-29">s1</a>: How do people typically travel?</span>
+        <span class="index-reference"><a href="#q-s1-30">s1</a>: How long does travel take between key locations?</span>
+        <span class="index-reference"><a href="#q-s9-5">s9</a>: What's the fastest way to travel long distances?</span>
+        <span class="index-reference"><a href="#q-s9-6">s9</a>: How long does travel take between important locations?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Trial</span>
+        <span class="index-reference"><a href="#q-s5-81">s5</a>: If caught, do your characters get a trial?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Trust</span>
+        <span class="index-reference"><a href="#q-s11-38">s11</a>: The bond might create attraction — but what about trust?</span>
+        <span class="index-reference"><a href="#q-s12-10">s12</a>: If the love interest discovered the truth by accident rather than being told, ho...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Truth</span>
+        <span class="index-reference"><a href="#q-s7-82">s7</a>: Is there a historical truth that's been suppressed or rewritten?</span>
+        <span class="index-reference"><a href="#q-s7-85">s7</a>: How does learning the truth change everything?</span>
+        <span class="index-reference"><a href="#q-s8-41">s8</a>: What truths are hard to say?</span>
+        <span class="index-reference"><a href="#q-s12-10">s12</a>: If the love interest discovered the truth by accident rather than being told, ho...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Union</span>
+        <span class="index-reference"><a href="#q-s5-65">s5</a>: What political problem does their union solve?</span>
+        <span class="index-reference"><a href="#q-s5-66">s5</a>: Who benefits from their union? Who's threatened by it?</span>
+        <span class="index-reference"><a href="#q-s16-46">s16</a>: What system that tried to keep them apart is affected by their union?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Value</span>
+        <span class="index-reference"><a href="#q-s3-17">s3</a>: What does your culture value most highly?</span>
+        <span class="index-reference"><a href="#q-s3-18">s3</a>: What cultural value must one or both characters sacrifice to be together?</span>
+        <span class="index-reference"><a href="#q-s14-15">s14</a>: How does your institution reflect cultural values (from Section 3)?</span>
+        <span class="index-reference"><a href="#q-s16-15">s16</a>: What does your culture value most?</span>
+        <span class="index-reference"><a href="#q-s16-16">s16</a>: How do these values show up in laws and political structure?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Violence</span>
+        <span class="index-reference"><a href="#q-s5-108">s5</a>: Does one character bear responsibility (personally or ancestrally) for violence ...</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">War</span>
+        <span class="index-reference"><a href="#q-s5-91">s5</a>: Is your world at war, at peace, or somewhere in between?</span>
+        <span class="index-reference"><a href="#q-s5-92">s5</a>: If at war: who's fighting whom, and why?</span>
+        <span class="index-reference"><a href="#q-s5-105">s5</a>: Has either character killed in war?</span>
+        <span class="index-reference"><a href="#q-s12-34">s12</a>: Are there active conflicts — wars, trade disputes, political maneuvering — over ...</span>
+        <span class="index-reference"><a href="#q-s16-27">s16</a>: Why hasn't magic solved poverty, disease, war, or death?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Wealth</span>
+        <span class="index-reference"><a href="#q-s4-2">s4</a>: How is wealth created in your world?</span>
+        <span class="index-reference"><a href="#q-s4-3">s4</a>: How does wealth move?</span>
+        <span class="index-reference"><a href="#q-s4-6">s4</a>: What does wealth look like at different levels?</span>
+        <span class="index-reference"><a href="#q-s4-13">s4</a>: How does the wealth gap affect their power dynamic?</span>
+        <span class="index-reference"><a href="#q-s16-6">s16</a>: Can magic create wealth or resources directly?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Weapon</span>
+        <span class="index-reference"><a href="#q-s9-66">s9</a>: What weapons exist?</span>
+        <span class="index-reference"><a href="#q-s9-69">s9</a>: Who has access to weapons?</span>
+        <span class="index-reference"><a href="#q-s12-41">s12</a>: What's the most dangerous magical weapon or capability in your world?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Wedding</span>
+        <span class="index-reference"><a href="#q-s5-57">s5</a>: What were the circumstances of the wedding?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Wild</span>
+        <span class="index-reference"><a href="#q-s2-9">s2</a>: What can be safely gathered from the wild?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">World</span>
+        <span class="index-reference"><a href="#q-s1-2">s1</a>: If your world is large, where specifically does your romance happen?</span>
+        <span class="index-reference"><a href="#q-s1-5">s1</a>: What geographic resource creates tension or conflict in your world?</span>
+        <span class="index-reference"><a href="#q-s1-14">s1</a>: How do seasons affect life in your world?</span>
+        <span class="index-reference"><a href="#q-s2-1">s2</a>: What's the general relationship between people and nature in your world?</span>
+        <span class="index-reference"><a href="#q-s2-2">s2</a>: How magical is the natural world?</span>
+    </div>
+    <div class="index-entry">
+        <span class="index-keyword">Writing</span>
+        <span class="index-reference"><a href="#q-s8-56">s8</a>: What writing systems exist?</span>
+        <span class="index-reference"><a href="#q-s8-63">s8</a>: What risk exists in writing things down?</span>
+    </div>
+</div>
+
+</body></html>
