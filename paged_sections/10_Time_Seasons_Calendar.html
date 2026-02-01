@@ -458,6 +458,49 @@
         @media print {
             * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
         }
+        /* Flow Cycle Component */
+        .flow-cycle {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 1.5rem 0;
+            gap: 12px;
+            break-inside: avoid;
+        }
+        .flow-step {
+            width: 100%;
+            background: white;
+            border: 1px solid var(--theme-color);
+            padding: 15px 20px;
+            text-align: center;
+            position: relative;
+            box-shadow: 3px 3px 0px var(--color-accent);
+        }
+        .flow-step::after {
+            content: '\2193';
+            position: absolute;
+            bottom: -20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: var(--theme-color);
+            font-weight: bold;
+            font-size: 1.1rem;
+            z-index: 1;
+        }
+        .flow-step:last-child::after { content: none; }
+        .flow-label {
+            font-family: var(--font-display);
+            font-size: 0.55rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 5px;
+        }
+        .flow-text {
+            font-family: var(--font-display);
+            font-size: 0.95rem;
+        }
     </style>
 </head>
 <body>
@@ -1033,6 +1076,25 @@
 <p>This section builds your magic from the ground up: where it comes from, who can use it, how it works, and (most importantly) what it <em>can't</em> do. Get this foundation right, and your magic will feel real. Skip it, and you'll find yourself writing your way into corners or solving problems too easily.</p>
 
 <p>One more thing before we dive in: magic in romantasy isn't just about battles and plot problems. It's also about <em>intimacy</em>: how your characters connect, what they hide from each other, what it means when they finally let someone see their power (or their vulnerability). As you build your system, keep one eye on how magic might bring your leads together or push them apart.</p>
+
+<div class="flow-cycle" style="margin: 1.5rem 0;">
+    <div class="flow-step">
+        <span class="flow-label">Source</span>
+        <span class="flow-text">Where does magic come from?</span>
+    </div>
+    <div class="flow-step">
+        <span class="flow-label">Access</span>
+        <span class="flow-text">How do people tap into it?</span>
+    </div>
+    <div class="flow-step">
+        <span class="flow-label">Cost</span>
+        <span class="flow-text">What does using it demand?</span>
+    </div>
+    <div class="flow-step">
+        <span class="flow-label">Effect</span>
+        <span class="flow-text">What can it actually do?</span>
+    </div>
+</div>
 
 
 <!-- SECTION 10: IN THIS SECTION -->

@@ -458,6 +458,44 @@
         @media print {
             * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
         }
+        /* Iceberg Component */
+        .iceberg-container {
+            margin: 1.5rem 0;
+            background: white;
+            border: 1px solid var(--color-noir);
+            overflow: hidden;
+            break-inside: avoid;
+        }
+        .iceberg-surface {
+            background: rgba(226, 201, 138, 0.15);
+            padding: 20px 25px;
+            border-bottom: 2px dashed var(--theme-color);
+        }
+        .iceberg-depth {
+            background: white;
+            padding: 20px 25px;
+        }
+        .iceberg-label {
+            font-family: var(--font-display);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--color-text-muted);
+            display: block;
+            margin-bottom: 8px;
+        }
+        .iceberg-value {
+            font-family: var(--font-display);
+            font-size: 1.05rem;
+            color: var(--color-text-main);
+        }
+        .iceberg-sub {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 0.9rem;
+            color: var(--color-text-sub);
+            margin-top: 5px;
+        }
     </style>
 </head>
 <body>
@@ -560,6 +598,19 @@
 <p>This matters enormously for your story. If gods are confirmed and active, "faith" isn't really faith; it's acknowledgment of fact. Characters can't genuinely doubt when miracles happen regularly. If gods are uncertain or absent, characters can struggle with belief itself, not just obedience.</p>
 
 <p><strong>How to write it:</strong> Establish your divine reality early through how characters interact with it, not through exposition. If gods are real and active, show their influence through answered prayers, divine punishments, or miracles that characters take for granted. If gods are absent or uncertain, show characters debating, doubting, or clinging to faith without proof. The key decision (whether gods are confirmed or ambiguous) should be clear to the reader even when it's unclear to the characters. Don't wait until the climax to reveal whether divine power is real; let the question shape how characters make decisions throughout the story.</p>
+
+<div class="iceberg-container">
+    <div class="iceberg-surface">
+        <span class="iceberg-label">Surface: Public Doctrine</span>
+        <div class="iceberg-value">What the religion officially teaches and displays</div>
+        <div class="iceberg-sub">The rituals everyone sees, the stories told to children, the public face of faith.</div>
+    </div>
+    <div class="iceberg-depth">
+        <span class="iceberg-label">Hidden: Secret Knowledge</span>
+        <div class="iceberg-value">What only the inner circle knows — or what the faithful deny</div>
+        <div class="iceberg-sub">Forbidden texts, secret rituals, uncomfortable truths about the gods or origins of the faith.</div>
+    </div>
+</div>
 
 
 <!-- SECTION 6: TYPES OF DIVINE SYSTEMS -->

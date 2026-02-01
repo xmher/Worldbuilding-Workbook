@@ -458,6 +458,44 @@
         @media print {
             * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
         }
+        /* Iceberg Component */
+        .iceberg-container {
+            margin: 1.5rem 0;
+            background: white;
+            border: 1px solid var(--color-noir);
+            overflow: hidden;
+            break-inside: avoid;
+        }
+        .iceberg-surface {
+            background: rgba(226, 201, 138, 0.15);
+            padding: 20px 25px;
+            border-bottom: 2px dashed var(--theme-color);
+        }
+        .iceberg-depth {
+            background: white;
+            padding: 20px 25px;
+        }
+        .iceberg-label {
+            font-family: var(--font-display);
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--color-text-muted);
+            display: block;
+            margin-bottom: 8px;
+        }
+        .iceberg-value {
+            font-family: var(--font-display);
+            font-size: 1.05rem;
+            color: var(--color-text-main);
+        }
+        .iceberg-sub {
+            font-family: var(--font-accent);
+            font-style: italic;
+            font-size: 0.9rem;
+            color: var(--color-text-sub);
+            margin-top: 5px;
+        }
     </style>
 </head>
 <body>
@@ -1578,6 +1616,19 @@
 <p>This is where you define who actually holds power in your world and how they keep it. The specifics of who rules, how they gained that power, and what threatens their hold on it directly shape what your characters can and cannot do, and what happens to people who challenge the existing order.</p>
 
 <p><strong>How to write it:</strong> Reveal your rulers through the effect they have on your characters' world, not through history lessons. A ruler defined by the taxes people can't afford, the soldiers stationed at every crossroads, or the portraits that must hang in every home feels more real than one described through backstory. When your character encounters the ruling power, show both the official face and the cracks behind it: the courtier who trembles at a summons, the decree that contradicts last month's decree. Instability in power is gold for story tension.</p>
+
+<div class="iceberg-container">
+    <div class="iceberg-surface">
+        <span class="iceberg-label">Visible: Official Power</span>
+        <div class="iceberg-value">The rulers, laws, and institutions everyone can see</div>
+        <div class="iceberg-sub">Who holds the title? What are the written rules? What does the government claim to be?</div>
+    </div>
+    <div class="iceberg-depth">
+        <span class="iceberg-label">Hidden: Real Power</span>
+        <div class="iceberg-value">The influence, money, and leverage that actually controls outcomes</div>
+        <div class="iceberg-sub">Who really decides? What unwritten rules matter more? Who can the official rulers not afford to cross?</div>
+    </div>
+</div>
 
 <div style="break-inside: avoid;">
 <h4 id="q-s5-28">What form of government exists in your world?</h4>

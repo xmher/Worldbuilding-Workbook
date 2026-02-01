@@ -458,6 +458,49 @@
         @media print {
             * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
         }
+        /* Flow Cycle Component */
+        .flow-cycle {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 1.5rem 0;
+            gap: 12px;
+            break-inside: avoid;
+        }
+        .flow-step {
+            width: 100%;
+            background: white;
+            border: 1px solid var(--theme-color);
+            padding: 15px 20px;
+            text-align: center;
+            position: relative;
+            box-shadow: 3px 3px 0px var(--color-accent);
+        }
+        .flow-step::after {
+            content: '\2193';
+            position: absolute;
+            bottom: -20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: var(--theme-color);
+            font-weight: bold;
+            font-size: 1.1rem;
+            z-index: 1;
+        }
+        .flow-step:last-child::after { content: none; }
+        .flow-label {
+            font-family: var(--font-display);
+            font-size: 0.55rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: var(--theme-color);
+            display: block;
+            margin-bottom: 5px;
+        }
+        .flow-text {
+            font-family: var(--font-display);
+            font-size: 0.95rem;
+        }
     </style>
 </head>
 <body>
@@ -1552,6 +1595,25 @@
 </div>
 
 <h2 id="s7-patterns">Common Patterns: History in Romantasy</h2>
+
+<div class="flow-cycle" style="margin: 1.5rem 0;">
+    <div class="flow-step">
+        <span class="flow-label">Tension</span>
+        <span class="flow-text">Grievances build between groups</span>
+    </div>
+    <div class="flow-step">
+        <span class="flow-label">Catalyst</span>
+        <span class="flow-text">An event ignites the conflict</span>
+    </div>
+    <div class="flow-step">
+        <span class="flow-label">Conflict</span>
+        <span class="flow-text">War, revolution, or upheaval</span>
+    </div>
+    <div class="flow-step">
+        <span class="flow-label">Resolution</span>
+        <span class="flow-text">New order emerges — carrying seeds of next tension</span>
+    </div>
+</div>
 
 <div style="break-inside: avoid;">
 <h3>Historical Situations That Create Romance Tension</h3>
