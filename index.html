@@ -115,58 +115,6 @@
             font-size: 0.85rem;
             color: var(--color-text-muted);
         }
-        /* Style Toggle */
-        .style-toggle {
-            display: flex;
-            justify-content: center;
-            gap: 0;
-            margin-bottom: 2rem;
-            border: 2px solid var(--color-worldbuilding);
-            border-radius: 4px;
-            overflow: hidden;
-            max-width: 360px;
-            margin-left: auto;
-            margin-right: auto;
-        }
-        .style-toggle button {
-            flex: 1;
-            padding: 10px 20px;
-            border: none;
-            background: white;
-            font-family: var(--font-display);
-            font-size: 0.75rem;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            color: var(--color-text-sub);
-            cursor: pointer;
-            transition: all 0.2s ease;
-        }
-        .style-toggle button.active {
-            background: var(--color-worldbuilding);
-            color: white;
-        }
-        .style-toggle button:not(.active):hover {
-            background: var(--color-worldbuilding-light);
-        }
-        .style-badge {
-            display: inline-block;
-            font-family: var(--font-display);
-            font-size: 0.55rem;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            padding: 2px 8px;
-            border-radius: 3px;
-            margin-left: 10px;
-            vertical-align: middle;
-        }
-        .badge-original {
-            background: var(--color-worldbuilding-light);
-            color: var(--color-worldbuilding);
-        }
-        .badge-style2 {
-            background: rgba(226, 201, 138, 0.3);
-            color: #8b6914;
-        }
     </style>
 </head>
 <body>
@@ -175,11 +123,6 @@
             <h1>Worldbuilding Workbook</h1>
             <div class="divider"></div>
             <p class="subtitle">A comprehensive guide to building rich fantasy worlds for romantasy writers</p>
-        </div>
-
-        <div class="style-toggle">
-            <button id="btn-original" class="active" onclick="setStyle('original')">Original</button>
-            <button id="btn-style2" onclick="setStyle('style2')">Style #2</button>
         </div>
 
         <h2>Introduction</h2>
@@ -295,34 +238,5 @@
         </footer>
     </div>
 
-    <script>
-        function setStyle(style) {
-            const links = document.querySelectorAll('.section-list a');
-            const btnOriginal = document.getElementById('btn-original');
-            const btnStyle2 = document.getElementById('btn-style2');
-
-            if (style === 'style2') {
-                btnStyle2.classList.add('active');
-                btnOriginal.classList.remove('active');
-                links.forEach(link => {
-                    link.href = link.href.replace('/paged_sections/', '/paged_sections_style2/');
-                });
-            } else {
-                btnOriginal.classList.add('active');
-                btnStyle2.classList.remove('active');
-                links.forEach(link => {
-                    link.href = link.href.replace('/paged_sections_style2/', '/paged_sections/');
-                });
-            }
-
-            localStorage.setItem('workbook-style', style);
-        }
-
-        // Restore preference on load
-        const saved = localStorage.getItem('workbook-style');
-        if (saved === 'style2') {
-            setStyle('style2');
-        }
-    </script>
 </body>
 </html>
