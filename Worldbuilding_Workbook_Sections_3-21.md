@@ -53,6 +53,7 @@ Before you can show how culture affects romance, you need to understand how peop
 
 | Time | What Happens |
 | --- | --- |
+| Morning | Prayer at dawn; light breakfast; nobles receive petitioners while commoners begin work in fields or shops |
 | Morning |  |
 | Midday |  |
 | Afternoon/Evening |  |
@@ -132,6 +133,8 @@ ___
 
 | Class | Typical Meal |
 | --- | --- |
+| Wealthy/noble | Multiple courses, meat daily, imported spices, wine — meals are social performances |
+| Common/poor | Bread, pottage, vegetables in season, meat only on feast days — meals are fuel |
 | Wealthy/noble |  |
 | Middle/merchant |  |
 | Common/poor |  |
@@ -362,6 +365,7 @@ What's forbidden reveals what a culture fears. In romantasy, taboos create your 
 
 | Category | Taboo Behaviors |
 | --- | --- |
+| Physical (touch, proximity, eye contact) | Unmarried people can't be alone together; touching someone's hair is deeply intimate; sustained eye contact between strangers is aggressive |
 | Physical (touch, proximity, eye contact) |  |
 | Verbal (certain words, discussing feelings) |  |
 | Social (cross-class interaction, being alone together) |  |
@@ -443,6 +447,8 @@ In many cultures, who can touch whom — and how — is heavily regulated. Touch
 
 | Category | What's Included |
 | --- | --- |
+| Always acceptable | Formal handshake when introduced; brief touch on arm to get attention; passing objects hand to hand |
+| Borderline or scandalous | Hand-holding without gloves; dancing closer than arm's length; any touch lasting more than a moment |
 | Always acceptable |  |
 | Acceptable in certain contexts |  |
 | Borderline or scandalous |  |
@@ -551,6 +557,8 @@ ___
 
 | Step | What Happens |
 | --- | --- |
+| 1 | Formal introduction through families; suitor sends a white rose to indicate interest |
+| 2 | Chaperoned conversations at public events; dancing permitted at balls |
 | 1 |  |
 | 2 |  |
 | 3 |  |
@@ -663,6 +671,8 @@ ___
 
 | Class/Group | How They're Educated |
 | --- | --- |
+| Noble children | Private tutors in languages, history, etiquette; boys learn combat and governance; girls learn household management and diplomacy |
+| Common children | Learn their parents' trade by working alongside them; basic numeracy from market haggling; most cannot read |
 | Noble/wealthy |  |
 | Middle/merchant |  |
 | Common/poor |  |
@@ -717,6 +727,7 @@ Special occasions compress time, force proximity, and create heightened emotiona
 
 | Festival | When & What It Celebrates | Key Traditions |
 | --- | --- | --- |
+| The Veiled Night | Autumn equinox; celebrates the thinning of barriers between worlds | Masquerade ball where identities are hidden; the one night per year when normal courtship rules are suspended — anything that happens "behind the veil" is not acknowledged |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -887,6 +898,8 @@ ___
 | Night at an inn |  |
 | A decent horse |  |
 | A year's comfortable living |  |
+| Day's unskilled labor wage | 5 copper pieces; a skilled craftsman earns 2 silver |
+| Simple meal | 2 copper at a tavern; 1 copper from a street vendor |
 |  |  |
 |  |  |
 
@@ -924,6 +937,9 @@ ___
 
 | Denomination | Material | Value | What's Depicted |
 | --- | --- | --- | --- |
+| Crown | Gold | 100 coppers | Reigning monarch on front, royal crest on back |
+| Talon | Silver | 10 coppers | Griffin clutching a sword |
+| Bit | Copper | Base unit | Sheaf of wheat |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -960,6 +976,8 @@ ___
 
 | Status | Occupations |
 | --- | --- |
+| Highly respected | Court mages, master healers, high priests, landed nobility |
+| Disreputable or shameful | Hedge witches, fortune-tellers, gravediggers, money-lenders |
 | Highly respected |  |
 | Respectable/ordinary |  |
 | Necessary but low-status |  |
@@ -977,6 +995,8 @@ ___
 
 | Level | What Life Looks Like |
 | --- | --- |
+| Wealthy/Elite | Multiple estates, servants for every task, never think about cost, can influence laws |
+| Struggling | One missed harvest from hunger, mending clothes repeatedly, sharing rooms with strangers |
 | Wealthy/Elite |  |
 | Comfortable |  |
 | Getting by |  |
@@ -1260,14 +1280,14 @@ ___
 
 *This person (or council) controls your characters' fate. Do they have reason to help or hinder the romance?*
 
-| Aspect | Details |
-| --- | --- |
-| Title/Position | |
-| Name | |
-| How they gained power | |
-| How long they've ruled | |
-| | |
-| | |
+| Aspect | Details | Example |
+| --- | --- | --- |
+| Title/Position | | *High Queen of the Thornwood Realm* |
+| Name | | *Queen Isaveth Dawnmere — feared and revered in equal measure* |
+| How they gained power | | *Inherited through the sacred bloodline after her mother's mysterious death; rumors persist of darker means* |
+| How long they've ruled | | *Twelve years — long enough to consolidate power, short enough that rivals still remember alternatives* |
+| | | |
+| | | |
 
 #### What do they want?
 
@@ -1300,6 +1320,8 @@ ___
 | Religious reinterpretation | | |
 | Revolution/conquest | | |
 | Legal challenge/appeal | | |
+| Royal decree | The monarch can issue new edicts at will; nobles may petition for reversal | Easy for small matters; controversial changes invite rebellion |
+| Ancient compact | Laws bound by magic at the realm's founding; breaking them has catastrophic consequences | Considered impossible until someone discovers a loophole |
 | | | |
 | | | |
 
@@ -1317,6 +1339,8 @@ ___
 
 | Enforcement Body | What They Handle | Who Controls Them |
 | --- | --- | --- |
+| The Queen's Shadow | Political crimes, treason, threats to the crown | Reports directly to the Queen; answers to no one else |
+| City Watch | Common crimes, public order, market disputes | Local lord or city council; quality varies wildly by district |
 | | | |
 | | | |
 | | | |
@@ -1651,10 +1675,10 @@ ___
 
 *The gap between them creates the romantic tension. What does each take for granted that the other has never experienced?*
 
-| Character | Class Position |
-| --- | --- |
-| Protagonist | |
-| Love Interest | |
+| Character | Class Position | Example |
+| --- | --- | --- |
+| Protagonist | | *Hedge mage (unlicensed) — operates outside guild law, tolerated in villages but arrested on sight in cities* |
+| Love Interest | | *Commander of the Warden Order — military elite, sworn to enforce the king's laws, including the ban on unlicensed magic* |
 
 #### How many ranks separate them?
 
@@ -1969,10 +1993,10 @@ Your couple doesn't exist in a vacuum. Political factions may support or oppose 
 
 *Factional loyalty creates another layer of obligation and potential betrayal in the romance.*
 
-| Character | Faction |
-| --- | --- |
-| Protagonist | |
-| Love Interest | |
+| Character | Faction | Example |
+| --- | --- | --- |
+| Protagonist | | *The Ember Guard — elite fire-mage corps defending the northern border* |
+| Love Interest | | *The Ember Guard (officially) — but secretly allied with reformers who believe command is hiding the true cause of the war* |
 
 #### Are they on the same side, opposite sides, or unaligned?
 
@@ -2093,19 +2117,19 @@ If your characters are on opposite sides of a war, their relationship is treason
 
 If yes:
 
-| Aspect | Protagonist | Love Interest |
-| --- | --- | --- |
-| What conflict | | |
-| Their side | | |
+| Aspect | Protagonist | Love Interest | Example |
+| --- | --- | --- | --- |
+| What conflict | | | *The Purge — systematic suppression of wild magic users by the Crown's Wardens* |
+| Their side | | | *She's a wild mage (hunted) / He's a Warden captain (hunter)* |
 
 #### What does each side believe about the other?
 
 *Propaganda, stereotypes, justified grievances:*
 
-| Side | What They Believe About the Enemy |
-| --- | --- |
-| Protagonist's side | |
-| Love interest's side | |
+| Side | What They Believe About the Enemy | Example |
+| --- | --- | --- |
+| Protagonist's side | | *Wardens are killers who drag innocents from their homes; the Crown uses fear to control what it can't understand* |
+| Love interest's side | | *Wild mages are unstable and dangerous; their uncontrolled power has destroyed villages; they must be contained for everyone's safety* |
 
 #### What would each character's people say about them loving the enemy?
 
@@ -2688,12 +2712,12 @@ ___
 
 ## Integration Check
 
-| Question | Answer |
-| --- | --- |
-| How does your government control, use, or fear magic? | |
-| What magical law most affects your characters? | |
-| Could magic let them bypass political obstacles? If yes, why don't they? | |
-| Does government have magical enforcement (truth spells, tracking, binding oaths)? | |
+| Question | Answer | Example |
+| --- | --- | --- |
+| How does your government control, use, or fear magic? | | *The Crown licenses all mages through the Guild; unlicensed magic is a capital offense; Wardens are the enforcement arm* |
+| What magical law most affects your characters? | | *Practicing magic without a Guild seal is punishable by death — she's guilty by nature, not choice* |
+| Could magic let them bypass political obstacles? If yes, why don't they? | | *She could enchant her way free, but using wild magic in the capital would prove she's exactly the threat they claim* |
+| Does government have magical enforcement (truth spells, tracking, binding oaths)? | | *Ward-stones at city gates that detect unlicensed magic; binding oaths for Wardens that compel them to report wild mages* |
 
 ## The Core Political Obstacle
 
@@ -2724,19 +2748,19 @@ ___
 
 ## Quick Reference: Political Stakes
 
-| Element | Your World |
-| --- | --- |
-| The law(s) that forbid the romance | |
-| Consequences if caught | |
-| Who enforces and how aggressively | |
-| Political enemy who opposes them | |
-| Political ally who supports them | |
-| State of conflict (war/peace) | |
-| Military obligations affecting the romance | |
-| Source of genuine enmity (if enemies-to-lovers) | |
-| What each loses by choosing the other | |
-| The political crisis point | |
-| How it resolves | |
+| Element | Your World | Example |
+| --- | --- | --- |
+| The law(s) that forbid the romance | | *Wild magic is a capital crime; she IS a wild mage. Harboring one means treason.* |
+| Consequences if caught | | *Execution for her; stripped of rank and imprisoned for him as a Warden who sheltered a mage* |
+| Who enforces and how aggressively | | *The Crown's Wardens — trained from youth to hunt and contain unlicensed magic users* |
+| Political enemy who opposes them | | *The Lord Warden — his mentor, who will personally sign the execution order* |
+| Political ally who supports them | | *A Guild mage who believes wild magic should be studied, not destroyed; a fellow Warden who owes him his life* |
+| State of conflict (war/peace) | | *Cold war — wild mages hide, Wardens seek. A rogue mage's attack could tip it into open persecution* |
+| Military obligations affecting the romance | | *He's sworn to report all wild mages. She's promised to protect others like her at any cost.* |
+| Source of genuine enmity (if enemies-to-lovers) | | *His order destroyed her village. Her people killed Wardens he trained beside.* |
+| What each loses by choosing the other | | *She: her hidden community, her safety. He: his rank, his brotherhood, his identity as protector.* |
+| The political crisis point | | *Her power is exposed publicly; he must choose who to betray.* |
+| How it resolves | | *They break from both sides, working to reform the system rather than serve it blindly.* |
 
 > **Politics creates real stakes.** Your political worldbuilding doesn't need to be perfectly realistic — it needs to create meaningful obstacles that require growth, sacrifice, or systemic change to overcome. If breaking the law means war, if being caught means death, you have stakes worth writing about.
 
@@ -2838,28 +2862,33 @@ Identify the gods or spiritual forces that exist in your world. Focus on those r
 
 #### Deity/Power 1:
 
-| Aspect | Details |
-| --- | --- |
-| Name | |
-| Domain (what they govern) | |
-| Personality/nature | |
-| What they demand from followers | |
-| What they offer in return | |
+| Aspect | Details | Example |
+| --- | --- | --- |
+| Name | | *Aelindra, the Shining Mother — creator goddess, wellspring of all life and light* |
+| Domain (what they govern) | | *Creation, healing, the cycle of life and death, the sacred flame* |
+| Personality/nature | | *Distant but loving; works through her chosen, not direct intervention* |
+| What they demand from followers | | *Service to the greater good, celibacy for her priestesses, protection of the innocent* |
+| What they offer in return | | *Magic (for those who can channel it), community, purpose, reunion in the afterlife* |
 
 #### Deity/Power 2:
 
-| Aspect | Details |
-| --- | --- |
-| Name | |
-| Domain | |
-| Personality/nature | |
-| What they demand | |
-| What they offer | |
+| Aspect | Details | Example |
+| --- | --- | --- |
+| Name | | *Vorathrax the Undying — the great shadow, enemy of all light* |
+| Domain | | *Darkness, entropy, corruption, the unmaking of things* |
+| Personality/nature | | *Patient malevolence, consuming hunger; sleeps beneath the earth but stirs in the long dark* |
+| What they demand | | *Everything — he does not bargain, only devours* |
+| What they offer | | *Nothing but the end of suffering (through annihilation)* |
 
 #### Deity/Power 3 (if applicable):
 
 | Aspect | Details |
 | --- | --- |
+| Name | Seluris, the Silver Lady — goddess of twilight, secrets, and forbidden love |
+| Domain | The liminal spaces: dusk and dawn, doorways and crossroads, love that defies boundaries |
+| Personality/nature | Mysterious, neither cruel nor kind; favors those who risk everything for what they desire |
+| What they demand | A secret kept, a vow made in moonlight; she does not ask for worship, only authenticity |
+| What they offer | Safe passage through dangerous transitions; blessings on unions the world condemns |
 | Name | |
 | Domain | |
 | Personality/nature | |
@@ -2885,22 +2914,22 @@ Gods may exist, but institutions are where religion becomes power. The temple, t
 
 *Focus on institutions that could affect your romance: those that might forbid, bless, or complicate your characters' relationship.*
 
-| Institution | Function | Power They Hold |
-| --- | --- | --- |
-| | | |
-| | | |
-| | | |
-| | | |
+| Institution | Function | Power They Hold | Example |
+| --- | --- | --- | --- |
+| | | | *The Luminari Temple — controls spiritual truth, legitimizes the crown, commands the holy guard* |
+| | | | *The Circle of Thorns — hidden network of hedge witches, preserving forbidden knowledge and old magic* |
+| | | | |
+| | | | |
 
 #### Who leads religious institutions?
 
 *These leaders may become allies or antagonists. Consider who holds power to help or harm your characters' relationship.*
 
-| Position | Title | How They Gain Authority |
-| --- | --- | --- |
-| Highest authority | | |
-| Local/regional leaders | | |
-| Day-to-day clergy | | |
+| Position | Title | How They Gain Authority | Example |
+| --- | --- | --- | --- |
+| Highest authority | | | *The High Luminar — rises through temple hierarchy, confirmed by divine omen and council vote* |
+| Local/regional leaders | | | *Flame Keepers — assigned by the High Luminar, oversee regional temples and sacred rites* |
+| Day-to-day clergy | | | *Acolytes and Tenders — trained in the temple schools, serve the faithful in daily worship* |
 
 #### How much power does religious authority have?
 
@@ -2946,7 +2975,8 @@ Religion isn't just institutions and doctrine — it's the small daily acts that
 
 | Practice | When/How Often | What It Involves |
 | --- | --- | --- |
-| *e.g., Morning observance* | *At sunrise* | *Touch the heart and lips, whisper a prayer* |
+| Morning observance | At sunrise, facing east | Touch the heart and lips, whisper a prayer of gratitude for the new day |
+| Meal rituals | Before the first bite | Leave a small portion aside for the ancestors; eating it is deeply disrespectful |
 | Morning observance | | |
 | Meal rituals | | |
 | Evening observance | | |
@@ -3385,11 +3415,11 @@ ___
 
 *Religious roles often carry vows and obligations that directly conflict with romantic love.*
 
-| Aspect | Details |
-| --- | --- |
-| Position | |
-| Vows or obligations | |
-| What they'd lose by leaving | |
+| Aspect | Details | Example |
+| --- | --- | --- |
+| Position | | *Sworn Sister of the Silver Veil — warrior-priestess bound by sacred oath to defend the sacred flame* |
+| Vows or obligations | | *Celibacy, secrecy, protection of the temple and its relics at all costs* |
+| What they'd lose by leaving | | *Her sisterhood, her identity, her purpose, her place in the only family she has ever known* |
 
 #### Does religious authority oppose or support the relationship?
 
@@ -3504,11 +3534,11 @@ Being chosen by the gods is a burden as much as a gift. Divine purpose competes 
 
 *Being chosen creates obligations that compete with personal desire. What does destiny demand that love cannot give?*
 
-| Aspect | Details |
-| --- | --- |
-| Which character | |
-| What marks them | |
-| What they're chosen to do | |
+| Aspect | Details | Example |
+| --- | --- | --- |
+| Which character | | *Elara — the Vessel, supposedly chosen by the goddess to carry the divine flame and purify the world* |
+| What marks them | | *Her title, her isolation, the silver brand on her palm, the "blessing" that lets her channel sacred fire* |
+| What they're chosen to do | | *Undergo the Rite of Ascension and become a living conduit for the goddess — but the truth of what that requires is far darker than she's been told* |
 
 #### How does divine purpose conflict with personal desire?
 
@@ -3640,26 +3670,26 @@ ___
 
 ## Integration Check
 
-| Question | Answer |
-| --- | --- |
-| How does religion explain or relate to magic? | |
-| How does religion legitimize or conflict with government? | |
-| How do cultural taboos relate to religious law? | |
-| Could your characters use religion to legitimize their relationship? | |
-| Or does religion make legitimizing impossible? | |
+| Question | Answer | Example |
+| --- | --- | --- |
+| How does religion explain or relate to magic? | | *The temple teaches that magic flows from the goddess's sacred flame — a divine gift. Hedge magic drawn from other sources is considered corrupt and dangerous* |
+| How does religion legitimize or conflict with government? | | *The queen's right to rule comes from her consecration by the High Luminar; the Silver Veil protects the throne but operates outside secular law* |
+| How do cultural taboos relate to religious law? | | *Celibacy is a Veil oath, not state law — but breaking it means exile from the sacred order and loss of all standing* |
+| Could your characters use religion to legitimize their relationship? | | *If the ancient darkness falls and she survives, she could argue her love gave her strength — redefining faith to include it* |
+| Or does religion make legitimizing impossible? | | *The vows are clear: a Sworn Sister serves the flame, not her own heart. There is no loophole, only the choice to break or keep faith* |
 
 ## Quick Reference: Religious Stakes
 
-| Element | Your World |
-| --- | --- |
-| Primary religious obstacle | |
-| What faith demands | |
-| What they'd lose by violating religious law | |
-| The prophecy (if applicable) | |
-| Key holy day or sacred time | |
-| Religious consequence if they're together | |
-| The divine choice (when they must choose faith or love) | |
-| How religion resolves | |
+| Element | Your World | Example |
+| --- | --- | --- |
+| Primary religious obstacle | | *She's sworn to a celibate holy order; love means breaking sacred vows* |
+| What faith demands | | *Lifelong devotion, chastity, protection of the sacred flame above all else* |
+| What they'd lose by violating religious law | | *Her sisterhood, her purpose, her identity as a Sworn Sister — everything she's trained for* |
+| The prophecy (if applicable) | | *The ancient darkness will rise; only the faithful can stop it — is love a distraction or a source of strength?* |
+| Key holy day or sacred time | | *The vigil before taking final vows — the last moment to choose differently* |
+| Religious consequence if they're together | | *Expulsion from the order; seen as corrupted, unreliable, fallen* |
+| The divine choice (when they must choose faith or love) | | *The world needs her as a warrior-priestess; she wants a life with the one she loves* |
+| How religion resolves | | *She redefines faith — love as strength, not weakness; service to the world, not just the order* |
 
 > **Faith must feel real.** Even if you're not religious, your characters might be. Build a religion that matters enough to fight for, against, or to redefine — one where choosing love over faith is a genuine sacrifice, not an obvious decision.
 
@@ -3729,7 +3759,8 @@ ___
 
 | Institution | What It Holds | Who Can Access It |
 | --- | --- | --- |
-| Libraries/archives | Chronicles of the realm, treaties, lineage records going back twelve generations | Scholars with royal writ; nobility by right; others by petition |
+| Libraries/archives | Chronicles of the realm, treaties, lineage records going back twelve generations | Scholars with royal writ; nobility by right; others by petition and bribery |
+| Magical repositories | Spell grimoires, accounts of magical catastrophes, records of forbidden workings | Only initiated mages; the knowledge inside is considered too dangerous for the uninitiated |
 | Temples/religious centers |  |  |
 | Royal/noble collections |  |  |
 | Bardic colleges |  |  |
@@ -3923,13 +3954,13 @@ Identify the events that shaped your world — especially the ones relevant to y
 
 *This is the event everyone references, the "before and after" that defines eras. How does it affect your characters?*
 
-| Aspect | Details |
-| --- | --- |
-| What happened |  |
-| When |  |
-| Who was involved |  |
-| Immediate consequences |  |
-| Long-term effects still felt today |  |
+| Aspect | Details | Example |
+| --- | --- | --- |
+| What happened |  | *The Sundering — a catastrophic war between fae and mortals that shattered the land bridge connecting both realms* |
+| When |  | *500 years ago — ancient enough to be legend, recent enough that the fae remember it firsthand* |
+| Who was involved |  | *All five fae courts united against the mortal kingdoms; devastating losses on both sides* |
+| Immediate consequences |  | *The Veil erected between realms, sealing fae and mortals apart; the Treaty of Thorns binding both sides* |
+| Long-term effects still felt today |  | *Fae view mortals as treacherous; mortals fear fae as monsters; the Veil is weakening; no one trusts the peace to hold* |
 
 ### Other Significant Events
 
@@ -4009,6 +4040,7 @@ Every history has its heroes, villains, and legendary names.
 | Hero | What They Did | How They're Remembered |
 | --- | --- | --- |
 | Eiravel the Undying | United the warring kingdoms; died holding the mountain pass against the demon horde alone | Statues in every city square; invoked before battles; the standard all rulers are measured against |
+| Lady Morgaine Blackthorn | Defied the High Council to save her lover from execution; sparked the Rebellion of Roses | Controversial: traitor to some, symbol of love's power to others; her ballad still sung at weddings |
 |  |  |  |
 |  |  |  |
 
@@ -4019,6 +4051,7 @@ Every history has its heroes, villains, and legendary names.
 | Villain | What They Did | How They're Remembered |
 | --- | --- | --- |
 | The Pale King | Broke the ancient compact; unleashed the Blight that killed half the continent | His name is never spoken aloud; his sealed tower still stands, forbidden |
+| Queen Seraphine the Betrayer | Poisoned the peace delegation; murdered her husband to seize sole power | Her portrait hangs reversed in the palace; her descendants changed their names |
 |  |  |  |
 |  |  |  |
 
@@ -4731,6 +4764,7 @@ If your characters use specific spells, abilities, or powers, tracking them keep
 | Ability/Spell | What It Does | Cost/Limitation |
 | --- | --- | --- |
 | Shadow-step | Move instantly between shadows within sight | Exhausting; can't carry others; fails in full sunlight |
+| Pain-reading | Sense others' physical injuries through touch | Feels echoes of their pain; overwhelming in crowds |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -4781,6 +4815,7 @@ ___
 | Language | Who Speaks It | Status |
 | --- | --- | --- |
 | Common Tongue | Everyone in the human kingdoms; traders from other realms | Common — the language of commerce and daily life; considered unsophisticated by nobles |
+| High Fae | The Fae courts; human scholars and diplomats who've studied it | Prestigious — spoken at court; magical contracts must be written in it to be binding |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -5504,6 +5539,7 @@ ___
 | Method | Speed | Cost | Who Has Access |
 | --- | --- | --- | --- |
 | Riding animals | 40-50 miles/day at easy pace | A good horse costs a year's wages for a laborer | Nobility, wealthy merchants, military; commoners walk |
+| Magical transport | Instantaneous between paired mirrors | Priceless — only three working mirror-gates exist | Royal family only; using one without permission is treason |
 | On foot |  |  |  |
 | Vehicles (carts, carriages) |  |  |  |
 | Ships/boats |  |  |  |
@@ -5577,6 +5613,7 @@ ___
 | Method | Speed | Reliability | Privacy |
 | --- | --- | --- | --- |
 | Courier/postal system | 3-7 days between major cities | Reasonably reliable; royal post is faster but expensive | Low — anyone can read it en route; use codes for secrets |
+| Magical communication | Instant for bonded pairs | Perfect between bonded items; requires rare enchantment | High — only the bonded holder can activate it |
 | Hand-delivered letters |  |  |  |
 | Messenger birds |  |  |  |
 | Signal systems (fire, flags) |  |  |  |
@@ -6302,6 +6339,8 @@ ___
 
 | Time Period | What It's Called |
 | --- | --- |
+| Dawn | "First light," "the waking hour" |
+| Midday | "High sun," "the resting hour" |
 | Dawn/Morning |  |
 | Midday |  |
 | Afternoon |  |
@@ -6346,8 +6385,8 @@ ___
 
 | Month/Period | Season | Named For |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
+| Frostmoon | Deep winter | The time of deepest cold when the moon seems frozen |
+| Sowing | Early spring | When fields are planted |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -6402,7 +6441,7 @@ Some moments in time carry weight. The anniversary of a battle, the day magic wa
 
 | Date/Period | What Happened | How It's Marked |
 | --- | --- | --- |
-|  |  |  |
+| The Long Night (winter solstice) | When the barrier between realms is thinnest | Bonfires, staying awake until dawn, protective rituals |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -6438,22 +6477,22 @@ And remember: magic in romantasy isn't just about battles and plot problems. It'
 
 Magic doesn't have to mean spellcasting. Here are different approaches to inspire you — mix and match, or invent your own.
 
-| Type | How It Works |
-| --- | --- |
-| **Elemental** | Control over natural forces (fire, water, earth, air) |
-| **Spellcasting** | Words, gestures, or rituals produce specific effects |
-| **Innate/Inborn** | Powers you're born with, often tied to bloodline |
-| **Blood/Sacrifice** | Power drawn from blood, pain, or giving something up |
-| **Emotional/Will-Based** | Magic fueled by feelings, desire, or force of will |
-| **Bond-Based** | Magic tied to a connection with another being |
-| **Artifact-Based** | Power resides in objects, not people |
-| **Transformation** | Ability to change form |
-| **Necromancy** | Power over death, spirits, or life's boundary |
-| **Bargain/Contract** | Power gained through deals or binding agreements |
-| **Symbiotic/Parasitic** | Magic requires or is enhanced by another being |
-| **Music/Art-Based** | Creation through song, art, or expression |
-| **True Names** | Power from knowing the true nature of things |
-| **Psychic/Mental** | Mind-reading, telekinesis, mental influence |
+| Type | How It Works | Example |
+| --- | --- | --- |
+| **Elemental** | Control over natural forces (fire, water, earth, air) | A stormcaller who can summon wind and lightning but loses body heat with each casting |
+| **Spellcasting** | Words, gestures, or rituals produce specific effects | A scholar-mage who must speak incantations in the Old Tongue to shape reality |
+| **Innate/Inborn** | Powers you're born with, often tied to bloodline | Royal bloodlines carry the gift of foresight, growing stronger each generation |
+| **Blood/Sacrifice** | Power drawn from blood, pain, or giving something up | A healer who takes others' wounds into her own body to mend them |
+| **Emotional/Will-Based** | Magic fueled by feelings, desire, or force of will | A warrior whose rage manifests as fire — the angrier he gets, the more destructive |
+| **Bond-Based** | Magic tied to a connection with another being | Riders bonded to war-griffins who share senses and can communicate wordlessly |
+| **Artifact-Based** | Power resides in objects, not people | Ancient crowns that grant their wearer command over stone and earth |
+| **Transformation** | Ability to change form | Skinwalkers who can take the shape of any animal whose pelt they wear |
+| **Necromancy** | Power over death, spirits, or life's boundary | A bone-singer who can raise the dead but ages a year for every corpse awakened |
+| **Bargain/Contract** | Power gained through deals or binding agreements | Fae bargains sealed in moonlight that bind both parties with unbreakable terms |
+| **Symbiotic/Parasitic** | Magic requires or is enhanced by another being | A mage-pair where one channels raw power and the other shapes it into form |
+| **Music/Art-Based** | Creation through song, art, or expression | Weavers who sing spells into cloth, creating tapestries that alter reality |
+| **True Names** | Power from knowing the true nature of things | Speaking a river's true name lets you command its current; knowing a person's grants influence over them |
+| **Psychic/Mental** | Mind-reading, telekinesis, mental influence | A spymaster who can read surface thoughts but suffers migraines from prolonged use |
 
 #### Which type(s) best describe your magic system?
 
@@ -6543,6 +6582,9 @@ ___
 
 | Aspect | Details |
 | --- | --- |
+| Protagonist's magical status | Latent power, newly awakened; untrained but potentially immense; she's only beginning to understand what she can do |
+| Love Interest's magical status | Fully trained, centuries of control; he's considered one of the most powerful mages alive but hides the true extent |
+| What this means for their dynamic | He could easily overpower her — so he holds back; she resents being protected but also fears hurting him if she loses control |
 | Protagonist's magical status |  |
 | Love Interest's magical status |  |
 | What this means for their dynamic |  |
@@ -7848,8 +7890,9 @@ ___
 
 | Character | Position on Magical Authority |
 | --- | --- |
-| Protagonist | |
-| Love Interest | |
+| Protagonist (example) | Secretly practices forbidden shadow magic; must hide abilities from the Mage Registry or face execution |
+| Protagonist |  |
+| Love Interest |  |
 
 #### How might their positions regarding magical authority create tension between them — or force them into alliance?
 
@@ -8021,6 +8064,8 @@ ___
 
 | Constraint Type | Specific Details |
 | --- | --- |
+| Time pressure (example) | Must complete the bonding ritual before the spring equinox or lose claim to the throne; only 6 weeks remain |
+| External threat (example) | Enemy army three months away; alliance marriage to the rival kingdom's prince is the only way to secure reinforcements |
 | Physical (size, layout, barriers) |  |
 | Temporal (how long they are stuck) |  |
 | Survival (needs that must be met) |  |
@@ -8404,6 +8449,8 @@ ___
 
 |  |  |
 | --- | --- |
+| First year (example) | Basic magic training, no outside contact allowed, shared dormitories with four to a room; protagonist starts here |
+| Inner Circle (example) | Elite fourth-years with private chambers and direct access to the Archmage; love interest holds this position |
 | Privileges at the top: |  |
 | Consequences at the bottom: |  |
 |  |  |
@@ -8465,6 +8512,8 @@ ___
 
 |  |  |
 | --- | --- |
+| Queen's Inner Circle (example) | Twelve advisors with private audience rights; love interest is the youngest member ever appointed, causing resentment |
+| Lady-in-Waiting (example) | Protagonist's cover position; grants access to royal quarters but no political voice; must attend the princess constantly |
 | Protagonist's position: |  |
 | Love interest's position: |  |
 |  |  |
@@ -8526,6 +8575,8 @@ ___
 
 |  |  |
 | --- | --- |
+| Commander (example) | Leads 500 soldiers in the northern battalion; protagonist earned position through merit despite noble opposition |
+| War Mage (example) | Love interest is assigned to protagonist's unit as magical support; outranks her in magic but answers to her in battle |
 | Protagonist: |  |
 | Love interest: |  |
 |  |  |
@@ -8940,6 +8991,8 @@ For each moment, consider: Does this scene *need* a specific location, or could 
 
 | Moment | Happens In | Why It Must Happen There |
 | --- | --- | --- |
+| First real conversation (example) | The palace's hidden library | Only place in court without magical surveillance; both discovered it separately while hiding secrets |
+| First kiss (example) | The cliffside ruins at sunset | Ancient warding stones block tracking magic; surrounded by deadly drop that makes rescue impossible if discovered |
 | Moment 1 |  |  |
 | Moment 2 |  |  |
 | Moment 3 |  |  |
@@ -9112,6 +9165,8 @@ Some locations appear multiple times in a story. Each return should feel differe
 
 | Visit | Relationship State | What Is Different |
 | --- | --- | --- |
+| First visit (example) | Enemies forced together | She keeps her back to the wall; he stays near the exit; they speak in clipped, formal sentences |
+| Final visit (example) | Committed partners | They move around each other naturally; she sits in his chair; the space feels like theirs now |
 | First visit |  |  |
 | Second visit |  |  |
 | Third visit |  |  |
@@ -9719,6 +9774,8 @@ ___
 
 |  |  |
 | --- | --- |
+| Soul bond (example) | Rare connection allowing partners to sense each other's emotions and location across any distance; forms without warning |
+| Trial of Hearts (example) | Ancient fae ritual requiring both partners to face their deepest fears together; only way to legitimize a bond between courts |
 | Protagonist chooses: |  |
 | At the cost of: |  |
 | Love interest chooses: |  |
@@ -9969,6 +10026,8 @@ These can flex slightly without breaking trust:
 
 |  |  |
 | --- | --- |
+| Protagonist's magic tie (example) | Her dormant fire magic awakens during moments of strong emotion, especially around the love interest; she cannot yet control it |
+| Academy rebel (example) | Breaks curfew regularly, questions ancient traditions openly, has drawn the attention of both reformers and enforcers |
 | 1. |  |
 | 2. |  |
 | 3. |  |
@@ -10104,7 +10163,7 @@ ___
 
 | From | To | Travel Time |
 | --- | --- | --- |
-|  |  |  |
+| Ironspire Keep (example) | The Warden's Border | Three days by horse; portal magic forbidden across territorial lines without diplomatic seal |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -11232,6 +11291,9 @@ ___
 
 | Story Point | Who Has Power | Worldbuilding Reason |
 | --- | --- | --- |
+| Early story (example) | Prince Kael (love interest) | He controls her freedom as political hostage; she's a prisoner in his court |
+| Midpoint (example) | Balanced / shifting | She discovers she's the only one who can break his kingdom's curse; he needs her |
+| Near end (example) | Lirien (protagonist) | She's mastered her magic and could destroy him; she chooses alliance instead |
 | Early story |  |  |
 | Midpoint |  |  |
 | Near end |  |  |
@@ -11763,7 +11825,7 @@ ___
 
 | From | To | Time |
 | --- | --- | --- |
-|  |  |  |
+| Thornhaven Castle (example) | The Fae Borderlands | 3 days by horse, 1 day through the shadow roads (but dangerous) |
 |  |  |  |
 |  |  |  |
 |  |  |  |
