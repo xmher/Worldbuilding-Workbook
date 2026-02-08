@@ -1,52 +1,47 @@
-# SECTION 2: Flora, Fauna & Ecosystems
-
-The natural world does more than populate scenery. It feeds your population, clothes them, provides medicine, creates danger, enables trade, and sometimes forges bonds between characters. Before you can use nature to serve your story, you need to understand how the ecosystem actually works.
-
-This section is divided into two parts:
-
-**Part One: The Foundation** — How the natural world actually works. What people eat, what animals they rely on, what plants they use, what creatures pose danger. This is the ecological baseline that exists regardless of your characters' romantic situation.
-
-**Part Two: Nature & Romance** — How the natural world creates romantic tension. Creature bonds that parallel romantic bonds, survival situations that force trust, caring for animals together, inter-species love (if one or both characters aren't human).
-
-You need both.
-
----
+# Section Two — Flora, Fauna & Ecosystems
 
 ## A Note Before You Begin
 
-Not every question will apply to your story. **Skip what doesn't fit.**
+Not every question in this section will apply to your story. Skip what doesn't fit.
 
-**If your world is Earth-like, you don't need to reinvent the wheel.** Focus on what's *different* from the baseline readers will assume: the magical creatures, the plants with supernatural properties, the ways magic has changed the ecosystem. Answer the "normal" questions only if something deviates or matters specifically to your story.
+If your world is Earth-like, you don't need to reinvent the wheel. Focus on what's different from the baseline readers will assume. That might be the magical creatures, the plants with supernatural properties, or the ways magic has changed the ecosystem.
 
-**Worldbuild for its own sake if you want.** Use the romance connection prompts for brainstorming if they're helpful, or leave them blank.
+Worldbuild for its own sake if you want. Use the romance connection prompts for brainstorming if they're helpful, or leave them blank.
 
-**Come back later.** If you're not sure whether something matters yet, skip it and return once your story has taken more shape.
+Come back later. If you're not sure whether something matters yet, skip it and return once your story has taken more shape.
 
 ---
 
-## How to Think About Flora & Fauna in Romantasy
+## Thinking About Flora & Fauna in Romantasy
 
-The natural world in romantasy serves story in three ways: as **backdrop** (atmosphere and texture), as **obstacle** (danger, scarcity, survival pressure), or as **connector** (shared experiences, creature bonds, care for animals together). Nature becomes powerful when it creates situations your characters must navigate together.
+The natural world in romantasy serves your story in three ways: as backdrop (atmosphere and texture), as obstacle (danger, scarcity, survival pressure), or as connector (shared experiences, creature bonds, caring for animals together). When the environment presents obstacles that require your characters to work together, it can be particularly compelling.
+
+You don't have to create an entire ecosystem from scratch. Find two or three natural elements that are meaningful to your story and make each one unique.
+
+It also helps to filter nature through your point-of-view character's knowledge and emotional state. A gardener will notice different things than a soldier. A character falling in love sees beauty everywhere, while a grieving character sees sadness everywhere.
 
 ### Nature as Pressure
 
 The natural world can compress your characters together or force them to depend on each other:
+
 - Dangerous wilderness that requires partnership to survive
 - Harsh conditions that demand shared shelter, shared warmth, shared resources
-- Predators that make traveling alone suicidal
+- Predators that make travelling alone suicidal
 - Seasonal pressures that trap them together or create deadlines
 
 ### Nature as Revelation
 
 How characters interact with the natural world reveals who they are:
+
 - How they treat animals (gentle? utilitarian? fearful? cruel?)
 - What they know about survival (competent? helpless? surprisingly skilled?)
-- Their comfort in wilderness versus civilization
+- Their comfort in wilderness versus civilisation
 - Whether they see nature as resource, threat, or home
 
 ### Nature as Connection
 
 Shared experiences with nature build relationships:
+
 - Caring for an injured animal together
 - Surviving a dangerous encounter
 - One teaching the other to ride, hunt, forage, or track
@@ -87,6 +82,25 @@ Shared experiences with nature build relationships:
 
 ---
 
+## The "Wilderness Test" Principle
+
+Nature strips away performance. In a ballroom, characters can hide behind manners, titles, and rehearsed smiles. In the wilderness, they can't. When survival is at stake, and they're wet, cold, exhausted, lost, or hunted, who they really are comes out. That's why so many romances send their leads into the wild together.
+
+Think about what the natural world reveals that civilisation conceals:
+
+- **Competence:** Who knows how to build a fire, find water, or navigate by stars? Who's helpless outside a city? The answer can rearrange power dynamics entirely.
+- **Instinct:** When a predator appears, who fights, who freezes, and who shields the other? Survival instinct bypasses every careful wall a character has built.
+- **Care:** Who shares their rations? Who checks for blisters the other didn't mention? Tenderness in harsh conditions means more than tenderness in comfort.
+- **Vulnerability:** Who admits they're afraid? Who pretends they aren't? Nature creates situations where asking for help isn't optional, and accepting it requires trust.
+
+The wilderness test works because it compresses a relationship's development. Characters who survive something together skip months of careful courtship. Shared danger creates a bond that's harder to dismiss than attraction alone. It's proof that this person chose to protect you when it cost them something.
+
+### The Key Question
+
+What would the natural world reveal about your characters that they'd never show each other in civilisation? What survival situation would force them past their defences?
+
+---
+
 ## Common Mistakes with Flora & Fauna
 
 ### Mistake #1: The Decorative Ecosystem
@@ -95,49 +109,35 @@ Shared experiences with nature build relationships:
 
 **Why it hurts your story:** A world where nature is just scenery feels thin. You're missing opportunities for pressure, revelation, and connection.
 
-**How to fix it:** Make characters interact with nature. They need to eat, travel through wilderness, face dangers. Pick a few plants or animals and make them matter.
+**How to fix it:** Make your characters interact with nature. They need to eat, travel through wilderness, and face dangers. Pick a few plants or animals and make them matter.
 
 ### Mistake #2: The Convenient Creature
 
-**What it looks like:** A magical creature exists solely to bond your characters or give them cool powers. It has no ecology, no behavior patterns, no existence outside its plot function.
+**What it looks like:** A magical creature exists solely to bond your characters or give them cool powers. It has no ecology, no behaviour patterns, and no existence outside its plot function.
 
 **Why it hurts your story:** Creatures that exist only for plot convenience feel engineered. Readers sense when an animal is a device rather than a being.
 
-**How to fix it:** Give creatures lives beyond their plot function. What do they eat? Where do they live? Even bonded creatures should have existence and personality independent of their bonded humans.
+**How to fix it:** Give your creatures lives beyond their plot function. What do they eat? Where do they live? Even bonded creatures should have existence and personality independent of their bonded humans.
 
-### Mistake #3: The Knowledgeless Character
-
-**What it looks like:** Characters who grew up in a medieval-ish world have no idea how to interact with nature. They can't identify common plants, don't know how to care for horses, are surprised by animal behavior that would be common knowledge.
-
-**Why it hurts your story:** It breaks immersion. People in pre-industrial societies know their environment.
-
-**How to fix it:** Match character knowledge to their background. Rural characters should be competent with nature. Nobility would know horses and hunting even if they don't know farming.
-
-### Mistake #4: The Defanged Wilderness
-
-**What it looks like:** The wilderness is described as dangerous, but nothing bad ever happens. Characters travel through the "deadly forest" without incident.
-
-**Why it hurts your story:** Stakes need delivery. If dangerous nature never delivers consequences, readers stop believing in the danger.
-
-**How to fix it:** Let the wilderness be actually dangerous. Show consequences. Let characters get injured, get lost, run out of food. Make survival feel earned.
-
-### Mistake #5: The Bond That Does Everything
+### Mistake #3: The Bond That Does Everything
 
 **What it looks like:** A creature bond exists and immediately solves all relationship problems. The dragons chose them, so they're fated! No further relationship development needed.
 
-**Why it hurts your romance:** It shortcuts the actual work of romance. Readers want to see the relationship built, not handed to them by magical creatures.
+**Why it hurts your romance:** This shortcuts the actual work of romance. Readers want to see the relationship built, not handed to them by magical creatures.
 
-**How to fix it:** Let the bond create circumstances, not feelings. Proximity or shared responsibility, yes — but love, trust, and compatibility must still be built by the characters themselves.
+**How to fix it:** Let the bond create circumstances, not feelings. Proximity and shared responsibility, yes. But love, trust, and compatibility must still be built by the characters themselves.
 
 ---
 
-# PART ONE: THE FOUNDATION
+# Section 2 · Part One — The Foundation
 
 ---
 
 ## The Ecosystem Foundation
 
-What's the general relationship between people and the natural world in your setting? A world where wilderness is mostly tamed has different story possibilities than one where civilization is a fragile island in dangerous nature. You don't need extensive ecology — just a clear sense of the human-nature relationship.
+How do people in your world relate to nature? Is the wilderness mostly tamed, or is civilisation a small foothold surrounded by the unknown? This shapes what your characters take for granted and what they fear.
+
+You can show your world's relationship to nature through small details rather than exposition. A character who bars the door at nightfall lives in a different world than one who sleeps under the open sky. Let nature be a constant presence in the background: weather they check, sounds they listen for, seasons that shape their plans.
 
 **What's the general relationship between people and nature in your world?**
 
@@ -167,9 +167,11 @@ _______________________________________________________________
 
 ## Food Chains & Natural Balance
 
-Understanding what eats what grounds your world in reality and determines what's dangerous in the wilderness. Know the top predators and large herbivores in each major terrain — the wildlife characters might encounter or need to avoid.
+Every ecosystem has a hierarchy: what eats what, what competes for resources, and what keeps populations in check. Your world's food chain tells you what your characters fear in the wilderness and what dangers force them to rely on each other.
 
-*If your world uses Earth-like wildlife, skip most of this — just note magical creatures or significant deviations.*
+Ecological knowledge is also a great way to differentiate your characters. A wilderness guide and a city noble will react very differently to the same forest.
+
+*If your world uses Earth-like wildlife, you can skip most of this. Just note any magical creatures or significant deviations from what readers would expect.*
 
 **What's at the top of the food chain in various environments?**
 
@@ -208,11 +210,9 @@ _______________________________________________________________
 
 ## Domesticated Animals
 
-The animals people have tamed shape daily life, economy, and culture. What pulls the plows? What provides meat, milk, leather, wool? What do people ride?
+The animals people have tamed shape daily life, economy, and culture. What pulls the ploughs? What provides meat, milk, leather, and wool? What do people ride?
 
-For romance, domesticated animals appear in teaching moments, revelation moments (how someone treats animals shows their character), or as quiet witnesses to intimate scenes. Consider also class dimensions: who owns livestock versus who tends it? Is riding a noble skill or common knowledge?
-
-*If your world uses standard Earth animals, just note what's different or what matters to your story.*
+How characters treat animals is one of the simplest and most effective ways to reveal who they are. The stable scene where one character calms a nervous horse while the other hangs back tells us about patience, confidence, and kindness without a word of dialogue. You can use animals as mirrors, letting readers see your characters through how they handle creatures that can't speak back.
 
 **What animals have been domesticated in your world?**
 
@@ -267,9 +267,9 @@ _______________________________________________________________
 
 ## Agriculture & Cultivated Plants
 
-What grows in your world determines what people eat, wear, and trade. Agriculture shapes settlement patterns, seasonal rhythms, and the divide between farming and herding cultures. Harvest festivals bring people together; crop failures create desperation. The rhythm of agricultural life governs when people can travel, celebrate, and court.
+What people grow determines what they eat, wear, trade, and go to war over. Farming affects the rhythm of people's days, the seasons of their lives, and the wealth of their economies.
 
-*If your world has Earth-like agriculture, skip the basics and focus on what's unique: magical crops, supernatural plants, or specific foods that matter to your story.*
+Food is one of the best tools you have for grounding readers in your world. Rather than simply mentioning that characters eat, try describing what they eat and how. A shared meal of unfamiliar food creates both intimacy and vulnerability. Harvest seasons, crop failures, and food scarcity can drive entire plots. And when your character notices what's growing in someone's garden, they're noticing something about that person's life.
 
 **What are the staple crops?**
 
@@ -326,9 +326,9 @@ _______________________________________________________________
 
 ## Wild Plants & Foraging
 
-Beyond cultivation, the wild provides — for those who know how to find it. Foraging knowledge is often the difference between survival and starvation.
+Wild plants are the pharmacy, pantry, and poison cabinet of pre-industrial worlds. What grows wild determines what people can survive on when crops fail, what healers reach for in emergencies, and what dangers lurk in an unfamiliar forest.
 
-In romance, foraging scenes create opportunities for one character to teach another, demonstrating competence and care. A character who can keep their partner fed in the wilderness is providing something fundamental. Poisonous plants matter too — both as genuine danger and as plot device.
+Foraging knowledge is a wonderful way to reveal a character's background and create teaching moments between your leads. One character showing another which berries are safe to eat is an intimate act of care and trust. The forest that seems threatening to a city-raised character feels like home to someone who grew up gathering herbs with their grandmother.
 
 **What can be safely gathered from the wild?**
 
@@ -366,11 +366,11 @@ _______________________________________________________________
 
 ## Medicine & Healing
 
-How people treat illness and injury affects everything from battlefield survival to childbirth to plague. The healing scene is a romance staple because it creates vulnerability, physical intimacy, and care.
+The healing scene is one of the most well-known tropes in romance genres in general. Personally it's a top 5 trope for me as I absolutely love how it provides an opportunity for characters to be physically closer to each other, especially when either one or both of them aren't comfortable with that idea yet. How people treat illness and injury affects everything from battlefield survival to childbirth to plague.
 
-Consider the gap between mundane and magical healing. If magical healing exists, who has access? What can it do that herbs can't? If it's rare or expensive, knowing herbs and remedies remains valuable.
+It's also worth considering the gap between mundane and magical healing. If magical healing exists, who has access? What can it do that herbs can't? If it's rare or expensive, knowing herbs and remedies remains valuable, and the character who knows them becomes indispensable.
 
-*If your world uses Earth-like medicine, focus on what's different: magical healing, unique supernatural plants, or the mundane-vs-magical divide.*
+When you write a healing scene, slow it down as much as possible. These moments are all about the little things — like how hot the water feels, the burning from antiseptic, or the gentle pressure of wrapping a bandage. Allow your injured character to truly feel weak as opposed to being stoic. The physical act of caring for an injured person can potentially bubble up feelings of attraction between the two characters, therefore, let the healer have the ability to know where their hands need to go. Forced proximity can be used here too — one character cannot get up and move while the other character has to remain close to them. Try to avoid jumping into dialogue. Let the quietness of the moment and the physical contact be the work here.
 
 **What natural remedies exist?**
 
@@ -481,9 +481,13 @@ _______________________________________________________________
 
 ## Dangerous Creatures
 
-What makes the wilderness deadly? Dangerous creatures create survival pressure, raise stakes for travel, and provide opportunities for characters to protect each other.
+Dangerous creatures can be used as a driving force to bring characters together in moments of pure survival. In a world where nature can easily kill you, travelling with someone else is not merely a convenience — it's required for survival. What your characters are afraid of in the wild shapes how they travel in the world as well as who they can trust to have their backs.
 
-The best dangerous creatures feel like part of the ecosystem rather than monsters placed to threaten heroes. A mother protecting her young is a different encounter than a hungry predator hunting.
+Building a dangerous encounter in layers can help you build tension and suspense. Start with the signs: tracks, silence, a strange smell. Then give a glimpse before the full reveal. Let your POV character's body react before their mind catches up. The prickle on the back of the neck. The instinct to freeze.
+
+The encounter itself should be limited to the most immediate sensory details. The creature's breath, the sound of its movement, the texture of the ground they're pressed against. Afterward, show your characters the physical effects of the encounter. This could include shaking hands, delayed reactions, i.e. the way an adrenaline crash actually feels.
+
+Shared dangerous encounters bond characters because they've seen each other in survival mode, stripped of social performance.
 
 **What are the most dangerous creatures in your world?**
 
@@ -512,9 +516,9 @@ _______________________________________________________________
 
 ## Magical Creatures
 
-Magical creatures occupy a different space than mundane wildlife. They might be rare and legendary, or common as horses. They might be intelligent, tameable, or utterly alien.
+Magical creatures are one of the most fun ways to distinguish your world from Earth. If you think about your favourite fantasy novel growing up, there's probably an immediate magical creature your brain goes to (for me it's Mogget from Sabriel by Garth Nix). These are the creatures readers remember: the ones that define your world's identity, create wonder, and often forge the most important bonds between characters and their environment.
 
-For romance, magical creatures can serve as externalized metaphors — the dragon's wildness reflecting the love interest's untamed nature. This can work beautifully or feel heavy-handed. More practically, magical creatures create story opportunities through their abilities, their rarity, and their relationship with humans.
+When bringing magical creatures to life, focus on specific, unusual details rather than generic descriptions. A dragon whose fire smells of burnt copper is going to be a lot more memorable than one who is just "fearsome" and "fire-breathing."
 
 **What magical creatures exist in your world?**
 
