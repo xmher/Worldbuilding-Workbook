@@ -628,6 +628,54 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+### About the Creature Itself
+
+**Does the creature have its own personality, preferences, and will? Can it disagree with its bonded human?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What does the creature do when it's not with its bonded partner? Does it have its own life?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+### The Bond's Impact on Romance
+
+**Can the creature sense its bonded human's emotions? If so, what happens when the human falls in love?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Does the creature have opinions about the love interest? How does it show approval or disapproval?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Does every bonded pair in your world become romantic, or can the bond be purely platonic?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+### Stakes
+
+**What happens if the bond breaks? Death? Madness? Loss of magic?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Can a person bond with more than one creature? Can a creature bond with more than one human?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## Ordinary Animal Companions
