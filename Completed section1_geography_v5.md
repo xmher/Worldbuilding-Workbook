@@ -14,11 +14,11 @@ You need both.
 
 ## A Note Before You Begin
 
-Not every question will apply to your story. **Skip what doesn't fit.**
+Not every question in this workbook will apply to your story — and that's completely fine. Skip what doesn't fit.
 
-**Worldbuild for its own sake if you want.** A richly developed world has value beyond what appears on the page. Use the "romance connection" prompts for brainstorming if they're helpful, or leave them blank if that element is just background texture.
+Worldbuild for its own sake if you want. A richly developed world has value beyond what appears on the page. Use the "romance connection" prompts for brainstorming if they're helpful, or leave them blank if that element is just background texture.
 
-**Come back later.** If you're not sure whether something matters yet, skip it and return once your story has taken more shape.
+Come back later. If you're not sure whether something matters yet, skip it and return once your story has taken more shape.
 
 This workbook is a tool, not a test.
 
@@ -26,43 +26,65 @@ This workbook is a tool, not a test.
 
 ## How to Think About Geography in Romantasy
 
-Geography in romantasy functions as a **pressure system** — the physical world can compress your characters together, force them apart, or create conditions where they must rely on each other. Before you draw a map, ask yourself: *What geographic situation does my romance need?*
+Geography in romantasy works like a pressure system. The physical world can compress your characters together, force them apart, or create conditions where they have no choice but to rely on each other.
 
-Not every hill and river needs to serve the plot. But the geography you emphasize — the locations where scenes happen, the terrain your characters traverse, the distances between them — should be doing something. Background geography creates atmosphere and believability. Foreground geography creates story.
+Before you draw a map, ask yourself: What geographic situation does my romance need?
+
+Not every hill and river needs to serve the plot, and that's okay. But the geography you choose to emphasise should be doing something. Think about the locations where your scenes happen, the terrain your characters travel through, and the distances between them.
+
+Background geography creates atmosphere and believability. Foreground geography creates story.
 
 ### The Geography-as-Friction Framework
 
-Develop geography that creates friction — between your characters, or between what they want and what they can have:
+A useful way to think about your world's geography is to develop it around friction. This could be friction between your characters, or between what they want and what they can have.
 
-**Separation friction:** What physical obstacles keep them apart?
+**Separation Friction**
+
+What physical obstacles keep them apart?
+
 - Different kingdoms separated by mountains
 - An ocean that takes months to cross
 - A magical barrier that can only be crossed under certain conditions
 - War zones that make travel deadly
 
-**Proximity friction:** What forces them together despite themselves?
+**Proximity Friction**
+
+What forces them together despite themselves?
+
 - A snowed-in mountain pass
 - A ship voyage with no escape
 - An isolated estate or academy
 - A dangerous journey requiring partnership
 
-**Resource friction:** What geographic scarcity creates conflict?
+**Resource Friction**
+
+What geographic scarcity creates conflict?
+
 - Water rights in a desert region
 - The only pass through the mountains
 - A rare magical resource found in contested territory
 - Trade routes that require cooperation between enemies
 
-Geography that doesn't create friction isn't wasted — it's just setting.
+Geography that doesn't create friction isn't wasted. It's just setting.
 
 ### The "Pressure Cooker" Principle
 
-The most effective romantasy settings function as pressure cookers — environments that trap characters together and force interaction:
+Some of the most effective romantasy settings work as pressure cookers. These are environments that trap characters together and force interaction. The key is that leaving must be impossible, dangerous, or carry consequences they're not willing to accept.
 
-- **Physical trapping:** Islands, academies, sieges, ships, remote estates
-- **Circumstantial trapping:** Dangerous wilderness requiring partnership, diplomatic missions, shared exile
-- **Environmental trapping:** Storms, seasons, magical barriers that prevent departure
+When characters can't escape each other, they're forced to confront conflict instead of avoiding it, rely on each other despite distrust, and share space long enough for attraction to build beneath their defences.
 
-*If your characters could simply walk away from each other, would they?* If yes, your geography might need to make walking away impossible, dangerous, or costly.
+Here are some ways you can make the container seal tight:
+
+- **Physical trapping:** Islands, academies, sieges, ships, and remote estates. These are locations with literal boundaries characters can't cross.
+- **Circumstantial trapping:** Dangerous wilderness requiring partnership, diplomatic missions, and shared exile. In these situations, separating means failure or death.
+- **Environmental trapping:** Storms, seasons, and magical barriers that prevent departure. These are external forces that make leaving impossible regardless of desire.
+- **Social/political trapping:** Arranged marriages, hostage situations, and court obligations. In these circumstances, leaving would destroy reputation, alliance, or lives.
+
+The pressure cooker works because proximity breeds intimacy. Characters see each other at their worst. They can't keep up facades. Small moments accumulate. Shared meals, overheard conversations, accidental touches in tight quarters. The setting does half the work of bringing them together.
+
+### The Key Question
+
+If your characters could simply walk away from each other, would they? If yes, your geography might need to make walking away impossible, dangerous, or costly.
 
 ---
 
@@ -160,11 +182,17 @@ The most effective romantasy settings function as pressure cookers — environme
 
 ---
 
-# PART ONE: THE FOUNDATION
+# Section 1 · Part One — The Foundation
 
 ---
 
 ## The Big Picture: Your World's Scale
+
+Geography is the skeleton of your world. Before you name a single kingdom or draw a single border, it helps to know how big the stage is. As such, there's a significant difference in terms of setting a romantic story that spans an entire continent and one confined to a single city with walls. The distances between characters, the cost of travel, and the possibility of escape or reunion are all shaped by scale.
+
+Try to let geography do emotional work, too. Distance isn't just miles. It's the ache of separation, the danger of the journey, and the question of whether reunion is even possible. A mountain range between two lovers is a different kind of obstacle than a locked door, but both force the same question: how far will you go?
+
+A good starting point is to ground your world's scale in what your characters can see, walk, and survive. If your protagonist has never left her village, the next town over might as well be another planet.
 
 **What's the geographic scope of your story?**
 
@@ -190,7 +218,38 @@ You don't need to detail everything — just locations that matter.
 
 ---
 
+## Naming Places
+
+Place names do a surprising amount of worldbuilding work. A name like "Ashenmere" tells readers something different than "Goldport" before you've described either place. The right names make your world feel cohesive and grounded, even if readers can't quite explain why.
+
+In the real world, most place names started out as descriptions. They told people what was there (a river, a hill, a forest), who lived there, or what happened there. Over time, languages shifted and the meanings got buried. That's why we don't think of "Oxford" as "the place where oxen ford the river" even though that's exactly what it means.
+
+You can use this same logic when naming locations in your world. Think about who named the place and what mattered to them. A farming settlement might be named for the land. A fortress might be named for the family who built it. A holy site might carry the name of a god. If your world has multiple cultures or languages, places might have different names depending on who's talking about them, which is a small detail that can add a lot of texture.
+
+### Finding Your World's Naming Patterns
+
+If you want your place names to feel like they belong to a specific culture or language family, a bit of research goes a long way:
+
+- Pick a real-world language that matches the sound you're going for. Look up common place name elements in that language. What prefixes and suffixes keep appearing? What sounds feel characteristic?
+- Study how real names are built. Most are compounds. A word for a landscape feature (river, hill, field) combined with a descriptor (colour, size, a person's name). Once you spot the pattern, you can build your own.
+- Behindthename.com has a useful place names section if you want to browse etymologies for inspiration.
+- Keep it pronounceable. If your reader stumbles every time they hit a place name, it pulls them out of the story. Read your names aloud. If you can't say it comfortably, your reader won't be able to either.
+
+Don't feel pressured to make every name meaningful, though. Sometimes a name just needs to sound right for the world. If the etymology is enriching your story, great. If it's slowing you down, move on and come back to it later.
+
+---
+
+## Kingdoms & Nations Overview
+
+If your world has multiple kingdoms or nations, this table can help you keep track of them at a glance.
+
+You don't need to fill in every field. Just jot down what you know right now. Maybe you only have a name and a climate so far, and that's perfectly fine. You can always come back later as your story takes shape.
+
+---
+
 ## Terrain Types
+
+Not every terrain in your world needs equal development. Your world might include mountains, forests, deserts, plains, wetlands, coastlines, islands, rivers, tundra, or even magical and unusual terrain. That said, consider focusing on the two or three that actually matter for your story. These are the ones your characters traverse, fight over, or call home.
 
 | Terrain | Exists? | Where? | What It Provides | What Challenges It Creates |
 |---------|---------|--------|------------------|---------------------------|
@@ -220,11 +279,19 @@ Most stories don't use every terrain equally. Identify your priority terrains �
 
 ## Resources & Territorial Control
 
-Geography determines who has what — and therefore, who has power. Fertile land, fresh water, mineral deposits, trade routes: these are worth fighting over, worth marrying for, worth dying for.
+Who controls the land is what determines who gets what, and therefore, who has the most power. Fertile land, fresh water, mineral deposits, and trade routes are all things worth fighting over, worth marrying for, and worth dying for.
 
-In romantasy, resource control often creates the power imbalances that drive conflict between love interests. These geographic facts become personal when your characters are on opposite sides of them.
+Resource control has great potential in romantasy because it could be used to create an imbalance of power between the love interest(s) and drive the inciting conflict between them. It's also a believable way to explain arranged marriages, political alliances, or economic pressures that force characters into impossible choices.
 
-Resource control explains arranged marriages, political alliances, and the economic pressures that force characters into impossible choices.
+Rather than explaining resource conflict through exposition, try showing it through what characters can and can't do. For example, a character from a region with limited water availability may cringe while watching someone run their bathtub. Someone from contested territory might notice strategic value in a landscape that others see as beautiful. You can let resource awareness emerge through small reactions, casual comments about price or scarcity, and the background hum of what everyone in this world worries about.
+
+When two characters come from opposite sides of a resource conflict, the tension often shows itself in what they assume about each other, what they're careful not to say, and the moments when privilege becomes visible.
+
+### Real-World Inspiration
+
+Resources have always shaped conflict. Oil drives wars and political alliances. Water rights spark disputes between nations sharing rivers. Spices once fuelled colonial expansion. Salt was taxed so heavily it caused revolutions. Diamonds fund civil wars. Rare earth minerals create modern tech dependencies.
+
+What resource in your world holds this kind of power?
 
 **What natural resources are geographically concentrated?**
 
@@ -268,13 +335,13 @@ _______________________________________________________________
 
 ---
 
-## The Sensory World
+## Describing Your Setting
 
-Geography isn't just about what's there — it's about what it feels like to be there.
+Geography isn't just about what's there. It's about what it feels like to be there. Think of a first kiss scene: if it occurs in a garden full of blooming jasmine, it will feel different from a first kiss that happens in a stone corridor with a torch-smoke odour. Readers should be able to feel the grit of sand, the dampness of a cave, the sweltering heat of a forge.
 
-The sensory details of your setting create the emotional texture of scenes. A first kiss hits differently in a garden heavy with night-blooming jasmine than in a stone corridor that smells of torch smoke. What do your characters see, hear, smell, feel on their skin in the spaces where important moments happen?
+One of the most powerful elements you can utilise is filtering sensory detail through your POV character's emotional state. A person who is in love notices the warmth of sunlight, the sweetness of blossoms, and the softness of grass. That same garden, to a grieving character, might feel too bright, the flowers cloying, the birdsong intrusive. Of course, you shouldn't describe every tiny detail. We've all tried reading a book where every tiny detail was painstakingly descriptive to the point you didn't even know what the point of the scene was. To prevent this, I'd choose two or three sensory details for each scene that reinforce the atmosphere you are trying to create.
 
-If your characters come from different environments, their sensory experiences of "comfort" and "home" will differ. What feels cozy to one might feel suffocating to another.
+It also helps to avoid the "weather report" opening, where a scene begins with a neutral description of the setting. Instead, try integrating sensory details into action and emotion. Rather than writing "The room was cold," you could write something like "She pulled her cloak tighter, breath misting in the unheated chamber." When your character interacts with the environment, it reveals both setting and feeling at the same time.
 
 **What does your primary setting look, sound, smell, and feel like?**
 
@@ -322,9 +389,11 @@ _______________________________________________________________
 
 ## Climate, Weather & Seasons
 
-Weather creates immediate physical conditions that affect what's possible — travel, agriculture, warfare, daily life. Climate shapes the rhythm of life in your world, and that rhythm affects when and how your characters can be together.
+Weather creates immediate physical conditions that affect what's possible, from travel and agriculture to warfare and daily life. Seasons are particularly great at pushing your story forward. For example, they can create deadlines (e.g., they have to get married by the first spring shower), waiting periods (people are stuck together until spring thaws the roads), or markers of time passing in a slow-burn romance.
 
-Seasons can function as deadlines (they must marry before winter closes the pass), as waiting periods (trapped together until spring thaw), or as markers of time passing in a slow-burn romance. Climate also affects daily intimacy: in hot climates, people come alive at night; in cold climates, they cluster around heat sources; in rainy seasons, they're trapped indoors.
+A good rule to remember is that seasons are a great indirect way to show time passing. Conversely, you can use weather to create immediate physical danger or discomfort. Make your character sopping wet, or so cold they have no other option BUT to cuddle with their love interest. Oh the things we'll put our protagonists through!
+
+Seasons can mirror emotional shifts, too. A relationship that thaws as winter ends, tension that builds with summer heat, a reckoning that arrives with autumn.
 
 **What's the overall climate?**
 
@@ -478,11 +547,9 @@ _______________________________________________________________
 
 ## Dangerous Regions
 
-Every world has places that are deadly — and therefore avoided, or crossed only with preparation and company.
+Every world has places that are deadly, and therefore avoided, or crossed only with preparation and company. Danger can add to the romance of the journey in several ways though because it can raise stakes and force partnership. Survival requires cooperation. Cooperation requires trust. And trust requires vulnerability.
 
-Dangerous regions serve romance by raising stakes and forcing partnership. When characters must traverse a deadly wilderness, they depend on each other for survival. The danger strips away social pretense — there's no time for posturing when you're being hunted.
-
-Dangerous regions also function as barriers. Maybe the only route between the characters' homelands runs through territory no one survives alone. Maybe one character is the only guide who knows the safe path.
+The most common mistake with dangerous regions is telling readers it's deadly without actually showing it. Characters warn that "no one survives the Thornwood," yet your protagonists stroll through unscathed. To make the danger feel real, you have to show the consequences. Let someone in your party get gravely ill or injured because someone made a bad judgement call. When your characters emerge on the other side, they should be changed. Exhausted, wounded, and closer than before. The journey through danger is where walls come down.
 
 **What regions are dangerous or forbidden?**
 
@@ -510,6 +577,10 @@ Dangerous regions also function as barriers. Maybe the only route between the ch
 ---
 
 ## Borders & Boundaries
+
+Borders are boundaries, and boundaries create conflict. Every border in your world is a line that someone drew or that nature carved, and every line comes with rules about who can cross it and what it costs when they do.
+
+In romantasy, borders serve as obstacles at their most fundamental level. A river between warring kingdoms means your characters were never supposed to meet. A magical barrier means every stolen moment on the wrong side carries real consequences. A closed mountain road means if your characters choose one another then they will both be exiled.
 
 **What geographic features create borders?**
 
@@ -574,17 +645,17 @@ _______________________________________________________________
 
 ---
 
-# PART TWO: GEOGRAPHY & ROMANCE
+# Section 1 · Part Two — Geography & Romance
 
 ---
 
 ## Home & Belonging
 
-Geography isn't just physical — it's emotional. Where do your characters feel they belong? Where do they feel alien?
+Geography isn't just about land; it's also about emotion. The concept of home has to be one of the most emotionally laden ideas in romance. A character may travel away from home to find love, or have to choose between the person they love and returning home. They may find that no matter where they are, home is always where the other person is, or they may discover that choosing this person means being exiled from all that is familiar.
 
-Home is one of the most emotionally charged concepts in romance. Characters may leave home to find love, may be torn between love and home, may find that home becomes wherever the other person is — or may discover that choosing this person means exile from everything familiar.
+Instead of simply stating a location is important to your character, try to show home through sensory details. What do your characters reach for when they are feeling homesick? What scent immediately takes them back? When writing scenes set in a character's home territory, allow them to move easily and comfortably throughout the space. They should know which floorboards creak, which windows stick. Then compare this to how they move through unfamiliar spaces; hesitantly, cautiously, slightly off-balance.
 
-The sensory details of home matter because they're the details of identity. What someone considers "home" reveals who they are at their core. When characters share these details, they're sharing something intimate. Someone who has never belonged anywhere brings different needs and fears to a relationship than someone with deep roots.
+The conflict between "where I am meant to be" and "where love is leading me" creates some of romance's greatest emotional moments. A character deciding to remain in their lover's world, or asking their lover to come into their own world, is a declaration of equal significance as any verbal confession of love.
 
 **Where does your protagonist feel at home?**
 
@@ -631,11 +702,13 @@ _______________________________________________________________
 
 ## Entering Each Other's Worlds
 
-If your characters come from different places, visiting each other's territory is significant.
+If your main characters are from different places, then travelling to visit each other is important; there's a special vulnerability in inviting someone into your home. Your own world becomes visible to you through the visitor's eyes; you begin to notice again what you have been ignoring, including the beauty as well as the flaws.
 
-There's a particular vulnerability in bringing someone into your home territory. You see your world through their eyes, noticing things you'd stopped seeing — both the beauty and the flaws.
+When a character enters their love interest's world, try filtering every observation through their outsider perspective. What confuses them? What impresses them? What makes them uncomfortable? Their reactions can reveal both the world and the character at once.
 
-For the visitor, entering unfamiliar territory means being the outsider, the one who depends on their partner to navigate. It's a reversal that can shift relationship dynamics. You can't fully know someone until you've seen where they come from.
+The "native" character, meanwhile, experiences a different kind of vulnerability. Suddenly, they're aware of poverty they've normalised, privilege they never thought about, or customs that seemed perfectly reasonable until someone else explained them out loud.
+
+Write the small moments. The love interest automatically reaching to help with something the visitor doesn't know how to do. The visitor mispronouncing a word everyone here knows. The native defending their home against a criticism they privately agree with. These fish-out-of-water scenes create closeness because they need explanations, patience, and the courage to look silly in front of someone you care about.
 
 **Does one character visit the other's home territory?**
 
@@ -679,7 +752,9 @@ _______________________________________________________________
 
 ## Travel & Distance
 
-Distance creates stakes. If characters can teleport anywhere, separation has no weight. If journeys take weeks, every departure matters.
+Distance creates stakes. If your characters can teleport anywhere, separation carries no weight, but if journeys take weeks on horseback, every departure matters and every reunion is earned.
+
+Travel also forces shared vulnerability in ways that daily life doesn't. There's something about tending each other's blisters, sharing warmth on a cold night, and having nowhere to retreat to that bonds people faster than months of safe, comfortable interaction. And when your characters are apart, you can make that distance felt through the details: letters that arrive too late, the agony of not knowing whether someone is safe, and the slow stretch of days without word.
 
 **How do people typically travel?**
 
@@ -721,7 +796,15 @@ _______________________________________________________________
 
 ## Isolated Locations
 
-Some places are cut off from the wider world — by geography, by magic, by choice.
+Forcing characters to share a space will help to drive their relationship forward faster than if they were able to come and go as they please. The more opportunities your characters are given to get away from one another, the longer it will take for them to have to confront the fact that they need to communicate or compromise. Isolated settings force confrontation, require cooperation, and create the kind of pressure that transforms reluctant attraction into something undeniable.
+
+It helps to establish early on why leaving isn't an option, and to make that reason feel real and insurmountable. In A Court of Mist and Fury, the bargain Feyre struck Under the Mountain means she owes Rhysand a week of her time each month. She has no way out; she can't get to him earlier than agreed. This is what writers call "forced proximity", and it's an amazing way to make characters share a space.
+
+As a result, you can plan ahead to utilise the confines of the space to your advantage. Consider what rooms are used most by all of the characters, how small the hallways are, and what common resources (food, water, etc.) will require collaboration. Also, be sure to write the sense of confinement and the developing intimacy together. Even though characters may find themselves attracted to one another, many times they will still feel trapped or resentful of being forced to live in such close proximity to one another.
+
+Have fun with this plot device and find interesting ways to use the setting to make your characters interact! On a ship, there's nowhere to go after an argument, so you're eating breakfast together whether you like it or not. At an academy, the professor keeps pairing them for sparring practice. In a snowed-in estate, someone has to share a bed because the guest wing is freezing. The setting should be generating its own little problems. Let it do some of the storytelling work for you.
+
+Also, remember that when characters have the ability to leave and instead choose to remain, their decision is a statement.
 
 **What isolated locations exist?**
 
@@ -831,13 +914,17 @@ _______________________________________________________________
 
 ---
 
-## Geography as Emotional Landscape
+## Places with Meaning
 
-The physical world can resonate with or contrast against the emotional journey — though this works best when it emerges naturally rather than being engineered.
+The environment in which your characters live can help to reinforce their feelings or act as an obstacle to them. A love scene in a sunny field will have a totally different effect than one in a crumbling building. A confession in a storm has a much greater impact than one made in complete silence.
 
-A love scene in a sunlit meadow feels different than one in a crumbling tower. A confession during a storm carries different weight than one in stillness. You don't need to engineer pathetic fallacy, but be intentional about the emotional texture of your key locations.
+You can do this intentionally. Set the mood for your characters' emotions by using sunny weather for happy moments and storms for confrontational moments, or do the opposite. A kiss in a dangerous situation has urgency, while a kiss in a serene garden appears to be an intentional choice.
 
-A single location can feel different depending on circumstances. The same palace might feel magical during a ball and suffocating during captivity. As your characters' relationship changes, the settings might feel different even when the physical reality is the same.
+Pathetic fallacy (when the environment takes on the characteristics of a character) can be helpful when used sparingly. A storm during a fight scene, or the sun breaking through the clouds as two people are making amends. These add to the scene without yelling "SYMBOLISM" at the reader.
+
+You can also illustrate how your characters view the world based on their emotional state. Someone who is in love sees beauty in everything. Someone who is grieving looks at the exact same landscape and sees nothing but desolation. It's a simple aspect of storytelling, but it accomplishes a great deal.
+
+Furthermore, give your characters "their place." A location that becomes special to the relationship, possibly where they first met, had their first kiss, or survived something terrible together. When the characters return to that place later in the story, you don't need to explain why it's significant. The reader should already feel it. A line like "She hadn't returned to the bridge since that night" can be very powerful, but only if you've established that connection earlier.
 
 **What's the emotional quality of your primary setting?**
 
