@@ -51,11 +51,11 @@ The best romantasy writers understand that constraints create romance. The rule 
 
 | Mistake | How It Shows Up in Your Story | Your Fix |
 | --- | --- | --- |
-| **Selective enforcement** — rules apply when convenient, disappear when not | | |
+| **Selective enforcement:** rules apply when convenient, disappear when not | | |
 | Selective enforcement | | |
-| **Forgotten ability** — character has a power that would solve the problem but doesn't use it | | |
+| **Forgotten ability:** character has a power that would solve the problem but doesn't use it | | |
 | Forgotten ability | | |
-| **Consequence vacuum** — rules are broken but nothing happens | | |
+| **Consequence vacuum:** rules are broken but nothing happens | | |
 | Consequence vacuum | | |
 
 ---
@@ -342,6 +342,8 @@ _______________________________________________________________
 
 ## Part Four: Character Knowledge and Information
 
+Most romantasy is written in first person or close third person, which means your reader only knows what your narrator knows. This is one of your most powerful tools for building tension, but it's also one of the easiest places to break consistency. This part covers two related challenges: tracking what your characters know and when they know it, and maintaining worldbuilding consistency when your narrator's understanding of the world is incomplete or flat-out wrong.
+
 ### Information Tracking
 
 Mishandled information is one of the fastest ways to break consistency. Characters who know things they shouldn't, don't know things they should, or conveniently fail to share critical information all create problems that pull readers out of the story.
@@ -416,6 +418,57 @@ _______________________________________________________________
 _______________________________________________________________
 
 *If they could resolve the misunderstanding with a single honest conversation and nothing is preventing that conversation from happening, readers will get frustrated. The barrier to communication needs to be as real as any other obstacle in your world.*
+
+### When Your Narrator Doesn't Know the Rules
+
+Here's a consistency challenge that catches many romantasy writers off guard: your narrator believes something about the world that isn't true, and you need the reader to accept that wrong belief while you maintain the actual rules underneath.
+
+This is not a flaw. It's one of the most powerful tools in romantasy. Feyre believes the Night Court is a place of pure cruelty. Poppy believes the Ascended are holy. Violet believes venin are myths. Jude believes her geas makes her invulnerable to all faerie magic. Every one of these beliefs is wrong, and every one of them is *consistent with what the character has been told and has experienced*. That's the key. The wrong interpretation has to be just as internally logical as the right one.
+
+To make this work, you need to maintain two layers simultaneously. Think of it as the clock and the glass. The clock is the truth: the actual rules of your world, the real history, how the magic genuinely works. The glass is what your narrator sees when they look at the clock. It's distorted, tinted, sometimes cracked, but it's not random. The distortion comes from somewhere specific: their upbringing, their trauma, their religion, the propaganda they've been fed, or the simple biological fact that they're human in a world of immortals. Your reader looks through the same glass your narrator does. When the glass finally breaks and the reader sees the clock clearly, every hand should still be in the right place.
+
+**The Author's Truth vs. The Narrator's Bias**
+
+Your world has objective rules that operate whether your narrator understands them or not. Your narrator has a subjective interpretation of those rules based on their specific background. Consistency is preserved when the narrator's *observations* remain accurate even when their *conclusions* are wrong.
+
+In *A Court of Mist and Fury*, the Court of Nightmares scene demonstrates this perfectly. Feyre watches Rhysand behave with calculated cruelty in the Hewn City, pulling her onto his lap, treating her like a possession. Her conclusion: he's the monster everyone says he is. But her observations are also accurate: she notes that while his public actions are degrading, he's simultaneously checking in with her through their mental bond, ensuring her consent, explaining the necessity of the performance. The truth (Rhysand's devotion) is present in the scene through the telepathic layer. The bias (Feyre's fear) is present through the physical layer. Both are consistent. When Velaris is later revealed, readers don't feel cheated because the evidence was always there, they just interpreted it the way Feyre did.
+
+**Four Ways to Maintain Consistency Through an Unreliable Lens**
+
+**1. Sensory dissonance.** Let your narrator's body register what their mind hasn't caught up to yet. In *From Blood and Ash*, Poppy repeatedly describes the Ascended as unnaturally cold to the touch and having a "hollow" feeling in their chest. She attributes this to divine transcendence. The reader files it away. When the Ascended are revealed as parasitic vampyres, those sensory details click into place. Poppy's observations were accurate; her explanation was the lie she'd been taught. If your narrator's senses consistently register something "off" about a person, a place, or a ritual, that's a thread readers will follow even before they know where it leads.
+
+**2. Anchor rules.** Establish at least one rule that operates consistently regardless of what your narrator believes about it. In the ACOTAR series, the mating bond tugs and pulls whether the characters acknowledge it, understand it, or despise it. In *Fourth Wing*, dragon choice is absolute, and no one, not generals, not professors, not parents, can override it. These anchors give readers something solid to hold onto while everything else the narrator believes may be shifting. When the narrator's understanding changes, the anchor hasn't; it was always behaving the same way.
+
+**3. Semantic misdirection.** Use your world's own vocabulary to hide truth in plain sight. In *From Blood and Ash*, the word "Ascension" means something beautiful and holy to Poppy. It means death to the reader who eventually learns the truth. But the word itself never lied; it was always describing the same ritual. The meaning just depends on who's defining it. Similarly, "the Maiden must remain pure" sounds like religious devotion. It's actually livestock management, keeping the "food" unspoiled. The rule (the Maiden must be veiled and untouched) remains perfectly consistent from start to finish. Only the reason for the rule changes.
+
+**4. Physical tell-tale signs.** Give the truth a visible signature that your narrator misinterprets. In *Fourth Wing*, Jack Barlowe's eyes have a red ring when he's agitated. Violet attributes this to his dragon's influence. Readers later learn it's the biological marker of a venin who has started drawing power from the earth. In *The Cruel Prince*, faerie fruit is established as intoxicating and addictive to mortals. When Valerian forces a faerie apple into Jude's mouth, her geas (which protects against mental enchantment) doesn't fail; the biological properties of the fruit simply operate on a different system than the geas covers. The rules are all consistent. Jude was just arrogant enough to think one protection covered everything.
+
+**The Recontextualisation Test**
+
+When your narrator's understanding shifts (they learn the truth about a character, a system, or a history), earlier scenes should gain new meaning without losing their original logic.
+
+**Your major reveal or shift in understanding:**
+
+_______________________________________________________________
+
+**Pick two earlier scenes that will be recontextualised by this reveal:**
+
+| Earlier Scene | What It Meant Before the Reveal | What It Means After | Do Both Interpretations Follow From the Evidence in the Scene? |
+| --- | --- | --- | --- |
+| | | | Yes / No |
+| | | | Yes / No |
+
+*If the "after" interpretation doesn't follow from what was actually on the page, you need to go back and seed the evidence. More on how to do this in Part Seven.*
+
+**Does your narrator's wrong belief come from a specific, identifiable source?**
+
+*Upbringing, religious teaching, propaganda, trauma, cultural assumption, biological limitation? The more specific the source of the blindness, the more satisfying the reveal.*
+
+| Source of the Narrator's Wrong Belief | What They Believe | What's Actually True | When Does the Glass Break? |
+| --- | --- | --- | --- |
+| | | | |
+
+*The gold standard is when a reader finishes your reveal and immediately wants to reread the early chapters, not because they feel tricked, but because they know the experience will be richer the second time.*
 
 ---
 
@@ -509,6 +562,174 @@ Not all inconsistencies are equal. Understanding which ones readers absorb and w
 Readers forgive inconsistencies that serve emotion *if you've earned their trust* through generally consistent worldbuilding. They don't forgive inconsistencies that feel like cheating, where you're protecting characters from your own rules, or making things easy when they should be hard.
 
 **Ask yourself:** Am I bending rules to serve the story, or breaking them to avoid consequences I don't want to write?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
+## Part Seven: Fixing What You've Already Written
+
+You've run the tests. You've found the problems. Now what?
+
+Most writers discover consistency issues mid-draft or during revision, not during the planning stage. The instinct is to panic and rewrite everything from the beginning. Don't. Published romantasy authors handle mid-draft inconsistencies all the time, and they've developed specific techniques for patching them during revision without losing the momentum of the story. The goal isn't to pretend you planned everything from the start. It's to make the reader believe you did.
+
+### Second-Draft Seeding
+
+This is the most practical technique for fixing consistency problems: go back and plant the evidence you need, so the later payoff feels earned.
+
+When Rebecca Yarros revealed in *Iron Flame* that Andarna was a seventh breed of dragon capable of killing venin with her teeth and fire, readers needed to believe this was foreshadowed. During revision, Yarros appears to have inserted subtle physical cues into the earlier text: Andarna's colour shifts, which Violet dismissed as adolescent development, and small anomalies in her behaviour that didn't quite fit the established dragon breeds. These details sit quietly in the manuscript until the reveal gives them meaning.
+
+The technique works like this:
+
+1. **Identify the revelation your climax or turning point requires.** What new rule, ability, or truth needs to feel earned?
+2. **Go back roughly 15 to 20 percent into your manuscript.** This is where most readers are settling into the story and starting to trust the rules.
+3. **Insert a small, dismissible detail that hints at the truth.** A throwaway line of dialogue, a physical anomaly the narrator notices but doesn't understand, a question that goes unanswered.
+4. **Add at least one more reference at the midpoint.** The detail should recur, but still be explainable by the narrator's current (wrong) understanding.
+5. **Let the character struggle with or fail at the relevant ability in a minor scene before it becomes the climactic solution.** A power that's never been tested and then suddenly works perfectly feels like a cheat. A power the character has fumbled with and barely survived feels earned.
+
+**A word of caution:** A retroactive fix must not invalidate the struggle that came before it. If your characters spent three chapters smuggling a rare weapon because it was the "only thing that could kill the enemy," and then you reveal that a dragon could have done it all along, readers will feel the earlier tension was wasted. The new rule should complement the existing struggle, not erase it.
+
+**Your consistency problem that needs seeding:**
+
+_______________________________________________________________
+
+**Where in your manuscript does the truth need to land?**
+
+_______________________________________________________________
+
+**Where can you plant the first hint? (Aim for 15-20% into the manuscript)**
+
+_______________________________________________________________
+
+**Where can you add a second reference? (Aim for the midpoint)**
+
+_______________________________________________________________
+
+**Is there a scene where the character can struggle with or fail at this element before it becomes critical?**
+
+_______________________________________________________________
+
+### The Ignorance Shield
+
+Sometimes the inconsistency isn't a broken rule. It's that your world has outgrown its original boundaries. The magic system that started simple now needs to be complex. The mythology that seemed straightforward has layers you didn't plan. Your protagonist's parentage, heritage, or nature has changed since you started drafting.
+
+The Ignorance Shield works by framing your early worldbuilding as your narrator's limited understanding, not the objective truth. If your protagonist was raised in a sheltered environment, educated by a biased institution, or fed deliberate propaganda, then everything they "knew" in the early chapters was filtered through that lens. The later revelation doesn't contradict the early chapters; it reveals that the early chapters were showing you the lie.
+
+Jennifer L. Armentrout used this technique across the *From Blood and Ash* series. Poppy's understanding of the Ascended shifts from "divine chosen ones" to "parasitic vampyres" to a revelation that the entire theological framework of her world was constructed to keep people compliant. Each expansion doesn't break the previous rules. It reframes them as propaganda. The rule "the Maiden must remain pure" was always consistent; only the reason behind it changed.
+
+This technique is powerful, but it has a limit. If you use it too many times, readers start to feel the ground shifting under them with no solid place to stand. Each new "everything you knew was a lie" reveal dilutes the impact of the previous one. Armentrout's later books received mixed reader responses precisely because the ancestry revelations kept escalating (Maiden to half-Atlantian to deity to Primal) without enough emotional grounding between each shift.
+
+**The rule:** One major Ignorance Shield reveal per book. Maybe two, if the second is smaller and more personal. Beyond that, readers lose trust in the world entirely, which is the opposite of what you want.
+
+| What Your Narrator Believed Early On | What's Actually True | Is the Early Belief Logical Given Their Background? | Does the Reveal Add Emotional Depth or Just Complexity? |
+| --- | --- | --- | --- |
+| | | Yes / No | Depth / Complexity |
+| | | Yes / No | Depth / Complexity |
+
+*If you answered "just complexity," consider whether the reveal is serving the story or just making the mythology bigger. Bigger isn't better. Deeper is better.*
+
+### Linguistic Literalism
+
+If your world has a constraint on speech, specifically a "cannot lie" rule for certain characters, you will inevitably write yourself into a corner where a character has said something that, upon reflection, shouldn't have been possible. Holly Black's handling of faerie truth-telling in *The Cruel Prince* provides the fix.
+
+Faeries in Elfhame cannot lie. This is an inflexible, mechanical rule. But they can mislead, omit, use questions instead of statements, and phrase things in technically true but deeply deceptive ways. When a faerie is asked where a prisoner is being held, they might respond: "Why would I keep such a wretched creature in my own house?" That's a question, not a statement. It's not a lie, even though it leads the listener to conclude the prisoner isn't there.
+
+If you discover that a constrained character has said something false in your draft, don't change the character's nature. Change the phrasing.
+
+**The Dialogue Audit:**
+
+1. Find every instance where a truth-constrained character provides information.
+2. Check each statement. Is it literally true, even if it's misleading?
+3. If you find a flat lie, convert it to a question, an omission, or a technical truth.
+4. Use your human or non-constrained characters to notice the phrasing. This signals to the reader that the "truth" is a game of wits, and rewards close reading.
+
+This technique transforms a worldbuilding limitation into one of the most satisfying reading experiences in fantasy. Readers love parsing faerie dialogue, mating bond loopholes, and prophecy wording because it makes them feel like active participants in the story.
+
+**Do any of your characters operate under a speech or honesty constraint?**
+
+_______________________________________________________________
+
+**Have they said anything in your draft that technically breaks that constraint?**
+
+_______________________________________________________________
+
+**How can you rephrase it as a question, omission, or technical truth?**
+
+_______________________________________________________________
+
+### The Sacrificial Reset
+
+If a character has become too powerful for the story to sustain tension, you need to take something away. This is a blunt tool, but when used with emotional weight, it works.
+
+At the end of *A Court of Silver Flames*, Nesta Archeron possesses the power of death itself, along with silver fire that could theoretically solve every future problem. Maas handles this by having Nesta voluntarily give her power back to the Cauldron in order to save her sister and her unborn child. The sacrificial reset works because it's a character choice rooted in love, not a mechanical limitation imposed from outside.
+
+The craft lesson: if your character needs to lose power, make the loss a *choice* that reveals who they are. A forced power-drain feels like the author nerfing the character. A voluntary sacrifice for someone they love feels like the climax of a character arc.
+
+**Before you use this technique, check two things:**
+
+1. Has the character had at least one moment of genuine mastery with their power? Readers need to see what the power can do at full strength before they'll accept it being given up. If the character never gets to be powerful, the sacrifice feels hollow.
+2. Does the sacrifice serve the romance, not just the plot? In Nesta's case, the sacrifice is an act of love for her sister. That's what makes it emotionally satisfying rather than mechanically convenient.
+
+**Is any character in your story too powerful for the stakes to feel real?**
+
+_______________________________________________________________
+
+**What could they sacrifice, and for whom?**
+
+_______________________________________________________________
+
+**Does the sacrifice come from love, duty, or plot mechanics?**
+
+*If the answer is "plot mechanics," reconsider. Readers can tell the difference.*
+
+_______________________________________________________________
+
+### The Perspective Upgrade
+
+Sometimes you need to change a character's origin, nature, or history after you've already established something different. The fix: give your narrator a new way of seeing.
+
+In *A Court of Wings and Ruin*, Feyre notices for the first time that Lucien resembles Helion, the High Lord of the Day Court, rather than Beron, the High Lord of the Autumn Court. This wasn't a detail readers could have caught earlier because Feyre didn't have the "spell-cleaving" vision that Helion's power grants her. The parentage was always true; Feyre simply couldn't see it until she had the right lens.
+
+If you need to change a character's backstory or reveal a hidden nature, you can grant your narrator a new capability (magical, emotional, or simply experiential) that allows them to see what was always there. This transforms a contradiction into a moment of growth.
+
+**What do you need your narrator to see differently?**
+
+_______________________________________________________________
+
+**What new lens could make that possible?**
+
+*A magical ability, a new perspective gained through experience, a piece of information that reframes what they've already observed?*
+
+_______________________________________________________________
+
+**Can you establish this lens before the scene where they need it?**
+
+_______________________________________________________________
+
+### Choosing Your Fix
+
+Not every inconsistency needs the same tool. Here's a quick reference for matching the problem to the technique:
+
+| Type of Inconsistency | Best Technique | Example |
+| --- | --- | --- |
+| A power or ability appears that wasn't set up | Second-Draft Seeding | Plant hints at 15-20% and midpoint; add a minor struggle scene |
+| Your world has outgrown its original mythology | The Ignorance Shield | Frame early worldbuilding as narrator's limited understanding |
+| A truth-constrained character said something false | Linguistic Literalism | Rephrase as question, omission, or technical truth |
+| A character is too powerful for stakes to hold | The Sacrificial Reset | Have them choose to give up power for someone they love |
+| A character's origin or nature needs to change | The Perspective Upgrade | Give the narrator a new lens that reveals what was always there |
+| A historical date, timeline, or fact contradicts earlier chapters | The False History | Reveal the "history" was written by the winners or the propagandists |
+
+**Your most pressing consistency problem:**
+
+_______________________________________________________________
+
+**Which technique fits?**
+
+_______________________________________________________________
+
+**What specific changes do you need to make, and where in the manuscript?**
 
 _______________________________________________________________
 
