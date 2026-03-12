@@ -49,14 +49,14 @@ The best romantasy writers understand that constraints create romance. The rule 
 
 **How to fix it:** For every rule your characters break, write down the specific consequence that should follow. Then either let the consequence happen (which often creates richer story) or establish a clear, in-world reason it doesn't (a witness was bribed, a protector intervened, the evidence was destroyed). The consequence doesn't have to land immediately, but the *threat* of it should be present and the reader should be able to see why it didn't land this time.
 
+*Use the table below to identify which mistakes are showing up in your current draft. Be specific about the scene or chapter where the problem occurs.*
+
 | Mistake | How It Shows Up in Your Story | Your Fix |
 | --- | --- | --- |
+| *Selective enforcement* | *Guards patrol the east wing in Ch. 3 but are completely absent when the leads meet there in Ch. 8, with no explanation* | *Add a scene in Ch. 7 where the guard rotation changes due to a festival, and have a minor character mention it* |
 | **Selective enforcement:** rules apply when convenient, disappear when not | | |
-| Selective enforcement | | |
 | **Forgotten ability:** character has a power that would solve the problem but doesn't use it | | |
-| Forgotten ability | | |
 | **Consequence vacuum:** rules are broken but nothing happens | | |
-| Consequence vacuum | | |
 
 ---
 
@@ -76,6 +76,7 @@ You've already built your magic system with sources, costs, limitations, and for
 
 | Rule | Where It's Established | Has It Held Consistently? |
 | --- | --- | --- |
+| *Winnowing costs energy and can be tracked (ACOMAF)* | *Ch. 4, Rhysand explains the cost* | *Yes* |
 | 1. | | Yes / No |
 | 2. | | Yes / No |
 | 3. | | Yes / No |
@@ -100,6 +101,7 @@ Political rules create some of the most powerful romantic obstacles, but only if
 
 | Law or Political Reality | What Happens If It's Broken | Has It Been Enforced Consistently? |
 | --- | --- | --- |
+| *Humans cannot hold power in Elfhame (The Cruel Prince)* | *Execution or exile* | *Yes, which is why Jude's rise is so dangerous* |
 | 1. | | Yes / No |
 | 2. | | Yes / No |
 | 3. | | Yes / No |
@@ -122,11 +124,14 @@ Cultural rules operate differently from legal ones. No one arrests you for break
 
 | Cultural Rule or Taboo | Social Consequence for Breaking It | Have Characters Broken It? | Was There a Reaction? |
 | --- | --- | --- | --- |
+| *The Maiden must not be touched (FBAA)* | *Religious scandal, loss of Maiden status* | *Yes, Poppy and Hawke* | *Yes, multiple characters register the transgression* |
 | 1. | | Yes / No | Yes / No |
 | 2. | | Yes / No | Yes / No |
 | 3. | | Yes / No | Yes / No |
 
 *If a character breaks a taboo and no one reacts, readers notice. Even if the main characters get away with it temporarily, someone in the world should register that a line has been crossed.*
+
+*Who in your world would notice the transgression, even if they don't act on it immediately? A servant, a rival, a parent, a religious figure?*
 
 _______________________________________________________________
 
@@ -142,11 +147,14 @@ Your geography section established distances, travel times, and environmental da
 
 | Physical Limitation | How It Affects Your Romance | Has It Remained Consistent? |
 | --- | --- | --- |
+| *Three-week journey between Velaris and the Spring Court (ACOMAF)* | *Creates agonising separation; reunion carries emotional weight* | *Yes* |
 | 1. | | Yes / No |
 | 2. | | Yes / No |
 | 3. | | Yes / No |
 
 **Have any of these limitations stopped mattering when they became inconvenient?**
+
+*If a journey that took weeks in chapter two takes days in chapter fifteen, you need a reason. New transportation? A shortcut that carries risk? Desperation overriding safety? Name the limitation and what changed.*
 
 _______________________________________________________________
 
@@ -164,6 +172,7 @@ Religious obstacles carry unique weight because they operate at the level of ide
 
 | Religious Obligation | What It Demands | What Breaking It Costs | Has It Been Enforced? |
 | --- | --- | --- | --- |
+| *The Maiden's vow of purity (FBAA)* | *No physical contact, no pleasure, no romantic attachment* | *Loss of divine status, endangers the kingdom's protection* | *Yes, consistently until the reveal changes the reason* |
 | 1. | | | Yes / No |
 | 2. | | | Yes / No |
 
@@ -230,11 +239,15 @@ For the same scene:
 
 **What would actually happen if they were caught?**
 
+*Be specific. Not "it would be bad" but the actual consequence: imprisonment, forced separation, public shaming, magical punishment, death. The more concrete the consequence, the more tension the scene carries.*
+
 _______________________________________________________________
 
 _______________________________________________________________
 
 **Who would catch them, and why haven't they?**
+
+*Name the specific character or group. A guard, a rival, a parent, a magical ward. Then explain why that person or system hasn't intervened yet.*
 
 _______________________________________________________________
 
@@ -262,6 +275,7 @@ _______________________________________________________________
 
 | Scene | Could Any Listed Ability Solve This? | If Yes, Why Doesn't It? | Is That Reason Established in the Text? |
 | --- | --- | --- | --- |
+| *Feyre trapped Under the Mountain (ACOTAR)* | *Yes, her emerging powers could help* | *She doesn't yet know she has them; Amarantha's magic suppresses most Fae abilities* | *Yes, both established* |
 | | | | Yes / No |
 | | | | Yes / No |
 | | | | Yes / No |
@@ -278,8 +292,11 @@ One of the most common consistency problems in romantasy isn't a broken rule. It
 
 **Outline your major fantasy plot points alongside your romantic beats:**
 
+*Map these side by side. If your romantic beats cluster in "quiet" chapters between plot events, you may have a pacing problem disguised as a consistency problem.*
+
 | Fantasy Plot Point | Romantic Beat | Are They Happening Simultaneously? |
 | --- | --- | --- |
+| *Violet must survive the Gauntlet (Fourth Wing)* | *Xaden saves her life, forcing reluctant trust* | *Yes, the romance IS the plot event* |
 | 1. | 1. | Yes / No |
 | 2. | 2. | Yes / No |
 | 3. | 3. | Yes / No |
@@ -304,6 +321,7 @@ _______________________________________________________________
 
 | Romantic Moment | Active External Pressure | If None, What Could You Add? |
 | --- | --- | --- |
+| *First kiss (ACOMAF)* | *Feyre and Rhysand are mid-mission, surrounded by political danger; Amarantha's legacy still threatens both courts* | *N/A, pressure is active* |
 | | | |
 | | | |
 | | | |
@@ -336,6 +354,8 @@ _______________________________________________________________
 
 **If deadlines are separate, can you align them?**
 
+*Separate deadlines create the "two stories in one book" problem. If your fantasy climax and your romantic climax happen at different times, one will feel like an afterthought. Look for ways to make the romantic choice and the fantasy choice the same choice.*
+
 _______________________________________________________________
 
 ---
@@ -350,24 +370,33 @@ Mishandled information is one of the fastest ways to break consistency. Characte
 
 **What does your protagonist know, and when did they learn it?**
 
+*Focus on information that affects the romance: secrets about the love interest, knowledge that would change how they feel, facts that could bring them together or tear them apart.*
+
 | Key Information | When They Learned It | How They Learned It |
 | --- | --- | --- |
+| *Poppy learns Hawke is actually Casteel (FBAA)* | *End of Book One* | *He reveals it during the kidnapping* |
 | | | |
 | | | |
 | | | |
 
 **What does your love interest know, and when did they learn it?**
 
+*Your love interest's secrets are often the engine of the romantic tension. Track them just as carefully.*
+
 | Key Information | When They Learned It | How They Learned It |
 | --- | --- | --- |
+| *Casteel knows Poppy is the Maiden from the start (FBAA)* | *Before the story begins* | *Intelligence from his kingdom* |
 | | | |
 | | | |
 | | | |
 
 **Information asymmetry between your leads:**
 
+*This is where romantic tension lives. Every secret one character holds creates a power imbalance, and every reveal shifts the dynamic.*
+
 | What Protagonist Knows That Love Interest Doesn't | What Love Interest Knows That Protagonist Doesn't |
 | --- | --- |
+| *Feyre knows she's spying for Tamlin at the Night Court (ACOMAF)* | *Rhysand knows they're mates before Feyre does* |
 | | |
 | | |
 
@@ -376,6 +405,8 @@ Mishandled information is one of the fastest ways to break consistency. Characte
 ### The Reveal Check
 
 **Your major revelation or secret:**
+
+*The secret that, once revealed, changes the romantic relationship. A hidden identity, a concealed motive, a truth about the world that reframes everything between them.*
 
 _______________________________________________________________
 
@@ -389,11 +420,15 @@ _______________________________________________________________
 
 **Does any character act on information they shouldn't have yet?**
 
+*This is especially common with love interests who have secret knowledge. Does your love interest react to a threat before the protagonist has told them about it? Does a character show jealousy about something they shouldn't know yet?*
+
 _______________________________________________________________
 
 ### The Misunderstanding Check
 
 **Your major misunderstanding:**
+
+*The belief, assumption, or missing piece of information that keeps your leads apart. What does one character believe about the other that is wrong, and what would change if they knew the truth?*
 
 _______________________________________________________________
 
@@ -443,6 +478,20 @@ In *A Court of Mist and Fury*, the Court of Nightmares scene demonstrates this p
 
 **4. Physical tell-tale signs.** Give the truth a visible signature that your narrator misinterprets. In *Fourth Wing*, Jack Barlowe's eyes have a red ring when he's agitated. Violet attributes this to his dragon's influence. Readers later learn it's the biological marker of a venin who has started drawing power from the earth. In *The Cruel Prince*, faerie fruit is established as intoxicating and addictive to mortals. When Valerian forces a faerie apple into Jude's mouth, her geas (which protects against mental enchantment) doesn't fail; the biological properties of the fruit simply operate on a different system than the geas covers. The rules are all consistent. Jude was just arrogant enough to think one protection covered everything.
 
+**Planning Your Unreliable Lens**
+
+*If your narrator's understanding of the world is going to shift, you need to plan how the truth leaks through before the reveal. Use the table below to map which techniques you're using and where.*
+
+| Technique | What the Narrator Perceives | What's Actually Happening | Where It Appears in Your Story |
+| --- | --- | --- | --- |
+| *Sensory dissonance (FBAA)* | *Poppy feels the Ascended are unnaturally cold* | *They're undead parasites, not divine beings* | *Multiple early scenes where she touches or stands near them* |
+| Sensory dissonance | | | |
+| Anchor rule | | | |
+| Semantic misdirection | | | |
+| Physical tell-tale sign | | | |
+
+*You don't need to use all four. One or two, used consistently, is enough. The key is that the technique appears more than once before the reveal, so readers can look back and see the pattern.*
+
 **The Recontextualisation Test**
 
 When your narrator's understanding shifts (they learn the truth about a character, a system, or a history), earlier scenes should gain new meaning without losing their original logic.
@@ -455,6 +504,7 @@ _______________________________________________________________
 
 | Earlier Scene | What It Meant Before the Reveal | What It Means After | Do Both Interpretations Follow From the Evidence in the Scene? |
 | --- | --- | --- | --- |
+| *Rhysand at Calanmai (ACOTAR)* | *A predatory stranger claiming Feyre* | *A man finding his mate and trying to scare her to safety* | *Yes, his behaviour is consistent with both readings* |
 | | | | Yes / No |
 | | | | Yes / No |
 
@@ -466,6 +516,8 @@ _______________________________________________________________
 
 | Source of the Narrator's Wrong Belief | What They Believe | What's Actually True | When Does the Glass Break? |
 | --- | --- | --- | --- |
+| *Religious indoctrination (FBAA)* | *The Ascended are divine protectors* | *They're parasitic vampyres* | *When Poppy sees the truth about what "Ascension" actually does* |
+| | | | |
 | | | | |
 
 *The gold standard is when a reader finishes your reveal and immediately wants to reread the early chapters, not because they feel tricked, but because they know the experience will be richer the second time.*
@@ -480,6 +532,8 @@ For any major plot event, especially your climax and major turning points, apply
 
 **Was this possibility established earlier?**
 
+*In romantasy, the climax often involves a magical or emotional breakthrough: a new power manifests, a bond activates, a sacrifice becomes possible. If it wasn't seeded earlier, it feels like a cheat. If it was, it feels like destiny.*
+
 If magic does something new in the climax, was it hinted that magic could do this? If a character reveals a hidden skill, were there earlier signs? If a rule changes, was the change foreshadowed?
 
 _______________________________________________________________
@@ -490,6 +544,8 @@ _______________________________________________________________
 
 **Does this outcome follow logically from established rules?**
 
+*This is where many romantasy climaxes stumble. The power of love is real in your genre, but it still needs to operate within the system you built. "Love conquers all" is an emotional truth; it shouldn't be a magical loophole.*
+
 Given what you've established about how your world works, does this make sense? Not "is it plausible in general" but "does it follow from the specific rules I've built?"
 
 _______________________________________________________________
@@ -497,6 +553,8 @@ _______________________________________________________________
 ### 3. The Character Test
 
 **Would these characters actually do this, given who they are and what they know?**
+
+*In romantasy, this question matters twice: once for the fantasy plot decision and once for the romantic one. Would your protagonist really sacrifice themselves here? Would your love interest really betray their people for this person? The answer needs to come from the character's arc, not the plot's needs.*
 
 Not what you need them to do. What they would actually choose, based on their established personality, their current knowledge, and their emotional state.
 
@@ -528,8 +586,11 @@ Sometimes you should break a rule. The key is doing it intentionally, with setup
 
 **Have you intentionally broken a rule?**
 
+*The best rule-breaks in romantasy serve the love story. The impossible becomes possible because of the bond, the sacrifice, or the choice to love. That's earned. The impossible becoming possible because you needed a happy ending is not.*
+
 | The Rule | Why You Broke It | What Makes It Justified | What Consequences Follow |
 | --- | --- | --- | --- |
+| *Nesta's death magic is irreversible (ACOSF)* | *She gives it back to the Cauldron to save Feyre and the baby* | *It's a sacrificial choice rooted in love, set up by her entire character arc* | *She loses her power permanently; must rebuild her identity without it* |
 | | | | |
 | | | | |
 
@@ -567,6 +628,18 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**Categorise your known inconsistencies:**
+
+*Be honest. List every inconsistency you're aware of and sort it. The "forgivable" column isn't a free pass; it's a triage tool. Fix the unforgivable ones first, then decide which forgivable ones are worth fixing anyway.*
+
+| The Inconsistency | Forgivable or Unforgivable? | Why? | Action: Fix, Flag for Revision, or Accept? |
+| --- | --- | --- | --- |
+| *Travel time between cities varies by a day or two (minor)* | *Forgivable* | *Not plot-critical; emotional pacing matters more* | *Accept* |
+| *Protagonist's telepathy could have solved the misunderstanding in Ch. 9* | *Unforgivable* | *Readers will ask "why didn't she just read his mind?"* | *Fix: add a reason the ability doesn't work here* |
+| | | | |
+| | | | |
+| | | | |
+
 ---
 
 ## Part Seven: Fixing What You've Already Written
@@ -592,6 +665,8 @@ The technique works like this:
 **A word of caution:** A retroactive fix must not invalidate the struggle that came before it. If your characters spent three chapters smuggling a rare weapon because it was the "only thing that could kill the enemy," and then you reveal that a dragon could have done it all along, readers will feel the earlier tension was wasted. The new rule should complement the existing struggle, not erase it.
 
 **Your consistency problem that needs seeding:**
+
+*Focus on problems that directly affect the romance. A power that manifests to save the love interest, a truth about the bond that changes everything, a secret that reframes the entire relationship.*
 
 _______________________________________________________________
 
@@ -625,6 +700,7 @@ This technique is powerful, but it has a limit. If you use it too many times, re
 
 | What Your Narrator Believed Early On | What's Actually True | Is the Early Belief Logical Given Their Background? | Does the Reveal Add Emotional Depth or Just Complexity? |
 | --- | --- | --- | --- |
+| *Poppy believes "Ascension" is divine transcendence (FBAA)* | *It's parasitic death* | *Yes, she was raised by the Ascended themselves* | *Depth: reframes every relationship she's ever had* |
 | | | Yes / No | Depth / Complexity |
 | | | Yes / No | Depth / Complexity |
 
@@ -649,13 +725,19 @@ This technique transforms a worldbuilding limitation into one of the most satisf
 
 **Do any of your characters operate under a speech or honesty constraint?**
 
+*Fae who cannot lie, bond-linked characters who sense deception, oath-bound warriors, prophets who can only speak truth. If any character in your story has a speech constraint, every line of their dialogue needs to pass the literalism test.*
+
 _______________________________________________________________
 
 **Have they said anything in your draft that technically breaks that constraint?**
 
+*Read their dialogue line by line. If you find a statement that is factually false, it needs to be rephrased. Pay special attention to romantic scenes, where characters under truth constraints might say "I don't care about you" or "You mean nothing to me" when the opposite is true.*
+
 _______________________________________________________________
 
 **How can you rephrase it as a question, omission, or technical truth?**
+
+*"I don't want you" becomes "Do you think I want this?" (question). "I feel nothing" becomes silence or a subject change (omission). "You're safe" becomes "No one will harm you while I'm here" (technically true, different implication).*
 
 _______________________________________________________________
 
@@ -674,9 +756,13 @@ The craft lesson: if your character needs to lose power, make the loss a *choice
 
 **Is any character in your story too powerful for the stakes to feel real?**
 
+*If your protagonist or love interest could solve every problem with their magic, your romantic obstacles dissolve. There's no tension in "will they survive?" if the answer is obviously yes.*
+
 _______________________________________________________________
 
 **What could they sacrifice, and for whom?**
+
+*The most emotionally powerful sacrifices in romantasy are for the love interest or for someone the love interest cares about. Nesta sacrifices her power for Feyre. The sacrifice serves the romance because it proves the depth of feeling that Nesta spent the whole book denying.*
 
 _______________________________________________________________
 
@@ -696,15 +782,19 @@ If you need to change a character's backstory or reveal a hidden nature, you can
 
 **What do you need your narrator to see differently?**
 
+*In romantasy, this is often about the love interest. Your narrator saw them one way; now they need to see the truth. What changes their perception: the bond deepening, a new magical ability, or simply spending enough time together to see past the mask?*
+
 _______________________________________________________________
 
 **What new lens could make that possible?**
 
-*A magical ability, a new perspective gained through experience, a piece of information that reframes what they've already observed?*
+*A magical ability, a new perspective gained through experience, the bond revealing something it previously concealed, or a piece of information that reframes what they've already observed?*
 
 _______________________________________________________________
 
 **Can you establish this lens before the scene where they need it?**
+
+*The lens should feel like character growth, not a plot device. If it's a magical ability, let them struggle with it before it becomes useful. If it's emotional growth, show the incremental shifts.*
 
 _______________________________________________________________
 
@@ -723,6 +813,8 @@ Not every inconsistency needs the same tool. Here's a quick reference for matchi
 
 **Your most pressing consistency problem:**
 
+*The one that, if a reader caught it, would make them stop trusting your world and your romance.*
+
 _______________________________________________________________
 
 **Which technique fits?**
@@ -730,6 +822,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What specific changes do you need to make, and where in the manuscript?**
+
+*Be concrete: "Add a line in Ch. 5 where [character] notices [detail]" is better than "foreshadow the reveal earlier."*
 
 _______________________________________________________________
 
@@ -763,6 +857,8 @@ Use this checklist for any major plot point or romantic beat. If you can check e
 
 **Rules that absolutely must hold (break these and readers lose trust):**
 
+*These are the promises your entire romance depends on. The cost of magic, the law that forbids their union, the bond's mechanics, the physical danger that forces them together.*
+
 _______________________________________________________________
 
 _______________________________________________________________
@@ -771,17 +867,23 @@ _______________________________________________________________
 
 **Rules you can bend slightly (as long as bending is consistent):**
 
+*Minor timing, background details, vague power levels. These can flex if the emotional story is strong enough.*
+
 _______________________________________________________________
 
 _______________________________________________________________
 
 **Consequences that must happen if rules are broken:**
 
+*What's the worst thing that happens if your characters get caught? This consequence should be specific, not vague. Name it.*
+
 _______________________________________________________________
 
 _______________________________________________________________
 
 **The biggest consistency risk in your story right now:**
+
+*The scene, rule, or plot point you're most worried about. The one where you know a careful reader might say "wait, but what about...?"*
 
 _______________________________________________________________
 
