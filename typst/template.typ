@@ -1,0 +1,579 @@
+// ============================================================
+// Romantasy Worldbuilding Workbook — Typst Template
+// ============================================================
+// Reusable layout components matching the workbook's visual
+// language: forest green + gold + warm cream, double border,
+// serif display + elegant accent + clean body type.
+// ============================================================
+
+// --- Color Palette ---
+#let color-theme     = rgb("#065f46")   // forest green
+#let color-theme-light = rgb("#065f46").lighten(90%)
+#let color-bg        = rgb("#fdfbf7")   // warm cream
+#let color-noir      = rgb("#1a1515")   // near-black
+#let color-accent    = rgb("#e2c98a")   // gold
+#let color-danger    = rgb("#9f1239")   // deep red
+#let color-text-main = rgb("#121212")
+#let color-text-sub  = rgb("#444444")
+#let color-text-muted = rgb("#888888")
+
+// --- Font Stacks ---
+#let font-display = "Libre Baskerville"
+#let font-accent  = "Cormorant Garamond"
+#let font-body    = "Inter"
+
+// ============================================================
+// Document Setup
+// ============================================================
+
+#let workbook-setup(
+  title: "The Romantasy Worldbuilding Workbook",
+  body,
+) = {
+  set document(title: title)
+
+  // Page geometry — 8.5 × 11 in, generous margins
+  set page(
+    width: 8.5in,
+    height: 11in,
+    margin: (top: 1in, bottom: 1.25in, left: 1.1in, right: 1.1in),
+    fill: color-bg,
+
+    // Double decorative border on every page
+    background: {
+      // Outer green border
+      place(
+        dx: 15pt, dy: 15pt,
+        rect(
+          width: 100% - 30pt,
+          height: 100% - 30pt,
+          stroke: 3pt + color-theme,
+          fill: none,
+          radius: 0pt,
+        ),
+      )
+      // Inner gold border
+      place(
+        dx: 22pt, dy: 22pt,
+        rect(
+          width: 100% - 44pt,
+          height: 100% - 44pt,
+          stroke: 1pt + color-accent,
+          fill: none,
+          radius: 0pt,
+        ),
+      )
+    },
+
+    // Footer: section name (left) + page number (center)
+    footer: context {
+      let page-num = counter(page).get().first()
+      // suppress footer on first page
+      if page-num > 1 {
+        set text(font: font-display)
+        grid(
+          columns: (1fr, 1fr, 1fr),
+          align: (left, center, right),
+          text(
+            size: 0.6em,
+            tracking: 2pt,
+            fill: color-text-muted,
+            upper(title),
+          ),
+          text(
+            size: 0.7em,
+            weight: "bold",
+            fill: color-theme,
+            str(page-num),
+          ),
+          [],
+        )
+      }
+    },
+  )
+
+  // Base typography
+  set text(
+    font: font-body,
+    size: 11pt,
+    fill: color-text-main,
+  )
+  set par(
+    leading: 0.65em * 1.6,
+    justify: true,
+    first-line-indent: 0pt,
+  )
+
+  // Heading styles
+  show heading.where(level: 1): it => {
+    set text(
+      font: font-display,
+      size: 2em,
+      weight: "bold",
+      fill: color-noir,
+      tracking: 3pt,
+    )
+    block(above: 2em, below: 1.5em)[
+      #upper(it.body)
+    ]
+  }
+
+  show heading.where(level: 2): it => {
+    set text(
+      font: font-display,
+      size: 1.4em,
+      weight: "bold",
+      fill: color-noir,
+    )
+    block(
+      above: 2em,
+      below: 1em,
+    )[
+      #it.body
+      #v(0.5em)
+      #line(length: 100%, stroke: 2pt + color-accent)
+    ]
+  }
+
+  show heading.where(level: 3): it => {
+    set text(
+      font: font-display,
+      size: 1.1em,
+      weight: "bold",
+      fill: color-theme,
+    )
+    block(above: 1.5em, below: 0.75em, it.body)
+  }
+
+  show heading.where(level: 4): it => {
+    set text(
+      font: font-accent,
+      size: 1.1em,
+      weight: "semibold",
+      style: "italic",
+      fill: color-text-sub,
+    )
+    block(above: 1.25em, below: 0.5em, it.body)
+  }
+
+  body
+}
+
+
+// ============================================================
+// COMPONENTS
+// ============================================================
+
+// --- Title Page ---
+#let title-page(
+  title: "The Romantasy\nWorldbuilding Workbook",
+  tagline: none,
+) = {
+  page(
+    footer: none,
+  )[
+    #set align(center + horizon)
+    #block(width: 100%)[
+      #text(
+        font: font-display,
+        size: 2.5em,
+        weight: "bold",
+        tracking: 6pt,
+        fill: color-noir,
+      )[#upper(title)]
+
+      #v(2em)
+      #line(length: 100pt, stroke: 2pt + color-accent)
+      #v(2em)
+
+      #if tagline != none {
+        text(
+          font: font-accent,
+          size: 1.1em,
+          fill: color-text-muted,
+        )[#tagline]
+      }
+    ]
+  ]
+}
+
+
+// --- Section Title Page ---
+#let section-title-page(
+  number: none,
+  title: "",
+  intro: none,
+) = {
+  pagebreak(weak: true)
+  page(footer: none)[
+    #set align(left + horizon)
+    #block(width: 100%)[
+      #if number != none {
+        text(
+          font: font-display,
+          size: 0.75em,
+          tracking: 5pt,
+          fill: color-theme,
+        )[#upper("Section " + str(number))]
+        v(1em)
+      }
+
+      #text(
+        font: font-display,
+        size: 2.2em,
+        weight: "bold",
+        tracking: 3pt,
+        fill: color-noir,
+      )[#upper(title)]
+
+      #if intro != none {
+        v(1.5em)
+        text(
+          font: font-accent,
+          size: 1.15em,
+          style: "italic",
+          fill: color-text-sub,
+        )[#intro]
+      }
+    ]
+  ]
+}
+
+
+// --- Lead Text (italic intro paragraphs) ---
+#let lead-text(body) = {
+  block(below: 1.5em)[
+    #text(
+      font: font-accent,
+      size: 1.15em,
+      style: "italic",
+      fill: color-text-sub,
+    )[#body]
+  ]
+}
+
+
+// --- Hint Text (muted guidance) ---
+#let hint(body) = {
+  block(above: -0.3em, below: 1em)[
+    #text(
+      font: font-accent,
+      style: "italic",
+      fill: color-text-muted,
+      size: 0.95em,
+    )[#body]
+  ]
+}
+
+
+// --- Divider Flourish ---
+#let divider() = {
+  v(1em)
+  align(center)[
+    #box(width: 80pt, line(length: 100%, stroke: 2pt + color-accent))
+    #h(8pt)
+    #text(fill: color-accent, size: 1.2em)[◆]
+    #h(8pt)
+    #box(width: 80pt, line(length: 100%, stroke: 2pt + color-accent))
+  ]
+  v(1em)
+}
+
+
+// --- Anchor Card (key questions / principles) ---
+#let anchor-card(
+  title: "Anchor Question",
+  question: "",
+) = {
+  block(
+    width: 100%,
+    inset: 25pt,
+    stroke: 2pt + color-noir,
+    fill: white,
+    above: 1.5em,
+    below: 1.5em,
+    breakable: false,
+  )[
+    #text(
+      font: font-display,
+      size: 0.9em,
+      fill: color-theme,
+      tracking: 2pt,
+    )[#upper(title)]
+    #v(12pt)
+    #block(
+      inset: (left: 15pt),
+      stroke: (left: 3pt + color-accent),
+    )[
+      #text(
+        font: font-accent,
+        style: "italic",
+        size: 1.15em,
+      )[#question]
+    ]
+  ]
+}
+
+
+// --- Framework Box (key concepts / frameworks) ---
+#let framework-box(
+  title: "Framework",
+  body,
+) = {
+  block(
+    width: 100%,
+    inset: (x: 25pt, y: 20pt),
+    stroke: 2pt + color-theme,
+    fill: color-theme-light,
+    above: 1.5em,
+    below: 1.5em,
+    breakable: false,
+  )[
+    #text(
+      font: font-display,
+      size: 0.9em,
+      weight: "bold",
+      fill: color-theme,
+      tracking: 2pt,
+    )[#upper(title)]
+    #v(1em)
+    #body
+  ]
+}
+
+
+// --- Mistake Box (common errors / warnings) ---
+#let mistake-box(
+  title: "Common Mistake",
+  fix: none,
+  body,
+) = {
+  block(
+    width: 100%,
+    inset: (x: 25pt, y: 20pt),
+    stroke: (left: 4pt + color-danger, rest: none),
+    fill: color-danger.lighten(95%),
+    above: 1.5em,
+    below: 1.5em,
+    breakable: false,
+  )[
+    #text(
+      font: font-display,
+      size: 0.9em,
+      weight: "bold",
+      fill: color-danger,
+    )[#title]
+    #v(0.75em)
+    #set text(size: 0.9em)
+    #body
+    #if fix != none {
+      v(0.75em)
+      text(
+        font: font-display,
+        size: 0.65em,
+        tracking: 1pt,
+        fill: color-theme,
+      )[#upper("Fix")]
+      linebreak()
+      text(size: 0.9em)[#fix]
+    }
+  ]
+}
+
+
+// --- Writing Box (user input area) ---
+#let writing-box(
+  label: none,
+  height: 100pt,
+) = {
+  block(
+    width: 100%,
+    inset: (x: 20pt, y: 15pt),
+    stroke: 1pt + color-noir,
+    fill: white,
+    above: 1em,
+    below: 1.5em,
+    breakable: false,
+  )[
+    #if label != none {
+      text(
+        font: font-display,
+        size: 0.65em,
+        tracking: 2pt,
+        fill: color-theme,
+      )[#upper(label)]
+      v(0.5em)
+    }
+    #v(height)
+  ]
+}
+
+
+// --- Checklist ---
+#let checklist(..items) = {
+  block(above: 1em, below: 1em, breakable: false)[
+    #for item in items.pos() {
+      block(inset: (left: 30pt, bottom: 8pt))[
+        #place(
+          dx: -30pt,
+          dy: 2pt,
+          rect(
+            width: 16pt,
+            height: 16pt,
+            stroke: 1pt + color-theme,
+            fill: white,
+          ),
+        )
+        #text(size: 0.95em)[#item]
+      ]
+    }
+  ]
+}
+
+
+// --- Workbook Table (styled data table) ---
+#let workbook-table(
+  headers: (),
+  rows: (),
+  example-rows: (),
+) = {
+  let all-rows = ()
+
+  // Example rows first (highlighted)
+  for row in example-rows {
+    all-rows.push(row.map(cell =>
+      text(style: "italic", fill: color-text-muted)[#cell]
+    ))
+  }
+
+  // Regular rows
+  for row in rows {
+    all-rows.push(row)
+  }
+
+  block(above: 1.5em, below: 1.5em, breakable: false)[
+    #table(
+      columns: headers.len(),
+      fill: (col, row) => {
+        if row == 0 { color-theme }
+        else if row <= example-rows.len() { color-theme.lighten(92%) }
+        else if calc.rem(row, 2) == 0 { rgb("#00000005") }
+        else { none }
+      },
+      stroke: 1pt + color-noir,
+      inset: 12pt,
+      align: left,
+
+      // Headers
+      ..headers.map(h =>
+        text(
+          font: font-display,
+          size: 0.7em,
+          tracking: 1pt,
+          weight: "bold",
+          fill: white,
+        )[#upper(h)]
+      ),
+
+      // All data rows
+      ..all-rows.flatten(),
+    )
+  ]
+}
+
+
+// --- Input Table (tall cells for writing) ---
+#let input-table(
+  headers: (),
+  rows: (),
+  example-rows: (),
+  row-height: 55pt,
+) = {
+  let col-count = headers.len()
+
+  // Build all rows
+  let all-rows = ()
+
+  for row in example-rows {
+    all-rows.push(row.map(cell =>
+      text(style: "italic", fill: color-text-muted, size: 0.85em)[#cell]
+    ))
+  }
+
+  for row in rows {
+    // Ensure each cell has minimum height
+    all-rows.push(row.map(cell =>
+      block(height: row-height)[#cell]
+    ))
+  }
+
+  block(above: 1.5em, below: 1.5em)[
+    #table(
+      columns: col-count,
+      fill: (col, row) => {
+        if row == 0 { color-theme }
+        else if row <= example-rows.len() { color-theme.lighten(92%) }
+        else { white }
+      },
+      stroke: 1pt + color-noir,
+      inset: 12pt,
+      align: left,
+
+      ..headers.map(h =>
+        text(
+          font: font-display,
+          size: 0.7em,
+          tracking: 1pt,
+          weight: "bold",
+          fill: white,
+        )[#upper(h)]
+      ),
+
+      ..all-rows.flatten(),
+    )
+  ]
+}
+
+
+// --- Section Number Label ---
+#let section-number(num) = {
+  text(
+    font: font-display,
+    size: 0.7em,
+    tracking: 4pt,
+    fill: color-theme,
+  )[#upper("Section " + str(num))]
+}
+
+
+// --- Cross-Reference Callout ---
+#let cross-ref(section: "", note: "") = {
+  block(
+    width: 100%,
+    inset: (x: 20pt, y: 15pt),
+    stroke: (left: 3pt + color-accent),
+    fill: none,
+    above: 1em,
+    below: 1em,
+    breakable: false,
+  )[
+    #text(weight: "bold")[Continue in #section]
+    #linebreak()
+    #text(
+      font: font-accent,
+      style: "italic",
+      size: 0.95em,
+      fill: color-text-sub,
+    )[#note]
+  ]
+}
+
+
+// --- Writing Lines (blank ruled lines) ---
+#let writing-lines(count: 3) = {
+  v(0.5em)
+  for i in range(count) {
+    line(length: 100%, stroke: 0.5pt + color-text-muted)
+    v(1.5em)
+  }
+}

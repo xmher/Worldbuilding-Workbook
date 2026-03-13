@@ -1,0 +1,1063 @@
+{
+  "section_number": 1,
+  "title": "Geography & Environment",
+  "section_title_intro": "Geography isn't just a map — it's the landscape that shapes everything else. Mountains create borders that become political divisions. Deserts isolate cultures. Rivers determine where cities grow. Control of fertile valleys determines who holds power.",
+  "content": [
+    {
+      "type": "heading2",
+      "text": "In This Section"
+    },
+    {
+      "type": "heading3",
+      "text": "Concepts & Frameworks"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "How to Think About Geography",
+        "Common Geographic Patterns",
+        "Common Mistakes",
+        "Reference: Travel Times"
+      ]
+    },
+    {
+      "type": "heading3",
+      "text": "Part One: The Foundation"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "The Big Picture: World's Scale",
+        "Terrain Types",
+        "Resources & Territorial Control",
+        "The Sensory World",
+        "Climate, Weather & Seasons",
+        "Dangerous Regions",
+        "Borders & Boundaries"
+      ]
+    },
+    {
+      "type": "heading3",
+      "text": "Part Two: Geography & Romance"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Home & Belonging",
+        "Entering Each Other's Worlds",
+        "Travel & Distance",
+        "Isolated Locations",
+        "Geography as Emotional Landscape",
+        "Integration Check",
+        "Quick Reference"
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "hint",
+      "text": "This section is divided into two parts:"
+    },
+    {
+      "type": "prose",
+      "text": "**Part One: The Foundation** — The physical reality of your world. Terrain, climate, resources, dangers, and how geography shapes where and how people live. This is the geographic baseline that exists regardless of your characters' romantic situation."
+    },
+    {
+      "type": "prose",
+      "text": "**Part Two: Geography & Romance** — How physical geography creates romantic tension. Separation and proximity, dangerous journeys together, entering each other's worlds, places that hold emotional meaning."
+    },
+    {
+      "type": "prose",
+      "text": "You need both."
+    },
+    {
+      "type": "heading2",
+      "text": "A Note Before You Begin"
+    },
+    {
+      "type": "prose",
+      "text": "Not every question will apply to your story. **Skip what doesn't fit.**"
+    },
+    {
+      "type": "prose",
+      "text": "**Worldbuild for its own sake if you want.** A richly developed world has value beyond what appears on the page. Use the \"romance connection\" prompts for brainstorming if they're helpful, or leave them blank if that element is just background texture."
+    },
+    {
+      "type": "prose",
+      "text": "**Come back later.** If you're not sure whether something matters yet, skip it and return once your story has taken more shape."
+    },
+    {
+      "type": "prose",
+      "text": "This workbook is a tool, not a test."
+    },
+    {
+      "type": "heading2",
+      "text": "How to Think About Geography in Romantasy"
+    },
+    {
+      "type": "prose",
+      "text": "Geography in romantasy functions as a **pressure system** — the physical world can compress your characters together, force them apart, or create conditions where they must rely on each other. Before you draw a map, ask yourself: *What geographic situation does my romance need?*"
+    },
+    {
+      "type": "prose",
+      "text": "Not every hill and river needs to serve the plot. But the geography you emphasize — the locations where scenes happen, the terrain your characters traverse, the distances between them — should be doing something. Background geography creates atmosphere and believability. Foreground geography creates story."
+    },
+    {
+      "type": "framework_box",
+      "title": "The Geography-as-Friction Framework",
+      "content_blocks": [
+        {
+          "type": "hint",
+          "text": "Develop geography that creates friction — between your characters, or between what they want and what they can have."
+        },
+        {
+          "type": "heading_inline",
+          "text": "Separation Friction"
+        },
+        {
+          "type": "prose",
+          "text": "What physical obstacles keep them apart?"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Different kingdoms separated by mountains",
+            "An ocean that takes months to cross",
+            "A magical barrier that can only be crossed under certain conditions",
+            "War zones that make travel deadly"
+          ]
+        },
+        {
+          "type": "heading_inline",
+          "text": "Proximity Friction"
+        },
+        {
+          "type": "prose",
+          "text": "What forces them together despite themselves?"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "A snowed-in mountain pass",
+            "A ship voyage with no escape",
+            "An isolated estate or academy",
+            "A dangerous journey requiring partnership"
+          ]
+        },
+        {
+          "type": "heading_inline",
+          "text": "Resource Friction"
+        },
+        {
+          "type": "prose",
+          "text": "What geographic scarcity creates conflict?"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Water rights in a desert region",
+            "The only pass through the mountains",
+            "A rare magical resource found in contested territory",
+            "Trade routes that require cooperation between enemies"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "text": "Geography that doesn't create friction isn't wasted — it's just setting."
+    },
+    {
+      "type": "anchor_card",
+      "title": "The \"Pressure Cooker\" Principle",
+      "question": "The most effective romantasy settings function as pressure cookers — environments that trap characters together and force interaction. When characters can't escape each other, they're forced to confront conflict instead of avoiding it, rely on each other despite distrust, and share space long enough for attraction to build beneath their defenses."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Reference: Place Name Patterns"
+    },
+    {
+      "type": "heading3",
+      "text": "Common English Place Name Patterns"
+    },
+    {
+      "type": "hint",
+      "text": "Mix prefixes and suffixes to generate names. \"Ash\" + \"ford\" = Ashford. \"Black\" + \"moor\" = Blackmoor."
+    },
+    {
+      "type": "data_table",
+      "headers": ["Suffix", "Meaning", "Example"],
+      "rows": [
+        ["-ham", "homestead, village", "Nottingham"],
+        ["-ton / -town", "fenced settlement", "Brighton"],
+        ["-ford", "river crossing", "Oxford"],
+        ["-ley / -leigh", "clearing, meadow", "Barnsley"],
+        ["-dale / -vale", "valley", "Airedale"],
+        ["-burgh / -bury", "fortified place", "Edinburgh"],
+        ["-port", "harbor, market town", "Southport"],
+        ["-moor / -mere", "marshland, lake", "Windermere"],
+        ["-fell / -mount", "hill, mountain", "Scafell"],
+        ["-holme / -holm", "island, water meadow", "Stockholm"]
+      ]
+    },
+    {
+      "type": "heading3",
+      "text": "Nordic/Scandinavian Place Name Patterns"
+    },
+    {
+      "type": "hint",
+      "text": "Good for cold, northern, Viking-inspired settings. Old Norse roots appear in many English place names too."
+    },
+    {
+      "type": "data_table",
+      "headers": ["Element", "Meaning", "Example"],
+      "rows": [
+        ["-by", "farm, settlement", "Whitby, Grimsby"],
+        ["-vik / -wick", "bay, inlet", "Reykjavik, Lerwick"],
+        ["-fjord / -firth", "long narrow inlet", "Sognefjord"],
+        ["-heim / -hem", "home, world", "Trondheim"],
+        ["-berg / -borg", "mountain / fortress", "Gothenburg"],
+        ["-dal / -dalen", "valley", "Gudvangen"],
+        ["-ness / -nes", "headland, promontory", "Skagen"],
+        ["-stad / -sted", "place, site", "Halstead"],
+        ["-land", "land, territory", "Iceland, Gotland"],
+        ["-thwaite", "clearing, meadow", "Braithwaite"]
+      ]
+    },
+    {
+      "type": "heading3",
+      "text": "Celtic/Welsh Place Name Patterns"
+    },
+    {
+      "type": "hint",
+      "text": "Good for mystical, ancient, fae-adjacent settings. Celtic names often describe landscape features poetically."
+    },
+    {
+      "type": "data_table",
+      "headers": ["Element", "Meaning", "Example"],
+      "rows": [
+        ["Aber-", "river mouth", "Aberdeen, Aberystwyth"],
+        ["Caer- / Car-", "fort, stronghold", "Caernarfon, Cardiff"],
+        ["Llan-", "church, sacred enclosure", "Llandudno"],
+        ["Pen-", "head, top, end", "Penrith, Penzance"],
+        ["Tre- / Tref-", "homestead, town", "Tremaine"],
+        ["Dun- / Din-", "hill fort", "Edinburgh (Dun Edin)"],
+        ["-combe / -cwm", "valley", "Ilfracombe"],
+        ["Glyn- / Glen-", "valley", "Glencoe"],
+        ["Loch- / Lough-", "lake", "Lochaber"],
+        ["Inver- / Innis-", "river mouth / island", "Inverness"]
+      ]
+    },
+    {
+      "type": "heading3",
+      "text": "Slavic Place Name Patterns"
+    },
+    {
+      "type": "hint",
+      "text": "Good for Eastern European-inspired settings. Slavic names often use descriptive compounds."
+    },
+    {
+      "type": "data_table",
+      "headers": ["Element", "Meaning", "Example"],
+      "rows": [
+        ["-grad / -gorod", "city, fortified place", "Belgrade, Novgorod"],
+        ["-ov / -ova / -ovo", "belonging to (possessive)", "Sarajevo, Krakow"],
+        ["Novo- / Novy-", "new", "Novosibirsk"],
+        ["Staro- / Stary-", "old", "Starograd"],
+        ["-pol / -pole", "field", "Sevastopol"],
+        ["Belo- / Byelo-", "white", "Belgrade (Beograd)"],
+        ["Cerno- / Cherno-", "black", "Chernobyl"],
+        ["-ice / -itz", "place suffix", "Katowice"],
+        ["-sk / -sko", "place/region suffix", "Gdansk, Minsk"],
+        ["Veliko- / Veliky-", "great, large", "Veliky Novgorod"]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Your World's Place Name Patterns"
+    },
+    {
+      "type": "hint",
+      "text": "Create prefixes and suffixes that fit your world's languages. What sounds right for this culture?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Prefix/Suffix", "Meaning", "Example in Your World"],
+      "example_rows": [
+        ["Kel- / -kel", "silver, moonlight", "Kelvareth (Silver City)"]
+      ],
+      "blank_rows": 7
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "The Big Picture: Your World's Scale"
+    },
+    {
+      "type": "heading4",
+      "text": "What's the geographic scope of your story?"
+    },
+    {
+      "type": "hint",
+      "text": "Check the scope that best fits your story, then note the primary locations where your romance actually takes place."
+    },
+    {
+      "type": "input_table",
+      "headers": ["Scope", "✓", "Primary Location(s)"],
+      "example_rows": [
+        ["Single city/location (isolated island, palace, academy)", "✓", "Thornwick Academy — a remote magical school on sea cliffs where students are trapped together for the term"]
+      ],
+      "rows": [
+        ["Single city/location", "", ""],
+        ["Single region (kingdom, province, territory)", "", ""],
+        ["Multiple regions (nations, continents)", "", ""],
+        ["Entire world (epic scope)", "", ""],
+        ["Multiple worlds/realms (parallel dimensions, portals)", "", ""],
+        ["Other: Describe", "", ""]
+      ]
+    },
+    {
+      "type": "heading4",
+      "text": "If your world is large, where specifically does your romance happen?"
+    },
+    {
+      "type": "hint",
+      "text": "You don't need to detail everything — just locations that matter."
+    },
+    {
+      "type": "input_table",
+      "headers": ["Location Type", "Name/Description"],
+      "example_rows": [
+        ["Primary location", "The Winter Court — an ice palace where protagonist is held hostage, forced into proximity with the prince"]
+      ],
+      "rows": [
+        ["Primary location", ""],
+        ["Secondary location", ""],
+        ["Secondary location", ""],
+        ["", ""],
+        ["", ""],
+        ["", ""]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Kingdoms & Nations Overview"
+    },
+    {
+      "type": "hint",
+      "text": "This is reference material. Fill in what you know now; come back as your world develops."
+    },
+    {
+      "type": "input_table",
+      "headers": ["Aspect", "Kingdom/Nation 1", "Kingdom/Nation 2"],
+      "rows": [
+        ["Name", "", ""],
+        ["Capital", "", ""],
+        ["Neighbouring lands", "", ""],
+        ["Known for", "", ""],
+        ["Main industry/resource", "", ""],
+        ["Climate", "", ""],
+        ["Primary species", "", ""],
+        ["Religion", "", ""],
+        ["Government type", "", ""],
+        ["Allies", "", ""],
+        ["Enemies/rivals", "", ""],
+        ["Notable landmark", "", ""],
+        ["Role in your story", "", ""]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Terrain Types"
+    },
+    {
+      "type": "hint",
+      "text": "Only fill in terrains that matter. If your characters never see a desert, skip it."
+    },
+    {
+      "type": "heading4",
+      "text": "What terrains shape your story?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Terrain", "Where?", "What It Provides", "What Challenges It Creates"],
+      "example_rows": [
+        ["Mountains", "Northern border between kingdoms", "Natural defense, mineral deposits, isolation for monasteries", "Impassable in winter, separates lovers from different kingdoms, treacherous passes"]
+      ],
+      "blank_rows": 5
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Resources & Territorial Control"
+    },
+    {
+      "type": "heading3",
+      "text": "Reference: Natural Resource Ideas"
+    },
+    {
+      "type": "hint",
+      "text": "Use this list for inspiration when filling out the table below."
+    },
+    {
+      "type": "data_table",
+      "headers": ["Category", "Examples"],
+      "rows": [
+        ["Precious Metals", "Gold, silver, copper, iron ore, bronze, platinum, mithril"],
+        ["Gems & Stones", "Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble"],
+        ["Textiles", "Silk, wool, linen, cotton, rare furs, leather, spider-silk, feathers"],
+        ["Food & Agriculture", "Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits"],
+        ["Animal Products", "Ivory, bone, whale oil, animal fat, beeswax, dyes from shells, ambergris"],
+        ["Plant Products", "Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee"],
+        ["Fuel & Energy", "Coal, oil, charcoal, peat, magical crystals, dragon-fire, captured lightning"],
+        ["Magical Resources", "Ley line access, enchanted springs, magical creatures, spell components"],
+        ["Curiosities", "Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight"]
+      ]
+    },
+    {
+      "type": "heading4",
+      "text": "What natural resources are geographically concentrated?"
+    },
+    {
+      "type": "hint",
+      "text": "Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Resource", "Where It's Found", "Who Controls It"],
+      "example_rows": [
+        ["Fertile farmland", "River valley between the two kingdoms", "Contested — marriage alliance proposed to end the conflict"]
+      ],
+      "rows": [
+        ["Fertile farmland", "", ""],
+        ["Fresh water", "", ""],
+        ["Timber/forests", "", ""],
+        ["Mineral deposits", "", ""],
+        ["Coastal access/ports", "", ""],
+        ["Mountain passes", "", ""],
+        ["Magical resources", "", ""],
+        ["", "", ""],
+        ["", "", ""]
+      ]
+    },
+    {
+      "type": "heading4",
+      "text": "What geographic resource creates tension or conflict in your world?"
+    },
+    {
+      "type": "hint",
+      "text": "Water rights? Arable land? Trade routes? Does the conflict show up as war, political marriage, trade embargo, or something subtler?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "How does geographic resource control affect your characters?"
+    },
+    {
+      "type": "hint",
+      "text": "Does one character's family/nation control something the other's needs? Is there territorial dispute between their peoples?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 4",
+      "note": "You've mapped where resources are found and who controls them. In Section 4: Resources & Scarcity, you'll explore how resource control creates economic stakes, cultural traditions, and romantic tension."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "The Sensory World"
+    },
+    {
+      "type": "heading4",
+      "text": "What does your primary setting look, sound, smell, and feel like?"
+    },
+    {
+      "type": "hint",
+      "text": "Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Sense", "Description"],
+      "rows": [
+        ["What you see", ""],
+        ["What you hear", ""],
+        ["What you smell", ""],
+        ["What the air feels like (temperature, humidity, wind)", ""]
+      ],
+      "row_height": "55pt"
+    },
+    {
+      "type": "heading4",
+      "text": "How does the environment change at different times of day?"
+    },
+    {
+      "type": "hint",
+      "text": "Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Time", "Description"],
+      "rows": [
+        ["Morning", ""],
+        ["Midday", ""],
+        ["Evening", ""],
+        ["Night", ""]
+      ],
+      "row_height": "55pt"
+    },
+    {
+      "type": "heading4",
+      "text": "What's beautiful about this place?"
+    },
+    {
+      "type": "hint",
+      "text": "The details a character falling in love would notice. What would make someone homesick for this place?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "What's harsh or uncomfortable about this place?"
+    },
+    {
+      "type": "hint",
+      "text": "What do people endure or complain about? What takes getting used to?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Climate, Weather & Seasons"
+    },
+    {
+      "type": "heading4",
+      "text": "What's the overall climate?"
+    },
+    {
+      "type": "hint",
+      "text": "Tropical, temperate, arid, polar? How does it shape what people wear, build, and grow?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "What seasons exist and how distinct are they?"
+    },
+    {
+      "type": "hint",
+      "text": "Traditional four seasons? A long winter and brief summer? Magical seasons tied to something other than the sun?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "What season is your story set in?"
+    },
+    {
+      "type": "hint",
+      "text": "Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Aspect", "Details"],
+      "rows": [
+        ["Season", ""],
+        ["What this season makes possible", ""],
+        ["What this season makes impossible", ""]
+      ],
+      "row_height": "55pt"
+    },
+    {
+      "type": "heading4",
+      "text": "How do seasons affect life in your world?"
+    },
+    {
+      "type": "hint",
+      "text": "When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Season", "What's Possible", "What's Impossible"],
+      "rows": [
+        ["Summer/warm season", "", ""],
+        ["Winter/cold season", "", ""],
+        ["Transitional seasons", "", ""]
+      ],
+      "row_height": "55pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Does the season create pressure or opportunity in your story?"
+    },
+    {
+      "type": "hint",
+      "text": "Racing against winter? Waiting for spring thaw? Only able to travel in summer?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Dangerous Regions"
+    },
+    {
+      "type": "heading4",
+      "text": "What regions are dangerous or forbidden?"
+    },
+    {
+      "type": "hint",
+      "text": "Every world has places people warn you not to go. What makes them deadly? What would force your characters there anyway?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Region", "What Makes It Dangerous", "Who Goes There Anyway (and Why)"],
+      "example_rows": [
+        ["The Blighted Wastes", "Corrupted magic, monsters, no water for miles, disorienting mists", "Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary"]
+      ],
+      "blank_rows": 5
+    },
+    {
+      "type": "heading4",
+      "text": "Do your characters travel through dangerous territory?"
+    },
+    {
+      "type": "hint",
+      "text": "Shared danger bonds people fast. What threats would force them to rely on each other?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Aspect", "Details"],
+      "rows": [
+        ["Where and why", ""],
+        ["What dangers they face", ""]
+      ],
+      "row_height": "75pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Borders & Boundaries"
+    },
+    {
+      "type": "heading4",
+      "text": "What geographic features create borders?"
+    },
+    {
+      "type": "hint",
+      "text": "Mountain ranges? Rivers? Oceans? Magical barriers? Deserts?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "How permeable are these borders?"
+    },
+    {
+      "type": "hint",
+      "text": "Easy to cross? Heavily guarded? Physically impassable? Seasonally accessible?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Do your characters come from opposite sides of a significant border?"
+    },
+    {
+      "type": "hint",
+      "text": "Borders create \"us\" and \"them.\" What assumptions would each character have about someone from the other side?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Aspect", "Details"],
+      "rows": [
+        ["What separates them", ""],
+        ["What crossing means (legally, socially, personally)", ""]
+      ],
+      "row_height": "75pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Home & Belonging"
+    },
+    {
+      "type": "heading4",
+      "text": "Where does your protagonist feel at home?"
+    },
+    {
+      "type": "hint",
+      "text": "The place that shaped them, where they feel most themselves:"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "What does home look, smell, sound like to them?"
+    },
+    {
+      "type": "hint",
+      "text": "The sensory details that mean \"home\":"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Where does your love interest feel at home?"
+    },
+    {
+      "type": "hint",
+      "text": "The place that shaped them, where they're most themselves. How different is it from your protagonist's home?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Where does each character feel like an outsider?"
+    },
+    {
+      "type": "hint",
+      "text": "Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Character", "Where They Feel Alien"],
+      "rows": [
+        ["Protagonist", ""],
+        ["Love interest", ""]
+      ],
+      "row_height": "75pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Entering Each Other's Worlds"
+    },
+    {
+      "type": "heading4",
+      "text": "Does one character visit the other's home territory?"
+    },
+    {
+      "type": "hint",
+      "text": "Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Aspect", "Details"],
+      "rows": [
+        ["Who visits whose world", ""]
+      ],
+      "row_height": "75pt"
+    },
+    {
+      "type": "heading4",
+      "text": "What's the sensory experience of entering unfamiliar territory?"
+    },
+    {
+      "type": "hint",
+      "text": "What do they notice first? What's strange? What's beautiful? What's uncomfortable?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "145pt"
+    },
+    {
+      "type": "heading4",
+      "text": "How does the \"native\" character see their home differently through the visitor's eyes?"
+    },
+    {
+      "type": "hint",
+      "text": "Pride? Shame? New appreciation? Defensiveness?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "What does the visitor understand about their partner after seeing where they come from?"
+    },
+    {
+      "type": "hint",
+      "text": "Place explains people. What becomes clear about your love interest once you see where they grew up?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Travel & Distance"
+    },
+    {
+      "type": "heading4",
+      "text": "How do people typically travel?"
+    },
+    {
+      "type": "hint",
+      "text": "On foot? Horseback? Ships? Flying creatures? Magical transportation?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Travel Time Reference"
+    },
+    {
+      "type": "hint",
+      "text": "These are real-world estimates. Feel free to adjust for your world."
+    },
+    {
+      "type": "data_table",
+      "headers": ["Mode of Travel", "Distance per Day", "Notes"],
+      "rows": [
+        ["Walking (comfortable pace)", "15–20 miles / 25–32 km", "Healthy adult with breaks"],
+        ["Forced march", "25–30 miles / 40–50 km", "Exhausting, not sustainable"],
+        ["Riding (sustainable)", "25–35 miles / 40–55 km", "One horse, regular rest"],
+        ["Hard ride", "40–50 miles / 65–80 km", "Tiring the horse"],
+        ["Changing horses (relay)", "80–100 miles / 130–160 km", "Fresh mounts at stations"],
+        ["Sailing ship (favorable wind)", "100–150 miles / 160–240 km", "Highly variable"],
+        ["Carriage/wagon", "20–30 miles / 32–50 km", "Roads required"]
+      ]
+    },
+    {
+      "type": "heading4",
+      "text": "How long does travel take between key locations?"
+    },
+    {
+      "type": "hint",
+      "text": "Distance creates stakes. A week apart feels different than a year. How painful is separation in your world?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Route", "Travel Time"],
+      "rows": [
+        ["From capital to border", ""],
+        ["From one character's home to the other's", ""],
+        ["Across the dangerous region", ""]
+      ],
+      "row_height": "55pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Do your characters undertake a significant journey?"
+    },
+    {
+      "type": "hint",
+      "text": "The road is where walls come down. What would a long journey together reveal about each of them?"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Aspect", "Details"],
+      "rows": [
+        ["From where to where", ""],
+        ["How long", ""],
+        ["What happens during the journey", ""]
+      ],
+      "row_height": "55pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Isolated Locations"
+    },
+    {
+      "type": "heading4",
+      "text": "What isolated locations exist?"
+    },
+    {
+      "type": "hint",
+      "text": "Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Location", "Type", "Why People Go", "Why Leaving Is Difficult"],
+      "example_rows": [
+        ["Stormhold Keep", "Remote mountain fortress", "Political prisoners sent there; protagonist exiled after scandal", "Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure"]
+      ],
+      "blank_rows": 5
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Geography as Emotional Landscape"
+    },
+    {
+      "type": "heading4",
+      "text": "What's the emotional quality of your primary setting?"
+    },
+    {
+      "type": "hint",
+      "text": "Does it feel oppressive, expansive, peaceful, threatening, beautiful, decaying?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Is there a location that becomes meaningful to your characters specifically?"
+    },
+    {
+      "type": "hint",
+      "text": "A place they return to, a place where something changed, a place that's \"theirs\":"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Integration Check"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Question", "Your Answer"],
+      "rows": [
+        ["How does geography explain cultural differences? (Reference: Section 3)", ""],
+        ["How does geography create or reinforce power structures? (Reference: Section 5)", ""],
+        ["How does geography interact with magic? (Reference: Section 8)", ""],
+        ["What geographic resource or territory is contested in your world?", ""]
+      ],
+      "row_height": "75pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Quick Reference: Geographic Stakes"
+    },
+    {
+      "type": "input_table",
+      "headers": ["Element", "Your World"],
+      "example_rows": [
+        ["Key location 1", "The Winter Court — where protagonist is hostage and love interest is prince"]
+      ],
+      "rows": [
+        ["Key location 1", ""],
+        ["Key location 2", ""],
+        ["Key location 3", ""],
+        ["The contested resource or territory", ""],
+        ["The barrier separating peoples or characters", ""],
+        ["The dangerous region", ""],
+        ["The isolated location", ""],
+        ["The significant journey (from → to)", ""],
+        ["The place that matters emotionally", ""],
+        ["", ""],
+        ["", ""]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Map Making: What to Include on Your Map"
+    },
+    {
+      "type": "hint",
+      "text": "Consider which of these appear in your world. You don't need all of them."
+    },
+    {
+      "type": "data_table",
+      "headers": ["Category", "Possible Locations"],
+      "rows": [
+        ["Geographic features", "Mountains, rivers, forests, lakes, coastlines, islands, deserts, swamps, valleys"],
+        ["Political boundaries", "Kingdom borders, disputed territories, neutral zones, conquered lands"],
+        ["Cities & settlements", "Capitals, port cities, border towns, villages, abandoned settlements"],
+        ["Trade & travel", "Major roads, trade routes, mountain passes, river crossings, ports"],
+        ["Fortifications", "Castles, walls, watchtowers, military camps, fortresses"],
+        ["Religious sites", "Temples, shrines, pilgrimage routes, sacred groves, forbidden places"],
+        ["Magical locations", "Ley lines, magical academies, cursed regions, power sources"],
+        ["Story-specific", "Where characters meet, where they're forbidden to go, where they flee to"]
+      ]
+    }
+  ]
+}
