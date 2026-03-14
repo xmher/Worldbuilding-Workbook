@@ -137,18 +137,11 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   rows: (
     ([Ash-], [ash tree], [Ashford, Ashby]),
     ([Black-], [dark, black], [Blackmoor, Blackpool]),
-    ([Brad- / Broad-], [broad, wide], [Bradford, Broadstairs]),
-    ([East- / West- / North- / South-], [direction], [Eastbourne, Westbury]),
     ([Glen- / Green-], [valley / green], [Glendale, Greenfield]),
-    ([Hol- / Hollow-], [hollow, low-lying], [Holmfirth, Holbrook]),
     ([King- / Bishop-], [royal / church estate], [Kingston, Bishopstoke]),
-    ([Long-], [long, extended], [Longford, Longdale]),
     ([New- / Old-], [new / old], [Newcastle, Oldham]),
-    ([Stone- / Stan-], [stone, rocky], [Stoneham, Stamford]),
-    ([Whit- / White-], [white], [Whitby, Whitfield]),
   ),
 )
-
 
 #workbook-table(
   headers: ("Suffix", "Meaning", "Example"),
@@ -157,12 +150,8 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([-ton / -town], [fenced settlement], [Brighton]),
     ([-ford], [river crossing], [Oxford]),
     ([-ley / -leigh], [clearing, meadow], [Barnsley]),
-    ([-dale / -vale], [valley], [Airedale]),
     ([-burgh / -bury], [fortified place], [Edinburgh]),
-    ([-port], [harbor, market town], [Southport]),
     ([-moor / -mere], [marshland, lake], [Windermere]),
-    ([-fell / -mount], [hill, mountain], [Scafell]),
-    ([-holme / -holm], [island, water meadow], [Stockholm]),
   ),
 )
 
