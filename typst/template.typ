@@ -224,9 +224,17 @@
 
     #v(0.8em)
 
-    // Decorative gold rule divider
+    // Decorative gold flourish with rule
     #align(center)[
-      #line(length: 200pt, stroke: 2pt + color-accent)
+      #grid(
+        columns: (80pt, 12pt, auto, 12pt, 80pt),
+        align: (horizon, horizon, horizon, horizon, horizon),
+        line(length: 100%, stroke: 1.5pt + color-accent),
+        [],
+        text(fill: color-accent, size: 2.5em)[❀],
+        [],
+        line(length: 100%, stroke: 1.5pt + color-accent),
+      )
     ]
 
     #v(0.8em)
