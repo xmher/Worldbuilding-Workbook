@@ -19,8 +19,6 @@ In romantasy, worldbuilding isn't separate from romance. The political marriage 
 This workbook helps you build worlds that create romantic tension by design.
 
 
-#divider()
-
 
 == Who This Is For
 
@@ -37,8 +35,6 @@ This workbook is for writers who want to:
 
 Whether you're writing your first romantasy or your tenth, whether you're a plotter who needs everything mapped before drafting or a pantser who discovers your world as you go — this workbook meets you where you are.
 
-
-#divider()
 
 
 == How This Workbook Is Structured
@@ -69,8 +65,6 @@ A magic system isn't just about what spells exist — it's about what happens wh
   #strong[You need both parts.] A romance between a servant and a prince needs a believable class system (foundation) that actually creates stakes and obstacles for their relationship (romance application). Skip the foundation and your world feels thin. Skip the romance application and you're not using your world to its full potential.
 ]
 
-
-#divider()
 
 
 == How to Use This Workbook
@@ -133,8 +127,6 @@ Throughout this workbook, you'll find examples drawn from popular romantasy nove
 But these examples aren't templates to copy. Your world should be #emph[yours]. Use the examples to understand the kind of thinking these questions invite, then develop answers that serve your unique story.
 
 
-#divider()
-
 
 == A Note on Tropes
 
@@ -163,8 +155,6 @@ The forbidden love isn't just "they're not supposed to be together" — it's the
 Build your world to support your tropes, and your tropes will sing.
 
 
-#divider()
-
 
 == Before You Begin
 
@@ -180,8 +170,6 @@ And remember: worldbuilding exists to serve the story. A beautifully detailed wo
 
 Build what you need. Skip what you don't. Make a world worth falling in love in.
 
-
-#divider()
 
 
 == The Sections
@@ -207,8 +195,6 @@ Build what you need. Skip what you don't. Make a world worth falling in love in.
 
 #strong[Appendix A: Revealing Worldbuilding in Prose] — A practical guide to deploying your worldbuilding in scenes without info-dumps.
 
-
-#divider()
 
 
 == Let's Begin

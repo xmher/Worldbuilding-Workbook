@@ -43,7 +43,7 @@
 - Quick Reference
 
 
-#divider()
+
 
 
 #hint[This section is divided into two parts:]
@@ -117,7 +117,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Reference: Place Name Patterns
@@ -253,7 +253,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Your World's Place Name Patterns
@@ -280,7 +280,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == The Big Picture: Your World's Scale
@@ -332,7 +332,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Kingdoms & Nations Overview
@@ -365,7 +365,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Terrain Types
@@ -393,7 +393,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Resources & Territorial Control
@@ -477,7 +477,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == The Sensory World
@@ -549,7 +549,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Climate, Weather & Seasons
@@ -631,7 +631,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Dangerous Regions
@@ -678,7 +678,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Borders & Boundaries
@@ -727,7 +727,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Home & Belonging
@@ -788,7 +788,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Entering Each Other's Worlds
@@ -848,7 +848,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Travel & Distance
@@ -926,7 +926,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Isolated Locations
@@ -954,7 +954,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Geography as Emotional Landscape
@@ -984,7 +984,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Integration Check
@@ -1005,7 +1005,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Quick Reference: Geographic Stakes
@@ -1033,7 +1033,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
+
 
 
 == Map Making: What to Include on Your Map
