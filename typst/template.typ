@@ -218,21 +218,31 @@
           font: font-display,
           size: 2.5em,
           weight: "bold",
-          tracking: 6pt,
+          tracking: 2pt,
           fill: color-noir,
         )
         #upper(title)
 
         #v(0.8em)
-        #line(length: 100pt, stroke: 2pt + color-accent)
+        // Decorative gold divider with diamond ornament
+        #box[
+          #set text(fill: color-accent, size: 0.9em)
+          #line(length: 60pt, stroke: 2pt + color-accent)
+          #h(6pt)
+          #text(font: font-body, size: 0.7em)[◆]
+          #h(6pt)
+          #line(length: 60pt, stroke: 2pt + color-accent)
+        ]
         #v(0.8em)
 
         #if tagline != none {
           set par(justify: false)
           text(
             font: font-accent,
-            size: 1.1em,
-            fill: color-text-muted,
+            size: 1.3em,
+            style: "italic",
+            weight: "semibold",
+            fill: color-theme,
           )[#tagline]
         }
       ]
