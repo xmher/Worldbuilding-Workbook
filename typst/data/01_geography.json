@@ -271,7 +271,7 @@
     },
     {
       "type": "data_table",
-      "headers": ["Element", "Meaning", "Example"],
+      "headers": ["Prefix / Suffix", "Meaning", "Example"],
       "rows": [
         ["Aber-", "river mouth", "Aberdeen, Aberystwyth"],
         ["Caer- / Car-", "fort, stronghold", "Caernarfon, Cardiff"],
@@ -295,7 +295,7 @@
     },
     {
       "type": "data_table",
-      "headers": ["Element", "Meaning", "Example"],
+      "headers": ["Prefix / Suffix", "Meaning", "Example"],
       "rows": [
         ["-grad / -gorod", "city, fortified place", "Belgrade, Novgorod"],
         ["-ov / -ova / -ovo", "belonging to (possessive)", "Sarajevo, Krakow"],

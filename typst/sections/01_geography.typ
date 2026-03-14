@@ -211,7 +211,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 
 #workbook-table(
-  headers: ("Element", "Meaning", "Example"),
+  headers: ("Prefix / Suffix", "Meaning", "Example"),
   rows: (
     ([Aber-], [river mouth], [Aberdeen, Aberystwyth]),
     ([Caer- / Car-], [fort, stronghold], [Caernarfon, Cardiff]),
@@ -234,7 +234,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 
 #workbook-table(
-  headers: ("Element", "Meaning", "Example"),
+  headers: ("Prefix / Suffix", "Meaning", "Example"),
   rows: (
     ([-grad / -gorod], [city, fortified place], [Belgrade, Novgorod]),
     ([-ov / -ova / -ovo], [belonging to (possessive)], [Sarajevo, Krakow]),
