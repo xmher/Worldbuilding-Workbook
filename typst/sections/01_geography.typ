@@ -136,7 +136,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 
 #workbook-table(
-  headers: ("Prefix", "Meaning", "Example"),
+  headers: ("Prefix / Suffix", "Meaning", "Example"),
   rows: (
     ([Ash-], [ash tree], [Ashford, Ashby]),
     ([Black-], [dark, black], [Blackmoor, Blackpool]),
@@ -149,13 +149,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([New- / Old-], [new / old], [Newcastle, Oldham]),
     ([Stone- / Stan-], [stone, rocky], [Stoneham, Stamford]),
     ([Whit- / White-], [white], [Whitby, Whitfield]),
-  ),
-)
-
-
-#workbook-table(
-  headers: ("Suffix", "Meaning", "Example"),
-  rows: (
     ([-ham], [homestead, village], [Nottingham]),
     ([-ton / -town], [fenced settlement], [Brighton]),
     ([-ford], [river crossing], [Oxford]),
@@ -180,7 +173,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 
 #workbook-table(
-  headers: ("Prefix", "Meaning", "Example"),
+  headers: ("Prefix / Suffix", "Meaning", "Example"),
   rows: (
     ([Stor- / Stór-], [great, large], [Storfjord, Stóravatn]),
     ([Ny- / Nýr-], [new], [Nykøbing, Nýdalur]),
@@ -192,13 +185,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Svar- / Svart-], [black, dark], [Svartskog, Svartengren]),
     ([Eld-], [fire], [Eldfjall, Eldhús]),
     ([Is- / Ís-], [ice], [Island (Iceland), Ísafjörður]),
-  ),
-)
-
-
-#workbook-table(
-  headers: ("Suffix", "Meaning", "Example"),
-  rows: (
     ([-by], [farm, settlement], [Whitby, Grimsby]),
     ([-vik / -wick], [bay, inlet], [Reykjavik, Lerwick]),
     ([-fjord / -firth], [long narrow inlet], [Sognefjord]),

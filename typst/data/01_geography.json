@@ -197,7 +197,7 @@
         },
         {
           "type": "data_table",
-          "headers": ["Prefix", "Meaning", "Example"],
+          "headers": ["Prefix / Suffix", "Meaning", "Example"],
           "rows": [
             ["Ash-", "ash tree", "Ashford, Ashby"],
             ["Black-", "dark, black", "Blackmoor, Blackpool"],
@@ -209,25 +209,19 @@
             ["Long-", "long, extended", "Longford, Longdale"],
             ["New- / Old-", "new / old", "Newcastle, Oldham"],
             ["Stone- / Stan-", "stone, rocky", "Stoneham, Stamford"],
-            ["Whit- / White-", "white", "Whitby, Whitfield"]
+            ["Whit- / White-", "white", "Whitby, Whitfield"],
+            ["-ham", "homestead, village", "Nottingham"],
+            ["-ton / -town", "fenced settlement", "Brighton"],
+            ["-ford", "river crossing", "Oxford"],
+            ["-ley / -leigh", "clearing, meadow", "Barnsley"],
+            ["-dale / -vale", "valley", "Airedale"],
+            ["-burgh / -bury", "fortified place", "Edinburgh"],
+            ["-port", "harbor, market town", "Southport"],
+            ["-moor / -mere", "marshland, lake", "Windermere"],
+            ["-fell / -mount", "hill, mountain", "Scafell"],
+            ["-holme / -holm", "island, water meadow", "Stockholm"]
           ]
         }
-      ]
-    },
-    {
-      "type": "data_table",
-      "headers": ["Suffix", "Meaning", "Example"],
-      "rows": [
-        ["-ham", "homestead, village", "Nottingham"],
-        ["-ton / -town", "fenced settlement", "Brighton"],
-        ["-ford", "river crossing", "Oxford"],
-        ["-ley / -leigh", "clearing, meadow", "Barnsley"],
-        ["-dale / -vale", "valley", "Airedale"],
-        ["-burgh / -bury", "fortified place", "Edinburgh"],
-        ["-port", "harbor, market town", "Southport"],
-        ["-moor / -mere", "marshland, lake", "Windermere"],
-        ["-fell / -mount", "hill, mountain", "Scafell"],
-        ["-holme / -holm", "island, water meadow", "Stockholm"]
       ]
     },
     {
@@ -243,7 +237,7 @@
         },
         {
           "type": "data_table",
-          "headers": ["Prefix", "Meaning", "Example"],
+          "headers": ["Prefix / Suffix", "Meaning", "Example"],
           "rows": [
             ["Stor- / Stór-", "great, large", "Storfjord, Stóravatn"],
             ["Ny- / Nýr-", "new", "Nykøbing, Nýdalur"],
@@ -254,25 +248,19 @@
             ["Kvit- / Hvít-", "white", "Kvitfjell, Hvítá"],
             ["Svar- / Svart-", "black, dark", "Svartskog, Svartengren"],
             ["Eld-", "fire", "Eldfjall, Eldhús"],
-            ["Is- / Ís-", "ice", "Island (Iceland), Ísafjörður"]
+            ["Is- / Ís-", "ice", "Island (Iceland), Ísafjörður"],
+            ["-by", "farm, settlement", "Whitby, Grimsby"],
+            ["-vik / -wick", "bay, inlet", "Reykjavik, Lerwick"],
+            ["-fjord / -firth", "long narrow inlet", "Sognefjord"],
+            ["-heim / -hem", "home, world", "Trondheim"],
+            ["-berg / -borg", "mountain / fortress", "Gothenburg"],
+            ["-dal / -dalen", "valley", "Gudvangen"],
+            ["-ness / -nes", "headland, promontory", "Skagen"],
+            ["-stad / -sted", "place, site", "Halstead"],
+            ["-land", "land, territory", "Iceland, Gotland"],
+            ["-thwaite", "clearing, meadow", "Braithwaite"]
           ]
         }
-      ]
-    },
-    {
-      "type": "data_table",
-      "headers": ["Suffix", "Meaning", "Example"],
-      "rows": [
-        ["-by", "farm, settlement", "Whitby, Grimsby"],
-        ["-vik / -wick", "bay, inlet", "Reykjavik, Lerwick"],
-        ["-fjord / -firth", "long narrow inlet", "Sognefjord"],
-        ["-heim / -hem", "home, world", "Trondheim"],
-        ["-berg / -borg", "mountain / fortress", "Gothenburg"],
-        ["-dal / -dalen", "valley", "Gudvangen"],
-        ["-ness / -nes", "headland, promontory", "Skagen"],
-        ["-stad / -sted", "place, site", "Halstead"],
-        ["-land", "land, territory", "Iceland, Gotland"],
-        ["-thwaite", "clearing, meadow", "Braithwaite"]
       ]
     },
     {
