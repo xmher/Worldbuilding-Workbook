@@ -200,7 +200,7 @@
       )[
         #set text(
           font: font-display,
-          size: 0.7em,
+          size: 1em,
           weight: "bold",
           tracking: 3pt,
           fill: white,
@@ -224,13 +224,9 @@
 
     #v(0.8em)
 
-    // Decorative gold floral divider
+    // Decorative gold rule divider
     #align(center)[
-      #line(length: 60pt, stroke: 1.5pt + color-accent)
-      #h(10pt)
-      #text(fill: color-accent, size: 1.4em)[❧]
-      #h(10pt)
-      #line(length: 60pt, stroke: 1.5pt + color-accent)
+      #line(length: 200pt, stroke: 2pt + color-accent)
     ]
 
     #v(0.8em)
@@ -240,7 +236,7 @@
       align(center)[
         #text(
           font: font-accent,
-          size: 1.5em,
+          size: 1.8em,
           style: "italic",
           weight: "semibold",
           tracking: 0pt,
