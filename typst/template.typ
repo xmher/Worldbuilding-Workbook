@@ -231,7 +231,7 @@
         align: (horizon, horizon, horizon, horizon, horizon),
         line(length: 100%, stroke: 1.5pt + color-accent),
         [],
-        text(fill: color-accent, size: 2.5em)[❀],
+        text(fill: color-accent, size: 2.5em)[✦],
         [],
         line(length: 100%, stroke: 1.5pt + color-accent),
       )
