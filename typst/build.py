@@ -199,6 +199,7 @@ def _format_cell(cell: str) -> str:
 def gen_data_table(item: dict) -> str:
     headers = item.get("headers", [])
     rows = item.get("rows", [])
+    col_widths = item.get("col_widths")
 
     header_args = ", ".join(f'"{h}"' for h in headers)
     row_lines = []
@@ -206,9 +207,13 @@ def gen_data_table(item: dict) -> str:
         cells = ", ".join(_format_cell(c) for c in row)
         row_lines.append(f"    ({cells}),")
 
+    col_widths_arg = ""
+    if col_widths:
+        col_widths_arg = f"\n  col-widths: ({', '.join(col_widths)}),"
+
     return f'''
 #workbook-table(
-  headers: ({header_args}),
+  headers: ({header_args}),{col_widths_arg}
   rows: (
 {chr(10).join(row_lines)}
   ),

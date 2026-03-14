@@ -191,6 +191,7 @@ Build what you need. Skip what you don't. Make a world worth falling in love in.
 
 #workbook-table(
   headers: ("Section", "Topic", "What It Covers"),
+  col-widths: (0.7fr, 1.5fr, 2fr),
   rows: (
     ([1], [Geography & Environment], [Physical world, climate, travel, how place creates obstacles]),
     ([2], [Flora, Fauna & Ecosystems], [Plants, animals, bonded creatures, inter-species romance]),

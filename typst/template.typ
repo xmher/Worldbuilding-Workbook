@@ -497,6 +497,7 @@
   headers: (),
   rows: (),
   example-rows: (),
+  col-widths: none,
 ) = {
   let all-rows = ()
 
@@ -512,9 +513,12 @@
     all-rows.push(row)
   }
 
+  let cols = if col-widths != none { col-widths } else { range(headers.len()).map(_ => 1fr) }
+
   block(width: 100%, above: 1.5em, below: 1.5em, breakable: false)[
+    #set par(justify: false)
     #table(
-      columns: range(headers.len()).map(_ => 1fr),
+      columns: cols,
       fill: (col, row) => {
         if row == 0 { color-theme }
         else if row <= example-rows.len() { color-theme.lighten(92%) }
@@ -569,6 +573,7 @@
   }
 
   block(width: 100%, above: 1.5em, below: 1.5em)[
+    #set par(justify: false)
     #table(
       columns: range(col-count).map(_ => 1fr),
       fill: (col, row) => {
