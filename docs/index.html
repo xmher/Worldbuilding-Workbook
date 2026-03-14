@@ -27,18 +27,25 @@
       font-weight: 600;
       color: #e94560;
     }
-    header a {
+    header a, header button {
       color: #e94560;
       text-decoration: none;
       font-size: 0.9rem;
+      font-family: inherit;
       padding: 0.4rem 1rem;
       border: 1px solid #e94560;
       border-radius: 4px;
-      transition: background 0.2s;
+      background: transparent;
+      cursor: pointer;
+      transition: background 0.2s, color 0.2s;
     }
-    header a:hover {
+    header a:hover, header button:hover {
       background: #e94560;
       color: #fff;
+    }
+    .header-actions {
+      display: flex;
+      gap: 0.5rem;
     }
     embed {
       flex: 1;
@@ -50,8 +57,17 @@
 <body>
   <header>
     <h1>Worldbuilding Workbook</h1>
-    <a href="workbook.pdf" download>Download PDF</a>
+    <div class="header-actions">
+      <button onclick="refreshPdf()">Refresh PDF</button>
+      <a href="workbook.pdf" download>Download PDF</a>
+    </div>
   </header>
-  <embed src="workbook.pdf" type="application/pdf">
+  <embed id="pdf-viewer" src="workbook.pdf" type="application/pdf">
+  <script>
+    function refreshPdf() {
+      var viewer = document.getElementById('pdf-viewer');
+      viewer.src = 'workbook.pdf?v=' + Date.now();
+    }
+  </script>
 </body>
 </html>
