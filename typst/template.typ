@@ -37,7 +37,7 @@
     width: 8.5in,
     height: 11in,
     margin: (top: 1in, bottom: 1.25in, left: 1.1in, right: 1.1in),
-    fill: color-bg,
+    fill: white,
 
     // Double decorative border on every page
     background: {
@@ -190,29 +190,70 @@
   page(
     footer: none,
   )[
-    #set align(center + horizon)
-    #block(width: 100%)[
-      #set text(
+    // Green banner at top
+    #v(1em)
+    #align(center)[
+      #block(
+        fill: color-theme,
+        inset: (x: 2em, y: 0.6em),
+        radius: 2pt,
+      )[
+        #set text(
+          font: font-display,
+          size: 1em,
+          weight: "bold",
+          tracking: 3pt,
+          fill: white,
+        )
+        #upper[A Plotbrew Writing Workbook]
+      ]
+    ]
+
+    #v(1fr)
+
+    // Title
+    #align(center)[
+      #text(
         font: font-display,
         size: 2.5em,
         weight: "bold",
-        tracking: 6pt,
+        tracking: 2pt,
         fill: color-noir,
-      )
-      #upper(title)
-
-      #v(2em)
-      #line(length: 100pt, stroke: 2pt + color-accent)
-      #v(2em)
-
-      #if tagline != none {
-        text(
-          font: font-accent,
-          size: 1.1em,
-          fill: color-text-muted,
-        )[#tagline]
-      }
+      )[#upper(title)]
     ]
+
+    #v(0.8em)
+
+    // Decorative gold flourish with rule
+    #align(center)[
+      #grid(
+        columns: (80pt, 12pt, auto, 12pt, 80pt),
+        align: (horizon, horizon, horizon, horizon, horizon),
+        line(length: 100%, stroke: 1.5pt + color-accent),
+        [],
+        text(fill: color-accent, size: 2.5em)[❀],
+        [],
+        line(length: 100%, stroke: 1.5pt + color-accent),
+      )
+    ]
+
+    #v(0.8em)
+
+    // Tagline
+    #if tagline != none {
+      align(center)[
+        #text(
+          font: font-accent,
+          size: 1.8em,
+          style: "italic",
+          weight: "semibold",
+          tracking: 0pt,
+          fill: color-theme,
+        )[#tagline]
+      ]
+    }
+
+    #v(2fr)
   ]
 }
 
