@@ -37,7 +37,7 @@
     width: 8.5in,
     height: 11in,
     margin: (top: 1in, bottom: 1.25in, left: 1.1in, right: 1.1in),
-    fill: color-bg,
+    fill: white,
 
     // Double decorative border on every page
     background: {
@@ -190,30 +190,55 @@
   page(
     footer: none,
   )[
-    #set align(center + horizon)
-    #block(width: 100%)[
-      #set text(
-        font: font-display,
-        size: 2.5em,
-        weight: "bold",
-        tracking: 6pt,
-        fill: color-noir,
-      )
-      #upper(title)
-
-      #v(2em)
-      #line(length: 100pt, stroke: 2pt + color-accent)
-      #v(2em)
-
-      #if tagline != none {
-        set par(justify: false)
-        text(
-          font: font-accent,
-          size: 1.1em,
-          fill: color-text-muted,
-        )[#tagline]
-      }
+    // Green banner at top
+    #v(1em)
+    #align(center)[
+      #block(
+        fill: color-theme,
+        inset: (x: 2em, y: 0.6em),
+        radius: 2pt,
+      )[
+        #set text(
+          font: font-display,
+          size: 0.7em,
+          weight: "bold",
+          tracking: 3pt,
+          fill: white,
+        )
+        #upper[A Plotbrew Writing Workbook]
+      ]
     ]
+
+    #v(1fr)
+
+    // Title block
+    #align(center)[
+      #block(width: 100%)[
+        #set text(
+          font: font-display,
+          size: 2.5em,
+          weight: "bold",
+          tracking: 6pt,
+          fill: color-noir,
+        )
+        #upper(title)
+
+        #v(0.8em)
+        #line(length: 100pt, stroke: 2pt + color-accent)
+        #v(0.8em)
+
+        #if tagline != none {
+          set par(justify: false)
+          text(
+            font: font-accent,
+            size: 1.1em,
+            fill: color-text-muted,
+          )[#tagline]
+        }
+      ]
+    ]
+
+    #v(2fr)
   ]
 }
 
