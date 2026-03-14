@@ -515,7 +515,7 @@
 
   let cols = if col-widths != none { col-widths } else { range(headers.len()).map(_ => 1fr) }
 
-  block(width: 100%, above: 1.5em, below: 1.5em, breakable: false)[
+  block(width: 100%, above: 1.5em, below: 1.5em)[
     #set par(justify: false)
     #table(
       columns: cols,
@@ -529,15 +529,17 @@
       inset: 12pt,
       align: left,
 
-      // Headers
-      ..headers.map(h =>
-        text(
-          font: font-display,
-          size: 0.7em,
-          tracking: 1pt,
-          weight: "bold",
-          fill: white,
-        )[#upper(h)]
+      // Headers (repeat on page break)
+      table.header(
+        ..headers.map(h =>
+          text(
+            font: font-display,
+            size: 0.7em,
+            tracking: 1pt,
+            weight: "bold",
+            fill: white,
+          )[#upper(h)]
+        ),
       ),
 
       // All data rows
@@ -585,14 +587,17 @@
       inset: 12pt,
       align: left,
 
-      ..headers.map(h =>
-        text(
-          font: font-display,
-          size: 0.7em,
-          tracking: 1pt,
-          weight: "bold",
-          fill: white,
-        )[#upper(h)]
+      // Headers (repeat on page break)
+      table.header(
+        ..headers.map(h =>
+          text(
+            font: font-display,
+            size: 0.7em,
+            tracking: 1pt,
+            weight: "bold",
+            fill: white,
+          )[#upper(h)]
+        ),
       ),
 
       ..all-rows.flatten(),

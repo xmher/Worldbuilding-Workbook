@@ -341,20 +341,31 @@ def generate_section(data: dict, standalone: bool = False) -> str:
             ))
             continue
 
-        # Group: wrap children in a non-breakable block to keep together
+        # Group: keep heading+hint together, let tables flow naturally
         if item_type == "group":
-            inner_parts = []
+            preamble = []  # headings, hints, prose (kept together)
+            rest = []      # tables and other content (breakable)
+            in_preamble = True
             for child in item.get("content", []):
                 child_type = child.get("type", "")
                 child_gen = GENERATORS.get(child_type)
+                if child_type in ("data_table", "input_table"):
+                    in_preamble = False
                 if child_gen:
-                    inner_parts.append(child_gen(child))
+                    if in_preamble:
+                        preamble.append(child_gen(child))
+                    else:
+                        rest.append(child_gen(child))
                 else:
-                    inner_parts.append(
+                    rest.append(
                         f"\n// WARNING: unknown type \"{child_type}\"\n"
                     )
-            inner = "\n".join(inner_parts)
-            parts.append(f"\n#block(breakable: false)[\n{inner}\n]\n")
+            if preamble:
+                parts.append(
+                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n{''.join(preamble)}\n]\n"
+                )
+            parts.extend(rest)
             continue
 
         gen = GENERATORS.get(item_type)
