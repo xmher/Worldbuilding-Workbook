@@ -72,11 +72,11 @@
       if page-num > 1 {
         set text(font: font-display)
         grid(
-          columns: (1fr, 1fr, 1fr),
+          columns: (2fr, 1fr, 1fr),
           align: (left, center, right),
           text(
             size: 0.6em,
-            tracking: 2pt,
+            tracking: 1pt,
             fill: color-text-muted,
             upper(title),
           ),
@@ -480,9 +480,9 @@
     all-rows.push(row)
   }
 
-  block(above: 1.5em, below: 1.5em, breakable: false)[
+  block(width: 100%, above: 1.5em, below: 1.5em, breakable: false)[
     #table(
-      columns: headers.len(),
+      columns: range(headers.len()).map(_ => 1fr),
       fill: (col, row) => {
         if row == 0 { color-theme }
         else if row <= example-rows.len() { color-theme.lighten(92%) }
@@ -536,9 +536,9 @@
     ))
   }
 
-  block(above: 1.5em, below: 1.5em)[
+  block(width: 100%, above: 1.5em, below: 1.5em)[
     #table(
-      columns: col-count,
+      columns: range(col-count).map(_ => 1fr),
       fill: (col, row) => {
         if row == 0 { color-theme }
         else if row <= example-rows.len() { color-theme.lighten(92%) }
