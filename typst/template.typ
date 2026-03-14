@@ -206,6 +206,7 @@
       #v(2em)
 
       #if tagline != none {
+        set par(justify: false)
         text(
           font: font-accent,
           size: 1.1em,
