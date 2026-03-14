@@ -53,12 +53,20 @@ def escape_typst_string(text: str) -> str:
 
 def gen_title_page(item: dict) -> str:
     title = item.get("title", "Untitled")
-    # Replace literal \n with Typst linebreak
-    title_escaped = escape_typst_string(title.replace("\n", "\\n"))
     tagline = item.get("tagline")
     tagline_arg = f'\n  tagline: "{escape_typst_string(tagline)}",' if tagline else ""
-    return f'''#title-page(
-  title: "{title_escaped}",{tagline_arg}
+    # Pass title as content so line breaks render correctly
+    # Split on \n and join with Typst linebreak
+    title_lines = title.split("\n")
+    if len(title_lines) > 1:
+        title_content = " \\\n    ".join(escape_typst(line) for line in title_lines)
+        return f'''#title-page(
+  title: [{title_content}],{tagline_arg}
+)
+'''
+    else:
+        return f'''#title-page(
+  title: "{escape_typst_string(title)}",{tagline_arg}
 )
 '''
 
