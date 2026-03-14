@@ -296,15 +296,6 @@
         )[#intro]
       }
 
-      // Decorative divider at bottom of section cover
-      #v(1fr)
-      #align(center)[
-        #box(width: 80pt, line(length: 100%, stroke: 2pt + color-accent))
-        #h(8pt)
-        #text(fill: color-accent, size: 1.2em)[◆]
-        #h(8pt)
-        #box(width: 80pt, line(length: 100%, stroke: 2pt + color-accent))
-      ]
     ]
   ]
 }
