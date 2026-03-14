@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Worldbuilding Workbook</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #1a1a2e;
+      color: #e0e0e0;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.75rem 1.5rem;
+      background: #16213e;
+      border-bottom: 1px solid #0f3460;
+    }
+    header h1 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #e94560;
+    }
+    header a {
+      color: #e94560;
+      text-decoration: none;
+      font-size: 0.9rem;
+      padding: 0.4rem 1rem;
+      border: 1px solid #e94560;
+      border-radius: 4px;
+      transition: background 0.2s;
+    }
+    header a:hover {
+      background: #e94560;
+      color: #fff;
+    }
+    embed {
+      flex: 1;
+      width: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Worldbuilding Workbook</h1>
+    <a href="workbook.pdf" download>Download PDF</a>
+  </header>
+  <embed src="workbook.pdf" type="application/pdf">
+</body>
+</html>
