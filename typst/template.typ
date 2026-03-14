@@ -72,11 +72,11 @@
       if page-num > 1 {
         set text(font: font-display)
         grid(
-          columns: (1fr, 1fr, 1fr),
+          columns: (2fr, 1fr, 1fr),
           align: (left, center, right),
           text(
             size: 0.6em,
-            tracking: 2pt,
+            tracking: 1pt,
             fill: color-text-muted,
             upper(title),
           ),
@@ -97,6 +97,7 @@
     font: font-body,
     size: 11pt,
     fill: color-text-main,
+    hyphenate: false,
   )
   set par(
     leading: 0.65em * 1.6,
@@ -160,13 +161,30 @@
 }
 
 
+// --- Number-to-Word Mapping ---
+#let number-words = (
+  "Zero", "One", "Two", "Three", "Four", "Five",
+  "Six", "Seven", "Eight", "Nine", "Ten",
+  "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen",
+  "Sixteen", "Seventeen", "Eighteen", "Nineteen", "Twenty",
+  "Twenty-One",
+)
+
+#let number-to-word(n) = {
+  if n >= 0 and n < number-words.len() {
+    number-words.at(n)
+  } else {
+    str(n)
+  }
+}
+
 // ============================================================
 // COMPONENTS
 // ============================================================
 
 // --- Title Page ---
 #let title-page(
-  title: "The Romantasy\nWorldbuilding Workbook",
+  title: "The Romantasy Worldbuilding Workbook",
   tagline: none,
 ) = {
   page(
@@ -174,13 +192,14 @@
   )[
     #set align(center + horizon)
     #block(width: 100%)[
-      #text(
+      #set text(
         font: font-display,
         size: 2.5em,
         weight: "bold",
         tracking: 6pt,
         fill: color-noir,
-      )[#upper(title)]
+      )
+      #upper(title)
 
       #v(2em)
       #line(length: 100pt, stroke: 2pt + color-accent)
@@ -214,7 +233,7 @@
           size: 0.75em,
           tracking: 5pt,
           fill: color-theme,
-        )[#upper("Section " + str(number))]
+        )[#upper("Section " + number-to-word(number))]
         v(1em)
       }
 
@@ -235,6 +254,16 @@
           fill: color-text-sub,
         )[#intro]
       }
+
+      // Decorative divider at bottom of section cover
+      #v(1fr)
+      #align(center)[
+        #box(width: 80pt, line(length: 100%, stroke: 2pt + color-accent))
+        #h(8pt)
+        #text(fill: color-accent, size: 1.2em)[◆]
+        #h(8pt)
+        #box(width: 80pt, line(length: 100%, stroke: 2pt + color-accent))
+      ]
     ]
   ]
 }
@@ -451,9 +480,9 @@
     all-rows.push(row)
   }
 
-  block(above: 1.5em, below: 1.5em, breakable: false)[
+  block(width: 100%, above: 1.5em, below: 1.5em, breakable: false)[
     #table(
-      columns: headers.len(),
+      columns: range(headers.len()).map(_ => 1fr),
       fill: (col, row) => {
         if row == 0 { color-theme }
         else if row <= example-rows.len() { color-theme.lighten(92%) }
@@ -507,9 +536,9 @@
     ))
   }
 
-  block(above: 1.5em, below: 1.5em)[
+  block(width: 100%, above: 1.5em, below: 1.5em)[
     #table(
-      columns: col-count,
+      columns: range(col-count).map(_ => 1fr),
       fill: (col, row) => {
         if row == 0 { color-theme }
         else if row <= example-rows.len() { color-theme.lighten(92%) }
@@ -542,7 +571,7 @@
     size: 0.7em,
     tracking: 4pt,
     fill: color-theme,
-  )[#upper("Section " + str(num))]
+  )[#upper("Section " + number-to-word(num))]
 }
 
 

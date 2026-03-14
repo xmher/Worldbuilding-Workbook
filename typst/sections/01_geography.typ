@@ -123,10 +123,31 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 == Reference: Place Name Patterns
 
 
+// WARNING: unknown type "body"
+
+
 === Common English Place Name Patterns
 
 
 #hint[Mix prefixes and suffixes to generate names. "Ash" + "ford" = Ashford. "Black" + "moor" = Blackmoor.]
+
+
+#workbook-table(
+  headers: ("Prefix", "Meaning", "Example"),
+  rows: (
+    ([Ash-], [ash tree], [Ashford, Ashby]),
+    ([Black-], [dark, black], [Blackmoor, Blackpool]),
+    ([Brad- / Broad-], [broad, wide], [Bradford, Broadstairs]),
+    ([East- / West- / North- / South-], [direction], [Eastbourne, Westbury]),
+    ([Glen- / Green-], [valley / green], [Glendale, Greenfield]),
+    ([Hol- / Hollow-], [hollow, low-lying], [Holmfirth, Holbrook]),
+    ([King- / Bishop-], [royal / church estate], [Kingston, Bishopstoke]),
+    ([Long-], [long, extended], [Longford, Longdale]),
+    ([New- / Old-], [new / old], [Newcastle, Oldham]),
+    ([Stone- / Stan-], [stone, rocky], [Stoneham, Stamford]),
+    ([Whit- / White-], [white], [Whitby, Whitfield]),
+  ),
+)
 
 
 #workbook-table(
@@ -153,7 +174,24 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 
 #workbook-table(
-  headers: ("Element", "Meaning", "Example"),
+  headers: ("Prefix", "Meaning", "Example"),
+  rows: (
+    ([Stor- / Stór-], [great, large], [Storfjord, Stóravatn]),
+    ([Ny- / Nýr-], [new], [Nykøbing, Nýdalur]),
+    ([Holm-], [small island], [Holmsland, Stockholm]),
+    ([Nor- / Norð-], [north], [Norðfjörður, Norway]),
+    ([Suð- / Sör-], [south], [Suðureyri, Sörmland]),
+    ([Stein-], [stone, rock], [Steinkjer, Steinberg]),
+    ([Kvit- / Hvít-], [white], [Kvitfjell, Hvítá]),
+    ([Svar- / Svart-], [black, dark], [Svartskog, Svartengren]),
+    ([Eld-], [fire], [Eldfjall, Eldhús]),
+    ([Is- / Ís-], [ice], [Island (Iceland), Ísafjörður]),
+  ),
+)
+
+
+#workbook-table(
+  headers: ("Suffix", "Meaning", "Example"),
   rows: (
     ([-by], [farm, settlement], [Whitby, Grimsby]),
     ([-vik / -wick], [bay, inlet], [Reykjavik, Lerwick]),
@@ -176,7 +214,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 
 #workbook-table(
-  headers: ("Element", "Meaning", "Example"),
+  headers: ("Prefix / Suffix", "Meaning", "Example"),
   rows: (
     ([Aber-], [river mouth], [Aberdeen, Aberystwyth]),
     ([Caer- / Car-], [fort, stronghold], [Caernarfon, Cardiff]),
@@ -199,7 +237,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 
 #workbook-table(
-  headers: ("Element", "Meaning", "Example"),
+  headers: ("Prefix / Suffix", "Meaning", "Example"),
   rows: (
     ([-grad / -gorod], [city, fortified place], [Belgrade, Novgorod]),
     ([-ov / -ova / -ovo], [belonging to (possessive)], [Sarajevo, Krakow]),

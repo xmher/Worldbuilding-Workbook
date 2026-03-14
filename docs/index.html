@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Worldbuilding Workbook</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #1a1a2e;
+      color: #e0e0e0;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.75rem 1.5rem;
+      background: #16213e;
+      border-bottom: 1px solid #0f3460;
+    }
+    header h1 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #e94560;
+    }
+    header a, header button {
+      color: #e94560;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-family: inherit;
+      padding: 0.4rem 1rem;
+      border: 1px solid #e94560;
+      border-radius: 4px;
+      background: transparent;
+      cursor: pointer;
+      transition: background 0.2s, color 0.2s;
+    }
+    header a:hover, header button:hover {
+      background: #e94560;
+      color: #fff;
+    }
+    .header-actions {
+      display: flex;
+      gap: 0.5rem;
+    }
+    embed {
+      flex: 1;
+      width: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Worldbuilding Workbook</h1>
+    <div class="header-actions">
+      <button onclick="refreshPdf()">Refresh PDF</button>
+      <a href="workbook.pdf" download>Download PDF</a>
+    </div>
+  </header>
+  <embed id="pdf-viewer" src="workbook.pdf" type="application/pdf">
+  <script>
+    function refreshPdf() {
+      var viewer = document.getElementById('pdf-viewer');
+      viewer.src = 'workbook.pdf?v=' + Date.now();
+    }
+  </script>
+</body>
+</html>

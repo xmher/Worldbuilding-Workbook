@@ -181,12 +181,33 @@
       "text": "Reference: Place Name Patterns"
     },
     {
+      "type": "body",
+      "text": "Prefixes are word parts added to the beginning of a name (e.g., \"Ash-\" in Ashford), while suffixes are added to the end (e.g., \"-ford\" in Ashford). Combine them to build place names that feel authentic to a culture."
+    },
+    {
       "type": "heading3",
       "text": "Common English Place Name Patterns"
     },
     {
       "type": "hint",
       "text": "Mix prefixes and suffixes to generate names. \"Ash\" + \"ford\" = Ashford. \"Black\" + \"moor\" = Blackmoor."
+    },
+    {
+      "type": "data_table",
+      "headers": ["Prefix", "Meaning", "Example"],
+      "rows": [
+        ["Ash-", "ash tree", "Ashford, Ashby"],
+        ["Black-", "dark, black", "Blackmoor, Blackpool"],
+        ["Brad- / Broad-", "broad, wide", "Bradford, Broadstairs"],
+        ["East- / West- / North- / South-", "direction", "Eastbourne, Westbury"],
+        ["Glen- / Green-", "valley / green", "Glendale, Greenfield"],
+        ["Hol- / Hollow-", "hollow, low-lying", "Holmfirth, Holbrook"],
+        ["King- / Bishop-", "royal / church estate", "Kingston, Bishopstoke"],
+        ["Long-", "long, extended", "Longford, Longdale"],
+        ["New- / Old-", "new / old", "Newcastle, Oldham"],
+        ["Stone- / Stan-", "stone, rocky", "Stoneham, Stamford"],
+        ["Whit- / White-", "white", "Whitby, Whitfield"]
+      ]
     },
     {
       "type": "data_table",
@@ -214,7 +235,23 @@
     },
     {
       "type": "data_table",
-      "headers": ["Element", "Meaning", "Example"],
+      "headers": ["Prefix", "Meaning", "Example"],
+      "rows": [
+        ["Stor- / Stór-", "great, large", "Storfjord, Stóravatn"],
+        ["Ny- / Nýr-", "new", "Nykøbing, Nýdalur"],
+        ["Holm-", "small island", "Holmsland, Stockholm"],
+        ["Nor- / Norð-", "north", "Norðfjörður, Norway"],
+        ["Suð- / Sör-", "south", "Suðureyri, Sörmland"],
+        ["Stein-", "stone, rock", "Steinkjer, Steinberg"],
+        ["Kvit- / Hvít-", "white", "Kvitfjell, Hvítá"],
+        ["Svar- / Svart-", "black, dark", "Svartskog, Svartengren"],
+        ["Eld-", "fire", "Eldfjall, Eldhús"],
+        ["Is- / Ís-", "ice", "Island (Iceland), Ísafjörður"]
+      ]
+    },
+    {
+      "type": "data_table",
+      "headers": ["Suffix", "Meaning", "Example"],
       "rows": [
         ["-by", "farm, settlement", "Whitby, Grimsby"],
         ["-vik / -wick", "bay, inlet", "Reykjavik, Lerwick"],
@@ -238,7 +275,7 @@
     },
     {
       "type": "data_table",
-      "headers": ["Element", "Meaning", "Example"],
+      "headers": ["Prefix / Suffix", "Meaning", "Example"],
       "rows": [
         ["Aber-", "river mouth", "Aberdeen, Aberystwyth"],
         ["Caer- / Car-", "fort, stronghold", "Caernarfon, Cardiff"],
@@ -262,7 +299,7 @@
     },
     {
       "type": "data_table",
-      "headers": ["Element", "Meaning", "Example"],
+      "headers": ["Prefix / Suffix", "Meaning", "Example"],
       "rows": [
         ["-grad / -gorod", "city, fortified place", "Belgrade, Novgorod"],
         ["-ov / -ova / -ovo", "belonging to (possessive)", "Sarajevo, Krakow"],

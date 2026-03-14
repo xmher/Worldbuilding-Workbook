@@ -1,7 +1,8 @@
 #import "../template.typ": *
 
 #title-page(
-  title: "The Romantasy\\nWorldbuilding Workbook",
+  title: [The Romantasy \
+    Worldbuilding Workbook],
   tagline: "Build worlds worth falling in love in.",
 )
 
