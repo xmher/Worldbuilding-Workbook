@@ -211,42 +211,43 @@
 
     #v(1fr)
 
-    // Title block
+    // Title
     #align(center)[
-      #block(width: 100%)[
-        #set text(
-          font: font-display,
-          size: 2.5em,
-          weight: "bold",
-          tracking: 2pt,
-          fill: color-noir,
-        )
-        #upper(title)
-
-        #v(0.8em)
-        // Decorative gold divider with diamond ornament
-        #box[
-          #set text(fill: color-accent, size: 0.9em)
-          #line(length: 60pt, stroke: 2pt + color-accent)
-          #h(6pt)
-          #text(font: font-body, size: 0.7em)[◆]
-          #h(6pt)
-          #line(length: 60pt, stroke: 2pt + color-accent)
-        ]
-        #v(0.8em)
-
-        #if tagline != none {
-          set par(justify: false)
-          text(
-            font: font-accent,
-            size: 1.3em,
-            style: "italic",
-            weight: "semibold",
-            fill: color-theme,
-          )[#tagline]
-        }
-      ]
+      #text(
+        font: font-display,
+        size: 2.5em,
+        weight: "bold",
+        tracking: 2pt,
+        fill: color-noir,
+      )[#upper(title)]
     ]
+
+    #v(0.8em)
+
+    // Decorative gold divider with diamond ornament
+    #align(center)[
+      #line(length: 60pt, stroke: 2pt + color-accent)
+      #h(8pt)
+      #text(fill: color-accent, size: 1.2em)[◆]
+      #h(8pt)
+      #line(length: 60pt, stroke: 2pt + color-accent)
+    ]
+
+    #v(0.8em)
+
+    // Tagline
+    #if tagline != none {
+      align(center)[
+        #text(
+          font: font-accent,
+          size: 1.3em,
+          style: "italic",
+          weight: "semibold",
+          tracking: 0pt,
+          fill: color-theme,
+        )[#tagline]
+      ]
+    }
 
     #v(2fr)
   ]
