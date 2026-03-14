@@ -336,6 +336,22 @@ def generate_section(data: dict, standalone: bool = False) -> str:
             ))
             continue
 
+        # Group: wrap children in a non-breakable block to keep together
+        if item_type == "group":
+            inner_parts = []
+            for child in item.get("content", []):
+                child_type = child.get("type", "")
+                child_gen = GENERATORS.get(child_type)
+                if child_gen:
+                    inner_parts.append(child_gen(child))
+                else:
+                    inner_parts.append(
+                        f"\n// WARNING: unknown type \"{child_type}\"\n"
+                    )
+            inner = "\n".join(inner_parts)
+            parts.append(f"\n#block(breakable: false)[\n{inner}\n]\n")
+            continue
+
         gen = GENERATORS.get(item_type)
         if gen:
             parts.append(gen(item))

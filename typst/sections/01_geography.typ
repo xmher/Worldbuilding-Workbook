@@ -43,7 +43,7 @@
 - Quick Reference
 
 
-
+#divider()
 
 
 #hint[This section is divided into two parts:]
@@ -117,7 +117,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Reference: Place Name Patterns
@@ -125,6 +125,8 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 // WARNING: unknown type "body"
 
+
+#block(breakable: false)[
 
 === Common English Place Name Patterns
 
@@ -137,11 +139,20 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   rows: (
     ([Ash-], [ash tree], [Ashford, Ashby]),
     ([Black-], [dark, black], [Blackmoor, Blackpool]),
+    ([Brad- / Broad-], [broad, wide], [Bradford, Broadstairs]),
+    ([East- / West- / North- / South-], [direction], [Eastbourne, Westbury]),
     ([Glen- / Green-], [valley / green], [Glendale, Greenfield]),
+    ([Hol- / Hollow-], [hollow, low-lying], [Holmfirth, Holbrook]),
     ([King- / Bishop-], [royal / church estate], [Kingston, Bishopstoke]),
+    ([Long-], [long, extended], [Longford, Longdale]),
     ([New- / Old-], [new / old], [Newcastle, Oldham]),
+    ([Stone- / Stan-], [stone, rocky], [Stoneham, Stamford]),
+    ([Whit- / White-], [white], [Whitby, Whitfield]),
   ),
 )
+
+]
+
 
 #workbook-table(
   headers: ("Suffix", "Meaning", "Example"),
@@ -150,11 +161,17 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([-ton / -town], [fenced settlement], [Brighton]),
     ([-ford], [river crossing], [Oxford]),
     ([-ley / -leigh], [clearing, meadow], [Barnsley]),
+    ([-dale / -vale], [valley], [Airedale]),
     ([-burgh / -bury], [fortified place], [Edinburgh]),
+    ([-port], [harbor, market town], [Southport]),
     ([-moor / -mere], [marshland, lake], [Windermere]),
+    ([-fell / -mount], [hill, mountain], [Scafell]),
+    ([-holme / -holm], [island, water meadow], [Stockholm]),
   ),
 )
 
+
+#block(breakable: false)[
 
 === Nordic/Scandinavian Place Name Patterns
 
@@ -178,6 +195,8 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
 )
 
+]
+
 
 #workbook-table(
   headers: ("Suffix", "Meaning", "Example"),
@@ -195,6 +214,8 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
 )
 
+
+#block(breakable: false)[
 
 === Celtic/Welsh Place Name Patterns
 
@@ -218,6 +239,10 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
 )
 
+]
+
+
+#block(breakable: false)[
 
 === Slavic Place Name Patterns
 
@@ -241,8 +266,10 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
 )
 
+]
 
 
+#divider()
 
 
 == Your World's Place Name Patterns
@@ -269,7 +296,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == The Big Picture: Your World's Scale
@@ -321,7 +348,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Kingdoms & Nations Overview
@@ -354,7 +381,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Terrain Types
@@ -382,11 +409,13 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Resources & Territorial Control
 
+
+#block(breakable: false)[
 
 === Reference: Natural Resource Ideas
 
@@ -408,6 +437,8 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Curiosities], [Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight]),
   ),
 )
+
+]
 
 
 ==== What natural resources are geographically concentrated?
@@ -466,7 +497,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == The Sensory World
@@ -538,7 +569,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Climate, Weather & Seasons
@@ -620,7 +651,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Dangerous Regions
@@ -667,7 +698,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Borders & Boundaries
@@ -716,7 +747,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Home & Belonging
@@ -777,7 +808,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Entering Each Other's Worlds
@@ -837,7 +868,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Travel & Distance
@@ -854,6 +885,8 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   height: 100pt,
 )
 
+
+#block(breakable: false)[
 
 === Travel Time Reference
 
@@ -873,6 +906,8 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Carriage/wagon], [20–30 miles / 32–50 km], [Roads required]),
   ),
 )
+
+]
 
 
 ==== How long does travel take between key locations?
@@ -915,7 +950,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Isolated Locations
@@ -943,7 +978,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Geography as Emotional Landscape
@@ -973,7 +1008,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Integration Check
@@ -994,7 +1029,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-
+#divider()
 
 
 == Quick Reference: Geographic Stakes
@@ -1022,8 +1057,10 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
+#divider()
 
 
+#block(breakable: false)[
 
 == Map Making: What to Include on Your Map
 
@@ -1044,3 +1081,5 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Story-specific], [Where characters meet, where they're forbidden to go, where they flee to]),
   ),
 )
+
+]

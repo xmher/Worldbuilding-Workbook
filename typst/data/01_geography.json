@@ -185,28 +185,33 @@
       "text": "Prefixes are word parts added to the beginning of a name (e.g., \"Ash-\" in Ashford), while suffixes are added to the end (e.g., \"-ford\" in Ashford). Combine them to build place names that feel authentic to a culture."
     },
     {
-      "type": "heading3",
-      "text": "Common English Place Name Patterns"
-    },
-    {
-      "type": "hint",
-      "text": "Mix prefixes and suffixes to generate names. \"Ash\" + \"ford\" = Ashford. \"Black\" + \"moor\" = Blackmoor."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Prefix", "Meaning", "Example"],
-      "rows": [
-        ["Ash-", "ash tree", "Ashford, Ashby"],
-        ["Black-", "dark, black", "Blackmoor, Blackpool"],
-        ["Brad- / Broad-", "broad, wide", "Bradford, Broadstairs"],
-        ["East- / West- / North- / South-", "direction", "Eastbourne, Westbury"],
-        ["Glen- / Green-", "valley / green", "Glendale, Greenfield"],
-        ["Hol- / Hollow-", "hollow, low-lying", "Holmfirth, Holbrook"],
-        ["King- / Bishop-", "royal / church estate", "Kingston, Bishopstoke"],
-        ["Long-", "long, extended", "Longford, Longdale"],
-        ["New- / Old-", "new / old", "Newcastle, Oldham"],
-        ["Stone- / Stan-", "stone, rocky", "Stoneham, Stamford"],
-        ["Whit- / White-", "white", "Whitby, Whitfield"]
+      "type": "group",
+      "content": [
+        {
+          "type": "heading3",
+          "text": "Common English Place Name Patterns"
+        },
+        {
+          "type": "hint",
+          "text": "Mix prefixes and suffixes to generate names. \"Ash\" + \"ford\" = Ashford. \"Black\" + \"moor\" = Blackmoor."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Prefix", "Meaning", "Example"],
+          "rows": [
+            ["Ash-", "ash tree", "Ashford, Ashby"],
+            ["Black-", "dark, black", "Blackmoor, Blackpool"],
+            ["Brad- / Broad-", "broad, wide", "Bradford, Broadstairs"],
+            ["East- / West- / North- / South-", "direction", "Eastbourne, Westbury"],
+            ["Glen- / Green-", "valley / green", "Glendale, Greenfield"],
+            ["Hol- / Hollow-", "hollow, low-lying", "Holmfirth, Holbrook"],
+            ["King- / Bishop-", "royal / church estate", "Kingston, Bishopstoke"],
+            ["Long-", "long, extended", "Longford, Longdale"],
+            ["New- / Old-", "new / old", "Newcastle, Oldham"],
+            ["Stone- / Stan-", "stone, rocky", "Stoneham, Stamford"],
+            ["Whit- / White-", "white", "Whitby, Whitfield"]
+          ]
+        }
       ]
     },
     {
@@ -226,27 +231,32 @@
       ]
     },
     {
-      "type": "heading3",
-      "text": "Nordic/Scandinavian Place Name Patterns"
-    },
-    {
-      "type": "hint",
-      "text": "Good for cold, northern, Viking-inspired settings. Old Norse roots appear in many English place names too."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Prefix", "Meaning", "Example"],
-      "rows": [
-        ["Stor- / Stór-", "great, large", "Storfjord, Stóravatn"],
-        ["Ny- / Nýr-", "new", "Nykøbing, Nýdalur"],
-        ["Holm-", "small island", "Holmsland, Stockholm"],
-        ["Nor- / Norð-", "north", "Norðfjörður, Norway"],
-        ["Suð- / Sör-", "south", "Suðureyri, Sörmland"],
-        ["Stein-", "stone, rock", "Steinkjer, Steinberg"],
-        ["Kvit- / Hvít-", "white", "Kvitfjell, Hvítá"],
-        ["Svar- / Svart-", "black, dark", "Svartskog, Svartengren"],
-        ["Eld-", "fire", "Eldfjall, Eldhús"],
-        ["Is- / Ís-", "ice", "Island (Iceland), Ísafjörður"]
+      "type": "group",
+      "content": [
+        {
+          "type": "heading3",
+          "text": "Nordic/Scandinavian Place Name Patterns"
+        },
+        {
+          "type": "hint",
+          "text": "Good for cold, northern, Viking-inspired settings. Old Norse roots appear in many English place names too."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Prefix", "Meaning", "Example"],
+          "rows": [
+            ["Stor- / Stór-", "great, large", "Storfjord, Stóravatn"],
+            ["Ny- / Nýr-", "new", "Nykøbing, Nýdalur"],
+            ["Holm-", "small island", "Holmsland, Stockholm"],
+            ["Nor- / Norð-", "north", "Norðfjörður, Norway"],
+            ["Suð- / Sör-", "south", "Suðureyri, Sörmland"],
+            ["Stein-", "stone, rock", "Steinkjer, Steinberg"],
+            ["Kvit- / Hvít-", "white", "Kvitfjell, Hvítá"],
+            ["Svar- / Svart-", "black, dark", "Svartskog, Svartengren"],
+            ["Eld-", "fire", "Eldfjall, Eldhús"],
+            ["Is- / Ís-", "ice", "Island (Iceland), Ísafjörður"]
+          ]
+        }
       ]
     },
     {
@@ -266,51 +276,61 @@
       ]
     },
     {
-      "type": "heading3",
-      "text": "Celtic/Welsh Place Name Patterns"
-    },
-    {
-      "type": "hint",
-      "text": "Good for mystical, ancient, fae-adjacent settings. Celtic names often describe landscape features poetically."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Prefix / Suffix", "Meaning", "Example"],
-      "rows": [
-        ["Aber-", "river mouth", "Aberdeen, Aberystwyth"],
-        ["Caer- / Car-", "fort, stronghold", "Caernarfon, Cardiff"],
-        ["Llan-", "church, sacred enclosure", "Llandudno"],
-        ["Pen-", "head, top, end", "Penrith, Penzance"],
-        ["Tre- / Tref-", "homestead, town", "Tremaine"],
-        ["Dun- / Din-", "hill fort", "Edinburgh (Dun Edin)"],
-        ["-combe / -cwm", "valley", "Ilfracombe"],
-        ["Glyn- / Glen-", "valley", "Glencoe"],
-        ["Loch- / Lough-", "lake", "Lochaber"],
-        ["Inver- / Innis-", "river mouth / island", "Inverness"]
+      "type": "group",
+      "content": [
+        {
+          "type": "heading3",
+          "text": "Celtic/Welsh Place Name Patterns"
+        },
+        {
+          "type": "hint",
+          "text": "Good for mystical, ancient, fae-adjacent settings. Celtic names often describe landscape features poetically."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Prefix / Suffix", "Meaning", "Example"],
+          "rows": [
+            ["Aber-", "river mouth", "Aberdeen, Aberystwyth"],
+            ["Caer- / Car-", "fort, stronghold", "Caernarfon, Cardiff"],
+            ["Llan-", "church, sacred enclosure", "Llandudno"],
+            ["Pen-", "head, top, end", "Penrith, Penzance"],
+            ["Tre- / Tref-", "homestead, town", "Tremaine"],
+            ["Dun- / Din-", "hill fort", "Edinburgh (Dun Edin)"],
+            ["-combe / -cwm", "valley", "Ilfracombe"],
+            ["Glyn- / Glen-", "valley", "Glencoe"],
+            ["Loch- / Lough-", "lake", "Lochaber"],
+            ["Inver- / Innis-", "river mouth / island", "Inverness"]
+          ]
+        }
       ]
     },
     {
-      "type": "heading3",
-      "text": "Slavic Place Name Patterns"
-    },
-    {
-      "type": "hint",
-      "text": "Good for Eastern European-inspired settings. Slavic names often use descriptive compounds."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Prefix / Suffix", "Meaning", "Example"],
-      "rows": [
-        ["-grad / -gorod", "city, fortified place", "Belgrade, Novgorod"],
-        ["-ov / -ova / -ovo", "belonging to (possessive)", "Sarajevo, Krakow"],
-        ["Novo- / Novy-", "new", "Novosibirsk"],
-        ["Staro- / Stary-", "old", "Starograd"],
-        ["-pol / -pole", "field", "Sevastopol"],
-        ["Belo- / Byelo-", "white", "Belgrade (Beograd)"],
-        ["Cerno- / Cherno-", "black", "Chernobyl"],
-        ["-ice / -itz", "place suffix", "Katowice"],
-        ["-sk / -sko", "place/region suffix", "Gdansk, Minsk"],
-        ["Veliko- / Veliky-", "great, large", "Veliky Novgorod"]
+      "type": "group",
+      "content": [
+        {
+          "type": "heading3",
+          "text": "Slavic Place Name Patterns"
+        },
+        {
+          "type": "hint",
+          "text": "Good for Eastern European-inspired settings. Slavic names often use descriptive compounds."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Prefix / Suffix", "Meaning", "Example"],
+          "rows": [
+            ["-grad / -gorod", "city, fortified place", "Belgrade, Novgorod"],
+            ["-ov / -ova / -ovo", "belonging to (possessive)", "Sarajevo, Krakow"],
+            ["Novo- / Novy-", "new", "Novosibirsk"],
+            ["Staro- / Stary-", "old", "Starograd"],
+            ["-pol / -pole", "field", "Sevastopol"],
+            ["Belo- / Byelo-", "white", "Belgrade (Beograd)"],
+            ["Cerno- / Cherno-", "black", "Chernobyl"],
+            ["-ice / -itz", "place suffix", "Katowice"],
+            ["-sk / -sko", "place/region suffix", "Gdansk, Minsk"],
+            ["Veliko- / Veliky-", "great, large", "Veliky Novgorod"]
+          ]
+        }
       ]
     },
     {
@@ -446,26 +466,31 @@
       "text": "Resources & Territorial Control"
     },
     {
-      "type": "heading3",
-      "text": "Reference: Natural Resource Ideas"
-    },
-    {
-      "type": "hint",
-      "text": "Use this list for inspiration when filling out the table below."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Category", "Examples"],
-      "rows": [
-        ["Precious Metals", "Gold, silver, copper, iron ore, bronze, platinum, mithril"],
-        ["Gems & Stones", "Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble"],
-        ["Textiles", "Silk, wool, linen, cotton, rare furs, leather, spider-silk, feathers"],
-        ["Food & Agriculture", "Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits"],
-        ["Animal Products", "Ivory, bone, whale oil, animal fat, beeswax, dyes from shells, ambergris"],
-        ["Plant Products", "Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee"],
-        ["Fuel & Energy", "Coal, oil, charcoal, peat, magical crystals, dragon-fire, captured lightning"],
-        ["Magical Resources", "Ley line access, enchanted springs, magical creatures, spell components"],
-        ["Curiosities", "Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight"]
+      "type": "group",
+      "content": [
+        {
+          "type": "heading3",
+          "text": "Reference: Natural Resource Ideas"
+        },
+        {
+          "type": "hint",
+          "text": "Use this list for inspiration when filling out the table below."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Category", "Examples"],
+          "rows": [
+            ["Precious Metals", "Gold, silver, copper, iron ore, bronze, platinum, mithril"],
+            ["Gems & Stones", "Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble"],
+            ["Textiles", "Silk, wool, linen, cotton, rare furs, leather, spider-silk, feathers"],
+            ["Food & Agriculture", "Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits"],
+            ["Animal Products", "Ivory, bone, whale oil, animal fat, beeswax, dyes from shells, ambergris"],
+            ["Plant Products", "Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee"],
+            ["Fuel & Energy", "Coal, oil, charcoal, peat, magical crystals, dragon-fire, captured lightning"],
+            ["Magical Resources", "Ley line access, enchanted springs, magical creatures, spell components"],
+            ["Curiosities", "Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight"]
+          ]
+        }
       ]
     },
     {
@@ -914,24 +939,29 @@
       "height": "100pt"
     },
     {
-      "type": "heading3",
-      "text": "Travel Time Reference"
-    },
-    {
-      "type": "hint",
-      "text": "These are real-world estimates. Feel free to adjust for your world."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Mode of Travel", "Distance per Day", "Notes"],
-      "rows": [
-        ["Walking (comfortable pace)", "15–20 miles / 25–32 km", "Healthy adult with breaks"],
-        ["Forced march", "25–30 miles / 40–50 km", "Exhausting, not sustainable"],
-        ["Riding (sustainable)", "25–35 miles / 40–55 km", "One horse, regular rest"],
-        ["Hard ride", "40–50 miles / 65–80 km", "Tiring the horse"],
-        ["Changing horses (relay)", "80–100 miles / 130–160 km", "Fresh mounts at stations"],
-        ["Sailing ship (favorable wind)", "100–150 miles / 160–240 km", "Highly variable"],
-        ["Carriage/wagon", "20–30 miles / 32–50 km", "Roads required"]
+      "type": "group",
+      "content": [
+        {
+          "type": "heading3",
+          "text": "Travel Time Reference"
+        },
+        {
+          "type": "hint",
+          "text": "These are real-world estimates. Feel free to adjust for your world."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Mode of Travel", "Distance per Day", "Notes"],
+          "rows": [
+            ["Walking (comfortable pace)", "15–20 miles / 25–32 km", "Healthy adult with breaks"],
+            ["Forced march", "25–30 miles / 40–50 km", "Exhausting, not sustainable"],
+            ["Riding (sustainable)", "25–35 miles / 40–55 km", "One horse, regular rest"],
+            ["Hard ride", "40–50 miles / 65–80 km", "Tiring the horse"],
+            ["Changing horses (relay)", "80–100 miles / 130–160 km", "Fresh mounts at stations"],
+            ["Sailing ship (favorable wind)", "100–150 miles / 160–240 km", "Highly variable"],
+            ["Carriage/wagon", "20–30 miles / 32–50 km", "Roads required"]
+          ]
+        }
       ]
     },
     {
@@ -1075,25 +1105,30 @@
       "type": "divider"
     },
     {
-      "type": "heading2",
-      "text": "Map Making: What to Include on Your Map"
-    },
-    {
-      "type": "hint",
-      "text": "Consider which of these appear in your world. You don't need all of them."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Category", "Possible Locations"],
-      "rows": [
-        ["Geographic features", "Mountains, rivers, forests, lakes, coastlines, islands, deserts, swamps, valleys"],
-        ["Political boundaries", "Kingdom borders, disputed territories, neutral zones, conquered lands"],
-        ["Cities & settlements", "Capitals, port cities, border towns, villages, abandoned settlements"],
-        ["Trade & travel", "Major roads, trade routes, mountain passes, river crossings, ports"],
-        ["Fortifications", "Castles, walls, watchtowers, military camps, fortresses"],
-        ["Religious sites", "Temples, shrines, pilgrimage routes, sacred groves, forbidden places"],
-        ["Magical locations", "Ley lines, magical academies, cursed regions, power sources"],
-        ["Story-specific", "Where characters meet, where they're forbidden to go, where they flee to"]
+      "type": "group",
+      "content": [
+        {
+          "type": "heading2",
+          "text": "Map Making: What to Include on Your Map"
+        },
+        {
+          "type": "hint",
+          "text": "Consider which of these appear in your world. You don't need all of them."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Category", "Possible Locations"],
+          "rows": [
+            ["Geographic features", "Mountains, rivers, forests, lakes, coastlines, islands, deserts, swamps, valleys"],
+            ["Political boundaries", "Kingdom borders, disputed territories, neutral zones, conquered lands"],
+            ["Cities & settlements", "Capitals, port cities, border towns, villages, abandoned settlements"],
+            ["Trade & travel", "Major roads, trade routes, mountain passes, river crossings, ports"],
+            ["Fortifications", "Castles, walls, watchtowers, military camps, fortresses"],
+            ["Religious sites", "Temples, shrines, pilgrimage routes, sacred groves, forbidden places"],
+            ["Magical locations", "Ley lines, magical academies, cursed regions, power sources"],
+            ["Story-specific", "Where characters meet, where they're forbidden to go, where they flee to"]
+          ]
+        }
       ]
     }
   ]
