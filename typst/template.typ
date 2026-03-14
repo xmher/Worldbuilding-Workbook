@@ -224,13 +224,13 @@
 
     #v(0.8em)
 
-    // Decorative gold divider with diamond ornament
+    // Decorative gold floral divider
     #align(center)[
-      #line(length: 60pt, stroke: 2pt + color-accent)
-      #h(8pt)
-      #text(fill: color-accent, size: 1.2em)[◆]
-      #h(8pt)
-      #line(length: 60pt, stroke: 2pt + color-accent)
+      #line(length: 60pt, stroke: 1.5pt + color-accent)
+      #h(10pt)
+      #text(fill: color-accent, size: 1.4em)[❧]
+      #h(10pt)
+      #line(length: 60pt, stroke: 1.5pt + color-accent)
     ]
 
     #v(0.8em)
@@ -240,7 +240,7 @@
       align(center)[
         #text(
           font: font-accent,
-          size: 1.3em,
+          size: 1.5em,
           style: "italic",
           weight: "semibold",
           tracking: 0pt,
