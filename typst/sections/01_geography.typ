@@ -123,6 +123,9 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 == Reference: Place Name Patterns
 
 
+// WARNING: unknown type "body"
+
+
 === Common English Place Name Patterns
 
 
