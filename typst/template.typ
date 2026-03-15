@@ -687,8 +687,8 @@
   // Measure remaining page space and fill with blank rows
   layout(size => {
     let effective-row-h = row-height / 1pt + 24
-    let header-h = 44
-    let example-h = if example-rows.len() > 0 { calc.max(50, effective-row-h) * example-rows.len() } else { 0 }
+    let header-h = 50
+    let example-h = if example-rows.len() > 0 { calc.max(95, effective-row-h) * example-rows.len() } else { 0 }
     let rows-h = rows.len() * effective-row-h
     let preamble-h = if preamble != none { 80 } else { 0 }
     let overhead = header-h + example-h + rows-h + preamble-h
@@ -705,13 +705,9 @@
     if can-fit and total-data-rows > 0 {
       let leftover = available - fill-count * effective-row-h
       if fill-strategy == "wider_rows" {
-        // Use one fewer blank row, then stretch all rows to absorb the space
-        fill-count = calc.max(0, fill-count - 1)
-        total-data-rows = rows.len() + fill-count
-        if total-data-rows > 0 {
-          let per-row = available / total-data-rows - 24
-          actual-row-h = calc.max(row-height, per-row * 1pt)
-        }
+        // Keep current row count, stretch all rows to fill the space
+        let per-row = available / total-data-rows - 26
+        actual-row-h = calc.max(row-height, per-row * 1pt)
       } else if fill-strategy == "more_rows" {
         // Add a row if there's any meaningful leftover (>25% of a row)
         if leftover > effective-row-h * 0.25 {
