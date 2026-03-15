@@ -123,14 +123,13 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 // WARNING: unknown type "body"
 
 
-=== Common English Place Name Patterns
-
-
-#hint[Mix prefixes and suffixes to generate names. "Ash" + "ford" = Ashford. "Black" + "moor" = Blackmoor.]
-
-
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
+  preamble: [
+=== Common English Place Name Patterns
+
+#hint[Mix prefixes and suffixes to generate names. "Ash" + "ford" = Ashford. "Black" + "moor" = Blackmoor.]
+],
   rows: (
     ([Ash-], [ash tree], [Ashford, Ashby]),
     ([Black-], [dark, black], [Blackmoor, Blackpool]),
@@ -157,14 +156,13 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-=== Nordic/Scandinavian Place Name Patterns
-
-
-#hint[Good for cold, northern, Viking-inspired settings. Old Norse roots appear in many English place names too.]
-
-
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
+  preamble: [
+=== Nordic/Scandinavian Place Name Patterns
+
+#hint[Good for cold, northern, Viking-inspired settings. Old Norse roots appear in many English place names too.]
+],
   rows: (
     ([Stor- / Stór-], [great, large], [Storfjord, Stóravatn]),
     ([Ny- / Nýr-], [new], [Nykøbing, Nýdalur]),
@@ -190,14 +188,13 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-=== Celtic/Welsh Place Name Patterns
-
-
-#hint[Good for mystical, ancient, fae-adjacent settings. Celtic names often describe landscape features poetically.]
-
-
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
+  preamble: [
+=== Celtic/Welsh Place Name Patterns
+
+#hint[Good for mystical, ancient, fae-adjacent settings. Celtic names often describe landscape features poetically.]
+],
   rows: (
     ([Aber-], [river mouth], [Aberdeen, Aberystwyth]),
     ([Caer- / Car-], [fort, stronghold], [Caernarfon, Cardiff]),
@@ -213,14 +210,13 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-=== Slavic Place Name Patterns
-
-
-#hint[Good for Eastern European-inspired settings. Slavic names often use descriptive compounds.]
-
-
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
+  preamble: [
+=== Slavic Place Name Patterns
+
+#hint[Good for Eastern European-inspired settings. Slavic names often use descriptive compounds.]
+],
   rows: (
     ([-grad / -gorod], [city, fortified place], [Belgrade, Novgorod]),
     ([-ov / -ova / -ovo], [belonging to (possessive)], [Sarajevo, Krakow]),
@@ -338,17 +334,15 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
+#workbook-table(
+  headers: ("Category", "Examples"),
+  preamble: [
 == Resources & Territorial Control
-
 
 === Reference: Natural Resource Ideas
 
-
 #hint[Use this list for inspiration when filling out the table below.]
-
-
-#workbook-table(
-  headers: ("Category", "Examples"),
+],
   rows: (
     ([Precious Metals], [Gold, silver, copper, iron ore, bronze, platinum, mithril]),
     ([Gems & Stones], [Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble]),
@@ -793,14 +787,13 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-=== Travel Time Reference
-
-
-#hint[These are real-world estimates. Feel free to adjust for your world.]
-
-
 #workbook-table(
   headers: ("Mode of Travel", "Distance per Day", "Notes"),
+  preamble: [
+=== Travel Time Reference
+
+#hint[These are real-world estimates. Feel free to adjust for your world.]
+],
   rows: (
     ([Walking (comfortable pace)], [15–20 miles / 25–32 km], [Healthy adult with breaks]),
     ([Forced march], [25–30 miles / 40–50 km], [Exhausting, not sustainable]),

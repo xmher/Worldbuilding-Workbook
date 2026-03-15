@@ -498,6 +498,7 @@
   rows: (),
   example-rows: (),
   col-widths: none,
+  preamble: none,
 ) = {
   let all-rows = ()
 
@@ -514,32 +515,44 @@
   }
 
   let cols = if col-widths != none { col-widths } else { range(headers.len()).map(_ => 1fr) }
+  let col-count = headers.len()
+
+  // Build header cells: preamble (if any) + column headers
+  let header-cells = ()
+  if preamble != none {
+    header-cells.push(
+      table.cell(colspan: col-count, fill: white, inset: (x: 0pt, top: 0pt, bottom: 8pt), stroke: none)[#preamble]
+    )
+  }
+  header-cells += headers.map(h =>
+    text(
+      font: font-display,
+      size: 0.7em,
+      tracking: 1pt,
+      weight: "bold",
+      fill: white,
+    )[#upper(h)]
+  )
 
   block(width: 100%, above: 1.5em, below: 1.5em)[
     #set par(justify: false)
     #table(
       columns: cols,
       fill: (col, row) => {
-        if row == 0 { color-theme }
-        else if row <= example-rows.len() { color-theme.lighten(92%) }
-        else if calc.rem(row, 2) == 0 { rgb("#00000005") }
+        let header-offset = if preamble != none { 1 } else { 0 }
+        if preamble != none and row == 0 { white }
+        else if row == header-offset { color-theme }
+        else if row <= header-offset + example-rows.len() { color-theme.lighten(92%) }
+        else if calc.rem(row - header-offset, 2) == 0 { rgb("#00000005") }
         else { none }
       },
       stroke: 1pt + color-noir,
       inset: 12pt,
       align: left,
 
-      // Headers (repeat on page break)
+      // Headers (repeat on page break — preamble only on first page)
       table.header(
-        ..headers.map(h =>
-          text(
-            font: font-display,
-            size: 0.7em,
-            tracking: 1pt,
-            weight: "bold",
-            fill: white,
-          )[#upper(h)]
-        ),
+        ..header-cells,
       ),
 
       // All data rows
@@ -584,14 +597,34 @@
   let total-height = 44 + example-h + rows.len() * effective-row-h + preamble-h
   let can-fit = total-height < 620
 
+  // Build table header: preamble (if any) + column headers.
+  // Putting preamble inside table.header ensures it stays with the table
+  // even when the table breaks across pages.
+  let header-cells = ()
+  if preamble != none {
+    header-cells.push(
+      table.cell(colspan: col-count, fill: white, inset: (x: 0pt, top: 0pt, bottom: 8pt), stroke: none)[#preamble]
+    )
+  }
+  header-cells += headers.map(h =>
+    text(
+      font: font-display,
+      size: 0.7em,
+      tracking: 1pt,
+      weight: "bold",
+      fill: white,
+    )[#upper(h)]
+  )
+
   block(width: 100%, above: 1.5em, below: 1.5em, breakable: not can-fit)[
-    #if preamble != none { preamble }
     #set par(justify: false)
     #table(
       columns: range(col-count).map(_ => 1fr),
       fill: (col, row) => {
-        if row == 0 { color-theme }
-        else if row <= example-rows.len() { color-theme.lighten(92%) }
+        let header-offset = if preamble != none { 1 } else { 0 }
+        if preamble != none and row == 0 { white }
+        else if row == header-offset { color-theme }
+        else if row <= header-offset + example-rows.len() { color-theme.lighten(92%) }
         else { white }
       },
       stroke: 1pt + color-noir,
@@ -599,15 +632,7 @@
       align: left,
 
       table.header(
-        ..headers.map(h =>
-          text(
-            font: font-display,
-            size: 0.7em,
-            tracking: 1pt,
-            weight: "bold",
-            fill: white,
-          )[#upper(h)]
-        ),
+        ..header-cells,
       ),
 
       ..all-rows.flatten(),
@@ -644,14 +669,36 @@
   // Blank row template
   let blank-row = range(col-count).map(_ => block(height: row-height)[])
 
+  // Build header cells (column headers only, no preamble — used for continuation)
+  let column-header-cells = headers.map(h =>
+    text(
+      font: font-display,
+      size: 0.7em,
+      tracking: 1pt,
+      weight: "bold",
+      fill: white,
+    )[#upper(h)]
+  )
+
   // Shared table builder
-  let make-table(all-rows, ex-count, labeled-count) = {
+  let make-table(all-rows, ex-count, labeled-count: 0, with-preamble: false) = {
+    let header-cells = ()
+    let header-offset = 0
+    if with-preamble and preamble != none {
+      header-cells.push(
+        table.cell(colspan: col-count, fill: white, inset: (x: 0pt, top: 0pt, bottom: 8pt), stroke: none)[#preamble]
+      )
+      header-offset = 1
+    }
+    header-cells += column-header-cells
+
     set par(justify: false)
     table(
       columns: range(col-count).map(_ => 1fr),
       fill: (col, row) => {
-        if row == 0 { color-theme }
-        else if row <= ex-count { color-theme.lighten(92%) }
+        if with-preamble and preamble != none and row == 0 { white }
+        else if row == header-offset { color-theme }
+        else if row <= header-offset + ex-count { color-theme.lighten(92%) }
         else { white }
       },
       stroke: 1pt + color-noir,
@@ -659,15 +706,7 @@
       align: left,
 
       table.header(
-        ..headers.map(h =>
-          text(
-            font: font-display,
-            size: 0.7em,
-            tracking: 1pt,
-            weight: "bold",
-            fill: white,
-          )[#upper(h)]
-        ),
+        ..header-cells,
       ),
 
       ..all-rows.flatten(),
@@ -699,8 +738,7 @@
     }
 
     block(width: 100%, above: 1.5em, below: 0pt, breakable: not can-fit)[
-      #if preamble != none { preamble }
-      #make-table(all-rows, example-rows.len(), rows.len())
+      #make-table(all-rows, example-rows.len(), labeled-count: rows.len(), with-preamble: true)
     ]
   })
 
