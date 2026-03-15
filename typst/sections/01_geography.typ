@@ -190,11 +190,11 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
-
 === Celtic/Welsh Place Name Patterns
 
+
 #hint[Good for mystical, ancient, fae-adjacent settings. Celtic names often describe landscape features poetically.]
+
 
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
@@ -205,21 +205,41 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Pen-], [head, top, end], [Penrith, Penzance]),
     ([Tre- / Tref-], [homestead, town], [Tremaine]),
     ([Dun- / Din-], [hill fort], [Edinburgh (Dun Edin)]),
+    ([Bal- / Bally-], [homestead, town, settlement], [Balmoral, Ballymena]),
+    ([Kil- / Cil-], [church, monk's cell], [Killarney, Kilmarnock]),
+    ([Ard-], [height, high place], [Ardmore, Ardrossan]),
+    ([Ben- / Beinn-], [mountain, peak], [Ben Nevis, Ben More]),
+    ([Bryn-], [hill, mound], [Brynmawr, Brynteg]),
+    ([Knock- / Cnoc-], [rounded hill], [Knockmore, Knockbreda]),
+    ([Drum- / Druim-], [ridge, back of a hill], [Drummond, Dromore]),
+    ([Carn- / Cairn-], [cairn, rocky hill], [Cairngorm, Carn Brea]),
+    ([Strath-], [wide, shallow river valley], [Strathclyde, Strathnaver]),
+    ([Nant-], [stream, brook, narrow valley], [Nantgarw, Nant-y-moch]),
+    ([Porth-], [port, harbor, cove], [Porthmadog, Perranporth]),
+    ([Derry- / Doire-], [oak grove, oak wood], [Derry, Derrynane]),
+    ([Craig- / Carrig-], [rock, crag], [Carrickfergus, Craigavon]),
+    ([Rath-], [ring fort, earthen enclosure], [Rathmore, Rathmines]),
+    ([Lis- / Lios-], [ring fort, enclosed farmstead], [Lismore, Lisburn]),
+    ([Tully- / Tulach-], [hillock, knoll], [Tullamore, Tullymore]),
+    ([Coed- / Coat-], [wood, forest], [Betws-y-Coed]),
+    ([Ross- / Ros-], [moor, promontory, or wood], [Roscommon, Rhosneigr]),
     ([-combe / -cwm], [valley], [Ilfracombe]),
     ([Glyn- / Glen-], [valley], [Glencoe]),
     ([Loch- / Lough-], [lake], [Lochaber]),
     ([Inver- / Innis-], [river mouth / island], [Inverness]),
+    ([Kin- / Ceann-], [head, headland], [Kinlochleven, Kinross]),
+    ([Blair- / Blàr-], [plain, battlefield], [Blair Atholl]),
+    ([-mór / -mawr], [great, big (size modifier)], [Dromore, Brynmawr]),
+    ([-beg / -bach], [small, little (size modifier)], [Knockbeg, Trefechan]),
   ),
 )
 
-]
-
-
-#block(breakable: false, below: 0pt)[
 
 === Slavic Place Name Patterns
 
+
 #hint[Good for Eastern European-inspired settings. Slavic names often use descriptive compounds.]
+
 
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
@@ -231,13 +251,32 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([-pol / -pole], [field], [Sevastopol]),
     ([Belo- / Byelo-], [white], [Belgrade (Beograd)]),
     ([Cerno- / Cherno-], [black], [Chernobyl]),
+    ([Krasno-], [beautiful (archaic) / red], [Krasnodar, Krasnoyarsk]),
+    ([Zeleno-], [green], [Zelenograd]),
+    ([Zlato- / Zlaty-], [golden], [Zlatograd, Zlatoust]),
+    ([Pod-], [under, below, at the foot of], [Podgorica, Podolsk]),
+    ([Za-], [beyond, behind], [Zagreb, Zaporizhzhia]),
+    ([Pri-], [by, near, at], [Primorsk, Prishtina]),
+    ([Gornji- / Gorni-], [upper], [Gornji Milanovac]),
+    ([Donji- / Dolni-], [lower], [Donji Vakuf, Dolní Slezsko]),
+    ([Malo- / Maly-], [small, little], [Małopolska]),
+    ([Veliko- / Veliky-], [great, large], [Veliky Novgorod]),
+    ([Gora- / Hora-], [mountain, hill], [Jelenia Góra, Bilogora]),
+    ([Brod-], [ford, river crossing], [Slavonski Brod, Brody]),
+    ([Most-], [bridge], [Mostar, Most]),
+    ([Dub- / Dubr-], [oak, oak grove], [Dubrovnik, Dąbrowa]),
+    ([Kamen-], [stone, rock], [Kamenets-Podolsky]),
+    ([Dol- / Dolina-], [valley, low ground], [Dolina, Dolinsk]),
+    ([Sveto- / Svyato-], [holy, sacred], [Sveti Stefan, Svyatogorsk]),
+    ([Visoko-], [high, elevated], [Visoko, Vysoké Tatry]),
+    ([Sred- / Srednje-], [middle, central], [Sredets (old Sofia)]),
+    ([-in / -yn], [possessive (belonging to)], [Lublin, Szczecin]),
+    ([-slavl], [glory of (person)], [Yaroslavl, Pereyaslavl]),
+    ([-ica / -itsa], [feminine place suffix], [Subotica, Koprivshtitsa]),
     ([-ice / -itz], [place suffix], [Katowice]),
     ([-sk / -sko], [place/region suffix], [Gdansk, Minsk]),
-    ([Veliko- / Veliky-], [great, large], [Veliky Novgorod]),
   ),
 )
-
-]
 
 
 #open-table(
