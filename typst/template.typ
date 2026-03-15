@@ -574,7 +574,15 @@
     all-rows.push(row.map(cell => block(height: row-height)[#cell]))
   }
 
-  block(width: 100%, above: 1.5em, below: 1.5em)[
+  // Estimate total table height to decide if it fits on a single page.
+  // Tables that fit: non-breakable (prevents orphaned rows).
+  // Tables that don't fit: breakable (allows natural page breaks).
+  let effective-row-h = row-height / 1pt + 24
+  let example-h = if example-rows.len() > 0 { calc.max(100, effective-row-h) * example-rows.len() } else { 0 }
+  let total-height = 44 + example-h + rows.len() * effective-row-h
+  let can-fit = total-height < 620
+
+  block(width: 100%, above: 1.5em, below: 1.5em, breakable: not can-fit)[
     #set par(justify: false)
     #table(
       columns: range(col-count).map(_ => 1fr),
