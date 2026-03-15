@@ -606,18 +606,8 @@
         ]
       ],
       "row_height": "30pt",
-      "rows": [
-        [
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          ""
-        ]
-      ]
+      "rows": [],
+      "fill_strategy": "more_rows"
     },
     {
       "type": "divider"
@@ -676,7 +666,8 @@
           "Secondary location",
           ""
         ]
-      ]
+      ],
+      "fill_strategy": "wider_rows"
     },
     {
       "type": "divider"
@@ -794,7 +785,8 @@
           "Natural defense, mineral deposits, isolation for monasteries",
           "Impassable in winter, separates lovers from different kingdoms, treacherous passes"
         ]
-      ]
+      ],
+      "fill_strategy": "wider_rows"
     },
     {
       "type": "divider"
@@ -919,7 +911,8 @@
           "",
           ""
         ]
-      ]
+      ],
+      "fill_strategy": "wider_rows"
     },
     {
       "type": "heading4",
@@ -1191,7 +1184,8 @@
           "Corrupted magic, monsters, no water for miles, disorienting mists",
           "Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary"
         ]
-      ]
+      ],
+      "fill_strategy": "wider_rows"
     },
     {
       "type": "heading4",
@@ -1586,7 +1580,8 @@
           "Political prisoners sent there; protagonist exiled after scandal",
           "Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure"
         ]
-      ]
+      ],
+      "fill_strategy": "wider_rows"
     },
     {
       "type": "divider"
@@ -1710,7 +1705,8 @@
           "The place that matters emotionally",
           ""
         ]
-      ]
+      ],
+      "fill_strategy": "wider_rows"
     },
     {
       "type": "divider"

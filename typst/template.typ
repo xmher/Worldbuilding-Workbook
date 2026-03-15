@@ -626,6 +626,7 @@
   example-rows: (),
   rows: (),
   row-height: 55pt,
+  fill-strategy: "auto",  // "auto", "more_rows", or "wider_rows"
   extra-rows: 0,
   preamble: none,
 ) = {
@@ -637,14 +638,6 @@
       text(style: "italic", fill: color-text-muted, size: 0.85em)[#cell]
     )
   )
-
-  // Format labeled rows (normal style, like structured-table)
-  let fmt-rows = rows.map(row =>
-    row.map(cell => block(height: row-height)[#cell])
-  )
-
-  // Blank row template
-  let blank-row = range(col-count).map(_ => block(height: row-height)[])
 
   // Shared table builder
   let make-table(all-rows, ex-count) = {
@@ -694,17 +687,50 @@
   // Measure remaining page space and fill with blank rows
   layout(size => {
     let effective-row-h = row-height / 1pt + 24
-    let header-h = 44
-    let example-h = if example-rows.len() > 0 { calc.max(70, effective-row-h) * example-rows.len() } else { 0 }
+    let header-h = 50
+    let example-h = if example-rows.len() > 0 { calc.max(95, effective-row-h) * example-rows.len() } else { 0 }
     let rows-h = rows.len() * effective-row-h
-    let preamble-h = if preamble != none { 150 } else { 0 }
-    let overhead = header-h + example-h + rows-h + preamble-h + 24
+    let preamble-h = if preamble != none { 80 } else { 0 }
+    let overhead = header-h + example-h + rows-h + preamble-h
 
     let available = size.height / 1pt - overhead
     let fill-count = calc.max(0, int(available / effective-row-h))
 
     // If labeled+example rows already exceed page, no blanks and allow breaking
     let can-fit = available > 0
+
+    // Calculate adjusted row height to distribute leftover space evenly
+    let total-data-rows = rows.len() + fill-count
+    let actual-row-h = row-height
+    if can-fit and total-data-rows > 0 {
+      let leftover = available - fill-count * effective-row-h
+      if fill-strategy == "wider_rows" {
+        // Keep current row count, stretch all rows to fill the space
+        let per-row = available / total-data-rows - 26
+        actual-row-h = calc.max(row-height, per-row * 1pt)
+      } else if fill-strategy == "more_rows" {
+        // Add a row if there's any meaningful leftover (>25% of a row)
+        if leftover > effective-row-h * 0.25 {
+          fill-count = fill-count + 1
+          total-data-rows = total-data-rows + 1
+        }
+        // Keep rows at base height (no stretching)
+      } else {
+        // Auto: add a row if leftover > 40%, then stretch remainder
+        if leftover > effective-row-h * 0.4 {
+          fill-count = fill-count + 1
+          total-data-rows = total-data-rows + 1
+        }
+        let per-row = available / total-data-rows - 24
+        actual-row-h = calc.max(row-height, per-row * 1pt)
+      }
+    }
+
+    // Build rows with adjusted height
+    let fmt-rows = rows.map(row =>
+      row.map(cell => block(height: actual-row-h)[#cell])
+    )
+    let blank-row = range(col-count).map(_ => block(height: actual-row-h)[])
 
     let all-rows = fmt-example-rows + fmt-rows
     if can-fit {

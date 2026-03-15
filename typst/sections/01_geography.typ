@@ -120,7 +120,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #pagebreak(weak: true)
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Reference: Place Name Patterns
 
@@ -155,7 +155,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #pagebreak(weak: true)
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 === Nordic/Scandinavian Place Name Patterns
 
@@ -188,7 +188,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #pagebreak(weak: true)
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 === Celtic/Welsh Place Name Patterns
 
@@ -221,7 +221,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #pagebreak(weak: true)
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 === Slavic Place Name Patterns
 
@@ -256,11 +256,8 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   example-rows: (
     ([Kel- / -kel], [silver, moonlight], [Kelvareth (Silver City)]),
   ),
-  rows: (
-    ([], [], []),
-    ([], [], []),
-  ),
   row-height: 30pt,
+  fill-strategy: "more_rows",
   preamble: [
 == Your World's Place Name Patterns
 
@@ -269,7 +266,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == The Big Picture: Your World's Scale
 
@@ -298,6 +295,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Secondary location], []),
   ),
   row-height: 55pt,
+  fill-strategy: "wider_rows",
   preamble: [
 ==== If your world is large, where specifically does your romance happen?
 
@@ -341,6 +339,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Mountains], [Northern border between kingdoms], [Natural defense, mineral deposits, isolation for monasteries], [Impassable in winter, separates lovers from different kingdoms, treacherous passes]),
   ),
   row-height: 55pt,
+  fill-strategy: "wider_rows",
   preamble: [
 == Terrain Types
 
@@ -351,7 +350,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Resources & Territorial Control
 
@@ -392,6 +391,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Magical resources], [], []),
   ),
   row-height: 55pt,
+  fill-strategy: "wider_rows",
   preamble: [
 ==== What natural resources are geographically concentrated?
 
@@ -400,7 +400,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What geographic resource creates tension or conflict in your world?
 
@@ -414,7 +414,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== How does geographic resource control affect your characters?
 
@@ -476,7 +476,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What's beautiful about this place?
 
@@ -490,7 +490,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What's harsh or uncomfortable about this place?
 
@@ -504,7 +504,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Climate, Weather & Seasons
 
@@ -520,7 +520,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What seasons exist and how distinct are they?
 
@@ -572,7 +572,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== Does the season create pressure or opportunity in your story?
 
@@ -592,6 +592,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([The Blighted Wastes], [Corrupted magic, monsters, no water for miles, disorienting mists], [Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary]),
   ),
   row-height: 55pt,
+  fill-strategy: "wider_rows",
   preamble: [
 == Dangerous Regions
 
@@ -620,7 +621,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Borders & Boundaries
 
@@ -636,7 +637,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== How permeable are these borders?
 
@@ -668,7 +669,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Home & Belonging
 
@@ -684,7 +685,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What does home look, smell, sound like to them?
 
@@ -698,7 +699,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== Where does your love interest feel at home?
 
@@ -749,7 +750,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What's the sensory experience of entering unfamiliar territory?
 
@@ -763,7 +764,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== How does the "native" character see their home differently through the visitor's eyes?
 
@@ -777,7 +778,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What does the visitor understand about their partner after seeing where they come from?
 
@@ -791,7 +792,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Travel & Distance
 
@@ -807,7 +808,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 === Travel Time Reference
 
@@ -873,6 +874,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Stormhold Keep], [Remote mountain fortress], [Political prisoners sent there; protagonist exiled after scandal], [Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure]),
   ),
   row-height: 55pt,
+  fill-strategy: "wider_rows",
   preamble: [
 == Isolated Locations
 
@@ -883,7 +885,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Geography as Emotional Landscape
 
@@ -899,7 +901,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== Is there a location that becomes meaningful to your characters specifically?
 
@@ -948,13 +950,14 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([The place that matters emotionally], []),
   ),
   row-height: 55pt,
+  fill-strategy: "wider_rows",
   preamble: [
 == Quick Reference: Geographic Stakes
 ],
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Map Making: What to Include on Your Map
 

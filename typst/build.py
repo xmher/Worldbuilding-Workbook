@@ -279,6 +279,8 @@ def gen_open_table(item: dict, preamble: str = "") -> str:
     extra_arg = f"\n  extra-rows: {extra_rows}," if extra_rows > 0 else ""
     rows_arg = f"\n  rows: (\n{chr(10).join(row_lines)}\n  )," if rows else ""
     preamble_arg = f"\n  preamble: [{preamble}]," if preamble else ""
+    fill_strategy = item.get("fill_strategy", "auto")
+    fill_arg = f'\n  fill-strategy: "{fill_strategy}",' if fill_strategy != "auto" else ""
 
     return f'''
 #open-table(
@@ -286,7 +288,7 @@ def gen_open_table(item: dict, preamble: str = "") -> str:
   example-rows: (
 {chr(10).join(ex_lines)}
   ),{rows_arg}
-  row-height: {row_height},{extra_arg}{preamble_arg}
+  row-height: {row_height},{extra_arg}{fill_arg}{preamble_arg}
 )
 '''
 
@@ -444,12 +446,12 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 if full_page:
                     parts.append("\n#pagebreak(weak: true)\n")
                     parts.append(
-                        f"\n#block(breakable: false, below: 0pt)["
+                        f"\n#block(breakable: false)["
                         f"\n{''.join(all_group_parts)}\n]\n"
                     )
                 elif estimated_height < 620:
                     parts.append(
-                        f"\n#block(breakable: false, below: 0pt)["
+                        f"\n#block(breakable: false)["
                         f"\n{''.join(all_group_parts)}\n]\n"
                     )
                 else:
@@ -462,7 +464,7 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 if wb_gen:
                     preamble_parts.append(wb_gen(content[j]))
                 parts.append(
-                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n#block(breakable: false)["
                     f"\n{''.join(preamble_parts)}\n]\n"
                 )
                 consumed.add(j)
@@ -502,7 +504,7 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 if wb_gen:
                     preamble_parts.append(wb_gen(content[j]))
                 parts.append(
-                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n#block(breakable: false)["
                     f"\n{''.join(preamble_parts)}\n]\n"
                 )
                 consumed.add(j)
@@ -540,12 +542,12 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 # Force page break before and render as non-breakable block
                 parts.append("\n#pagebreak(weak: true)\n")
                 parts.append(
-                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n#block(breakable: false)["
                     f"\n{''.join(all_child_parts)}\n]\n"
                 )
             elif estimated_height < 620:
                 parts.append(
-                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n#block(breakable: false)["
                     f"\n{''.join(all_child_parts)}\n]\n"
                 )
             else:
