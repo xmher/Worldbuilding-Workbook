@@ -638,14 +638,6 @@
     )
   )
 
-  // Format labeled rows (normal style, like structured-table)
-  let fmt-rows = rows.map(row =>
-    row.map(cell => block(height: row-height)[#cell])
-  )
-
-  // Blank row template
-  let blank-row = range(col-count).map(_ => block(height: row-height)[])
-
   // Shared table builder
   let make-table(all-rows, ex-count) = {
     set par(justify: false)
@@ -705,6 +697,28 @@
 
     // If labeled+example rows already exceed page, no blanks and allow breaking
     let can-fit = available > 0
+
+    // Calculate adjusted row height to distribute leftover space evenly
+    let total-data-rows = rows.len() + fill-count
+    let actual-row-h = row-height
+    if can-fit and total-data-rows > 0 {
+      let leftover = available - fill-count * effective-row-h
+      // If leftover is more than half a row, add one more blank row
+      if leftover > effective-row-h * 0.4 {
+        fill-count = fill-count + 1
+        total-data-rows = total-data-rows + 1
+      }
+      // Distribute remaining space evenly across all data rows
+      let total-space = available
+      let per-row = total-space / total-data-rows - 24  // subtract inset
+      actual-row-h = calc.max(row-height, per-row * 1pt)
+    }
+
+    // Build rows with adjusted height
+    let fmt-rows = rows.map(row =>
+      row.map(cell => block(height: actual-row-h)[#cell])
+    )
+    let blank-row = range(col-count).map(_ => block(height: actual-row-h)[])
 
     let all-rows = fmt-example-rows + fmt-rows
     if can-fit {
