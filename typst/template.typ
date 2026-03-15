@@ -705,10 +705,13 @@
     if can-fit and total-data-rows > 0 {
       let leftover = available - fill-count * effective-row-h
       if fill-strategy == "wider_rows" {
-        // Never add extra rows; stretch existing rows to fill space
-        let total-space = available
-        let per-row = total-space / total-data-rows - 24
-        actual-row-h = calc.max(row-height, per-row * 1pt)
+        // Use one fewer blank row, then stretch all rows to absorb the space
+        fill-count = calc.max(0, fill-count - 1)
+        total-data-rows = rows.len() + fill-count
+        if total-data-rows > 0 {
+          let per-row = available / total-data-rows - 24
+          actual-row-h = calc.max(row-height, per-row * 1pt)
+        }
       } else if fill-strategy == "more_rows" {
         // Add a row if there's any meaningful leftover (>25% of a row)
         if leftover > effective-row-h * 0.25 {
@@ -722,8 +725,7 @@
           fill-count = fill-count + 1
           total-data-rows = total-data-rows + 1
         }
-        let total-space = available
-        let per-row = total-space / total-data-rows - 24
+        let per-row = available / total-data-rows - 24
         actual-row-h = calc.max(row-height, per-row * 1pt)
       }
     }
