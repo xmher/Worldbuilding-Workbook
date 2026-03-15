@@ -123,11 +123,11 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 // WARNING: unknown type "body"
 
 
-#block(breakable: false, below: 0pt)[
-
 === Common English Place Name Patterns
 
+
 #hint[Mix prefixes and suffixes to generate names. "Ash" + "ford" = Ashford. "Black" + "moor" = Blackmoor.]
+
 
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
@@ -156,14 +156,12 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
 )
 
-]
-
-
-#block(breakable: false, below: 0pt)[
 
 === Nordic/Scandinavian Place Name Patterns
 
+
 #hint[Good for cold, northern, Viking-inspired settings. Old Norse roots appear in many English place names too.]
+
 
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
@@ -191,14 +189,12 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
 )
 
-]
-
-
-#block(breakable: false, below: 0pt)[
 
 === Celtic/Welsh Place Name Patterns
 
+
 #hint[Good for mystical, ancient, fae-adjacent settings. Celtic names often describe landscape features poetically.]
+
 
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
@@ -216,14 +212,12 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
 )
 
-]
-
-
-#block(breakable: false, below: 0pt)[
 
 === Slavic Place Name Patterns
 
+
 #hint[Good for Eastern European-inspired settings. Slavic names often use descriptive compounds.]
+
 
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
@@ -240,8 +234,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Veliko- / Veliky-], [great, large], [Veliky Novgorod]),
   ),
 )
-
-]
 
 
 #open-table(
@@ -346,13 +338,14 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
-
 == Resources & Territorial Control
+
 
 === Reference: Natural Resource Ideas
 
+
 #hint[Use this list for inspiration when filling out the table below.]
+
 
 #workbook-table(
   headers: ("Category", "Examples"),
@@ -368,8 +361,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Curiosities], [Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight]),
   ),
 )
-
-]
 
 
 #open-table(
@@ -802,11 +793,11 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
-
 === Travel Time Reference
 
+
 #hint[These are real-world estimates. Feel free to adjust for your world.]
+
 
 #workbook-table(
   headers: ("Mode of Travel", "Distance per Day", "Notes"),
@@ -820,8 +811,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Carriage/wagon], [20–30 miles / 32–50 km], [Roads required]),
   ),
 )
-
-]
 
 
 #structured-table(
@@ -949,11 +938,11 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
-
 == Map Making: What to Include on Your Map
 
+
 #hint[Consider which of these appear in your world. You don't need all of them.]
+
 
 #workbook-table(
   headers: ("Category", "Possible Locations"),
@@ -968,5 +957,3 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Story-specific], [Where characters meet, where they're forbidden to go, where they flee to]),
   ),
 )
-
-]

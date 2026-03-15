@@ -515,7 +515,7 @@
 
   let cols = if col-widths != none { col-widths } else { range(headers.len()).map(_ => 1fr) }
 
-  block(width: 100%, above: 1.5em, below: 1.5em, breakable: false)[
+  block(width: 100%, above: 1.5em, below: 1.5em)[
     #set par(justify: false)
     #table(
       columns: cols,

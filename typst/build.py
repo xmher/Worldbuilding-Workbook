@@ -419,18 +419,15 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                     parts.append(gen_open_table(table_item, preamble=preamble_text))
                 consumed.add(j)
             elif next_type == "group":
-                # Include heading2 + entire group as one non-breakable unit
+                # Render heading2 preamble + group children normally
+                for p in preamble_parts:
+                    parts.append(p)
                 group_item = content[j]
-                all_parts = list(preamble_parts)
                 for child in group_item.get("content", []):
                     child_type = child.get("type", "")
                     child_gen = GENERATORS.get(child_type)
                     if child_gen:
-                        all_parts.append(child_gen(child))
-                parts.append(
-                    f"\n#block(breakable: false, below: 0pt)["
-                    f"\n{''.join(all_parts)}\n]\n"
-                )
+                        parts.append(child_gen(child))
                 consumed.add(j)
             elif next_type == "writing_box":
                 # Group heading2 preamble + writing_box together
@@ -488,23 +485,17 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                     parts.append(p)
             continue
 
-        # Group: keep heading+hint together, let tables flow naturally
+        # Group: render children normally, letting content flow across pages
         if item_type == "group":
-            # Render entire group as one non-breakable unit
-            all_parts = []
             for child in item.get("content", []):
                 child_type = child.get("type", "")
                 child_gen = GENERATORS.get(child_type)
                 if child_gen:
-                    all_parts.append(child_gen(child))
+                    parts.append(child_gen(child))
                 else:
-                    all_parts.append(
+                    parts.append(
                         f"\n// WARNING: unknown type \"{child_type}\"\n"
                     )
-            parts.append(
-                f"\n#block(breakable: false, below: 0pt)["
-                f"\n{''.join(all_parts)}\n]\n"
-            )
             continue
 
         gen = GENERATORS.get(item_type)
