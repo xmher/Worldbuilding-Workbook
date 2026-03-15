@@ -7,13 +7,10 @@
 )
 
 
-#block(breakable: false, below: 0pt)[
-
 == In This Section
 
-=== Concepts & Frameworks
 
-]
+=== Concepts & Frameworks
 
 
 - How to Think About Geography
@@ -61,25 +58,28 @@
 You need both.
 
 
-#block(breakable: false, below: 0pt)[
-
 == A Note Before You Begin
+
 
 Not every question will apply to your story. #strong[Skip what doesn't fit.]
 
+
 #strong[Worldbuild for its own sake if you want.] A richly developed world has value beyond what appears on the page. Use the "romance connection" prompts for brainstorming if they're helpful, or leave them blank if that element is just background texture.
+
 
 #strong[Come back later.] If you're not sure whether something matters yet, skip it and return once your story has taken more shape.
 
+
 This workbook is a tool, not a test.
+
 
 == How to Think About Geography in Romantasy
 
+
 Geography in romantasy functions as a #strong[pressure system] — the physical world can compress your characters together, force them apart, or create conditions where they must rely on each other. Before you draw a map, ask yourself: #emph[What geographic situation does my romance need?]
 
-Not every hill and river needs to serve the plot. But the geography you emphasize — the locations where scenes happen, the terrain your characters traverse, the distances between them — should be doing something. Background geography creates atmosphere and believability. Foreground geography creates story.
 
-]
+Not every hill and river needs to serve the plot. But the geography you emphasize — the locations where scenes happen, the terrain your characters traverse, the distances between them — should be doing something. Background geography creates atmosphere and believability. Foreground geography creates story.
 
 
 #framework-box(title: "The Geography-as-Friction Framework")[
@@ -117,11 +117,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
-
 == Reference: Place Name Patterns
-
-]
 
 
 // WARNING: unknown type "body"

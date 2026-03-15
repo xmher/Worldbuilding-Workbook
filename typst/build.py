@@ -393,8 +393,9 @@ def generate_section(data: dict, standalone: bool = False) -> str:
             ))
             continue
 
-        # Auto-group: heading2 + following preamble items (heading4, hint, prose)
-        # If a table follows, pass the preamble INTO the table so they're one unit.
+        # Auto-group: heading2 + following preamble items
+        # If a table/group/writing_box follows, keep heading with it.
+        # Otherwise, let content flow naturally (no non-breakable wrapping).
         if item_type == "heading2":
             preamble_types = {"heading2", "heading3", "heading4", "hint", "prose", "lead_text"}
             table_types = {"structured_table", "open_table"}
@@ -442,11 +443,9 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 )
                 consumed.add(j)
             else:
-                # No table or group follows — just render heading block
-                parts.append(
-                    f"\n#block(breakable: false, below: 0pt)["
-                    f"\n{''.join(preamble_parts)}\n]\n"
-                )
+                # No table/group/writing_box follows — output normally
+                for p in preamble_parts:
+                    parts.append(p)
             continue
 
         # Auto-group: heading4 + following hint/prose
@@ -484,11 +483,9 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 )
                 consumed.add(j)
             else:
-                # No table follows — keep heading+hint together as block
-                parts.append(
-                    f"\n#block(breakable: false, below: 0pt)["
-                    f"\n{''.join(preamble_parts)}\n]\n"
-                )
+                # No table follows — output normally
+                for p in preamble_parts:
+                    parts.append(p)
             continue
 
         # Group: keep heading+hint together, let tables flow naturally
