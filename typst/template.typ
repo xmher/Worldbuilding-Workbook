@@ -231,7 +231,7 @@
         align: (horizon, horizon, horizon, horizon, horizon),
         line(length: 100%, stroke: 1.5pt + color-accent),
         [],
-        text(fill: color-accent, size: 2.5em)[❀],
+        text(fill: color-accent, size: 2.5em)[✦],
         [],
         line(length: 100%, stroke: 1.5pt + color-accent),
       )
@@ -296,15 +296,6 @@
         )[#intro]
       }
 
-      // Decorative divider at bottom of section cover
-      #v(1fr)
-      #align(center)[
-        #box(width: 80pt, line(length: 100%, stroke: 2pt + color-accent))
-        #h(8pt)
-        #text(fill: color-accent, size: 1.2em)[◆]
-        #h(8pt)
-        #box(width: 80pt, line(length: 100%, stroke: 2pt + color-accent))
-      ]
     ]
   ]
 }
@@ -506,6 +497,7 @@
   headers: (),
   rows: (),
   example-rows: (),
+  col-widths: none,
 ) = {
   let all-rows = ()
 
@@ -521,9 +513,12 @@
     all-rows.push(row)
   }
 
-  block(width: 100%, above: 1.5em, below: 1.5em, breakable: false)[
+  let cols = if col-widths != none { col-widths } else { range(headers.len()).map(_ => 1fr) }
+
+  block(width: 100%, above: 1.5em, below: 1.5em)[
+    #set par(justify: false)
     #table(
-      columns: range(headers.len()).map(_ => 1fr),
+      columns: cols,
       fill: (col, row) => {
         if row == 0 { color-theme }
         else if row <= example-rows.len() { color-theme.lighten(92%) }
@@ -534,50 +529,60 @@
       inset: 12pt,
       align: left,
 
-      // Headers
-      ..headers.map(h =>
-        text(
-          font: font-display,
-          size: 0.7em,
-          tracking: 1pt,
-          weight: "bold",
-          fill: white,
-        )[#upper(h)]
+      table.header(
+        ..headers.map(h =>
+          text(
+            font: font-display,
+            size: 0.7em,
+            tracking: 1pt,
+            weight: "bold",
+            fill: white,
+          )[#upper(h)]
+        ),
       ),
 
-      // All data rows
       ..all-rows.flatten(),
     )
   ]
 }
 
 
-// --- Input Table (tall cells for writing) ---
-#let input-table(
+// --- Structured Table (pre-filled labels, user fills in cells) ---
+// Breakable with repeating headers. All rows have consistent height.
+// No blank fill rows — every row has a label.
+#let structured-table(
   headers: (),
   rows: (),
   example-rows: (),
   row-height: 55pt,
+  preamble: none,
 ) = {
   let col-count = headers.len()
 
-  // Build all rows
   let all-rows = ()
 
+  // Example rows (italic, tinted background)
   for row in example-rows {
     all-rows.push(row.map(cell =>
       text(style: "italic", fill: color-text-muted, size: 0.85em)[#cell]
     ))
   }
 
+  // Content rows with consistent height
   for row in rows {
-    // Ensure each cell has minimum height
-    all-rows.push(row.map(cell =>
-      block(height: row-height)[#cell]
-    ))
+    all-rows.push(row.map(cell => block(height: row-height)[#cell]))
   }
 
-  block(width: 100%, above: 1.5em, below: 1.5em)[
+  // Estimate total table height to decide if it fits on a single page.
+  let effective-row-h = row-height / 1pt + 24
+  let example-h = if example-rows.len() > 0 { calc.max(100, effective-row-h) * example-rows.len() } else { 0 }
+  let preamble-h = if preamble != none { 150 } else { 0 }
+  let total-height = 44 + example-h + rows.len() * effective-row-h + preamble-h
+  let can-fit = total-height < 620
+
+  block(width: 100%, above: 1.5em, below: 1.5em, breakable: not can-fit)[
+    #if preamble != none { preamble }
+    #set par(justify: false)
     #table(
       columns: range(col-count).map(_ => 1fr),
       fill: (col, row) => {
@@ -589,19 +594,126 @@
       inset: 12pt,
       align: left,
 
-      ..headers.map(h =>
-        text(
-          font: font-display,
-          size: 0.7em,
-          tracking: 1pt,
-          weight: "bold",
-          fill: white,
-        )[#upper(h)]
+      table.header(
+        ..headers.map(h =>
+          text(
+            font: font-display,
+            size: 0.7em,
+            tracking: 1pt,
+            weight: "bold",
+            fill: white,
+          )[#upper(h)]
+        ),
       ),
 
       ..all-rows.flatten(),
     )
   ]
+}
+
+
+// --- Open-Ended Table (example + blank rows, fills page) ---
+// For tables where users add their own entries. Uses layout() to fill
+// remaining page space with blank rows. Use extra-rows for continuation.
+#let open-table(
+  headers: (),
+  example-rows: (),
+  rows: (),
+  row-height: 55pt,
+  extra-rows: 0,
+  preamble: none,
+) = {
+  let col-count = headers.len()
+
+  // Format example rows (italic, muted)
+  let fmt-example-rows = example-rows.map(row =>
+    row.map(cell =>
+      text(style: "italic", fill: color-text-muted, size: 0.85em)[#cell]
+    )
+  )
+
+  // Format labeled rows (normal style, like structured-table)
+  let fmt-rows = rows.map(row =>
+    row.map(cell => block(height: row-height)[#cell])
+  )
+
+  // Blank row template
+  let blank-row = range(col-count).map(_ => block(height: row-height)[])
+
+  // Shared table builder
+  let make-table(all-rows, ex-count) = {
+    set par(justify: false)
+    table(
+      columns: range(col-count).map(_ => 1fr),
+      fill: (col, row) => {
+        if row == 0 { color-theme }
+        else if row <= ex-count { color-theme.lighten(92%) }
+        else { white }
+      },
+      stroke: 1pt + color-noir,
+      inset: 12pt,
+      align: left,
+
+      table.header(
+        ..headers.map(h =>
+          text(
+            font: font-display,
+            size: 0.7em,
+            tracking: 1pt,
+            weight: "bold",
+            fill: white,
+          )[#upper(h)]
+        ),
+      ),
+
+      ..all-rows.flatten(),
+    )
+  }
+
+  // Measure remaining page space and fill with blank rows
+  layout(size => {
+    let effective-row-h = row-height / 1pt + 24
+    let header-h = 44
+    let example-h = if example-rows.len() > 0 { calc.max(70, effective-row-h) * example-rows.len() } else { 0 }
+    let rows-h = rows.len() * effective-row-h
+    let preamble-h = if preamble != none { 150 } else { 0 }
+    let overhead = header-h + example-h + rows-h + preamble-h + 24
+
+    let available = size.height / 1pt - overhead
+    let fill-count = calc.max(0, int(available / effective-row-h))
+
+    // If labeled+example rows already exceed page, no blanks and allow breaking
+    let can-fit = available > 0
+
+    let all-rows = fmt-example-rows + fmt-rows
+    if can-fit {
+      let i = 0
+      while i < fill-count {
+        all-rows = all-rows + (blank-row,)
+        i = i + 1
+      }
+    }
+
+    block(width: 100%, above: 1.5em, below: 0pt, breakable: not can-fit)[
+      #if preamble != none { preamble }
+      #make-table(all-rows, example-rows.len())
+    ]
+  })
+
+  // Extra continuation rows on a new page
+  if extra-rows > 0 {
+    let extra = ()
+    let i = 0
+    while i < extra-rows {
+      extra = extra + (blank-row,)
+      i = i + 1
+    }
+
+    pagebreak()
+    block(width: 100%, above: 0pt, below: 0pt, breakable: false)[
+      #make-table(extra, 0)
+    ]
+  }
 }
 
 

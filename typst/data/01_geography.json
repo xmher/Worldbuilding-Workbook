@@ -185,132 +185,143 @@
       "text": "Prefixes are word parts added to the beginning of a name (e.g., \"Ash-\" in Ashford), while suffixes are added to the end (e.g., \"-ford\" in Ashford). Combine them to build place names that feel authentic to a culture."
     },
     {
-      "type": "heading3",
-      "text": "Common English Place Name Patterns"
-    },
-    {
-      "type": "hint",
-      "text": "Mix prefixes and suffixes to generate names. \"Ash\" + \"ford\" = Ashford. \"Black\" + \"moor\" = Blackmoor."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Prefix", "Meaning", "Example"],
-      "rows": [
-        ["Ash-", "ash tree", "Ashford, Ashby"],
-        ["Black-", "dark, black", "Blackmoor, Blackpool"],
-        ["Brad- / Broad-", "broad, wide", "Bradford, Broadstairs"],
-        ["East- / West- / North- / South-", "direction", "Eastbourne, Westbury"],
-        ["Glen- / Green-", "valley / green", "Glendale, Greenfield"],
-        ["Hol- / Hollow-", "hollow, low-lying", "Holmfirth, Holbrook"],
-        ["King- / Bishop-", "royal / church estate", "Kingston, Bishopstoke"],
-        ["Long-", "long, extended", "Longford, Longdale"],
-        ["New- / Old-", "new / old", "Newcastle, Oldham"],
-        ["Stone- / Stan-", "stone, rocky", "Stoneham, Stamford"],
-        ["Whit- / White-", "white", "Whitby, Whitfield"]
+      "type": "group",
+      "full_page": true,
+      "content": [
+        {
+          "type": "heading3",
+          "text": "Common English Place Name Patterns"
+        },
+        {
+          "type": "hint",
+          "text": "Mix prefixes and suffixes to generate names. \"Ash\" + \"ford\" = Ashford. \"Black\" + \"moor\" = Blackmoor."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Prefix / Suffix", "Meaning", "Example"],
+          "rows": [
+            ["Ash-", "ash tree", "Ashford, Ashby"],
+            ["Black-", "dark, black", "Blackmoor, Blackpool"],
+            ["Brad- / Broad-", "broad, wide", "Bradford, Broadstairs"],
+            ["Glen- / Green-", "valley / green", "Glendale, Greenfield"],
+            ["King- / Bishop-", "royal / church estate", "Kingston, Bishopstoke"],
+            ["New- / Old-", "new / old", "Newcastle, Oldham"],
+            ["Stone- / Stan-", "stone, rocky", "Stoneham, Stamford"],
+            ["Whit- / White-", "white", "Whitby, Whitfield"],
+            ["-ham", "homestead, village", "Nottingham"],
+            ["-ton / -town", "fenced settlement", "Brighton"],
+            ["-ford", "river crossing", "Oxford"],
+            ["-ley / -leigh", "clearing, meadow", "Barnsley"],
+            ["-burgh / -bury", "fortified place", "Edinburgh"],
+            ["-moor / -mere", "marshland, lake", "Windermere"],
+            ["-holme / -holm", "island, water meadow", "Stockholm"]
+          ]
+        }
       ]
     },
     {
-      "type": "data_table",
-      "headers": ["Suffix", "Meaning", "Example"],
-      "rows": [
-        ["-ham", "homestead, village", "Nottingham"],
-        ["-ton / -town", "fenced settlement", "Brighton"],
-        ["-ford", "river crossing", "Oxford"],
-        ["-ley / -leigh", "clearing, meadow", "Barnsley"],
-        ["-dale / -vale", "valley", "Airedale"],
-        ["-burgh / -bury", "fortified place", "Edinburgh"],
-        ["-port", "harbor, market town", "Southport"],
-        ["-moor / -mere", "marshland, lake", "Windermere"],
-        ["-fell / -mount", "hill, mountain", "Scafell"],
-        ["-holme / -holm", "island, water meadow", "Stockholm"]
+      "type": "group",
+      "full_page": true,
+      "content": [
+        {
+          "type": "heading3",
+          "text": "Nordic/Scandinavian Place Name Patterns"
+        },
+        {
+          "type": "hint",
+          "text": "Good for cold, northern, Viking-inspired settings. Old Norse roots appear in many English place names too."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Prefix / Suffix", "Meaning", "Example"],
+          "rows": [
+            ["Stor- / Stór-", "great, large", "Storfjord, Stóravatn"],
+            ["Ny- / Nýr-", "new", "Nykøbing, Nýdalur"],
+            ["Holm-", "small island", "Holmsland, Stockholm"],
+            ["Nor- / Norð-", "north", "Norðfjörður, Norway"],
+            ["Suð- / Sör-", "south", "Suðureyri, Sörmland"],
+            ["Stein-", "stone, rock", "Steinkjer, Steinberg"],
+            ["Kvit- / Hvít-", "white", "Kvitfjell, Hvítá"],
+            ["Svar- / Svart-", "black, dark", "Svartskog, Svartengren"],
+            ["-by", "farm, settlement", "Whitby, Grimsby"],
+            ["-vik / -wick", "bay, inlet", "Reykjavik, Lerwick"],
+            ["-fjord / -firth", "long narrow inlet", "Sognefjord"],
+            ["-heim / -hem", "home, world", "Trondheim"],
+            ["-berg / -borg", "mountain / fortress", "Gothenburg"],
+            ["-ness / -nes", "headland, promontory", "Skagen"],
+            ["-land", "land, territory", "Iceland, Gotland"]
+          ]
+        }
       ]
     },
     {
-      "type": "heading3",
-      "text": "Nordic/Scandinavian Place Name Patterns"
-    },
-    {
-      "type": "hint",
-      "text": "Good for cold, northern, Viking-inspired settings. Old Norse roots appear in many English place names too."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Prefix", "Meaning", "Example"],
-      "rows": [
-        ["Stor- / Stór-", "great, large", "Storfjord, Stóravatn"],
-        ["Ny- / Nýr-", "new", "Nykøbing, Nýdalur"],
-        ["Holm-", "small island", "Holmsland, Stockholm"],
-        ["Nor- / Norð-", "north", "Norðfjörður, Norway"],
-        ["Suð- / Sör-", "south", "Suðureyri, Sörmland"],
-        ["Stein-", "stone, rock", "Steinkjer, Steinberg"],
-        ["Kvit- / Hvít-", "white", "Kvitfjell, Hvítá"],
-        ["Svar- / Svart-", "black, dark", "Svartskog, Svartengren"],
-        ["Eld-", "fire", "Eldfjall, Eldhús"],
-        ["Is- / Ís-", "ice", "Island (Iceland), Ísafjörður"]
+      "type": "group",
+      "full_page": true,
+      "content": [
+        {
+          "type": "heading3",
+          "text": "Celtic/Welsh Place Name Patterns"
+        },
+        {
+          "type": "hint",
+          "text": "Good for mystical, ancient, fae-adjacent settings. Celtic names often describe landscape features poetically."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Prefix / Suffix", "Meaning", "Example"],
+          "rows": [
+            ["Aber-", "river mouth", "Aberdeen, Aberystwyth"],
+            ["Caer- / Car-", "fort, stronghold", "Caernarfon, Cardiff"],
+            ["Llan-", "church, sacred enclosure", "Llandudno"],
+            ["Pen-", "head, top, end", "Penrith, Penzance"],
+            ["Tre- / Tref-", "homestead, town", "Tremaine"],
+            ["Dun- / Din-", "hill fort", "Edinburgh (Dun Edin)"],
+            ["Bal- / Bally-", "homestead, settlement", "Balmoral, Ballymena"],
+            ["Kil- / Cil-", "church, monk's cell", "Killarney, Kilmarnock"],
+            ["Ben- / Beinn-", "mountain, peak", "Ben Nevis, Ben More"],
+            ["Bryn-", "hill, mound", "Brynmawr, Brynteg"],
+            ["Drum- / Druim-", "ridge", "Drummond, Dromore"],
+            ["Strath-", "wide river valley", "Strathclyde"],
+            ["Glyn- / Glen-", "valley", "Glencoe"],
+            ["Loch- / Lough-", "lake", "Lochaber"],
+            ["Inver- / Innis-", "river mouth / island", "Inverness"]
+          ]
+        }
       ]
     },
     {
-      "type": "data_table",
-      "headers": ["Suffix", "Meaning", "Example"],
-      "rows": [
-        ["-by", "farm, settlement", "Whitby, Grimsby"],
-        ["-vik / -wick", "bay, inlet", "Reykjavik, Lerwick"],
-        ["-fjord / -firth", "long narrow inlet", "Sognefjord"],
-        ["-heim / -hem", "home, world", "Trondheim"],
-        ["-berg / -borg", "mountain / fortress", "Gothenburg"],
-        ["-dal / -dalen", "valley", "Gudvangen"],
-        ["-ness / -nes", "headland, promontory", "Skagen"],
-        ["-stad / -sted", "place, site", "Halstead"],
-        ["-land", "land, territory", "Iceland, Gotland"],
-        ["-thwaite", "clearing, meadow", "Braithwaite"]
-      ]
-    },
-    {
-      "type": "heading3",
-      "text": "Celtic/Welsh Place Name Patterns"
-    },
-    {
-      "type": "hint",
-      "text": "Good for mystical, ancient, fae-adjacent settings. Celtic names often describe landscape features poetically."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Prefix / Suffix", "Meaning", "Example"],
-      "rows": [
-        ["Aber-", "river mouth", "Aberdeen, Aberystwyth"],
-        ["Caer- / Car-", "fort, stronghold", "Caernarfon, Cardiff"],
-        ["Llan-", "church, sacred enclosure", "Llandudno"],
-        ["Pen-", "head, top, end", "Penrith, Penzance"],
-        ["Tre- / Tref-", "homestead, town", "Tremaine"],
-        ["Dun- / Din-", "hill fort", "Edinburgh (Dun Edin)"],
-        ["-combe / -cwm", "valley", "Ilfracombe"],
-        ["Glyn- / Glen-", "valley", "Glencoe"],
-        ["Loch- / Lough-", "lake", "Lochaber"],
-        ["Inver- / Innis-", "river mouth / island", "Inverness"]
-      ]
-    },
-    {
-      "type": "heading3",
-      "text": "Slavic Place Name Patterns"
-    },
-    {
-      "type": "hint",
-      "text": "Good for Eastern European-inspired settings. Slavic names often use descriptive compounds."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Prefix / Suffix", "Meaning", "Example"],
-      "rows": [
-        ["-grad / -gorod", "city, fortified place", "Belgrade, Novgorod"],
-        ["-ov / -ova / -ovo", "belonging to (possessive)", "Sarajevo, Krakow"],
-        ["Novo- / Novy-", "new", "Novosibirsk"],
-        ["Staro- / Stary-", "old", "Starograd"],
-        ["-pol / -pole", "field", "Sevastopol"],
-        ["Belo- / Byelo-", "white", "Belgrade (Beograd)"],
-        ["Cerno- / Cherno-", "black", "Chernobyl"],
-        ["-ice / -itz", "place suffix", "Katowice"],
-        ["-sk / -sko", "place/region suffix", "Gdansk, Minsk"],
-        ["Veliko- / Veliky-", "great, large", "Veliky Novgorod"]
+      "type": "group",
+      "full_page": true,
+      "content": [
+        {
+          "type": "heading3",
+          "text": "Slavic Place Name Patterns"
+        },
+        {
+          "type": "hint",
+          "text": "Good for Eastern European-inspired settings. Slavic names often use descriptive compounds."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Prefix / Suffix", "Meaning", "Example"],
+          "rows": [
+            ["-grad / -gorod", "city, fortified place", "Belgrade, Novgorod"],
+            ["-ov / -ova / -ovo", "belonging to (possessive)", "Sarajevo, Krakow"],
+            ["Novo- / Novy-", "new", "Novosibirsk"],
+            ["Staro- / Stary-", "old", "Starograd"],
+            ["-pol / -pole", "field", "Sevastopol"],
+            ["Belo- / Byelo-", "white", "Belgrade (Beograd)"],
+            ["Cerno- / Cherno-", "black", "Chernobyl"],
+            ["Krasno-", "beautiful / red", "Krasnodar, Krasnoyarsk"],
+            ["Zlato- / Zlaty-", "golden", "Zlatograd, Zlatoust"],
+            ["Pod-", "under, at the foot of", "Podgorica, Podolsk"],
+            ["Za-", "beyond, behind", "Zagreb, Zaporizhzhia"],
+            ["Gora- / Hora-", "mountain, hill", "Jelenia Góra, Bilogora"],
+            ["Brod-", "ford, river crossing", "Slavonski Brod, Brody"],
+            ["Veliko- / Veliky-", "great, large", "Veliky Novgorod"],
+            ["-sk / -sko", "place/region suffix", "Gdansk, Minsk"]
+          ]
+        }
       ]
     },
     {
@@ -325,12 +336,11 @@
       "text": "Create prefixes and suffixes that fit your world's languages. What sounds right for this culture?"
     },
     {
-      "type": "input_table",
+      "type": "open_table",
       "headers": ["Prefix/Suffix", "Meaning", "Example in Your World"],
       "example_rows": [
         ["Kel- / -kel", "silver, moonlight", "Kelvareth (Silver City)"]
-      ],
-      "blank_rows": 7
+      ]
     },
     {
       "type": "divider"
@@ -348,7 +358,7 @@
       "text": "Check the scope that best fits your story, then note the primary locations where your romance actually takes place."
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Scope", "✓", "Primary Location(s)"],
       "example_rows": [
         ["Single city/location (isolated island, palace, academy)", "✓", "Thornwick Academy — a remote magical school on sea cliffs where students are trapped together for the term"]
@@ -371,7 +381,7 @@
       "text": "You don't need to detail everything — just locations that matter."
     },
     {
-      "type": "input_table",
+      "type": "open_table",
       "headers": ["Location Type", "Name/Description"],
       "example_rows": [
         ["Primary location", "The Winter Court — an ice palace where protagonist is held hostage, forced into proximity with the prince"]
@@ -379,10 +389,7 @@
       "rows": [
         ["Primary location", ""],
         ["Secondary location", ""],
-        ["Secondary location", ""],
-        ["", ""],
-        ["", ""],
-        ["", ""]
+        ["Secondary location", ""]
       ]
     },
     {
@@ -397,7 +404,7 @@
       "text": "This is reference material. Fill in what you know now; come back as your world develops."
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Aspect", "Kingdom/Nation 1", "Kingdom/Nation 2"],
       "rows": [
         ["Name", "", ""],
@@ -431,12 +438,11 @@
       "text": "What terrains shape your story?"
     },
     {
-      "type": "input_table",
+      "type": "open_table",
       "headers": ["Terrain", "Where?", "What It Provides", "What Challenges It Creates"],
       "example_rows": [
         ["Mountains", "Northern border between kingdoms", "Natural defense, mineral deposits, isolation for monasteries", "Impassable in winter, separates lovers from different kingdoms, treacherous passes"]
-      ],
-      "blank_rows": 5
+      ]
     },
     {
       "type": "divider"
@@ -446,26 +452,31 @@
       "text": "Resources & Territorial Control"
     },
     {
-      "type": "heading3",
-      "text": "Reference: Natural Resource Ideas"
-    },
-    {
-      "type": "hint",
-      "text": "Use this list for inspiration when filling out the table below."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Category", "Examples"],
-      "rows": [
-        ["Precious Metals", "Gold, silver, copper, iron ore, bronze, platinum, mithril"],
-        ["Gems & Stones", "Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble"],
-        ["Textiles", "Silk, wool, linen, cotton, rare furs, leather, spider-silk, feathers"],
-        ["Food & Agriculture", "Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits"],
-        ["Animal Products", "Ivory, bone, whale oil, animal fat, beeswax, dyes from shells, ambergris"],
-        ["Plant Products", "Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee"],
-        ["Fuel & Energy", "Coal, oil, charcoal, peat, magical crystals, dragon-fire, captured lightning"],
-        ["Magical Resources", "Ley line access, enchanted springs, magical creatures, spell components"],
-        ["Curiosities", "Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight"]
+      "type": "group",
+      "content": [
+        {
+          "type": "heading3",
+          "text": "Reference: Natural Resource Ideas"
+        },
+        {
+          "type": "hint",
+          "text": "Use this list for inspiration when filling out the table below."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Category", "Examples"],
+          "rows": [
+            ["Precious Metals", "Gold, silver, copper, iron ore, bronze, platinum, mithril"],
+            ["Gems & Stones", "Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble"],
+            ["Textiles", "Silk, wool, linen, cotton, rare furs, leather, spider-silk, feathers"],
+            ["Food & Agriculture", "Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits"],
+            ["Animal Products", "Ivory, bone, whale oil, animal fat, beeswax, dyes from shells, ambergris"],
+            ["Plant Products", "Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee"],
+            ["Fuel & Energy", "Coal, oil, charcoal, peat, magical crystals, dragon-fire, captured lightning"],
+            ["Magical Resources", "Ley line access, enchanted springs, magical creatures, spell components"],
+            ["Curiosities", "Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight"]
+          ]
+        }
       ]
     },
     {
@@ -477,7 +488,7 @@
       "text": "Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?"
     },
     {
-      "type": "input_table",
+      "type": "open_table",
       "headers": ["Resource", "Where It's Found", "Who Controls It"],
       "example_rows": [
         ["Fertile farmland", "River valley between the two kingdoms", "Contested — marriage alliance proposed to end the conflict"]
@@ -489,9 +500,7 @@
         ["Mineral deposits", "", ""],
         ["Coastal access/ports", "", ""],
         ["Mountain passes", "", ""],
-        ["Magical resources", "", ""],
-        ["", "", ""],
-        ["", "", ""]
+        ["Magical resources", "", ""]
       ]
     },
     {
@@ -541,7 +550,7 @@
       "text": "Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Sense", "Description"],
       "rows": [
         ["What you see", ""],
@@ -560,7 +569,7 @@
       "text": "Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Time", "Description"],
       "rows": [
         ["Morning", ""],
@@ -638,7 +647,7 @@
       "text": "Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Aspect", "Details"],
       "rows": [
         ["Season", ""],
@@ -656,7 +665,7 @@
       "text": "When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Season", "What's Possible", "What's Impossible"],
       "rows": [
         ["Summer/warm season", "", ""],
@@ -694,12 +703,11 @@
       "text": "Every world has places people warn you not to go. What makes them deadly? What would force your characters there anyway?"
     },
     {
-      "type": "input_table",
+      "type": "open_table",
       "headers": ["Region", "What Makes It Dangerous", "Who Goes There Anyway (and Why)"],
       "example_rows": [
         ["The Blighted Wastes", "Corrupted magic, monsters, no water for miles, disorienting mists", "Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary"]
-      ],
-      "blank_rows": 5
+      ]
     },
     {
       "type": "heading4",
@@ -710,7 +718,7 @@
       "text": "Shared danger bonds people fast. What threats would force them to rely on each other?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Aspect", "Details"],
       "rows": [
         ["Where and why", ""],
@@ -760,7 +768,7 @@
       "text": "Borders create \"us\" and \"them.\" What assumptions would each character have about someone from the other side?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Aspect", "Details"],
       "rows": [
         ["What separates them", ""],
@@ -823,7 +831,7 @@
       "text": "Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Character", "Where They Feel Alien"],
       "rows": [
         ["Protagonist", ""],
@@ -847,7 +855,7 @@
       "text": "Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Aspect", "Details"],
       "rows": [
         ["Who visits whose world", ""]
@@ -914,24 +922,29 @@
       "height": "100pt"
     },
     {
-      "type": "heading3",
-      "text": "Travel Time Reference"
-    },
-    {
-      "type": "hint",
-      "text": "These are real-world estimates. Feel free to adjust for your world."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Mode of Travel", "Distance per Day", "Notes"],
-      "rows": [
-        ["Walking (comfortable pace)", "15–20 miles / 25–32 km", "Healthy adult with breaks"],
-        ["Forced march", "25–30 miles / 40–50 km", "Exhausting, not sustainable"],
-        ["Riding (sustainable)", "25–35 miles / 40–55 km", "One horse, regular rest"],
-        ["Hard ride", "40–50 miles / 65–80 km", "Tiring the horse"],
-        ["Changing horses (relay)", "80–100 miles / 130–160 km", "Fresh mounts at stations"],
-        ["Sailing ship (favorable wind)", "100–150 miles / 160–240 km", "Highly variable"],
-        ["Carriage/wagon", "20–30 miles / 32–50 km", "Roads required"]
+      "type": "group",
+      "content": [
+        {
+          "type": "heading3",
+          "text": "Travel Time Reference"
+        },
+        {
+          "type": "hint",
+          "text": "These are real-world estimates. Feel free to adjust for your world."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Mode of Travel", "Distance per Day", "Notes"],
+          "rows": [
+            ["Walking (comfortable pace)", "15–20 miles / 25–32 km", "Healthy adult with breaks"],
+            ["Forced march", "25–30 miles / 40–50 km", "Exhausting, not sustainable"],
+            ["Riding (sustainable)", "25–35 miles / 40–55 km", "One horse, regular rest"],
+            ["Hard ride", "40–50 miles / 65–80 km", "Tiring the horse"],
+            ["Changing horses (relay)", "80–100 miles / 130–160 km", "Fresh mounts at stations"],
+            ["Sailing ship (favorable wind)", "100–150 miles / 160–240 km", "Highly variable"],
+            ["Carriage/wagon", "20–30 miles / 32–50 km", "Roads required"]
+          ]
+        }
       ]
     },
     {
@@ -943,7 +956,7 @@
       "text": "Distance creates stakes. A week apart feels different than a year. How painful is separation in your world?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Route", "Travel Time"],
       "rows": [
         ["From capital to border", ""],
@@ -961,7 +974,7 @@
       "text": "The road is where walls come down. What would a long journey together reveal about each of them?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Aspect", "Details"],
       "rows": [
         ["From where to where", ""],
@@ -986,12 +999,11 @@
       "text": "Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:"
     },
     {
-      "type": "input_table",
+      "type": "open_table",
       "headers": ["Location", "Type", "Why People Go", "Why Leaving Is Difficult"],
       "example_rows": [
         ["Stormhold Keep", "Remote mountain fortress", "Political prisoners sent there; protagonist exiled after scandal", "Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure"]
-      ],
-      "blank_rows": 5
+      ]
     },
     {
       "type": "divider"
@@ -1034,7 +1046,7 @@
       "text": "Integration Check"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Question", "Your Answer"],
       "rows": [
         ["How does geography explain cultural differences? (Reference: Section 3)", ""],
@@ -1052,7 +1064,7 @@
       "text": "Quick Reference: Geographic Stakes"
     },
     {
-      "type": "input_table",
+      "type": "open_table",
       "headers": ["Element", "Your World"],
       "example_rows": [
         ["Key location 1", "The Winter Court — where protagonist is hostage and love interest is prince"]
@@ -1066,34 +1078,37 @@
         ["The dangerous region", ""],
         ["The isolated location", ""],
         ["The significant journey (from → to)", ""],
-        ["The place that matters emotionally", ""],
-        ["", ""],
-        ["", ""]
+        ["The place that matters emotionally", ""]
       ]
     },
     {
       "type": "divider"
     },
     {
-      "type": "heading2",
-      "text": "Map Making: What to Include on Your Map"
-    },
-    {
-      "type": "hint",
-      "text": "Consider which of these appear in your world. You don't need all of them."
-    },
-    {
-      "type": "data_table",
-      "headers": ["Category", "Possible Locations"],
-      "rows": [
-        ["Geographic features", "Mountains, rivers, forests, lakes, coastlines, islands, deserts, swamps, valleys"],
-        ["Political boundaries", "Kingdom borders, disputed territories, neutral zones, conquered lands"],
-        ["Cities & settlements", "Capitals, port cities, border towns, villages, abandoned settlements"],
-        ["Trade & travel", "Major roads, trade routes, mountain passes, river crossings, ports"],
-        ["Fortifications", "Castles, walls, watchtowers, military camps, fortresses"],
-        ["Religious sites", "Temples, shrines, pilgrimage routes, sacred groves, forbidden places"],
-        ["Magical locations", "Ley lines, magical academies, cursed regions, power sources"],
-        ["Story-specific", "Where characters meet, where they're forbidden to go, where they flee to"]
+      "type": "group",
+      "content": [
+        {
+          "type": "heading2",
+          "text": "Map Making: What to Include on Your Map"
+        },
+        {
+          "type": "hint",
+          "text": "Consider which of these appear in your world. You don't need all of them."
+        },
+        {
+          "type": "data_table",
+          "headers": ["Category", "Possible Locations"],
+          "rows": [
+            ["Geographic features", "Mountains, rivers, forests, lakes, coastlines, islands, deserts, swamps, valleys"],
+            ["Political boundaries", "Kingdom borders, disputed territories, neutral zones, conquered lands"],
+            ["Cities & settlements", "Capitals, port cities, border towns, villages, abandoned settlements"],
+            ["Trade & travel", "Major roads, trade routes, mountain passes, river crossings, ports"],
+            ["Fortifications", "Castles, walls, watchtowers, military camps, fortresses"],
+            ["Religious sites", "Temples, shrines, pilgrimage routes, sacred groves, forbidden places"],
+            ["Magical locations", "Ley lines, magical academies, cursed regions, power sources"],
+            ["Story-specific", "Where characters meet, where they're forbidden to go, where they flee to"]
+          ]
+        }
       ]
     }
   ]
