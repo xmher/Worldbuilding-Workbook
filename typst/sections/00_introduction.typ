@@ -157,9 +157,6 @@ Build what you need. Skip what you don't. Make a world worth falling in love in.
 
 == The Sections
 
-]
-
-
 #workbook-table(
   headers: ("Section", "Topic", "What It Covers"),
   col-widths: (0.7fr, 1.5fr, 2fr),
@@ -174,6 +171,8 @@ Build what you need. Skip what you don't. Make a world worth falling in love in.
     ([8], [Magic System], [How magic works, magical bonds, power dynamics]),
   ),
 )
+
+]
 
 
 #strong[Additional Sections] (9–21) cover specialized topics: technology, time & calendar, language, magic conflicts, pressure cooker settings, institutions, and more.

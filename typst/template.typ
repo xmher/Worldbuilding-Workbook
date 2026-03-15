@@ -515,7 +515,7 @@
 
   let cols = if col-widths != none { col-widths } else { range(headers.len()).map(_ => 1fr) }
 
-  block(width: 100%, above: 1.5em, below: 1.5em)[
+  block(width: 100%, above: 1.5em, below: 1.5em, breakable: false)[
     #set par(justify: false)
     #table(
       columns: cols,
@@ -622,24 +622,30 @@
 #let open-table(
   headers: (),
   example-rows: (),
+  rows: (),
   row-height: 55pt,
   extra-rows: 0,
   preamble: none,
 ) = {
   let col-count = headers.len()
 
-  // Format example rows
+  // Format example rows (italic, muted)
   let fmt-example-rows = example-rows.map(row =>
     row.map(cell =>
       text(style: "italic", fill: color-text-muted, size: 0.85em)[#cell]
     )
   )
 
+  // Format labeled rows (normal style, like structured-table)
+  let fmt-rows = rows.map(row =>
+    row.map(cell => block(height: row-height)[#cell])
+  )
+
   // Blank row template
   let blank-row = range(col-count).map(_ => block(height: row-height)[])
 
   // Shared table builder
-  let make-table(all-rows, ex-count) = {
+  let make-table(all-rows, ex-count, labeled-count) = {
     set par(justify: false)
     table(
       columns: range(col-count).map(_ => 1fr),
@@ -673,22 +679,28 @@
     let effective-row-h = row-height / 1pt + 24
     let header-h = 44
     let example-h = if example-rows.len() > 0 { calc.max(70, effective-row-h) * example-rows.len() } else { 0 }
+    let rows-h = rows.len() * effective-row-h
     let preamble-h = if preamble != none { 150 } else { 0 }
-    let overhead = header-h + example-h + preamble-h + 24
+    let overhead = header-h + example-h + rows-h + preamble-h + 24
 
     let available = size.height / 1pt - overhead
-    let fill-count = calc.max(1, int(available / effective-row-h))
+    let fill-count = calc.max(0, int(available / effective-row-h))
 
-    let all-rows = fmt-example-rows
-    let i = 0
-    while i < fill-count {
-      all-rows = all-rows + (blank-row,)
-      i = i + 1
+    // If labeled+example rows already exceed page, no blanks and allow breaking
+    let can-fit = available > 0
+
+    let all-rows = fmt-example-rows + fmt-rows
+    if can-fit {
+      let i = 0
+      while i < fill-count {
+        all-rows = all-rows + (blank-row,)
+        i = i + 1
+      }
     }
 
-    block(width: 100%, above: 1.5em, below: 0pt, breakable: false)[
+    block(width: 100%, above: 1.5em, below: 0pt, breakable: not can-fit)[
       #if preamble != none { preamble }
-      #make-table(all-rows, example-rows.len())
+      #make-table(all-rows, example-rows.len(), rows.len())
     ]
   })
 

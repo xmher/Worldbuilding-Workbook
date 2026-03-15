@@ -378,7 +378,7 @@
       "text": "You don't need to detail everything — just locations that matter."
     },
     {
-      "type": "structured_table",
+      "type": "open_table",
       "headers": ["Location Type", "Name/Description"],
       "example_rows": [
         ["Primary location", "The Winter Court — an ice palace where protagonist is held hostage, forced into proximity with the prince"]
@@ -386,10 +386,7 @@
       "rows": [
         ["Primary location", ""],
         ["Secondary location", ""],
-        ["Secondary location", ""],
-        ["", ""],
-        ["", ""],
-        ["", ""]
+        ["Secondary location", ""]
       ]
     },
     {
@@ -488,7 +485,7 @@
       "text": "Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?"
     },
     {
-      "type": "structured_table",
+      "type": "open_table",
       "headers": ["Resource", "Where It's Found", "Who Controls It"],
       "example_rows": [
         ["Fertile farmland", "River valley between the two kingdoms", "Contested — marriage alliance proposed to end the conflict"]
@@ -500,9 +497,7 @@
         ["Mineral deposits", "", ""],
         ["Coastal access/ports", "", ""],
         ["Mountain passes", "", ""],
-        ["Magical resources", "", ""],
-        ["", "", ""],
-        ["", "", ""]
+        ["Magical resources", "", ""]
       ]
     },
     {
@@ -1066,7 +1061,7 @@
       "text": "Quick Reference: Geographic Stakes"
     },
     {
-      "type": "structured_table",
+      "type": "open_table",
       "headers": ["Element", "Your World"],
       "example_rows": [
         ["Key location 1", "The Winter Court — where protagonist is hostage and love interest is prince"]
@@ -1080,9 +1075,7 @@
         ["The dangerous region", ""],
         ["The isolated location", ""],
         ["The significant journey (from → to)", ""],
-        ["The place that matters emotionally", ""],
-        ["", ""],
-        ["", ""]
+        ["The place that matters emotionally", ""]
       ]
     },
     {

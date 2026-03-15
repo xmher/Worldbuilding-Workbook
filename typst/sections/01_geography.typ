@@ -133,9 +133,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 #hint[Mix prefixes and suffixes to generate names. "Ash" + "ford" = Ashford. "Black" + "moor" = Blackmoor.]
 
-]
-
-
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
   rows: (
@@ -163,15 +160,14 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
 )
 
+]
+
 
 #block(breakable: false, below: 0pt)[
 
 === Nordic/Scandinavian Place Name Patterns
 
 #hint[Good for cold, northern, Viking-inspired settings. Old Norse roots appear in many English place names too.]
-
-]
-
 
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
@@ -199,15 +195,14 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
 )
 
+]
+
 
 #block(breakable: false, below: 0pt)[
 
 === Celtic/Welsh Place Name Patterns
 
 #hint[Good for mystical, ancient, fae-adjacent settings. Celtic names often describe landscape features poetically.]
-
-]
-
 
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
@@ -225,15 +220,14 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
 )
 
+]
+
 
 #block(breakable: false, below: 0pt)[
 
 === Slavic Place Name Patterns
 
 #hint[Good for Eastern European-inspired settings. Slavic names often use descriptive compounds.]
-
-]
-
 
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
@@ -250,6 +244,8 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Veliko- / Veliky-], [great, large], [Veliky Novgorod]),
   ),
 )
+
+]
 
 
 #open-table(
@@ -290,13 +286,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-==== If your world is large, where specifically does your romance happen?
-
-
-#hint[You don't need to detail everything — just locations that matter.]
-
-
-#structured-table(
+#open-table(
   headers: ("Location Type", "Name/Description"),
   example-rows: (
     ([Primary location], [The Winter Court — an ice palace where protagonist is held hostage, forced into proximity with the prince]),
@@ -305,11 +295,13 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Primary location], []),
     ([Secondary location], []),
     ([Secondary location], []),
-    ([], []),
-    ([], []),
-    ([], []),
   ),
   row-height: 55pt,
+  preamble: [
+==== If your world is large, where specifically does your romance happen?
+
+#hint[You don't need to detail everything — just locations that matter.]
+],
 )
 
 
@@ -362,17 +354,9 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 == Resources & Territorial Control
 
-]
-
-
-#block(breakable: false, below: 0pt)[
-
 === Reference: Natural Resource Ideas
 
 #hint[Use this list for inspiration when filling out the table below.]
-
-]
-
 
 #workbook-table(
   headers: ("Category", "Examples"),
@@ -389,14 +373,10 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
 )
 
-
-==== What natural resources are geographically concentrated?
-
-
-#hint[Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?]
+]
 
 
-#structured-table(
+#open-table(
   headers: ("Resource", "Where It's Found", "Who Controls It"),
   example-rows: (
     ([Fertile farmland], [River valley between the two kingdoms], [Contested — marriage alliance proposed to end the conflict]),
@@ -409,35 +389,42 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Coastal access/ports], [], []),
     ([Mountain passes], [], []),
     ([Magical resources], [], []),
-    ([], [], []),
-    ([], [], []),
   ),
   row-height: 55pt,
+  preamble: [
+==== What natural resources are geographically concentrated?
+
+#hint[Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?]
+],
 )
 
+
+#block(breakable: false, below: 0pt)[
 
 ==== What geographic resource creates tension or conflict in your world?
 
-
 #hint[Water rights? Arable land? Trade routes? Does the conflict show up as war, political marriage, trade embargo, or something subtler?]
-
 
 #writing-box(
   label: "Your Answer",
   height: 100pt,
 )
 
+]
+
+
+#block(breakable: false, below: 0pt)[
 
 ==== How does geographic resource control affect your characters?
 
-
 #hint[Does one character's family/nation control something the other's needs? Is there territorial dispute between their peoples?]
-
 
 #writing-box(
   label: "Your Answer",
   height: 100pt,
 )
+
+]
 
 
 #cross-ref(
@@ -468,12 +455,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-==== How does the environment change at different times of day?
-
-
-#hint[Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?]
-
-
 #structured-table(
   headers: ("Time", "Description"),
   example-rows: (
@@ -486,31 +467,40 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Night], []),
   ),
   row-height: 55pt,
+  preamble: [
+==== How does the environment change at different times of day?
+
+#hint[Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?]
+],
 )
 
+
+#block(breakable: false, below: 0pt)[
 
 ==== What's beautiful about this place?
 
-
 #hint[The details a character falling in love would notice. What would make someone homesick for this place?]
-
 
 #writing-box(
   label: "Your Answer",
   height: 100pt,
 )
 
+]
+
+
+#block(breakable: false, below: 0pt)[
 
 ==== What's harsh or uncomfortable about this place?
 
-
 #hint[What do people endure or complain about? What takes getting used to?]
-
 
 #writing-box(
   label: "Your Answer",
   height: 100pt,
 )
+
+]
 
 
 #block(breakable: false, below: 0pt)[
@@ -521,31 +511,26 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 #hint[Tropical, temperate, arid, polar? How does it shape what people wear, build, and grow?]
 
+#writing-box(
+  label: "Your Answer",
+  height: 100pt,
+)
+
 ]
 
 
-#writing-box(
-  label: "Your Answer",
-  height: 100pt,
-)
-
+#block(breakable: false, below: 0pt)[
 
 ==== What seasons exist and how distinct are they?
 
-
 #hint[Traditional four seasons? A long winter and brief summer? Magical seasons tied to something other than the sun?]
-
 
 #writing-box(
   label: "Your Answer",
   height: 100pt,
 )
 
-
-==== What season is your story set in?
-
-
-#hint[Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent?]
+]
 
 
 #structured-table(
@@ -559,13 +544,12 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([What this season makes impossible], []),
   ),
   row-height: 55pt,
+  preamble: [
+==== What season is your story set in?
+
+#hint[Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent?]
+],
 )
-
-
-==== How do seasons affect life in your world?
-
-
-#hint[When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors?]
 
 
 #structured-table(
@@ -579,19 +563,26 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Transitional seasons], [], []),
   ),
   row-height: 55pt,
+  preamble: [
+==== How do seasons affect life in your world?
+
+#hint[When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors?]
+],
 )
 
 
+#block(breakable: false, below: 0pt)[
+
 ==== Does the season create pressure or opportunity in your story?
 
-
 #hint[Racing against winter? Waiting for spring thaw? Only able to travel in summer?]
-
 
 #writing-box(
   label: "Your Answer",
   height: 100pt,
 )
+
+]
 
 
 #open-table(
@@ -610,12 +601,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-==== Do your characters travel through dangerous territory?
-
-
-#hint[Shared danger bonds people fast. What threats would force them to rely on each other?]
-
-
 #structured-table(
   headers: ("Aspect", "Details"),
   example-rows: (
@@ -626,6 +611,11 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([What dangers they face], []),
   ),
   row-height: 75pt,
+  preamble: [
+==== Do your characters travel through dangerous territory?
+
+#hint[Shared danger bonds people fast. What threats would force them to rely on each other?]
+],
 )
 
 
@@ -637,31 +627,26 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 #hint[Mountain ranges? Rivers? Oceans? Magical barriers? Deserts?]
 
+#writing-box(
+  label: "Your Answer",
+  height: 100pt,
+)
+
 ]
 
 
-#writing-box(
-  label: "Your Answer",
-  height: 100pt,
-)
-
+#block(breakable: false, below: 0pt)[
 
 ==== How permeable are these borders?
 
-
 #hint[Easy to cross? Heavily guarded? Physically impassable? Seasonally accessible?]
-
 
 #writing-box(
   label: "Your Answer",
   height: 100pt,
 )
 
-
-==== Do your characters come from opposite sides of a significant border?
-
-
-#hint[Borders create "us" and "them." What assumptions would each character have about someone from the other side?]
+]
 
 
 #structured-table(
@@ -674,6 +659,11 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([What crossing means (legally, socially, personally)], []),
   ),
   row-height: 75pt,
+  preamble: [
+==== Do your characters come from opposite sides of a significant border?
+
+#hint[Borders create "us" and "them." What assumptions would each character have about someone from the other side?]
+],
 )
 
 
@@ -685,43 +675,40 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 #hint[The place that shaped them, where they feel most themselves:]
 
+#writing-box(
+  label: "Your Answer",
+  height: 100pt,
+)
+
 ]
 
 
-#writing-box(
-  label: "Your Answer",
-  height: 100pt,
-)
-
+#block(breakable: false, below: 0pt)[
 
 ==== What does home look, smell, sound like to them?
 
-
 #hint[The sensory details that mean "home":]
-
 
 #writing-box(
   label: "Your Answer",
   height: 100pt,
 )
 
+]
+
+
+#block(breakable: false, below: 0pt)[
 
 ==== Where does your love interest feel at home?
 
-
 #hint[The place that shaped them, where they're most themselves. How different is it from your protagonist's home?]
-
 
 #writing-box(
   label: "Your Answer",
   height: 100pt,
 )
 
-
-==== Where does each character feel like an outsider?
-
-
-#hint[Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?]
+]
 
 
 #structured-table(
@@ -734,6 +721,11 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Love interest], []),
   ),
   row-height: 75pt,
+  preamble: [
+==== Where does each character feel like an outsider?
+
+#hint[Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?]
+],
 )
 
 
@@ -756,40 +748,46 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
+#block(breakable: false, below: 0pt)[
+
 ==== What's the sensory experience of entering unfamiliar territory?
 
-
 #hint[What do they notice first? What's strange? What's beautiful? What's uncomfortable?]
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false, below: 0pt)[
 
 ==== How does the "native" character see their home differently through the visitor's eyes?
 
-
 #hint[Pride? Shame? New appreciation? Defensiveness?]
-
 
 #writing-box(
   label: "Your Answer",
   height: 100pt,
 )
 
+]
+
+
+#block(breakable: false, below: 0pt)[
 
 ==== What does the visitor understand about their partner after seeing where they come from?
 
-
 #hint[Place explains people. What becomes clear about your love interest once you see where they grew up?]
-
 
 #writing-box(
   label: "Your Answer",
   height: 100pt,
 )
+
+]
 
 
 #block(breakable: false, below: 0pt)[
@@ -800,13 +798,12 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 #hint[On foot? Horseback? Ships? Flying creatures? Magical transportation?]
 
-]
-
-
 #writing-box(
   label: "Your Answer",
   height: 100pt,
 )
+
+]
 
 
 #block(breakable: false, below: 0pt)[
@@ -814,9 +811,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 === Travel Time Reference
 
 #hint[These are real-world estimates. Feel free to adjust for your world.]
-
-]
-
 
 #workbook-table(
   headers: ("Mode of Travel", "Distance per Day", "Notes"),
@@ -831,11 +825,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
 )
 
-
-==== How long does travel take between key locations?
-
-
-#hint[Distance creates stakes. A week apart feels different than a year. How painful is separation in your world?]
+]
 
 
 #structured-table(
@@ -849,13 +839,12 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Across the dangerous region], []),
   ),
   row-height: 55pt,
+  preamble: [
+==== How long does travel take between key locations?
+
+#hint[Distance creates stakes. A week apart feels different than a year. How painful is separation in your world?]
+],
 )
-
-
-==== Do your characters undertake a significant journey?
-
-
-#hint[The road is where walls come down. What would a long journey together reveal about each of them?]
 
 
 #structured-table(
@@ -869,6 +858,11 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([What happens during the journey], []),
   ),
   row-height: 55pt,
+  preamble: [
+==== Do your characters undertake a significant journey?
+
+#hint[The road is where walls come down. What would a long journey together reveal about each of them?]
+],
 )
 
 
@@ -896,25 +890,26 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 #hint[Does it feel oppressive, expansive, peaceful, threatening, beautiful, decaying?]
 
+#writing-box(
+  label: "Your Answer",
+  height: 100pt,
+)
+
 ]
 
 
-#writing-box(
-  label: "Your Answer",
-  height: 100pt,
-)
-
+#block(breakable: false, below: 0pt)[
 
 ==== Is there a location that becomes meaningful to your characters specifically?
 
-
 #hint[A place they return to, a place where something changed, a place that's "theirs":]
-
 
 #writing-box(
   label: "Your Answer",
   height: 100pt,
 )
+
+]
 
 
 #structured-table(
@@ -935,7 +930,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#structured-table(
+#open-table(
   headers: ("Element", "Your World"),
   example-rows: (
     ([Key location 1], [The Winter Court — where protagonist is hostage and love interest is prince]),
@@ -950,8 +945,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([The isolated location], []),
     ([The significant journey (from → to)], []),
     ([The place that matters emotionally], []),
-    ([], []),
-    ([], []),
   ),
   row-height: 55pt,
   preamble: [
@@ -966,9 +959,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 #hint[Consider which of these appear in your world. You don't need all of them.]
 
-]
-
-
 #workbook-table(
   headers: ("Category", "Possible Locations"),
   rows: (
@@ -982,3 +972,5 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Story-specific], [Where characters meet, where they're forbidden to go, where they flee to]),
   ),
 )
+
+]

@@ -257,9 +257,10 @@ def gen_structured_table(item: dict, preamble: str = "") -> str:
 
 
 def gen_open_table(item: dict, preamble: str = "") -> str:
-    """Open-ended table: example + blank rows filling page. For user entries."""
+    """Open-ended table: example + labeled rows + blank rows filling page."""
     headers = item.get("headers", [])
     example_rows = item.get("example_rows", [])
+    rows = item.get("rows", [])
     row_height = item.get("row_height", "55pt")
     extra_rows = item.get("extra_rows", 0)
 
@@ -270,7 +271,13 @@ def gen_open_table(item: dict, preamble: str = "") -> str:
         cells = ", ".join(_format_cell(c) for c in row)
         ex_lines.append(f"    ({cells}),")
 
+    row_lines = []
+    for row in rows:
+        cells = ", ".join(_format_cell(c) for c in row)
+        row_lines.append(f"    ({cells}),")
+
     extra_arg = f"\n  extra-rows: {extra_rows}," if extra_rows > 0 else ""
+    rows_arg = f"\n  rows: (\n{chr(10).join(row_lines)}\n  )," if rows else ""
     preamble_arg = f"\n  preamble: [{preamble}]," if preamble else ""
 
     return f'''
@@ -278,7 +285,7 @@ def gen_open_table(item: dict, preamble: str = "") -> str:
   headers: ({header_args}),
   example-rows: (
 {chr(10).join(ex_lines)}
-  ),
+  ),{rows_arg}
   row-height: {row_height},{extra_arg}{preamble_arg}
 )
 '''
@@ -410,8 +417,74 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 elif next_type == "open_table":
                     parts.append(gen_open_table(table_item, preamble=preamble_text))
                 consumed.add(j)
+            elif next_type == "group":
+                # Include heading2 + entire group as one non-breakable unit
+                group_item = content[j]
+                all_parts = list(preamble_parts)
+                for child in group_item.get("content", []):
+                    child_type = child.get("type", "")
+                    child_gen = GENERATORS.get(child_type)
+                    if child_gen:
+                        all_parts.append(child_gen(child))
+                parts.append(
+                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n{''.join(all_parts)}\n]\n"
+                )
+                consumed.add(j)
+            elif next_type == "writing_box":
+                # Group heading2 preamble + writing_box together
+                wb_gen = GENERATORS.get("writing_box")
+                if wb_gen:
+                    preamble_parts.append(wb_gen(content[j]))
+                parts.append(
+                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n{''.join(preamble_parts)}\n]\n"
+                )
+                consumed.add(j)
             else:
-                # No table follows — just render heading block
+                # No table or group follows — just render heading block
+                parts.append(
+                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n{''.join(preamble_parts)}\n]\n"
+                )
+            continue
+
+        # Auto-group: heading4 + following hint/prose
+        # If a table follows, pass preamble INTO the table so they stay together.
+        if item_type == "heading4":
+            preamble_types = {"heading4", "hint", "prose"}
+            table_types = {"structured_table", "open_table"}
+            preamble_parts = [gen_heading(4, item["text"])]
+            j = idx + 1
+            while j < len(content) and content[j].get("type", "") in preamble_types:
+                child = content[j]
+                child_gen = GENERATORS.get(child["type"])
+                if child_gen:
+                    preamble_parts.append(child_gen(child))
+                consumed.add(j)
+                j += 1
+            # If a table follows, pass preamble into table and consume it
+            next_type = content[j].get("type", "") if j < len(content) else ""
+            if next_type in table_types:
+                preamble_text = "".join(preamble_parts)
+                table_item = content[j]
+                if next_type == "structured_table":
+                    parts.append(gen_structured_table(table_item, preamble=preamble_text))
+                elif next_type == "open_table":
+                    parts.append(gen_open_table(table_item, preamble=preamble_text))
+                consumed.add(j)
+            elif next_type == "writing_box":
+                # Group heading4+hint+writing_box together
+                wb_gen = GENERATORS.get("writing_box")
+                if wb_gen:
+                    preamble_parts.append(wb_gen(content[j]))
+                parts.append(
+                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n{''.join(preamble_parts)}\n]\n"
+                )
+                consumed.add(j)
+            else:
+                # No table follows — keep heading+hint together as block
                 parts.append(
                     f"\n#block(breakable: false, below: 0pt)["
                     f"\n{''.join(preamble_parts)}\n]\n"
@@ -420,29 +493,21 @@ def generate_section(data: dict, standalone: bool = False) -> str:
 
         # Group: keep heading+hint together, let tables flow naturally
         if item_type == "group":
-            preamble = []  # headings, hints, prose (kept together)
-            rest = []      # tables and other content (breakable)
-            in_preamble = True
+            # Render entire group as one non-breakable unit
+            all_parts = []
             for child in item.get("content", []):
                 child_type = child.get("type", "")
                 child_gen = GENERATORS.get(child_type)
-                if child_type in ("data_table", "input_table"):
-                    in_preamble = False
                 if child_gen:
-                    if in_preamble:
-                        preamble.append(child_gen(child))
-                    else:
-                        rest.append(child_gen(child))
+                    all_parts.append(child_gen(child))
                 else:
-                    rest.append(
+                    all_parts.append(
                         f"\n// WARNING: unknown type \"{child_type}\"\n"
                     )
-            if preamble:
-                parts.append(
-                    f"\n#block(breakable: false, below: 0pt)["
-                    f"\n{''.join(preamble)}\n]\n"
-                )
-            parts.extend(rest)
+            parts.append(
+                f"\n#block(breakable: false, below: 0pt)["
+                f"\n{''.join(all_parts)}\n]\n"
+            )
             continue
 
         gen = GENERATORS.get(item_type)
