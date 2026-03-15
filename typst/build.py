@@ -444,12 +444,12 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 if full_page:
                     parts.append("\n#pagebreak(weak: true)\n")
                     parts.append(
-                        f"\n#block(breakable: false, below: 0pt)["
+                        f"\n#block(breakable: false)["
                         f"\n{''.join(all_group_parts)}\n]\n"
                     )
                 elif estimated_height < 620:
                     parts.append(
-                        f"\n#block(breakable: false, below: 0pt)["
+                        f"\n#block(breakable: false)["
                         f"\n{''.join(all_group_parts)}\n]\n"
                     )
                 else:
@@ -462,7 +462,7 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 if wb_gen:
                     preamble_parts.append(wb_gen(content[j]))
                 parts.append(
-                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n#block(breakable: false)["
                     f"\n{''.join(preamble_parts)}\n]\n"
                 )
                 consumed.add(j)
@@ -502,7 +502,7 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 if wb_gen:
                     preamble_parts.append(wb_gen(content[j]))
                 parts.append(
-                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n#block(breakable: false)["
                     f"\n{''.join(preamble_parts)}\n]\n"
                 )
                 consumed.add(j)
@@ -540,12 +540,12 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 # Force page break before and render as non-breakable block
                 parts.append("\n#pagebreak(weak: true)\n")
                 parts.append(
-                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n#block(breakable: false)["
                     f"\n{''.join(all_child_parts)}\n]\n"
                 )
             elif estimated_height < 620:
                 parts.append(
-                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n#block(breakable: false)["
                     f"\n{''.join(all_child_parts)}\n]\n"
                 )
             else:

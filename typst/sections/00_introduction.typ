@@ -166,7 +166,7 @@ And remember: worldbuilding exists to serve the story. A beautifully detailed wo
 Build what you need. Skip what you don't. Make a world worth falling in love in.
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == The Sections
 

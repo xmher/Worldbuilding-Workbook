@@ -120,7 +120,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #pagebreak(weak: true)
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Reference: Place Name Patterns
 
@@ -155,7 +155,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #pagebreak(weak: true)
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 === Nordic/Scandinavian Place Name Patterns
 
@@ -188,7 +188,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #pagebreak(weak: true)
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 === Celtic/Welsh Place Name Patterns
 
@@ -221,7 +221,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #pagebreak(weak: true)
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 === Slavic Place Name Patterns
 
@@ -269,7 +269,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == The Big Picture: Your World's Scale
 
@@ -351,7 +351,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Resources & Territorial Control
 
@@ -400,7 +400,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What geographic resource creates tension or conflict in your world?
 
@@ -414,7 +414,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== How does geographic resource control affect your characters?
 
@@ -476,7 +476,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What's beautiful about this place?
 
@@ -490,7 +490,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What's harsh or uncomfortable about this place?
 
@@ -504,7 +504,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Climate, Weather & Seasons
 
@@ -520,7 +520,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What seasons exist and how distinct are they?
 
@@ -572,7 +572,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== Does the season create pressure or opportunity in your story?
 
@@ -620,7 +620,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Borders & Boundaries
 
@@ -636,7 +636,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== How permeable are these borders?
 
@@ -668,7 +668,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Home & Belonging
 
@@ -684,7 +684,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What does home look, smell, sound like to them?
 
@@ -698,7 +698,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== Where does your love interest feel at home?
 
@@ -749,7 +749,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What's the sensory experience of entering unfamiliar territory?
 
@@ -763,7 +763,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== How does the "native" character see their home differently through the visitor's eyes?
 
@@ -777,7 +777,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== What does the visitor understand about their partner after seeing where they come from?
 
@@ -791,7 +791,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Travel & Distance
 
@@ -807,7 +807,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 === Travel Time Reference
 
@@ -883,7 +883,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Geography as Emotional Landscape
 
@@ -899,7 +899,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 ==== Is there a location that becomes meaningful to your characters specifically?
 
@@ -954,7 +954,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#block(breakable: false, below: 0pt)[
+#block(breakable: false)[
 
 == Map Making: What to Include on Your Map
 
