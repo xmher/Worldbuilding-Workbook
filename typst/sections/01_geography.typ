@@ -257,6 +257,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Kel- / -kel], [silver, moonlight], [Kelvareth (Silver City)]),
   ),
   row-height: 30pt,
+  fill-strategy: "more_rows",
   preamble: [
 == Your World's Place Name Patterns
 
@@ -294,6 +295,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Secondary location], []),
   ),
   row-height: 55pt,
+  fill-strategy: "wider_rows",
   preamble: [
 ==== If your world is large, where specifically does your romance happen?
 
@@ -337,6 +339,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Mountains], [Northern border between kingdoms], [Natural defense, mineral deposits, isolation for monasteries], [Impassable in winter, separates lovers from different kingdoms, treacherous passes]),
   ),
   row-height: 55pt,
+  fill-strategy: "wider_rows",
   preamble: [
 == Terrain Types
 
@@ -388,6 +391,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Magical resources], [], []),
   ),
   row-height: 55pt,
+  fill-strategy: "wider_rows",
   preamble: [
 ==== What natural resources are geographically concentrated?
 
@@ -588,6 +592,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([The Blighted Wastes], [Corrupted magic, monsters, no water for miles, disorienting mists], [Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary]),
   ),
   row-height: 55pt,
+  fill-strategy: "wider_rows",
   preamble: [
 == Dangerous Regions
 
@@ -869,6 +874,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Stormhold Keep], [Remote mountain fortress], [Political prisoners sent there; protagonist exiled after scandal], [Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure]),
   ),
   row-height: 55pt,
+  fill-strategy: "wider_rows",
   preamble: [
 == Isolated Locations
 
@@ -944,6 +950,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([The place that matters emotionally], []),
   ),
   row-height: 55pt,
+  fill-strategy: "wider_rows",
   preamble: [
 == Quick Reference: Geographic Stakes
 ],

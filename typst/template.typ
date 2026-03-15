@@ -626,6 +626,7 @@
   example-rows: (),
   rows: (),
   row-height: 55pt,
+  fill-strategy: "auto",  // "auto", "more_rows", or "wider_rows"
   extra-rows: 0,
   preamble: none,
 ) = {
@@ -703,15 +704,28 @@
     let actual-row-h = row-height
     if can-fit and total-data-rows > 0 {
       let leftover = available - fill-count * effective-row-h
-      // If leftover is more than half a row, add one more blank row
-      if leftover > effective-row-h * 0.4 {
-        fill-count = fill-count + 1
-        total-data-rows = total-data-rows + 1
+      if fill-strategy == "wider_rows" {
+        // Never add extra rows; stretch existing rows to fill space
+        let total-space = available
+        let per-row = total-space / total-data-rows - 24
+        actual-row-h = calc.max(row-height, per-row * 1pt)
+      } else if fill-strategy == "more_rows" {
+        // Add a row if there's any meaningful leftover (>25% of a row)
+        if leftover > effective-row-h * 0.25 {
+          fill-count = fill-count + 1
+          total-data-rows = total-data-rows + 1
+        }
+        // Keep rows at base height (no stretching)
+      } else {
+        // Auto: add a row if leftover > 40%, then stretch remainder
+        if leftover > effective-row-h * 0.4 {
+          fill-count = fill-count + 1
+          total-data-rows = total-data-rows + 1
+        }
+        let total-space = available
+        let per-row = total-space / total-data-rows - 24
+        actual-row-h = calc.max(row-height, per-row * 1pt)
       }
-      // Distribute remaining space evenly across all data rows
-      let total-space = available
-      let per-row = total-space / total-data-rows - 24  // subtract inset
-      actual-row-h = calc.max(row-height, per-row * 1pt)
     }
 
     // Build rows with adjusted height
