@@ -265,28 +265,22 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#structured-table(
-  headers: ("Scope", "✓", "Primary Location(s)"),
-  example-rows: (
-    ([Single city/location (isolated island, palace, academy)], [✓], [Thornwick Academy — a remote magical school on sea cliffs where students are trapped together for the term]),
-  ),
-  rows: (
-    ([Single city/location], [], []),
-    ([Single region (kingdom, province, territory)], [], []),
-    ([Multiple regions (nations, continents)], [], []),
-    ([Entire world (epic scope)], [], []),
-    ([Multiple worlds/realms (parallel dimensions, portals)], [], []),
-    ([Other: Describe], [], []),
-  ),
-  row-height: 55pt,
-  preamble: [
+#block(breakable: false, below: 0pt)[
+
 == The Big Picture: Your World's Scale
 
 ==== What's the geographic scope of your story?
 
-#hint[Check the scope that best fits your story, then note the primary locations where your romance actually takes place.]
-],
+#hint[Describe the geographic scope of your story and the primary locations where your romance takes place.]
+
+#hint[Example: Single city/location (isolated island, palace, academy) — Thornwick Academy, a remote magical school on sea cliffs where students are trapped together for the term.]
+
+#writing-box(
+  label: "Your Answer",
+  height: 420pt,
 )
+
+]
 
 
 #open-table(
