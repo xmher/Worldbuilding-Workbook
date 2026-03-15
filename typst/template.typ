@@ -580,6 +580,12 @@
   let total-height = 44 + example-h + rows.len() * effective-row-h + preamble-h
   let can-fit = total-height < 620
 
+  // Large breakable tables with preamble: start on a new page to avoid
+  // orphaning the heading at the bottom of the previous page.
+  if not can-fit and preamble != none {
+    pagebreak(weak: true)
+  }
+
   block(width: 100%, above: 1.5em, below: 1.5em, breakable: not can-fit)[
     #if preamble != none { preamble }
     #set par(justify: false)
@@ -668,6 +674,21 @@
 
       ..all-rows.flatten(),
     )
+  }
+
+  // Estimate if labeled+example rows exceed a single page
+  {
+    let effective-row-h = row-height / 1pt + 24
+    let header-h = 44
+    let example-h = if example-rows.len() > 0 { calc.max(70, effective-row-h) * example-rows.len() } else { 0 }
+    let rows-h = rows.len() * effective-row-h
+    let preamble-h = if preamble != none { 150 } else { 0 }
+    let total-height = header-h + example-h + rows-h + preamble-h + 24
+    // Large breakable tables with preamble: start on a new page to avoid
+    // orphaning the heading at the bottom of the previous page.
+    if total-height >= 620 and preamble != none {
+      pagebreak(weak: true)
+    }
   }
 
   // Measure remaining page space and fill with blank rows
