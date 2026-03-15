@@ -221,7 +221,7 @@ def gen_data_table(item: dict) -> str:
 '''
 
 
-def gen_structured_table(item: dict) -> str:
+def gen_structured_table(item: dict, preamble: str = "") -> str:
     """Structured table: pre-filled labels, user fills in cells. Breakable."""
     headers = item.get("headers", [])
     example_rows = item.get("example_rows", [])
@@ -240,6 +240,8 @@ def gen_structured_table(item: dict) -> str:
         cells = ", ".join(_format_cell(c) for c in row)
         row_lines.append(f"    ({cells}),")
 
+    preamble_arg = f"\n  preamble: [{preamble}]," if preamble else ""
+
     return f'''
 #structured-table(
   headers: ({header_args}),
@@ -249,12 +251,12 @@ def gen_structured_table(item: dict) -> str:
   rows: (
 {chr(10).join(row_lines)}
   ),
-  row-height: {row_height},
+  row-height: {row_height},{preamble_arg}
 )
 '''
 
 
-def gen_open_table(item: dict) -> str:
+def gen_open_table(item: dict, preamble: str = "") -> str:
     """Open-ended table: example + blank rows filling page. For user entries."""
     headers = item.get("headers", [])
     example_rows = item.get("example_rows", [])
@@ -269,6 +271,7 @@ def gen_open_table(item: dict) -> str:
         ex_lines.append(f"    ({cells}),")
 
     extra_arg = f"\n  extra-rows: {extra_rows}," if extra_rows > 0 else ""
+    preamble_arg = f"\n  preamble: [{preamble}]," if preamble else ""
 
     return f'''
 #open-table(
@@ -276,7 +279,7 @@ def gen_open_table(item: dict) -> str:
   example-rows: (
 {chr(10).join(ex_lines)}
   ),
-  row-height: {row_height},{extra_arg}
+  row-height: {row_height},{extra_arg}{preamble_arg}
 )
 '''
 
@@ -355,7 +358,13 @@ def generate_section(data: dict, standalone: bool = False) -> str:
     if not has_title_page and intro:
         parts.append(gen_section_title_page(section_num, title, intro))
 
+    # Track which items have been consumed by lookahead grouping
+    consumed = set()
+
     for idx, item in enumerate(content):
+        if idx in consumed:
+            continue
+
         item_type = item.get("type", "")
 
         # Skip dividers before headings/groups — the heading provides enough separation
@@ -375,6 +384,38 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 item.get("title", title),
                 item.get("intro", intro),
             ))
+            continue
+
+        # Auto-group: heading2 + following preamble items (heading4, hint, prose)
+        # If a table follows, pass the preamble INTO the table so they're one unit.
+        if item_type == "heading2":
+            preamble_types = {"heading2", "heading3", "heading4", "hint", "prose", "lead_text"}
+            table_types = {"structured_table", "open_table"}
+            preamble_parts = [gen_heading(2, item["text"])]
+            j = idx + 1
+            while j < len(content) and content[j].get("type", "") in preamble_types:
+                child = content[j]
+                child_gen = GENERATORS.get(child["type"])
+                if child_gen:
+                    preamble_parts.append(child_gen(child))
+                consumed.add(j)
+                j += 1
+            # If a table follows, pass preamble into table and consume it
+            next_type = content[j].get("type", "") if j < len(content) else ""
+            if next_type in table_types:
+                preamble_text = "".join(preamble_parts)
+                table_item = content[j]
+                if next_type == "structured_table":
+                    parts.append(gen_structured_table(table_item, preamble=preamble_text))
+                elif next_type == "open_table":
+                    parts.append(gen_open_table(table_item, preamble=preamble_text))
+                consumed.add(j)
+            else:
+                # No table follows — just render heading block
+                parts.append(
+                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n{''.join(preamble_parts)}\n]\n"
+                )
             continue
 
         # Group: keep heading+hint together, let tables flow naturally

@@ -557,6 +557,7 @@
   rows: (),
   example-rows: (),
   row-height: 55pt,
+  preamble: none,
 ) = {
   let col-count = headers.len()
 
@@ -579,10 +580,12 @@
   // Tables that don't fit: breakable (allows natural page breaks).
   let effective-row-h = row-height / 1pt + 24
   let example-h = if example-rows.len() > 0 { calc.max(100, effective-row-h) * example-rows.len() } else { 0 }
-  let total-height = 44 + example-h + rows.len() * effective-row-h
+  let preamble-h = if preamble != none { 150 } else { 0 }
+  let total-height = 44 + example-h + rows.len() * effective-row-h + preamble-h
   let can-fit = total-height < 620
 
   block(width: 100%, above: 1.5em, below: 1.5em, breakable: not can-fit)[
+    #if preamble != none { preamble }
     #set par(justify: false)
     #table(
       columns: range(col-count).map(_ => 1fr),
@@ -621,6 +624,7 @@
   example-rows: (),
   row-height: 55pt,
   extra-rows: 0,
+  preamble: none,
 ) = {
   let col-count = headers.len()
 
@@ -669,7 +673,8 @@
     let effective-row-h = row-height / 1pt + 24
     let header-h = 44
     let example-h = if example-rows.len() > 0 { calc.max(70, effective-row-h) * example-rows.len() } else { 0 }
-    let overhead = header-h + example-h + 24
+    let preamble-h = if preamble != none { 150 } else { 0 }
+    let overhead = header-h + example-h + preamble-h + 24
 
     let available = size.height / 1pt - overhead
     let fill-count = calc.max(1, int(available / effective-row-h))
@@ -681,7 +686,8 @@
       i = i + 1
     }
 
-    block(width: 100%, above: 1.5em, below: 0pt)[
+    block(width: 100%, above: 1.5em, below: 0pt, breakable: false)[
+      #if preamble != none { preamble }
       #make-table(all-rows, example-rows.len())
     ]
   })

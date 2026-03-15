@@ -7,10 +7,13 @@
 )
 
 
+#block(breakable: false, below: 0pt)[
+
 == In This Section
 
-
 === Concepts & Frameworks
+
+]
 
 
 - How to Think About Geography
@@ -58,28 +61,25 @@
 You need both.
 
 
-== A Note Before You Begin
+#block(breakable: false, below: 0pt)[
 
+== A Note Before You Begin
 
 Not every question will apply to your story. #strong[Skip what doesn't fit.]
 
-
 #strong[Worldbuild for its own sake if you want.] A richly developed world has value beyond what appears on the page. Use the "romance connection" prompts for brainstorming if they're helpful, or leave them blank if that element is just background texture.
-
 
 #strong[Come back later.] If you're not sure whether something matters yet, skip it and return once your story has taken more shape.
 
-
 This workbook is a tool, not a test.
-
 
 == How to Think About Geography in Romantasy
 
-
 Geography in romantasy functions as a #strong[pressure system] — the physical world can compress your characters together, force them apart, or create conditions where they must rely on each other. Before you draw a map, ask yourself: #emph[What geographic situation does my romance need?]
 
-
 Not every hill and river needs to serve the plot. But the geography you emphasize — the locations where scenes happen, the terrain your characters traverse, the distances between them — should be doing something. Background geography creates atmosphere and believability. Foreground geography creates story.
+
+]
 
 
 #framework-box(title: "The Geography-as-Friction Framework")[
@@ -117,7 +117,11 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
+#block(breakable: false, below: 0pt)[
+
 == Reference: Place Name Patterns
+
+]
 
 
 // WARNING: unknown type "body"
@@ -248,28 +252,18 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-== Your World's Place Name Patterns
-
-
-#hint[Create prefixes and suffixes that fit your world's languages. What sounds right for this culture?]
-
-
 #open-table(
   headers: ("Prefix/Suffix", "Meaning", "Example in Your World"),
   example-rows: (
     ([Kel- / -kel], [silver, moonlight], [Kelvareth (Silver City)]),
   ),
   row-height: 55pt,
+  preamble: [
+== Your World's Place Name Patterns
+
+#hint[Create prefixes and suffixes that fit your world's languages. What sounds right for this culture?]
+],
 )
-
-
-== The Big Picture: Your World's Scale
-
-
-==== What's the geographic scope of your story?
-
-
-#hint[Check the scope that best fits your story, then note the primary locations where your romance actually takes place.]
 
 
 #structured-table(
@@ -286,6 +280,13 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Other: Describe], [], []),
   ),
   row-height: 55pt,
+  preamble: [
+== The Big Picture: Your World's Scale
+
+==== What's the geographic scope of your story?
+
+#hint[Check the scope that best fits your story, then note the primary locations where your romance actually takes place.]
+],
 )
 
 
@@ -312,12 +313,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-== Kingdoms & Nations Overview
-
-
-#hint[This is reference material. Fill in what you know now; come back as your world develops.]
-
-
 #structured-table(
   headers: ("Aspect", "Kingdom/Nation 1", "Kingdom/Nation 2"),
   example-rows: (
@@ -339,16 +334,12 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Role in your story], [], []),
   ),
   row-height: 55pt,
+  preamble: [
+== Kingdoms & Nations Overview
+
+#hint[This is reference material. Fill in what you know now; come back as your world develops.]
+],
 )
-
-
-== Terrain Types
-
-
-#hint[Only fill in terrains that matter. If your characters never see a desert, skip it.]
-
-
-==== What terrains shape your story?
 
 
 #open-table(
@@ -357,10 +348,21 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Mountains], [Northern border between kingdoms], [Natural defense, mineral deposits, isolation for monasteries], [Impassable in winter, separates lovers from different kingdoms, treacherous passes]),
   ),
   row-height: 55pt,
+  preamble: [
+== Terrain Types
+
+#hint[Only fill in terrains that matter. If your characters never see a desert, skip it.]
+
+==== What terrains shape your story?
+],
 )
 
 
+#block(breakable: false, below: 0pt)[
+
 == Resources & Territorial Control
+
+]
 
 
 #block(breakable: false, below: 0pt)[
@@ -444,15 +446,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-== The Sensory World
-
-
-==== What does your primary setting look, sound, smell, and feel like?
-
-
-#hint[Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?]
-
-
 #structured-table(
   headers: ("Sense", "Description"),
   example-rows: (
@@ -465,6 +458,13 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([What the air feels like (temperature, humidity, wind)], []),
   ),
   row-height: 55pt,
+  preamble: [
+== The Sensory World
+
+==== What does your primary setting look, sound, smell, and feel like?
+
+#hint[Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?]
+],
 )
 
 
@@ -513,13 +513,15 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-== Climate, Weather & Seasons
+#block(breakable: false, below: 0pt)[
 
+== Climate, Weather & Seasons
 
 ==== What's the overall climate?
 
-
 #hint[Tropical, temperate, arid, polar? How does it shape what people wear, build, and grow?]
+
+]
 
 
 #writing-box(
@@ -592,21 +594,19 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-== Dangerous Regions
-
-
-==== What regions are dangerous or forbidden?
-
-
-#hint[Every world has places people warn you not to go. What makes them deadly? What would force your characters there anyway?]
-
-
 #open-table(
   headers: ("Region", "What Makes It Dangerous", "Who Goes There Anyway (and Why)"),
   example-rows: (
     ([The Blighted Wastes], [Corrupted magic, monsters, no water for miles, disorienting mists], [Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary]),
   ),
   row-height: 55pt,
+  preamble: [
+== Dangerous Regions
+
+==== What regions are dangerous or forbidden?
+
+#hint[Every world has places people warn you not to go. What makes them deadly? What would force your characters there anyway?]
+],
 )
 
 
@@ -629,13 +629,15 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-== Borders & Boundaries
+#block(breakable: false, below: 0pt)[
 
+== Borders & Boundaries
 
 ==== What geographic features create borders?
 
-
 #hint[Mountain ranges? Rivers? Oceans? Magical barriers? Deserts?]
+
+]
 
 
 #writing-box(
@@ -675,13 +677,15 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-== Home & Belonging
+#block(breakable: false, below: 0pt)[
 
+== Home & Belonging
 
 ==== Where does your protagonist feel at home?
 
-
 #hint[The place that shaped them, where they feel most themselves:]
+
+]
 
 
 #writing-box(
@@ -733,15 +737,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-== Entering Each Other's Worlds
-
-
-==== Does one character visit the other's home territory?
-
-
-#hint[Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?]
-
-
 #structured-table(
   headers: ("Aspect", "Details"),
   example-rows: (
@@ -751,6 +746,13 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Who visits whose world], []),
   ),
   row-height: 75pt,
+  preamble: [
+== Entering Each Other's Worlds
+
+==== Does one character visit the other's home territory?
+
+#hint[Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?]
+],
 )
 
 
@@ -790,13 +792,15 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-== Travel & Distance
+#block(breakable: false, below: 0pt)[
 
+== Travel & Distance
 
 ==== How do people typically travel?
 
-
 #hint[On foot? Horseback? Ships? Flying creatures? Magical transportation?]
+
+]
 
 
 #writing-box(
@@ -868,31 +872,31 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-== Isolated Locations
-
-
-==== What isolated locations exist?
-
-
-#hint[Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:]
-
-
 #open-table(
   headers: ("Location", "Type", "Why People Go", "Why Leaving Is Difficult"),
   example-rows: (
     ([Stormhold Keep], [Remote mountain fortress], [Political prisoners sent there; protagonist exiled after scandal], [Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure]),
   ),
   row-height: 55pt,
+  preamble: [
+== Isolated Locations
+
+==== What isolated locations exist?
+
+#hint[Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:]
+],
 )
 
 
-== Geography as Emotional Landscape
+#block(breakable: false, below: 0pt)[
 
+== Geography as Emotional Landscape
 
 ==== What's the emotional quality of your primary setting?
 
-
 #hint[Does it feel oppressive, expansive, peaceful, threatening, beautiful, decaying?]
+
+]
 
 
 #writing-box(
@@ -913,9 +917,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-== Integration Check
-
-
 #structured-table(
   headers: ("Question", "Your Answer"),
   example-rows: (
@@ -928,10 +929,10 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([What geographic resource or territory is contested in your world?], []),
   ),
   row-height: 75pt,
+  preamble: [
+== Integration Check
+],
 )
-
-
-== Quick Reference: Geographic Stakes
 
 
 #structured-table(
@@ -953,6 +954,9 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([], []),
   ),
   row-height: 55pt,
+  preamble: [
+== Quick Reference: Geographic Stakes
+],
 )
 
 
