@@ -509,6 +509,7 @@ def generate_section(data: dict, standalone: bool = False) -> str:
         # block so the heading+table stay together. Otherwise render normally.
         if item_type == "group":
             children = item.get("content", [])
+            full_page = item.get("full_page", False)
             all_child_parts = []
             estimated_height = 0
             for child in children:
@@ -528,7 +529,14 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                     n_rows = len(child.get("rows", [])) + len(child.get("example_rows", []))
                     estimated_height += 44 + n_rows * (row_h + 24)
 
-            if estimated_height < 620:
+            if full_page:
+                # Force page break before and render as non-breakable block
+                parts.append("\n#pagebreak(weak: true)\n")
+                parts.append(
+                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n{''.join(all_child_parts)}\n]\n"
+                )
+            elif estimated_height < 620:
                 parts.append(
                     f"\n#block(breakable: false, below: 0pt)["
                     f"\n{''.join(all_child_parts)}\n]\n"
