@@ -604,7 +604,8 @@
           "silver, moonlight",
           "Kelvareth (Silver City)"
         ]
-      ]
+      ],
+      "row_height": "30pt"
     },
     {
       "type": "divider"
