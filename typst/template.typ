@@ -695,10 +695,10 @@
   layout(size => {
     let effective-row-h = row-height / 1pt + 24
     let header-h = 44
-    let example-h = if example-rows.len() > 0 { calc.max(70, effective-row-h) * example-rows.len() } else { 0 }
+    let example-h = if example-rows.len() > 0 { calc.max(50, effective-row-h) * example-rows.len() } else { 0 }
     let rows-h = rows.len() * effective-row-h
-    let preamble-h = if preamble != none { 150 } else { 0 }
-    let overhead = header-h + example-h + rows-h + preamble-h + 24
+    let preamble-h = if preamble != none { 80 } else { 0 }
+    let overhead = header-h + example-h + rows-h + preamble-h
 
     let available = size.height / 1pt - overhead
     let fill-count = calc.max(0, int(available / effective-row-h))
