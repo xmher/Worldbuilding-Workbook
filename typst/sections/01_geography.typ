@@ -256,11 +256,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   example-rows: (
     ([Kel- / -kel], [silver, moonlight], [Kelvareth (Silver City)]),
   ),
-  rows: (
-    ([], [], []),
-    ([], [], []),
-  ),
-  row-height: 30pt,
+  row-height: 24pt,
   preamble: [
 == Your World's Place Name Patterns
 
