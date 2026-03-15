@@ -117,9 +117,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
-
-
 == Reference: Place Name Patterns
 
 
@@ -251,9 +248,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
-
-
 == Your World's Place Name Patterns
 
 
@@ -267,9 +261,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
   row-height: 55pt,
 )
-
-
-#divider()
 
 
 == The Big Picture: Your World's Scale
@@ -321,9 +312,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
-
-
 == Kingdoms & Nations Overview
 
 
@@ -354,9 +342,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
-
-
 == Terrain Types
 
 
@@ -373,9 +358,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
   row-height: 55pt,
 )
-
-
-#divider()
 
 
 == Resources & Territorial Control
@@ -462,9 +444,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
-
-
 == The Sensory World
 
 
@@ -532,9 +511,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   label: "Your Answer",
   height: 100pt,
 )
-
-
-#divider()
 
 
 == Climate, Weather & Seasons
@@ -616,9 +592,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
-
-
 == Dangerous Regions
 
 
@@ -654,9 +627,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
   row-height: 75pt,
 )
-
-
-#divider()
 
 
 == Borders & Boundaries
@@ -703,9 +673,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
   row-height: 75pt,
 )
-
-
-#divider()
 
 
 == Home & Belonging
@@ -766,9 +733,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
-
-
 == Entering Each Other's Worlds
 
 
@@ -824,9 +788,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   label: "Your Answer",
   height: 100pt,
 )
-
-
-#divider()
 
 
 == Travel & Distance
@@ -907,9 +868,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
-
-
 == Isolated Locations
 
 
@@ -926,9 +884,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
   row-height: 55pt,
 )
-
-
-#divider()
 
 
 == Geography as Emotional Landscape
@@ -958,9 +913,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
-#divider()
-
-
 == Integration Check
 
 
@@ -977,9 +929,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
   row-height: 75pt,
 )
-
-
-#divider()
 
 
 == Quick Reference: Geographic Stakes
@@ -1005,9 +954,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
   row-height: 55pt,
 )
-
-
-#divider()
 
 
 #block(breakable: false, below: 0pt)[

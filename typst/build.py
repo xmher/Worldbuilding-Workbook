@@ -355,8 +355,14 @@ def generate_section(data: dict, standalone: bool = False) -> str:
     if not has_title_page and intro:
         parts.append(gen_section_title_page(section_num, title, intro))
 
-    for item in content:
+    for idx, item in enumerate(content):
         item_type = item.get("type", "")
+
+        # Skip dividers before headings/groups — the heading provides enough separation
+        if item_type == "divider":
+            next_type = content[idx + 1].get("type", "") if idx + 1 < len(content) else ""
+            if next_type in ("heading2", "group"):
+                continue
 
         # Special handling for section title page vs title page
         if item_type == "title_page":
