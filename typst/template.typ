@@ -568,9 +568,9 @@
     ))
   }
 
-  // Content rows with consistent height
+  // Content rows with consistent height (non-breakable to prevent ghost rows)
   for row in rows {
-    all-rows.push(row.map(cell => block(height: row-height)[#cell]))
+    all-rows.push(row.map(cell => block(height: row-height, breakable: false)[#cell]))
   }
 
   // Estimate total table height to decide if it fits on a single page.
