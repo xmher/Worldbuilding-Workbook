@@ -198,23 +198,87 @@
         },
         {
           "type": "data_table",
-          "headers": ["Prefix / Suffix", "Meaning", "Example"],
+          "headers": [
+            "Prefix / Suffix",
+            "Meaning",
+            "Example"
+          ],
           "rows": [
-            ["Ash-", "ash tree", "Ashford, Ashby"],
-            ["Black-", "dark, black", "Blackmoor, Blackpool"],
-            ["Brad- / Broad-", "broad, wide", "Bradford, Broadstairs"],
-            ["Glen- / Green-", "valley / green", "Glendale, Greenfield"],
-            ["King- / Bishop-", "royal / church estate", "Kingston, Bishopstoke"],
-            ["New- / Old-", "new / old", "Newcastle, Oldham"],
-            ["Stone- / Stan-", "stone, rocky", "Stoneham, Stamford"],
-            ["Whit- / White-", "white", "Whitby, Whitfield"],
-            ["-ham", "homestead, village", "Nottingham"],
-            ["-ton / -town", "fenced settlement", "Brighton"],
-            ["-ford", "river crossing", "Oxford"],
-            ["-ley / -leigh", "clearing, meadow", "Barnsley"],
-            ["-burgh / -bury", "fortified place", "Edinburgh"],
-            ["-moor / -mere", "marshland, lake", "Windermere"],
-            ["-holme / -holm", "island, water meadow", "Stockholm"]
+            [
+              "Ash-",
+              "ash tree",
+              "Ashford, Ashby"
+            ],
+            [
+              "Black-",
+              "dark, black",
+              "Blackmoor, Blackpool"
+            ],
+            [
+              "Brad- / Broad-",
+              "broad, wide",
+              "Bradford, Broadstairs"
+            ],
+            [
+              "Glen- / Green-",
+              "valley / green",
+              "Glendale, Greenfield"
+            ],
+            [
+              "King- / Bishop-",
+              "royal / church estate",
+              "Kingston, Bishopstoke"
+            ],
+            [
+              "New- / Old-",
+              "new / old",
+              "Newcastle, Oldham"
+            ],
+            [
+              "Stone- / Stan-",
+              "stone, rocky",
+              "Stoneham, Stamford"
+            ],
+            [
+              "Whit- / White-",
+              "white",
+              "Whitby, Whitfield"
+            ],
+            [
+              "-ham",
+              "homestead, village",
+              "Nottingham"
+            ],
+            [
+              "-ton / -town",
+              "fenced settlement",
+              "Brighton"
+            ],
+            [
+              "-ford",
+              "river crossing",
+              "Oxford"
+            ],
+            [
+              "-ley / -leigh",
+              "clearing, meadow",
+              "Barnsley"
+            ],
+            [
+              "-burgh / -bury",
+              "fortified place",
+              "Edinburgh"
+            ],
+            [
+              "-moor / -mere",
+              "marshland, lake",
+              "Windermere"
+            ],
+            [
+              "-holme / -holm",
+              "island, water meadow",
+              "Stockholm"
+            ]
           ]
         }
       ]
@@ -233,23 +297,87 @@
         },
         {
           "type": "data_table",
-          "headers": ["Prefix / Suffix", "Meaning", "Example"],
+          "headers": [
+            "Prefix / Suffix",
+            "Meaning",
+            "Example"
+          ],
           "rows": [
-            ["Stor- / Stór-", "great, large", "Storfjord, Stóravatn"],
-            ["Ny- / Nýr-", "new", "Nykøbing, Nýdalur"],
-            ["Holm-", "small island", "Holmsland, Stockholm"],
-            ["Nor- / Norð-", "north", "Norðfjörður, Norway"],
-            ["Suð- / Sör-", "south", "Suðureyri, Sörmland"],
-            ["Stein-", "stone, rock", "Steinkjer, Steinberg"],
-            ["Kvit- / Hvít-", "white", "Kvitfjell, Hvítá"],
-            ["Svar- / Svart-", "black, dark", "Svartskog, Svartengren"],
-            ["-by", "farm, settlement", "Whitby, Grimsby"],
-            ["-vik / -wick", "bay, inlet", "Reykjavik, Lerwick"],
-            ["-fjord / -firth", "long narrow inlet", "Sognefjord"],
-            ["-heim / -hem", "home, world", "Trondheim"],
-            ["-berg / -borg", "mountain / fortress", "Gothenburg"],
-            ["-ness / -nes", "headland, promontory", "Skagen"],
-            ["-land", "land, territory", "Iceland, Gotland"]
+            [
+              "Stor- / Stór-",
+              "great, large",
+              "Storfjord, Stóravatn"
+            ],
+            [
+              "Ny- / Nýr-",
+              "new",
+              "Nykøbing, Nýdalur"
+            ],
+            [
+              "Holm-",
+              "small island",
+              "Holmsland, Stockholm"
+            ],
+            [
+              "Nor- / Norð-",
+              "north",
+              "Norðfjörður, Norway"
+            ],
+            [
+              "Suð- / Sör-",
+              "south",
+              "Suðureyri, Sörmland"
+            ],
+            [
+              "Stein-",
+              "stone, rock",
+              "Steinkjer, Steinberg"
+            ],
+            [
+              "Kvit- / Hvít-",
+              "white",
+              "Kvitfjell, Hvítá"
+            ],
+            [
+              "Svar- / Svart-",
+              "black, dark",
+              "Svartskog, Svartengren"
+            ],
+            [
+              "-by",
+              "farm, settlement",
+              "Whitby, Grimsby"
+            ],
+            [
+              "-vik / -wick",
+              "bay, inlet",
+              "Reykjavik, Lerwick"
+            ],
+            [
+              "-fjord / -firth",
+              "long narrow inlet",
+              "Sognefjord"
+            ],
+            [
+              "-heim / -hem",
+              "home, world",
+              "Trondheim"
+            ],
+            [
+              "-berg / -borg",
+              "mountain / fortress",
+              "Gothenburg"
+            ],
+            [
+              "-ness / -nes",
+              "headland, promontory",
+              "Skagen"
+            ],
+            [
+              "-land",
+              "land, territory",
+              "Iceland, Gotland"
+            ]
           ]
         }
       ]
@@ -268,23 +396,87 @@
         },
         {
           "type": "data_table",
-          "headers": ["Prefix / Suffix", "Meaning", "Example"],
+          "headers": [
+            "Prefix / Suffix",
+            "Meaning",
+            "Example"
+          ],
           "rows": [
-            ["Aber-", "river mouth", "Aberdeen, Aberystwyth"],
-            ["Caer- / Car-", "fort, stronghold", "Caernarfon, Cardiff"],
-            ["Llan-", "church, sacred enclosure", "Llandudno"],
-            ["Pen-", "head, top, end", "Penrith, Penzance"],
-            ["Tre- / Tref-", "homestead, town", "Tremaine"],
-            ["Dun- / Din-", "hill fort", "Edinburgh (Dun Edin)"],
-            ["Bal- / Bally-", "homestead, settlement", "Balmoral, Ballymena"],
-            ["Kil- / Cil-", "church, monk's cell", "Killarney, Kilmarnock"],
-            ["Ben- / Beinn-", "mountain, peak", "Ben Nevis, Ben More"],
-            ["Bryn-", "hill, mound", "Brynmawr, Brynteg"],
-            ["Drum- / Druim-", "ridge", "Drummond, Dromore"],
-            ["Strath-", "wide river valley", "Strathclyde"],
-            ["Glyn- / Glen-", "valley", "Glencoe"],
-            ["Loch- / Lough-", "lake", "Lochaber"],
-            ["Inver- / Innis-", "river mouth / island", "Inverness"]
+            [
+              "Aber-",
+              "river mouth",
+              "Aberdeen, Aberystwyth"
+            ],
+            [
+              "Caer- / Car-",
+              "fort, stronghold",
+              "Caernarfon, Cardiff"
+            ],
+            [
+              "Llan-",
+              "church, sacred enclosure",
+              "Llandudno"
+            ],
+            [
+              "Pen-",
+              "head, top, end",
+              "Penrith, Penzance"
+            ],
+            [
+              "Tre- / Tref-",
+              "homestead, town",
+              "Tremaine"
+            ],
+            [
+              "Dun- / Din-",
+              "hill fort",
+              "Edinburgh (Dun Edin)"
+            ],
+            [
+              "Bal- / Bally-",
+              "homestead, settlement",
+              "Balmoral, Ballymena"
+            ],
+            [
+              "Kil- / Cil-",
+              "church, monk's cell",
+              "Killarney, Kilmarnock"
+            ],
+            [
+              "Ben- / Beinn-",
+              "mountain, peak",
+              "Ben Nevis, Ben More"
+            ],
+            [
+              "Bryn-",
+              "hill, mound",
+              "Brynmawr, Brynteg"
+            ],
+            [
+              "Drum- / Druim-",
+              "ridge",
+              "Drummond, Dromore"
+            ],
+            [
+              "Strath-",
+              "wide river valley",
+              "Strathclyde"
+            ],
+            [
+              "Glyn- / Glen-",
+              "valley",
+              "Glencoe"
+            ],
+            [
+              "Loch- / Lough-",
+              "lake",
+              "Lochaber"
+            ],
+            [
+              "Inver- / Innis-",
+              "river mouth / island",
+              "Inverness"
+            ]
           ]
         }
       ]
@@ -303,23 +495,87 @@
         },
         {
           "type": "data_table",
-          "headers": ["Prefix / Suffix", "Meaning", "Example"],
+          "headers": [
+            "Prefix / Suffix",
+            "Meaning",
+            "Example"
+          ],
           "rows": [
-            ["-grad / -gorod", "city, fortified place", "Belgrade, Novgorod"],
-            ["-ov / -ova / -ovo", "belonging to (possessive)", "Sarajevo, Krakow"],
-            ["Novo- / Novy-", "new", "Novosibirsk"],
-            ["Staro- / Stary-", "old", "Starograd"],
-            ["-pol / -pole", "field", "Sevastopol"],
-            ["Belo- / Byelo-", "white", "Belgrade (Beograd)"],
-            ["Cerno- / Cherno-", "black", "Chernobyl"],
-            ["Krasno-", "beautiful / red", "Krasnodar, Krasnoyarsk"],
-            ["Zlato- / Zlaty-", "golden", "Zlatograd, Zlatoust"],
-            ["Pod-", "under, at the foot of", "Podgorica, Podolsk"],
-            ["Za-", "beyond, behind", "Zagreb, Zaporizhzhia"],
-            ["Gora- / Hora-", "mountain, hill", "Jelenia Góra, Bilogora"],
-            ["Brod-", "ford, river crossing", "Slavonski Brod, Brody"],
-            ["Veliko- / Veliky-", "great, large", "Veliky Novgorod"],
-            ["-sk / -sko", "place/region suffix", "Gdansk, Minsk"]
+            [
+              "-grad / -gorod",
+              "city, fortified place",
+              "Belgrade, Novgorod"
+            ],
+            [
+              "-ov / -ova / -ovo",
+              "belonging to (possessive)",
+              "Sarajevo, Krakow"
+            ],
+            [
+              "Novo- / Novy-",
+              "new",
+              "Novosibirsk"
+            ],
+            [
+              "Staro- / Stary-",
+              "old",
+              "Starograd"
+            ],
+            [
+              "-pol / -pole",
+              "field",
+              "Sevastopol"
+            ],
+            [
+              "Belo- / Byelo-",
+              "white",
+              "Belgrade (Beograd)"
+            ],
+            [
+              "Cerno- / Cherno-",
+              "black",
+              "Chernobyl"
+            ],
+            [
+              "Krasno-",
+              "beautiful / red",
+              "Krasnodar, Krasnoyarsk"
+            ],
+            [
+              "Zlato- / Zlaty-",
+              "golden",
+              "Zlatograd, Zlatoust"
+            ],
+            [
+              "Pod-",
+              "under, at the foot of",
+              "Podgorica, Podolsk"
+            ],
+            [
+              "Za-",
+              "beyond, behind",
+              "Zagreb, Zaporizhzhia"
+            ],
+            [
+              "Gora- / Hora-",
+              "mountain, hill",
+              "Jelenia Góra, Bilogora"
+            ],
+            [
+              "Brod-",
+              "ford, river crossing",
+              "Slavonski Brod, Brody"
+            ],
+            [
+              "Veliko- / Veliky-",
+              "great, large",
+              "Veliky Novgorod"
+            ],
+            [
+              "-sk / -sko",
+              "place/region suffix",
+              "Gdansk, Minsk"
+            ]
           ]
         }
       ]
@@ -337,9 +593,17 @@
     },
     {
       "type": "open_table",
-      "headers": ["Prefix/Suffix", "Meaning", "Example in Your World"],
+      "headers": [
+        "Prefix/Suffix",
+        "Meaning",
+        "Example in Your World"
+      ],
       "example_rows": [
-        ["Kel- / -kel", "silver, moonlight", "Kelvareth (Silver City)"]
+        [
+          "Kel- / -kel",
+          "silver, moonlight",
+          "Kelvareth (Silver City)"
+        ]
       ]
     },
     {
@@ -355,22 +619,16 @@
     },
     {
       "type": "hint",
-      "text": "Check the scope that best fits your story, then note the primary locations where your romance actually takes place."
+      "text": "Describe the geographic scope of your story and the primary locations where your romance takes place."
     },
     {
-      "type": "structured_table",
-      "headers": ["Scope", "✓", "Primary Location(s)"],
-      "example_rows": [
-        ["Single city/location (isolated island, palace, academy)", "✓", "Thornwick Academy — a remote magical school on sea cliffs where students are trapped together for the term"]
-      ],
-      "rows": [
-        ["Single city/location", "", ""],
-        ["Single region (kingdom, province, territory)", "", ""],
-        ["Multiple regions (nations, continents)", "", ""],
-        ["Entire world (epic scope)", "", ""],
-        ["Multiple worlds/realms (parallel dimensions, portals)", "", ""],
-        ["Other: Describe", "", ""]
-      ]
+      "type": "hint",
+      "text": "Example: Single city/location (isolated island, palace, academy) — Thornwick Academy, a remote magical school on sea cliffs where students are trapped together for the term."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "420pt"
     },
     {
       "type": "heading4",
@@ -382,14 +640,29 @@
     },
     {
       "type": "open_table",
-      "headers": ["Location Type", "Name/Description"],
+      "headers": [
+        "Location Type",
+        "Name/Description"
+      ],
       "example_rows": [
-        ["Primary location", "The Winter Court — an ice palace where protagonist is held hostage, forced into proximity with the prince"]
+        [
+          "Primary location",
+          "The Winter Court — an ice palace where protagonist is held hostage, forced into proximity with the prince"
+        ]
       ],
       "rows": [
-        ["Primary location", ""],
-        ["Secondary location", ""],
-        ["Secondary location", ""]
+        [
+          "Primary location",
+          ""
+        ],
+        [
+          "Secondary location",
+          ""
+        ],
+        [
+          "Secondary location",
+          ""
+        ]
       ]
     },
     {
@@ -405,21 +678,77 @@
     },
     {
       "type": "structured_table",
-      "headers": ["Aspect", "Kingdom/Nation 1", "Kingdom/Nation 2"],
+      "headers": [
+        "Aspect",
+        "Kingdom/Nation 1",
+        "Kingdom/Nation 2"
+      ],
       "rows": [
-        ["Name", "", ""],
-        ["Capital", "", ""],
-        ["Neighbouring lands", "", ""],
-        ["Known for", "", ""],
-        ["Main industry/resource", "", ""],
-        ["Climate", "", ""],
-        ["Primary species", "", ""],
-        ["Religion", "", ""],
-        ["Government type", "", ""],
-        ["Allies", "", ""],
-        ["Enemies/rivals", "", ""],
-        ["Notable landmark", "", ""],
-        ["Role in your story", "", ""]
+        [
+          "Name",
+          "",
+          ""
+        ],
+        [
+          "Capital",
+          "",
+          ""
+        ],
+        [
+          "Neighbouring lands",
+          "",
+          ""
+        ],
+        [
+          "Known for",
+          "",
+          ""
+        ],
+        [
+          "Main industry/resource",
+          "",
+          ""
+        ],
+        [
+          "Climate",
+          "",
+          ""
+        ],
+        [
+          "Primary species",
+          "",
+          ""
+        ],
+        [
+          "Religion",
+          "",
+          ""
+        ],
+        [
+          "Government type",
+          "",
+          ""
+        ],
+        [
+          "Allies",
+          "",
+          ""
+        ],
+        [
+          "Enemies/rivals",
+          "",
+          ""
+        ],
+        [
+          "Notable landmark",
+          "",
+          ""
+        ],
+        [
+          "Role in your story",
+          "",
+          ""
+        ]
       ]
     },
     {
@@ -439,9 +768,19 @@
     },
     {
       "type": "open_table",
-      "headers": ["Terrain", "Where?", "What It Provides", "What Challenges It Creates"],
+      "headers": [
+        "Terrain",
+        "Where?",
+        "What It Provides",
+        "What Challenges It Creates"
+      ],
       "example_rows": [
-        ["Mountains", "Northern border between kingdoms", "Natural defense, mineral deposits, isolation for monasteries", "Impassable in winter, separates lovers from different kingdoms, treacherous passes"]
+        [
+          "Mountains",
+          "Northern border between kingdoms",
+          "Natural defense, mineral deposits, isolation for monasteries",
+          "Impassable in winter, separates lovers from different kingdoms, treacherous passes"
+        ]
       ]
     },
     {
@@ -464,17 +803,47 @@
         },
         {
           "type": "data_table",
-          "headers": ["Category", "Examples"],
+          "headers": [
+            "Category",
+            "Examples"
+          ],
           "rows": [
-            ["Precious Metals", "Gold, silver, copper, iron ore, bronze, platinum, mithril"],
-            ["Gems & Stones", "Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble"],
-            ["Textiles", "Silk, wool, linen, cotton, rare furs, leather, spider-silk, feathers"],
-            ["Food & Agriculture", "Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits"],
-            ["Animal Products", "Ivory, bone, whale oil, animal fat, beeswax, dyes from shells, ambergris"],
-            ["Plant Products", "Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee"],
-            ["Fuel & Energy", "Coal, oil, charcoal, peat, magical crystals, dragon-fire, captured lightning"],
-            ["Magical Resources", "Ley line access, enchanted springs, magical creatures, spell components"],
-            ["Curiosities", "Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight"]
+            [
+              "Precious Metals",
+              "Gold, silver, copper, iron ore, bronze, platinum, mithril"
+            ],
+            [
+              "Gems & Stones",
+              "Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble"
+            ],
+            [
+              "Textiles",
+              "Silk, wool, linen, cotton, rare furs, leather, spider-silk, feathers"
+            ],
+            [
+              "Food & Agriculture",
+              "Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits"
+            ],
+            [
+              "Animal Products",
+              "Ivory, bone, whale oil, animal fat, beeswax, dyes from shells, ambergris"
+            ],
+            [
+              "Plant Products",
+              "Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee"
+            ],
+            [
+              "Fuel & Energy",
+              "Coal, oil, charcoal, peat, magical crystals, dragon-fire, captured lightning"
+            ],
+            [
+              "Magical Resources",
+              "Ley line access, enchanted springs, magical creatures, spell components"
+            ],
+            [
+              "Curiosities",
+              "Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight"
+            ]
           ]
         }
       ]
@@ -489,18 +858,54 @@
     },
     {
       "type": "open_table",
-      "headers": ["Resource", "Where It's Found", "Who Controls It"],
+      "headers": [
+        "Resource",
+        "Where It's Found",
+        "Who Controls It"
+      ],
       "example_rows": [
-        ["Fertile farmland", "River valley between the two kingdoms", "Contested — marriage alliance proposed to end the conflict"]
+        [
+          "Fertile farmland",
+          "River valley between the two kingdoms",
+          "Contested — marriage alliance proposed to end the conflict"
+        ]
       ],
       "rows": [
-        ["Fertile farmland", "", ""],
-        ["Fresh water", "", ""],
-        ["Timber/forests", "", ""],
-        ["Mineral deposits", "", ""],
-        ["Coastal access/ports", "", ""],
-        ["Mountain passes", "", ""],
-        ["Magical resources", "", ""]
+        [
+          "Fertile farmland",
+          "",
+          ""
+        ],
+        [
+          "Fresh water",
+          "",
+          ""
+        ],
+        [
+          "Timber/forests",
+          "",
+          ""
+        ],
+        [
+          "Mineral deposits",
+          "",
+          ""
+        ],
+        [
+          "Coastal access/ports",
+          "",
+          ""
+        ],
+        [
+          "Mountain passes",
+          "",
+          ""
+        ],
+        [
+          "Magical resources",
+          "",
+          ""
+        ]
       ]
     },
     {
@@ -551,12 +956,27 @@
     },
     {
       "type": "structured_table",
-      "headers": ["Sense", "Description"],
+      "headers": [
+        "Sense",
+        "Description"
+      ],
       "rows": [
-        ["What you see", ""],
-        ["What you hear", ""],
-        ["What you smell", ""],
-        ["What the air feels like (temperature, humidity, wind)", ""]
+        [
+          "What you see",
+          ""
+        ],
+        [
+          "What you hear",
+          ""
+        ],
+        [
+          "What you smell",
+          ""
+        ],
+        [
+          "What the air feels like (temperature, humidity, wind)",
+          ""
+        ]
       ],
       "row_height": "55pt"
     },
@@ -570,12 +990,27 @@
     },
     {
       "type": "structured_table",
-      "headers": ["Time", "Description"],
+      "headers": [
+        "Time",
+        "Description"
+      ],
       "rows": [
-        ["Morning", ""],
-        ["Midday", ""],
-        ["Evening", ""],
-        ["Night", ""]
+        [
+          "Morning",
+          ""
+        ],
+        [
+          "Midday",
+          ""
+        ],
+        [
+          "Evening",
+          ""
+        ],
+        [
+          "Night",
+          ""
+        ]
       ],
       "row_height": "55pt"
     },
@@ -648,11 +1083,23 @@
     },
     {
       "type": "structured_table",
-      "headers": ["Aspect", "Details"],
+      "headers": [
+        "Aspect",
+        "Details"
+      ],
       "rows": [
-        ["Season", ""],
-        ["What this season makes possible", ""],
-        ["What this season makes impossible", ""]
+        [
+          "Season",
+          ""
+        ],
+        [
+          "What this season makes possible",
+          ""
+        ],
+        [
+          "What this season makes impossible",
+          ""
+        ]
       ],
       "row_height": "55pt"
     },
@@ -666,11 +1113,27 @@
     },
     {
       "type": "structured_table",
-      "headers": ["Season", "What's Possible", "What's Impossible"],
+      "headers": [
+        "Season",
+        "What's Possible",
+        "What's Impossible"
+      ],
       "rows": [
-        ["Summer/warm season", "", ""],
-        ["Winter/cold season", "", ""],
-        ["Transitional seasons", "", ""]
+        [
+          "Summer/warm season",
+          "",
+          ""
+        ],
+        [
+          "Winter/cold season",
+          "",
+          ""
+        ],
+        [
+          "Transitional seasons",
+          "",
+          ""
+        ]
       ],
       "row_height": "55pt"
     },
@@ -704,9 +1167,17 @@
     },
     {
       "type": "open_table",
-      "headers": ["Region", "What Makes It Dangerous", "Who Goes There Anyway (and Why)"],
+      "headers": [
+        "Region",
+        "What Makes It Dangerous",
+        "Who Goes There Anyway (and Why)"
+      ],
       "example_rows": [
-        ["The Blighted Wastes", "Corrupted magic, monsters, no water for miles, disorienting mists", "Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary"]
+        [
+          "The Blighted Wastes",
+          "Corrupted magic, monsters, no water for miles, disorienting mists",
+          "Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary"
+        ]
       ]
     },
     {
@@ -719,10 +1190,19 @@
     },
     {
       "type": "structured_table",
-      "headers": ["Aspect", "Details"],
+      "headers": [
+        "Aspect",
+        "Details"
+      ],
       "rows": [
-        ["Where and why", ""],
-        ["What dangers they face", ""]
+        [
+          "Where and why",
+          ""
+        ],
+        [
+          "What dangers they face",
+          ""
+        ]
       ],
       "row_height": "75pt"
     },
@@ -769,10 +1249,19 @@
     },
     {
       "type": "structured_table",
-      "headers": ["Aspect", "Details"],
+      "headers": [
+        "Aspect",
+        "Details"
+      ],
       "rows": [
-        ["What separates them", ""],
-        ["What crossing means (legally, socially, personally)", ""]
+        [
+          "What separates them",
+          ""
+        ],
+        [
+          "What crossing means (legally, socially, personally)",
+          ""
+        ]
       ],
       "row_height": "75pt"
     },
@@ -832,10 +1321,19 @@
     },
     {
       "type": "structured_table",
-      "headers": ["Character", "Where They Feel Alien"],
+      "headers": [
+        "Character",
+        "Where They Feel Alien"
+      ],
       "rows": [
-        ["Protagonist", ""],
-        ["Love interest", ""]
+        [
+          "Protagonist",
+          ""
+        ],
+        [
+          "Love interest",
+          ""
+        ]
       ],
       "row_height": "75pt"
     },
@@ -856,9 +1354,15 @@
     },
     {
       "type": "structured_table",
-      "headers": ["Aspect", "Details"],
+      "headers": [
+        "Aspect",
+        "Details"
+      ],
       "rows": [
-        ["Who visits whose world", ""]
+        [
+          "Who visits whose world",
+          ""
+        ]
       ],
       "row_height": "75pt"
     },
@@ -934,15 +1438,47 @@
         },
         {
           "type": "data_table",
-          "headers": ["Mode of Travel", "Distance per Day", "Notes"],
+          "headers": [
+            "Mode of Travel",
+            "Distance per Day",
+            "Notes"
+          ],
           "rows": [
-            ["Walking (comfortable pace)", "15–20 miles / 25–32 km", "Healthy adult with breaks"],
-            ["Forced march", "25–30 miles / 40–50 km", "Exhausting, not sustainable"],
-            ["Riding (sustainable)", "25–35 miles / 40–55 km", "One horse, regular rest"],
-            ["Hard ride", "40–50 miles / 65–80 km", "Tiring the horse"],
-            ["Changing horses (relay)", "80–100 miles / 130–160 km", "Fresh mounts at stations"],
-            ["Sailing ship (favorable wind)", "100–150 miles / 160–240 km", "Highly variable"],
-            ["Carriage/wagon", "20–30 miles / 32–50 km", "Roads required"]
+            [
+              "Walking (comfortable pace)",
+              "15–20 miles / 25–32 km",
+              "Healthy adult with breaks"
+            ],
+            [
+              "Forced march",
+              "25–30 miles / 40–50 km",
+              "Exhausting, not sustainable"
+            ],
+            [
+              "Riding (sustainable)",
+              "25–35 miles / 40–55 km",
+              "One horse, regular rest"
+            ],
+            [
+              "Hard ride",
+              "40–50 miles / 65–80 km",
+              "Tiring the horse"
+            ],
+            [
+              "Changing horses (relay)",
+              "80–100 miles / 130–160 km",
+              "Fresh mounts at stations"
+            ],
+            [
+              "Sailing ship (favorable wind)",
+              "100–150 miles / 160–240 km",
+              "Highly variable"
+            ],
+            [
+              "Carriage/wagon",
+              "20–30 miles / 32–50 km",
+              "Roads required"
+            ]
           ]
         }
       ]
@@ -957,11 +1493,23 @@
     },
     {
       "type": "structured_table",
-      "headers": ["Route", "Travel Time"],
+      "headers": [
+        "Route",
+        "Travel Time"
+      ],
       "rows": [
-        ["From capital to border", ""],
-        ["From one character's home to the other's", ""],
-        ["Across the dangerous region", ""]
+        [
+          "From capital to border",
+          ""
+        ],
+        [
+          "From one character's home to the other's",
+          ""
+        ],
+        [
+          "Across the dangerous region",
+          ""
+        ]
       ],
       "row_height": "55pt"
     },
@@ -975,11 +1523,23 @@
     },
     {
       "type": "structured_table",
-      "headers": ["Aspect", "Details"],
+      "headers": [
+        "Aspect",
+        "Details"
+      ],
       "rows": [
-        ["From where to where", ""],
-        ["How long", ""],
-        ["What happens during the journey", ""]
+        [
+          "From where to where",
+          ""
+        ],
+        [
+          "How long",
+          ""
+        ],
+        [
+          "What happens during the journey",
+          ""
+        ]
       ],
       "row_height": "55pt"
     },
@@ -1000,9 +1560,19 @@
     },
     {
       "type": "open_table",
-      "headers": ["Location", "Type", "Why People Go", "Why Leaving Is Difficult"],
+      "headers": [
+        "Location",
+        "Type",
+        "Why People Go",
+        "Why Leaving Is Difficult"
+      ],
       "example_rows": [
-        ["Stormhold Keep", "Remote mountain fortress", "Political prisoners sent there; protagonist exiled after scandal", "Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure"]
+        [
+          "Stormhold Keep",
+          "Remote mountain fortress",
+          "Political prisoners sent there; protagonist exiled after scandal",
+          "Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure"
+        ]
       ]
     },
     {
@@ -1047,12 +1617,27 @@
     },
     {
       "type": "structured_table",
-      "headers": ["Question", "Your Answer"],
+      "headers": [
+        "Question",
+        "Your Answer"
+      ],
       "rows": [
-        ["How does geography explain cultural differences? (Reference: Section 3)", ""],
-        ["How does geography create or reinforce power structures? (Reference: Section 5)", ""],
-        ["How does geography interact with magic? (Reference: Section 8)", ""],
-        ["What geographic resource or territory is contested in your world?", ""]
+        [
+          "How does geography explain cultural differences? (Reference: Section 3)",
+          ""
+        ],
+        [
+          "How does geography create or reinforce power structures? (Reference: Section 5)",
+          ""
+        ],
+        [
+          "How does geography interact with magic? (Reference: Section 8)",
+          ""
+        ],
+        [
+          "What geographic resource or territory is contested in your world?",
+          ""
+        ]
       ],
       "row_height": "75pt"
     },
@@ -1065,20 +1650,53 @@
     },
     {
       "type": "open_table",
-      "headers": ["Element", "Your World"],
+      "headers": [
+        "Element",
+        "Your World"
+      ],
       "example_rows": [
-        ["Key location 1", "The Winter Court — where protagonist is hostage and love interest is prince"]
+        [
+          "Key location 1",
+          "The Winter Court — where protagonist is hostage and love interest is prince"
+        ]
       ],
       "rows": [
-        ["Key location 1", ""],
-        ["Key location 2", ""],
-        ["Key location 3", ""],
-        ["The contested resource or territory", ""],
-        ["The barrier separating peoples or characters", ""],
-        ["The dangerous region", ""],
-        ["The isolated location", ""],
-        ["The significant journey (from → to)", ""],
-        ["The place that matters emotionally", ""]
+        [
+          "Key location 1",
+          ""
+        ],
+        [
+          "Key location 2",
+          ""
+        ],
+        [
+          "Key location 3",
+          ""
+        ],
+        [
+          "The contested resource or territory",
+          ""
+        ],
+        [
+          "The barrier separating peoples or characters",
+          ""
+        ],
+        [
+          "The dangerous region",
+          ""
+        ],
+        [
+          "The isolated location",
+          ""
+        ],
+        [
+          "The significant journey (from → to)",
+          ""
+        ],
+        [
+          "The place that matters emotionally",
+          ""
+        ]
       ]
     },
     {
@@ -1097,16 +1715,43 @@
         },
         {
           "type": "data_table",
-          "headers": ["Category", "Possible Locations"],
+          "headers": [
+            "Category",
+            "Possible Locations"
+          ],
           "rows": [
-            ["Geographic features", "Mountains, rivers, forests, lakes, coastlines, islands, deserts, swamps, valleys"],
-            ["Political boundaries", "Kingdom borders, disputed territories, neutral zones, conquered lands"],
-            ["Cities & settlements", "Capitals, port cities, border towns, villages, abandoned settlements"],
-            ["Trade & travel", "Major roads, trade routes, mountain passes, river crossings, ports"],
-            ["Fortifications", "Castles, walls, watchtowers, military camps, fortresses"],
-            ["Religious sites", "Temples, shrines, pilgrimage routes, sacred groves, forbidden places"],
-            ["Magical locations", "Ley lines, magical academies, cursed regions, power sources"],
-            ["Story-specific", "Where characters meet, where they're forbidden to go, where they flee to"]
+            [
+              "Geographic features",
+              "Mountains, rivers, forests, lakes, coastlines, islands, deserts, swamps, valleys"
+            ],
+            [
+              "Political boundaries",
+              "Kingdom borders, disputed territories, neutral zones, conquered lands"
+            ],
+            [
+              "Cities & settlements",
+              "Capitals, port cities, border towns, villages, abandoned settlements"
+            ],
+            [
+              "Trade & travel",
+              "Major roads, trade routes, mountain passes, river crossings, ports"
+            ],
+            [
+              "Fortifications",
+              "Castles, walls, watchtowers, military camps, fortresses"
+            ],
+            [
+              "Religious sites",
+              "Temples, shrines, pilgrimage routes, sacred groves, forbidden places"
+            ],
+            [
+              "Magical locations",
+              "Ley lines, magical academies, cursed regions, power sources"
+            ],
+            [
+              "Story-specific",
+              "Where characters meet, where they're forbidden to go, where they flee to"
+            ]
           ]
         }
       ]
