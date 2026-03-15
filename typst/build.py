@@ -397,7 +397,7 @@ def generate_section(data: dict, standalone: bool = False) -> str:
         # If a table/group/writing_box follows, keep heading with it.
         # Otherwise, let content flow naturally (no non-breakable wrapping).
         if item_type == "heading2":
-            preamble_types = {"heading2", "heading3", "heading4", "hint", "prose", "lead_text"}
+            preamble_types = {"heading2", "heading3", "heading4", "hint", "prose", "lead_text", "body"}
             table_types = {"structured_table", "open_table"}
             preamble_parts = [gen_heading(2, item["text"])]
             j = idx + 1
@@ -421,6 +421,7 @@ def generate_section(data: dict, standalone: bool = False) -> str:
             elif next_type == "group":
                 # heading2 + group: estimate combined height
                 group_item = content[j]
+                full_page = group_item.get("full_page", False)
                 children = group_item.get("content", [])
                 all_group_parts = list(preamble_parts)
                 estimated_height = 80  # heading2 preamble
@@ -440,7 +441,13 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                         n_rows = len(child.get("rows", [])) + len(child.get("example_rows", []))
                         estimated_height += 44 + n_rows * (row_h + 24)
 
-                if estimated_height < 620:
+                if full_page:
+                    parts.append("\n#pagebreak(weak: true)\n")
+                    parts.append(
+                        f"\n#block(breakable: false, below: 0pt)["
+                        f"\n{''.join(all_group_parts)}\n]\n"
+                    )
+                elif estimated_height < 620:
                     parts.append(
                         f"\n#block(breakable: false, below: 0pt)["
                         f"\n{''.join(all_group_parts)}\n]\n"

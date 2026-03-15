@@ -117,17 +117,16 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
+#pagebreak(weak: true)
+
+
+#block(breakable: false, below: 0pt)[
+
 == Reference: Place Name Patterns
-
-
-// WARNING: unknown type "body"
-
 
 === Common English Place Name Patterns
 
-
 #hint[Mix prefixes and suffixes to generate names. "Ash" + "ford" = Ashford. "Black" + "moor" = Blackmoor.]
-
 
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
@@ -135,11 +134,8 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Ash-], [ash tree], [Ashford, Ashby]),
     ([Black-], [dark, black], [Blackmoor, Blackpool]),
     ([Brad- / Broad-], [broad, wide], [Bradford, Broadstairs]),
-    ([East- / West- / North- / South-], [direction], [Eastbourne, Westbury]),
     ([Glen- / Green-], [valley / green], [Glendale, Greenfield]),
-    ([Hol- / Hollow-], [hollow, low-lying], [Holmfirth, Holbrook]),
     ([King- / Bishop-], [royal / church estate], [Kingston, Bishopstoke]),
-    ([Long-], [long, extended], [Longford, Longdale]),
     ([New- / Old-], [new / old], [Newcastle, Oldham]),
     ([Stone- / Stan-], [stone, rocky], [Stoneham, Stamford]),
     ([Whit- / White-], [white], [Whitby, Whitfield]),
@@ -147,21 +143,23 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([-ton / -town], [fenced settlement], [Brighton]),
     ([-ford], [river crossing], [Oxford]),
     ([-ley / -leigh], [clearing, meadow], [Barnsley]),
-    ([-dale / -vale], [valley], [Airedale]),
     ([-burgh / -bury], [fortified place], [Edinburgh]),
-    ([-port], [harbor, market town], [Southport]),
     ([-moor / -mere], [marshland, lake], [Windermere]),
-    ([-fell / -mount], [hill, mountain], [Scafell]),
     ([-holme / -holm], [island, water meadow], [Stockholm]),
   ),
 )
 
+]
+
+
+#pagebreak(weak: true)
+
+
+#block(breakable: false, below: 0pt)[
 
 === Nordic/Scandinavian Place Name Patterns
 
-
 #hint[Good for cold, northern, Viking-inspired settings. Old Norse roots appear in many English place names too.]
-
 
 #workbook-table(
   headers: ("Prefix / Suffix", "Meaning", "Example"),
@@ -174,20 +172,17 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Stein-], [stone, rock], [Steinkjer, Steinberg]),
     ([Kvit- / Hvít-], [white], [Kvitfjell, Hvítá]),
     ([Svar- / Svart-], [black, dark], [Svartskog, Svartengren]),
-    ([Eld-], [fire], [Eldfjall, Eldhús]),
-    ([Is- / Ís-], [ice], [Island (Iceland), Ísafjörður]),
     ([-by], [farm, settlement], [Whitby, Grimsby]),
     ([-vik / -wick], [bay, inlet], [Reykjavik, Lerwick]),
     ([-fjord / -firth], [long narrow inlet], [Sognefjord]),
     ([-heim / -hem], [home, world], [Trondheim]),
     ([-berg / -borg], [mountain / fortress], [Gothenburg]),
-    ([-dal / -dalen], [valley], [Gudvangen]),
     ([-ness / -nes], [headland, promontory], [Skagen]),
-    ([-stad / -sted], [place, site], [Halstead]),
     ([-land], [land, territory], [Iceland, Gotland]),
-    ([-thwaite], [clearing, meadow], [Braithwaite]),
   ),
 )
+
+]
 
 
 #pagebreak(weak: true)
