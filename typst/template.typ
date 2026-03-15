@@ -549,45 +549,48 @@
 }
 
 
-// --- Input Table (tall cells for writing) ---
+// --- Input Table (tall cells for writing, fills page) ---
+// Uses layout() to calculate how many blank rows fill the remaining page.
+// All rows have consistent height. Table starts on current page, never splits.
+// Use extra-rows to add a continuation page with more blank rows.
 #let input-table(
   headers: (),
   rows: (),
   example-rows: (),
   row-height: 55pt,
+  extra-rows: 0,
 ) = {
   let col-count = headers.len()
 
-  // Build all rows
-  let all-rows = ()
-
-  for row in example-rows {
-    all-rows.push(row.map(cell =>
+  // Format example rows
+  let fmt-example-rows = example-rows.map(row =>
+    row.map(cell =>
       text(style: "italic", fill: color-text-muted, size: 0.85em)[#cell]
-    ))
-  }
+    )
+  )
 
-  for row in rows {
-    // Ensure each cell has minimum height
-    all-rows.push(row.map(cell =>
-      block(height: row-height)[#cell]
-    ))
-  }
+  // Format content rows with consistent height
+  let fmt-content-rows = rows.map(row =>
+    row.map(cell => block(height: row-height)[#cell])
+  )
 
-  block(width: 100%, above: 1.5em, below: 1.5em)[
-    #set par(justify: false)
-    #table(
+  // Blank row template
+  let blank-row = range(col-count).map(_ => block(height: row-height)[])
+
+  // Helper to build the table
+  let make-table(all-rows, ex-count) = {
+    set par(justify: false)
+    table(
       columns: range(col-count).map(_ => 1fr),
       fill: (col, row) => {
         if row == 0 { color-theme }
-        else if row <= example-rows.len() { color-theme.lighten(92%) }
+        else if row <= ex-count { color-theme.lighten(92%) }
         else { white }
       },
       stroke: 1pt + color-noir,
       inset: 12pt,
       align: left,
 
-      // Headers (repeat on page break)
       table.header(
         ..headers.map(h =>
           text(
@@ -602,7 +605,45 @@
 
       ..all-rows.flatten(),
     )
-  ]
+  }
+
+  // Measure remaining page space and fill with rows
+  layout(size => {
+    let effective-row-h = row-height / 1pt + 24  // row-height + 2*inset
+    let header-h = 44  // header row height
+    let example-h = if example-rows.len() > 0 { calc.max(70, effective-row-h) * example-rows.len() } else { 0 }
+    let overhead = header-h + example-h + fmt-content-rows.len() * effective-row-h + 24  // margins
+
+    let available = size.height / 1pt - overhead
+    let fill-count = calc.max(0, int(available / effective-row-h))
+
+    // Assemble all rows
+    let all-rows = fmt-example-rows + fmt-content-rows
+    let i = 0
+    while i < fill-count {
+      all-rows = all-rows + (blank-row,)
+      i = i + 1
+    }
+
+    block(width: 100%, above: 1.5em, below: 0pt)[
+      #make-table(all-rows, example-rows.len())
+    ]
+  })
+
+  // Extra continuation rows on a new page
+  if extra-rows > 0 {
+    let extra = ()
+    let i = 0
+    while i < extra-rows {
+      extra = extra + (blank-row,)
+      i = i + 1
+    }
+
+    pagebreak()
+    block(width: 100%, above: 0pt, below: 0pt, breakable: false)[
+      #make-table(extra, 0)
+    ]
+  }
 }
 
 

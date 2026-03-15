@@ -338,7 +338,7 @@
       "example_rows": [
         ["Kel- / -kel", "silver, moonlight", "Kelvareth (Silver City)"]
       ],
-      "blank_rows": 7
+      "extra_rows": 0
     },
     {
       "type": "divider"
@@ -444,7 +444,7 @@
       "example_rows": [
         ["Mountains", "Northern border between kingdoms", "Natural defense, mineral deposits, isolation for monasteries", "Impassable in winter, separates lovers from different kingdoms, treacherous passes"]
       ],
-      "blank_rows": 5
+      "extra_rows": 0
     },
     {
       "type": "divider"
@@ -712,7 +712,7 @@
       "example_rows": [
         ["The Blighted Wastes", "Corrupted magic, monsters, no water for miles, disorienting mists", "Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary"]
       ],
-      "blank_rows": 5
+      "extra_rows": 0
     },
     {
       "type": "heading4",
@@ -1009,7 +1009,7 @@
       "example_rows": [
         ["Stormhold Keep", "Remote mountain fortress", "Political prisoners sent there; protagonist exiled after scandal", "Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure"]
       ],
-      "blank_rows": 5
+      "extra_rows": 0
     },
     {
       "type": "divider"

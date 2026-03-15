@@ -266,13 +266,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Kel- / -kel], [silver, moonlight], [Kelvareth (Silver City)]),
   ),
   rows: (
-    ([], [], []),
-    ([], [], []),
-    ([], [], []),
-    ([], [], []),
-    ([], [], []),
-    ([], [], []),
-    ([], [], []),
+
   ),
   row-height: 55pt,
 )
@@ -381,11 +375,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Mountains], [Northern border between kingdoms], [Natural defense, mineral deposits, isolation for monasteries], [Impassable in winter, separates lovers from different kingdoms, treacherous passes]),
   ),
   rows: (
-    ([], [], [], []),
-    ([], [], [], []),
-    ([], [], [], []),
-    ([], [], [], []),
-    ([], [], [], []),
+
   ),
   row-height: 55pt,
 )
@@ -650,11 +640,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([The Blighted Wastes], [Corrupted magic, monsters, no water for miles, disorienting mists], [Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary]),
   ),
   rows: (
-    ([], [], []),
-    ([], [], []),
-    ([], [], []),
-    ([], [], []),
-    ([], [], []),
+
   ),
   row-height: 55pt,
 )
@@ -948,11 +934,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Stormhold Keep], [Remote mountain fortress], [Political prisoners sent there; protagonist exiled after scandal], [Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure]),
   ),
   rows: (
-    ([], [], [], []),
-    ([], [], [], []),
-    ([], [], [], []),
-    ([], [], [], []),
-    ([], [], [], []),
+
   ),
   row-height: 55pt,
 )

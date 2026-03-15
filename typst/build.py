@@ -225,8 +225,8 @@ def gen_input_table(item: dict) -> str:
     headers = item.get("headers", [])
     example_rows = item.get("example_rows", [])
     rows = item.get("rows", [])
-    blank_rows = item.get("blank_rows", 0)
     row_height = item.get("row_height", "55pt")
+    extra_rows = item.get("extra_rows", 0)
 
     header_args = ", ".join(f'"{h}"' for h in headers)
 
@@ -240,11 +240,7 @@ def gen_input_table(item: dict) -> str:
         cells = ", ".join(_format_cell(c) for c in row)
         row_lines.append(f"    ({cells}),")
 
-    # Add blank rows
-    col_count = len(headers)
-    for _ in range(blank_rows):
-        cells = ", ".join(["[]"] * col_count)
-        row_lines.append(f"    ({cells}),")
+    extra_arg = f"\n  extra-rows: {extra_rows}," if extra_rows > 0 else ""
 
     return f'''
 #input-table(
@@ -255,7 +251,7 @@ def gen_input_table(item: dict) -> str:
   rows: (
 {chr(10).join(row_lines)}
   ),
-  row-height: {row_height},
+  row-height: {row_height},{extra_arg}
 )
 '''
 
