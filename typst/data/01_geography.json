@@ -605,7 +605,19 @@
           "Kelvareth (Silver City)"
         ]
       ],
-      "row_height": "30pt"
+      "row_height": "30pt",
+      "rows": [
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ]
+      ]
     },
     {
       "type": "divider"
