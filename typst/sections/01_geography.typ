@@ -260,13 +260,10 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[Create prefixes and suffixes that fit your world's languages. What sounds right for this culture?]
 
 
-#input-table(
+#open-table(
   headers: ("Prefix/Suffix", "Meaning", "Example in Your World"),
   example-rows: (
     ([Kel- / -kel], [silver, moonlight], [Kelvareth (Silver City)]),
-  ),
-  rows: (
-
   ),
   row-height: 55pt,
 )
@@ -284,7 +281,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[Check the scope that best fits your story, then note the primary locations where your romance actually takes place.]
 
 
-#input-table(
+#structured-table(
   headers: ("Scope", "✓", "Primary Location(s)"),
   example-rows: (
     ([Single city/location (isolated island, palace, academy)], [✓], [Thornwick Academy — a remote magical school on sea cliffs where students are trapped together for the term]),
@@ -307,7 +304,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[You don't need to detail everything — just locations that matter.]
 
 
-#input-table(
+#structured-table(
   headers: ("Location Type", "Name/Description"),
   example-rows: (
     ([Primary location], [The Winter Court — an ice palace where protagonist is held hostage, forced into proximity with the prince]),
@@ -333,7 +330,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[This is reference material. Fill in what you know now; come back as your world develops.]
 
 
-#input-table(
+#structured-table(
   headers: ("Aspect", "Kingdom/Nation 1", "Kingdom/Nation 2"),
   example-rows: (
 
@@ -369,13 +366,10 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ==== What terrains shape your story?
 
 
-#input-table(
+#open-table(
   headers: ("Terrain", "Where?", "What It Provides", "What Challenges It Creates"),
   example-rows: (
     ([Mountains], [Northern border between kingdoms], [Natural defense, mineral deposits, isolation for monasteries], [Impassable in winter, separates lovers from different kingdoms, treacherous passes]),
-  ),
-  rows: (
-
   ),
   row-height: 55pt,
 )
@@ -418,7 +412,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?]
 
 
-#input-table(
+#structured-table(
   headers: ("Resource", "Where It's Found", "Who Controls It"),
   example-rows: (
     ([Fertile farmland], [River valley between the two kingdoms], [Contested — marriage alliance proposed to end the conflict]),
@@ -480,7 +474,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?]
 
 
-#input-table(
+#structured-table(
   headers: ("Sense", "Description"),
   example-rows: (
 
@@ -501,7 +495,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?]
 
 
-#input-table(
+#structured-table(
   headers: ("Time", "Description"),
   example-rows: (
 
@@ -576,7 +570,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent?]
 
 
-#input-table(
+#structured-table(
   headers: ("Aspect", "Details"),
   example-rows: (
 
@@ -596,7 +590,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors?]
 
 
-#input-table(
+#structured-table(
   headers: ("Season", "What's Possible", "What's Impossible"),
   example-rows: (
 
@@ -634,13 +628,10 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[Every world has places people warn you not to go. What makes them deadly? What would force your characters there anyway?]
 
 
-#input-table(
+#open-table(
   headers: ("Region", "What Makes It Dangerous", "Who Goes There Anyway (and Why)"),
   example-rows: (
     ([The Blighted Wastes], [Corrupted magic, monsters, no water for miles, disorienting mists], [Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary]),
-  ),
-  rows: (
-
   ),
   row-height: 55pt,
 )
@@ -652,7 +643,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[Shared danger bonds people fast. What threats would force them to rely on each other?]
 
 
-#input-table(
+#structured-table(
   headers: ("Aspect", "Details"),
   example-rows: (
 
@@ -701,7 +692,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[Borders create "us" and "them." What assumptions would each character have about someone from the other side?]
 
 
-#input-table(
+#structured-table(
   headers: ("Aspect", "Details"),
   example-rows: (
 
@@ -762,7 +753,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?]
 
 
-#input-table(
+#structured-table(
   headers: ("Character", "Where They Feel Alien"),
   example-rows: (
 
@@ -787,7 +778,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?]
 
 
-#input-table(
+#structured-table(
   headers: ("Aspect", "Details"),
   example-rows: (
 
@@ -882,7 +873,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[Distance creates stakes. A week apart feels different than a year. How painful is separation in your world?]
 
 
-#input-table(
+#structured-table(
   headers: ("Route", "Travel Time"),
   example-rows: (
 
@@ -902,7 +893,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[The road is where walls come down. What would a long journey together reveal about each of them?]
 
 
-#input-table(
+#structured-table(
   headers: ("Aspect", "Details"),
   example-rows: (
 
@@ -928,13 +919,10 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #hint[Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:]
 
 
-#input-table(
+#open-table(
   headers: ("Location", "Type", "Why People Go", "Why Leaving Is Difficult"),
   example-rows: (
     ([Stormhold Keep], [Remote mountain fortress], [Political prisoners sent there; protagonist exiled after scandal], [Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure]),
-  ),
-  rows: (
-
   ),
   row-height: 55pt,
 )
@@ -976,7 +964,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 == Integration Check
 
 
-#input-table(
+#structured-table(
   headers: ("Question", "Your Answer"),
   example-rows: (
 
@@ -997,7 +985,7 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 == Quick Reference: Geographic Stakes
 
 
-#input-table(
+#structured-table(
   headers: ("Element", "Your World"),
   example-rows: (
     ([Key location 1], [The Winter Court — where protagonist is hostage and love interest is prince]),

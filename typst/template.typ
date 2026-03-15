@@ -549,13 +549,67 @@
 }
 
 
-// --- Input Table (tall cells for writing, fills page) ---
-// Uses layout() to calculate how many blank rows fill the remaining page.
-// All rows have consistent height. Table starts on current page, never splits.
-// Use extra-rows to add a continuation page with more blank rows.
-#let input-table(
+// --- Structured Table (pre-filled labels, user fills in cells) ---
+// Breakable with repeating headers. All rows have consistent height.
+// No blank fill rows — every row has a label.
+#let structured-table(
   headers: (),
   rows: (),
+  example-rows: (),
+  row-height: 55pt,
+) = {
+  let col-count = headers.len()
+
+  let all-rows = ()
+
+  // Example rows (italic, tinted background)
+  for row in example-rows {
+    all-rows.push(row.map(cell =>
+      text(style: "italic", fill: color-text-muted, size: 0.85em)[#cell]
+    ))
+  }
+
+  // Content rows with consistent height
+  for row in rows {
+    all-rows.push(row.map(cell => block(height: row-height)[#cell]))
+  }
+
+  block(width: 100%, above: 1.5em, below: 1.5em)[
+    #set par(justify: false)
+    #table(
+      columns: range(col-count).map(_ => 1fr),
+      fill: (col, row) => {
+        if row == 0 { color-theme }
+        else if row <= example-rows.len() { color-theme.lighten(92%) }
+        else { white }
+      },
+      stroke: 1pt + color-noir,
+      inset: 12pt,
+      align: left,
+
+      table.header(
+        ..headers.map(h =>
+          text(
+            font: font-display,
+            size: 0.7em,
+            tracking: 1pt,
+            weight: "bold",
+            fill: white,
+          )[#upper(h)]
+        ),
+      ),
+
+      ..all-rows.flatten(),
+    )
+  ]
+}
+
+
+// --- Open-Ended Table (example + blank rows, fills page) ---
+// For tables where users add their own entries. Uses layout() to fill
+// remaining page space with blank rows. Use extra-rows for continuation.
+#let open-table(
+  headers: (),
   example-rows: (),
   row-height: 55pt,
   extra-rows: 0,
@@ -569,15 +623,10 @@
     )
   )
 
-  // Format content rows with consistent height
-  let fmt-content-rows = rows.map(row =>
-    row.map(cell => block(height: row-height)[#cell])
-  )
-
   // Blank row template
   let blank-row = range(col-count).map(_ => block(height: row-height)[])
 
-  // Helper to build the table
+  // Shared table builder
   let make-table(all-rows, ex-count) = {
     set par(justify: false)
     table(
@@ -607,18 +656,17 @@
     )
   }
 
-  // Measure remaining page space and fill with rows
+  // Measure remaining page space and fill with blank rows
   layout(size => {
-    let effective-row-h = row-height / 1pt + 24  // row-height + 2*inset
-    let header-h = 44  // header row height
+    let effective-row-h = row-height / 1pt + 24
+    let header-h = 44
     let example-h = if example-rows.len() > 0 { calc.max(70, effective-row-h) * example-rows.len() } else { 0 }
-    let overhead = header-h + example-h + fmt-content-rows.len() * effective-row-h + 24  // margins
+    let overhead = header-h + example-h + 24
 
     let available = size.height / 1pt - overhead
-    let fill-count = calc.max(0, int(available / effective-row-h))
+    let fill-count = calc.max(1, int(available / effective-row-h))
 
-    // Assemble all rows
-    let all-rows = fmt-example-rows + fmt-content-rows
+    let all-rows = fmt-example-rows
     let i = 0
     while i < fill-count {
       all-rows = all-rows + (blank-row,)

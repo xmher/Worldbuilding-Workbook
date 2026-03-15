@@ -221,12 +221,12 @@ def gen_data_table(item: dict) -> str:
 '''
 
 
-def gen_input_table(item: dict) -> str:
+def gen_structured_table(item: dict) -> str:
+    """Structured table: pre-filled labels, user fills in cells. Breakable."""
     headers = item.get("headers", [])
     example_rows = item.get("example_rows", [])
     rows = item.get("rows", [])
     row_height = item.get("row_height", "55pt")
-    extra_rows = item.get("extra_rows", 0)
 
     header_args = ", ".join(f'"{h}"' for h in headers)
 
@@ -240,10 +240,8 @@ def gen_input_table(item: dict) -> str:
         cells = ", ".join(_format_cell(c) for c in row)
         row_lines.append(f"    ({cells}),")
 
-    extra_arg = f"\n  extra-rows: {extra_rows}," if extra_rows > 0 else ""
-
     return f'''
-#input-table(
+#structured-table(
   headers: ({header_args}),
   example-rows: (
 {chr(10).join(ex_lines)}
@@ -251,9 +249,43 @@ def gen_input_table(item: dict) -> str:
   rows: (
 {chr(10).join(row_lines)}
   ),
+  row-height: {row_height},
+)
+'''
+
+
+def gen_open_table(item: dict) -> str:
+    """Open-ended table: example + blank rows filling page. For user entries."""
+    headers = item.get("headers", [])
+    example_rows = item.get("example_rows", [])
+    row_height = item.get("row_height", "55pt")
+    extra_rows = item.get("extra_rows", 0)
+
+    header_args = ", ".join(f'"{h}"' for h in headers)
+
+    ex_lines = []
+    for row in example_rows:
+        cells = ", ".join(_format_cell(c) for c in row)
+        ex_lines.append(f"    ({cells}),")
+
+    extra_arg = f"\n  extra-rows: {extra_rows}," if extra_rows > 0 else ""
+
+    return f'''
+#open-table(
+  headers: ({header_args}),
+  example-rows: (
+{chr(10).join(ex_lines)}
+  ),
   row-height: {row_height},{extra_arg}
 )
 '''
+
+
+def gen_input_table(item: dict) -> str:
+    """Legacy: routes to structured or open table based on content."""
+    if item.get("rows"):
+        return gen_structured_table(item)
+    return gen_open_table(item)
 
 
 def gen_cross_ref(item: dict) -> str:
@@ -289,6 +321,8 @@ GENERATORS = {
     "checklist": gen_checklist,
     "data_table": gen_data_table,
     "input_table": gen_input_table,
+    "structured_table": gen_structured_table,
+    "open_table": gen_open_table,
     "cross_ref": gen_cross_ref,
 }
 

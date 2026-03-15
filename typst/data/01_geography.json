@@ -333,12 +333,11 @@
       "text": "Create prefixes and suffixes that fit your world's languages. What sounds right for this culture?"
     },
     {
-      "type": "input_table",
+      "type": "open_table",
       "headers": ["Prefix/Suffix", "Meaning", "Example in Your World"],
       "example_rows": [
         ["Kel- / -kel", "silver, moonlight", "Kelvareth (Silver City)"]
-      ],
-      "extra_rows": 0
+      ]
     },
     {
       "type": "divider"
@@ -356,7 +355,7 @@
       "text": "Check the scope that best fits your story, then note the primary locations where your romance actually takes place."
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Scope", "✓", "Primary Location(s)"],
       "example_rows": [
         ["Single city/location (isolated island, palace, academy)", "✓", "Thornwick Academy — a remote magical school on sea cliffs where students are trapped together for the term"]
@@ -379,7 +378,7 @@
       "text": "You don't need to detail everything — just locations that matter."
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Location Type", "Name/Description"],
       "example_rows": [
         ["Primary location", "The Winter Court — an ice palace where protagonist is held hostage, forced into proximity with the prince"]
@@ -405,7 +404,7 @@
       "text": "This is reference material. Fill in what you know now; come back as your world develops."
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Aspect", "Kingdom/Nation 1", "Kingdom/Nation 2"],
       "rows": [
         ["Name", "", ""],
@@ -439,12 +438,11 @@
       "text": "What terrains shape your story?"
     },
     {
-      "type": "input_table",
+      "type": "open_table",
       "headers": ["Terrain", "Where?", "What It Provides", "What Challenges It Creates"],
       "example_rows": [
         ["Mountains", "Northern border between kingdoms", "Natural defense, mineral deposits, isolation for monasteries", "Impassable in winter, separates lovers from different kingdoms, treacherous passes"]
-      ],
-      "extra_rows": 0
+      ]
     },
     {
       "type": "divider"
@@ -490,7 +488,7 @@
       "text": "Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Resource", "Where It's Found", "Who Controls It"],
       "example_rows": [
         ["Fertile farmland", "River valley between the two kingdoms", "Contested — marriage alliance proposed to end the conflict"]
@@ -554,7 +552,7 @@
       "text": "Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Sense", "Description"],
       "rows": [
         ["What you see", ""],
@@ -573,7 +571,7 @@
       "text": "Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Time", "Description"],
       "rows": [
         ["Morning", ""],
@@ -651,7 +649,7 @@
       "text": "Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Aspect", "Details"],
       "rows": [
         ["Season", ""],
@@ -669,7 +667,7 @@
       "text": "When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Season", "What's Possible", "What's Impossible"],
       "rows": [
         ["Summer/warm season", "", ""],
@@ -707,12 +705,11 @@
       "text": "Every world has places people warn you not to go. What makes them deadly? What would force your characters there anyway?"
     },
     {
-      "type": "input_table",
+      "type": "open_table",
       "headers": ["Region", "What Makes It Dangerous", "Who Goes There Anyway (and Why)"],
       "example_rows": [
         ["The Blighted Wastes", "Corrupted magic, monsters, no water for miles, disorienting mists", "Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary"]
-      ],
-      "extra_rows": 0
+      ]
     },
     {
       "type": "heading4",
@@ -723,7 +720,7 @@
       "text": "Shared danger bonds people fast. What threats would force them to rely on each other?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Aspect", "Details"],
       "rows": [
         ["Where and why", ""],
@@ -773,7 +770,7 @@
       "text": "Borders create \"us\" and \"them.\" What assumptions would each character have about someone from the other side?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Aspect", "Details"],
       "rows": [
         ["What separates them", ""],
@@ -836,7 +833,7 @@
       "text": "Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Character", "Where They Feel Alien"],
       "rows": [
         ["Protagonist", ""],
@@ -860,7 +857,7 @@
       "text": "Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Aspect", "Details"],
       "rows": [
         ["Who visits whose world", ""]
@@ -961,7 +958,7 @@
       "text": "Distance creates stakes. A week apart feels different than a year. How painful is separation in your world?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Route", "Travel Time"],
       "rows": [
         ["From capital to border", ""],
@@ -979,7 +976,7 @@
       "text": "The road is where walls come down. What would a long journey together reveal about each of them?"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Aspect", "Details"],
       "rows": [
         ["From where to where", ""],
@@ -1004,12 +1001,11 @@
       "text": "Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:"
     },
     {
-      "type": "input_table",
+      "type": "open_table",
       "headers": ["Location", "Type", "Why People Go", "Why Leaving Is Difficult"],
       "example_rows": [
         ["Stormhold Keep", "Remote mountain fortress", "Political prisoners sent there; protagonist exiled after scandal", "Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure"]
-      ],
-      "extra_rows": 0
+      ]
     },
     {
       "type": "divider"
@@ -1052,7 +1048,7 @@
       "text": "Integration Check"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Question", "Your Answer"],
       "rows": [
         ["How does geography explain cultural differences? (Reference: Section 3)", ""],
@@ -1070,7 +1066,7 @@
       "text": "Quick Reference: Geographic Stakes"
     },
     {
-      "type": "input_table",
+      "type": "structured_table",
       "headers": ["Element", "Your World"],
       "example_rows": [
         ["Key location 1", "The Winter Court — where protagonist is hostage and love interest is prince"]
