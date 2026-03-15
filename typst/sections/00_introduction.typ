@@ -166,8 +166,9 @@ And remember: worldbuilding exists to serve the story. A beautifully detailed wo
 Build what you need. Skip what you don't. Make a world worth falling in love in.
 
 
-== The Sections
+#block(breakable: false, below: 0pt)[
 
+== The Sections
 
 #workbook-table(
   headers: ("Section", "Topic", "What It Covers"),
@@ -183,6 +184,8 @@ Build what you need. Skip what you don't. Make a world worth falling in love in.
     ([8], [Magic System], [How magic works, magical bonds, power dynamics]),
   ),
 )
+
+]
 
 
 #strong[Additional Sections] (9–21) cover specialized topics: technology, time & calendar, language, magic conflicts, pressure cooker settings, institutions, and more.

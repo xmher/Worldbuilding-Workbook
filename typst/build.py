@@ -196,7 +196,7 @@ def _format_cell(cell: str) -> str:
     return f"[{escaped}]"
 
 
-def gen_data_table(item: dict, preamble: str = "") -> str:
+def gen_data_table(item: dict) -> str:
     headers = item.get("headers", [])
     rows = item.get("rows", [])
     col_widths = item.get("col_widths")
@@ -211,13 +211,9 @@ def gen_data_table(item: dict, preamble: str = "") -> str:
     if col_widths:
         col_widths_arg = f"\n  col-widths: ({', '.join(col_widths)}),"
 
-    preamble_arg = ""
-    if preamble:
-        preamble_arg = f"\n  preamble: [{preamble}],"
-
     return f'''
 #workbook-table(
-  headers: ({header_args}),{col_widths_arg}{preamble_arg}
+  headers: ({header_args}),{col_widths_arg}
   rows: (
 {chr(10).join(row_lines)}
   ),
@@ -423,42 +419,35 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                     parts.append(gen_open_table(table_item, preamble=preamble_text))
                 consumed.add(j)
             elif next_type == "group":
-                # heading2 preamble + group: pass combined preamble into first table
+                # heading2 + group: estimate combined height
                 group_item = content[j]
                 children = group_item.get("content", [])
-                group_preamble_types = {"heading3", "heading4", "hint", "prose"}
-                group_table_types = {"data_table", "structured_table", "open_table"}
-                group_preamble = list(preamble_parts)
-                gi = 0
-                while gi < len(children) and children[gi].get("type", "") in group_preamble_types:
-                    child_gen = GENERATORS.get(children[gi]["type"])
+                all_group_parts = list(preamble_parts)
+                estimated_height = 80  # heading2 preamble
+                for child in children:
+                    child_type = child.get("type", "")
+                    child_gen = GENERATORS.get(child_type)
                     if child_gen:
-                        group_preamble.append(child_gen(children[gi]))
-                    gi += 1
-                if gi < len(children) and children[gi].get("type", "") in group_table_types:
-                    combined_preamble = "".join(group_preamble)
-                    tc = children[gi]
-                    tt = tc["type"]
-                    if tt == "data_table":
-                        parts.append(gen_data_table(tc, preamble=combined_preamble))
-                    elif tt == "structured_table":
-                        parts.append(gen_structured_table(tc, preamble=combined_preamble))
-                    elif tt == "open_table":
-                        parts.append(gen_open_table(tc, preamble=combined_preamble))
-                    gi += 1
-                    while gi < len(children):
-                        child_gen = GENERATORS.get(children[gi].get("type", ""))
-                        if child_gen:
-                            parts.append(child_gen(children[gi]))
-                        gi += 1
+                        all_group_parts.append(child_gen(child))
+                    if child_type in ("heading3", "heading4"):
+                        estimated_height += 50
+                    elif child_type == "hint":
+                        estimated_height += 30
+                    elif child_type == "data_table":
+                        estimated_height += 44 + len(child.get("rows", [])) * 36
+                    elif child_type in ("structured_table", "open_table"):
+                        row_h = int(child.get("row_height", "55").replace("pt", ""))
+                        n_rows = len(child.get("rows", [])) + len(child.get("example_rows", []))
+                        estimated_height += 44 + n_rows * (row_h + 24)
+
+                if estimated_height < 620:
+                    parts.append(
+                        f"\n#block(breakable: false, below: 0pt)["
+                        f"\n{''.join(all_group_parts)}\n]\n"
+                    )
                 else:
-                    for p in group_preamble:
+                    for p in all_group_parts:
                         parts.append(p)
-                    while gi < len(children):
-                        child_gen = GENERATORS.get(children[gi].get("type", ""))
-                        if child_gen:
-                            parts.append(child_gen(children[gi]))
-                        gi += 1
                 consumed.add(j)
             elif next_type == "writing_box":
                 # Group heading2 preamble + writing_box together
@@ -516,53 +505,38 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                     parts.append(p)
             continue
 
-        # Group: collect heading/hint as preamble for tables so they stay together
+        # Group: estimate height. If it fits on one page, wrap in non-breakable
+        # block so the heading+table stay together. Otherwise render normally.
         if item_type == "group":
             children = item.get("content", [])
-            preamble_types = {"heading3", "heading4", "hint", "prose"}
-            table_types = {"data_table", "structured_table", "open_table"}
-            preamble_parts = []
-            i = 0
-            # Collect leading preamble items
-            while i < len(children) and children[i].get("type", "") in preamble_types:
-                child = children[i]
-                child_gen = GENERATORS.get(child["type"])
+            all_child_parts = []
+            estimated_height = 0
+            for child in children:
+                child_type = child.get("type", "")
+                child_gen = GENERATORS.get(child_type)
                 if child_gen:
-                    preamble_parts.append(child_gen(child))
-                i += 1
-            # If next child is a table, pass preamble into it
-            if i < len(children) and children[i].get("type", "") in table_types:
-                preamble_text = "".join(preamble_parts)
-                table_child = children[i]
-                table_type = table_child["type"]
-                if table_type == "data_table":
-                    parts.append(gen_data_table(table_child, preamble=preamble_text))
-                elif table_type == "structured_table":
-                    parts.append(gen_structured_table(table_child, preamble=preamble_text))
-                elif table_type == "open_table":
-                    parts.append(gen_open_table(table_child, preamble=preamble_text))
-                i += 1
-                # Render any remaining children normally
-                while i < len(children):
-                    child = children[i]
-                    child_gen = GENERATORS.get(child.get("type", ""))
-                    if child_gen:
-                        parts.append(child_gen(child))
-                    i += 1
+                    all_child_parts.append(child_gen(child))
+                # Rough height estimates (in pt)
+                if child_type in ("heading3", "heading4"):
+                    estimated_height += 50
+                elif child_type == "hint":
+                    estimated_height += 30
+                elif child_type == "data_table":
+                    estimated_height += 44 + len(child.get("rows", [])) * 36
+                elif child_type in ("structured_table", "open_table"):
+                    row_h = int(child.get("row_height", "55").replace("pt", ""))
+                    n_rows = len(child.get("rows", [])) + len(child.get("example_rows", []))
+                    estimated_height += 44 + n_rows * (row_h + 24)
+
+            if estimated_height < 620:
+                parts.append(
+                    f"\n#block(breakable: false, below: 0pt)["
+                    f"\n{''.join(all_child_parts)}\n]\n"
+                )
             else:
-                # No table follows — render everything normally
-                for p in preamble_parts:
+                # Too tall — render normally, Typst headings prevent orphaning
+                for p in all_child_parts:
                     parts.append(p)
-                while i < len(children):
-                    child = children[i]
-                    child_gen = GENERATORS.get(child.get("type", ""))
-                    if child_gen:
-                        parts.append(child_gen(child))
-                    else:
-                        parts.append(
-                            f"\n// WARNING: unknown type \"{child.get('type', '')}\"\n"
-                        )
-                    i += 1
             continue
 
         gen = GENERATORS.get(item_type)
