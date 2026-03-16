@@ -525,14 +525,29 @@
               "Barnsley"
             ],
             [
+              "-dale / -vale",
+              "valley",
+              "Airedale"
+            ],
+            [
               "-burgh / -bury",
               "fortified place",
               "Edinburgh"
             ],
             [
+              "-port",
+              "harbor, market town",
+              "Southport"
+            ],
+            [
               "-moor / -mere",
               "marshland, lake",
               "Windermere"
+            ],
+            [
+              "-fell / -mount",
+              "hill, mountain",
+              "Scafell"
             ],
             [
               "-holme / -holm",
@@ -629,14 +644,29 @@
               "Gothenburg"
             ],
             [
+              "-dal / -dalen",
+              "valley",
+              "Gudvangen"
+            ],
+            [
               "-ness / -nes",
               "headland, promontory",
               "Skagen"
             ],
             [
+              "-stad / -sted",
+              "place, site",
+              "Halstead"
+            ],
+            [
               "-land",
               "land, territory",
               "Iceland, Gotland"
+            ],
+            [
+              "-thwaite",
+              "clearing, meadow",
+              "Braithwaite"
             ]
           ]
         }
