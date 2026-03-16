@@ -15,7 +15,7 @@
 #let color-danger    = rgb("#9f1239")   // deep red
 #let color-text-main = rgb("#121212")
 #let color-text-sub  = rgb("#444444")
-#let color-text-muted = rgb("#888888")
+#let color-text-muted = rgb("#5a5a5a")
 
 // --- Font Stacks ---
 #let font-display = "Libre Baskerville"
@@ -149,7 +149,7 @@
   show heading.where(level: 4): it => {
     set text(
       font: font-accent,
-      size: 1.1em,
+      size: 1.2em,
       weight: "semibold",
       style: "italic",
       fill: color-text-sub,
@@ -306,7 +306,7 @@
   block(below: 1.5em)[
     #text(
       font: font-accent,
-      size: 1.15em,
+      size: 1.2em,
       style: "italic",
       fill: color-text-sub,
     )[#body]
@@ -316,12 +316,12 @@
 
 // --- Hint Text (muted guidance) ---
 #let hint(body) = {
-  block(above: 0.2em, below: 1em)[
+  block(above: 0.75em, below: 1em)[
     #text(
       font: font-accent,
       style: "italic",
       fill: color-text-muted,
-      size: 0.95em,
+      size: 1.05em,
     )[#body]
   ]
 }
