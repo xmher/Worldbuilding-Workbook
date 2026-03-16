@@ -117,12 +117,161 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
+The key is that #emph[leaving must be impossible, dangerous, or carry unacceptable consequences]. When characters can't escape each other, they're forced to confront conflict instead of avoiding it, rely on each other despite distrust, and share space long enough for attraction to build beneath their defenses.
+
+
+Think about what makes the container seal tight:
+
+
+- #strong[Physical trapping:] Islands, academies, sieges, ships, remote estates — locations with literal boundaries characters cannot cross
+- #strong[Circumstantial trapping:] Dangerous wilderness requiring partnership, diplomatic missions, shared exile — situations where separating means failure or death
+- #strong[Environmental trapping:] Storms, seasons, magical barriers that prevent departure — external forces that make leaving impossible regardless of desire
+- #strong[Social/political trapping:] Arranged marriages, hostage situations, court obligations — circumstances where leaving would destroy reputation, alliance, or lives
+
+
+The pressure cooker works because proximity breeds intimacy. Characters see each other at their worst. They can't maintain facades. Small moments accumulate — shared meals, overheard conversations, accidental touches in tight quarters. The setting does half the work of bringing them together.
+
+
+#hint[#strong[The Key Question:] If your characters could simply walk away from each other, would they? If yes, your geography might need to make walking away impossible, dangerous, or costly.]
+
+
+#divider()
+
+
+== Common Geographic Patterns in Romantasy
+
+
+=== Settings That Force Proximity
+
+
+#workbook-table(
+  headers: ("Setting Type", "Why It Works", "Examples"),
+  rows: (
+    ([#strong[The Academy/Training Ground]], [Characters live, train, and compete in close quarters with no escape], [#emph[Fourth Wing], #emph[Zodiac Academy]]),
+    ([#strong[The Isolated Estate]], [Limited cast, limited space, limited options for avoidance], [Gothic romances, #emph[Pride and Prejudice] variations]),
+    ([#strong[The Ship/Caravan]], [Moving container with enforced proximity and shared danger], [Pirate romance, trade caravan stories]),
+    ([#strong[The Siege/War Camp]], [External threat forces cooperation; death is the alternative], [Military romantasy]),
+    ([#strong[The Prison/Captivity]], [Hostage and captor, shared cell, or trapped in enemy territory together], [Captive romance, enemies-to-lovers]),
+    ([#strong[The Dangerous Quest]], [Mission requires partnership; separating means failure or death], [Quest narratives, escort missions]),
+    ([#strong[The Snowed-In/Stranded]], [Weather or disaster traps characters until conditions change], [Cabin romance, "only one bed"]),
+    ([#strong[The Royal Court]], [Political obligations, arranged proximity, can't leave without scandal], [Court intrigue, political marriage]),
+  ),
+)
+
+
+=== Geographic Barriers That Create Stakes
+
+
+#workbook-table(
+  headers: ("Barrier Type", "Romantic Function", "Story Possibilities"),
+  rows: (
+    ([#strong[Mountain ranges]], [Separate nations/cultures; make travel seasonal], [Characters from opposite sides; winter trapping]),
+    ([#strong[Oceans]], [Create complete separation; make departure permanent], [Letters across distance; the weight of leaving]),
+    ([#strong[Deserts]], [Isolate cultures; make resources precious], [Oasis politics; survival journeys]),
+    ([#strong[Magical borders]], [Can be crossed only by certain people or under certain conditions], [One character can cross, one cannot]),
+    ([#strong[War zones]], [Make travel deadly; create no-man's-land between peoples], [Enemies from opposing sides]),
+    ([#strong[Political borders]], [Crossing means treason or exile], [Forbidden love across enemy lines]),
+    ([#strong[Cursed/Blighted lands]], [Regions too dangerous to cross; require special protection], [Must find another way; one character immune, one isn't]),
+    ([#strong[Class geography]], [Slums vs. palace district; social ruin to cross], [Wrong-side-of-tracks romance; secret meetings in between spaces]),
+  ),
+)
+
+
+=== Environmental Conditions That Affect Romance
+
+
+#workbook-table(
+  headers: ("Condition", "How It Creates Pressure", "Romantic Beats It Enables"),
+  rows: (
+    ([#strong[Harsh winters]], [Traps characters indoors; requires shared warmth], [Forced proximity; "snowed in" scenarios]),
+    ([#strong[Dangerous nights]], [Characters must shelter together after dark], [Shared watch; protective sleeping arrangements]),
+    ([#strong[Seasonal access]], [Passes close, ships can't sail, travel becomes impossible], [Racing against time; trapped until spring]),
+    ([#strong[Resource scarcity]], [Sharing becomes necessary; generosity becomes meaningful], [Sharing food/water; sacrifice for the other]),
+    ([#strong[Extreme heat]], [Travel only possible at night; requires shade-sharing, water rationing], [Night travel intimacy; sharing precious water; heat exhaustion care]),
+    ([#strong[Hostile territory after dark]], [Monsters or predators hunt at night; must camp together for safety], [One bed/bedroll situations; taking turns on watch; protective instincts]),
+    ([#strong[Corrupted/poisoned land]], [Regions that drain magic or health; must move quickly or rely on healer], [Dependency on one character's abilities; racing against deterioration]),
+  ),
+)
+
+
+== Common Mistakes with Geographic Worldbuilding
+
+
+#mistake-box(
+  title: "Mistake #1: The Teleporting World",
+  fix: [Establish travel times and stick to them. The journey itself can be where the romance happens.],
+)[
+  Characters travel vast distances with no sense of time passing. A journey that should take weeks happens between chapters with no mention of how they traveled or what dangers they faced. Distance has no weight. Separation has no stakes. Reunion carries no emotional punch.
+]
+
+
+#mistake-box(
+  title: "Mistake #2: The Convenient Geography",
+  fix: [Establish your geography early and let it constrain you. Let the physical world create problems you didn't plan for — those problems often generate the best scenes.],
+)[
+  Geographic features appear or disappear based on plot needs. A mountain range exists when you need to separate characters but vanishes when they need to reunite. Readers notice. Stakes that feel fake are stakes that don't matter.
+]
+
+
+#mistake-box(
+  title: "Mistake #3: The Empty Map",
+  fix: [For every major geographic feature, ask: #emph[How does this shape the people who live here?] Let geography explain cultural difference.],
+)[
+  You have a map with named places, but none feel lived-in. The geography exists but doesn't affect anything. Geography should create culture, which creates characters, which creates conflict. If your geography doesn't explain why people are the way they are, your world is just a painted backdrop.
+]
+
+
+#mistake-box(
+  title: "Mistake #4: The Consequence-Free Environment",
+  fix: [Let the environment actually hurt people. Show consequences — exhaustion, injury, loss. Make survival meaningful.],
+)[
+  Your world has dangerous regions and deadly terrain — but no one suffers consequences from them. Characters trek through the Deadly Wastes and emerge fine. If danger is all threat and no delivery, readers stop believing in it. And if readers don't believe the world is dangerous, they don't believe your characters need each other to survive it.
+]
+
+
+#mistake-box(
+  title: "Mistake #5: Geography Without Emotional Resonance",
+  fix: [Give each major location an emotional quality, and let characters experience it differently. The same castle might feel like prison to one character and sanctuary to another.],
+)[
+  You describe the setting in detail, but it's all physical — mountains are tall, forests are dense, cities are crowded. None of it connects to how your characters feel. Setting should be emotional landscape. The place where they first met should feel different than other places. The character's homeland should feel like #emph[home].
+]
+
+
+== Reference: Place Name Patterns
+
+
+Good place names make your world feel real. You don't need to invent a whole language — just notice how real places get their names.
+
+
+Most names come from geography (Blackwood, Riverside), historical figures (Washington), or descriptions in old languages (Oxford means "ford where oxen cross"). Borrow the patterns, not the exact words.
+
+
+=== How to Research Naming Conventions
+
+
+Want to create place names that evoke a particular culture or aesthetic? Here's how to find patterns yourself:
+
+
+#strong[Quick Research Methods]
+
+
+- #strong[Search "[language] place name meanings"] — e.g., "Old Norse place name meanings" or "Welsh place name elements"
+- #strong[Search "[language] words for [terrain]"] — e.g., "Japanese words for mountain" or "Gaelic words for river"
+- #strong[Look up real places] — Search "etymology of [real place name]" to see how actual names were constructed
+- #strong[Wikipedia's toponymy pages] — Search "[language] toponymy" for organized lists of place name elements
+- #strong[Behind the Name] — The website behindthename.com has a place names section with etymologies
+
+
+For deeper language work, see #emph[Section 11: Language & Communication].
+
+
+// WARNING: unknown type "body"
+
+
 #pagebreak(weak: true)
 
 
 #block(breakable: false)[
-
-== Reference: Place Name Patterns
 
 === Common English Place Name Patterns
 
@@ -251,6 +400,22 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
+== Reference: Travel Times (Fantasy Approximations)
+
+
+#workbook-table(
+  headers: ("Mode of Travel", "Distance per Day", "Notes"),
+  rows: (
+    ([Walking (easy terrain)], [15-20 miles], [Healthy adult, good weather]),
+    ([Walking (difficult terrain)], [8-12 miles], [Mountains, forest, desert]),
+    ([Horseback (sustainable)], [25-35 miles], [Without exhausting the horse]),
+    ([Horseback (hard riding)], [50-60 miles], [Cannot maintain long-term]),
+    ([Ship (sailing)], [100-150 miles], [Dependent on wind and current]),
+    ([Carriage/wagon], [20-30 miles], [Roads required; slower on rough terrain]),
+  ),
+)
+
+
 #open-table(
   headers: ("Prefix/Suffix", "Meaning", "Example in Your World"),
   example-rows: (
@@ -267,6 +432,8 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 
 #block(breakable: false)[
+
+== Part One — The Foundation
 
 == The Big Picture: Your World's Scale
 
@@ -304,6 +471,18 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
+== Kingdoms & Nations Overview
+
+
+Got multiple kingdoms or nations in your world? This table helps you keep track of them.
+
+
+You don't need to fill in every field. Just jot down what you know right now. Perhaps you only know the name and climate — that's fine. You can always come back later as your story takes shape.
+
+
+#hint[This is reference material. Fill in what you know now; come back as your world develops.]
+
+
 #structured-table(
   headers: ("Aspect", "Kingdom/Nation 1", "Kingdom/Nation 2"),
   example-rows: (
@@ -325,12 +504,19 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Role in your story], [], []),
   ),
   row-height: 55pt,
-  preamble: [
-== Kingdoms & Nations Overview
-
-#hint[This is reference material. Fill in what you know now; come back as your world develops.]
-],
 )
+
+
+== Terrain Types
+
+
+Not every terrain needs equal development. Consider what exists in your world — #emph[mountains, forests, deserts, plains, wetlands, coastlines, islands, rivers, tundra, magical or unusual terrain] — then focus on the 2-3 that actually matter for your story: the ones your characters traverse, fight over, or call home.
+
+
+#hint[Only fill in terrains that matter. If your characters never see a desert, skip it.]
+
+
+==== What terrains shape your story?
 
 
 #open-table(
@@ -340,19 +526,22 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
   row-height: 55pt,
   fill-strategy: "wider_rows",
-  preamble: [
-== Terrain Types
-
-#hint[Only fill in terrains that matter. If your characters never see a desert, skip it.]
-
-==== What terrains shape your story?
-],
 )
 
 
-#block(breakable: false)[
-
 == Resources & Territorial Control
+
+
+Geography determines who has what — and therefore, who has power. Fertile land, fresh water, mineral deposits, trade routes: these are worth fighting over, worth marrying for, worth dying for.
+
+
+In romantasy, resource control can create power imbalances that drive conflict between our two (or more) love interests. Resource control is a believable tactic to explain arranged marriages, political alliances, or economic pressures that force characters to make impossible choices.
+
+
+#hint[#strong[How to write it:] Don't explain resource conflict through exposition — show it through what characters can and can't do. A character from a water-scarce region might flinch at seeing someone leave a bath running. Someone from contested territory notices strategic value in landscape others see as beautiful. Let resource awareness emerge through small reactions, casual comments about price or scarcity, and the background hum of what everyone in this world worries about. When two characters come from opposite sides of a resource conflict, show the tension through what they assume about each other, what they're careful not to say, and the moments when privilege becomes visible.]
+
+
+#block(breakable: false)[
 
 === Reference: Natural Resource Ideas
 
@@ -434,6 +623,24 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
+== The Sensory World
+
+
+Geography isn't just about what's there — it's about what it feels like to be there. The sensory details of your setting create the emotional texture of scenes. A first kiss hits differently in a garden heavy with night-blooming jasmine than in a stone corridor that smells of torch smoke.
+
+
+#hint[#strong[How to write it:] Filter sensory details through your POV character's emotional state. A character falling in love notices the warmth of sunlight, the sweet smell of blossoms, the softness of grass. The same garden, to a grieving character, might feel too bright, the flowers cloying, the birdsong intrusive. You don't need to describe everything — pick 2-3 sensory details per scene that reinforce the mood you're creating.]
+
+
+Avoid the "weather report" opening (starting scenes with neutral descriptions of setting). Instead, integrate sensory details into action and emotion: not "The room was cold" but "She pulled her cloak tighter, breath misting in the unheated chamber." The character's interaction with the environment reveals both setting and feeling simultaneously.
+
+
+==== What does your primary setting look, sound, smell, and feel like?
+
+
+#hint[Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?]
+
+
 #structured-table(
   headers: ("Sense", "Description"),
   example-rows: (
@@ -446,13 +653,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([What the air feels like (temperature, humidity, wind)], []),
   ),
   row-height: 55pt,
-  preamble: [
-== The Sensory World
-
-==== What does your primary setting look, sound, smell, and feel like?
-
-#hint[Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?]
-],
 )
 
 
@@ -507,6 +707,10 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #block(breakable: false)[
 
 == Climate, Weather & Seasons
+
+Weather creates immediate physical conditions that affect what's possible — travel, agriculture, warfare, daily life. Seasons can function as deadlines (they must marry before winter closes the pass), as waiting periods (trapped together until spring thaw), or as markers of time passing in a slow-burn romance.
+
+#hint[#strong[How to write it:] Use seasonal markers to show time passing without stating it directly — the first frost, the smell of rain after months of drought, the angle of afternoon light. Weather works best when it creates immediate physical problems: wet clothing that must be removed, cold that requires shared warmth, heat that makes tempers short. Don't just describe weather — show characters adapting to it, complaining about it, making decisions around it. A change in season can mirror emotional shifts: a relationship that thaws as winter ends, tension that builds with summer heat, a reckoning that arrives with autumn.]
 
 ==== What's the overall climate?
 
@@ -586,6 +790,18 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 ]
 
 
+== Dangerous Regions
+
+
+Every world has places that are deadly — and therefore avoided, or crossed only with preparation and company. Dangerous regions serve romance by raising stakes and forcing partnership.
+
+
+==== What regions are dangerous or forbidden?
+
+
+#hint[Every world has places people warn you not to go. What makes them deadly? What would force your characters there anyway?]
+
+
 #open-table(
   headers: ("Region", "What Makes It Dangerous", "Who Goes There Anyway (and Why)"),
   example-rows: (
@@ -593,13 +809,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
   row-height: 55pt,
   fill-strategy: "wider_rows",
-  preamble: [
-== Dangerous Regions
-
-==== What regions are dangerous or forbidden?
-
-#hint[Every world has places people warn you not to go. What makes them deadly? What would force your characters there anyway?]
-],
 )
 
 
@@ -671,7 +880,13 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 
 #block(breakable: false)[
 
+== Part Two — Geography & Romance
+
 == Home & Belonging
+
+Geography isn't just physical — it's emotional. Home is one of the most emotionally charged concepts in romance. Characters may leave home to find love, may be torn between love and home, may find that home becomes wherever the other person is — or may discover that choosing this person means exile from everything familiar.
+
+#hint[#strong[How to write it:] Show home through specific, sensory details rather than telling readers a place matters. What does your character reach for when they're homesick? What smell instantly transports them back? When writing scenes set in a character's home territory, let them move through space with ease and familiarity — they know which floorboard creaks, which window sticks. Contrast this with how they move through unfamiliar spaces: hesitant, observant, slightly off-balance. The tension between "where I belong" and "where love is taking me" creates some of romance's most powerful emotional beats.]
 
 ==== Where does your protagonist feel at home?
 
@@ -731,6 +946,21 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
+== Entering Each Other's Worlds
+
+
+If your characters come from different places, visiting each other's territory is significant. There's a particular vulnerability in bringing someone into your home territory. You see your world through their eyes, noticing things you'd stopped seeing — both the beauty and the flaws.
+
+
+#hint[#strong[How to write it:] When a character enters their love interest's world, filter every observation through their outsider perspective. What confuses them? What impresses them? What makes them uncomfortable? Use their reactions to reveal both the world and the character. The "native" character, meanwhile, experiences a different kind of vulnerability — suddenly aware of poverty they'd normalized, privilege they'd taken for granted, or customs that seem strange when explained aloud. Write the small moments: the love interest automatically reaching to help with something the visitor doesn't know how to do, the visitor mispronouncing a word everyone here knows, the native defending their home against a criticism they privately agree with. These fish-out-of-water scenes build intimacy because they require explanation, patience, and the trust to look foolish in front of someone.]
+
+
+==== Does one character visit the other's home territory?
+
+
+#hint[Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?]
+
+
 #structured-table(
   headers: ("Aspect", "Details"),
   example-rows: (
@@ -740,13 +970,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
     ([Who visits whose world], []),
   ),
   row-height: 75pt,
-  preamble: [
-== Entering Each Other's Worlds
-
-==== Does one character visit the other's home territory?
-
-#hint[Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?]
-],
 )
 
 
@@ -795,6 +1018,10 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 #block(breakable: false)[
 
 == Travel & Distance
+
+Distance creates stakes. If characters can teleport anywhere, separation has no weight. If journeys take weeks, every departure matters.
+
+#hint[#strong[How to write it:] The journey is not filler between plot points — it's where relationships transform. Travel strips away social roles and forces characters into shared vulnerability: sleeping near each other, seeing each other tired and irritable, depending on each other for survival or navigation. Use the physical demands of travel to create intimacy: one character tending another's blisters, sharing body heat in cold camps, the enforced proximity of a small boat or narrow trail. Write the rhythm of travel — the silence that becomes comfortable, the conversations that only happen when there's nothing else to do, the way danger bonds people faster than safety ever could. When writing separation across distance, make the weight felt through what characters can't do: letters that arrive too late, news that travels slowly, the agony of not knowing. A reunion after real distance hits harder than one after a brief absence.]
 
 ==== How do people typically travel?
 
@@ -868,6 +1095,21 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
+== Isolated Locations
+
+
+Isolation is romance's secret weapon. When characters cannot leave, they cannot avoid each other — and avoidance is the enemy of romantic development. Isolated settings force confrontation, require cooperation, and create the pressure that transforms reluctant attraction into something undeniable.
+
+
+#hint[#strong[How to write it:] Establish early why leaving isn't an option, and make that reason feel real and insurmountable. Then use the confined space intentionally: the only warm room where everyone gathers, the narrow hallways where characters keep brushing past each other, the shared resources that require negotiation. Write the claustrophobia alongside the intimacy — isolation can feel oppressive, and characters might resent their forced proximity even as attraction builds. The best isolated-setting romances use the location's specific constraints: a ship means someone must keep watch, an academy means competitive dynamics, a snowed-in estate means dwindling supplies. Let the setting generate plot. And remember: when characters finally could leave but choose to stay, that choice becomes a declaration.]
+
+
+==== What isolated locations exist?
+
+
+#hint[Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:]
+
+
 #open-table(
   headers: ("Location", "Type", "Why People Go", "Why Leaving Is Difficult"),
   example-rows: (
@@ -875,19 +1117,16 @@ Geography that doesn't create friction isn't wasted — it's just setting.
   ),
   row-height: 55pt,
   fill-strategy: "wider_rows",
-  preamble: [
-== Isolated Locations
-
-==== What isolated locations exist?
-
-#hint[Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:]
-],
 )
 
 
 #block(breakable: false)[
 
 == Geography as Emotional Landscape
+
+The physical world can resonate with or contrast against the emotional journey. A love scene in a sunlit meadow feels different than one in a crumbling tower. A confession during a storm carries different weight than one in stillness.
+
+#hint[#strong[How to write it:] Match or intentionally contrast your setting with emotional beats. A first kiss in a dangerous place carries urgency; the same kiss in a peaceful garden suggests safety and choice. Use pathetic fallacy sparingly but effectively — a storm during a confrontation, sunlight breaking through as characters reconcile. More subtly, let characters notice their environment differently based on emotional state: a character in love sees beauty everywhere; a heartbroken character finds the same landscape bleak. Create "their place" — a location that becomes sacred to the relationship, whether it's where they first met, first kissed, or survived something together. When characters return to meaningful locations, the resonance should be felt without being over-explained. A single line — "She hadn't been back to the bridge since that night" — can carry enormous weight if you've built the association.]
 
 ==== What's the emotional quality of your primary setting?
 
@@ -957,9 +1196,34 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 
+== Map Making (Optional)
+
+
+You don't need a map. Plenty of great fantasy stories were written without one.
+
+
+That said, maps can help you keep travel times consistent and visualize where things are in relation to each other. If you decide to make one, let your story's needs guide you.
+
+
+For example: How far is the border your characters are fleeing toward? Is the palace defensible? Where might lovers meet in secret? Build your geography around the situations your plot requires.
+
+
+==== Map-Making Tools
+
+
+#hint[Free options unless noted. Search these names online for current links.]
+
+
+- #strong[Inkarnate] — Popular fantasy map maker (free tier available)
+- #strong[Azgaar's Fantasy Map Generator] — Procedural generation with editing
+- #strong[Wonderdraft] — One-time purchase, professional quality
+- #strong[Donjon] — Random generators for maps and dungeons
+- #strong[World Anvil] — Worldbuilding wiki with map tools (subscription)
+
+
 #block(breakable: false)[
 
-== Map Making: What to Include on Your Map
+==== What to Include on Your Map
 
 #hint[Consider which of these appear in your world. You don't need all of them.]
 
@@ -978,3 +1242,6 @@ Geography that doesn't create friction isn't wasted — it's just setting.
 )
 
 ]
+
+
+#hint[#strong[Final Thought:] Your map isn't just where things are — it's why characters must make the choices they make. The mountain range is why two nations distrust each other. The desert is why whoever controls the oasis controls the trade route. Build geography that explains your world and creates the situations your story needs.]

@@ -316,7 +316,7 @@
 
 // --- Hint Text (muted guidance) ---
 #let hint(body) = {
-  block(above: -0.3em, below: 1em)[
+  block(above: 0.2em, below: 1em)[
     #text(
       font: font-accent,
       style: "italic",
