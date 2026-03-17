@@ -38,8 +38,23 @@ def escape_typst(text: str) -> str:
 
     # Escape characters that are special in Typst markup
     # but NOT # since we use it for Typst commands above
-    for char in ['$', '\\']:
+    for char in ['$', '\\', '_', '@']:
         text = text.replace(char, '\\' + char)
+
+    # Escape # that aren't Typst function calls (#strong, #emph, etc.)
+    # A lone # at start of text or after space needs escaping
+    text = re.sub(r'(?<![a-zA-Z])#(?!(strong|emph|text|link)\[)', r'\#', text)
+
+    # Escape stray * that weren't part of bold/italic pairs
+    # Count remaining * — if odd, there's an unmatched one
+    # Simple approach: escape * at start or end of text if unmatched
+    star_count = text.count('*')
+    if star_count % 2 == 1:
+        # Escape the last * if it's at the end
+        if text.endswith('*'):
+            text = text[:-1] + '\\*'
+        elif text.startswith('*'):
+            text = '\\*' + text[1:]
 
     return text
 
@@ -82,7 +97,9 @@ def gen_section_title_page(section_number, title, intro) -> str:
 
 def gen_heading(level: int, text: str) -> str:
     prefix = "=" * level
-    return f"\n{prefix} {text}\n"
+    # Escape underscores and other Typst-special chars in heading text
+    escaped = escape_typst(text)
+    return f"\n{prefix} {escaped}\n"
 
 
 def gen_prose(text: str) -> str:
@@ -196,16 +213,26 @@ def _format_cell(cell: str) -> str:
     return f"[{escaped}]"
 
 
+def _format_row(row: list) -> str:
+    """Format a table row as a Typst tuple, handling single-element rows."""
+    cells = ", ".join(_format_cell(c) for c in row)
+    # Single-element tuple needs trailing comma in Typst
+    if len(row) == 1:
+        return f"    ({cells},),"
+    return f"    ({cells}),"
+
+
 def gen_data_table(item: dict) -> str:
     headers = item.get("headers", [])
     rows = item.get("rows", [])
     col_widths = item.get("col_widths")
 
     header_args = ", ".join(f'"{escape_typst_string(h)}"' for h in headers)
+    if len(headers) == 1:
+        header_args += ","
     row_lines = []
     for row in rows:
-        cells = ", ".join(_format_cell(c) for c in row)
-        row_lines.append(f"    ({cells}),")
+        row_lines.append(_format_row(row))
 
     col_widths_arg = ""
     if col_widths:
@@ -229,16 +256,16 @@ def gen_structured_table(item: dict, preamble: str = "") -> str:
     row_height = item.get("row_height", "55pt")
 
     header_args = ", ".join(f'"{escape_typst_string(h)}"' for h in headers)
+    if len(headers) == 1:
+        header_args += ","
 
     ex_lines = []
     for row in example_rows:
-        cells = ", ".join(_format_cell(c) for c in row)
-        ex_lines.append(f"    ({cells}),")
+        ex_lines.append(_format_row(row))
 
     row_lines = []
     for row in rows:
-        cells = ", ".join(_format_cell(c) for c in row)
-        row_lines.append(f"    ({cells}),")
+        row_lines.append(_format_row(row))
 
     preamble_arg = f"\n  preamble: [{preamble}]," if preamble else ""
 
@@ -265,16 +292,16 @@ def gen_open_table(item: dict, preamble: str = "") -> str:
     extra_rows = item.get("extra_rows", 0)
 
     header_args = ", ".join(f'"{escape_typst_string(h)}"' for h in headers)
+    if len(headers) == 1:
+        header_args += ","
 
     ex_lines = []
     for row in example_rows:
-        cells = ", ".join(_format_cell(c) for c in row)
-        ex_lines.append(f"    ({cells}),")
+        ex_lines.append(_format_row(row))
 
     row_lines = []
     for row in rows:
-        cells = ", ".join(_format_cell(c) for c in row)
-        row_lines.append(f"    ({cells}),")
+        row_lines.append(_format_row(row))
 
     extra_arg = f"\n  extra-rows: {extra_rows}," if extra_rows > 0 else ""
     rows_arg = f"\n  rows: (\n{chr(10).join(row_lines)}\n  )," if rows else ""
