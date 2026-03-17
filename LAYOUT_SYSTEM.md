@@ -1,7 +1,25 @@
 # Workbook Layout System
 
-> Formatting and layout specification for the JSON → Python → Typst → PDF pipeline.
+> Formatting and layout specification for the Markdown → JSON → Python → Typst → PDF pipeline.
 > Goal: JSON defines layout **intent**, Typst handles layout **execution**, Python is a dumb translator.
+
+## Source Content
+
+All section content lives in `Updated Sections/` as markdown files. These are the **source of truth**.
+
+The markdown uses consistent patterns that the converter must handle:
+- `# Section Title` with subtitle on next line as bold text
+- `## Heading` for major sections
+- `### Heading` for subsections
+- `#### *Italic exercise prompt*` for exercise introductions
+- `### Mistake #N: Title` pattern for mistake boxes (with **What it looks like:** / **Why it hurts:** / **How to fix it:** structure)
+- Tables with `| header | header |` format — may contain:
+  - All-filled rows (→ `data_table`)
+  - Label + empty cells (→ `structured_table`)
+  - Italic example rows + empty rows (→ `open_table`)
+- `---` horizontal rules as section dividers
+- Bullet lists with bold lead items
+- Blockquotes for cross-references or hints
 
 ---
 

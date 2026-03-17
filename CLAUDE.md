@@ -3,11 +3,31 @@
 ## Project Overview
 
 A romantasy worldbuilding workbook (PDF) generated via:
-**JSON content → Python translator → Typst source → PDF output**
+**Markdown source → JSON content → Python translator → Typst source → PDF output**
 
 ## Repository Structure
 
 ```
+Updated Sections/             # *** SOURCE OF TRUTH *** — updated markdown for all sections
+  01_Geography_Environment_UPDATED.md
+  02_Flora_Fauna_Ecosystems_UPDATED.md
+  Culture_Customs_Daily_Life_UPDATED.md
+  Economy_Labour_Resources_UPDATED.md
+  Government_Power_and_Law_-_final (1).md
+  religion-myth-prophecy-final.md
+  history-and-lore-updated.md
+  magic-system-updated (1).md
+  09_Technology_Infrastructure_UPDATED.md
+  language-and-communication-updated (1).md
+  section13-pressure-cooker-updated.md
+  section14_institutions_and_structures (2).md
+  Designing_Your_Key_Locations_-_exercise_audit_applied.md
+  Web_of_Systems_exercises_updated.md
+  section17-consistency-check_UPDATED.md
+  The-Agency-Check_UPDATED.md
+  Quick_Reference_Sheets_UPDATED.md
+  common-romantasy-worldbuilding-mistakes_ASSEMBLED.md
+
 typst/
   template.typ          # Typst component library (colors, fonts, all UI elements)
   build.py              # JSON → Typst generator + PDF compiler
@@ -19,8 +39,23 @@ typst/
   sections/             # Generated Typst files (DO NOT edit manually)
   fonts/                # Libre Baskerville, Cormorant Garamond, Inter
   output/               # Compiled PDF output
-convert_geography.py    # Markdown → JSON converter
+
+convert_geography.py    # Markdown → JSON converter (Geography-specific)
 LAYOUT_SYSTEM.md        # Full layout system specification
+```
+
+### Pipeline Flow
+
+```
+Updated Sections/*.md  →  convert to JSON  →  typst/data/*.json
+                                                     ↓
+                                              build.py --generate
+                                                     ↓
+                                              typst/sections/*.typ
+                                                     ↓
+                                              build.py --compile
+                                                     ↓
+                                              typst/output/workbook.pdf
 ```
 
 ## Build Commands
