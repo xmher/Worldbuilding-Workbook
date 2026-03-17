@@ -201,7 +201,7 @@ def gen_data_table(item: dict) -> str:
     rows = item.get("rows", [])
     col_widths = item.get("col_widths")
 
-    header_args = ", ".join(f'"{h}"' for h in headers)
+    header_args = ", ".join(f'"{escape_typst_string(h)}"' for h in headers)
     row_lines = []
     for row in rows:
         cells = ", ".join(_format_cell(c) for c in row)
@@ -228,7 +228,7 @@ def gen_structured_table(item: dict, preamble: str = "") -> str:
     rows = item.get("rows", [])
     row_height = item.get("row_height", "55pt")
 
-    header_args = ", ".join(f'"{h}"' for h in headers)
+    header_args = ", ".join(f'"{escape_typst_string(h)}"' for h in headers)
 
     ex_lines = []
     for row in example_rows:
@@ -264,7 +264,7 @@ def gen_open_table(item: dict, preamble: str = "") -> str:
     row_height = item.get("row_height", "55pt")
     extra_rows = item.get("extra_rows", 0)
 
-    header_args = ", ".join(f'"{h}"' for h in headers)
+    header_args = ", ".join(f'"{escape_typst_string(h)}"' for h in headers)
 
     ex_lines = []
     for row in example_rows:
@@ -403,16 +403,22 @@ def generate_section(data: dict, standalone: bool = False) -> str:
             table_types = {"structured_table", "open_table"}
             preamble_parts = [gen_heading(2, item["text"])]
             j = idx + 1
+            has_prose = False
             while j < len(content) and content[j].get("type", "") in preamble_types:
                 child = content[j]
+                if child.get("type") == "prose":
+                    has_prose = True
                 child_gen = GENERATORS.get(child["type"])
                 if child_gen:
                     preamble_parts.append(child_gen(child))
                 consumed.add(j)
                 j += 1
-            # If a table follows, pass preamble into table and consume it
+            # If a table follows, pass preamble into table and consume it.
+            # But if preamble contains prose paragraphs, the preamble is too large
+            # to fit inside the table header — output normally instead, letting
+            # the heading4 auto-grouper handle table attachment.
             next_type = content[j].get("type", "") if j < len(content) else ""
-            if next_type in table_types:
+            if next_type in table_types and not has_prose:
                 preamble_text = "".join(preamble_parts)
                 table_item = content[j]
                 if next_type == "structured_table":
@@ -420,7 +426,7 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 elif next_type == "open_table":
                     parts.append(gen_open_table(table_item, preamble=preamble_text))
                 consumed.add(j)
-            elif next_type == "group":
+            elif next_type == "group" and not has_prose:
                 # heading2 + group: estimate combined height
                 group_item = content[j]
                 full_page = group_item.get("full_page", False)
