@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
-"""Convert updated geography markdown to JSON format for Typst rendering."""
+"""Convert the updated geography markdown to JSON format for Typst rendering.
+
+Source: Updated Sections/01_Geography_Environment_UPDATED.md
+"""
 
 import json
 import re
+
 
 def parse_table(lines):
     """Parse a markdown table into headers and rows."""
     if len(lines) < 2:
         return None, None
-    # Parse header
     headers = [cell.strip() for cell in lines[0].strip('|').split('|')]
     # Skip separator line (line 1)
     rows = []
@@ -17,184 +20,331 @@ def parse_table(lines):
         rows.append(cells)
     return headers, rows
 
-def is_fillable_table(rows):
-    """Check if a table has empty cells (fillable by user)."""
-    for row in rows:
-        for cell in row:
-            if cell.strip() == '':
-                return True
-    return False
 
-def table_to_json(headers, rows):
-    """Convert a table to the appropriate JSON type."""
-    fillable = is_fillable_table(rows)
-    if fillable:
-        # Check if it's a structured table (first column has labels, rest are empty)
-        is_structured = all(
-            row[0].strip() != '' and all(cell.strip() == '' for cell in row[1:])
-            for row in rows if len(row) > 1
-        )
-        if is_structured:
+def is_italic_row(row):
+    """Check if a row is an italic example row (cells wrapped in *...*) ."""
+    non_empty = [c for c in row if c.strip()]
+    if not non_empty:
+        return False
+    # First non-empty cell should start with * and end with *
+    first = non_empty[0].strip()
+    return first.startswith('*') and first.endswith('*')
+
+
+def strip_italic(text):
+    """Remove surrounding italic markers from text."""
+    text = text.strip()
+    if text.startswith('*') and text.endswith('*') and len(text) > 2:
+        return text[1:-1]
+    return text
+
+
+def is_empty_row(row):
+    """Check if all cells in a row are empty."""
+    return all(c.strip() == '' for c in row)
+
+
+def is_label_row(row):
+    """Check if first cell has content and rest are empty (structured label row)."""
+    if len(row) < 2:
+        return False
+    return row[0].strip() != '' and all(c.strip() == '' for c in row[1:])
+
+
+def classify_table(headers, rows):
+    """Classify a table and return the appropriate JSON structure.
+
+    Types:
+    - data_table: all rows have content (reference/read-only)
+    - structured_table: label rows with empty fillable cells
+    - open_table: has example rows + empty rows for user to fill
+    """
+    if not rows:
+        return {"type": "data_table", "headers": headers, "rows": []}
+
+    example_rows = []
+    data_rows = []
+
+    # Separate example rows (italic) from regular rows
+    for row in rows:
+        if is_italic_row(row):
+            example_rows.append([strip_italic(c) for c in row])
+        else:
+            data_rows.append(row)
+
+    # Check if remaining rows are all empty or label-only
+    all_empty = all(is_empty_row(r) for r in data_rows)
+    all_label = all(is_label_row(r) or is_empty_row(r) for r in data_rows) and any(
+        not is_empty_row(r) for r in data_rows
+    )
+    all_data = all(
+        not is_empty_row(r) and not is_label_row(r) for r in data_rows
+    ) and not example_rows
+
+    if all_data and not example_rows:
+        return {"type": "data_table", "headers": headers, "rows": data_rows}
+
+    if all_label and not example_rows:
+        # Structured table with labels
+        return {
+            "type": "structured_table",
+            "headers": headers,
+            "rows": data_rows,
+            "row_height": "55pt",
+        }
+
+    if example_rows:
+        if all_label:
+            # Structured table with examples
             return {
                 "type": "structured_table",
                 "headers": headers,
-                "rows": rows,
-                "row_height": "55pt"
+                "example_rows": example_rows,
+                "rows": data_rows,
+                "row_height": "55pt",
             }
         else:
-            return {
+            # Open table with examples + blank rows
+            # Include empty rows as regular rows (don't use extra_rows)
+            result = {
                 "type": "open_table",
                 "headers": headers,
-                "rows": rows,
-                "fill_strategy": "wider_rows"
+                "example_rows": example_rows,
+                "rows": data_rows,
+                "row_height": "55pt",
+                "fill_strategy": "wider_rows",
             }
-    else:
+            return result
+
+    # Fallback: has empty rows but no examples and no labels
+    if all_empty:
         return {
-            "type": "data_table",
+            "type": "open_table",
             "headers": headers,
-            "rows": rows
+            "example_rows": [],
+            "rows": data_rows,
+            "row_height": "55pt",
+            "fill_strategy": "wider_rows",
         }
 
-def parse_mistake(title, paragraphs):
-    """Parse a mistake section into a mistake_box."""
-    body_parts = []
-    fix = ""
-    for p in paragraphs:
-        if p.startswith("**What it looks like:**"):
-            body_parts.append(p.replace("**What it looks like:** ", ""))
-        elif p.startswith("**Why it hurts your romance:**"):
-            body_parts.append(p.replace("**Why it hurts your romance:** ", ""))
-        elif p.startswith("**How to fix it:**"):
-            fix = p.replace("**How to fix it:** ", "")
-    body = " ".join(body_parts) if body_parts else " ".join(paragraphs[:-1]) if paragraphs else ""
-    if not fix and paragraphs:
-        fix = paragraphs[-1]
+    # Mixed: some have content, some don't
+    # Check if it looks structured (first col has content, others mostly empty)
+    structured_like = sum(1 for r in data_rows if is_label_row(r))
+    if structured_like > len(data_rows) * 0.5:
+        return {
+            "type": "structured_table",
+            "headers": headers,
+            "example_rows": example_rows if example_rows else [],
+            "rows": data_rows,
+            "row_height": "55pt",
+        }
+
+    # Default to open_table
     return {
-        "type": "mistake_box",
-        "title": title,
-        "body": body,
-        "fix": fix
+        "type": "open_table",
+        "headers": headers,
+        "example_rows": example_rows if example_rows else [],
+        "rows": data_rows,
+        "row_height": "55pt",
+        "fill_strategy": "wider_rows",
     }
 
+
+def parse_mistake(lines, start):
+    """Parse a mistake section starting at ### Mistake #N: ..."""
+    title_line = lines[start].strip().lstrip('#').strip()
+    i = start + 1
+    body_parts = []
+    fix = ""
+
+    while i < len(lines):
+        stripped = lines[i].strip()
+        # Stop at next heading or divider
+        if stripped.startswith('#') or stripped == '---':
+            break
+        if stripped == '':
+            i += 1
+            continue
+
+        if stripped.startswith('**How to fix it:**'):
+            fix = stripped.replace('**How to fix it:**', '').strip()
+        elif stripped.startswith('**What it looks like:**'):
+            body_parts.append(stripped.replace('**What it looks like:**', '').strip())
+        elif stripped.startswith('**Why it hurts:**'):
+            body_parts.append(stripped.replace('**Why it hurts:**', '').strip())
+        elif stripped.startswith('**Why it hurts your romance:**'):
+            body_parts.append(stripped.replace('**Why it hurts your romance:**', '').strip())
+        else:
+            body_parts.append(stripped)
+        i += 1
+
+    body = " ".join(body_parts)
+    return {
+        "type": "mistake_box",
+        "title": title_line,
+        "body": body,
+        "fix": fix,
+    }, i
+
+
+def parse_blockquote(lines, start):
+    """Parse a blockquote starting at > ..."""
+    parts = []
+    i = start
+    while i < len(lines) and lines[i].strip().startswith('>'):
+        text = lines[i].strip().lstrip('>').strip()
+        if text:
+            parts.append(text)
+        i += 1
+
+    full_text = " ".join(parts)
+
+    # Check for cross-reference: > **Continue in Section X**
+    m = re.match(r'\*\*Continue in (Section \d+)\*\*', full_text)
+    if m:
+        section = m.group(1)
+        # Get the note (remaining text after the section reference)
+        note_parts = []
+        for p in parts[1:]:  # skip the first "Continue in Section X" line
+            # Strip italic markers
+            clean = p.strip('*').strip()
+            if clean:
+                note_parts.append(clean)
+        note = " ".join(note_parts) if note_parts else ""
+        return {
+            "type": "cross_ref",
+            "section": section,
+            "note": note,
+        }, i
+
+    # Check for "Final Thought" blockquote
+    if full_text.startswith('**Final Thought**'):
+        # Extract content after "Final Thought"
+        note_parts = []
+        for p in parts:
+            if p.startswith('**Final Thought**'):
+                continue
+            clean = p.strip('*').strip()
+            if clean:
+                note_parts.append(clean)
+        return {
+            "type": "hint",
+            "text": " ".join(note_parts),
+        }, i
+
+    # Generic blockquote → prose
+    return {"type": "prose", "text": full_text}, i
+
+
 def build_json():
-    with open("/home/user/Worldbuilding-Workbook/Completed section1_geography_v5.md", "r") as f:
+    with open("/tmp/01_geo_updated.md", "r") as f:
         md = f.read()
 
     lines = md.split('\n')
     content = []
     i = 0
 
-    # Skip the title line "# SECTION 1: Geography & Environment"
-    # and get the intro text
-    section_title_intro = ""
-
-    # Skip line 0 (title)
+    # Line 0: # SECTION 1: Geography & Environment
     i = 1
-    # Skip blank line
+
+    # Skip blanks
     while i < len(lines) and lines[i].strip() == '':
         i += 1
 
-    # Grab intro paragraph
+    # Grab intro paragraphs (before first ---)
+    intro_paragraphs = []
+    while i < len(lines) and lines[i].strip() != '---':
+        stripped = lines[i].strip()
+        if stripped:
+            intro_paragraphs.append(stripped)
+        i += 1
+
+    # First paragraph is the section title intro
+    section_title_intro = intro_paragraphs[0] if intro_paragraphs else ""
+
+    # Remaining intro paragraphs go as prose
+    for p in intro_paragraphs[1:]:
+        content.append({"type": "prose", "text": p})
+
+    # Skip the first ---
+    if i < len(lines) and lines[i].strip() == '---':
+        i += 1
+
+    # Skip "In This Section" TOC block (until next ---)
+    # This is a navigation aid, not content for the workbook
     if i < len(lines):
-        section_title_intro = lines[i].strip()
-        i += 1
+        # Check if next non-blank line is "## In This Section"
+        j = i
+        while j < len(lines) and lines[j].strip() == '':
+            j += 1
+        if j < len(lines) and lines[j].strip() == '## In This Section':
+            # Skip until next ---
+            while i < len(lines) and lines[i].strip() != '---':
+                i += 1
+            if i < len(lines):
+                i += 1  # skip the ---
 
-    # Skip blank line after intro
-    while i < len(lines) and lines[i].strip() == '':
-        i += 1
-
-    # Now parse "This section is divided into two parts:" and the part descriptions
-    # These go as hint + prose blocks
-    intro_blocks = []
-    while i < len(lines) and not lines[i].startswith('---'):
-        line = lines[i].strip()
-        if line:
-            intro_blocks.append(line)
-        i += 1
-
-    # Add intro blocks
-    if intro_blocks:
-        content.append({"type": "hint", "text": intro_blocks[0]})
-        for block in intro_blocks[1:]:
-            content.append({"type": "prose", "text": block})
-
-    # Now process the rest of the document
-    # Track if we're in a mistake section
-    current_mistake_title = None
-    current_mistake_paragraphs = []
-
-    def flush_mistake():
-        nonlocal current_mistake_title, current_mistake_paragraphs
-        if current_mistake_title:
-            content.append(parse_mistake(current_mistake_title, current_mistake_paragraphs))
-            current_mistake_title = None
-            current_mistake_paragraphs = []
-
+    # Now parse the rest of the document
     while i < len(lines):
         line = lines[i]
         stripped = line.strip()
-
-        # Divider
-        if stripped == '---':
-            flush_mistake()
-            content.append({"type": "divider"})
-            i += 1
-            continue
-
-        # Part header (# Section 1 · Part ...)
-        if stripped.startswith('# Section 1') or stripped.startswith('# SECTION 1'):
-            flush_mistake()
-            # Convert to heading2
-            part_text = stripped.lstrip('#').strip()
-            # Map "Section 1 · Part One — The Foundation" to "Part One — The Foundation"
-            if '·' in part_text:
-                part_text = part_text.split('·', 1)[1].strip()
-            content.append({"type": "heading2", "text": part_text})
-            i += 1
-            continue
-
-        # Heading 2
-        if stripped.startswith('## ') and not stripped.startswith('### '):
-            flush_mistake()
-            text = stripped[3:].strip()
-            content.append({"type": "heading2", "text": text})
-            i += 1
-            continue
-
-        # Heading 3 - check for mistake pattern
-        if stripped.startswith('### '):
-            flush_mistake()
-            text = stripped[4:].strip()
-            if re.match(r'Mistake #\d+:', text):
-                current_mistake_title = text
-                current_mistake_paragraphs = []
-                i += 1
-                continue
-            else:
-                content.append({"type": "heading3", "text": text})
-                i += 1
-                continue
 
         # Empty line
         if stripped == '':
             i += 1
             continue
 
+        # Divider
+        if stripped == '---':
+            content.append({"type": "divider"})
+            i += 1
+            continue
+
+        # Blockquote
+        if stripped.startswith('>'):
+            item, i = parse_blockquote(lines, i)
+            content.append(item)
+            continue
+
+        # Heading 2
+        if stripped.startswith('## ') and not stripped.startswith('### '):
+            text = stripped[3:].strip()
+            content.append({"type": "heading2", "text": text})
+            i += 1
+            continue
+
+        # Heading 3 - check for mistake pattern
+        if stripped.startswith('### ') and not stripped.startswith('#### '):
+            text = stripped[4:].strip()
+            if re.match(r'Mistake #\d+:', text):
+                item, i = parse_mistake(lines, i)
+                content.append(item)
+                continue
+            else:
+                content.append({"type": "heading3", "text": text})
+                i += 1
+                continue
+
+        # Heading 4
+        if stripped.startswith('#### '):
+            text = stripped[5:].strip()
+            content.append({"type": "heading4", "text": text})
+            i += 1
+            continue
+
         # Table
-        if stripped.startswith('|') and i + 1 < len(lines) and lines[i+1].strip().startswith('|'):
-            flush_mistake()
+        if stripped.startswith('|') and i + 1 < len(lines) and lines[i + 1].strip().startswith('|'):
             table_lines = []
             while i < len(lines) and lines[i].strip().startswith('|'):
                 table_lines.append(lines[i])
                 i += 1
             headers, rows = parse_table(table_lines)
-            if headers and rows:
-                content.append(table_to_json(headers, rows))
+            if headers and rows is not None:
+                content.append(classify_table(headers, rows))
             continue
 
         # Bullet list
         if stripped.startswith('- '):
-            flush_mistake()
             items = []
             while i < len(lines) and lines[i].strip().startswith('- '):
                 items.append(lines[i].strip()[2:])
@@ -202,17 +352,15 @@ def build_json():
             content.append({"type": "bullet_list", "items": items})
             continue
 
-        # Writing lines (underscores for fill-in)
+        # Writing lines (underscores)
         if stripped.startswith('_____'):
-            flush_mistake()
-            # Count underscore lines, skipping blank lines between them
             line_count = 0
             while i < len(lines):
                 s = lines[i].strip()
                 if s.startswith('_____'):
                     line_count += 1
                     i += 1
-                elif s == '' and i + 1 < len(lines) and lines[i+1].strip().startswith('_____'):
+                elif s == '' and i + 1 < len(lines) and lines[i + 1].strip().startswith('_____'):
                     i += 1  # skip blank line between underscore lines
                 else:
                     break
@@ -228,17 +376,10 @@ def build_json():
             content.append({"type": "writing_box", "label": "Your Answer", "height": height})
             continue
 
-        # Bold-only line that's a question -> heading4
-        if re.match(r'^\*\*[^*]+\*\*$', stripped):
-            flush_mistake()
-            question_text = stripped.strip('*')
-            content.append({"type": "heading4", "text": question_text})
-            i += 1
-            continue
-
-        # If in a mistake section, collect paragraphs
-        if current_mistake_title:
-            current_mistake_paragraphs.append(stripped)
+        # Standalone italic line (not bold-italic) → hint
+        if re.match(r'^\*[^*]+\*$', stripped):
+            text = stripped.strip('*')
+            content.append({"type": "hint", "text": text})
             i += 1
             continue
 
@@ -246,39 +387,52 @@ def build_json():
         content.append({"type": "prose", "text": stripped})
         i += 1
 
-    flush_mistake()
-
     # Build the final JSON structure
     result = {
         "section_number": 1,
         "title": "Geography & Environment",
         "section_title_intro": section_title_intro,
-        "content": content
+        "content": content,
     }
 
     return result
+
 
 def post_process(data):
     """Apply post-processing rules to improve the JSON output."""
     content = data["content"]
     new_content = []
 
-    for i, item in enumerate(content):
-        # Convert certain prose items to hints based on patterns
+    i = 0
+    while i < len(content):
+        item = content[i]
+
+        # Convert certain prose items to hints based on context
         if item["type"] == "prose":
             text = item["text"]
-            # Short advice/instruction paragraphs after questions become hints
-            if i > 0 and new_content and new_content[-1].get("type") == "heading4":
-                # This is a hint following a question
-                item = {"type": "hint", "text": text}
-            # Paragraphs that are clearly instructional/tips
-            elif text.startswith("**How to write it:**"):
+            # Prose right after heading4 that's instructional → hint
+            if new_content and new_content[-1].get("type") == "heading4":
                 item = {"type": "hint", "text": text}
 
         new_content.append(item)
+        i += 1
 
     data["content"] = new_content
+
+    # Second pass: remove duplicate dividers
+    filtered = []
+    for i, item in enumerate(data["content"]):
+        if item["type"] == "divider" and i > 0 and filtered and filtered[-1]["type"] == "divider":
+            continue
+        filtered.append(item)
+    data["content"] = filtered
+
+    # Third pass: remove dividers immediately before a heading2 that repeats
+    # (the "prose section then worksheet section" pattern)
+    # Actually, keep the dividers - build.py handles skipping dividers before headings
+
     return data
+
 
 if __name__ == "__main__":
     result = build_json()

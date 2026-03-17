@@ -201,7 +201,7 @@ def gen_data_table(item: dict) -> str:
     rows = item.get("rows", [])
     col_widths = item.get("col_widths")
 
-    header_args = ", ".join(f'"{h}"' for h in headers)
+    header_args = ", ".join(f'"{escape_typst_string(h)}"' for h in headers)
     row_lines = []
     for row in rows:
         cells = ", ".join(_format_cell(c) for c in row)
@@ -228,7 +228,7 @@ def gen_structured_table(item: dict, preamble: str = "") -> str:
     rows = item.get("rows", [])
     row_height = item.get("row_height", "55pt")
 
-    header_args = ", ".join(f'"{h}"' for h in headers)
+    header_args = ", ".join(f'"{escape_typst_string(h)}"' for h in headers)
 
     ex_lines = []
     for row in example_rows:
@@ -264,7 +264,7 @@ def gen_open_table(item: dict, preamble: str = "") -> str:
     row_height = item.get("row_height", "55pt")
     extra_rows = item.get("extra_rows", 0)
 
-    header_args = ", ".join(f'"{h}"' for h in headers)
+    header_args = ", ".join(f'"{escape_typst_string(h)}"' for h in headers)
 
     ex_lines = []
     for row in example_rows:
