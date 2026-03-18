@@ -32,7 +32,7 @@ Create a religion that is important enough for your characters to fight for, aga
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -150,7 +150,7 @@ You can combine types (e.g., polytheism with confirmed gods, or animism with abs
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -186,7 +186,7 @@ Can gods grant magic? Curse people? Speak through prophets? Raise the dead? Appe
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -198,7 +198,7 @@ Unlimited gods create story problems, because why don't they just fix everything
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -287,7 +287,7 @@ Identify the gods or spiritual forces that exist in your world. Focus on those r
     ([What they demand], []),
     ([What they offer], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -299,7 +299,8 @@ Divine politics often mirrors mortal politics. Are they a harmonious pantheon? C
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -323,7 +324,7 @@ Divine gift? Demonic corruption? Natural force the church claims authority over?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -337,7 +338,7 @@ If magic is a gift from the gods, what happens to that gift when the character d
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -349,7 +350,7 @@ If the beloved's magic is heresy, then the romance is inherently blasphemous. Th
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -361,7 +362,7 @@ Loss of power? Transformation? Curse? New and different magic? In systems where 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -379,7 +380,7 @@ Loss of power? Transformation? Curse? New and different magic? In systems where 
     ([What happens to their magic if they defy religious law], []),
     ([How magic raises the romantic stakes beyond the social], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -510,7 +511,8 @@ Who specifically? What will they do about it? Are there authorities who might se
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -528,7 +530,7 @@ Sacred gift? Duty? Path to the divine? Distraction from spiritual purpose? How a
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -542,7 +544,7 @@ Restrictions based on faith, role, gender, species, class?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -571,7 +573,7 @@ Not just social disapproval. What are the spiritual, magical, and institutional 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -583,7 +585,8 @@ Which one, and why? What would it take for them to choose love over religious du
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -650,7 +653,7 @@ If your love interest is a heretic beloved, use the four stages above to trace h
     ([Epistemic crisis — what revelation shatters their certainty?], [], []),
     ([Reclassification — how do they rebuild their moral categories?], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -682,7 +685,7 @@ The Redefinition Path: The doctrine itself is exposed as partial, weaponised, or
     ([What is the protagonist's epistemic crisis, the moment their certainty fractures?], []),
     ([What replaces the old categories?], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
 )
 
 
@@ -781,7 +784,7 @@ The gap between personal belief and institutional religion creates room for char
     ([Protagonist], [], []),
     ([Love Interest], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -793,7 +796,7 @@ Why? Social expectation? Family pressure? Fear? Habit? Hoping belief will come?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -805,7 +808,7 @@ Do they believe in the gods but distrust priests? Follow their own interpretatio
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -842,7 +845,7 @@ Hidden faith creates unique romantic tension. The lover who discovers the secret
     ([Which revelation type plays out?], []),
     ([How does revelation change the relationship?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -869,7 +872,7 @@ Daily practices make faith feel real on the page. What rituals would your charac
     ([Evening observance], [], [], []),
     ([Weekly/regular gatherings], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -881,7 +884,7 @@ Amulets? Sacred texts? Prayer beads? Holy symbols? These details make faith tang
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -893,7 +896,7 @@ Religious language in everyday speech shows how deeply faith permeates culture. 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -905,7 +908,7 @@ Changes in practice often signal changes in faith. The character who stops prayi
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -917,7 +920,7 @@ In fear, grief, or uncertainty, what does religion offer that nothing else does?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -929,7 +932,7 @@ Connection? Comfort? Obligation? Silence? Doubt? Peace? This is faith as experie
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -941,7 +944,8 @@ Do they pray about it? Feel guilty during rituals? Find new meaning in old praye
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -993,7 +997,7 @@ How? Reinterpreting doctrine? Finding loopholes? Believing the gods would unders
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1005,7 +1009,7 @@ The crisis point when they must choose, or when they find a new understanding:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1017,7 +1021,8 @@ Is there a way to believe that doesn't require giving up the relationship? This 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1067,7 +1072,7 @@ Which pattern are you using? What does your character lose in the process? The c
     ([What replaces the old belief system?], []),
     ([Does the resolution feel earned, and why?], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1087,7 +1092,7 @@ Using the "earned vs. convenient" columns in the reference table above, honestly
     ([Could the obstacle have been removed without sacrifice? If yes, it may be too convenient.], []),
     ([Does the resolution change who your character is, or just what they're allowed to do?], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
 )
 
 
@@ -1107,7 +1112,7 @@ Sacred gift? Dangerous temptation? Test of faith? How the religion frames desire
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1121,7 +1126,7 @@ Understanding what's forbidden helps you write the internal conflict of characte
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1141,7 +1146,7 @@ What specifically triggers the guilt: the act of loving, or the identity of the 
     ([Why they feel sinful], []),
     ([How they reconcile this], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1153,7 +1158,7 @@ Withdrawal? Self-punishment? Trying to resist feelings? Guilt after intimacy?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1165,7 +1170,8 @@ Reinterpretation? Leaving the faith? Divine reassurance? Accepting love isn't si
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1191,7 +1197,7 @@ Religion governs time. Holy days, sacred seasons, periods of fasting or celebrat
     ([], [], [], [], [], []),
     ([], [], [], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1204,7 +1210,7 @@ Religion governs time. Holy days, sacred seasons, periods of fasting or celebrat
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1216,7 +1222,8 @@ Thresholds between sacred and ordinary create charged moments. What changes when
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1247,7 +1254,7 @@ Sacred spaces can serve as sanctuary, meeting place, or site of spiritual reckon
     ([Pilgrimage destinations], [], []),
     ([Forbidden/secret holy places], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1259,7 +1266,7 @@ Sacred spaces can serve as sanctuary, meeting place, or site of spiritual reckon
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1271,7 +1278,7 @@ Do they meet there? Seek blessing? Take sanctuary? Perform a forbidden ritual?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1283,7 +1290,8 @@ Sacred ground where vows are binding? Temples where certain unions are forbidden
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1333,7 +1341,7 @@ Think about weddings, initiations, vow-taking ceremonies, funerals, fertility ri
     ([Is the ritual completed or broken?], []),
     ([How does it change the relationship?], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1345,7 +1353,7 @@ Initiations, ascensions, species changes: these are identity thresholds. What do
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1357,7 +1365,7 @@ The most charged ritual scenes are those where an audience is watching. What hap
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1377,7 +1385,7 @@ The most charged ritual scenes are those where an audience is watching. What hap
     ([Ritual as transition — what does the character become, and what do they lose?], [], []),
     ([Public stakes — who's watching, and what happens if the mask slips?], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -1389,7 +1397,8 @@ The most charged ritual scenes are those where an audience is watching. What hap
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1420,7 +1429,7 @@ Community is often what people lose first when they defy religious rules. What s
     ([Protagonist], [], []),
     ([Love Interest], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1445,7 +1454,7 @@ Not just spiritual consequences. Social, practical, relational losses:
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1457,7 +1466,7 @@ Would religious violation mean losing family as well as faith community? This mu
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1469,7 +1478,8 @@ The secret ally who believes love matters more than rules? The reformer who thin
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1497,7 +1507,7 @@ Afterlife beliefs shape how characters think about sacrifice, loss, and whether 
     ([What's the bad outcome?], []),
     ([Can the living affect the dead's fate?], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1521,7 +1531,7 @@ What do people do (or avoid) because of afterlife consequences?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1533,7 +1543,7 @@ Or does death separate them? Are only certain unions blessed in the afterlife?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1545,7 +1555,7 @@ Their afterlife beliefs shape whether dying for love feels like ending or beginn
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1557,7 +1567,7 @@ If they believe in reunion after death, does that make dying for love more tempt
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1569,7 +1579,8 @@ Does loving the "wrong" person damn them? Does true love grant salvation?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1608,7 +1619,7 @@ These stories create templates for how characters understand their own lives. Do
   example-rows: (
 
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1621,7 +1632,7 @@ Divine lovers? Cautionary tales? Blessed unions? These stories create templates.
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1633,7 +1644,7 @@ The most powerful sacred stories in romantasy are the ones the plot proves wrong
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1654,7 +1665,7 @@ Prophecy adds a layer of fate vs. choice to your romance. Characters may resist 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1669,7 +1680,7 @@ Divine revelation? Oracle visions? Ancient texts? Prophetic dreams? Astrological
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1681,7 +1692,7 @@ This determines how much weight prophecy carries. Infallible prophecy is destiny
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1714,7 +1725,7 @@ Everyone? Select few? Only one character? The asymmetry of knowledge creates ten
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1726,7 +1737,7 @@ Either direction creates tension. Fated together: is the love real? Fated apart:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1745,7 +1756,7 @@ Characters may embrace, resist, deny, or be torn about what prophecy means for t
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1793,7 +1804,7 @@ The moment where prophecy becomes choice, where destiny is claimed rather than p
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1805,7 +1816,7 @@ If yes: how? At what cost? If prophecy can be defied, their choice to fulfil it 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1839,7 +1850,7 @@ Does love distract from destiny? Does destiny require sacrifice of the relations
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1851,7 +1862,8 @@ What are the stakes of saying no to the gods?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1882,7 +1894,7 @@ If yes:
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1901,7 +1913,7 @@ Mutual hostility between faiths raises the stakes considerably. Mutual respect m
     ([Protagonist's], []),
     ([Love Interest's], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1913,7 +1925,7 @@ Different holy days? Conflicting dietary laws? Different marriage requirements? 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1925,7 +1937,7 @@ What would conversion mean: practical formality or genuine betrayal of belief?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1937,7 +1949,7 @@ This question shapes the long-term viability of the relationship. Some couples f
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1975,7 +1987,7 @@ Conversion for love raises questions about authenticity, sacrifice, and identity
     ([Is the conversion affirmed or regretted by the story's end?], []),
     ([Does either character choose NOT to convert, and is that refusal honoured?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 

@@ -78,7 +78,7 @@ If you designed bonds or intimate magic in Section 11, this is your reality chec
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -93,7 +93,7 @@ In #emph[ACOTAR], strip away the mating bond and Feyre and Rhysand still share t
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -105,7 +105,7 @@ In #emph[ACOTAR], strip away the mating bond and Feyre and Rhysand still share t
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -117,7 +117,7 @@ In #emph[ACOTAR], strip away the mating bond and Feyre and Rhysand still share t
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -141,7 +141,7 @@ You explored the tension between prophecy and choice in Section 6. This test pus
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -153,7 +153,7 @@ You explored the tension between prophecy and choice in Section 6. This test pus
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -165,7 +165,7 @@ Best answer: It confirms. They fall in love organically, and prophecy is validat
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -186,7 +186,7 @@ Best answer: It confirms. They fall in love organically, and prophecy is validat
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -198,7 +198,7 @@ Best answer: It confirms. They fall in love organically, and prophecy is validat
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -213,7 +213,7 @@ Good answer: They start together because they have to, and stay because they wan
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -234,7 +234,7 @@ Good answer: They start together because they have to, and stay because they wan
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -246,7 +246,7 @@ Good answer: They start together because they have to, and stay because they wan
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -258,7 +258,8 @@ Good answer: They start together because they have to, and stay because they wan
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -276,7 +277,7 @@ Romance characters with agency have desires independent of a romantic connection
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -299,7 +300,7 @@ In #emph[The Cruel Prince], Jude wants power and belonging in the faerie world. 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -314,7 +315,7 @@ Best: Romance and goal conflict, forcing hard choices.
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -329,7 +330,7 @@ If yes: Good. Meaningful choice demonstrates agency.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -341,7 +342,7 @@ If yes: Good. Meaningful choice demonstrates agency.
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -353,7 +354,7 @@ If yes: Good. Meaningful choice demonstrates agency.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -368,7 +369,7 @@ If yes: Good. Meaningful choice demonstrates agency.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -380,7 +381,7 @@ If yes: Good. Meaningful choice demonstrates agency.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -401,7 +402,7 @@ There should be a specific moment where your characters actively choose the rela
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -421,7 +422,7 @@ If the choice costs nothing, it doesn't prove much. The weight of the choice is 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -433,7 +434,7 @@ If the choice costs nothing, it doesn't prove much. The weight of the choice is 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -445,7 +446,7 @@ If the choice costs nothing, it doesn't prove much. The weight of the choice is 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -463,7 +464,7 @@ If the choice costs nothing, it doesn't prove much. The weight of the choice is 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -475,7 +476,7 @@ If the choice costs nothing, it doesn't prove much. The weight of the choice is 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -487,7 +488,7 @@ If the choice costs nothing, it doesn't prove much. The weight of the choice is 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -510,7 +511,7 @@ If they never think about other options, readers may not believe they had any. E
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -527,7 +528,7 @@ If they never think about other options, readers may not believe they had any. E
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -542,7 +543,7 @@ Showing the open door they don't walk through is one of the most effective ways 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -557,7 +558,7 @@ Someone saying "you could have walked away" or "you didn't have to do this" conf
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -572,7 +573,7 @@ If choosing each other costs something, show what they lose or give up:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -653,7 +654,7 @@ Same bond. Same pull. But now the character is the one holding the verbs: she gr
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -668,7 +669,7 @@ Same bond. Same pull. But now the character is the one holding the verbs: she gr
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -677,7 +678,7 @@ Same bond. Same pull. But now the character is the one holding the verbs: she gr
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -686,7 +687,7 @@ Same bond. Same pull. But now the character is the one holding the verbs: she gr
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -701,7 +702,7 @@ Same bond. Same pull. But now the character is the one holding the verbs: she gr
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -725,7 +726,7 @@ Same bond. Same pull. But now the character is the one holding the verbs: she gr
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -734,7 +735,8 @@ Same bond. Same pull. But now the character is the one holding the verbs: she gr
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -764,7 +766,7 @@ In #emph[Fourth Wing], neither Violet nor Xaden chose the telepathic link that f
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -776,7 +778,7 @@ In #emph[Fourth Wing], neither Violet nor Xaden chose the telepathic link that f
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -788,7 +790,7 @@ Nothing? Discomfort? Death? Loss of magic? Pain?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -816,7 +818,7 @@ Nothing? Discomfort? Death? Loss of magic? Pain?
 
 #writing-box(
   label: "Where does your bond fall?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -833,7 +835,8 @@ Even at the "low agency" end, good romantasy finds space for choice. The bond mi
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -871,7 +874,7 @@ Power imbalances are simply a part of the romantic genre, and can create some of
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -890,7 +893,7 @@ The best power-imbalanced romances don't stay static. The dynamic should shift, 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -920,7 +923,7 @@ This is non-negotiable. If there isn't a single moment in your story where the l
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -938,7 +941,7 @@ This is non-negotiable. If there isn't a single moment in your story where the l
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -956,7 +959,7 @@ In #emph[From Blood and Ash], Casteel kidnaps Poppy. The story works (for reader
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -971,7 +974,8 @@ If they never gain this ability, the romance is fundamentally non-consensual.
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -998,7 +1002,7 @@ In addition to whatever magical or political pressures exist, you'll also need t
     ([What do they see that no one else sees?], [], []),
     ([Beyond attraction, why do they work as partners?], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1010,7 +1014,7 @@ In addition to whatever magical or political pressures exist, you'll also need t
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1031,7 +1035,7 @@ There must be viable alternatives to make the choice meaningful. Simply because 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1048,7 +1052,7 @@ There must be viable alternatives to make the choice meaningful. Simply because 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1060,7 +1064,7 @@ There must be viable alternatives to make the choice meaningful. Simply because 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1072,7 +1076,7 @@ There must be viable alternatives to make the choice meaningful. Simply because 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1084,7 +1088,8 @@ If yes: Good. Choosing the harder path demonstrates agency and commitment.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1114,7 +1119,7 @@ Ultimately, the final decision should be made actively by the characters, rather
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1126,7 +1131,8 @@ Ultimately, the final decision should be made actively by the characters, rather
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1153,7 +1159,7 @@ While some worlds offer greater freedom than others, that doesn't mean there's a
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1165,7 +1171,7 @@ In highly controlled societies, small acts of choice carry enormous weight. In #
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1180,7 +1186,7 @@ In some worlds, refusing an arranged marriage is revolutionary. In others, it's 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1195,7 +1201,7 @@ Small choices in oppressive worlds can be as powerful as dramatic choices in fre
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1210,7 +1216,7 @@ If choice is rare in your world, make sure readers understand what choosing cost
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1222,7 +1228,8 @@ If choice is rare in your world, make sure readers understand what choosing cost
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1246,7 +1253,7 @@ Your romantic bond will fall somewhere along this spectrum:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1260,7 +1267,7 @@ Some readers may enjoy the idea of a "safe harbour," the sense of knowing that t
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1272,7 +1279,7 @@ Some readers may enjoy the idea of a "safe harbour," the sense of knowing that t
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1290,7 +1297,7 @@ Some readers may enjoy the idea of a "safe harbour," the sense of knowing that t
   rows: (
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1315,7 +1322,7 @@ In #emph[Zodiac Academy], the "Divine Moment" is accepted as an active decision 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1327,7 +1334,8 @@ If the bond simply snaps into place with no input from the characters, look for 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1393,7 +1401,7 @@ If your removal tests or checklist revealed problems, here's where to fix them. 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1417,7 +1425,8 @@ If your removal tests or checklist revealed problems, here's where to fix them. 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1435,7 +1444,7 @@ If your removal tests or checklist revealed problems, here's where to fix them. 
     ([Section 14 — Institutions], [], [], []),
     ([Section 16 — Obstacle Map], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == Integration Check: Does Your Agency Hold Up?
 
@@ -1485,7 +1494,7 @@ For strong character agency, you should be able to check most of these:
 
 #writing-box(
   label: "The bond/pressure that brings them together:",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1497,7 +1506,7 @@ For strong character agency, you should be able to check most of these:
 
 #writing-box(
   label: "Why they'd choose each other without it:",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1509,7 +1518,7 @@ For strong character agency, you should be able to check most of these:
 
 #writing-box(
   label: "The moment protagonist actively chooses:",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1521,7 +1530,7 @@ For strong character agency, you should be able to check most of these:
 
 #writing-box(
   label: "The moment love interest actively chooses:",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1533,7 +1542,7 @@ For strong character agency, you should be able to check most of these:
 
 #writing-box(
   label: "What each choice costs:",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1545,7 +1554,7 @@ For strong character agency, you should be able to check most of these:
 
 #writing-box(
   label: "The alternative they reject:",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1557,7 +1566,7 @@ For strong character agency, you should be able to check most of these:
 
 #writing-box(
   label: "How power imbalance is addressed:",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]

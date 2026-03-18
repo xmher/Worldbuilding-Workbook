@@ -94,25 +94,26 @@ Check if you've done any of these:
 
 #writing-box(
   label: "Issue",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Which fix",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Issue",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Which fix",
-  height: 55pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -149,7 +150,7 @@ You've already developed your magic system with sources, costs, limitations, and
     ([4.], [], [Yes / No]),
     ([5.], [], [Yes / No]),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -159,7 +160,7 @@ You've already developed your magic system with sources, costs, limitations, and
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -188,7 +189,7 @@ Political rules create some of the most powerful obstacles in romance. But they'
     ([2.], [], [Yes / No]),
     ([3.], [], [Yes / No]),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -201,7 +202,7 @@ If yes: did they face the stated consequences? If not, will readers accept the r
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -227,7 +228,7 @@ Cultural rules work differently from legal ones. No one arrests you for breaking
     ([2.], [], [Yes / No], [Yes / No]),
     ([3.], [], [Yes / No], [Yes / No]),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -240,7 +241,7 @@ Cultural rules work differently from legal ones. No one arrests you for breaking
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -269,7 +270,7 @@ Your geography section defined distances, travel times, and environmental danger
     ([2.], [], [Yes / No]),
     ([3.], [], [Yes / No]),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -282,7 +283,7 @@ Your geography section defined distances, travel times, and environmental danger
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -310,7 +311,7 @@ Religious obstacles carry a specific weight because they're tied to identity, no
     ([1.], [], [], [Yes / No]),
     ([2.], [], [], [Yes / No]),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -323,7 +324,7 @@ Religious obstacles carry a specific weight because they're tied to identity, no
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -372,7 +373,7 @@ Pick a key romantic scene, one where the characters are together in a way that y
 
 #writing-box(
   label: "Describe the scene:",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -394,7 +395,7 @@ Pick a key romantic scene, one where the characters are together in a way that y
     ([Given surveillance (magical or mundane), would they be undetected?], [], []),
     ([Given other characters' knowledge and abilities, would no one intervene?], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -415,7 +416,7 @@ For the same scene:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -427,7 +428,7 @@ For the same scene:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -436,7 +437,7 @@ For the same scene:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -452,7 +453,7 @@ If you're protecting them, then provide a valid reason as to why, established be
 
 #writing-box(
   label: "List your protagonist's key abilities:",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -464,7 +465,7 @@ If you're protecting them, then provide a valid reason as to why, established be
 
 #writing-box(
   label: "List your love interest's key abilities:",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -483,7 +484,7 @@ If you're protecting them, then provide a valid reason as to why, established be
     ([], [], [], [Yes / No]),
     ([], [], [], [Yes / No]),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
 )
 
@@ -503,7 +504,7 @@ If you're protecting them, then provide a valid reason as to why, established be
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -517,7 +518,7 @@ If you're protecting them, then provide a valid reason as to why, established be
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -532,7 +533,7 @@ If you're protecting them, then provide a valid reason as to why, established be
   example-rows: (
 
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -545,7 +546,7 @@ If you're protecting them, then provide a valid reason as to why, established be
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -557,7 +558,7 @@ If you're protecting them, then provide a valid reason as to why, established be
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -580,7 +581,7 @@ If you're protecting them, then provide a valid reason as to why, established be
     ([2.], [], [], [Yes / No]),
     ([3.], [], [], [Yes / No]),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -615,7 +616,7 @@ One of the biggest consistency issues in romantasy isn't actually a broken rule.
     ([4.], [4.], [Yes / No]),
     ([5.], [5.], [Yes / No]),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -628,7 +629,7 @@ One of the biggest consistency issues in romantasy isn't actually a broken rule.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -640,7 +641,7 @@ One of the biggest consistency issues in romantasy isn't actually a broken rule.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -660,7 +661,7 @@ One of the biggest consistency issues in romantasy isn't actually a broken rule.
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
 )
 
@@ -685,7 +686,7 @@ The story you're telling needs to run two clocks: one for the fantasy plot, one 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -697,7 +698,7 @@ The story you're telling needs to run two clocks: one for the fantasy plot, one 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -709,7 +710,7 @@ The story you're telling needs to run two clocks: one for the fantasy plot, one 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -721,7 +722,7 @@ The story you're telling needs to run two clocks: one for the fantasy plot, one 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -740,7 +741,7 @@ The story you're telling needs to run two clocks: one for the fantasy plot, one 
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -770,7 +771,7 @@ Mishandled information is probably the fastest way to break consistency. Charact
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -791,7 +792,7 @@ Mishandled information is probably the fastest way to break consistency. Charact
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -811,7 +812,7 @@ Mishandled information is probably the fastest way to break consistency. Charact
     ([], []),
     ([], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -830,7 +831,7 @@ Mishandled information is probably the fastest way to break consistency. Charact
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -845,7 +846,7 @@ Bad reasons: they just didn't think to ask, the plot needed them not to know yet
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -857,7 +858,7 @@ Bad reasons: they just didn't think to ask, the plot needed them not to know yet
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -872,7 +873,7 @@ Bad reasons: they just didn't think to ask, the plot needed them not to know yet
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -896,7 +897,7 @@ Bad reasons: they just didn't think to ask, the plot needed them not to know yet
     ([The question itself is dangerous to ask], ["Miscommunication" with no real barrier]),
     ([Asking means admitting vulnerability they can't afford], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -907,7 +908,7 @@ Bad reasons: they just didn't think to ask, the plot needed them not to know yet
 
 #writing-box(
   label: "Which applies to your story?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -969,7 +970,7 @@ The Court of Nightmares scene in #emph[A Court of Mist and Fury] shows this beau
     ([Semantic misdirection], [], [], []),
     ([Physical tell-tale sign], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -988,7 +989,7 @@ When your narrator's understanding shifts (they learn the truth about a characte
 
 #writing-box(
   label: "Your major reveal or shift in understanding:",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1006,7 +1007,7 @@ When your narrator's understanding shifts (they learn the truth about a characte
     ([], [], [], [Yes / No]),
     ([], [], [], [Yes / No]),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1029,7 +1030,7 @@ When your narrator's understanding shifts (they learn the truth about a characte
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1057,7 +1058,7 @@ Not what you need them to do. What they would actually choose, based on their es
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1079,7 +1080,7 @@ Not what you need them to do. What they would actually choose, based on their es
     ([Rules Test], [], [], []),
     ([Character Test], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1116,7 +1117,7 @@ Once in a while you need to break a rule. But being willing to do that has to ha
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1133,7 +1134,7 @@ Readers forgive inconsistencies that serve emotion #emph[if you've earned their 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1156,7 +1157,7 @@ Readers forgive inconsistencies that serve emotion #emph[if you've earned their 
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1193,7 +1194,7 @@ The method operates as follows:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1205,7 +1206,7 @@ The method operates as follows:
 
 #writing-box(
   label: "Where in your manuscript does the truth need to land?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1217,7 +1218,7 @@ The method operates as follows:
 
 #writing-box(
   label: "Where can you plant the first hint? (Aim for 15-20% into the manuscript)",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1229,7 +1230,7 @@ The method operates as follows:
 
 #writing-box(
   label: "Where can you add a second reference? (Aim for the midpoint)",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1241,7 +1242,7 @@ The method operates as follows:
 
 #writing-box(
   label: "Is there a scene where the character can struggle with or fail at this element before it becomes critical?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1274,7 +1275,7 @@ As effective as this tool can be, it also has its limits. If you overuse it, rea
     ([], [], [Yes / No], [Depth / Complexity]),
     ([], [], [Yes / No], [Depth / Complexity]),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1305,7 +1306,7 @@ Using this technique, a limitation you establish through worldbuilding becomes a
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1317,7 +1318,7 @@ Using this technique, a limitation you establish through worldbuilding becomes a
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1329,7 +1330,7 @@ Using this technique, a limitation you establish through worldbuilding becomes a
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1362,7 +1363,7 @@ The writing lesson here: if you're going to remove power from your character, ma
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1374,7 +1375,7 @@ The writing lesson here: if you're going to remove power from your character, ma
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1386,7 +1387,7 @@ The writing lesson here: if you're going to remove power from your character, ma
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1410,7 +1411,7 @@ If you need to change a character's backstory or reveal a hidden nature, you can
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1422,7 +1423,7 @@ If you need to change a character's backstory or reveal a hidden nature, you can
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1434,7 +1435,7 @@ If you need to change a character's backstory or reveal a hidden nature, you can
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1465,7 +1466,7 @@ Not every inconsistency needs the same tool. Here's a quick reference for matchi
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1475,7 +1476,7 @@ Not every inconsistency needs the same tool. Here's a quick reference for matchi
 
 #writing-box(
   label: "Which technique fits?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1489,7 +1490,8 @@ Not every inconsistency needs the same tool. Here's a quick reference for matchi
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1512,7 +1514,7 @@ Not every inconsistency needs the same tool. Here's a quick reference for matchi
     ([], []),
     ([], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1536,7 +1538,7 @@ Document and maintain:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1550,7 +1552,7 @@ Document and maintain:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1562,7 +1564,7 @@ Document and maintain:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1574,7 +1576,7 @@ Document and maintain:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1586,7 +1588,7 @@ Document and maintain:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1596,7 +1598,7 @@ Document and maintain:
 
 #writing-box(
   label: "Major worldbuilding facts that can't change:",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1610,7 +1612,8 @@ Document and maintain:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1656,7 +1659,7 @@ Use this checklist for any major plot point or romantic beat. If you can check e
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1668,7 +1671,7 @@ Use this checklist for any major plot point or romantic beat. If you can check e
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1680,7 +1683,8 @@ Use this checklist for any major plot point or romantic beat. If you can check e
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 

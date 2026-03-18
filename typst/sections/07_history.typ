@@ -44,7 +44,7 @@ The deeper the historical layer, the harder it is to crack. Identify the layers 
     ([Middle (cultural memory)], [], [], []),
     ([Deep (identity/bedrock)], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -59,7 +59,7 @@ Is your central historical conflict surface-level (recent, raw, could be resolve
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -68,7 +68,8 @@ What would it take to crack sediment that deep?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -143,7 +144,7 @@ The essential takeaway here is that historical worldbuilding in romantasy must p
     ([What's essential for your historical worldbuilding], []),
     ([What you can leave vague or skip], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -212,7 +213,7 @@ Think about the inherent unevenness that exists here. In #emph[ACOTAR], the fae 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -226,7 +227,7 @@ What counts as "real" history vs. "just stories"? This matters for your romance.
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -259,7 +260,7 @@ Focus on the keepers most relevant to your story. Whose version of history do yo
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -278,7 +279,7 @@ Institutions that hold history can become plot elements in their own right: libr
     ([Royal/noble collections], [Private correspondence, political treaties, family lineage proofs, war spoils], [The ruling family and their advisors; others only by royal invitation or theft]),
     ([Bardic colleges], [Songs, epic poems, oral histories preserved in performance; the "popular" version of events], [Anyone who attends a performance; but the bardic archives themselves are guarded by tradition]),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
 )
 
@@ -294,7 +295,7 @@ Institutions that hold history can become plot elements in their own right: libr
   example-rows: (
 
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -307,7 +308,7 @@ The conquered? The poor? Certain species? Magic users? The missing perspectives 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -319,7 +320,7 @@ Different peoples telling different stories about the same events? One's heroes 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -352,7 +353,7 @@ Think about how your characters learned the history they know. Songs? Grandparen
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -364,7 +365,7 @@ What stories are they told? What do they grow up "knowing" about the past? The s
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -376,7 +377,7 @@ Do scholars know different things than farmers? If your characters come from dif
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -395,7 +396,7 @@ Do scholars know different things than farmers? If your characters come from dif
     ([Protagonist], [], []),
     ([Love Interest], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -416,7 +417,7 @@ Stone buildings? Written records? Magical artifacts? Oral traditions? Bloodline 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -430,7 +431,7 @@ What kinds of knowledge, artifacts, or records have been destroyed or forgotten?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -449,7 +450,7 @@ What kinds of knowledge, artifacts, or records have been destroyed or forgotten?
     ([Simple neglect/time], []),
     ([Magic (curse, sealing, etc.)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -459,7 +460,7 @@ What kinds of knowledge, artifacts, or records have been destroyed or forgotten?
 
 #writing-box(
   label: "Are there ruins, artifacts, or fragments that hint at what's lost?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -473,7 +474,7 @@ If your characters discovered what was lost, how would it change things? Would i
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -495,7 +496,7 @@ If your characters discovered what was lost, how would it change things? Would i
     ([500+ years ago], [], []),
     ([Mythic past], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -507,7 +508,7 @@ At what point does "this happened" become "the stories say"?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -517,7 +518,7 @@ At what point does "this happened" become "the stories say"?
 
 #writing-box(
   label: "Are there historical \"facts\" everyone believes that might be wrong?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -545,7 +546,7 @@ What would change if your characters discovered the truth? Would it dissolve the
     ([What people are taught], []),
     ([Who suppressed it and why], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -557,7 +558,7 @@ Everyone but pretends not to? Secret societies? Ancient beings? No one alive?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -569,7 +570,7 @@ How and when? Historical discoveries should complicate as much as they clarify.
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -581,7 +582,8 @@ Does it explain why they're forbidden? Reveal they're not who they thought? Prov
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -597,7 +599,7 @@ Think about the sediment beneath your characters' feet. Which historical periods
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -614,7 +616,7 @@ Is your world in decline from a golden age? Rising from ruin? Locked in cycles? 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -644,7 +646,7 @@ Heroes? Gods? Conquerors? Survivors?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -656,7 +658,7 @@ The founding ideals shape what your world considers "natural" or "right" — inc
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -674,7 +676,7 @@ The founding ideals shape what your world considers "natural" or "right" — inc
     ([What caused its fall], []),
     ([What was lost], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -686,7 +688,7 @@ Could their union restore what was lost — or repeat the mistake that caused th
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -715,7 +717,7 @@ Could their union restore what was lost — or repeat the mistake that caused th
     ([Immediate consequences], []),
     ([Long-term effects still felt today], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -735,7 +737,7 @@ Could their union restore what was lost — or repeat the mistake that caused th
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
 )
 
@@ -758,7 +760,7 @@ Wars and conflicts create deep divisions that will be remembered for centuries t
     ([], [], [], [], []),
     ([], [], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -771,7 +773,7 @@ Cold tensions, simmering resentments, truces that aren't really peace?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -794,7 +796,7 @@ Cold tensions, simmering resentments, truces that aren't really peace?
     ([Who won], []),
     ([Consequences], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -804,7 +806,7 @@ Cold tensions, simmering resentments, truces that aren't really peace?
 
 #writing-box(
   label: "Are their families/nations/species on opposing sides of this conflict?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -816,7 +818,7 @@ Cold tensions, simmering resentments, truces that aren't really peace?
 
 #writing-box(
   label: "Are there still active hostilities, or is this a cold peace?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -830,7 +832,7 @@ Betrayal? Healing? Repeating forbidden history?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -853,7 +855,7 @@ Places that have a historical significance have an impact on the lives of your c
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -866,7 +868,8 @@ Why do they go? What do they find? Standing where history happened can force cha
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -884,7 +887,7 @@ Which describes your world (or different groups within it)?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -901,7 +904,7 @@ Are ruins sacred? Dangerous? Tourist attractions? Forbidden? Looted for material
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -916,7 +919,7 @@ How? Shrines? Prayers? Consulting spirits? Obligation to fulfill their wishes?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -931,7 +934,7 @@ Holidays marking past events? Monuments? Annual remembrances?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -973,7 +976,7 @@ Using the table above as a guide, identify what forms of historical propaganda e
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -986,7 +989,7 @@ Propaganda landscapes are strongest when they enter into the private realm of a 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1001,7 +1004,8 @@ Clandestine meeting places? Forbidden archives? Subversive art? Underground netw
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1052,7 +1056,7 @@ Ancestors? Role models? Cautionary examples? One character's hero might be the o
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1082,7 +1086,7 @@ The pressure does not always have to be from a single legendary couple. Sometime
     ([How it ended], [], []),
     ([What it teaches], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1094,7 +1098,7 @@ Does your culture celebrate doomed love or warn against it?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1111,7 +1115,7 @@ Does your culture celebrate doomed love or warn against it?
     ([Who makes the comparison], []),
     ([Is it meant as compliment, warning, or accusation], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1127,7 +1131,7 @@ Does your culture celebrate doomed love or warn against it?
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1139,7 +1143,7 @@ Are they expected to follow the same path? Avoid the same mistakes?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1151,7 +1155,7 @@ Is the famous story accurate? Romanticized? Missing crucial context?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1166,7 +1170,7 @@ Cyclical history creates a specific kind of romantic dread: the sense that your 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1185,7 +1189,7 @@ A previous pair of lovers from opposing sides? A past relationship that ended in
     ([What happened before], []),
     ([How it ended], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1195,7 +1199,7 @@ A previous pair of lovers from opposing sides? A past relationship that ended in
 
 #writing-box(
   label: "Do people compare your characters to this historical precedent?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1207,7 +1211,7 @@ A previous pair of lovers from opposing sides? A past relationship that ended in
 
 #writing-box(
   label: "Are they doomed to repeat history, or determined to break the cycle?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1219,7 +1223,7 @@ A previous pair of lovers from opposing sides? A past relationship that ended in
 
 #writing-box(
   label: "What would breaking the cycle require?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1244,7 +1248,7 @@ Having famous ancestry can create expectations and obligations. Inheriting a leg
     ([Descended from], []),
     ([What's expected of them], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1265,7 +1269,7 @@ Did the predecessor succeed or fail? Love or lose?
     ([What that predecessor did], []),
     ([The shadow this casts], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1277,7 +1281,8 @@ Do they try to live up to it? Rebel against it? Feel crushed by impossible expec
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1327,7 +1332,7 @@ Their family stories may complement, contradict, or directly oppose your protago
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1339,7 +1344,7 @@ Does one family's hero appear as a villain in the other's stories?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1351,7 +1356,7 @@ Falling in love with the "wrong" person often forces us to question the stories 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1370,7 +1375,7 @@ Falling in love with the "wrong" person often forces us to question the stories 
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1383,7 +1388,7 @@ Do they fight about it? Try to understand? Discover they were both taught incomp
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1393,7 +1398,7 @@ Do they fight about it? Try to understand? Discover they were both taught incomp
 
 #writing-box(
   label: "What would it mean if the \"other side's\" history turned out to be true?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1416,7 +1421,7 @@ Do they fight about it? Try to understand? Discover they were both taught incomp
     ([Who fought/suffered/benefited], []),
     ([How it shaped the current world], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1432,7 +1437,7 @@ Do they fight about it? Try to understand? Discover they were both taught incomp
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1442,7 +1447,7 @@ Do they fight about it? Try to understand? Discover they were both taught incomp
 
 #writing-box(
   label: "Were their families on the same side or opposing sides?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1456,7 +1461,7 @@ Do their families still hate each other? Is one family blamed by the other?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1482,7 +1487,7 @@ Objects of the past can hold many things -- weapons that killed, rings that boun
     ([Its history], []),
     ([What it means to them], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1499,7 +1504,7 @@ Objects of the past can hold many things -- weapons that killed, rings that boun
     ([Its history], []),
     ([What it means to them], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1511,7 +1516,7 @@ Something stolen, shared, or fought over? Something that proves a historical tru
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1523,7 +1528,7 @@ Does it prove something? Reveal something? Obligate them to enemies?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1541,7 +1546,7 @@ Great deeds? Terrible crimes? Sacred oaths? Curses earned?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1551,7 +1556,7 @@ Great deeds? Terrible crimes? Sacred oaths? Curses earned?
 
 #writing-box(
   label: "What reputation does their family name carry?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1565,7 +1570,7 @@ Oaths to serve? Debts to repay? Vengeance to seek?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1575,7 +1580,7 @@ Oaths to serve? Debts to repay? Vengeance to seek?
 
 #writing-box(
   label: "What did your love interest's ancestors do that affects them now?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1587,7 +1592,7 @@ Oaths to serve? Debts to repay? Vengeance to seek?
 
 #writing-box(
   label: "What reputation does their family carry?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1601,7 +1606,7 @@ Historical enemies? One family wronged the other?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1616,7 +1621,7 @@ Magically? Politically? Socially? Bloodline significance creates stakes for who 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1632,7 +1637,7 @@ Magically? Politically? Socially? Bloodline significance creates stakes for who 
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1644,7 +1649,7 @@ Prophecy fulfilled? Forbidden mixing? Powerful heirs? Ending a curse?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1665,7 +1670,7 @@ Not what they personally experienced, but what their family, people, or communit
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1677,7 +1682,7 @@ Fear? Hatred of certain groups? Hypervigilance? Stories that haunt? Places they 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1689,7 +1694,7 @@ Their trauma may complement, mirror, or directly conflict with your protagonist'
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1701,7 +1706,7 @@ The same historical wound can show up as rage in one character and silence in an
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1725,7 +1730,7 @@ What would healing require? Acknowledgment? Apology? Justice? Time?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1748,7 +1753,7 @@ Atrocities create wounds that don't heal with time. They raise questions of guil
     ([Who committed them], []),
     ([Who suffered], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1767,7 +1772,7 @@ Perpetrators and victims remember differently. Understanding both perspectives d
     ([By the perpetrators], []),
     ([By the victims], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1779,7 +1784,7 @@ How society handles atrocity shapes whether your characters can discuss it openl
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1791,7 +1796,8 @@ Inherited guilt and rage ("I didn't do this, but my people did" and "you didn't 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1844,7 +1850,7 @@ The best history-as-weapon scenes occur when a character uses the past to throw 
     ([Protagonist], [], [], []),
     ([Love Interest], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1867,7 +1873,7 @@ What can they throw at the love interest during their worst arguments? Their fam
     ([When they use it], []),
     ([What it's really about (the fear underneath)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1887,7 +1893,7 @@ What's their trump card? What historical fact can they invoke that the protagoni
     ([When they use it], []),
     ([What it's really about (the fear underneath)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1899,7 +1905,7 @@ Does the scene escalate (like Poppy stabbing Casteel) or resolve (like Violet ac
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1911,7 +1917,7 @@ This is often the turning point of the entire romantic arc. The weapon is drawn,
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1956,7 +1962,7 @@ The best scenes that show a history-reveal are all structured similarly: a trigg
     ([Does it bring them closer or drive them apart?], []),
     ([Is it a repair confession or an identity rupture?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -1979,7 +1985,7 @@ The best scenes that show a history-reveal are all structured similarly: a trigg
     ([The changed dynamic (how do they relate differently after?)], [], []),
     ([Space to process (does the listener get to withdraw and choose to return?)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
 )
 
 
@@ -1991,7 +1997,8 @@ A reveal that violates the listener's beliefs can only be survived if the story 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -2049,7 +2056,7 @@ The reconciliation between your characters needs to work on multiple levels. If 
     ([Public and private resolution], []),
     ([Structural change], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2071,7 +2078,7 @@ The reconciliation between your characters needs to work on multiple levels. If 
     ([4.], [], []),
     ([5.], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2090,7 +2097,7 @@ A reconciliation that comes at no cost is unearned. The larger the historical we
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2116,7 +2123,7 @@ This "emotional stasis," or lack of emotional aging, is an almost defining chara
     ([How old], []),
     ([What history they've lived through], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2140,7 +2147,7 @@ The ancient character has seen patterns repeat, loved and lost countless times, 
     ([What makes them cynical, or gives them hope?], []),
     ([Do they see the mortal as another loss waiting to happen?], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2157,7 +2164,7 @@ The ancient character has seen patterns repeat, loved and lost countless times, 
     ([Do they feel insignificant? Or do they bring something the ancient one has lost?], []),
     ([Are they aware of their own mortality in the relationship?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -2169,7 +2176,7 @@ Lost loves? Dead friends? Guilt? Witnessed atrocities? Actions they regret?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2181,7 +2188,8 @@ Are they afraid to love again? Comparing the mortal to past loves? Keeping secre
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 

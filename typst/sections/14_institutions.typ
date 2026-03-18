@@ -35,7 +35,7 @@ The way they communicate feelings (coded, stolen, indirect):
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -46,7 +46,7 @@ The way they find physical closeness (what excuse the institution gives them):
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -55,7 +55,8 @@ The way institutional rules become the "grammar" of their relationship:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -90,13 +91,14 @@ Institutions come in many forms. Some stories use a single institution; others c
 
 #writing-box(
   label: "Your hybrid",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -135,7 +137,7 @@ You don't necessarily need your institution to develop into its "default" trope.
     ([Only one bed], [✓], [], [✓], [], [], [✓], [✓]),
     ([Fake dating / performance], [], [✓], [], [], [], [], [✓]),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -146,7 +148,7 @@ You don't necessarily need your institution to develop into its "default" trope.
 
 #writing-box(
   label: "Which trope(s) is your institution pushing toward?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -160,7 +162,8 @@ You don't necessarily need your institution to develop into its "default" trope.
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -217,7 +220,7 @@ Magical training, military school, assassin academy, scholarly institution, reli
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -231,7 +234,7 @@ Deadly trials? Brutal competition? Magical dangers? Political intrigue? Secrets 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -243,7 +246,7 @@ Deadly trials? Brutal competition? Magical dangers? Political intrigue? Secrets 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -253,7 +256,7 @@ Deadly trials? Brutal competition? Magical dangers? Political intrigue? Secrets 
 
 #writing-box(
   label: "Can students leave? What happens if they try to quit?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -270,7 +273,7 @@ Physical prowess, magical power, test scores, combat victories, political connec
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -286,7 +289,7 @@ Physical prowess, magical power, test scores, combat victories, political connec
     ([First year], [Basic magic training, no outside contact, shared dormitories with four to a room], [No privacy; every interaction is witnessed by roommates]),
     ([Inner Circle (fourth-year)], [Private chambers, direct access to the Archmage], [Private space exists but is earned; the gap between ranks creates longing and barriers]),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
 )
 
@@ -305,7 +308,7 @@ Physical prowess, magical power, test scores, combat victories, political connec
     ([Where your protagonist sits:], [], []),
     ([Where your love interest sits:], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -317,7 +320,7 @@ Competing for the same spot? One at top, one struggling? Must choose between win
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -330,7 +333,7 @@ Competing for the same spot? One at top, one struggling? Must choose between win
 
 #writing-box(
   label: "Where do students sleep? How much privacy exists?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -344,7 +347,7 @@ Communal meals, training, shared bathing, curfews, inspections, study groups?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -356,7 +359,7 @@ Forbidden entirely? Forbidden between certain ranks? Allowed but discouraged? Pu
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -369,7 +372,7 @@ Forbidden entirely? Forbidden between certain ranks? Allowed but discouraged? Pu
 
 #writing-box(
   label: "Who runs the academy? What power do instructors have over students?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -381,7 +384,7 @@ Forbidden entirely? Forbidden between certain ranks? Allowed but discouraged? Pu
 
 #writing-box(
   label: "Is there a mentor figure who might help or hinder the relationship?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -393,7 +396,7 @@ Forbidden entirely? Forbidden between certain ranks? Allowed but discouraged? Pu
 
 #writing-box(
   label: "What would happen if an instructor discovered the relationship?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -413,7 +416,7 @@ Political assassination, social ruin, blackmail, magical surveillance, loss of f
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -430,7 +433,7 @@ Spies, rivals, servants who report, magical surveillance, gossips?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -442,7 +445,7 @@ What defines "inappropriate" in your court? Private conversation? Touching? Bein
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -466,7 +469,7 @@ What defines "inappropriate" in your court? Private conversation? Touching? Bein
     ([Protagonist's position:], []),
     ([Love interest's position:], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
 )
 
 
@@ -476,7 +479,7 @@ What defines "inappropriate" in your court? Private conversation? Touching? Bein
 
 #writing-box(
   label: "What spaces can each access? Where would they naturally encounter each other?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -488,7 +491,7 @@ What defines "inappropriate" in your court? Private conversation? Touching? Bein
 
 #writing-box(
   label: "Where could they have a truly private conversation?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -505,7 +508,7 @@ What defines "inappropriate" in your court? Private conversation? Touching? Bein
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -517,7 +520,7 @@ The dance that allows touch, the ceremony that requires standing close, the nego
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -530,7 +533,7 @@ The dance that allows touch, the ceremony that requires standing close, the nego
 
 #writing-box(
   label: "What factions exist? Which side is each character on?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -542,7 +545,7 @@ The dance that allows touch, the ceremony that requires standing close, the nego
 
 #writing-box(
   label: "What would each lose if the relationship became public?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -554,7 +557,7 @@ The dance that allows touch, the ceremony that requires standing close, the nego
 
 #writing-box(
   label: "Is the threat of exposure used against them?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -574,7 +577,7 @@ War is an accelerator for everything. When you're facing death, all pretences fa
 
 #writing-box(
   label: "What conflict is your world engaged in?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -591,7 +594,7 @@ Cold war (tension, espionage) or active combat (battles, sieges)?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -603,7 +606,7 @@ Is death a real possibility they face? How does this urgency affect what they're
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -629,7 +632,7 @@ Soldier, commander, medic, strategist, prisoner, spy, conscript, mercenary, supp
     ([Protagonist:], []),
     ([Love interest:], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
 )
 
 
@@ -641,7 +644,7 @@ Forbidden between officers and enlisted? Required to report relationships? Subje
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -651,7 +654,7 @@ Forbidden between officers and enlisted? Required to report relationships? Subje
 
 #writing-box(
   label: "What if their relationship interfered with the mission?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -668,7 +671,7 @@ Barracks, tents, ships, field camps; what privacy exists?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -678,7 +681,7 @@ Barracks, tents, ships, field camps; what privacy exists?
 
 #writing-box(
   label: "What situation forces them to rely on each other for survival?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -690,7 +693,7 @@ Barracks, tents, ships, field camps; what privacy exists?
 
 #writing-box(
   label: "What injury might one tend for the other?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -707,7 +710,7 @@ Capture, neutral ground, secret negotiations, undercover work, chance meeting?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -717,7 +720,7 @@ Capture, neutral ground, secret negotiations, undercover work, chance meeting?
 
 #writing-box(
   label: "What information does each have that could harm the other's side?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -731,7 +734,7 @@ Capture, neutral ground, secret negotiations, undercover work, chance meeting?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -741,7 +744,7 @@ Capture, neutral ground, secret negotiations, undercover work, chance meeting?
 
 #writing-box(
   label: "At what point does love become treason?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -763,7 +766,7 @@ Temple, monastery, convent, religious order, pilgrimage site, sacred academy?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -777,7 +780,7 @@ Training priests? Preserving knowledge? Serving a deity? Healing? Protection? Is
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -789,7 +792,7 @@ Celibacy, obedience, poverty, silence, service, separation from family, renuncia
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -807,7 +810,7 @@ Celibacy, obedience, poverty, silence, service, separation from family, renuncia
   rows: (
     ([Your character's vow:], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -817,7 +820,7 @@ Celibacy, obedience, poverty, silence, service, separation from family, renuncia
 
 #writing-box(
   label: "Is the relationship forbidden, or just complicated by religious duty?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -831,7 +834,7 @@ Expulsion? Punishment? Forced separation? Loss of position? Trial? Worse?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -846,7 +849,7 @@ Expulsion? Punishment? Forced separation? Loss of position? Trial? Worse?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -856,7 +859,7 @@ Expulsion? Punishment? Forced separation? Loss of position? Trial? Worse?
 
 #writing-box(
   label: "How do they reconcile (or fail to reconcile) devotion and desire?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -870,7 +873,8 @@ Or must they choose? #emph[(Reference Section 6 for how religion might adapt or 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -890,7 +894,7 @@ Guild membership, apprenticeship, indentured service, debt bondage, employment c
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -904,7 +908,7 @@ Debt that must be repaid? Contract with penalties? No other options? Would lose 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -916,7 +920,7 @@ Debt that must be repaid? Contract with penalties? No other options? Would lose 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -931,7 +935,7 @@ Master and apprentice? Employer and worker? Creditor and debtor? Guild ranks? Bu
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -946,7 +950,7 @@ Can they be equals, or does one have power over the other's livelihood? #emph[(R
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -956,7 +960,7 @@ Can they be equals, or does one have power over the other's livelihood? #emph[(R
 
 #writing-box(
   label: "What would happen to the less powerful person if the relationship ended badly?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -973,7 +977,7 @@ Shared workspace, shared housing, required collaboration, travelling for busines
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -985,7 +989,8 @@ Loss of position, scandal, accusations of favouritism, contract violation, guild
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1003,7 +1008,7 @@ Hospital, field medical tent, asylum, magical healing centre, quarantine, recove
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1017,7 +1022,7 @@ Injury, illness, magical affliction, mental health crisis, recovery from trauma,
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1032,7 +1037,7 @@ Healer, fellow patient, visitor, guard, staff, reluctant caretaker?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1047,7 +1052,7 @@ Physical weakness, dependence, loss of privacy, inability to leave, altered ment
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1059,7 +1064,7 @@ Feeding, bathing, wound care, sitting vigil, sharing confined space, witnessing 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1074,7 +1079,7 @@ Can genuine connection form when one person is so vulnerable? Does the dynamic s
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1093,7 +1098,7 @@ Can genuine connection form when one person is so vulnerable? Does the dynamic s
 
 #writing-box(
   label: "What does the caregiver witness? What do they learn about each other?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1107,7 +1112,8 @@ Does the connection survive when vulnerability ends? Does the relationship need 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1127,7 +1133,7 @@ Peace treaty, alliance, joining bloodlines, claiming territory, preventing war, 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1141,7 +1147,7 @@ Peace treaty, alliance, joining bloodlines, claiming territory, preventing war, 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1151,7 +1157,7 @@ Peace treaty, alliance, joining bloodlines, claiming territory, preventing war, 
 
 #writing-box(
   label: "What happens if they refuse?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1168,7 +1174,7 @@ Legal contract, magical binding, political treaty, religious vow, family honour?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1178,7 +1184,7 @@ Legal contract, magical binding, political treaty, religious vow, family honour?
 
 #writing-box(
   label: "Can they live separately, or must they cohabitate?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1192,7 +1198,7 @@ Public appearances, shared household, producing heirs, consummation, presenting 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1207,7 +1213,7 @@ Before means the arrangement is an obstacle to escape or accept. After means the
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1219,7 +1225,7 @@ Strangers? Cold distance? Active hostility? Tentative curiosity? Grudging respec
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1229,7 +1235,7 @@ Strangers? Cold distance? Active hostility? Tentative curiosity? Grudging respec
 
 #writing-box(
   label: "What begins to shift how they see each other?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1244,7 +1250,7 @@ Strangers? Cold distance? Active hostility? Tentative curiosity? Grudging respec
 
 #writing-box(
   label: "What preconceptions does each have about the other?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1256,7 +1262,7 @@ Strangers? Cold distance? Active hostility? Tentative curiosity? Grudging respec
 
 #writing-box(
   label: "What's the first thing that surprises them?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1273,7 +1279,7 @@ Sharing a bedroom, seeing each other sick, navigating servants who report everyt
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1286,7 +1292,7 @@ Sharing a bedroom, seeing each other sick, navigating servants who report everyt
 
 #writing-box(
   label: "Who wants this marriage to succeed? Who wants it to fail?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1300,7 +1306,7 @@ Sharing a bedroom, seeing each other sick, navigating servants who report everyt
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1312,7 +1318,8 @@ Sharing a bedroom, seeing each other sick, navigating servants who report everyt
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1363,7 +1370,7 @@ This is the essential question. In every successful captivity romance, the capti
     ([When do they become equals:], []),
     ([What proves the shift is real (not just the captor being "nicer"):], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -1381,7 +1388,7 @@ Cell, palace, island, enchanted realm, warded room, travelling under guard?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1393,7 +1400,7 @@ Shared sleeping space, being seen at your worst (injured, ill, grieving, afraid)
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1423,7 +1430,7 @@ The reveal/betrayal:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1432,7 +1439,7 @@ How trust is rebuilt (what action, not words, proves it):
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1459,7 +1466,7 @@ What truth does the captive now know:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1468,7 +1475,7 @@ What genuine escape option exists:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1477,7 +1484,8 @@ Why they choose to stay (not dependency or conditioning — a real reason):
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1499,7 +1507,7 @@ Resistance movement, thieves' guild, spy network, hidden magical order, undergro
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1511,7 +1519,7 @@ Resistance movement, thieves' guild, spy network, hidden magical order, undergro
 
 #writing-box(
   label: "What is the organisation's purpose? What are they working toward or against?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1525,7 +1533,7 @@ Resistance movement, thieves' guild, spy network, hidden magical order, undergro
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1540,7 +1548,7 @@ Resistance movement, thieves' guild, spy network, hidden magical order, undergro
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1552,7 +1560,7 @@ Resistance movement, thieves' guild, spy network, hidden magical order, undergro
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1562,7 +1570,7 @@ Resistance movement, thieves' guild, spy network, hidden magical order, undergro
 
 #writing-box(
   label: "What would betrayal look like, and what would it cost?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1586,7 +1594,7 @@ Resistance movement, thieves' guild, spy network, hidden magical order, undergro
     ([Protagonist:], [], []),
     ([Love interest:], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1596,7 +1604,7 @@ Resistance movement, thieves' guild, spy network, hidden magical order, undergro
 
 #writing-box(
   label: "Where do they meet in secret? What cover do they use?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1610,7 +1618,8 @@ Resistance movement, thieves' guild, spy network, hidden magical order, undergro
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1628,7 +1637,7 @@ The stated mission, the noble purpose, what it tells the world:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1642,7 +1651,7 @@ The reality beneath the ideal: control, exploitation, preservation of power, som
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1661,7 +1670,7 @@ Are they idealists who believe in the mission? Cynics who see the truth? One of 
     ([Protagonist:], []),
     ([Love interest:], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1673,7 +1682,7 @@ When the gap between ideal and reality becomes undeniable:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1685,7 +1694,8 @@ Do they bond over shared revelation? Or does one still believe while the other h
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1703,7 +1713,7 @@ Who has power, comfort, and advantage within the system?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1717,7 +1727,7 @@ Who is exploited, trapped, or disadvantaged by the system?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1729,7 +1739,7 @@ Are they beneficiaries, victims, or somewhere in between? Do their positions dif
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1741,7 +1751,7 @@ Someone who knows the loopholes, who to bribe, how to bend rules.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1753,7 +1763,7 @@ Do they find ways around the rules? Use the institution against itself?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1765,7 +1775,8 @@ Bribes, favouritism, blackmail, secret deals, people who can be bought.
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1783,7 +1794,7 @@ Not because they love the institution, but because they fear what will happen to
 
 #writing-box(
   label: "Does the institution end in your story, or does it persist?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1800,7 +1811,7 @@ What the institution provided that they must now provide for themselves (excuses
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1809,7 +1820,7 @@ The moment that proves they're choosing each other, not the institution:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1821,7 +1832,7 @@ The moment that proves they're choosing each other, not the institution:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1870,6 +1881,7 @@ Name the specific consequences that make walking away impossible, not just incon
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -1883,7 +1895,7 @@ Does the institution serve the ruling power, challenge it, or operate in its sha
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1897,7 +1909,7 @@ What beliefs about honour, duty, family, or success does this institution embody
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1909,7 +1921,7 @@ Who funds it, who profits from it, and who pays the price of its existence?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1921,7 +1933,7 @@ Does faith legitimise, condemn, or operate parallel to this institution's author
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1933,7 +1945,8 @@ Does magic enable control, create hierarchy, or offer paths to subvert the insti
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1953,7 +1966,7 @@ Does magic enable control, create hierarchy, or offer paths to subvert the insti
     ([The gap between institutional ideal and reality:], []),
     ([How they navigate/game the system:], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == Quick Reference: Your Institution
 ],

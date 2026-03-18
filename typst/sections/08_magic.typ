@@ -50,6 +50,7 @@ Design your magical system based off of one question -- what does it cost? The a
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -109,7 +110,7 @@ Not every magical ability needs to directly advance the romance. Winnowing in #e
     ([], []),
     ([], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
 )
 
@@ -144,7 +145,7 @@ Not every magical ability needs to directly advance the romance. Winnowing in #e
   rows: (
     ([], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
 )
 
@@ -223,7 +224,7 @@ You can combine multiple approaches.
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -236,6 +237,7 @@ Unique magic systems are memorable. What makes yours distinctive from what reade
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -302,6 +304,7 @@ Magic's origin can unite or divide. In #emph[ACOTAR], Feyre is human and Tamlin 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -379,7 +382,7 @@ Who holds more magical, political, or physical power? Power imbalances create te
     ([Love Interest's magical status], []),
     ([What this means for their dynamic], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -392,6 +395,7 @@ In later #emph[ACOTAR] books, Rhysand is the most powerful High Lord in history.
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -503,7 +507,7 @@ This overlap was not incidental. It's what makes romantic tension feel mythic ra
     ([Internal pressure/sensation], [], []),
     ([Visual (from the user's POV)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -648,6 +652,7 @@ What did they learn?
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -760,6 +765,7 @@ Violet's true surpassing comes about when her lightning signet manifests in Four
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -894,6 +900,7 @@ Would they try to stop your character, share the burden, or respect the choice?
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -995,6 +1002,7 @@ Limitations can protect or obstruct love. Can magic reveal truth, or does it for
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -1020,7 +1028,7 @@ Not all magic users are created equal, and not all magic is the same flavour. Un
     ([Weakest magic user], []),
     ([Strongest magic user], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1040,7 +1048,7 @@ Not all magic users are created equal, and not all magic is the same flavour. Un
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1162,7 +1170,7 @@ In #emph[Gideon the Ninth], Harrow is a necromancer who works with bones and dea
     ([How they might complement], []),
     ([What this means for the romance], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1279,6 +1287,7 @@ A key aspect of accepting a partner's beast form is acceptance of all parts of w
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -1362,6 +1371,7 @@ The manner in which your character develops their magic influences the response 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -1385,7 +1395,7 @@ HARD (Clear rules, defined costs, readers can predict what magic will do) ←―
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1418,6 +1428,7 @@ HARD (Clear rules, defined costs, readers can predict what magic will do) ←―
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -1555,6 +1566,7 @@ What does its origin say about their relationship?
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -1708,6 +1720,7 @@ New bond, deepened connection, revealed secret, shifted power dynamic, consequen
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -2223,6 +2236,7 @@ Not because of magical mechanics but despite the complications magic creates:
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -2452,6 +2466,7 @@ What would repair require?
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -2636,6 +2651,7 @@ Love makes people offer things they shouldn't. What would your protagonist risk 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -2768,6 +2784,7 @@ Gained power, lost it, transformed, or learned to use it differently?
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -2798,6 +2815,7 @@ You've spent this section building the mechanics of your magic — now let's mak
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -3036,7 +3054,7 @@ Underground magic users, rebel factions, hidden communities, black markets?
     ([Protagonist], [], []),
     ([Love Interest], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -3192,7 +3210,7 @@ How does your magic system connect to the rest of your world?
     ([Economy & Trade], [], []),
     ([History], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -3216,7 +3234,7 @@ How does your magic system connect to the rest of your world?
     ([How magic divides your leads], []),
     ([Hard ← or → Soft], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == Quick Reference
 
@@ -3273,6 +3291,7 @@ Write it down. You may figure it out as you draft, or in later sections.
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 

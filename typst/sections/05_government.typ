@@ -41,7 +41,8 @@ Every decision in this section should serve the cage. When you choose a governme
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -129,7 +130,7 @@ In the strongest romantasy, your characters are changed by both the romance and 
     ([The romance (emotional safety/vulnerability)], [], []),
     ([The political conflict (impossible challenge)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -182,7 +183,7 @@ In the strongest romantasy, your characters are changed by both the romance and 
     ([Compulsion (political forces push them together)], [], []),
     ([Stakes (what they risk by being together)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -197,7 +198,7 @@ In the strongest romantasy, your characters are changed by both the romance and 
   example-rows: (
 
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -273,7 +274,7 @@ Common options: monarchy (absolute, constitutional, hereditary, elected), theocr
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -285,7 +286,8 @@ Common options: monarchy (absolute, constitutional, hereditary, elected), theocr
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -303,7 +305,7 @@ Be specific — name or title:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -320,7 +322,7 @@ Be specific — name or title:
     ([How they gained power], []),
     ([How long they've ruled], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -359,7 +361,7 @@ Military force? Magic? Religion? Economic control? Information and spies? Fear? 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -384,6 +386,7 @@ Are your characters on opposite sides? Could their union stabilize or destabiliz
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -407,7 +410,7 @@ Ruler by decree? Legislative body? Religious authority? Tradition that no one ch
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -428,7 +431,7 @@ Ruler by decree? Legislative body? Religious authority? Tradition that no one ch
     ([Revolution/conquest], [], []),
     ([Legal challenge/appeal], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -440,7 +443,7 @@ Divine law, ancient compacts, magically binding treaties — things that #emph[c
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -452,7 +455,8 @@ Divine law, ancient compacts, magically binding treaties — things that #emph[c
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -482,7 +486,7 @@ Birth? Achievement? Magical ability? Wealth? Military service? Marriage?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -498,7 +502,7 @@ Birth? Achievement? Magical ability? Wealth? Military service? Marriage?
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -555,7 +559,7 @@ Which dynamic exists, and how does it affect your characters?
     ([Who controls training/access?], []),
     ([Can magical power be taken away?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -592,6 +596,7 @@ Mixing bloodlines? Teaching forbidden magic? Creating a dangerous bond? Fulfilli
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -607,7 +612,7 @@ Royal guard? City watch? Magical enforcers? Religious authorities? Secret police
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -622,7 +627,7 @@ Royal guard? City watch? Magical enforcers? Religious authorities? Secret police
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -635,7 +640,7 @@ Omnipresent (high risk)? Moderate? Weak or corrupt (easy to evade)? Selective (d
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -653,7 +658,7 @@ Omnipresent (high risk)? Moderate? Weak or corrupt (easy to evade)? Selective (d
     ([Marry illegally], []),
     ([Produce children], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -672,7 +677,7 @@ Omnipresent (high risk)? Moderate? Weak or corrupt (easy to evade)? Selective (d
     ([Can verdicts be appealed?], []),
     ([Who can afford good representation?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -729,7 +734,7 @@ Renounce their status? Confess to share punishment? What would that cost?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -762,7 +767,7 @@ Diplomatic immunity? Religious sanctuary? Royal protection? Magical immunity? St
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -774,7 +779,7 @@ Special status can be both shield and cage. What freedoms does it grant, and wha
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -786,7 +791,7 @@ Could marriage, alliance, or association extend protection to their partner?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -798,7 +803,7 @@ Does being connected to them make their partner a target? Create political compl
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -810,7 +815,7 @@ Could they renounce it? At what cost?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -828,7 +833,7 @@ A trial creates narrative opportunity for public confrontation, defence, and dra
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -840,7 +845,7 @@ Monarch? Court? Religious authority? Magical council? Trial by combat?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -852,7 +857,7 @@ Hope of appeal can drive plot; no recourse raises the stakes considerably.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -864,7 +869,7 @@ Allies willing to speak for them reveal the depth of support or isolation your c
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -894,7 +899,7 @@ When one character has the ability to imprison, exile, or kill another, how do y
     ([How does the less powerful character exercise agency?], []),
     ([What would it look like if the less powerful character said no? Would there be consequences?], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
 )
 
 
@@ -973,7 +978,7 @@ Divorce allowed? Annulment possible? Magical bonds breakable? Or is marriage per
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -986,6 +991,7 @@ Criminal (execution, imprisonment, exile)? Social (loss of title, disownment)? M
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -1036,7 +1042,7 @@ Same social class? One or two classes apart (scandalous but possible to bridge)?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1060,7 +1066,7 @@ Will they lose their status? Be disowned? Become socially isolated?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1076,7 +1082,7 @@ Will they lose their status? Be disowned? Become socially isolated?
 
 #writing-box(
   label: "What species exist in your world?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1184,7 +1190,7 @@ Just wed? Months? Years of cold distance?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1208,7 +1214,7 @@ Strangers? Polite distance? Active hostility? Tentative curiosity?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1220,7 +1226,7 @@ Must they appear united? Produce an heir? Attend functions together? Share chamb
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1268,7 +1274,8 @@ At what point do they stay together because they want to, not because they must?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1308,7 +1315,7 @@ Ends a war? Unites rival houses? Fulfills prophecy? Secures resources?
     ([Who wants them apart], []),
     ([Why], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1318,7 +1325,7 @@ Ends a war? Unites rival houses? Fulfills prophecy? Secures resources?
 
 #writing-box(
   label: "What happens if they refuse the political obligation?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1383,7 +1390,7 @@ All fake relationships begin with parameters: how much physical interaction can 
     ([When does the performance end?], [], []),
     ([Is one secretly working against the other?], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -1407,7 +1414,8 @@ All fake relationships begin with parameters: how much physical interaction can 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1445,7 +1453,7 @@ The moment of choosing love over loyalty is one of the most powerful beats in en
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1462,7 +1470,7 @@ The moment of choosing love over loyalty is one of the most powerful beats in en
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1474,7 +1482,7 @@ The moment of choosing love over loyalty is one of the most powerful beats in en
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1484,7 +1492,7 @@ The moment of choosing love over loyalty is one of the most powerful beats in en
 
 #writing-box(
   label: "If on opposite sides, what would it take to betray their faction for each other?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1511,7 +1519,7 @@ Name specific antagonists. What do they stand to lose if your characters unite?
     ([], [], [], [], []),
     ([], [], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1533,7 +1541,7 @@ Allies provide hope and aid, but their support should cost them something too.
   example-rows: (
 
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1546,7 +1554,8 @@ Political instability creates both danger and opportunity. Could your characters
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1574,7 +1583,7 @@ When two characters share an adversarial environment at court as partners, that 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1595,7 +1604,7 @@ When two characters share an adversarial environment at court as partners, that 
     ([Protagonist], [], [], []),
     ([Love Interest], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1619,7 +1628,7 @@ When two characters share an adversarial environment at court as partners, that 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1631,7 +1640,7 @@ When two characters share an adversarial environment at court as partners, that 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1650,7 +1659,7 @@ When two characters share an adversarial environment at court as partners, that 
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1679,7 +1688,7 @@ If yes:
     ([What happens if they're discovered?], []),
     ([How does the secret limit the intimacy they can share?], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1709,7 +1718,7 @@ What spying does for characters is put them in charged close proximity. Intellig
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1772,7 +1781,7 @@ After the big reveal, the heavy lifting begins. The cat's out of the bag. Now wh
     ([How? (confession / discovery / betrayal by third party / forced)], []),
     ([Does it deepen or shatter the bond?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -1792,7 +1801,7 @@ After the big reveal, the heavy lifting begins. The cat's out of the bag. Now wh
     ([Second revelation (deeper)], [], []),
     ([Third revelation (forces the choice)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1805,6 +1814,7 @@ After the big reveal, the heavy lifting begins. The cat's out of the bag. Now wh
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -1832,7 +1842,7 @@ War is the most extreme form of political pressure. It will separate lovers, cre
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1886,7 +1896,7 @@ Volunteers? Conscripts? Nobility obligated to fight? Mercenaries? Magical warrio
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1901,7 +1911,7 @@ For whom? At what age? For how long? Can it be avoided — and how?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1913,7 +1923,7 @@ Honored? Feared? Pitied? Looked down upon? Does it vary by rank?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1934,7 +1944,7 @@ If yes:
     ([Why they serve], []),
     ([What they've seen or done], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1974,7 +1984,7 @@ If yes:
     ([What conflict], [], []),
     ([Their side], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1993,7 +2003,7 @@ Propaganda, stereotypes, justified grievances:
     ([Protagonist's side], []),
     ([Love interest's side], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2005,7 +2015,7 @@ Traitor? Spy? Corrupted? Foolish? Understandable but forbidden?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2029,7 +2039,7 @@ Does their union have political implications for the war?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2052,7 +2062,7 @@ If yes:
     ([Circumstances], []),
     ([How it affects them], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2068,7 +2078,7 @@ If yes:
     ([Who was lost and how], []),
     ([How it shapes them], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2080,7 +2090,7 @@ Atrocities, massacres, betrayals during the conflict:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2090,7 +2100,7 @@ Atrocities, massacres, betrayals during the conflict:
 
 #writing-box(
   label: "Does one character bear responsibility (personally or ancestrally) for violence against the other's people?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2119,7 +2129,7 @@ Execution? Imprisonment? Exile? Branded? Hunted?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2131,7 +2141,7 @@ What would push them to it? What would they lose?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2143,7 +2153,7 @@ Welcomed? Suspected? Used for information then discarded? Tested?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2158,7 +2168,7 @@ Victory for one side? Negotiated peace? Exhaustion? Outside intervention?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2170,7 +2180,7 @@ Symbol of unity? Marriage alliance? Proof that peace is possible?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2182,7 +2192,7 @@ What would each side have to give up or accept?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2192,7 +2202,7 @@ What would each side have to give up or accept?
 
 #writing-box(
   label: "In peacetime, could they be together openly — or would old hatreds persist?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2223,13 +2233,13 @@ They or their peoples are literally trying to kill each other.
 
 #writing-box(
   label: "Specifics",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -2243,13 +2253,13 @@ One group harmed the other in ways that haven't been forgiven.
 
 #writing-box(
   label: "Specifics",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -2263,13 +2273,13 @@ What one wants requires destroying what the other wants.
 
 #writing-box(
   label: "Specifics",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -2283,13 +2293,13 @@ Master/slave, conqueror/conquered, oppressor/oppressed.
 
 #writing-box(
   label: "Specifics",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -2303,13 +2313,13 @@ Not their peoples — them specifically. Direct personal injury.
 
 #writing-box(
   label: "Specifics",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -2323,13 +2333,13 @@ What one considers moral, the other considers evil.
 
 #writing-box(
   label: "Specifics",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -2343,13 +2353,13 @@ Throne, position, resource, territory — winner takes all.
 
 #writing-box(
   label: "Specifics",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -2363,13 +2373,13 @@ Even if they didn't create it, they benefit from and enforce it.
 
 #writing-box(
   label: "Specifics",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -2396,7 +2406,7 @@ Not just dislike — #emph[hate]. If the answer is no, your enmity isn't strong 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2408,7 +2418,7 @@ Enemies to lovers works best when both have legitimate grievances.
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2438,7 +2448,7 @@ Be specific. Vague "ancient grudge" isn't enough.
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2450,7 +2460,7 @@ Living memory? Grandparents' time? Centuries ago but never forgotten?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -2462,7 +2472,7 @@ Scars on the land, displaced peoples, stolen artifacts, suppressed culture, ongo
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2481,7 +2491,7 @@ Do they feel personal guilt/grievance, or do they see it as "the past"?
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2509,7 +2519,7 @@ Do they feel personal guilt/grievance, or do they see it as "the past"?
 
 #writing-box(
   label: "Was it intentional, justified (in their mind), or accidental?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -2521,7 +2531,7 @@ Do they feel personal guilt/grievance, or do they see it as "the past"?
 
 #writing-box(
   label: "Does the one who caused harm feel guilty, justified, or conflicted?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2535,7 +2545,7 @@ Death? Confession? Reparation? There's no path forward without addressing this.
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2547,7 +2557,7 @@ Some things can't be — and pretending otherwise insults readers. If one killed
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2569,7 +2579,7 @@ Some things can't be — and pretending otherwise insults readers. If one killed
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2588,7 +2598,7 @@ Not just "they were raised that way" — what experiences, evidence, or reasonin
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2603,7 +2613,7 @@ If both views have merit, the story is about synthesis or accepting difference �
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2636,7 +2646,7 @@ Rationalize it? Distrust it? Assume ulterior motive?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2658,7 +2668,7 @@ Rationalize it? Distrust it? Assume ulterior motive?
 
 #writing-box(
   label: "How does the love interest initially explain this?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2690,7 +2700,7 @@ They don't have to agree. But do they understand?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2712,7 +2722,7 @@ They don't have to agree. But do they understand?
 
 #writing-box(
   label: "How does this change them?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2732,7 +2742,7 @@ Not just "has feelings" — an action that crosses a line.
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2742,7 +2752,7 @@ Not just "has feelings" — an action that crosses a line.
 
 #writing-box(
   label: "What does this cost them?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2754,7 +2764,7 @@ Not just "has feelings" — an action that crosses a line.
 
 #writing-box(
   label: "What does the love interest do that their side would consider betrayal?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2766,7 +2776,7 @@ Not just "has feelings" — an action that crosses a line.
 
 #writing-box(
   label: "What does this cost them?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2799,7 +2809,7 @@ At a certain point in the story, each of the characters will have to opt for the
     ([Protagonist], [], []),
     ([Love Interest], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2811,7 +2821,7 @@ At a certain point in the story, each of the characters will have to opt for the
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -2826,7 +2836,7 @@ The historical wrong, the personal injury, the ideological divide — name it:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2838,7 +2848,7 @@ The one who was wronged? The one who caused harm? Does it happen naturally or ge
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2854,7 +2864,7 @@ The one who was wronged? The one who caused harm? Does it happen naturally or ge
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2870,7 +2880,7 @@ The one who was wronged? The one who caused harm? Does it happen naturally or ge
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2880,7 +2890,7 @@ The one who was wronged? The one who caused harm? Does it happen naturally or ge
 
 #writing-box(
   label: "Is there an apology? Is it sufficient?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2892,7 +2902,7 @@ The one who was wronged? The one who caused harm? Does it happen naturally or ge
 
 #writing-box(
   label: "Is there forgiveness? Is it earned?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2912,7 +2922,7 @@ Lives lost, time wasted, trust that can never be fully restored:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2922,7 +2932,7 @@ Lives lost, time wasted, trust that can never be fully restored:
 
 #writing-box(
   label: "How do they live with what can't be fixed?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2934,7 +2944,7 @@ Lives lost, time wasted, trust that can never be fully restored:
 
 #writing-box(
   label: "Is there anything one can do to make amends — even if it can't undo the harm?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2954,7 +2964,7 @@ Community, family, identity, safety, purpose:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2964,7 +2974,7 @@ Community, family, identity, safety, purpose:
 
 #writing-box(
   label: "What does the love interest lose?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2978,7 +2988,7 @@ The answer should be "yes, but barely" — the cost should be real enough that c
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -2993,7 +3003,7 @@ Symbol of peace? Proof that reconciliation is possible? Catalyst for change? Or 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -3009,7 +3019,7 @@ Symbol of peace? Proof that reconciliation is possible? Catalyst for change? Or 
     ([Protagonist's side], []),
     ([Love interest's side], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -3028,7 +3038,7 @@ Use this to pressure-test your enmity:
 
 #writing-box(
   label: "Check: Is your enmity based primarily on misunderstanding?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -3040,7 +3050,7 @@ Use this to pressure-test your enmity:
 
 #writing-box(
   label: "Check: Does attraction make them forget their legitimate grievances?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -3052,7 +3062,7 @@ Use this to pressure-test your enmity:
 
 #writing-box(
   label: "Check: Do they ever actually address the reason they were enemies?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -3064,7 +3074,7 @@ Use this to pressure-test your enmity:
 
 #writing-box(
   label: "Check: Does falling in love make either character unrecognizable?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -3088,7 +3098,7 @@ If your characters come from influential families, then succession will impact t
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -3100,7 +3110,7 @@ Marrying wrong costs inheritance? They must marry to inherit? Their union combin
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -3116,7 +3126,7 @@ Marrying wrong costs inheritance? They must marry to inherit? Their union combin
     ([Timeline], []),
     ([What happens if they don't], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -3126,7 +3136,7 @@ Marrying wrong costs inheritance? They must marry to inherit? Their union combin
 
 #writing-box(
   label: "If they're different species or one is sterile, how does this affect heir requirements?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -3138,7 +3148,7 @@ Marrying wrong costs inheritance? They must marry to inherit? Their union combin
 
 #writing-box(
   label: "Could their relationship cause or solve a succession crisis?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -3156,7 +3166,7 @@ Appealing for exception? Changing laws politically? Waiting for a new ruler? Fin
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -3168,7 +3178,7 @@ Appealing for exception? Changing laws politically? Waiting for a new ruler? Fin
 
 #writing-box(
   label: "If peaceful change is impossible, what would revolution look like?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -3182,7 +3192,7 @@ What would push them from surviving the system to fighting it?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -3194,7 +3204,7 @@ Safety? Family? Status? Each other?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -3206,7 +3216,8 @@ Revolution isn't clean. Lives lost? Stability destroyed? Becoming what they foug
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -3221,7 +3232,7 @@ Revolution isn't clean. Lives lost? Stability destroyed? Becoming what they foug
     ([Could magic let them bypass political obstacles? If yes, why don't they?], []),
     ([Does government have magical enforcement (truth spells, tracking, binding oaths)?], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   preamble: [
 == Integration Check
 ],
@@ -3236,7 +3247,7 @@ Revolution isn't clean. Lives lost? Stability destroyed? Becoming what they foug
 
 #writing-box(
   label: "In one sentence, what is the primary political obstacle keeping your characters apart?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -3256,7 +3267,7 @@ Which path do your characters take?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -3268,7 +3279,8 @@ The crisis point when they can no longer avoid confronting it:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -3290,7 +3302,7 @@ The crisis point when they can no longer avoid confronting it:
     ([The political crisis point], []),
     ([How it resolves], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == Quick Reference: Political Stakes
 ],

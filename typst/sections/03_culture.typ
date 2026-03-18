@@ -54,7 +54,7 @@ What cultural assumption does your character accept without question at the star
     ([What do they lose by seeing it? (Certainty, community, identity?)], [], []),
     ([What do they gain?], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -141,7 +141,7 @@ Some of the most interesting romantic tension comes from pairing characters who 
     ([], []),
     ([], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
 )
 
@@ -195,7 +195,7 @@ If your world mirrors a real culture, focus on what's different. You don't need 
     ([#strong[Paper-Thin Taboo:] Something is supposedly forbidden, but no one seems to actually care and there are no real consequences], [], []),
     ([#strong[Monolithic Culture:] Everyone in the society thinks the same way with no internal variation, rebels, or regional differences], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   preamble: [
 ==== Cultural Worldbuilding Self-Check
 
@@ -297,7 +297,7 @@ The flip side of values — what brings disgrace:
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -310,6 +310,7 @@ What virtue do they have to abandon, or what shame must they accept?
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -340,7 +341,7 @@ Focus on what affects your story:
     ([Expected roles and behaviors], []),
     ([Prohibited roles and behaviors], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -356,7 +357,7 @@ Focus on what affects your story:
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -380,7 +381,7 @@ Who pursues? Who waits? Who controls the pace?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -392,7 +393,8 @@ Who pursues? Who waits? Who controls the pace?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -422,7 +424,7 @@ As soon as romance enters into a character's routine, the reader will be able to
     ([Afternoon/Evening (when does work end? what follows?)], []),
     ([Night (when do people sleep? what's nightlife like?)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -432,7 +434,7 @@ As soon as romance enters into a character's routine, the reader will be able to
 
 #writing-box(
   label: "How does this rhythm differ by class or profession?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -446,7 +448,7 @@ Market days? Rest days? Religious observances? Regular social gatherings?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -458,7 +460,7 @@ Leisure, entertainment, socializing — what fills non-work hours?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -477,7 +479,7 @@ Leisure, entertainment, socializing — what fills non-work hours?
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
 )
 
@@ -507,7 +509,7 @@ As your character first enters their love interest's home, take some time to all
     ([Middle/merchant], []),
     ([Common/poor], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -519,7 +521,7 @@ Nuclear families? Extended families? Multiple generations? Servants in the house
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -531,7 +533,7 @@ Private bedrooms? Shared sleeping spaces? Thin walls? Servants everywhere?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -543,7 +545,7 @@ What objects, rituals, or elements make a space feel like home in your culture?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -556,6 +558,7 @@ What objects, rituals, or elements make a space feel like home in your culture?
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -573,7 +576,7 @@ Who heads the household? How are decisions made? What's the hierarchy within a f
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -587,7 +590,7 @@ What do children owe parents? What do parents owe children? What about siblings,
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -599,7 +602,7 @@ Who raises them (parents, extended family, nurses, community)? What are they tau
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -611,7 +614,7 @@ How does the culture handle people outside the typical family structure?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -630,7 +633,7 @@ How does the culture handle people outside the typical family structure?
     ([Protagonist's family], [], []),
     ([Love Interest's family], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -662,7 +665,7 @@ Eating together is one of the most simple ways to develop intimacy. When charact
     ([Midday], [], []),
     ([Evening], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -672,7 +675,7 @@ Eating together is one of the most simple ways to develop intimacy. When charact
 
 #writing-box(
   label: "What's \"special occasion\" food vs. everyday food?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -686,7 +689,7 @@ Religious restrictions? Class-based foods? Regional specialties? Seasonal availa
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -698,7 +701,7 @@ When is drinking appropriate? What's drunk? What are drinking customs?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -725,7 +728,7 @@ Friendship? Alliance? Courtship? Family acceptance? Sealing a deal?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -737,7 +740,7 @@ Aphrodisiacs, festival foods, courting treats, magical foods:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -750,6 +753,7 @@ Aphrodisiacs, festival foods, courting treats, magical foods:
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -769,7 +773,7 @@ Research real-world architecture that inspires your world. Note distinctive elem
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -793,7 +797,7 @@ How can your protagonist tell a temple from a tavern at a glance?
     ([Common dwelling], []),
     ([Military/fortification], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -811,7 +815,7 @@ How can your protagonist tell a temple from a tavern at a glance?
   rows: (
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
 )
 
@@ -834,7 +838,7 @@ Daily prayers or rituals? Religious dietary restrictions? Spiritual interpretati
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -848,7 +852,7 @@ Birth, coming of age, marriage, death — what rituals mark these transitions?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -860,7 +864,7 @@ Priests, temples, shrines — how present are they in ordinary life?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -872,7 +876,7 @@ What places, objects, words, or actions carry spiritual weight?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -885,6 +889,7 @@ What places, objects, words, or actions carry spiritual weight?
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -938,7 +943,7 @@ Knocking on wood, crossing fingers, small offerings, phrases spoken at certain m
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -948,7 +953,7 @@ Knocking on wood, crossing fingers, small offerings, phrases spoken at certain m
 
 #writing-box(
   label: "What do people believe about dreams, omens, or signs?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -960,7 +965,7 @@ Knocking on wood, crossing fingers, small offerings, phrases spoken at certain m
 
 #writing-box(
   label: "What folk remedies or beliefs exist around health, love, or fortune?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -974,7 +979,8 @@ Knocking on wood, crossing fingers, small offerings, phrases spoken at certain m
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1006,7 +1012,7 @@ Etiquette becomes romantic tension as a result of one character watching another
     ([Superior to inferior (class/age/rank)], []),
     ([Inferior to superior], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1018,7 +1024,7 @@ Behaviors that give offense, things that aren't done:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1030,7 +1036,7 @@ Offering food/drink to guests? Specific gestures of respect? Customs around visi
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1042,7 +1048,7 @@ Direct confrontation? Indirect communication? Mediation through third parties?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1057,7 +1063,7 @@ Direct confrontation? Indirect communication? Mediation through third parties?
   example-rows: (
 
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1086,7 +1092,7 @@ Protection? Food and shelter? Safe passage? How long do guest rights last? Is th
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1100,7 +1106,7 @@ Respect for house rules? Gifts? Restraint? What behaviour would violate guest ri
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1112,7 +1118,7 @@ By either party. What are the consequences of betraying a guest or dishonouring 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1124,7 +1130,7 @@ Are they a willing guest, a reluctant one, or a prisoner in all but name? How do
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1144,7 +1150,7 @@ Are they a willing guest, a reluctant one, or a prisoner in all but name? How do
     ([The host's exposure (home reveals truth)], [], []),
     ([The violation (broken contract, deeper betrayal)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1156,7 +1162,8 @@ Are they a willing guest, a reluctant one, or a prisoner in all but name? How do
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1176,7 +1183,7 @@ Music, theater, games, sports, storytelling, gambling — what do people do for 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1190,7 +1197,7 @@ The cultural touchstones — tales children grow up hearing, references everyone
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1202,7 +1209,7 @@ Instruments, styles, occasions for music:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1212,7 +1219,7 @@ Instruments, styles, occasions for music:
 
 #writing-box(
   label: "What games or sports do people play?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1226,7 +1233,7 @@ Visual arts, crafts, performance, literature — what does this culture create a
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1244,7 +1251,7 @@ Visual arts, crafts, performance, literature — what does this culture create a
   rows: (
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1285,7 +1292,7 @@ Military oaths? Family promises? Honour debts? Sworn service? Magical bargains? 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1299,7 +1306,7 @@ Social disgrace? Exile? Loss of rank or magic? Physical pain? Somatic illness? S
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1311,7 +1318,7 @@ Can a bargain be literally binding? Does it manifest physically (a tattoo, a mar
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1323,7 +1330,7 @@ Can precise wording be exploited? Is the letter or the spirit of the promise wha
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1335,7 +1342,7 @@ Which promise must be broken, or creatively reinterpreted, for them to be togeth
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1357,7 +1364,7 @@ If precise wording matters in your world, draft the actual words of the promise 
     ([What it could literally mean (the loophole)], []),
     ([What it costs to break outright], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1385,7 +1392,7 @@ Forbidden love has its excitement in the risk involved. Ensure that your reader 
     ([Magical (certain powers, displaying abilities, magical contact between people)], []),
     ([Sexual (anything related to intimacy before or outside marriage)], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -1400,7 +1407,7 @@ Pick 2-3 that create real obstacles:
   example-rows: (
 
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1421,7 +1428,7 @@ Consequences should escalate with severity:
     ([Moderate taboo broken], []),
     ([Major taboo broken], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1446,6 +1453,7 @@ This might be the climactic choice — the line they can't uncross:
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -1533,7 +1541,7 @@ Do they feel shame? Freedom? Confusion? Curiosity they've been taught to suppres
     ([Sexual experience/history], [], []),
     ([Expressing desire openly], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1549,7 +1557,7 @@ Do they feel shame? Freedom? Confusion? Curiosity they've been taught to suppres
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
   preamble: [
 ==== Map the architecture of restriction — and the sequence of dismantling
@@ -1592,7 +1600,7 @@ What's the kind of scandal that follows someone forever? Is it the same for all 
     ([Someone of the protagonist's position], []),
     ([Someone of the love interest's position], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1616,7 +1624,7 @@ Who spreads information — maliciously or carelessly? Who might your characters
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1647,7 +1655,7 @@ The rumor that would destroy them — true or not:
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1660,6 +1668,7 @@ What precautions do they take? What lies do they tell? What image do they mainta
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -1696,7 +1705,7 @@ List the spaces where privacy is possible — and what risks each location carri
   example-rows: (
 
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1709,7 +1718,7 @@ Courts, public spaces, family homes, workplaces — where is privacy impossible?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1721,7 +1730,7 @@ Servants, guards, family members, rivals, magical surveillance, spies:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1738,7 +1747,7 @@ Servants, guards, family members, rivals, magical surveillance, spies:
     ([Seen alone together], []),
     ([Seen in physical contact], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1763,6 +1772,7 @@ Who sees them? What happens next?
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -1795,7 +1805,7 @@ Map the boundaries:
     ([Borderline or scandalous], []),
     ([Absolutely forbidden], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1805,7 +1815,7 @@ Map the boundaries:
 
 #writing-box(
   label: "What physical distance is expected between unmarried people?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1858,7 +1868,7 @@ If no — who must be present? Under what circumstances can they be unchaperoned
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1870,7 +1880,7 @@ Is this person sympathetic, oblivious, or hostile to the romance?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1894,7 +1904,8 @@ Does it automatically suggest impropriety? Is their reputation ruined? Are they 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1927,7 +1938,7 @@ Transitions in wardrobe also serve well as indicators of how intimate the relati
     ([Marital/availability markers], []),
     ([Religious markers], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1939,7 +1950,7 @@ Certain fabrics, colors, or styles restricted to certain classes? Penalties for 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1951,7 +1962,7 @@ Disguise? Scandal? Crime? Social death?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1974,7 +1985,7 @@ What do people actually wear? You don't need to describe every stitch, just know
     ([Mourning], [], []),
     ([Wedding/celebration], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1989,7 +2000,7 @@ What clothing exists in your world that doesn't exist in ours? Magical garments?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2004,7 +2015,7 @@ What's modest dress in your culture? Does it differ by gender, class, or context
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2014,7 +2025,7 @@ What's modest dress in your culture? Does it differ by gender, class, or context
 
 #writing-box(
   label: "What's considered scandalous or provocative to reveal?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2028,7 +2039,7 @@ If someone shows skin they normally cover, what does that signal? Trust? Intimac
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2055,7 +2066,7 @@ Bound vs. loose? Cut vs. uncut? Covered vs. uncovered? Specific styles for speci
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2067,7 +2078,7 @@ Is it intimate? Forbidden? Reserved for family or spouse?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2079,7 +2090,7 @@ Unbound, wet, disheveled, cut — and what does it mean?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2094,7 +2105,7 @@ Rings, pins, sashes, cloaks, veils — items that mark someone as courting or cl
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2106,7 +2117,7 @@ Interest? Betrothal? Binding commitment?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2116,7 +2127,7 @@ Interest? Betrothal? Binding commitment?
 
 #writing-box(
   label: "What does it mean to remove or reject such an item?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2143,7 +2154,7 @@ Something given, borrowed, kept, or returned:
 
 #writing-box(
   label: "What does it mean to see someone in states of undress?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2157,7 +2168,7 @@ What are the circumstances? What does each see?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2171,7 +2182,7 @@ What are the circumstances? What does each see?
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
   preamble: [
 ==== What layers come off over the course of the relationship?
@@ -2190,6 +2201,7 @@ Literal armor? A mask? Formal court dress? Religious garments? What does removin
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -2244,7 +2256,7 @@ One gender? Either? Families? Does it vary by class?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2268,7 +2280,7 @@ Weeks? Months? Years? Is a long courtship expected, or can people marry quickly?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2297,7 +2309,7 @@ Do they skip steps? Move too fast? Pursue when they shouldn't? Ignore family inv
     ([Skipping family involvement], []),
     ([Pursuing someone "above" them], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2340,6 +2352,7 @@ Something that reveals more than they intended, or that the other didn't expect:
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -2357,7 +2370,7 @@ What objects carry romantic meaning? (Flowers, jewelry, handkerchiefs, enchanted
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2371,7 +2384,7 @@ Interest? Serious intent? Engagement? Binding commitment?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2416,7 +2429,7 @@ Not a traditional token, but something that gains significance between them:
     ([The receiving (recognition, confusion, physical contact with the gift)], []),
     ([The aftermath (where does the gift go? how often is it touched or looked at?)], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -2455,7 +2468,7 @@ Religious ceremony? Community witness? Consummation? Exchange of vows? Magical b
     ([Words or vows spoken], []),
     ([Objects or symbols used], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2491,7 +2504,7 @@ Do they follow all customs, some, or none? What does this choice reveal?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2506,7 +2519,7 @@ Is this culturally acceptable, scandalous, or meaningless without public recogni
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2531,6 +2544,7 @@ Where would it happen? What would they say or do? Who (if anyone) would witness?
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -2583,7 +2597,7 @@ When developing mourning traditions for your world, there are several dynamics w
     ([Mourning dress or symbols], []),
     ([Restrictions during mourning (social, romantic, business)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2607,7 +2621,7 @@ Is remarriage permitted? Expected? Shameful? Does it depend on how long they wai
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2619,7 +2633,7 @@ Is courtship forbidden during mourning? For how long? What happens if they viola
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2643,7 +2657,8 @@ If one character is mourning, how does this impact what's possible between them?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -2661,7 +2676,7 @@ Age? Ceremony? Achievement? Magical awakening? Physical maturity?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2675,7 +2690,7 @@ Marry without consent? Own property? Make contracts? Use certain magic? Live ind
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2699,7 +2714,7 @@ Coming-of-age ceremonies, magical awakenings, trials, presentations at court, et
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2711,7 +2726,8 @@ Coming-of-age ceremonies, magical awakenings, trials, presentations at court, et
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -2738,7 +2754,7 @@ Think about what a childhood would be in your world. The way your characters wer
     ([Common/poor], [#emph[e.g., Learn their parents' trade by working alongside them; basic numeracy from market haggling; most cannot read]]),
     ([Magical children], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
 )
 
 
@@ -2750,7 +2766,7 @@ Apprenticeship? Formal schools? Family teaching? Religious institutions?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2762,7 +2778,7 @@ Is literacy common? Are schools available to all classes? Gender differences in 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2774,7 +2790,7 @@ Book learning vs. practical skills? Magical knowledge vs. mundane? Traditional k
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2786,7 +2802,7 @@ Temples, military academies, magical schools, noble fostering arrangements? What
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2805,7 +2821,7 @@ Their upbringing shaped who they are. What was childhood like for them?
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2819,7 +2835,7 @@ Is labor dignified or demeaning? Is idleness virtuous (noble leisure) or sinful?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2839,7 +2855,7 @@ Is labor dignified or demeaning? Is idleness virtuous (noble leisure) or sinful?
     ([Necessary but low-status], []),
     ([Disreputable or shameful], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2851,7 +2867,8 @@ Family tradition? Personal choice? Assignment? Class restrictions?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -2878,7 +2895,7 @@ Describe 2-3 that matter for your story:
   example-rows: (
 
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -2915,7 +2932,8 @@ Masquerades where identity is hidden? Festivals where class mingles? Nights when
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -2975,7 +2993,7 @@ Physical exile from the territory? Social death while remaining present? Being c
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2987,7 +3005,7 @@ What transgression crosses the line from punishable to unforgivable? Is there a 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2999,7 +3017,7 @@ Showing the cost through a secondary character makes the threat real before your
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -3011,7 +3029,7 @@ Can the banished return? What would it cost? Is there a path to redemption, or a
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -3023,7 +3041,7 @@ If your character is exiled, where do they go? Who takes them in? Does the roman
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -3044,7 +3062,7 @@ If your character is exiled, where do they go? Who takes them in? Does the roman
     ([Sense of self], []),
     ([What replaces it], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -3087,7 +3105,7 @@ Additionally, allow secondary characters to reinforce the consequences of breaki
     ([Who speaks first], []),
     ([What topics are appropriate], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -3099,7 +3117,7 @@ Social consequences — awkwardness, offense, whispers, retaliation:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -3123,7 +3141,7 @@ Markets? Festivals? Neutral territory? Magical spaces? Private chambers?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -3138,7 +3156,7 @@ Markets? Festivals? Neutral territory? Magical spaces? Private chambers?
     ([Who notices], []),
     ([What it reveals], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What does the "slip" look like between your characters?
 
@@ -3157,7 +3175,7 @@ Markets? Festivals? Neutral territory? Magical spaces? Private chambers?
     ([In private (alone together)], []),
     ([What would happen if someone saw the private version], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== How do your characters behave differently in public versus private?
 
@@ -3188,7 +3206,7 @@ To build anticipation for the name shift, establish the formality at the beginni
     ([Informal (first names, nicknames)], []),
     ([Intimate (pet names, private names, terms of endearment)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -3200,7 +3218,7 @@ Between family? Close friends? Lovers? Only after marriage?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -3212,7 +3230,7 @@ From title to first name? From formal to informal? A new nickname?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -3232,7 +3250,7 @@ This is often a pivotal intimacy moment:
     ([To], []),
     ([When and why], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -3244,7 +3262,7 @@ True names with power? Secret names? Multiple names for different contexts?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -3254,7 +3272,7 @@ True names with power? Secret names? Multiple names for different contexts?
 
 #writing-box(
   label: "What does it mean when one character learns the other's private or true name?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -3281,7 +3299,7 @@ If yes:
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -3298,7 +3316,7 @@ If yes:
     ([Customs], [], []),
     ([Taboos], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -3315,7 +3333,7 @@ If yes:
     ([2], []),
     ([3], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -3352,6 +3370,7 @@ The intimacy of sharing worlds:
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -3368,7 +3387,7 @@ The intimacy of sharing worlds:
     ([What cultural customs have religious origins? Do characters follow them out of faith or habit? (Ref: Section 6)], []),
     ([How does your culture's attitude toward sexuality and desire affect your romance's pacing?], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   preamble: [
 == Integration Check
 ],
@@ -3391,7 +3410,7 @@ The intimacy of sharing worlds:
     ([The oath or promise that conflicts with love], []),
     ([The cultural attitude toward desire that your protagonist must navigate], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   preamble: [
 == Quick Reference: Cultural Stakes
 ],

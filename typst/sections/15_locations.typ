@@ -35,7 +35,7 @@ Here's the test: if you can move a scene to any other location and nothing chang
 
 #writing-box(
   label: "The scene",
-  height: 55pt,
+  height: 120pt,
 )
 
 ]
@@ -46,7 +46,8 @@ Could it happen elsewhere without losing anything? If yes, what constraint, dang
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -104,7 +105,7 @@ Different relationship dynamics interact with locations differently. Have a thin
   rows: (
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -163,7 +164,7 @@ List three to five major romantic moments in your story. Think about the moments
     ([#strong[Moment 4:]],),
     ([#strong[Moment 5:]],),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
 )
 
@@ -191,7 +192,7 @@ The "Why It Must Happen There" column is the most important one. If you can't fi
     ([Moment 4], [], []),
     ([Moment 5], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
 )
 
 
@@ -228,25 +229,25 @@ A good location will create both a need for a certain type of intimacy and also 
 
 #writing-box(
   label: "What they see",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What they hear",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What they smell",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What they feel (temperature, texture, air)",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -266,7 +267,7 @@ A good location will create both a need for a certain type of intimacy and also 
     ([], []),
     ([], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -279,25 +280,25 @@ A good location will create both a need for a certain type of intimacy and also 
 
 #writing-box(
   label: "Size/layout",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Exits/entrances",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Barriers/obstacles",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Dangerous elements",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -309,7 +310,7 @@ A good location will create both a need for a certain type of intimacy and also 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -338,7 +339,7 @@ How private is this location?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -350,7 +351,7 @@ How private is this location?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -362,7 +363,7 @@ How private is this location?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -374,7 +375,7 @@ How private is this location?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -389,7 +390,7 @@ How private is this location?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -401,7 +402,7 @@ How private is this location?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -413,7 +414,7 @@ Physical (can they touch, stand close, be comfortable):
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -422,7 +423,7 @@ Emotional (can they speak freely, show vulnerability):
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -432,7 +433,7 @@ Emotional (can they speak freely, show vulnerability):
 
 #writing-box(
   label: "What intimacy is impossible here — and why?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -446,7 +447,7 @@ Emotional (can they speak freely, show vulnerability):
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -464,7 +465,7 @@ Emotional (can they speak freely, show vulnerability):
     ([#strong[Dusk]], [], []),
     ([#strong[Night]], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Time, Atmosphere and Weather
 
@@ -484,7 +485,7 @@ What time does the pivotal scene happen, and why that time? Timing should feel d
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -493,7 +494,7 @@ How might weather transform this space? Is weather significant in the scene that
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -516,7 +517,7 @@ Locations can be personable too. The best ones give off the feeling that they're
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -530,7 +531,7 @@ Locations can be personable too. The best ones give off the feeling that they're
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -542,7 +543,7 @@ Locations can be personable too. The best ones give off the feeling that they're
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -557,7 +558,7 @@ A house that feels welcoming or hostile, a forest that seems to lead them somewh
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -569,7 +570,7 @@ Does it seem to help them (convenient shelter, paths that lead where they need)?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -581,7 +582,7 @@ Protective, threatening, indifferent, playful, melancholy, ancient, patient?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -604,7 +605,7 @@ Spatial irony gives the reader a sense of being complicit. When we know the secr
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -618,7 +619,7 @@ Spatial irony gives the reader a sense of being complicit. When we know the secr
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -630,7 +631,7 @@ Spatial irony gives the reader a sense of being complicit. When we know the secr
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -646,7 +647,7 @@ Spatial irony gives the reader a sense of being complicit. When we know the secr
     ([#strong[Shifting / Unstable] #emph[(geography changes, paths rearrange, doorways appear or vanish)]], [], []),
     ([#strong[Bonding / Tethering] #emph[(magical connections that mandate proximity or create emotional bleed)]], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   preamble: [
 ==== Magical Properties
 
@@ -668,7 +669,7 @@ Does the magic of this space bypass your characters' defences? Emotion-responsiv
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -677,7 +678,7 @@ Does the magic create safety or danger, or both? The House of Wind provides sanc
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -686,7 +687,7 @@ Could this location's magical properties change over the course of the story? Wa
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -698,7 +699,7 @@ What pivotal moment happens here?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -710,6 +711,7 @@ Why must it happen HERE specifically? This is the ultimate test of your location
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -753,7 +755,7 @@ For your pivotal romantic scenes specifically, be sure to include the one or two
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -765,7 +767,8 @@ For your pivotal romantic scenes specifically, be sure to include the one or two
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -797,7 +800,7 @@ If characters return to a location, what changes between visits? Track how the s
     ([Third visit], [], []),
     ([Final visit], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
 )
 
 
@@ -809,7 +812,7 @@ What do they notice on return that they missed before?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -821,7 +824,7 @@ How does their behaviour in this space change?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -833,7 +836,7 @@ How does their behaviour in this space change?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -854,7 +857,7 @@ A place they return to, where significant moments keep happening:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -866,7 +869,7 @@ Through repetition? A significant first moment there? A private ritual they deve
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -876,7 +879,7 @@ Through repetition? A significant first moment there? A private ritual they deve
 
 #writing-box(
   label: "What would it mean to lose access to this place?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -894,7 +897,7 @@ Destroyed, transformed, forbidden, too dangerous, claimed by enemies, sealed by 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -908,7 +911,7 @@ What happened there? What did it represent? What possibility did it hold?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -920,7 +923,7 @@ Grief? Loss of sanctuary? Loss of possibility? Motivation for action?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -932,7 +935,7 @@ A conversation never had, a moment never taken, a chance lost:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -942,7 +945,7 @@ A conversation never had, a moment never taken, a chance lost:
 
 #writing-box(
   label: "Does the lost location exist only in memory by the end?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -960,7 +963,7 @@ The transition from one significant location to another is often where the most 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -991,7 +994,7 @@ Look at your key locations. Do you have a mix of:
 
 #writing-box(
   label: "If several locations feel similar, how could you change one for more contrast?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1011,7 +1014,7 @@ Travel together or separately? Is the journey itself significant?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1026,7 +1029,7 @@ The walk from the ballroom to the garden, the journey from the city to the wilde
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1041,25 +1044,26 @@ Do they move from public to private? Safe to dangerous? Familiar to unknown? Con
 
 #writing-box(
   label: "Beginning locations",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Middle locations",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Climax location",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Resolution location",
-  height: 55pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1075,7 +1079,7 @@ The moment of greatest emotional vulnerability, final confession, or decisive ch
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1089,7 +1093,7 @@ Does it echo earlier locations? Represent how far they've come? Offer something 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1101,7 +1105,8 @@ The contrast between the first significant location and the last tells readers t
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1154,7 +1159,7 @@ Your key locations don't exist in isolation. They're shaped by every system you'
 
 #writing-box(
   label: "How do your key locations connect to your geography (Section 1)?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1166,7 +1171,7 @@ Your key locations don't exist in isolation. They're shaped by every system you'
 
 #writing-box(
   label: "Do any locations have significant flora/fauna (Section 2)?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1178,7 +1183,7 @@ Your key locations don't exist in isolation. They're shaped by every system you'
 
 #writing-box(
   label: "What cultural significance do locations carry (Section 3)?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1190,7 +1195,7 @@ Your key locations don't exist in isolation. They're shaped by every system you'
 
 #writing-box(
   label: "What historical weight do locations hold (Section 7)?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1202,7 +1207,7 @@ Your key locations don't exist in isolation. They're shaped by every system you'
 
 #writing-box(
   label: "How does technology affect these spaces (Section 9)?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1214,7 +1219,7 @@ Your key locations don't exist in isolation. They're shaped by every system you'
 
 #writing-box(
   label: "Do any locations exist within institutions (Section 14)?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1232,7 +1237,7 @@ Your key locations don't exist in isolation. They're shaped by every system you'
     ([#strong[Location 4:]], [], []),
     ([#strong[Location 5:]], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == Quick Reference: Your Key Locations
 ],
@@ -1249,7 +1254,7 @@ Your key locations don't exist in isolation. They're shaped by every system you'
     ([#strong[Lost location (if any):]], []),
     ([#strong[Final/climax location:]], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 

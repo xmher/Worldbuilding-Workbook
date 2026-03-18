@@ -62,7 +62,7 @@ What's the single biggest entry on your characters' Invisible Ledger: the one de
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
 )
 
@@ -131,7 +131,7 @@ When money or resources pass between lovers:
     ([Economic Pressure (necessity forces choices)], [], []),
     ([Economic Transaction (resources pass between them)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -170,7 +170,7 @@ When money or resources pass between lovers:
     ([The sacrifice], [], []),
     ([The inheritance threat], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -248,7 +248,7 @@ Which type (or combination) describes your world?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -263,7 +263,7 @@ Agriculture? Trade? Craftsmanship? Mining? Magic? Conquest?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -278,7 +278,7 @@ Relatively equal? Concentrated among few? Regional variation? Class-based?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -293,7 +293,7 @@ Can it be earned through work? Only inherited? Granted by rulers? Won through co
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -308,7 +308,7 @@ Prosperity? Slow decline? Post-war rebuilding? Famine or shortage? On the brink 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -320,7 +320,7 @@ Inflation? Scarcity? Heavy taxation? Unemployment? War disruption?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -332,7 +332,7 @@ Inflation? Scarcity? Heavy taxation? Unemployment? War disruption?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -390,7 +390,7 @@ If magic can be extracted, stored, or stolen, then magical characters aren't jus
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -426,7 +426,7 @@ Transmuting materials? Summoning resources? Faster production? Healing for pay? 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -441,7 +441,7 @@ Scarcity of mages? Magic costs something (health, lifespan, sanity)? Laws restri
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -456,7 +456,7 @@ What magical services do people pay for?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -471,7 +471,8 @@ Guilds? Government? Individual mages? Magical families?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -487,7 +488,7 @@ Coins (what metals, what denominations)? Paper money? Trade goods as currency? M
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -511,7 +512,7 @@ Readers need to feel the weight of money in your story. What costs would make yo
     ([A decent horse], []),
     ([A year's comfortable living], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -538,7 +539,7 @@ A few details about currency can make your world feel lived-in. What's stamped o
   example-rows: (
 
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -567,7 +568,7 @@ Coin? Barter? Credit? Letters of exchange? Magical contracts?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -582,7 +583,7 @@ Guilds controlling who can sell what? Import/export restrictions? Illegal goods?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -616,7 +617,7 @@ Show the gap through concrete details. What does each character's home look like
     ([Struggling], []),
     ([Impoverished], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -640,7 +641,7 @@ Through work? Marriage? Education? Magical ability? Or is class fixed at birth? 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -652,7 +653,7 @@ Access to education? Political influence? Legal protection? Better marriage pros
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -664,7 +665,7 @@ What can't poor people access? What dangers do they face? What choices don't the
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -676,7 +677,7 @@ What can't poor people access? What dangers do they face? What choices don't the
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -691,7 +692,8 @@ Legal restrictions? Economic barriers? Social enforcement?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -709,7 +711,7 @@ The thing people would kill for, die for, or sell their freedom for. Now ask: do
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -726,7 +728,7 @@ Natural rarity? Controlled distribution? Difficult to produce? Dangerous to obta
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -741,7 +743,7 @@ Food, water, shelter, fuel, medicine — what do people need to live?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -757,7 +759,7 @@ Food, water, shelter, fuel, medicine — what do people need to live?
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -828,7 +830,7 @@ Occupational status shapes how people are treated and what doors open or close. 
     ([Necessary but low-status], []),
     ([Disreputable or shameful], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -855,7 +857,7 @@ In an agrarian society, most people farm. In a trade economy, many are merchants
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -876,7 +878,7 @@ List occupations that appear or matter in your story:
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -892,7 +894,7 @@ Mining? Soldiering? Magical labor with costs? Work that shortens lives?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -918,7 +920,7 @@ Mining? Soldiering? Magical labor with costs? Work that shortens lives?
     ([Economic necessity], [], [], []),
     ([Other:], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -933,7 +935,7 @@ Is mobility possible, or are you locked into your work for life?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -954,7 +956,7 @@ Work shapes who we become. What skills, knowledge, and worldview has their occup
     ([How the work shows on their body (calluses, scars, ink-stained fingers)], []),
     ([What they notice that others don't (because of their training)], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -975,7 +977,7 @@ How does their work connect to or conflict with your protagonist's world? Do the
     ([How the work shows on their body (calluses, scars, ink-stained fingers)], []),
     ([What they notice that others don't (because of their training)], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -999,7 +1001,7 @@ Their economic position shapes what they worry about, what they dream of, and wh
     ([Economic security (stable, precarious, desperate)], []),
     ([Economic autonomy (independent, dependent, controlled)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1020,7 +1022,7 @@ How does their economic reality differ from your protagonist's? What assumptions
     ([Economic security], []),
     ([Economic autonomy], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1032,7 +1034,8 @@ Minor difference? Significant gap? Extreme disparity?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1056,7 +1059,7 @@ Safety? Comfort? Opportunity? Legal protection? Social access?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1070,7 +1073,7 @@ Skills? Knowledge? Magical ability? Street smarts? Moral clarity?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1082,7 +1085,7 @@ Does one depend on the other? Is there resentment? Does the wealthy one use mone
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1101,7 +1104,7 @@ Shame? Guilt? Obliviousness? Resentment? These feelings may never be spoken alou
     ([Wealthier character], [], []),
     ([Less wealthy character], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1121,7 +1124,7 @@ Romantic? Controlling? Insulting? Expected? Does meaning differ based on who giv
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1135,7 +1138,7 @@ Where's the line?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1147,7 +1150,7 @@ Grateful? Humiliated? Obligated? Suspicious of motives?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1159,7 +1162,7 @@ Pride? Independence? Proving the relationship isn't about money? What would they
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1171,7 +1174,7 @@ A gift taken wrong? An offer that insulted? A refusal that hurt?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1183,7 +1186,8 @@ Not buying something expensive, but noticing what they need and providing it wit
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1242,7 +1246,7 @@ How is marriage negotiated? What does each party bring to the arrangement, and w
     ([Is consummation required to make the contract binding?], []),
     ([Can the contract be broken, and what is the cost?], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
 )
 
 
@@ -1284,7 +1288,7 @@ Does she submit to it, subvert it, or use it as a tool for her own goals? The an
     ([Is consummation required? What changes if they consummate?], []),
     ([Can the bond be felt physically or mentally? How?], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
 )
 
 
@@ -1309,7 +1313,7 @@ This is the romantic turning point. The obligation hasn't changed, but the motiv
     ([Protagonist], [], []),
     ([Love Interest], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1328,7 +1332,7 @@ This is the romantic turning point. The obligation hasn't changed, but the motiv
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1340,7 +1344,7 @@ Can they be disinherited? Do they inherit more for marrying strategically?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1352,7 +1356,7 @@ Who pays whom, and how does this create obstacles?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1364,7 +1368,8 @@ By whom? What would they lose by refusing?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1404,7 +1409,7 @@ Debt creates obligation, and obligation clouds consent. Does debt to the love in
     ([Is the debt magically enforced? How?], []),
     ([How does the debt affect their ability to say no, or yes, to the romance?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -1416,7 +1421,7 @@ Does it force them together? Keep them apart? Create shame or obligation between
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1440,7 +1445,7 @@ Does it force them together? Keep them apart? Create shame or obligation between
     ([Legal requirement], [], [], []),
     ([Other:], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1452,7 +1457,8 @@ Does it force them together? Keep them apart? Create shame or obligation between
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1475,7 +1481,7 @@ Marriage for money? Employment? Alliance for mutual benefit?
     ([Why it's necessary], []),
     ([What each party gets], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1487,7 +1493,7 @@ Do they resent it? Accept it? Try to escape it? Fall in love despite it — or s
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1499,7 +1505,7 @@ Could the wealthy character simply buy their way out of obstacles? If yes, why d
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1508,7 +1514,7 @@ Could someone try to buy one of your characters — offer money to leave, marry 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1524,7 +1530,7 @@ Could someone try to buy one of your characters — offer money to leave, marry 
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1552,7 +1558,7 @@ Work allows for proximity, and proximity leads to potential romance, yet work al
     ([What would the employee lose by refusing the employer's advances?], []),
     ([What would the employee lose by accepting?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -1613,7 +1619,7 @@ Third, moral authority. Grant the less powerful character the moral upper hand. 
     ([Removal of threat (the powerful character proves "no" has no consequences)], [], []),
     ([Moral authority (the less powerful character becomes the powerful one's conscience)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
 )
 
 
@@ -1670,7 +1676,7 @@ And what would it cost them to stay? Map both sides. The answer reveals whether 
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1682,7 +1688,7 @@ Does one gain security? Does one lose independence? Does partnership create new 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1694,7 +1700,7 @@ Secure? Trapped? Grateful? Resentful? Anxious about what happens if the relation
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1706,7 +1712,7 @@ Could they survive financially? Would they be ruined? Is economic fear part of w
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1718,7 +1724,8 @@ Does the provider hold power? Does the dependent partner resent it? How do they 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1738,7 +1745,7 @@ Same workplace? Completely separate worlds? Does one employ the other?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1755,7 +1762,8 @@ How does this affect them and the relationship?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1771,7 +1779,7 @@ What are they striving for, and why?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1788,7 +1796,7 @@ Does it compete for time and attention? Does the relationship help or hinder the
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1806,7 +1814,7 @@ How would each character answer the question "Is this love or is this a good dea
   example-rows: (
 
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1819,7 +1827,8 @@ How would each character answer the question "Is this love or is this a good dea
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1850,7 +1859,7 @@ What inheritance, income, protection, or opportunity do they lose by choosing ea
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1865,7 +1874,7 @@ Can they recover economically?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1877,7 +1886,7 @@ Can they recover economically?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1889,7 +1898,7 @@ Can they recover economically?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1963,7 +1972,7 @@ Don't skip this. The most powerful romantic endings show the cost in concrete, d
     ([What do they miss most from their former life?], [], []),
     ([What surprised them about their new reality?], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1984,7 +1993,7 @@ Partners from different backgrounds will clash over spending. This isn't a flaw 
     ([What purchase would start an argument?], [], []),
     ([How do they feel about accepting help from others?], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2007,7 +2016,7 @@ Immediate needs:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -2019,7 +2028,7 @@ Immediate needs:
 
 #writing-box(
   label: "How do they currently meet these needs?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2033,7 +2042,7 @@ Starvation? Homelessness? Forced into servitude? Death?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -2043,7 +2052,7 @@ Starvation? Homelessness? Forced into servitude? Death?
 
 #writing-box(
   label: "What would they do to survive? How far would they go?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2057,7 +2066,7 @@ A job they hate? Dangerous work? An arrangement they don't want?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2069,7 +2078,7 @@ If yes, does this complicate the romance? Create doubt about true feelings?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -2088,7 +2097,7 @@ If yes, does this complicate the romance? Create doubt about true feelings?
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
 )
 
@@ -2165,7 +2174,7 @@ In #emph[Hunt on Dark Waters], the pirate crew operates under a vow system that 
     ([], [], [], [], []),
     ([], [], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
 )
 
@@ -2185,7 +2194,7 @@ In #emph[Hunt on Dark Waters], the pirate crew operates under a vow system that 
     ([What would their lover lose by being associated with them?], []),
     ([What moral line would they refuse to cross, even for profit?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -2211,7 +2220,7 @@ If one character operates outside the law, they're keeping secrets. Map the disc
     ([Middle (cracks forming)], [], [], []),
     ([Turning point (full vulnerability)], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -2237,7 +2246,7 @@ Some criminal romances end with the characters leaving the life. But leaving has
     ([], []),
     ([], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
 )
 

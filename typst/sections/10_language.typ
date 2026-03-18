@@ -46,7 +46,7 @@ Language intimacy builds in stages. Where do your characters start, and where do
     ([Private language — words, signals, or codes only they share], [], []),
     ([Silence that says everything — words no longer needed], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -104,7 +104,7 @@ Look at the toolkit table above. Pick the 2–3 patterns most relevant to your r
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
 )
 
@@ -148,7 +148,7 @@ One universal language? Many regional languages? Hundreds of dialects? The answe
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -166,7 +166,7 @@ Think about who speaks each language, its cultural prestige, and whether knowing
     ([Common Tongue], [Everyone in the human kingdoms; traders from other realms], [Common: the language of commerce and daily life; considered unsophisticated by nobles]),
     ([High Fae], [The Fae courts; human scholars and diplomats who've studied it], [Prestigious: spoken at court; magical contracts must be written in it to be binding]),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
 )
 
@@ -182,7 +182,7 @@ What does using this language signal about a speaker? Does your protagonist rely
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -194,7 +194,7 @@ Languages that developed from contact between groups often carry stories of conq
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -219,7 +219,7 @@ Where languages mix, characters are most exposed. Markets, courts, border towns,
     ([], [], [], [], []),
     ([], [], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
 )
 
@@ -247,7 +247,7 @@ How did they learn each one? What doors does their linguistic knowledge open or 
     ([How they learned each one], []),
     ([What doors their languages open or close], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -268,7 +268,7 @@ Do they share a language with the protagonist, or will communication itself beco
     ([How they learned each one], []),
     ([What doors their languages open or close], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -289,7 +289,7 @@ If not, how do they communicate initially? Gestures? A shared third language? Ma
     ([If no — how do they communicate initially?], []),
     ([What's lost in this early communication?], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -301,7 +301,8 @@ This is a power question as much as a practical one. Does one teach the other? D
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -323,7 +324,7 @@ When characters need translation, a third party enters their most intimate space
     ([Who translates], []),
     ([How trustworthy are they], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -335,7 +336,7 @@ What's too private, too dangerous, or too intimate to say through a third party?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -347,7 +348,7 @@ What changes when the translator is no longer needed? This is often a turning po
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -359,7 +360,8 @@ Could they mistranslate? Report what they hear? Manipulate the relationship? A t
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -375,7 +377,7 @@ Patience? Intelligence? Cultural values? Playfulness? Frustration? How someone t
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -397,7 +399,7 @@ First words carry weight. Is it practical, accidental, or something that reveals
     ([What it means], []),
     ([Context of learning it], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -417,7 +419,7 @@ What does their choice to learn this particular word reveal about what they noti
     ([What it means], []),
     ([Context of learning it], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -429,7 +431,8 @@ What changes when they can finally understand each other fully, when the bridge 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -503,7 +506,7 @@ Pick a word or phrase from the love interest's language that will become signifi
     ([Full — the word is translated at an emotional peak], [], []),
     ([Echo — the word returns in a new context, meaning transformed], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -515,7 +518,7 @@ Pick a word or phrase from the love interest's language that will become signifi
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -555,7 +558,7 @@ Perfect translation kills tension. Pick at least one constraint from the table a
   rows: (
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
 )
 
@@ -579,7 +582,7 @@ Which technique (or combination) matches the experience you want readers to have
     ([How foreign words are formatted (italics, roman, tags)], []),
     ([How much the reader understands vs. the protagonist], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -599,7 +602,7 @@ If so, what are its limits? What can't it translate? What happens when it fails?
     ([What it can't handle], []),
     ([When it fails (and what that costs)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -623,7 +626,7 @@ Think beyond pitch. Consider texture, rhythm, what emotions colour their speech,
     ([How it changes with emotion], [], []),
     ([What their name sounds like in this voice], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -636,7 +639,7 @@ The catch in their throat? The softening when they say the other's name? The way
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -648,7 +651,7 @@ In darkness, across a room, through a door:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -683,7 +686,7 @@ Speech patterns reveal history. Does their accent betray origins they try to hid
     ([What it reveals about their background], []),
     ([How the love interest perceives it (attraction, suspicion, fascination)], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -703,7 +706,7 @@ How does their speech mark them in your world, and what does the protagonist not
     ([What it reveals about their background], []),
     ([How the protagonist perceives it (attraction, suspicion, fascination)], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -722,7 +725,7 @@ How does their speech mark them in your world, and what does the protagonist not
     ([Protagonist], [], [], [], []),
     ([Love interest], [], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -734,7 +737,8 @@ When the careful accent slips, when they speak unguarded:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -762,7 +766,7 @@ What truths are they avoiding? What feelings go unexpressed?
     ([Protagonist doesn't say], []),
     ([Love interest doesn't say], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -774,7 +778,7 @@ Fear? Pride? Protection? Timing? Not having the words?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -786,7 +790,7 @@ Can the other person feel what's not being said?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -806,7 +810,7 @@ Can the other person feel what's not being said?
     ([Tense silence], [], []),
     ([Silence mistaken for rejection], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -821,7 +825,7 @@ The moment when they finally speak the truth they've been holding:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -849,7 +853,7 @@ Deflection, omission, confident falsehood, nervous tells:
     ([Protagonist], []),
     ([Love interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -868,7 +872,7 @@ What tells give them away? Learning someone's tells is its own form of intimacy.
     ([Protagonist's tells], []),
     ([Love interest's tells], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -888,7 +892,7 @@ The moment of discovering a lie is significant. How much does the discovery cost
     ([How they knew], []),
     ([What happened], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -900,7 +904,7 @@ What's true but difficult to speak aloud?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -912,7 +916,7 @@ When all defences drop and they tell the whole truth:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -938,7 +942,7 @@ Colin tells his brothers in #emph[Bridgerton] that he would never marry Penelope
     ([What they hear], []),
     ([Who was speaking (and to whom)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -950,7 +954,7 @@ Does it reveal truth? Create misunderstanding? Confirm fears? Offer hope?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -962,7 +966,7 @@ The asymmetry of knowledge creates tension. Does the listener reveal what they k
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -974,7 +978,8 @@ Defence of them to others? Confession of feelings? Criticism? Praise?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1009,7 +1014,7 @@ The small signs of their moods, needs, feelings. What do they notice first, and 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1021,7 +1026,7 @@ The small signs only they notice, the tells that reveal mood, need, or hidden fe
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1033,7 +1038,7 @@ Looks across the room, small gestures, touches that mean something specific. Pri
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1045,7 +1050,8 @@ A look that communicates everything. This is often one of the most powerful scen
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1101,7 +1107,7 @@ You don't need to write full dialogue yet. Map how the rhythm changes. Start wit
     ([Breaking point — the unsayable line], [], []),
     ([Aftermath — silence, exit, or collapse], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1120,7 +1126,7 @@ Do they yell? Go cold? Talk in circles? Walk away? Get cutting? Cry?
     ([Protagonist], []),
     ([Love interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1139,7 +1145,7 @@ What can one say that truly hurts the other? Knowing what wounds someone is inti
     ([Protagonist], []),
     ([Love interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1160,7 +1166,7 @@ Real conflict reveals character. What triggers it, what gets said that can't be 
     ([What gets said that can't be unsaid], []),
     ([How it ends], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1181,7 +1187,7 @@ Real conflict reveals character. What triggers it, what gets said that can't be 
     ([How the other recognises it as repair], [], []),
     ([What it proves about them that words couldn't], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1193,7 +1199,8 @@ Arguments can deepen understanding as much as gentle moments. What truths emerge
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1220,7 +1227,7 @@ Literacy is power, and in romantasy, power imbalances create tension. Who can re
     ([Who controls access to reading and writing], []),
     ([What can't be communicated without literacy], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1239,7 +1246,7 @@ Literacy can be a source of power, shame, or connection. How does each character
     ([Protagonist], []),
     ([Love interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1251,7 +1258,7 @@ Does the literate one teach? Is there a power imbalance? Shame? Practical proble
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1272,7 +1279,7 @@ In #emph[Romancing Mister Bridgerton], Penelope's secret life as Lady Whistledow
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1291,7 +1298,7 @@ In #emph[Romancing Mister Bridgerton], Penelope's secret life as Lady Whistledow
     ([What risk exists in this being written down], []),
     ([How the recipient reacts], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1303,7 +1310,8 @@ What truths emerge only in writing?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1350,7 +1358,7 @@ Telepathy? Sending spells? Magical mirrors? Dream-walking? Enchanted objects?
     ([Who has access], []),
     ([What romantic tension it creates], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1369,7 +1377,7 @@ Magical methods can create instant connection or bypass barriers, but they may a
     ([Which method], []),
     ([When they use it], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1381,7 +1389,7 @@ The belief that communication is private changes what people say. What happens i
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1393,7 +1401,8 @@ When magic provides a private channel, what becomes possible? Confessions in the
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1419,7 +1428,7 @@ Restricted languages carry power. Knowing a forbidden tongue can mark someone as
     ([Who can speak it], []),
     ([Why it's special], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1431,7 +1440,7 @@ Required for spells? A language of power? A language belonging to a particular s
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1443,7 +1452,7 @@ What does sharing this knowledge mean? What risk does it carry?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1464,7 +1473,7 @@ What kind of power? Control, magical access, bond creation, vulnerability?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1476,7 +1485,7 @@ What's unique about how it works in your world?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1495,7 +1504,7 @@ What would it mean for your protagonist to share, or withhold, this from their l
     ([Protagonist], [], []),
     ([Love interest], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1514,7 +1523,7 @@ This moment marks a turning point. Is it freely given or discovered? What change
     ([The moment of revelation], []),
     ([What it means for their relationship], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1543,7 +1552,7 @@ Titles, honorifics, and familiar names create layers of intimacy. The shift from
     ([Informal (first names, common address)], []),
     ([Intimate (pet names, private names)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1563,7 +1572,7 @@ From title to name? Formal to informal? Surname to given name? A private nicknam
     ([Intimate address], []),
     ([When the shift happens], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1591,7 +1600,7 @@ In #emph[The Cruel Prince], Jude and Cardan's shared cruelty functions as a priv
     ([What they can say in code that they can't say openly], []),
     ([When they first use it], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1614,7 +1623,7 @@ Endearments carry cultural weight. Are they common or reserved? What does using,
     ([Common terms of endearment], []),
     ([More intimate or private words], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1626,7 +1635,7 @@ Concepts that can't quite be translated. These untranslatable words become story
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1645,7 +1654,7 @@ Learning to say something tender in someone else's tongue is an act of reaching 
     ([The word/phrase], []),
     ([How the other reacts], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1657,7 +1666,8 @@ Whose language and why that choice:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1700,7 +1710,7 @@ Language gaps create room for confusion, comedy, or heartbreak. What gets lost i
     ([What each character believes happened], []),
     ([How it's resolved], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1712,7 +1722,8 @@ Not just words, but meaning. This moment often lands near the emotional climax o
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1747,7 +1758,7 @@ Not just words, but meaning. This moment often lands near the emotional climax o
     ([The shift in address (from → to)], []),
     ([The true name revelation (if applicable)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == Quick Reference: Language Stakes
 ],

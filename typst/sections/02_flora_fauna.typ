@@ -60,7 +60,7 @@ The natural world in your story serves the romance in three ways: as #strong[bac
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
   preamble: [
 ==== How does wilderness function in your romance?
@@ -157,7 +157,7 @@ And if you're not sure whether something matters yet, skip it. You can always co
     ([#strong[Convenient Creature:] A creature exists solely to bond characters or give powers, with no ecology or independent life], [], []),
     ([#strong[Bond That Does Everything:] A creature bond creates the romance automatically, skipping the work of building love and trust], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   preamble: [
 ==== Flora & Fauna Self-Check
 
@@ -195,7 +195,7 @@ Inhabitants of your world do not encounter a neutral environment. Instead, the e
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -209,7 +209,7 @@ Inhabitants of your world do not encounter a neutral environment. Instead, the e
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -223,7 +223,7 @@ Inhabitants of your world do not encounter a neutral environment. Instead, the e
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -238,7 +238,7 @@ Inhabitants of your world do not encounter a neutral environment. Instead, the e
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
   preamble: [
 ==== How does your climate shape intimacy and romance?
@@ -283,7 +283,7 @@ If the magic in your world is dependent upon the land (as it is in ACOTAR, where
     ([Mountains], [], []),
     ([Water (rivers, lakes, ocean)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What's at the top of the food chain in various environments?
 
@@ -300,7 +300,7 @@ If the magic in your world is dependent upon the land (as it is in ACOTAR, where
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -320,7 +320,7 @@ If the magic in your world is dependent upon the land (as it is in ACOTAR, where
     ([Who provides it (and at what cost)], []),
     ([Could this dependency create tension between your characters?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   preamble: [
 ==== If your world has large magical creatures, what do they eat — and who provides it?
 
@@ -376,7 +376,7 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What animals have been domesticated in your world?
 
@@ -393,7 +393,7 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -414,7 +414,7 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
     ([Name], []),
     ([What the animal means to them], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Does your protagonist have an animal companion?
 
@@ -435,7 +435,7 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
     ([Name], []),
     ([What the animal means to them], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Does your love interest have an animal companion?
 
@@ -456,7 +456,7 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
     ([], []),
     ([], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
   preamble: [
 ==== Could a stable, shared ride, or animal-care scene create intimacy in your story?
@@ -478,7 +478,7 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
   preamble: [
 ==== Do your characters encounter wildlife together?
@@ -497,7 +497,7 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
     ([What creature and why it needs care], []),
     ([What this creates between them], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Do your characters care for an animal together?
 
@@ -547,7 +547,7 @@ Agriculture creates the daily rhythms, class structures, and resource pressures 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -563,7 +563,7 @@ Agriculture creates the daily rhythms, class structures, and resource pressures 
     ([Medicinal herbs], [], []),
     ([Intoxicants], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What non-food crops are important?
 
@@ -581,7 +581,7 @@ Agriculture creates the daily rhythms, class structures, and resource pressures 
     ([], []),
     ([], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
   preamble: [
 ==== How does food, land, or agriculture create tension in your romance?
@@ -623,7 +623,7 @@ At its core, foraging is domestic intimacy transplanted to the wilderness. Two p
   example-rows: (
 
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
   preamble: [
 ==== What can be gathered from the wild — and what's dangerous?
@@ -641,7 +641,7 @@ At its core, foraging is domestic intimacy transplanted to the wilderness. Two p
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -660,7 +660,7 @@ At its core, foraging is domestic intimacy transplanted to the wilderness. Two p
     ([What does this knowledge gap reveal about each of them?], []),
     ([What intimate moment could foraging create?], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Could a foraging or plant-knowledge scene build your romance?
 
@@ -694,7 +694,7 @@ In #emph[From Blood and Ash], Poppy's empathic healing abilities create physical
     ([Fever], []),
     ([Infection/wounds], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What natural remedies exist?
 
@@ -716,7 +716,7 @@ In #emph[From Blood and Ash], Poppy's empathic healing abilities create physical
     ([Why is this moment intimate (what walls come down)?], []),
     ([What's the small physical detail that carries the emotion?], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Can you picture a healing scene in your story?
 
@@ -736,7 +736,7 @@ In #emph[From Blood and Ash], Poppy's empathic healing abilities create physical
     ([Where it's found], []),
     ([Why it's hard to obtain], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Is there a plant that's crucial to your plot?
 
@@ -772,7 +772,7 @@ Shared dangerous encounters bond characters because they've seen each other in s
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
   preamble: [
 ==== What are the most dangerous creatures in your world?
@@ -836,7 +836,7 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
   preamble: [
 ==== What magical creatures exist in your world?
@@ -854,7 +854,7 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -868,7 +868,7 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -885,7 +885,7 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -903,7 +903,7 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
     ([The choice that reveals character], []),
     ([The bond forms because…], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== How does the bond form?
 
@@ -920,7 +920,7 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -934,7 +934,7 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -950,7 +950,7 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
     ([Name], [], []),
     ([Nature of bond], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Do your characters have bonded creatures?
 
@@ -967,7 +967,7 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -981,7 +981,7 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1026,7 +1026,7 @@ Seasonal festivals create social pressure that characters can't avoid. Calanmai 
     ([Where your characters are when it hits], []),
     ([What it forces them to do or feel], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What seasonal or weather event matters most to your romance?
 
@@ -1094,7 +1094,7 @@ And don't announce the connection. "The rain matched her sadness" kills the effe
     ([What the environment is doing], []),
     ([Why this works (what it makes the reader feel)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Could the natural world mirror a key emotional moment in your romance?
 
@@ -1117,7 +1117,7 @@ And don't announce the connection. "The rain matched her sadness" kills the effe
     ([Royalty/power], [], []),
     ([Luck (good or bad)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What creatures have symbolic meaning in your culture?
 
@@ -1135,7 +1135,7 @@ And don't announce the connection. "The rain matched her sadness" kills the effe
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
   preamble: [
 ==== What plants have symbolic meaning?
@@ -1156,7 +1156,7 @@ And don't announce the connection. "The rain matched her sadness" kills the effe
     ([How have creatures or environmental factors shaped history? #emph[(Reference: Section 7)]], []),
     ([Do weather patterns or seasonal cycles create festivals, deadlines, or forced proximity that affects the romance? #emph[(Reference: Section 6)]], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   preamble: [
 == Integration Check
 ],
@@ -1177,7 +1177,7 @@ And don't announce the connection. "The rain matched her sadness" kills the effe
     ([The crucial plant (medicinal, magical, or plot-relevant)], []),
     ([Environmental challenge or threat], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == Quick Reference: Flora & Fauna Stakes
 ],
@@ -1248,7 +1248,7 @@ The key is making species difference #emph[matter]. Not just aesthetically, but 
     ([#strong[Instantly Tame Monster:] Non-human character is described as dangerous but never actually threatens the protagonist or struggles with control], [], []),
     ([#strong[Lifespan Handwave:] One partner will outlive the other by centuries, but the story never meaningfully addresses this], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   preamble: [
 ==== Inter-Species Romance Self-Check
 
@@ -1280,7 +1280,7 @@ The best inter-species romances let the human partner discover these differences
     ([Diet / sleep], [], [], []),
     ([Aging / healing], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What biological differences exist between your species?
 
@@ -1297,7 +1297,7 @@ The best inter-species romances let the human partner discover these differences
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1314,7 +1314,7 @@ The best inter-species romances let the human partner discover these differences
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1328,7 +1328,7 @@ The best inter-species romances let the human partner discover these differences
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1371,7 +1371,7 @@ Aragorn and Arwen's relationship in The Lord of the Rings establishes the preced
     ([Protagonist], []),
     ([Love Interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== How long does each species typically live?
 
@@ -1388,7 +1388,7 @@ Aragorn and Arwen's relationship in The Lord of the Rings establishes the preced
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1402,7 +1402,7 @@ Aragorn and Arwen's relationship in The Lord of the Rings establishes the preced
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1416,7 +1416,7 @@ Aragorn and Arwen's relationship in The Lord of the Rings establishes the preced
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1451,7 +1451,7 @@ Keep in mind the fine line between "instinct creates tension" and "instinct elim
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1465,7 +1465,7 @@ Keep in mind the fine line between "instinct creates tension" and "instinct elim
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1479,7 +1479,7 @@ Keep in mind the fine line between "instinct creates tension" and "instinct elim
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1497,7 +1497,7 @@ Keep in mind the fine line between "instinct creates tension" and "instinct elim
     ([What the human partner notices (and what they understand about it)], []),
     ([What happens when control slips], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   preamble: [
 ==== What does restraint look like in the body?
 
@@ -1537,7 +1537,7 @@ The most satisfying mate bond romances do one or more of these:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1551,7 +1551,7 @@ The most satisfying mate bond romances do one or more of these:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1565,7 +1565,7 @@ The most satisfying mate bond romances do one or more of these:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1579,7 +1579,7 @@ The most satisfying mate bond romances do one or more of these:
     ([Does recognition happen before or after they fall in love?], []),
     ([Does either character fight the bond — and why?], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
   preamble: [
 ==== Design your mate bond
@@ -1621,7 +1621,7 @@ Don't do this. Let your monster remain dangerous after falling in love. Love doe
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1635,7 +1635,7 @@ Don't do this. Let your monster remain dangerous after falling in love. Love doe
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1649,7 +1649,7 @@ Don't do this. Let your monster remain dangerous after falling in love. Love doe
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1663,7 +1663,7 @@ Don't do this. Let your monster remain dangerous after falling in love. Love doe
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1695,7 +1695,7 @@ Show the exhaustion of navigating hostile spaces, and the relief of spaces where
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1709,7 +1709,7 @@ Show the exhaustion of navigating hostile spaces, and the relief of spaces where
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1725,7 +1725,7 @@ Show the exhaustion of navigating hostile spaces, and the relief of spaces where
     ([Human], []),
     ([Non-human], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What do each character's families/communities think of the relationship?
 
@@ -1742,7 +1742,7 @@ Show the exhaustion of navigating hostile spaces, and the relief of spaces where
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1757,7 +1757,7 @@ Show the exhaustion of navigating hostile spaces, and the relief of spaces where
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
   preamble: [
 ==== What does daily friction look like for your couple?
@@ -1805,7 +1805,7 @@ Bella's transformation in the Twilight saga is the structural element upon which
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1819,7 +1819,7 @@ Bella's transformation in the Twilight saga is the structural element upon which
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1835,7 +1835,7 @@ Bella's transformation in the Twilight saga is the structural element upon which
     ([Human], [], [], []),
     ([Non-human], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Who wants transformation — and who doesn't?
 

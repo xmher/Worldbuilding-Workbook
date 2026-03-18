@@ -55,13 +55,13 @@ Most stories use a combination, and the layering is what makes the pressure feel
 
 #writing-box(
   label: "Primary subtype",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Secondary subtype(s)",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -73,7 +73,7 @@ Most stories use a combination, and the layering is what makes the pressure feel
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -112,7 +112,7 @@ Beyond the subtypes, forced proximity creates romantic tension through a set of 
     ([2], [], []),
     ([3], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -177,7 +177,7 @@ Not every question in this section will apply to your story. If your pressure co
     ([Constant pressure with no relief — tension never lets up], [], []),
     ([Proximity without progression — dynamic doesn't change], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -197,7 +197,7 @@ Each of these constraint types does something different to the romance. Physical
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -211,7 +211,7 @@ Each of these constraint types does something different to the romance. Physical
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -223,7 +223,7 @@ Each of these constraint types does something different to the romance. Physical
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -235,7 +235,7 @@ Each of these constraint types does something different to the romance. Physical
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -247,7 +247,7 @@ Each of these constraint types does something different to the romance. Physical
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -259,7 +259,7 @@ Each of these constraint types does something different to the romance. Physical
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -376,7 +376,7 @@ You've likely already identified your setting in Section 1 (Geography) or Sectio
     ([Social (who's watching, what's expected)], []),
     ([Escape (what happens if they try to leave)], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
 )
 
 
@@ -537,7 +537,7 @@ Cooperation is one of the most powerful forced interaction types because it requ
     ([Sleep], [], []),
     ([Bathing/grooming], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -549,7 +549,7 @@ Training, meetings, tasks, social events they must both attend:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -568,7 +568,7 @@ Training, meetings, tasks, social events they must both attend:
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
 )
 
@@ -695,7 +695,7 @@ What has your protagonist been denied before the pressure cooker?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -709,7 +709,7 @@ How does the love interest become associated with those first experiences?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -731,7 +731,7 @@ How does the love interest become associated with those first experiences?
     ([Protagonist], [], [], []),
     ([Love interest], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -953,7 +953,7 @@ Space gets smaller, time gets shorter, stakes get higher, others leave so they'r
     ([Medium (building/location)], [], [], []),
     ([Small (room/space)], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1044,7 +1044,7 @@ What has proximity taught them about themselves and each other?
     ([LI believes about protagonist], [], [], []),
     ([Protagonist believes about #emph[themselves]], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1090,7 +1090,7 @@ There are three ways people typically react when the external pressure of their 
     ([Protagonist], [], [], []),
     ([Love interest], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1109,7 +1109,7 @@ There are three ways people typically react when the external pressure of their 
     ([Protagonist], [], [], []),
     ([Love interest], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1197,7 +1197,7 @@ Be honest. The answer might be different for each character, and it might not be
     ([Knowledge of vulnerabilities seen], []),
     ([Private jokes or rituals], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1288,7 +1288,7 @@ Your pressure cooker doesn't exist in isolation. It's built from the worldbuildi
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1300,7 +1300,7 @@ Your pressure cooker doesn't exist in isolation. It's built from the worldbuildi
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1312,7 +1312,7 @@ Your pressure cooker doesn't exist in isolation. It's built from the worldbuildi
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1324,7 +1324,7 @@ Your pressure cooker doesn't exist in isolation. It's built from the worldbuildi
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1336,7 +1336,8 @@ Your pressure cooker doesn't exist in isolation. It's built from the worldbuildi
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1360,7 +1361,7 @@ Your pressure cooker doesn't exist in isolation. It's built from the worldbuildi
     ([How/when it resolves], [], [End of the war games; physical proximity ends but the bond remains]),
     ([What proves the connection survives freedom], [], [They choose to be partners and allies in the rebellion, not just bonded riders]),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
   preamble: [
 == Quick Reference: Your Pressure Cooker

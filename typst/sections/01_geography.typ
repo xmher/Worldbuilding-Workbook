@@ -89,7 +89,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([Separation], [], []),
     ([Resource], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == The Pressure Cooker: Your Story
 
@@ -111,7 +111,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([Environmental (storms, seasons, magic)], [], []),
     ([Social/political (obligations, hostage, arranged marriage)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What seals the pressure cooker in your world?
 
@@ -128,7 +128,7 @@ You may feel that if your geography does not cause friction for your characters 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -230,7 +230,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([#strong[Empty Map:] Locations exist but don't affect culture, conflict, or character], [], []),
     ([#strong[No Emotional Resonance:] Setting is described physically but never connected to how characters feel], [], []),
   ),
-  row-height: 55pt,
+  row-height: 95pt,
   preamble: [
 ==== Geography Self-Check
 
@@ -252,7 +252,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([Multiple worlds/realms (parallel dimensions, portals)], [], []),
     ([Other: Describe], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == The Big Picture: Your World's Scale
 
@@ -276,7 +276,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([], []),
     ([], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== If your world is large, where specifically does your romance happen?
 
@@ -306,7 +306,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([Role in your story], [], []),
     ([Romantic function (how does this nation create or complicate your love story?)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   preamble: [
 == Kingdoms & Nations Overview
 
@@ -336,7 +336,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([Role in your story], [], []),
     ([Romantic function (how does this nation create or complicate your love story?)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -348,7 +348,7 @@ You may feel that if your geography does not cause friction for your characters 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -366,7 +366,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([], [], [], [], []),
     ([], [], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
   preamble: [
 == Terrain Types
@@ -513,7 +513,7 @@ For deeper language work, see #emph[Section 11: Language & Communication].
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
   preamble: [
 == Your World's Place Name Patterns
@@ -535,7 +535,7 @@ For deeper language work, see #emph[Section 11: Language & Communication].
     ([The contested territory], [], [], []),
     ([Their "place"], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Name your key locations
 
@@ -552,7 +552,7 @@ For deeper language work, see #emph[Section 11: Language & Communication].
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -566,7 +566,7 @@ For deeper language work, see #emph[Section 11: Language & Communication].
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -626,7 +626,7 @@ The most effective way to demonstrate resource control on the page is to show wh
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What natural resources are geographically concentrated?
 
@@ -643,7 +643,7 @@ The most effective way to demonstrate resource control on the page is to show wh
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -657,7 +657,7 @@ The most effective way to demonstrate resource control on the page is to show wh
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -692,7 +692,7 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
     ([What you smell], []),
     ([What the air feels like (temperature, humidity, wind)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == The Sensory World
 
@@ -714,7 +714,7 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
     ([Evening], [], []),
     ([Night], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== How does the environment change at different times of day?
 
@@ -731,7 +731,7 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -745,7 +745,7 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -773,7 +773,7 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -787,7 +787,7 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -803,7 +803,7 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
     ([What this season makes possible], []),
     ([What this season makes impossible], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What season is your story set in?
 
@@ -822,7 +822,7 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
     ([Winter/cold season], [], []),
     ([Transitional seasons], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== How do seasons affect life in your world?
 
@@ -839,7 +839,7 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -869,7 +869,7 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
   preamble: [
 == Dangerous Regions
@@ -893,7 +893,7 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
     ([What forces them to rely on each other], []),
     ([What changes between them after surviving it], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   preamble: [
 ==== Do your characters travel through dangerous territory?
 
@@ -924,7 +924,7 @@ Also consider the cost of crossing a border for each character. Is crossing cons
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -938,7 +938,7 @@ Also consider the cost of crossing a border for each character. Is crossing cons
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -954,7 +954,7 @@ Also consider the cost of crossing a border for each character. Is crossing cons
     ([What crossing means (legally, socially, personally)], []),
     ([What "in-between" space exists (neutral zone, disputed land, meeting point)], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   preamble: [
 ==== Do your characters come from opposite sides of a significant border?
 
@@ -972,7 +972,7 @@ Also consider the cost of crossing a border for each character. Is crossing cons
     ([Protagonist], [], []),
     ([Love interest], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What assumptions does each character carry about the other side?
 
@@ -1006,7 +1006,7 @@ This idea is central to the entire arc of the ACOTAR series. The Spring Court is
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1020,7 +1020,7 @@ This idea is central to the entire arc of the ACOTAR series. The Spring Court is
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1034,7 +1034,7 @@ This idea is central to the entire arc of the ACOTAR series. The Spring Court is
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1049,7 +1049,7 @@ This idea is central to the entire arc of the ACOTAR series. The Spring Court is
     ([Protagonist], []),
     ([Love interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Where does each character feel like an outsider?
 
@@ -1087,7 +1087,7 @@ This can happen on a much smaller level. In #emph[Bridgerton] (Season 2 / #emph[
     ([What the host is proud of — and what they'd rather hide], []),
     ([What everyday moment creates unexpected intimacy], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   preamble: [
 == Entering Each Other's Worlds
 
@@ -1120,7 +1120,7 @@ This can happen on a much smaller level. In #emph[Bridgerton] (Season 2 / #emph[
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1134,7 +1134,7 @@ This can happen on a much smaller level. In #emph[Bridgerton] (Season 2 / #emph[
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1168,7 +1168,7 @@ In #emph[From Blood and Ash], the trip through the Blood Forest is where Poppy a
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
   preamble: [
 == Travel & Distance
@@ -1210,7 +1210,7 @@ In #emph[From Blood and Ash], the trip through the Blood Forest is where Poppy a
     ([From one character's home to the other's], []),
     ([Across the dangerous region], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== How long does travel take between key locations?
 
@@ -1229,7 +1229,7 @@ In #emph[From Blood and Ash], the trip through the Blood Forest is where Poppy a
     ([How long], []),
     ([What happens during the journey], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Do your characters undertake a significant journey?
 
@@ -1265,7 +1265,7 @@ And remember: when characters finally #emph[could] leave but choose to stay, tha
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
   preamble: [
 == Isolated Locations
@@ -1288,7 +1288,7 @@ And remember: when characters finally #emph[could] leave but choose to stay, tha
     ([What happens after an argument (where do they go when there's nowhere to go)?], []),
     ([At what point could they leave — and what does staying mean?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   preamble: [
 ==== How does the isolation generate romantic pressure?
 
@@ -1326,7 +1326,7 @@ In #emph[Fourth Wing], the use of emotional geography is taken further. Violet's
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1340,7 +1340,7 @@ In #emph[Fourth Wing], the use of emotional geography is taken further. Violet's
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1354,7 +1354,7 @@ In #emph[Fourth Wing], the use of emotional geography is taken further. Violet's
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1372,7 +1372,7 @@ In #emph[Fourth Wing], the use of emotional geography is taken further. Violet's
     ([How does geography interact with magic? #emph[(Reference: Section 8)]], []),
     ([What geographic resource or territory is contested in your world?], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   preamble: [
 == Integration Check
 ],
@@ -1397,7 +1397,7 @@ In #emph[Fourth Wing], the use of emotional geography is taken further. Violet's
     ([Other:], []),
     ([Other:], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == Quick Reference: Geographic Stakes
 ],

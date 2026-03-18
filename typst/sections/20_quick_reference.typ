@@ -35,7 +35,7 @@
 
 #writing-box(
   label: "Genre/Subgenre",
-  height: 55pt,
+  height: 120pt,
 )
 
 ]
@@ -43,19 +43,19 @@
 
 #writing-box(
   label: "Setting in one sentence",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Tech/Magic Level",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -67,7 +67,7 @@
 
 #writing-box(
   label: "Tone/Atmosphere",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -76,7 +76,7 @@
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -121,7 +121,7 @@
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -133,7 +133,7 @@
   example-rows: (
 
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -149,31 +149,32 @@
 
 #writing-box(
   label: "Government Type",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Current Ruler(s)",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Major Factions/Houses",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Who has real power",
-  height: 55pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -185,7 +186,7 @@
 
 #writing-box(
   label: "Name",
-  height: 55pt,
+  height: 120pt,
 )
 
 ]
@@ -196,7 +197,7 @@
 
 #writing-box(
   label: "Age",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -205,13 +206,13 @@
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Distinguishing features",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -226,61 +227,61 @@
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Voice/speech patterns",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Key personality traits",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Greatest strength",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Greatest flaw",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What they want (external goal)",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What they need (internal)",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Emotional wound/fear",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "The lie they believe",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -289,7 +290,7 @@
 
 #writing-box(
   label: "Name",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -298,7 +299,7 @@
 
 #writing-box(
   label: "Age",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -307,73 +308,73 @@
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Distinguishing features",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What they wear typically",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Voice/speech patterns",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Key personality traits",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Greatest strength",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Greatest flaw",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What they want (external goal)",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What they need (internal)",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Emotional wound/fear",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "The lie they believe",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -385,25 +386,25 @@
 
 #writing-box(
   label: "Name",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Role in story",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Relationship to protagonist",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Key trait",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -412,25 +413,25 @@
 
 #writing-box(
   label: "Name",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Role in story",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Relationship to protagonist",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Key trait",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -439,25 +440,25 @@
 
 #writing-box(
   label: "Name",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Role in story",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Relationship to protagonist",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Key trait",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -466,25 +467,25 @@
 
 #writing-box(
   label: "Name",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What they want",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Why they oppose the protagonists",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -499,7 +500,8 @@ What system they represent:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -511,7 +513,7 @@ What system they represent:
 
 #writing-box(
   label: "How much time passes in the story",
-  height: 55pt,
+  height: 120pt,
 )
 
 ]
@@ -519,13 +521,13 @@ What system they represent:
 
 #writing-box(
   label: "Starting date/season",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Ending date/season",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -553,7 +555,7 @@ What system they represent:
 
 #writing-box(
   label: "Act 1:",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -565,7 +567,7 @@ What system they represent:
 
 #writing-box(
   label: "Act 2:",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -577,7 +579,7 @@ What system they represent:
 
 #writing-box(
   label: "Act 3:",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -588,19 +590,19 @@ What system they represent:
 
 #writing-box(
   label: "From [event] to [event]",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "From [event] to [event]",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "From [event] to [event]",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -616,6 +618,7 @@ What system they represent:
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -627,7 +630,7 @@ What system they represent:
 
 #writing-box(
   label: "Term",
-  height: 55pt,
+  height: 120pt,
 )
 
 ]
@@ -635,55 +638,55 @@ What system they represent:
 
 #writing-box(
   label: "Meaning",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Term",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Meaning",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Term",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Meaning",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Term",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Meaning",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Term",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Meaning",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -717,6 +720,7 @@ What system they represent:
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
 
 
@@ -734,19 +738,19 @@ What system they represent:
 
 #writing-box(
   label: "Who can use magic",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "How magic is accessed",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What magic costs",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -773,31 +777,31 @@ What system they represent:
 
 #writing-box(
   label: "How magic pushes them together",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "How magic pulls them apart",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "The intimacy mechanic",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -806,19 +810,19 @@ What system they represent:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Magical consequence of their union",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -836,7 +840,7 @@ What system they represent:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -853,13 +857,13 @@ What system they represent:
 
 #writing-box(
   label: "What the bond does",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -868,7 +872,7 @@ What system they represent:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -883,25 +887,26 @@ What system they represent:
 
 #writing-box(
   label: "Bonded creature/mount (protagonist)",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Bonded creature/mount (love interest)",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "How creature bonds affect the romance",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -922,7 +927,7 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Dominant colors of the world",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -931,19 +936,19 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What the sky looks like",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Visual motifs that repeat",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -952,25 +957,25 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Ambient sounds of primary setting",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Sounds associated with magic",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Sounds of danger/tension",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -979,25 +984,25 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "What the primary setting smells like",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Scent associated with protagonist",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Scent associated with love interest",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1006,19 +1011,19 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Climate feel",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Textures that matter",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What magic feels like",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1036,19 +1041,20 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Luxury foods",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What they eat together",
-  height: 55pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1066,31 +1072,31 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Top",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Middle",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Bottom",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Protagonist's place",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Love interest's place",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1099,19 +1105,19 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "What this culture values most",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What is forbidden/taboo",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "The rule their romance breaks",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1126,19 +1132,19 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "How people court",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What touch is forbidden/significant",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What makes marriage official",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1153,31 +1159,32 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Languages in your world",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Communication barrier between characters",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Private language or signals they develop",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1192,49 +1199,49 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "What people believe",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Religious obstacle to the romance",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Sacred vows that conflict with love",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Prophecy (if any) and how it affects the romance",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1244,7 +1251,7 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Crisis of faith — what makes them question their beliefs?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1261,67 +1268,68 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Law #1",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Punishment for breaking",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Effect on romance",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Law #2",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Punishment for breaking",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Effect on romance",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Law #3",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Punishment for breaking",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Effect on romance",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "The law they will break",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "The specific consequences",
-  height: 55pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1352,13 +1360,13 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Details",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1384,7 +1392,7 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "What worldbuilding event kicks off their relationship?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1396,7 +1404,7 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Why couldn't they have gotten together earlier?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1404,13 +1412,13 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "The deadline/time pressure",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What happens if the deadline passes",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1431,7 +1439,7 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1449,37 +1457,37 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Obstacle 1",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Worldbuilding source",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Obstacle 2",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Worldbuilding source",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Obstacle 3",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Worldbuilding source",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1494,25 +1502,26 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Who starts with more power",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Type of power",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What leverage the weaker character holds",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "How power shifts",
-  height: 55pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1530,19 +1539,19 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Where they're trapped together",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Where they must be apart",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Where discovery is most dangerous",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1557,13 +1566,13 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "The deadline",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What happens if missed",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1572,13 +1581,14 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Who's watching",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Consequences of being caught",
-  height: 55pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1590,7 +1600,7 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "The main threat/problem",
-  height: 55pt,
+  height: 120pt,
 )
 
 ]
@@ -1598,19 +1608,19 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Why they must face it together",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What happens if they fail",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1619,25 +1629,25 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Protagonist's emotional wound",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "How it makes them resist the relationship",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Love interest's emotional wound",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "How it makes them resist",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1650,7 +1660,7 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "How external conflict forces them to face internal wounds:",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1662,7 +1672,7 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "How resolving relationship helps solve external problem:",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1679,85 +1689,86 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "Rule #1",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Romance relevance",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Rule #2",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Romance relevance",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Rule #3",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Romance relevance",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Rule #4",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Romance relevance",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Rule #5",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Romance relevance",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Rule #6",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Romance relevance",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Rule #7",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Romance relevance",
-  height: 55pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1776,7 +1787,7 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "When protagonist actively chooses love interest:",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1784,7 +1795,7 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "What it costs them",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1794,7 +1805,7 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "When love interest actively chooses protagonist:",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1802,7 +1813,7 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "What it costs them",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1812,7 +1823,7 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "The moment they defy worldbuilding rules to be together:",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1820,13 +1831,14 @@ Keep these details consistent throughout your writing.
 
 #writing-box(
   label: "What rule they break",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "The consequences they accept",
-  height: 55pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1859,7 +1871,7 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "What makes your use of these tropes unique:",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1880,7 +1892,7 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "External climax (fantasy plot resolution):",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1892,7 +1904,7 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "Relationship climax (romantic resolution):",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1904,7 +1916,7 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "How they happen together:",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1915,13 +1927,13 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "Protagonist",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Love interest",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1931,7 +1943,7 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "Why their union matters to the wider world:",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1976,7 +1988,7 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "Currency",
-  height: 55pt,
+  height: 120pt,
 )
 
 ]
@@ -1987,13 +1999,13 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Distance measurements",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -2008,43 +2020,44 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Common phrases/sayings",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Important symbols",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "What people swear by",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Typical food/drink",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Climate/seasons",
-  height: 55pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -2054,7 +2067,7 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "The world",
-  height: 55pt,
+  height: 120pt,
 )
 
 ]
@@ -2062,25 +2075,25 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "The characters",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "The conflict",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "The romance",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "The stakes",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -2090,7 +2103,7 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "In one sentence:",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -2106,7 +2119,7 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "\"What kind of magic system?\"",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -2118,7 +2131,7 @@ Check all that apply and note specifics:
 
 #writing-box(
   label: "\"How is it different from [similar book]?\"",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]

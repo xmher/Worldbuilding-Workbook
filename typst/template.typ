@@ -119,6 +119,7 @@
     ]
   }
 
+  // R4: H2 headings get 24pt+ above, always keep with next block
   show heading.where(level: 2): it => {
     set text(
       font: font-display,
@@ -127,8 +128,9 @@
       fill: color-noir,
     )
     block(
-      above: 2em,
-      below: 1em,
+      above: 2.5em,
+      below: 1.2em,
+      breakable: false,
     )[
       #it.body
       #v(0.5em)
@@ -136,6 +138,7 @@
     ]
   }
 
+  // R4: H3 headings get 18pt+ above
   show heading.where(level: 3): it => {
     set text(
       font: font-display,
@@ -143,7 +146,7 @@
       weight: "bold",
       fill: color-theme,
     )
-    block(above: 1.5em, below: 0.75em, it.body)
+    block(above: 2em, below: 0.75em, it.body)
   }
 
   show heading.where(level: 4): it => {
@@ -404,6 +407,7 @@
 
 
 // --- Mistake Box (common errors / warnings) ---
+// R7: Keep together, 18pt+ spacing between consecutive boxes
 #let mistake-box(
   title: "Common Mistake",
   fix: none,
@@ -414,8 +418,8 @@
     inset: (x: 25pt, y: 20pt),
     stroke: (left: 4pt + color-danger, rest: none),
     fill: color-danger.lighten(95%),
-    above: 1.5em,
-    below: 1.5em,
+    above: 2em,
+    below: 2em,
     breakable: false,
   )[
     #text(
@@ -443,38 +447,71 @@
 
 
 // --- Writing Box (user input area) ---
+// R2: Minimum 120pt, preferred 150pt. fill-page expands to use remaining space.
 #let writing-box(
   label: none,
-  height: 100pt,
+  height: 120pt,
+  fill-page: false,
 ) = {
-  block(
-    width: 100%,
-    inset: (x: 20pt, y: 15pt),
-    stroke: 1pt + color-noir,
-    fill: white,
-    above: 1em,
-    below: 1.5em,
-    breakable: false,
-  )[
-    #if label != none {
-      text(
-        font: font-display,
-        size: 0.65em,
-        tracking: 2pt,
-        fill: color-theme,
-      )[#upper(label)]
-      v(0.5em)
-    }
-    #v(height)
-  ]
+  if fill-page {
+    // Expand to fill remaining page space (R2: fill remaining page space)
+    layout(size => {
+      let label-h = if label != none { 35 } else { 0 }
+      let min-h = 120
+      let available = size.height / 1pt - label-h - 40  // 40pt for inset+margins
+      let box-h = calc.max(min-h, available)
+      block(
+        width: 100%,
+        inset: (x: 20pt, y: 15pt),
+        stroke: 1pt + color-noir,
+        fill: white,
+        above: 1em,
+        below: 0pt,
+        breakable: false,
+      )[
+        #if label != none {
+          text(
+            font: font-display,
+            size: 0.65em,
+            tracking: 2pt,
+            fill: color-theme,
+          )[#upper(label)]
+          v(0.5em)
+        }
+        #v(box-h * 1pt)
+      ]
+    })
+  } else {
+    block(
+      width: 100%,
+      inset: (x: 20pt, y: 15pt),
+      stroke: 1pt + color-noir,
+      fill: white,
+      above: 1em,
+      below: 1.5em,
+      breakable: false,
+    )[
+      #if label != none {
+        text(
+          font: font-display,
+          size: 0.65em,
+          tracking: 2pt,
+          fill: color-theme,
+        )[#upper(label)]
+        v(0.5em)
+      }
+      #v(height)
+    ]
+  }
 }
 
 
 // --- Checklist ---
+// R9: 12pt spacing between items for printability
 #let checklist(..items) = {
   block(above: 1em, below: 1em, breakable: false)[
     #for item in items.pos() {
-      block(inset: (left: 30pt, bottom: 8pt))[
+      block(inset: (left: 30pt, bottom: 12pt))[
         #place(
           dx: -30pt,
           dy: 2pt,
@@ -493,6 +530,7 @@
 
 
 // --- Workbook Table (styled data table) ---
+// R3: Minimum row height 45pt for data tables to prevent overflow
 #let workbook-table(
   headers: (),
   rows: (),
@@ -526,7 +564,7 @@
         else { none }
       },
       stroke: 1pt + color-noir,
-      inset: 12pt,
+      inset: (x: 12pt, y: 10pt),
       align: left,
 
       table.header(
@@ -799,10 +837,11 @@
 
 
 // --- Writing Lines (blank ruled lines) ---
+// R2: Generous line spacing for printable writing
 #let writing-lines(count: 3) = {
-  v(0.5em)
+  v(0.75em)
   for i in range(count) {
     line(length: 100%, stroke: 0.5pt + color-text-muted)
-    v(1.5em)
+    v(2em)
   }
 }

@@ -50,7 +50,7 @@ The test is simple: when your characters choose each other, does anything in the
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -119,7 +119,7 @@ But what matters most for your story isn't the connections in the abstract. It's
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -186,7 +186,7 @@ Resources are where geography becomes power. Whoever has control over something 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -198,7 +198,7 @@ Resources are where geography becomes power. Whoever has control over something 
 
 #writing-box(
   label: "Where do these resources come from geographically?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -215,7 +215,7 @@ Conquest, natural borders, treaty, magical ability, historical claim?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -225,7 +225,7 @@ Conquest, natural borders, treaty, magical ability, historical claim?
 
 #writing-box(
   label: "How does resource control create inequality, tension, or power imbalance?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -239,7 +239,7 @@ Does one control something the other needs? Does fighting over resources force p
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -270,7 +270,7 @@ When using any magical romantic mechanism, the key craft question is this: #stro
     ([], [], [], [], []),
     ([], [], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -283,7 +283,7 @@ When using any magical romantic mechanism, the key craft question is this: #stro
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -295,7 +295,7 @@ When using any magical romantic mechanism, the key craft question is this: #stro
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -314,7 +314,7 @@ When using any magical romantic mechanism, the key craft question is this: #stro
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -342,7 +342,7 @@ Everyone? Bloodlines? Trained individuals? Random selection?
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -357,7 +357,7 @@ Conjuring food, transmuting materials, enhanced crops, healing for profit, telep
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -372,7 +372,7 @@ Cost in energy/life, rare components, illegal, inferior products, years of train
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -387,7 +387,7 @@ Cost in energy/life, rare components, illegal, inferior products, years of train
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -405,7 +405,7 @@ Are magical soldiers worth more? Do mage-heavy kingdoms dominate? Magical arms r
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -417,7 +417,7 @@ Does one profit from magic while the other suffers? Economic inequality between 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -459,7 +459,7 @@ Heredity, military strength, wealth, magical ability, religious authority, democ
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -474,7 +474,7 @@ If mages are powerful, why don't they rule everything? If non-mages rule, how do
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -486,7 +486,7 @@ Laws regulating magic, forbidding inter-species relationships, governing dragon 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -496,7 +496,7 @@ Laws regulating magic, forbidding inter-species relationships, governing dragon 
 
 #writing-box(
   label: "Who benefits from these laws? Who is oppressed?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -510,7 +510,7 @@ Is their relationship illegal, politically inconvenient, or magically dangerous?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -522,7 +522,7 @@ Not just "scandal" — actual legal punishment (reference Section 5 for justice 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -546,7 +546,7 @@ Honor, loyalty, freedom, magical power, wealth, lineage, martial prowess, schola
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -561,7 +561,7 @@ If honor is valued — dueling laws? If lineage matters — inheritance complica
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -576,7 +576,7 @@ What threatens social order, challenges power, violates religion, connects to hi
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -588,7 +588,7 @@ If magic is forbidden — because mages once conquered? If inter-species relatio
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -600,7 +600,7 @@ Does their relationship represent something the culture fears? Does choosing lov
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -624,7 +624,7 @@ Poppy's role as the Maiden in #emph[From Blood and Ash] is defined by religious 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -643,7 +643,7 @@ Poppy's role as the Maiden in #emph[From Blood and Ash] is defined by religious 
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -656,7 +656,7 @@ Poppy's role as the Maiden in #emph[From Blood and Ash] is defined by religious 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -674,7 +674,7 @@ Poppy's role as the Maiden in #emph[From Blood and Ash] is defined by religious 
   rows: (
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -687,7 +687,7 @@ Poppy's role as the Maiden in #emph[From Blood and Ash] is defined by religious 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -699,7 +699,7 @@ Poppy's role as the Maiden in #emph[From Blood and Ash] is defined by religious 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -720,7 +720,7 @@ Poppy's role as the Maiden in #emph[From Blood and Ash] is defined by religious 
     ([Proves a doctrine wrong], [], []),
     ([Challenges a corrupt authority], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -750,7 +750,7 @@ How do they get food, water, shelter? Travel? Communicate? Find entertainment?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -762,7 +762,7 @@ Richer, poorer, more powerful, more restricted, more free?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -772,7 +772,7 @@ Richer, poorer, more powerful, more restricted, more free?
 
 #writing-box(
   label: "How is the love interest's daily life different from the protagonist's?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -786,7 +786,7 @@ Different social classes? One takes for granted what the other struggles for? Wh
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -806,7 +806,7 @@ Different social classes? One takes for granted what the other struggles for? Wh
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -849,7 +849,7 @@ If a system isn't connected, don't panic. Don't leave it alone either. Below are
   rows: (
     ([], [], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
 )
 
@@ -870,7 +870,7 @@ If a system isn't connected, don't panic. Don't leave it alone either. Below are
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -883,7 +883,7 @@ If a system isn't connected, don't panic. Don't leave it alone either. Below are
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -895,7 +895,7 @@ Choose one major worldbuilding element to test its connections:
 
 #writing-box(
   label: "The element",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -911,7 +911,7 @@ Choose one major worldbuilding element to test its connections:
     ([Culture/Daily Life], [], []),
     ([Your Romance], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -932,7 +932,7 @@ Do they profit from laws, economic structures, cultural prejudices, political ar
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -946,7 +946,7 @@ Are they the face of the law, the culture, the political structure that keeps yo
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -958,7 +958,7 @@ Power, wealth, status, worldview, identity, control?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -970,7 +970,7 @@ If removing the antagonist doesn't change the system, will another antagonist ri
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -982,7 +982,7 @@ If removing the antagonist doesn't change the system, will another antagonist ri
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -994,7 +994,8 @@ Complex antagonists often represent legitimate concerns taken too far, or defend
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1012,7 +1013,7 @@ Safety vs. freedom? Tradition vs. progress? Individual happiness vs. collective 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1026,7 +1027,7 @@ What two things they value are in conflict?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1036,7 +1037,7 @@ What two things they value are in conflict?
 
 #writing-box(
   label: "What trade-off does your love interest face?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1050,7 +1051,7 @@ What two things they value are in conflict?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1060,7 +1061,7 @@ What two things they value are in conflict?
 
 #writing-box(
   label: "Does their relationship force them to confront trade-offs they could otherwise avoid?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1071,25 +1072,25 @@ What two things they value are in conflict?
 
 #writing-box(
   label: "Protagonist chooses",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "At the cost of",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Love interest chooses",
-  height: 55pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "At the cost of",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -1125,7 +1126,7 @@ Obstacle 1 exists because of (which law, cultural value, magical rule, political
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1134,7 +1135,7 @@ Obstacle 2 exists because of:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1143,7 +1144,7 @@ Obstacle 3 exists because of:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1161,7 +1162,7 @@ Shared mission, institutional requirement (Section 14), magical bond (Section 10
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1173,7 +1174,7 @@ Example: A magical bond (Section 10) required by law (Section 5) because histori
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1186,7 +1187,7 @@ Example: A magical bond (Section 10) required by law (Section 5) because histori
 
 #writing-box(
   label: "What would they lose if their relationship was discovered or if they chose each other?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1200,7 +1201,8 @@ Loss of political power (Section 5), economic ruin (Section 4), magical conseque
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1228,7 +1230,7 @@ Do laws get challenged? Alliances shift? Cultural prejudices erode? Magical syst
 
 #writing-box(
   label: "What system that tried to keep them apart is affected by their union?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1242,7 +1244,7 @@ Others in similar situations? The oppressed? The kingdom? The magical community?
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1254,7 +1256,7 @@ Those who benefited from keeping them apart? The antagonist? The old order? Peop
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1266,7 +1268,7 @@ A new kind of alliance? Proof that old prejudices were wrong? A magical possibil
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 
@@ -1276,7 +1278,7 @@ A new kind of alliance? Proof that old prejudices were wrong? A magical possibil
 
 #writing-box(
   label: "Is their happy ending just personal, or does it change things for others?",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1290,7 +1292,8 @@ If systems need changing, does their union start that work? Continue it? Complet
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1362,7 +1365,7 @@ Both are valid! But knowing which helps you check if worldbuilding serves the ri
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1379,7 +1382,7 @@ If no → Good. Worldbuilding is doing essential work.
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -1400,7 +1403,7 @@ If no → Good. Worldbuilding is doing essential work.
     ([Geography (Section 1)], [☐ yes ☐ no], [], []),
     ([History (Section 7)], [☐ yes ☐ no], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   fill-strategy: "wider_rows",
 )
 
@@ -1422,7 +1425,7 @@ If you answered "no" to any major system, that system might need reworking to se
     ([#strong[The trade-off they must face:]], []),
     ([#strong[What changes in the world when they succeed:]], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == Quick Reference: System Integration
 ],

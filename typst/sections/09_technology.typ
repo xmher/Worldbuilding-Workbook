@@ -47,7 +47,7 @@ Your most powerful romantic technology choices will also create asymmetry: one c
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -104,7 +104,7 @@ The strongest romantic technology constraints produce what you might call #emph[
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -170,7 +170,7 @@ Technological disparity creates power imbalances and dramatic opportunities when
     ([Less advanced regions], []),
     ([Why the disparity], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -191,7 +191,7 @@ Technological disparity creates power imbalances and dramatic opportunities when
     ([Magic stunts technological development], [], []),
     ([Magic enhances technology], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -223,7 +223,7 @@ But forced proximity doesn't always require a road. In #emph[The Cruel Prince], 
     ([Flying (creatures, vehicles)], [], [], []),
     ([Magical transport], [Instantaneous between paired mirrors], [Priceless, only three working mirror-gates exist], [Royal family only; using one without permission is treason]),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -242,7 +242,7 @@ The fastest method is often the most expensive or dangerous. What would your pro
     ([Method], []),
     ([Limitations (cost, rarity, danger, who can use it)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -262,7 +262,7 @@ Travel time shapes the emotional weight of journeys, but don't overlook short-di
     ([Across your world's span], []),
     ([The journey your characters take], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -283,7 +283,7 @@ Travel time shapes the emotional weight of journeys, but don't overlook short-di
     ([Cost and physical demands], []),
     ([Other risks], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -305,7 +305,7 @@ Roads, inns, and rest stops determine whether journeys are manageable or despera
     ([Way stations, inns, caravanserais], []),
     ([Stables and animal care], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -326,7 +326,8 @@ Beyond the roads lies wilderness, danger, and freedom from observation. When mig
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -360,7 +361,7 @@ Can your characters reach each other across distance, and at what cost?
     ([Signal systems (fire, flags)], [], [], []),
     ([Magical communication], [Instant for bonded pairs], [Perfect between bonded items; requires rare enchantment], [High, only the bonded holder can activate it]),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -379,7 +380,7 @@ Delayed messages create dramatic irony and miscommunication. What might change b
     ([Between major cities], []),
     ([Between your characters when separated], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -419,7 +420,7 @@ Can messages be lost? Delayed? Intercepted? Altered?
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
 )
 
@@ -502,7 +503,7 @@ Magical scrying? Spy networks? Informants? Nothing systematic?
     ([How do they cover their tracks?], []),
     ([What would happen if they were caught?], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -557,7 +558,7 @@ What motivates their loyalty or disloyalty?
     ([Protagonist], [], []),
     ([Love interest], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -596,7 +597,7 @@ Lighting shapes the emotional tone of every scene. Candlelight is soft, warm, an
     ([Heating/fuel], []),
     ([Cleaning/maintenance], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -625,7 +626,7 @@ Servants? Women? Lower classes? Everyone? Magical solutions?
     ([Middle class], []),
     ([Poor/working class], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -672,7 +673,7 @@ Can everyone afford to stay up after dark, or is darkness the norm for the poor?
     ([In homes], []),
     ([In the countryside], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -698,7 +699,7 @@ Can everyone afford to stay up after dark, or is darkness the norm for the poor?
     ([What lighting exists], []),
     ([How the lighting affects mood and what characters can see], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -759,7 +760,7 @@ Water scenes can serve two distinctly different romantic purposes in romantasy. 
     ([Which function does it serve: safety or danger?], []),
     ([What makes this moment emotionally significant?], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -771,7 +772,7 @@ Wells, rivers, aqueducts, pumps, magical purification:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -783,13 +784,13 @@ Public bathhouses, private baths, rivers/lakes, basins, rarely:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
 #writing-box(
   label: "Frequency",
-  height: 55pt,
+  height: 120pt,
 )
 
 
@@ -813,7 +814,7 @@ Disease, cleanliness, smell:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 
@@ -843,7 +844,7 @@ The key to using this technique is selective realism. Identify the general odour
     ([What's the in-world justification for their scent? (Herbal wash, oils, magic, or just the narrator falling in love)], []),
     ([How does their scent make your protagonist #emph[feel]?], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
 )
 
 
@@ -890,7 +891,7 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
     ([Common], []),
     ([Poor], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -912,7 +913,7 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
     ([What would a shared meal between them reveal?], []),
     ([Could a meal become a turning point in their relationship? How?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -931,7 +932,7 @@ Sun position, bells, clocks, magical timekeepers. Imprecise timekeeping matters 
 
 #writing-box(
   label: "Do people schedule precisely, or approximately?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -974,7 +975,7 @@ When writing these types of scenes, keep in mind that medical environments tend 
     ([Childbirth], [], []),
     ([Pain], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1013,7 +1014,7 @@ Cost? Location? Class? Connections?
     ([What it can't heal], []),
     ([Cost/limitations], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1033,7 +1034,7 @@ Cost? Location? Class? Connections?
     ([Survivable with care], []),
     ([Usually fatal], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1062,7 +1063,7 @@ Cost? Location? Class? Connections?
     ([Barrier methods], [], []),
     ([Magical prevention], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1104,7 +1105,8 @@ Infertility, difficulty conceiving, magical interference:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
+  fill-page: true,
 )
 
 
@@ -1135,7 +1137,7 @@ Whether a character conceals their identity or reveals it is entirely dependent 
     ([Identity documents], [], []),
     ([Property records], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1216,7 +1218,7 @@ Height limits shape cityscapes and the symbolic power of towers. What does it me
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1228,7 +1230,7 @@ Height limits shape cityscapes and the symbolic power of towers. What does it me
 
 #writing-box(
   label: "What architectural features are common?",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1296,7 +1298,7 @@ The biggest difference between the two is that #emph[sparring] is a consensual a
     ([Siege weapons], []),
     ([Magical weapons], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1344,7 +1346,7 @@ Training scenes are some of romantasy's most effective tension-builders. Physica
     ([What creates the tension (proximity, authority, vulnerability)?], []),
     ([What happens in the aftermath — how do they act once weapons are put down?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -1372,7 +1374,7 @@ Paper, parchment, clay, wax tablets, magical surfaces:
 
 #writing-box(
   label: "Your Answer",
-  height: 80pt,
+  height: 120pt,
 )
 
 ]
@@ -1418,7 +1420,7 @@ Universal? Class-restricted? Gender-restricted? If your characters come from dif
     ([Does one teach the other anything? What?], []),
     ([How does the knowledge gap affect their dynamic (dependency, shame, wonder, trust)?], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
 )
 
 
@@ -1477,7 +1479,7 @@ Does magic interfere with technology or vice versa?
     ([How does the character without magic solve the same problem?], []),
     ([Does this create dependency, resentment, wonder, or something else?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -1500,7 +1502,7 @@ Does magic interfere with technology or vice versa?
     ([Why it was lost], []),
     ([Could it be rediscovered], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1520,7 +1522,7 @@ Does magic interfere with technology or vice versa?
     ([Who restricts it and why], []),
     ([Consequences for using it], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1545,7 +1547,7 @@ Now that you've established your world's technology level, think about how it sp
     ([Protagonist], []),
     ([Love interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1580,7 +1582,7 @@ What does one have that the other doesn't?
     ([How long messages take], []),
     ([What risk exists in their communication], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1599,7 +1601,7 @@ What does one have that the other doesn't?
     ([Where can they be alone], []),
     ([Who might observe or overhear them], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1625,7 +1627,7 @@ What does one have that the other doesn't?
     ([What treatment exists], []),
     ([Does one care for the other during illness/injury], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1644,7 +1646,7 @@ What does one have that the other doesn't?
     ([Is it available to them], []),
     ([Is it something they discuss or navigate], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
@@ -1663,7 +1665,7 @@ What does one have that the other doesn't?
     ([What would be required], []),
     ([What risks would exist], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
 )
 
 
