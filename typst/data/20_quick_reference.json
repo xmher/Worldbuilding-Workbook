@@ -1,0 +1,2117 @@
+{
+  "section_number": 20,
+  "title": "Quick Reference Sheets",
+  "section_title_intro": "These sheets are designed for easy access while writing. Fill them in as you complete other sections, then keep them accessible during drafting.",
+  "content": [
+    {
+      "type": "heading2",
+      "text": "How to Use This Section"
+    },
+    {
+      "type": "prose",
+      "text": "**When to fill this in:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "After completing each section of the workbook, transfer key answers here",
+        "Before starting to draft, review and complete any gaps",
+        "During drafting, update with new details you establish"
+      ]
+    },
+    {
+      "type": "prose",
+      "text": "**How to use while writing:**"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "Keep these sheets open (printed or in a separate window)",
+        "Check before writing any scene: Are my details consistent?",
+        "Add new details in \"Things I've Established Mid-Draft\" as you create them"
+      ]
+    },
+    {
+      "type": "prose",
+      "text": "**The goal:** Never pause mid-scene wondering \"how does this work?\" or \"did I establish this?\" The answers are here."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "WORLD AT-A-GLANCE"
+    },
+    {
+      "type": "writing_box",
+      "label": "Genre/Subgenre",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Setting in one sentence",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Tech/Magic Level",
+      "height": "55pt"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 9",
+      "note": "Technology; Section 10 — Magic"
+    },
+    {
+      "type": "writing_box",
+      "label": "Tone/Atmosphere",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Romance tone:** (intense, tender, angsty, playful, slow-burn)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Complement",
+        "Intentional contrast"
+      ]
+    },
+    {
+      "type": "heading3",
+      "text": "Key Locations (3-5)"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 15",
+      "note": "Key Locations"
+    },
+    {
+      "type": "writing_lines",
+      "count": 1
+    },
+    {
+      "type": "writing_lines",
+      "count": 1
+    },
+    {
+      "type": "writing_lines",
+      "count": 1
+    },
+    {
+      "type": "writing_lines",
+      "count": 1
+    },
+    {
+      "type": "writing_lines",
+      "count": 1
+    },
+    {
+      "type": "prose",
+      "text": "**Dangerous Regions:**"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 1",
+      "note": "Geography"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Travel Times:**"
+    },
+    {
+      "type": "open_table",
+      "headers": [
+        "From",
+        "To",
+        "Time"
+      ],
+      "example_rows": [],
+      "rows": [],
+      "row_height": "55pt",
+      "fill_strategy": "wider_rows"
+    },
+    {
+      "type": "heading3",
+      "text": "Who Rules"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 5",
+      "note": "Government, Power & Law"
+    },
+    {
+      "type": "writing_box",
+      "label": "Government Type",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Current Ruler(s)",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Major Factions/Houses",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Who has real power",
+      "height": "55pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "CHARACTER QUICK REFERENCE"
+    },
+    {
+      "type": "heading3",
+      "text": "Protagonist"
+    },
+    {
+      "type": "writing_box",
+      "label": "Name",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Also called:** (nicknames, titles, aliases) _______________________________"
+    },
+    {
+      "type": "writing_box",
+      "label": "Age",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Physical appearance:** (key details for consistency)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Distinguishing features",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What they wear typically:**"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 3",
+      "note": "Dress, Appearance & Adornment"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Voice/speech patterns",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Key personality traits",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Greatest strength",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Greatest flaw",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What they want (external goal)",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What they need (internal)",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Emotional wound/fear",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "The lie they believe",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Love Interest"
+    },
+    {
+      "type": "writing_box",
+      "label": "Name",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Also called:** (nicknames, titles, aliases) _______________________________"
+    },
+    {
+      "type": "writing_box",
+      "label": "Age",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Physical appearance:** (key details for consistency)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Distinguishing features",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What they wear typically",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Voice/speech patterns",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Key personality traits",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Greatest strength",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Greatest flaw",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What they want (external goal)",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What they need (internal)",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Emotional wound/fear",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "The lie they believe",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Key Supporting Characters"
+    },
+    {
+      "type": "prose",
+      "text": "**Character 1:**"
+    },
+    {
+      "type": "writing_box",
+      "label": "Name",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Role in story",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Relationship to protagonist",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Key trait",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Character 2:**"
+    },
+    {
+      "type": "writing_box",
+      "label": "Name",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Role in story",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Relationship to protagonist",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Key trait",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Character 3:**"
+    },
+    {
+      "type": "writing_box",
+      "label": "Name",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Role in story",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Relationship to protagonist",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Key trait",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Antagonist:**"
+    },
+    {
+      "type": "writing_box",
+      "label": "Name",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What they want",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Why they oppose the protagonists",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "prose",
+      "text": "What system they represent:"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 16",
+      "note": "Antagonist & Systems"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "TIMELINE"
+    },
+    {
+      "type": "heading3",
+      "text": "Story Timeline"
+    },
+    {
+      "type": "writing_box",
+      "label": "How much time passes in the story",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Starting date/season",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Ending date/season",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Key Dates/Events"
+    },
+    {
+      "type": "prose",
+      "text": "**Before story begins:**"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 7",
+      "note": "History"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "145pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Act 1:"
+    },
+    {
+      "type": "writing_box",
+      "label": "Act 1:",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Act 2:"
+    },
+    {
+      "type": "writing_box",
+      "label": "Act 2:",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Act 3:"
+    },
+    {
+      "type": "writing_box",
+      "label": "Act 3:",
+      "height": "100pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Time Between Key Events"
+    },
+    {
+      "type": "writing_box",
+      "label": "From [event] to [event]",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "From [event] to [event]",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "From [event] to [event]",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Important Historical Dates"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 7",
+      "note": "History & Lore"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "145pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "GLOSSARY"
+    },
+    {
+      "type": "heading3",
+      "text": "Made-Up Terms"
+    },
+    {
+      "type": "writing_box",
+      "label": "Term",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Meaning",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Term",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Meaning",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Term",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Meaning",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Term",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Meaning",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Term",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Meaning",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Place Names (with pronunciation if needed)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "200pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Character Names (spelling reference)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "200pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Titles and Forms of Address"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 3",
+      "note": "Language of Deference; Section 8 — Titles & Terms"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "145pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "THE MAGIC SYSTEM"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 10",
+      "note": "Magic System"
+    },
+    {
+      "type": "heading3",
+      "text": "Core Rules"
+    },
+    {
+      "type": "writing_box",
+      "label": "Who can use magic",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "How magic is accessed",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What magic costs",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What magic CANNOT do:**"
+    },
+    {
+      "type": "writing_lines",
+      "count": 1
+    },
+    {
+      "type": "writing_lines",
+      "count": 1
+    },
+    {
+      "type": "writing_lines",
+      "count": 1
+    },
+    {
+      "type": "heading3",
+      "text": "Magic & Romance"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 11",
+      "note": "Magic & Intimacy"
+    },
+    {
+      "type": "writing_box",
+      "label": "How magic pushes them together",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "How magic pulls them apart",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "The intimacy mechanic",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "(How does magic create vulnerability or connection?)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Magical consequence of their union",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Bond Mechanics (if applicable)"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 11",
+      "note": "Magic & Intimacy; Section 18 — Agency Check"
+    },
+    {
+      "type": "prose",
+      "text": "**Bond type:** (fated mates, soul bond, telepathic link, magical contract, other)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Yes",
+        "No",
+        "One didn't",
+        "Yes, freely",
+        "At moderate cost",
+        "At great cost",
+        "No"
+      ]
+    },
+    {
+      "type": "writing_box",
+      "label": "What the bond does",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What the bond doesn't do:** (it doesn't replace genuine emotional connection)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Creature Bonds"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 2",
+      "note": "Flora, Fauna & Ecosystems"
+    },
+    {
+      "type": "writing_box",
+      "label": "Bonded creature/mount (protagonist)",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Bonded creature/mount (love interest)",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "How creature bonds affect the romance",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "SENSORY PALETTE"
+    },
+    {
+      "type": "prose",
+      "text": "Keep these details consistent throughout your writing."
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 1",
+      "note": "Geography; Section 2 — Flora & Fauna"
+    },
+    {
+      "type": "heading3",
+      "text": "Visual"
+    },
+    {
+      "type": "writing_box",
+      "label": "Dominant colors of the world",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Quality of light:** (golden, grey, harsh, soft, magical glow)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What the sky looks like",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Visual motifs that repeat",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Sound"
+    },
+    {
+      "type": "writing_box",
+      "label": "Ambient sounds of primary setting",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Sounds associated with magic",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Sounds of danger/tension",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Smell"
+    },
+    {
+      "type": "writing_box",
+      "label": "What the primary setting smells like",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Scent associated with protagonist",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Scent associated with love interest",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Touch/Temperature"
+    },
+    {
+      "type": "writing_box",
+      "label": "Climate feel",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Textures that matter",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What magic feels like",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Taste"
+    },
+    {
+      "type": "prose",
+      "text": "**Common foods/drinks:**"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 2",
+      "note": "What They Eat"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Luxury foods",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What they eat together",
+      "height": "55pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "SOCIETY & CULTURE"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 3",
+      "note": "Culture, Customs & Daily Life"
+    },
+    {
+      "type": "heading3",
+      "text": "Social Hierarchy"
+    },
+    {
+      "type": "writing_box",
+      "label": "Top",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Middle",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Bottom",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Protagonist's place",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Love interest's place",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Values & Taboos"
+    },
+    {
+      "type": "writing_box",
+      "label": "What this culture values most",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What is forbidden/taboo",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "The rule their romance breaks",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Courtship & Marriage"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 3",
+      "note": "Courtship customs; Section 5 — Marriage laws"
+    },
+    {
+      "type": "writing_box",
+      "label": "How people court",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What touch is forbidden/significant",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What makes marriage official",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Language & Communication"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 8",
+      "note": "Language & Communication"
+    },
+    {
+      "type": "writing_box",
+      "label": "Languages in your world",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Communication barrier between characters",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Private language or signals they develop",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "RELIGION & BELIEF"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 6",
+      "note": "Religion, Myth & Prophecy"
+    },
+    {
+      "type": "writing_box",
+      "label": "What people believe",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Religious obstacle to the romance",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Sacred vows that conflict with love",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Prophecy (if any) and how it affects the romance",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Crisis of faith — what makes them question their beliefs?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Crisis of faith — what makes them question their beliefs?",
+      "height": "80pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "LAWS THAT MATTER"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 5",
+      "note": "Government, Power & Law"
+    },
+    {
+      "type": "writing_box",
+      "label": "Law #1",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Punishment for breaking",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Effect on romance",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Law #2",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Punishment for breaking",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Effect on romance",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Law #3",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Punishment for breaking",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Effect on romance",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "The law they will break",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "The specific consequences",
+      "height": "55pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "THE ROMANCE MECHANICS"
+    },
+    {
+      "type": "heading3",
+      "text": "How They're Forced Together"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 13",
+      "note": "Pressure Cooker; Section 14 — Institutions"
+    },
+    {
+      "type": "prose",
+      "text": "**Primary mechanism:**"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Fated mates/magical bond",
+        "Arranged marriage/political alliance",
+        "Academy/institutional partnership",
+        "Dangerous mission/shared goal",
+        "Geographical isolation",
+        "Other: _______________________________________________________"
+      ]
+    },
+    {
+      "type": "writing_box",
+      "label": "Details",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Yes",
+        "No",
+        "At great cost"
+      ]
+    },
+    {
+      "type": "heading3",
+      "text": "The \"Why Now?\""
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 16",
+      "note": "The \"Why Now?\" Test"
+    },
+    {
+      "type": "heading4",
+      "text": "What worldbuilding event kicks off their relationship?"
+    },
+    {
+      "type": "writing_box",
+      "label": "What worldbuilding event kicks off their relationship?",
+      "height": "80pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Why couldn't they have gotten together earlier?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Why couldn't they have gotten together earlier?",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "The deadline/time pressure",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What happens if the deadline passes",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "The Invisible Ledger"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 4",
+      "note": "Economy, Labour & Resources"
+    },
+    {
+      "type": "prose",
+      "text": "**Who starts with more economic/resource power?** _____________________"
+    },
+    {
+      "type": "prose",
+      "text": "**The biggest entry on the ledger:** (the debt, gift, or sacrifice neither can forget)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "prose",
+      "text": "**When does the ledger stop mattering?** ______________________________"
+    },
+    {
+      "type": "heading3",
+      "text": "How They're Kept Apart"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 16",
+      "note": "Romantasy-Specific Integration"
+    },
+    {
+      "type": "writing_box",
+      "label": "Obstacle 1",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Worldbuilding source",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Obstacle 2",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Worldbuilding source",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Obstacle 3",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Worldbuilding source",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Power Dynamics"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 18",
+      "note": "Agency Check"
+    },
+    {
+      "type": "writing_box",
+      "label": "Who starts with more power",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Type of power",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What leverage the weaker character holds",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "How power shifts",
+      "height": "55pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "PRESSURE POINTS"
+    },
+    {
+      "type": "heading3",
+      "text": "Location-Based"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 15",
+      "note": "Key Locations"
+    },
+    {
+      "type": "writing_box",
+      "label": "Where they're trapped together",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Where they must be apart",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Where discovery is most dangerous",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Time-Based"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 17",
+      "note": "Dual Clock"
+    },
+    {
+      "type": "writing_box",
+      "label": "The deadline",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What happens if missed",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Social-Based"
+    },
+    {
+      "type": "writing_box",
+      "label": "Who's watching",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Consequences of being caught",
+      "height": "55pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "CONFLICT ENGINES"
+    },
+    {
+      "type": "heading3",
+      "text": "External Conflict"
+    },
+    {
+      "type": "writing_box",
+      "label": "The main threat/problem",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Why they must face it together",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What happens if they fail",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Internal Conflict"
+    },
+    {
+      "type": "writing_box",
+      "label": "Protagonist's emotional wound",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "How it makes them resist the relationship",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Love interest's emotional wound",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "How it makes them resist",
+      "height": "55pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Where They Intersect"
+    },
+    {
+      "type": "heading4",
+      "text": "How external conflict forces them to face internal wounds:"
+    },
+    {
+      "type": "writing_box",
+      "label": "How external conflict forces them to face internal wounds:",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "How resolving relationship helps solve external problem:"
+    },
+    {
+      "type": "writing_box",
+      "label": "How resolving relationship helps solve external problem:",
+      "height": "100pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "KEY RULES (The 5-7 That Matter Most)"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 17",
+      "note": "Consistency Check"
+    },
+    {
+      "type": "writing_box",
+      "label": "Rule #1",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Romance relevance",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Rule #2",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Romance relevance",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Rule #3",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Romance relevance",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Rule #4",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Romance relevance",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Rule #5",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Romance relevance",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Rule #6",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Romance relevance",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Rule #7",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Romance relevance",
+      "height": "55pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "THE CHOICE MOMENTS"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 18",
+      "note": "Agency Check"
+    },
+    {
+      "type": "heading4",
+      "text": "When protagonist actively chooses love interest:"
+    },
+    {
+      "type": "writing_box",
+      "label": "When protagonist actively chooses love interest:",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What it costs them",
+      "height": "55pt"
+    },
+    {
+      "type": "heading4",
+      "text": "When love interest actively chooses protagonist:"
+    },
+    {
+      "type": "writing_box",
+      "label": "When love interest actively chooses protagonist:",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What it costs them",
+      "height": "55pt"
+    },
+    {
+      "type": "heading4",
+      "text": "The moment they defy worldbuilding rules to be together:"
+    },
+    {
+      "type": "writing_box",
+      "label": "The moment they defy worldbuilding rules to be together:",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What rule they break",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "The consequences they accept",
+      "height": "55pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "ROMANTIC TROPES IN USE"
+    },
+    {
+      "type": "prose",
+      "text": "Check all that apply and note specifics:"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Forced Proximity — How: _________________________________________",
+        "Forbidden Love — Why forbidden: __________________________________",
+        "Fated Mates — Type of bond: ______________________________________",
+        "Enemies to Lovers — Why enemies: _________________________________",
+        "Power Imbalance — Who has power: ________________________________",
+        "Arranged Marriage — Why arranged: ________________________________",
+        "Only One Bed (or equivalent): _____________________________________",
+        "Touch-Based Magic: _____________________________________________",
+        "Telepathic/Soul Bond: ___________________________________________",
+        "Protector Romance — Who protects whom: ___________________________",
+        "Grumpy/Sunshine — Who's which: _________________________________",
+        "Slow Burn — What prevents faster resolution: _________________________",
+        "Other: ________________________________________________________"
+      ]
+    },
+    {
+      "type": "heading4",
+      "text": "What makes your use of these tropes unique:"
+    },
+    {
+      "type": "writing_box",
+      "label": "What makes your use of these tropes unique:",
+      "height": "100pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "THE CLIMAX"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 16",
+      "note": "Final Connection Check"
+    },
+    {
+      "type": "heading4",
+      "text": "External climax (fantasy plot resolution):"
+    },
+    {
+      "type": "writing_box",
+      "label": "External climax (fantasy plot resolution):",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Relationship climax (romantic resolution):"
+    },
+    {
+      "type": "writing_box",
+      "label": "Relationship climax (romantic resolution):",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "How they happen together:"
+    },
+    {
+      "type": "writing_box",
+      "label": "How they happen together:",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What they sacrifice:**"
+    },
+    {
+      "type": "writing_box",
+      "label": "Protagonist",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Love interest",
+      "height": "55pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Why their union matters to the wider world:"
+    },
+    {
+      "type": "writing_box",
+      "label": "Why their union matters to the wider world:",
+      "height": "100pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "CONSISTENCY CHECKLIST"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 17",
+      "note": "Consistency Check"
+    },
+    {
+      "type": "heading3",
+      "text": "Before Writing a Scene:"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Travel time consistent with established distances?",
+        "Magic limitations still apply?",
+        "Authority figures present or absent for established reason?",
+        "Established dangers still dangerous?",
+        "Character knowledge accurate for this point in story?",
+        "Political/social rules being enforced?",
+        "Power levels consistent with previous scenes?"
+      ]
+    },
+    {
+      "type": "heading3",
+      "text": "If Breaking a Rule:"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Is there an in-world explanation?",
+        "Will there be consequences?",
+        "Was this possibility set up earlier?"
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "QUICK FACTS"
+    },
+    {
+      "type": "writing_box",
+      "label": "Currency",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Timekeeping:** (hours, days, calendar)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Distance measurements",
+      "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Major holidays/festivals:**"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 6",
+      "note": "Sacred Time"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Common phrases/sayings",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Important symbols",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "What people swear by",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Typical food/drink",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Climate/seasons",
+      "height": "55pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "THE ELEVATOR PITCH"
+    },
+    {
+      "type": "writing_box",
+      "label": "The world",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "The characters",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "The conflict",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "The romance",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "The stakes",
+      "height": "55pt"
+    },
+    {
+      "type": "heading4",
+      "text": "In one sentence:"
+    },
+    {
+      "type": "writing_box",
+      "label": "In one sentence:",
+      "height": "100pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "COMMON READER QUESTIONS"
+    },
+    {
+      "type": "prose",
+      "text": "(Useful for marketing, queries, and pitch materials)"
+    },
+    {
+      "type": "heading4",
+      "text": "\"What kind of magic system?\""
+    },
+    {
+      "type": "writing_box",
+      "label": "\"What kind of magic system?\"",
+      "height": "80pt"
+    },
+    {
+      "type": "heading4",
+      "text": "\"How is it different from [similar book]?\""
+    },
+    {
+      "type": "writing_box",
+      "label": "\"How is it different from [similar book]?\"",
+      "height": "80pt"
+    },
+    {
+      "type": "prose",
+      "text": "**\"Is it spicy or fade to black?\"** ____________________________________"
+    },
+    {
+      "type": "prose",
+      "text": "**\"Major tropes?\"** ________________________________________________"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "Yes",
+        "No",
+        "Yes",
+        "No",
+        "HFN (Happy For Now)"
+      ]
+    },
+    {
+      "type": "prose",
+      "text": "**\"Standalone or series?\"** __________________________________________"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "THINGS I'VE ESTABLISHED MID-DRAFT"
+    },
+    {
+      "type": "prose",
+      "text": "(Add details here as you write so you don't forget them. Include page/chapter where established.)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "200pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "NOTES TO SELF"
+    },
+    {
+      "type": "prose",
+      "text": "(Reminders, inconsistencies caught, things to fix in revision)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "200pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "THE INTEGRATION MANTRA"
+    },
+    {
+      "type": "cross_ref",
+      "section": "Section 16",
+      "note": "Web of Systems"
+    },
+    {
+      "type": "prose",
+      "text": "**Every worldbuilding element should do at least two of these:**"
+    },
+    {
+      "type": "prose",
+      "text": "1. Push characters together OR pull them apart (ideally both)"
+    },
+    {
+      "type": "prose",
+      "text": "2. Create opportunities for intimacy OR obstacles to overcome"
+    },
+    {
+      "type": "prose",
+      "text": "3. Force meaningful choices with real costs"
+    },
+    {
+      "type": "prose",
+      "text": "4. Have consistent rules the romance works within"
+    },
+    {
+      "type": "prose",
+      "text": "5. Matter to both the fantasy plot AND the relationship"
+    },
+    {
+      "type": "prose",
+      "text": "**If an element doesn't do at least two of these, cut it or strengthen it.**"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "FINAL CHECKLIST BEFORE DRAFTING"
+    },
+    {
+      "type": "checklist",
+      "items": [
+        "World at-a-glance complete",
+        "Character details consistent",
+        "Timeline established",
+        "Magic rules clear (including what magic can't do)",
+        "Bond mechanics defined, if applicable (consent, rejection, limits)",
+        "Key locations defined",
+        "Religion/belief system sketched (if relevant to romance)",
+        "\"Why now?\" catalyst identified",
+        "Obstacles identified with worldbuilding sources",
+        "Power dynamics mapped",
+        "Economic ledger understood",
+        "Choice moments identified",
+        "Climax integrates romance and fantasy",
+        "Consistency rules clear",
+        "Integration Score completed (Section 16)"
+      ]
+    },
+    {
+      "type": "prose",
+      "text": "**Ready to write.**"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "prose",
+      "text": "Keep these sheets accessible. Update as your story evolves."
+    },
+    {
+      "type": "prose",
+      "text": "Happy writing!"
+    }
+  ]
+}

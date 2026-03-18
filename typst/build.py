@@ -38,8 +38,23 @@ def escape_typst(text: str) -> str:
 
     # Escape characters that are special in Typst markup
     # but NOT # since we use it for Typst commands above
-    for char in ['$', '\\']:
+    for char in ['$', '\\', '_', '@']:
         text = text.replace(char, '\\' + char)
+
+    # Escape # that aren't Typst function calls (#strong, #emph, etc.)
+    # A lone # at start of text or after space needs escaping
+    text = re.sub(r'(?<![a-zA-Z])#(?!(strong|emph|text|link)\[)', r'\#', text)
+
+    # Escape stray * that weren't part of bold/italic pairs
+    # Count remaining * — if odd, there's an unmatched one
+    # Simple approach: escape * at start or end of text if unmatched
+    star_count = text.count('*')
+    if star_count % 2 == 1:
+        # Escape the last * if it's at the end
+        if text.endswith('*'):
+            text = text[:-1] + '\\*'
+        elif text.startswith('*'):
+            text = '\\*' + text[1:]
 
     return text
 
@@ -82,7 +97,9 @@ def gen_section_title_page(section_number, title, intro) -> str:
 
 def gen_heading(level: int, text: str) -> str:
     prefix = "=" * level
-    return f"\n{prefix} {text}\n"
+    # Escape underscores and other Typst-special chars in heading text
+    escaped = escape_typst(text)
+    return f"\n{prefix} {escaped}\n"
 
 
 def gen_prose(text: str) -> str:
@@ -170,11 +187,19 @@ def gen_mistake_box(item: dict) -> str:
 
 def gen_writing_box(item: dict) -> str:
     label = item.get("label")
-    height = item.get("height", "100pt")
+    height_str = item.get("height", "120pt")
+    fill_page = item.get("fill_page", False)
+
+    # R2: Enforce minimum 120pt height for writing boxes
+    height_val = int(height_str.replace("pt", "")) if isinstance(height_str, str) else int(height_str)
+    height_val = max(height_val, 120)
+    height_str = f"{height_val}pt"
+
     label_arg = f'\n  label: "{escape_typst_string(label)}",' if label else ""
+    fill_arg = "\n  fill-page: true," if fill_page else ""
     return f'''
 #writing-box({label_arg}
-  height: {height},
+  height: {height_str},{fill_arg}
 )
 '''
 
@@ -196,16 +221,26 @@ def _format_cell(cell: str) -> str:
     return f"[{escaped}]"
 
 
+def _format_row(row: list) -> str:
+    """Format a table row as a Typst tuple, handling single-element rows."""
+    cells = ", ".join(_format_cell(c) for c in row)
+    # Single-element tuple needs trailing comma in Typst
+    if len(row) == 1:
+        return f"    ({cells},),"
+    return f"    ({cells}),"
+
+
 def gen_data_table(item: dict) -> str:
     headers = item.get("headers", [])
     rows = item.get("rows", [])
     col_widths = item.get("col_widths")
 
     header_args = ", ".join(f'"{escape_typst_string(h)}"' for h in headers)
+    if len(headers) == 1:
+        header_args += ","
     row_lines = []
     for row in rows:
-        cells = ", ".join(_format_cell(c) for c in row)
-        row_lines.append(f"    ({cells}),")
+        row_lines.append(_format_row(row))
 
     col_widths_arg = ""
     if col_widths:
@@ -228,17 +263,32 @@ def gen_structured_table(item: dict, preamble: str = "") -> str:
     rows = item.get("rows", [])
     row_height = item.get("row_height", "55pt")
 
+    # R3: Enforce minimum 60pt row height; auto-increase for rows with long text
+    # Longer text in narrow columns (3+) needs even more height
+    rh_val = int(row_height.replace("pt", ""))
+    max_cell_len = max((len(c) for row in rows for c in row), default=0)
+    col_count = len(headers)
+    if max_cell_len > 90 and col_count >= 3:
+        rh_val = max(rh_val, 90)
+    elif max_cell_len > 80:
+        rh_val = max(rh_val, 75)
+    elif max_cell_len > 60:
+        rh_val = max(rh_val, 65)
+    else:
+        rh_val = max(rh_val, 60)
+    row_height = f"{rh_val}pt"
+
     header_args = ", ".join(f'"{escape_typst_string(h)}"' for h in headers)
+    if len(headers) == 1:
+        header_args += ","
 
     ex_lines = []
     for row in example_rows:
-        cells = ", ".join(_format_cell(c) for c in row)
-        ex_lines.append(f"    ({cells}),")
+        ex_lines.append(_format_row(row))
 
     row_lines = []
     for row in rows:
-        cells = ", ".join(_format_cell(c) for c in row)
-        row_lines.append(f"    ({cells}),")
+        row_lines.append(_format_row(row))
 
     preamble_arg = f"\n  preamble: [{preamble}]," if preamble else ""
 
@@ -264,17 +314,32 @@ def gen_open_table(item: dict, preamble: str = "") -> str:
     row_height = item.get("row_height", "55pt")
     extra_rows = item.get("extra_rows", 0)
 
+    # R3: Enforce minimum 60pt row height; auto-increase for long text
+    rh_val = int(row_height.replace("pt", ""))
+    all_table_rows = rows + example_rows
+    max_cell_len = max((len(c) for row in all_table_rows for c in row), default=0)
+    col_count = len(headers)
+    if max_cell_len > 90 and col_count >= 3:
+        rh_val = max(rh_val, 90)
+    elif max_cell_len > 80:
+        rh_val = max(rh_val, 75)
+    elif max_cell_len > 60:
+        rh_val = max(rh_val, 65)
+    else:
+        rh_val = max(rh_val, 60)
+    row_height = f"{rh_val}pt"
+
     header_args = ", ".join(f'"{escape_typst_string(h)}"' for h in headers)
+    if len(headers) == 1:
+        header_args += ","
 
     ex_lines = []
     for row in example_rows:
-        cells = ", ".join(_format_cell(c) for c in row)
-        ex_lines.append(f"    ({cells}),")
+        ex_lines.append(_format_row(row))
 
     row_lines = []
     for row in rows:
-        cells = ", ".join(_format_cell(c) for c in row)
-        row_lines.append(f"    ({cells}),")
+        row_lines.append(_format_row(row))
 
     extra_arg = f"\n  extra-rows: {extra_rows}," if extra_rows > 0 else ""
     rows_arg = f"\n  rows: (\n{chr(10).join(row_lines)}\n  )," if rows else ""
@@ -366,6 +431,24 @@ def generate_section(data: dict, standalone: bool = False) -> str:
     )
     if not has_title_page and intro:
         parts.append(gen_section_title_page(section_num, title, intro))
+
+    # R2: Pre-scan to mark writing boxes that should fill remaining page space.
+    # A writing_box is "page-filling" if the next non-trivial element is a
+    # heading2, divider, group, or end-of-section (i.e., it's the last
+    # interactive element before a visual break).
+    fill_page_indices = set()
+    for idx, item in enumerate(content):
+        if item.get("type") == "writing_box":
+            # Look ahead to see what follows
+            j = idx + 1
+            while j < len(content) and content[j].get("type") in ("divider", "hint"):
+                j += 1
+            if j >= len(content):
+                # Last writing box in section
+                fill_page_indices.add(idx)
+            elif content[j].get("type") in ("heading2", "group"):
+                # Writing box before a major section break
+                fill_page_indices.add(idx)
 
     # Track which items have been consumed by lookahead grouping
     consumed = set()
@@ -561,6 +644,11 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 for p in all_child_parts:
                     parts.append(p)
             continue
+
+        # R2: If this writing_box should fill the page, inject fill_page flag
+        if item_type == "writing_box" and idx in fill_page_indices:
+            item = dict(item)  # copy to avoid mutating original
+            item["fill_page"] = True
 
         gen = GENERATORS.get(item_type)
         if gen:

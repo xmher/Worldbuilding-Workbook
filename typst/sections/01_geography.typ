@@ -89,7 +89,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([Separation], [], []),
     ([Resource], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == The Pressure Cooker: Your Story
 
@@ -111,7 +111,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([Environmental (storms, seasons, magic)], [], []),
     ([Social/political (obligations, hostage, arranged marriage)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What seals the pressure cooker in your world?
 
@@ -128,70 +128,65 @@ You may feel that if your geography does not cause friction for your characters 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
 
 
-#open-table(
-  headers: ("Setting Type", "Why It Works", "Examples"),
-  example-rows: (
-    ([#emph[The Academy/Training Ground]], [Characters live, train, and compete in close quarters with no escape], [Fourth Wing#emph[, ]Zodiac Academy]),
-    ([#emph[The Isolated Estate]], [Limited cast, limited space, limited options for avoidance], [Gothic romances, #emph[Pride and Prejudice] variations]),
-    ([#emph[The Ship/Caravan]], [Moving container with enforced proximity and shared danger], [Pirate romance, trade caravan stories]),
-    ([#emph[The Siege/War Camp]], [External threat forces cooperation; death is the alternative], [Military romantasy]),
-    ([#emph[The Prison/Captivity]], [Hostage and captor, shared cell, or trapped in enemy territory together], [Captive romance, enemies-to-lovers]),
-    ([#emph[The Dangerous Quest]], [Mission requires partnership; separating means failure or death], [Quest narratives, escort missions]),
-    ([#emph[The Snowed-In/Stranded]], [Weather or disaster traps characters until conditions change], [Cabin romance, "only one bed"]),
-    ([#emph[The Royal Court]], [Political obligations, arranged proximity, can't leave without scandal], [Court intrigue, political marriage]),
-  ),
-  row-height: 55pt,
-  fill-strategy: "wider_rows",
-  preamble: [
 == Common Geographic Patterns in Romantasy
 
+
 === Settings That Force Proximity
-],
+
+
+#workbook-table(
+  headers: ("Setting Type", "Why It Works", "Examples"),
+  rows: (
+    ([#strong[The Academy/Training Ground]], [Characters live, train, and compete in close quarters with no escape], [#emph[Fourth Wing], #emph[Zodiac Academy]]),
+    ([#strong[The Isolated Estate]], [Limited cast, limited space, limited options for avoidance], [Gothic romances, #emph[Pride and Prejudice] variations]),
+    ([#strong[The Ship/Caravan]], [Moving container with enforced proximity and shared danger], [Pirate romance, trade caravan stories]),
+    ([#strong[The Siege/War Camp]], [External threat forces cooperation; death is the alternative], [Military romantasy]),
+    ([#strong[The Prison/Captivity]], [Hostage and captor, shared cell, or trapped in enemy territory together], [Captive romance, enemies-to-lovers]),
+    ([#strong[The Dangerous Quest]], [Mission requires partnership; separating means failure or death], [Quest narratives, escort missions]),
+    ([#strong[The Snowed-In/Stranded]], [Weather or disaster traps characters until conditions change], [Cabin romance, "only one bed"]),
+    ([#strong[The Royal Court]], [Political obligations, arranged proximity, can't leave without scandal], [Court intrigue, political marriage]),
+  ),
 )
 
 
 === Geographic Barriers That Create Stakes
 
 
-#open-table(
+#workbook-table(
   headers: ("Barrier Type", "Romantic Function", "Story Possibilities"),
-  example-rows: (
-    ([#emph[Mountain ranges]], [Separate nations/cultures; make travel seasonal], [Characters from opposite sides; winter trapping]),
-    ([#emph[Oceans]], [Create complete separation; make departure permanent], [Letters across distance; the weight of leaving]),
-    ([#emph[Deserts]], [Isolate cultures; make resources precious], [Oasis politics; survival journeys]),
-    ([#emph[Magical borders]], [Can be crossed only by certain people or under certain conditions], [One character can cross, one can't]),
-    ([#emph[War zones]], [Make travel deadly; create no-man's-land between peoples], [Enemies from opposing sides]),
-    ([#emph[Political borders]], [Crossing means treason or exile], [Forbidden love across enemy lines]),
-    ([#emph[Cursed/Blighted lands]], [Regions too dangerous to cross; require special protection], [Must find another way; one character immune, one isn't]),
-    ([#emph[Class geography]], [Slums vs. palace district; social ruin to cross], [Wrong-side-of-tracks romance; secret meetings in between spaces]),
+  rows: (
+    ([#strong[Mountain ranges]], [Separate nations/cultures; make travel seasonal], [Characters from opposite sides; winter trapping]),
+    ([#strong[Oceans]], [Create complete separation; make departure permanent], [Letters across distance; the weight of leaving]),
+    ([#strong[Deserts]], [Isolate cultures; make resources precious], [Oasis politics; survival journeys]),
+    ([#strong[Magical borders]], [Can be crossed only by certain people or under certain conditions], [One character can cross, one can't]),
+    ([#strong[War zones]], [Make travel deadly; create no-man's-land between peoples], [Enemies from opposing sides]),
+    ([#strong[Political borders]], [Crossing means treason or exile], [Forbidden love across enemy lines]),
+    ([#strong[Cursed/Blighted lands]], [Regions too dangerous to cross; require special protection], [Must find another way; one character immune, one isn't]),
+    ([#strong[Class geography]], [Slums vs. palace district; social ruin to cross], [Wrong-side-of-tracks romance; secret meetings in between spaces]),
   ),
-  row-height: 55pt,
-  fill-strategy: "wider_rows",
 )
 
 
 === Environmental Conditions That Affect Romance
 
 
-#open-table(
+#workbook-table(
   headers: ("Condition", "How It Creates Pressure", "Romantic Beats It Enables"),
-  example-rows: (
-    ([#emph[Harsh winters]], [Traps characters indoors; requires shared warmth], [Forced proximity; "snowed in" scenarios]),
-    ([#emph[Dangerous nights]], [Characters must shelter together after dark], [Shared watch; protective sleeping arrangements]),
-    ([#emph[Seasonal access]], [Passes close, ships can't sail, travel becomes impossible], [Racing against time; trapped until spring]),
-    ([#emph[Resource scarcity]], [Sharing becomes necessary; generosity becomes meaningful], [Sharing food/water; sacrifice for the other]),
-    ([#emph[Extreme heat]], [Travel only possible at night; requires shade-sharing, water rationing], [Night travel intimacy; sharing precious water; heat exhaustion care]),
-    ([#emph[Hostile territory after dark]], [Monsters or predators hunt at night; must camp together for safety], [One bed/bedroll situations; taking turns on watch; protective instincts]),
-    ([#emph[Corrupted/poisoned land]], [Regions that drain magic or health; must move quickly or rely on healer], [Dependency on one character's abilities; racing against deterioration]),
+  rows: (
+    ([#strong[Harsh winters]], [Traps characters indoors; requires shared warmth], [Forced proximity; "snowed in" scenarios]),
+    ([#strong[Dangerous nights]], [Characters must shelter together after dark], [Shared watch; protective sleeping arrangements]),
+    ([#strong[Seasonal access]], [Passes close, ships can't sail, travel becomes impossible], [Racing against time; trapped until spring]),
+    ([#strong[Resource scarcity]], [Sharing becomes necessary; generosity becomes meaningful], [Sharing food/water; sacrifice for the other]),
+    ([#strong[Extreme heat]], [Travel only possible at night; requires shade-sharing, water rationing], [Night travel intimacy; sharing precious water; heat exhaustion care]),
+    ([#strong[Hostile territory after dark]], [Monsters or predators hunt at night; must camp together for safety], [One bed/bedroll situations; taking turns on watch; protective instincts]),
+    ([#strong[Corrupted/poisoned land]], [Regions that drain magic or health; must move quickly or rely on healer], [Dependency on one character's abilities; racing against deterioration]),
   ),
-  row-height: 55pt,
-  fill-strategy: "wider_rows",
 )
 
 
@@ -235,7 +230,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([#strong[Empty Map:] Locations exist but don't affect culture, conflict, or character], [], []),
     ([#strong[No Emotional Resonance:] Setting is described physically but never connected to how characters feel], [], []),
   ),
-  row-height: 55pt,
+  row-height: 95pt,
   preamble: [
 ==== Geography Self-Check
 
@@ -257,7 +252,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([Multiple worlds/realms (parallel dimensions, portals)], [], []),
     ([Other: Describe], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == The Big Picture: Your World's Scale
 
@@ -281,7 +276,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([], []),
     ([], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== If your world is large, where specifically does your romance happen?
 
@@ -311,7 +306,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([Role in your story], [], []),
     ([Romantic function (how does this nation create or complicate your love story?)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   preamble: [
 == Kingdoms & Nations Overview
 
@@ -341,7 +336,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([Role in your story], [], []),
     ([Romantic function (how does this nation create or complicate your love story?)], [], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
 )
 
 
@@ -353,7 +348,7 @@ You may feel that if your geography does not cause friction for your characters 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -371,7 +366,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([], [], [], [], []),
     ([], [], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 90pt,
   fill-strategy: "wider_rows",
   preamble: [
 == Terrain Types
@@ -518,7 +513,7 @@ For deeper language work, see #emph[Section 11: Language & Communication].
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   fill-strategy: "wider_rows",
   preamble: [
 == Your World's Place Name Patterns
@@ -540,7 +535,7 @@ For deeper language work, see #emph[Section 11: Language & Communication].
     ([The contested territory], [], [], []),
     ([Their "place"], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Name your key locations
 
@@ -557,7 +552,7 @@ For deeper language work, see #emph[Section 11: Language & Communication].
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -571,7 +566,7 @@ For deeper language work, see #emph[Section 11: Language & Communication].
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -589,28 +584,28 @@ Resource control is probably the most consistent engine for romantic conflict wi
 The most effective way to demonstrate resource control on the page is to show what your characters can and cannot do, rather than telling them through exposition. For instance, a character from a land that has very little water may flinch every time they see someone leaving a tub of water running. If there is a war for control of a particular piece of land because of its strategic location for trade, then someone who is aware of this will notice the strategic advantage where others just view it as beautiful. This awareness should show itself through small reactions, casual conversations about prices or lack thereof, and the constant underlying anxiety that people in this world experience about resources. The tension that develops between two characters when one comes from a side of the battle for resources and the other comes from the opposing side will always develop in their assumptions about each other, what they choose not to comment about, and the times when privilege becomes visible.
 
 
-#open-table(
-  headers: ("Category", "Examples"),
-  example-rows: (
-    ([#emph[Precious Metals]], [Gold, silver, copper, iron ore, bronze, platinum, mithril]),
-    ([#emph[Gems & Stones]], [Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble, quality building stone]),
-    ([#emph[Textiles]], [Silk, wool, linen, cotton, rare furs, leather, spider-silk, feathers]),
-    ([#emph[Food & Agriculture]], [Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits, chocolate/cacao]),
-    ([#emph[Animal Products]], [Ivory, bone, whale oil, animal fat, beeswax, dyes from shells (Tyrian purple), ambergris]),
-    ([#emph[Plant Products]], [Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee, tobacco, opium]),
-    ([#emph[Fuel & Energy]], [Coal, oil, charcoal, peat, magical crystals, dragon-fire, captured lightning]),
-    ([#emph[Magical Resources]], [Ley line access, enchanted springs, magical creatures, spell components, phoenix feathers, dragon scales]),
-    ([#emph[Curiosities]], [Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight, tears of gods]),
-  ),
-  row-height: 55pt,
-  fill-strategy: "wider_rows",
-  preamble: [
 == Resources & Territorial Control
+
 
 === Reference: Natural Resource Ideas
 
+
 #hint[Use this list for inspiration when filling out the table below.]
-],
+
+
+#workbook-table(
+  headers: ("Category", "Examples"),
+  rows: (
+    ([#strong[Precious Metals]], [Gold, silver, copper, iron ore, bronze, platinum, mithril]),
+    ([#strong[Gems & Stones]], [Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble, quality building stone]),
+    ([#strong[Textiles]], [Silk, wool, linen, cotton, rare furs, leather, spider-silk, feathers]),
+    ([#strong[Food & Agriculture]], [Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits, chocolate/cacao]),
+    ([#strong[Animal Products]], [Ivory, bone, whale oil, animal fat, beeswax, dyes from shells (Tyrian purple), ambergris]),
+    ([#strong[Plant Products]], [Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee, tobacco, opium]),
+    ([#strong[Fuel & Energy]], [Coal, oil, charcoal, peat, magical crystals, dragon-fire, captured lightning]),
+    ([#strong[Magical Resources]], [Ley line access, enchanted springs, magical creatures, spell components, phoenix feathers, dragon scales]),
+    ([#strong[Curiosities]], [Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight, tears of gods]),
+  ),
 )
 
 
@@ -631,7 +626,7 @@ The most effective way to demonstrate resource control on the page is to show wh
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What natural resources are geographically concentrated?
 
@@ -648,7 +643,7 @@ The most effective way to demonstrate resource control on the page is to show wh
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -662,7 +657,7 @@ The most effective way to demonstrate resource control on the page is to show wh
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -697,7 +692,7 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
     ([What you smell], []),
     ([What the air feels like (temperature, humidity, wind)], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == The Sensory World
 
@@ -719,7 +714,7 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
     ([Evening], [], []),
     ([Night], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== How does the environment change at different times of day?
 
@@ -736,7 +731,7 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -750,7 +745,7 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -778,7 +773,7 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -792,7 +787,7 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -808,7 +803,7 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
     ([What this season makes possible], []),
     ([What this season makes impossible], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What season is your story set in?
 
@@ -827,7 +822,7 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
     ([Winter/cold season], [], []),
     ([Transitional seasons], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== How do seasons affect life in your world?
 
@@ -844,7 +839,7 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -874,7 +869,7 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
   preamble: [
 == Dangerous Regions
@@ -898,7 +893,7 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
     ([What forces them to rely on each other], []),
     ([What changes between them after surviving it], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   preamble: [
 ==== Do your characters travel through dangerous territory?
 
@@ -929,7 +924,7 @@ Also consider the cost of crossing a border for each character. Is crossing cons
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -943,7 +938,7 @@ Also consider the cost of crossing a border for each character. Is crossing cons
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -959,7 +954,7 @@ Also consider the cost of crossing a border for each character. Is crossing cons
     ([What crossing means (legally, socially, personally)], []),
     ([What "in-between" space exists (neutral zone, disputed land, meeting point)], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   preamble: [
 ==== Do your characters come from opposite sides of a significant border?
 
@@ -977,7 +972,7 @@ Also consider the cost of crossing a border for each character. Is crossing cons
     ([Protagonist], [], []),
     ([Love interest], [], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== What assumptions does each character carry about the other side?
 
@@ -1011,7 +1006,7 @@ This idea is central to the entire arc of the ACOTAR series. The Spring Court is
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1025,7 +1020,7 @@ This idea is central to the entire arc of the ACOTAR series. The Spring Court is
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1039,7 +1034,7 @@ This idea is central to the entire arc of the ACOTAR series. The Spring Court is
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1054,7 +1049,7 @@ This idea is central to the entire arc of the ACOTAR series. The Spring Court is
     ([Protagonist], []),
     ([Love interest], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Where does each character feel like an outsider?
 
@@ -1092,7 +1087,7 @@ This can happen on a much smaller level. In #emph[Bridgerton] (Season 2 / #emph[
     ([What the host is proud of — and what they'd rather hide], []),
     ([What everyday moment creates unexpected intimacy], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   preamble: [
 == Entering Each Other's Worlds
 
@@ -1125,7 +1120,7 @@ This can happen on a much smaller level. In #emph[Bridgerton] (Season 2 / #emph[
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1139,7 +1134,7 @@ This can happen on a much smaller level. In #emph[Bridgerton] (Season 2 / #emph[
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1160,7 +1155,7 @@ Also, capture the rhythm of the travel. Comfortable silences. Only talking to ea
 In #emph[From Blood and Ash], the trip through the Blood Forest is where Poppy and Hawke develop as friends and romantic interests. The continuous threat of attack from Craven continually puts them on edge; however, it's the physicality of the journey that takes away Poppy's social role as the Maiden. She can't even ride a horse, so she rides behind him. They eat meals together by the campfire. The informal nature of the trail removes all formalities. As they continue their journey, Hawke begins to treat Poppy as a peer rather than a charge, and she finally reveals to him her deepest secret, her empathic magic, while nursing back to health a dying guard. It's the actual terrain of the road, not the individual conversations, that allows her to transition from sheltered figurehead to someone making her own decisions.
 
 
-#emph[Fourth Wing] does the same thing during their flight to Athebyne. Violet and Xaden have to fly together because of the bond between their dragons, and the close proximity of dragonback travel (they are constantly touching, they have to share body heat, no way to create distance mid-flight) tears down the emotional walls they've put up. By the time they reach the outpost, Violet trusts Xaden as a person, not because of his rank at Basgiath. She trusts him because of the things they both endured during the flight to Athebyne.
+#hint[#emph[Fourth Wing] does the same thing during their flight to Athebyne. Violet and Xaden have to fly together because of the bond between their dragons, and the close proximity of dragonback travel (they are constantly touching, they have to share body heat, no way to create distance mid-flight) tears down the emotional walls they've put up. By the time they reach the outpost, Violet trusts Xaden as a person, not because of his rank at Basgiath. She trusts him because of the things they both endured during the flight to Athebyne.]
 
 
 #open-table(
@@ -1173,7 +1168,7 @@ In #emph[From Blood and Ash], the trip through the Blood Forest is where Poppy a
     ([], [], []),
     ([], [], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
   preamble: [
 == Travel & Distance
@@ -1215,7 +1210,7 @@ In #emph[From Blood and Ash], the trip through the Blood Forest is where Poppy a
     ([From one character's home to the other's], []),
     ([Across the dangerous region], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== How long does travel take between key locations?
 
@@ -1234,7 +1229,7 @@ In #emph[From Blood and Ash], the trip through the Blood Forest is where Poppy a
     ([How long], []),
     ([What happens during the journey], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 ==== Do your characters undertake a significant journey?
 
@@ -1270,7 +1265,7 @@ And remember: when characters finally #emph[could] leave but choose to stay, tha
     ([], [], [], []),
     ([], [], [], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   fill-strategy: "wider_rows",
   preamble: [
 == Isolated Locations
@@ -1293,7 +1288,7 @@ And remember: when characters finally #emph[could] leave but choose to stay, tha
     ([What happens after an argument (where do they go when there's nowhere to go)?], []),
     ([At what point could they leave — and what does staying mean?], []),
   ),
-  row-height: 55pt,
+  row-height: 65pt,
   preamble: [
 ==== How does the isolation generate romantic pressure?
 
@@ -1331,7 +1326,7 @@ In #emph[Fourth Wing], the use of emotional geography is taken further. Violet's
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1345,7 +1340,7 @@ In #emph[Fourth Wing], the use of emotional geography is taken further. Violet's
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1359,7 +1354,7 @@ In #emph[Fourth Wing], the use of emotional geography is taken further. Violet's
 
 #writing-box(
   label: "Your Answer",
-  height: 100pt,
+  height: 120pt,
 )
 
 ]
@@ -1377,7 +1372,7 @@ In #emph[Fourth Wing], the use of emotional geography is taken further. Violet's
     ([How does geography interact with magic? #emph[(Reference: Section 8)]], []),
     ([What geographic resource or territory is contested in your world?], []),
   ),
-  row-height: 55pt,
+  row-height: 75pt,
   preamble: [
 == Integration Check
 ],
@@ -1402,7 +1397,7 @@ In #emph[Fourth Wing], the use of emotional geography is taken further. Violet's
     ([Other:], []),
     ([Other:], []),
   ),
-  row-height: 55pt,
+  row-height: 60pt,
   preamble: [
 == Quick Reference: Geographic Stakes
 ],

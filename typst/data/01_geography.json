@@ -212,166 +212,157 @@
       "text": "Settings That Force Proximity"
     },
     {
-      "type": "open_table",
+      "type": "data_table",
       "headers": [
         "Setting Type",
         "Why It Works",
         "Examples"
       ],
-      "example_rows": [
+      "rows": [
         [
-          "*The Academy/Training Ground*",
+          "**The Academy/Training Ground**",
           "Characters live, train, and compete in close quarters with no escape",
-          "Fourth Wing*, *Zodiac Academy"
+          "*Fourth Wing*, *Zodiac Academy*"
         ],
         [
-          "*The Isolated Estate*",
+          "**The Isolated Estate**",
           "Limited cast, limited space, limited options for avoidance",
           "Gothic romances, *Pride and Prejudice* variations"
         ],
         [
-          "*The Ship/Caravan*",
+          "**The Ship/Caravan**",
           "Moving container with enforced proximity and shared danger",
           "Pirate romance, trade caravan stories"
         ],
         [
-          "*The Siege/War Camp*",
+          "**The Siege/War Camp**",
           "External threat forces cooperation; death is the alternative",
           "Military romantasy"
         ],
         [
-          "*The Prison/Captivity*",
+          "**The Prison/Captivity**",
           "Hostage and captor, shared cell, or trapped in enemy territory together",
           "Captive romance, enemies-to-lovers"
         ],
         [
-          "*The Dangerous Quest*",
+          "**The Dangerous Quest**",
           "Mission requires partnership; separating means failure or death",
           "Quest narratives, escort missions"
         ],
         [
-          "*The Snowed-In/Stranded*",
+          "**The Snowed-In/Stranded**",
           "Weather or disaster traps characters until conditions change",
           "Cabin romance, \"only one bed\""
         ],
         [
-          "*The Royal Court*",
+          "**The Royal Court**",
           "Political obligations, arranged proximity, can't leave without scandal",
           "Court intrigue, political marriage"
         ]
-      ],
-      "rows": [],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      ]
     },
     {
       "type": "heading3",
       "text": "Geographic Barriers That Create Stakes"
     },
     {
-      "type": "open_table",
+      "type": "data_table",
       "headers": [
         "Barrier Type",
         "Romantic Function",
         "Story Possibilities"
       ],
-      "example_rows": [
+      "rows": [
         [
-          "*Mountain ranges*",
+          "**Mountain ranges**",
           "Separate nations/cultures; make travel seasonal",
           "Characters from opposite sides; winter trapping"
         ],
         [
-          "*Oceans*",
+          "**Oceans**",
           "Create complete separation; make departure permanent",
           "Letters across distance; the weight of leaving"
         ],
         [
-          "*Deserts*",
+          "**Deserts**",
           "Isolate cultures; make resources precious",
           "Oasis politics; survival journeys"
         ],
         [
-          "*Magical borders*",
+          "**Magical borders**",
           "Can be crossed only by certain people or under certain conditions",
           "One character can cross, one can't"
         ],
         [
-          "*War zones*",
+          "**War zones**",
           "Make travel deadly; create no-man's-land between peoples",
           "Enemies from opposing sides"
         ],
         [
-          "*Political borders*",
+          "**Political borders**",
           "Crossing means treason or exile",
           "Forbidden love across enemy lines"
         ],
         [
-          "*Cursed/Blighted lands*",
+          "**Cursed/Blighted lands**",
           "Regions too dangerous to cross; require special protection",
           "Must find another way; one character immune, one isn't"
         ],
         [
-          "*Class geography*",
+          "**Class geography**",
           "Slums vs. palace district; social ruin to cross",
           "Wrong-side-of-tracks romance; secret meetings in between spaces"
         ]
-      ],
-      "rows": [],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      ]
     },
     {
       "type": "heading3",
       "text": "Environmental Conditions That Affect Romance"
     },
     {
-      "type": "open_table",
+      "type": "data_table",
       "headers": [
         "Condition",
         "How It Creates Pressure",
         "Romantic Beats It Enables"
       ],
-      "example_rows": [
+      "rows": [
         [
-          "*Harsh winters*",
+          "**Harsh winters**",
           "Traps characters indoors; requires shared warmth",
           "Forced proximity; \"snowed in\" scenarios"
         ],
         [
-          "*Dangerous nights*",
+          "**Dangerous nights**",
           "Characters must shelter together after dark",
           "Shared watch; protective sleeping arrangements"
         ],
         [
-          "*Seasonal access*",
+          "**Seasonal access**",
           "Passes close, ships can't sail, travel becomes impossible",
           "Racing against time; trapped until spring"
         ],
         [
-          "*Resource scarcity*",
+          "**Resource scarcity**",
           "Sharing becomes necessary; generosity becomes meaningful",
           "Sharing food/water; sacrifice for the other"
         ],
         [
-          "*Extreme heat*",
+          "**Extreme heat**",
           "Travel only possible at night; requires shade-sharing, water rationing",
           "Night travel intimacy; sharing precious water; heat exhaustion care"
         ],
         [
-          "*Hostile territory after dark*",
+          "**Hostile territory after dark**",
           "Monsters or predators hunt at night; must camp together for safety",
           "One bed/bedroll situations; taking turns on watch; protective instincts"
         ],
         [
-          "*Corrupted/poisoned land*",
+          "**Corrupted/poisoned land**",
           "Regions that drain magic or health; must move quickly or rely on healer",
           "Dependency on one character's abilities; racing against deterioration"
         ]
-      ],
-      "rows": [],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      ]
     },
     {
       "type": "divider"
@@ -433,7 +424,7 @@
           ""
         ]
       ],
-      "row_height": "55pt"
+      "row_height": "95pt"
     },
     {
       "type": "divider"
@@ -1319,52 +1310,49 @@
       "text": "Use this list for inspiration when filling out the table below."
     },
     {
-      "type": "open_table",
+      "type": "data_table",
       "headers": [
         "Category",
         "Examples"
       ],
-      "example_rows": [
+      "rows": [
         [
-          "*Precious Metals*",
+          "**Precious Metals**",
           "Gold, silver, copper, iron ore, bronze, platinum, mithril"
         ],
         [
-          "*Gems & Stones*",
+          "**Gems & Stones**",
           "Diamonds, rubies, sapphires, emeralds, pearls, amber, jade, obsidian, marble, quality building stone"
         ],
         [
-          "*Textiles*",
+          "**Textiles**",
           "Silk, wool, linen, cotton, rare furs, leather, spider-silk, feathers"
         ],
         [
-          "*Food & Agriculture*",
+          "**Food & Agriculture**",
           "Grain, rice, olives, wine/grapes, sugar, honey, salt, spices, rare fruits, chocolate/cacao"
         ],
         [
-          "*Animal Products*",
+          "**Animal Products**",
           "Ivory, bone, whale oil, animal fat, beeswax, dyes from shells (Tyrian purple), ambergris"
         ],
         [
-          "*Plant Products*",
+          "**Plant Products**",
           "Timber, herbs, medicinal plants, rare flowers, resins, incense, tea, coffee, tobacco, opium"
         ],
         [
-          "*Fuel & Energy*",
+          "**Fuel & Energy**",
           "Coal, oil, charcoal, peat, magical crystals, dragon-fire, captured lightning"
         ],
         [
-          "*Magical Resources*",
+          "**Magical Resources**",
           "Ley line access, enchanted springs, magical creatures, spell components, phoenix feathers, dragon scales"
         ],
         [
-          "*Curiosities*",
+          "**Curiosities**",
           "Fossils, adder stones, meteoric iron, ancient artifacts, bottled starlight, tears of gods"
         ]
-      ],
-      "rows": [],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      ]
     },
     {
       "type": "heading4",
@@ -2187,7 +2175,7 @@
       "text": "In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Hawke develop as friends and romantic interests. The continuous threat of attack from Craven continually puts them on edge; however, it's the physicality of the journey that takes away Poppy's social role as the Maiden. She can't even ride a horse, so she rides behind him. They eat meals together by the campfire. The informal nature of the trail removes all formalities. As they continue their journey, Hawke begins to treat Poppy as a peer rather than a charge, and she finally reveals to him her deepest secret, her empathic magic, while nursing back to health a dying guard. It's the actual terrain of the road, not the individual conversations, that allows her to transition from sheltered figurehead to someone making her own decisions."
     },
     {
-      "type": "prose",
+      "type": "hint",
       "text": "*Fourth Wing* does the same thing during their flight to Athebyne. Violet and Xaden have to fly together because of the bond between their dragons, and the close proximity of dragonback travel (they are constantly touching, they have to share body heat, no way to create distance mid-flight) tears down the emotional walls they've put up. By the time they reach the outpost, Violet trusts Xaden as a person, not because of his rank at Basgiath. She trusts him because of the things they both endured during the flight to Athebyne."
     },
     {
