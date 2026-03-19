@@ -101,9 +101,14 @@
   )
   set par(
     leading: 0.65em * 1.6,
+    spacing: 1.4em,
     justify: true,
     first-line-indent: 0pt,
   )
+
+  // F1: Bullet/numbered lists get clear spacing from surrounding prose
+  set list(indent: 0.5em, body-indent: 0.5em, spacing: auto)
+  show list: it => block(above: 1.2em, below: 1.2em, it)
 
   // Heading styles
   show heading.where(level: 1): it => {
