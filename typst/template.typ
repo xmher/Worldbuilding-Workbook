@@ -617,6 +617,14 @@
     all-rows.push(row.map(cell => block(height: row-height, breakable: false)[#cell]))
   }
 
+  // Auto-detect narrow check/tick columns based on header text.
+  // Headers like "✓", "Check", "Y/N" only need a small fixed width.
+  let check-headers = ("✓", "✓/✗", "check", "y/n")
+  let col-widths = headers.map(h => {
+    let normalized = lower(h.trim())
+    if normalized in check-headers { 50pt } else { 1fr }
+  })
+
   // Always allow breaking — individual rows are non-breakable (no ghost rows),
   // and Typst's heading orphan protection keeps headings with content.
   // This avoids dead white space from non-breakable blocks being pushed
@@ -625,7 +633,7 @@
     #if preamble != none { preamble }
     #set par(justify: false)
     #table(
-      columns: range(col-count).map(_ => 1fr),
+      columns: col-widths,
       fill: (col, row) => {
         if row == 0 { color-theme }
         else if row <= example-rows.len() { color-theme.lighten(92%) }
