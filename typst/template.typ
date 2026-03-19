@@ -617,20 +617,11 @@
     all-rows.push(row.map(cell => block(height: row-height, breakable: false)[#cell]))
   }
 
-  // Estimate total table height to decide if it fits on a single page.
-  let effective-row-h = row-height / 1pt + 24
-  let example-h = if example-rows.len() > 0 { calc.max(100, effective-row-h) * example-rows.len() } else { 0 }
-  let preamble-h = if preamble != none { 150 } else { 0 }
-  let total-height = 44 + example-h + rows.len() * effective-row-h + preamble-h
-  let can-fit = total-height < 620
-
-  // Large breakable tables with preamble: start on a new page to avoid
-  // orphaning the heading at the bottom of the previous page.
-  if not can-fit and preamble != none {
-    pagebreak(weak: true)
-  }
-
-  block(width: 100%, above: 1.5em, below: 1.5em, breakable: not can-fit)[
+  // Always allow breaking — individual rows are non-breakable (no ghost rows),
+  // and Typst's heading orphan protection keeps headings with content.
+  // This avoids dead white space from non-breakable blocks being pushed
+  // to the next page.
+  block(width: 100%, above: 1.5em, below: 1.5em, breakable: true)[
     #if preamble != none { preamble }
     #set par(justify: false)
     #table(

@@ -217,9 +217,6 @@ You may feel that if your geography does not cause friction for your characters 
 ]
 
 
-#divider()
-
-
 #structured-table(
   headers: ("Mistake", "Does This Apply to You?", "What to Fix"),
   example-rows: (
@@ -230,7 +227,7 @@ You may feel that if your geography does not cause friction for your characters 
     ([#strong[Empty Map:] Locations exist but don't affect culture, conflict, or character], [], []),
     ([#strong[No Emotional Resonance:] Setting is described physically but never connected to how characters feel], [], []),
   ),
-  row-height: 95pt,
+  row-height: 90pt,
   preamble: [
 ==== Geography Self-Check
 
