@@ -13,6 +13,7 @@ Rules discovered during PDF review. Each is classified as:
 |---|------|----------|--------|
 | F1 | **Paragraph spacing**: visible line break between paragraphs. Before and after bullet lists there should be a clear line break separating them from surrounding prose. | AUTO | DONE |
 | F2 | **Structured table review**: For user-fill tables, decide per table: (a) remove unnecessary columns (e.g. "Does it apply?" yes/no columns waste space), (b) add blank rows for user ideas, (c) make rows taller for more writing room. Give writing space to the columns that need it. | DECISION | TODO |
+| F3 | **Data table fragmentation**: Long reference tables (read-only) split across 2-3 pages look messy. Consider: consolidating sub-tables, keeping short tables on one page, or accepting clean page breaks with repeated headers. | DECISION | TODO |
 
 ---
 
@@ -33,3 +34,14 @@ Rules discovered during PDF review. Each is classified as:
 3. Are rows tall enough for handwriting?
 **Where**: `typst/data/*.json` — edit table definitions per section.
 **Status**: TODO — requires going through each section's tables with the user.
+
+### F3: Data Table Fragmentation
+**Problem**: Long read-only reference tables (e.g. "Settings That Force Proximity" — 8 rows, "Geographic Barriers" — 8 rows, "Environmental Conditions" — 7 rows) split across multiple pages, looking fragmented even though headers repeat correctly.
+**Example**: Geography section "Common Geographic Patterns" has 3 sub-tables spanning ~3.5 pages.
+**Options**:
+1. **Merge sub-tables** — combine "Settings That Force Proximity" + continuation into one table. Fewer headers = less visual noise.
+2. **Start each sub-table on a new page** — cleaner but uses more paper.
+3. **Accept the flow** — tables break naturally with repeated headers (current behavior). Just ensure H3 subheading always stays with at least 2 rows of its table.
+4. **Convert to a different format** — some reference tables might work better as bullet lists or framework boxes if they're short.
+**Where**: `typst/data/*.json` — per-section decisions about table structure.
+**Status**: TODO — needs user decision on preferred approach per section.

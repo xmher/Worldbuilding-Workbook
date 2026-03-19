@@ -535,7 +535,8 @@
 
 
 // --- Workbook Table (styled data table) ---
-// R3: Minimum row height 45pt for data tables to prevent overflow
+// F3: Data tables are breakable (flow across pages) with compact natural row heights.
+// These are read-only reference tables, not user-fill.
 #let workbook-table(
   headers: (),
   rows: (),
