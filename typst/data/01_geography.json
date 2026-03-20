@@ -390,9 +390,6 @@
       "fix": "Give each major location an emotional quality, and let characters experience it differently. The same castle might feel like a prison to one character and a sanctuary to another."
     },
     {
-      "type": "divider"
-    },
-    {
       "type": "heading4",
       "text": "Geography Self-Check"
     },
@@ -424,7 +421,7 @@
           ""
         ]
       ],
-      "row_height": "95pt"
+      "row_height": "55pt"
     },
     {
       "type": "divider"
