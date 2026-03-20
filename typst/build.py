@@ -9,6 +9,7 @@ Usage:
     python build.py              # generate .typ files + compile PDF
     python build.py --generate   # generate .typ files only
     python build.py --compile    # compile only (assumes .typ files exist)
+    python build.py --review     # generate + automated QA + compile (for AI review pipeline)
 """
 
 import json
@@ -663,6 +664,24 @@ def generate_section(data: dict, standalone: bool = False) -> str:
 # Main
 # ===========================================================
 
+def compile_pdf():
+    """Compile Typst source to PDF."""
+    print("\n  Compiling PDF ...")
+    result = subprocess.run(
+        ["typst", "compile", "--font-path", "fonts", "workbook.typ", "output/workbook.pdf"],
+        cwd=str(SCRIPT_DIR),
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        print(f"  Compilation failed:\n{result.stderr}")
+        sys.exit(1)
+    else:
+        print(f"  -> output/workbook.pdf")
+        if result.stderr:
+            print(f"  Warnings:\n{result.stderr}")
+
+
 def build():
     mode = sys.argv[1] if len(sys.argv) > 1 else None
 
@@ -702,22 +721,40 @@ def build():
             f.write("\n".join(main_content))
         print(f"\n  Generated workbook.typ with {len(section_files)} sections")
 
-    if mode != "--generate":
+    if mode not in ("--generate", "--review"):
         # --- Compile PDF ---
-        print("\n  Compiling PDF ...")
-        result = subprocess.run(
-            ["typst", "compile", "--font-path", "fonts", "workbook.typ", "output/workbook.pdf"],
+        compile_pdf()
+
+    if mode == "--review":
+        # --- Full review pipeline: generate + automated checks + compile ---
+        # Step 1: Run automated QA checks
+        print("\n  Running automated QA checks ...")
+        review_result = subprocess.run(
+            [sys.executable, str(SCRIPT_DIR / "review.py")],
             cwd=str(SCRIPT_DIR),
             capture_output=True,
             text=True,
         )
-        if result.returncode != 0:
-            print(f"  Compilation failed:\n{result.stderr}")
+        print(review_result.stdout)
+        if review_result.returncode == 2:
+            print("  ⛔ Critical issues found — fix before compiling.")
+            print("  Run 'python review.py' to see details.")
             sys.exit(1)
-        else:
-            print(f"  -> output/workbook.pdf")
-            if result.stderr:
-                print(f"  Warnings:\n{result.stderr}")
+        elif review_result.returncode == 1:
+            print("  ⚠ Major issues found — review report above.")
+
+        # Step 2: Compile PDF
+        compile_pdf()
+
+        # Step 3: Signal that AI review is needed
+        print("\n" + "=" * 60)
+        print("  READY FOR AI REVIEW")
+        print("=" * 60)
+        print("  PDF compiled to: output/workbook.pdf")
+        print("  Next step: AI reads the PDF page-by-page using the")
+        print("  QA checklist and reports issues with specific fixes.")
+        print("  After AI review, human does final review.")
+        print("=" * 60)
 
     print("\n  Done!")
 
