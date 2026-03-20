@@ -101,7 +101,7 @@
   )
   set par(
     leading: 0.65em * 1.6,
-    spacing: 1.4em,
+    spacing: 2em,
     justify: true,
     first-line-indent: 0pt,
   )

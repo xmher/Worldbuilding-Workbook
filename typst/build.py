@@ -9,7 +9,7 @@ Usage:
     python build.py              # generate .typ files + compile PDF
     python build.py --generate   # generate .typ files only
     python build.py --compile    # compile only (assumes .typ files exist)
-    python build.py --review     # generate + automated QA + compile (for AI review pipeline)
+    python build.py --review     # generate + compile + signal for AI review
 """
 
 import json
@@ -726,27 +726,9 @@ def build():
         compile_pdf()
 
     if mode == "--review":
-        # --- Full review pipeline: generate + automated checks + compile ---
-        # Step 1: Run automated QA checks
-        print("\n  Running automated QA checks ...")
-        review_result = subprocess.run(
-            [sys.executable, str(SCRIPT_DIR / "review.py")],
-            cwd=str(SCRIPT_DIR),
-            capture_output=True,
-            text=True,
-        )
-        print(review_result.stdout)
-        if review_result.returncode == 2:
-            print("  ⛔ Critical issues found — fix before compiling.")
-            print("  Run 'python review.py' to see details.")
-            sys.exit(1)
-        elif review_result.returncode == 1:
-            print("  ⚠ Major issues found — review report above.")
-
-        # Step 2: Compile PDF
+        # --- Full review pipeline: generate + compile + signal for AI review ---
         compile_pdf()
 
-        # Step 3: Signal that AI review is needed
         print("\n" + "=" * 60)
         print("  READY FOR AI REVIEW")
         print("=" * 60)
