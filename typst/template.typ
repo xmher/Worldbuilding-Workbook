@@ -617,12 +617,18 @@
     all-rows.push(row.map(cell => block(height: row-height, breakable: false)[#cell]))
   }
 
-  // Auto-detect narrow check/tick columns based on header text.
-  // Headers like "✓", "Check", "Y/N" only need a small fixed width.
-  let check-headers = ("✓", "✓/✗", "check", "y/n")
+  // Auto-detect narrow yes/no columns based on header text.
+  // Exact matches (case-insensitive): tick symbols and short labels.
+  let check-headers = ("✓", "✓/✗", "check", "y/n", "status")
+  // Question-phrase prefixes that signal a yes/no answer column.
+  let yn-prefixes = ("does it", "does this", "does your", "is it", "is there", "are there", "can it", "can they", "has it", "has this", "have they", "have characters", "was there", "exists in", "present in", "connects to", "do they")
   let col-widths = headers.map(h => {
     let normalized = lower(h.trim())
-    if normalized in check-headers { 50pt } else { 1fr }
+    if normalized in check-headers { 50pt }
+    else if yn-prefixes.any(p => normalized.starts-with(p)) and normalized.ends-with("?") { 80pt }
+    else if normalized.ends-with("?") and normalized.contains(" or ") { 80pt }
+    else if normalized.ends-with("?") and normalized.len() <= 12 { 80pt }
+    else { 1fr }
   })
 
   // Always allow breaking — individual rows are non-breakable (no ghost rows),
