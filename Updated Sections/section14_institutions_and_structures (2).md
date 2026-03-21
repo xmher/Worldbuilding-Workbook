@@ -517,8 +517,6 @@ Is death a real possibility they face? How does this urgency affect what they're
 
 ### Military Structure
 
-**What's each character's role?**
-
 *Their military roles define the power dynamic. A commander and a soldier under her command face very different romantic obstacles than two soldiers of equal rank. The role also determines what each character has access to — information, movement, authority — and what they risk by loving the wrong person.*
 
 Soldier, commander, medic, strategist, prisoner, spy, conscript, mercenary, support staff?

@@ -278,29 +278,16 @@ Illustrate how your characters create privacy when it's not available to them. A
 
 In many historical and fantasy settings, the biggest privacy issue isn't surveillance technology. It's people. Servants, attendants, family members, and household staff see and hear everything. Their presence shapes what can be said and done, and who knows the household's secrets.
 
-**How private are domestic spaces?**
-*The thickness of walls and the layout of rooms determine whether whispered words stay between two people or become public knowledge. Privacy at home — or the lack of it — shapes every intimate moment.*
+**How private are domestic spaces in your world? Do locks exist, and who has them? Who can access private spaces? What surveillance exists? Where can people have truly private conversations, and what are the consequences of being overheard?**
+*The thickness of walls and the layout of rooms determine whether whispered words stay between two people or become public knowledge. A locked door means choosing vulnerability; an unlocked one means performing for an audience that could arrive at any moment. Consider: wall thickness, separate rooms, who shares space; servants, family, landlords, or officials with access; magical scrying, spy networks, or informants. The stakes of being overheard shape how carefully characters speak — if the wrong person hears the wrong thing, every whispered word carries enormous weight.*
 
-Wall thickness, separate rooms, who shares space:
+*(Write your answer below)*
 
-**Do locks exist? Who has them?**
-*The ability to lock a door is the ability to create private space. A locked door means choosing vulnerability; an unlocked one means performing for an audience that could arrive at any moment. Who in your world has that power, and who doesn't?*
+&nbsp;
 
-**Who has access to private spaces?**
-*A private space is only as private as the people who can enter it. If servants have keys, if family can walk in, if landlords can inspect, then "alone" is always conditional.*
+&nbsp;
 
-Servants, family members, landlords, officials:
-
-**What surveillance exists?**
-*Surveillance determines how carefully your characters must perform in public. Magical scrying, spy networks, and informants all create different levels of pressure — and different risks if your characters are caught together.*
-
-Magical scrying? Spy networks? Informants? Nothing systematic?
-
-**Where can people have truly private conversations?**
-*In a world where privacy is scarce, the locations where characters can speak freely become sacred. These are the places where masks drop, truths emerge, and the relationship can advance beyond what public performance allows.*
-
-**What are the consequences of being overheard?**
-*The stakes of privacy shape how carefully characters speak and act. If the wrong person hearing the wrong thing means execution, exile, or scandal, then every whispered word carries enormous weight — and every private moment becomes an act of courage.*
+&nbsp;
 
 **Design a stolen moment for your characters: Where does it happen? Who or what are they hiding from? What do they do or say? How do they cover their tracks? What would happen if they were caught?**
 *In worlds where privacy is scarce, every stolen moment carries the weight of an entire scene. Think about how your characters would navigate surveillance to create a private interaction — and what the consequences would be if they were caught.*
@@ -315,23 +302,7 @@ Magical scrying? Spy networks? Informants? Nothing systematic?
 
 ### Servants & Attendants
 
-**Do servants exist in your world? How common are they?**
-Servants witness everything. Their presence shapes what can be said and done, and who knows the household's secrets.
-
-**What do servants do, and what do they see?**
-*Servants who dress, bathe, clean, and attend their employers witness the most private moments of their lives. A servant who handles personal items, sleeps nearby, or is present during vulnerable moments is a witness to everything your characters want to hide.*
-
-Cooking, cleaning, dressing, attending, managing households. Are they present for private moments? Do they handle personal items? Do they sleep nearby?
-
-**What's the relationship between servants and employers?**
-*The nature of the servant-employer bond determines whether servants are allies or threats to your romance. A loyal retainer who becomes a confidant is a very different story element from an ambitious servant who trades secrets for advancement.*
-
-Loyal retainers? Interchangeable staff? Family-like? Strictly hierarchical?
-
-**Can servants be trusted with secrets?**
-*What motivates a servant's loyalty — or disloyalty — affects whether your characters can ever truly be alone. A servant who becomes a trusted confidant can enable the romance; one who becomes an informant can destroy it.*
-
-What motivates their loyalty or disloyalty?
+Servants witness everything. Their presence shapes what can be said and done, and who knows the household's secrets. Servants who dress, bathe, clean, and attend their employers witness the most private moments of their lives. The nature of the servant-employer bond — loyal retainers, interchangeable staff, family-like, strictly hierarchical — determines whether servants are allies or threats to your romance. What motivates their loyalty or disloyalty affects whether your characters can ever truly be alone.
 
 **Does your protagonist have servants or attendants? Does your love interest? How does their presence (or absence) affect the characters' ability to have private moments, and what strategies do they use to find moments alone?**
 *Think about how servants affect your characters' ability to have private moments, and whether any servants become confidants or threats. The constant presence of others shapes intimacy — and what happens when those strategies fail?*

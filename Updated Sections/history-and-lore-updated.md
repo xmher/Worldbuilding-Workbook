@@ -1040,19 +1040,25 @@ Falling in love with the "wrong" person often forces us to question the stories 
 
 Do they fight about it? Try to understand? Discover they were both taught incomplete versions?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would it mean if the "other side's" history turned out to be true?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
-
-**What major event happened within living memory (last 50-80 years)?**
 
 **What major event happened within living memory (last 50-80 years)? What was it, when did it happen, who was affected, and how did it shape the current world?**
 

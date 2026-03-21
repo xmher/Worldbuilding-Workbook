@@ -806,10 +806,8 @@ You don't need to write full dialogue yet. Map how the rhythm changes. Start wit
 
 &nbsp;
 
-**What words wound?**
-What can one say that truly hurts the other? Knowing what wounds someone is intimate knowledge, and using it is a betrayal of that intimacy. The strongest unsayable lines attack identity ("born to die"), belonging ("you are nothing"), or agency ("we decided for you"). Which of these would hurt your characters most?
-
 **What words would wound your protagonist most deeply? What words would wound your love interest?**
+*Knowing what wounds someone is intimate knowledge, and using it is a betrayal of that intimacy. The strongest unsayable lines attack identity ("born to die"), belonging ("you are nothing"), or agency ("we decided for you"). Which of these would hurt your characters most?*
 
 *(Write your answer below)*
 
@@ -860,10 +858,8 @@ Arguments can deepen understanding as much as gentle moments. What truths emerge
 
 Literacy is power, and in romantasy, power imbalances create tension. Who can read and who can't, who writes letters and who can't reply, who controls information and who's shut out. These are romantic stakes disguised as worldbuilding.
 
-**What does literacy look like in your world?**
-*Who can read shapes who holds power — and who's shut out of it. A character who can't read a love letter, a treaty, or a warning is vulnerable in ways that go beyond the battlefield.*
-
 **What writing systems exist in your world (alphabets, pictographs, magical scripts)? How common is literacy, who controls access to reading and writing, and what can't be communicated without literacy?**
+*Who can read shapes who holds power — and who's shut out of it. A character who can't read a love letter, a treaty, or a warning is vulnerable in ways that go beyond the battlefield.*
 
 *(Write your answer below)*
 

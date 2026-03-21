@@ -1683,15 +1683,17 @@ If your characters are on opposing sides of the war and they develop an emotiona
 
 *(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Violence They Carry
 
-**Has either character killed in war?**
+**Has either character experienced violence or combat?**
 
-If yes:
-
-**Has either character experienced violence or combat? Describe the circumstances and how it affects them.**
+*If yes: Describe the circumstances and how it affects them.*
 
 *(Write your answer below)*
 
@@ -1703,7 +1705,7 @@ If yes:
 
 **Has either character lost someone to the conflict?**
 
-**Has either character lost someone in the conflict? Who was lost, how, and how does it shape them?**
+*Who was lost, how, and how does it shape them?*
 
 *(Write your answer below)*
 
@@ -1715,27 +1717,37 @@ If yes:
 
 **Is there blood between their peoples that can't be easily forgiven?**
 
-Atrocities, massacres, betrayals during the conflict:
+*Atrocities, massacres, betrayals during the conflict:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does one character bear responsibility (personally or ancestrally) for violence against the other's people?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do they navigate this?**
 
-Can there be forgiveness? Understanding? Or is this wound too deep?
+*Can there be forgiveness? Understanding? Or is this wound too deep?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Desertion & Defection
 

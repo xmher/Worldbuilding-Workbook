@@ -2005,43 +2005,53 @@ Each gift scene has three components: the act of giving, the act of receiving, a
 
 What objects carry romantic meaning? (Flowers, jewelry, handkerchiefs, enchanted items, etc.)
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does giving or accepting such a token signify?**
 
 Interest? Serious intent? Engagement? Binding commitment?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does either of your characters give such a token — or refuse one?**
 
 What happens and what does it mean?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Is there an object that becomes meaningful to your couple specifically?**
 
 Not a traditional token, but something that gains significance between them:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Plan a gift scene using the three components.**
 
-*The most powerful gift scenes slow down through all three stages: giving, receiving, and aftermath. A gift that shows the giver noticed something specific about the receiver always lands harder than one that merely demonstrates wealth.*
-
-**Plan a significant gift-giving moment. What is the gift and why this gift specifically? Describe the giving (nervous or confident?), the receiving (recognition, confusion?), and the aftermath (where does the gift go, how often is it touched?).**
+*The most powerful gift scenes slow down through all three stages: giving, receiving, and aftermath. What is the gift and why this gift specifically? Describe the giving (nervous or confident?), the receiving (recognition, confusion?), and the aftermath (where does the gift go, how often is it touched?).*
 
 *(Write your answer below)*
 
@@ -2052,6 +2062,7 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
 ## Marriage Customs & Ceremonies
 
 Marriage is where individualised love becomes a public rite of passage. Who can marry whom? What rituals must be performed? What makes a union legitimate? These customs define the endgame of your romance and the obstacles standing in its way.
@@ -2062,15 +2073,17 @@ These customs will determine whether your characters are rushing towards marriag
 
 Religious ceremony? Community witness? Consummation? Exchange of vows? Magical binding? Family blessing?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Describe a traditional wedding ceremony in your world:**
 
-**Describe your world's marriage ceremony: Where does it happen? Who performs it? What are the key rituals or moments? What words or vows are spoken? What objects or symbols are used?**
+*Where does it happen? Who performs it? What are the key rituals or moments? What words or vows are spoken? What objects or symbols are used?*
 
 *(Write your answer below)*
 

@@ -1665,40 +1665,52 @@ This is the core tension in any fated-connection story. Readers want to believe 
 The sweet spot is usually: the bond creates the opportunity or the pull, but the relationship requires choice.
 
 **In your world, is the bond a compulsion, an invitation, or something in between?**
-A compulsion leaves no room for choice. An invitation can be refused. Most interesting bonds live somewhere in the middle.
 
-_______________________________________________________________
+*A compulsion leaves no room for choice. An invitation can be refused. Most interesting bonds live somewhere in the middle.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can the bond be rejected, resisted, or refused? What does that cost?**
-Physical pain? Shortened lifespan? Loss of power? Endless longing? Social consequences? Nothing at all?
 
-_______________________________________________________________
+*Physical pain? Shortened lifespan? Loss of power? Endless longing? Social consequences? Nothing at all?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Has anyone in your world rejected a bond? What happened to them?**
-Stories of rejection establish stakes. Do cautionary tales make your characters more afraid, or more determined to resist?
 
-_______________________________________________________________
+*Stories of rejection establish stakes. Do cautionary tales make your characters more afraid, or more determined to resist?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If your characters could walk away from the bond without consequence, would they still choose each other?**
-At what point in the story does this become true?
 
-_______________________________________________________________
+*At what point in the story does this become true?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### When the Bond Reveals Itself
 
