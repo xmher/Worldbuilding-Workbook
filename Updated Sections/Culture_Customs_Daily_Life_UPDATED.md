@@ -321,7 +321,7 @@ As soon as romance enters into a character's routine, the reader will be able to
 
 **What's the rhythm of a typical day?**
 
-**Describe the daily rhythm of life in your world: When do people wake and what happens first? Is there a midday rest or main meal? When does work end? What is nightlife like?**
+*Describe the daily rhythm of life in your world: When do people wake and what happens first? Is there a midday rest or main meal? When does work end? What is nightlife like?*
 
 *(Write your answer below)*
 
