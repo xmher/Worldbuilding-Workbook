@@ -2417,9 +2417,13 @@ Temples, military academies, magical schools, noble fostering arrangements? What
 
 Is labor dignified or demeaning? Is idleness virtuous (noble leisure) or sinful? Do people identify strongly with their professions?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What professions are respected? Looked down upon?**
 
@@ -2434,15 +2438,20 @@ _______________________________________________________________
 
 Family tradition? Personal choice? Assignment? Class restrictions?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
 # PART TWO: CULTURE & ROMANCE
 
 ---
+
 ## Festivals, Holidays & Celebrations
 
 Special occasions have a way of shrinking time, bringing people close to one another, and heightening emotions. They're classic romance settings because the energy is different, rules may relax, and everyone is gathered in the same place.
@@ -2451,9 +2460,7 @@ The environment created by festivals gives characters an excuse to be different 
 
 **What major festivals or celebrations exist in your world?**
 
-Describe 2-3 that matter for your story:
-
-**Describe 1-3 important festivals in your world. For each, when does it happen, what does it celebrate, and what are the key traditions?**
+*Describe 1-3 that matter for your story. For each, when does it happen, what does it celebrate, and what are the key traditions?*
 
 *(Write your answer below)*
 
@@ -2465,31 +2472,40 @@ Describe 2-3 that matter for your story:
 
 **Which festival provides a romantic opportunity for your characters, and why?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What festival tradition do your characters participate in together?**
 
 Describe the scene:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Do festivals allow any relaxation of normal rules?**
 
 Masquerades where identity is hidden? Festivals where class mingles? Nights when normal rules are suspended?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Exile, Banishment & Social Death
 
 Every society uses a most extreme form of punishment to dissuade individuals from violating the norms: total removal from society. Exile, banishment, and social death represent the ultimate consequence of choosing love over community, and the fear of being exiled provides actual weight to each transgression. This is the nuclear option. Every time your characters violate a societal norm, the possibility of exile is what makes even the smallest violations feel dangerous.

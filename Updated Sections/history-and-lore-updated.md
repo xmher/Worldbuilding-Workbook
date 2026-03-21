@@ -1257,52 +1257,71 @@ In *Fourth Wing*, this is made literal: Xaden has 107 scars on his back, one for
 **What historical trauma does your protagonist carry?**
 Not what they personally experienced, but what their family, people, or community carries.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does this trauma manifest?**
 Fear? Hatred of certain groups? Hypervigilance? Stories that haunt? Places they can't go? Trauma shows in behaviour: avoidance, triggers, fierce protectiveness, distrust of certain people.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What historical trauma does your love interest carry?**
 Their trauma may complement, mirror, or directly conflict with your protagonist's inherited wounds.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does it manifest in them?**
 The same historical wound can show up as rage in one character and silence in another. How does the love interest's inherited trauma shape their behaviour, especially toward people from the protagonist's side of history?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If their traumas come from the same event but opposite sides, how do they navigate that?**
 One's ancestors were perpetrators, the other's were victims? Both were victims of different aggressors? This is one of the most complex emotional obstacles in enemies-to-lovers romance.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Can historical wounds be healed, or are they permanent?**
 
 What would healing require? Acknowledgment? Apology? Justice? Time?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
-
-**Did either side in historical conflicts commit atrocities?**
-Atrocities create wounds that don't heal with time. They raise questions of guilt, responsibility, and whether forgiveness is possible.
 
 **Did either side in your world's historical conflicts commit atrocities? What happened, who committed them, and who suffered?**
 
@@ -1314,8 +1333,7 @@ Atrocities create wounds that don't heal with time. They raise questions of guil
 
 &nbsp;
 
-**How is this remembered?**
-Perpetrators and victims remember differently. Understanding both perspectives deepens your enemies-to-lovers tension.
+*Perpetrators and victims remember differently. Understanding both perspectives deepens your enemies-to-lovers tension.*
 
 **How do the perpetrators remember the atrocity? How do the victims remember it?**
 
@@ -1330,16 +1348,24 @@ Perpetrators and victims remember differently. Understanding both perspectives d
 **Is this atrocity acknowledged, denied, justified, or forgotten?**
 How society handles atrocity shapes whether your characters can discuss it openly or must navigate denial and silence.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does one character carry guilt for ancestors' actions? Does the other carry rage for ancestors' suffering?**
 Inherited guilt and rage ("I didn't do this, but my people did" and "you didn't suffer this, but my people did") create one of the most layered emotional obstacles in romantasy.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

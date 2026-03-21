@@ -2086,46 +2086,59 @@ In Shatter Me, Juliette's lethal touch means she can kill anyone who makes skin 
 
 **Is your character's magic dangerous to others? To themselves? To both?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Can this danger be managed with training, or is it inherent to the magic itself?**
-What does "control" look like, and what does losing control look like?
 
-_______________________________________________________________
+*What does "control" look like, and what does losing control look like?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Has your character ever hurt someone with their magic?**
-What happened, and how did it shape their relationship to their power?
 
-_______________________________________________________________
+*What happened, and how did it shape their relationship to their power?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does the fear of causing harm affect how your character lets people close?**
-What protective distance do they maintain, and what would make them risk closing it?
 
-_______________________________________________________________
+*What protective distance do they maintain, and what would make them risk closing it?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would the love interest have to do or say to convince your character that the risk is worth taking?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Forbidden or Hunted Magic
 
@@ -2134,87 +2147,112 @@ Writing about concealed magic is all about the constant low-level dread of hidin
 The romantic turning point isn't the dramatic reveal; it's the moment just before it, when they decide this person is worth the risk of being known. In *Serpent & Dove*, Lou hides her witchcraft from Reid, who is literally a witch hunter. The tension isn't just "will he find out?" It's "what happens to us when he does?"
 
 **Is your character's magic forbidden, illegal, or socially condemned?**
-What are the consequences of being discovered: execution, imprisonment, exile, experimentation?
 
-_______________________________________________________________
+*What are the consequences of being discovered: execution, imprisonment, exile, experimentation?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who knows about their abilities? Who absolutely can't find out?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What does your character have to do to hide their magic?**
-What daily deceptions, limitations, or sacrifices does concealment require?
 
-_______________________________________________________________
+*What daily deceptions, limitations, or sacrifices does concealment require?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would it mean to reveal their magic to the love interest?**
-What's the worst-case outcome they fear? What's the hope they might not admit to?
 
-_______________________________________________________________
+*What's the worst-case outcome they fear? What's the hope they might not admit to?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If the love interest discovered the truth by accident rather than being told, how would that affect trust?**
-The difference between confession and discovery can define whether secrets become intimacy or betrayal.
 
-_______________________________________________________________
+*The difference between confession and discovery can define whether secrets become intimacy or betrayal.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Magic Used Against Will
 
 The darkest magical conflicts involve power used without consent: abilities that can compel, manipulate, or control.
 
 **Can your character's magic be used against their will?**
-By whom and under what circumstances?
 
-_______________________________________________________________
+*By whom and under what circumstances?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can your character's magic affect others without their consent?**
-What are the ethical lines they've drawn, and have they ever crossed them?
 
-_______________________________________________________________
+*What are the ethical lines they've drawn, and have they ever crossed them?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What magical violation exists in your world that your characters fear most — from others, or from themselves?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If one character used magic on the other in a morally grey moment (for protection, for information, in desperation) could the relationship survive it?**
-What would repair require?
 
-_______________________________________________________________
+*What would repair require?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

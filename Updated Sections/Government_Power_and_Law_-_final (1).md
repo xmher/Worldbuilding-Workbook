@@ -2103,35 +2103,47 @@ _______________________________________________________________
 
 **What does the love interest do that surprises the protagonist?**
 
-An act of kindness, mercy, honor, or vulnerability they weren't expecting:
+*An act of kindness, mercy, honor, or vulnerability they weren't expecting:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does the protagonist explain this to themselves initially?**
 
-Rationalize it? Distrust it? Assume ulterior motive?
+*Rationalize it? Distrust it? Assume ulterior motive?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does the protagonist do that surprises the love interest?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does the love interest initially explain this?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -2139,33 +2151,41 @@ _______________________________________________________________
 
 **What does the protagonist learn about why the love interest is the way they are?**
 
-Not excuses — context. The experiences, pressures, or reasoning behind their position.
+*Not excuses — context. The experiences, pressures, or reasoning behind their position.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does this knowledge change the protagonist's view?**
 
-They don't have to agree. But do they understand?
+*They don't have to agree. But do they understand?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does the love interest learn about the protagonist's perspective?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does this change them?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
 _______________________________________________________________
 

@@ -625,32 +625,23 @@ What characters wear, where they live, and how they spend leisure time creates t
 
 ### Clothing & Textiles
 
-**What materials are clothes made from?**
-*Fabric speaks to wealth, region, and practicality. What your protagonist's clothing communicates before they say a word — and how starkly it contrasts with what the love interest wears — tells the reader everything about the gap between their worlds.*
+**What are clothes made from, how are they made, and what do they signal about class and status? How complicated is getting dressed?**
+*Fabric speaks to wealth, region, and practicality before a character says a word. How clothes are produced (hand-sewn, tailored, mass-produced) affects how easily characters can disguise themselves or blend into another class. Clothing that requires assistance is a privacy issue — undressing becomes an act that requires trust. When your characters cross class lines, what they're wearing is the first thing that betrays or protects them.*
 
-**How are clothes made?**
-*How clothes are produced affects how easily your characters can disguise themselves, blend into another class, or replace clothing damaged in action.*
+*(Write your answer below)*
 
-Hand-sewn, tailored, mass-produced:
+&nbsp;
 
-**How complicated is getting dressed?**
-Can people dress themselves, or do they need help? Clothing that requires assistance is a privacy issue, and undressing becomes an act that requires trust.
+&nbsp;
 
-**What does clothing signal about class and status?**
-*Clothing can be a disguise, a mark of belonging, or an insurmountable barrier. When your characters cross class lines, what they're wearing is the first thing that betrays or protects them — and the first thing a love interest notices.*
+&nbsp;
 
 ### Construction & Architecture
 
 Architecture shapes where intimacy is possible. Thick stone walls muffle sound; timber partitions don't. A tower room isolates; an open longhouse exposes. Whether your characters live in a sprawling palace or a single-room dwelling determines what privacy looks like and what "alone together" actually means.
 
-**What are buildings made from, and what does that mean for privacy?**
-Stone castles, timber halls, mud-brick dwellings. Each creates different atmospheres and different levels of sound isolation. Can your characters be heard through the walls?
-
-**How tall can buildings be?**
-Height limits shape cityscapes and the symbolic power of towers. What does it mean when someone lives in the highest room, and who has to climb all those stairs to reach them?
-
-**What construction techniques exist, and what architectural features are common?**
-*Construction methods determine what's physically possible in your world — and what rooms, hiding places, and escape routes your characters have access to.*
+**What construction techniques exist, what are buildings made from, and what does this mean for privacy? How tall can buildings be?**
+*Stone castles, timber halls, mud-brick dwellings — each creates different atmospheres and levels of sound isolation. Can your characters be heard through the walls? Height limits shape cityscapes and the symbolic power of towers. Construction methods determine what rooms, hiding places, and escape routes your characters have access to.*
 
 *(Write your answer below)*
 
@@ -664,19 +655,16 @@ Height limits shape cityscapes and the symbolic power of towers. What does it me
 
 Entertainment creates the settings where characters interact outside of duty, danger, or obligation. Dances, performances, feasts, and games are where romantic tension plays out in public. Characters can touch under the guise of a dance, watch each other across a crowded room, or compete in ways that become charged with something more than sport.
 
-**What entertainment exists?**
-*Entertainment creates the settings where characters interact outside of duty, danger, or obligation. Dances allow sanctioned touch, performances allow shared emotional experience, and competitions channel desire into something publicly acceptable. Which of these create opportunities for your characters to interact in ways their normal lives wouldn't allow?*
+**What entertainment exists in your world, and what does it enable romantically? What technologies are luxuries only the wealthy can afford, and what is completely out of reach for the poor?**
+*Entertainment creates settings where characters interact outside duty, danger, or obligation. Dances allow sanctioned touch; performances allow shared emotional experience; competitions channel desire into something publicly acceptable. Consider the instruments, spaces, and equipment involved. Luxury technologies mark class distinction — what would immediately identify someone as wealthy or as someone pretending to be? What would a poor character simply never encounter in their normal life?*
 
-**What technology enables entertainment?**
-*The instruments, spaces, and equipment that make entertainment possible also shape where characters gather and what they do together. A ballroom requires musicians; a tournament requires a field. What does your world's entertainment infrastructure look like?*
+*(Write your answer below)*
 
-Musical instruments, game equipment, performance spaces:
+&nbsp;
 
-**What technologies are luxuries only the wealthy can afford?**
-*Luxury technologies mark class distinction. What would immediately identify someone as wealthy — or as someone pretending to be? When your characters cross class lines, these are the details that betray or protect them.*
+&nbsp;
 
-**What technologies are available to everyone, and what is completely out of reach for the poor?**
-*Inaccessible technology creates invisible barriers. What would a poor character simply never encounter in their normal life — and how would they react when they first experienced it alongside a love interest who takes it for granted?*
+&nbsp;
 
 ---
 
