@@ -960,13 +960,15 @@ _______________________________________________________________
 
 If precise wording matters in your world, draft the actual words of the promise that binds your character. Then look for the loophole. What could those words mean that the speaker didn't intend?
 
-| | Details |
-|---|---|
-| The exact words of the oath | |
-| Who it was sworn to | |
-| What it was intended to mean | |
-| What it could literally mean (the loophole) | |
-| What it costs to break outright | |
+**If a character has sworn an oath that conflicts with the romance, describe: What are the exact words? Who was it sworn to? What was it intended to mean vs. what could it literally mean (the loophole)? What does it cost to break outright?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -978,23 +980,29 @@ Forbidden love has its excitement in the risk involved. Ensure that your reader 
 
 **What actions, topics, or behaviors are taboo in your culture?**
 
-| Category | Taboo Behaviors |
-|----------|-----------------|
-| Physical (touch, proximity, eye contact, showing skin) | |
-| Verbal (certain words, discussing feelings, speaking across gender/class) | |
-| Social (cross-class interaction, public displays, being alone together) | |
-| Magical (certain powers, displaying abilities, magical contact between people) | |
-| Sexual (anything related to intimacy before or outside marriage) | |
+**What behaviors are taboo in your world? Consider physical taboos (touch, proximity, eye contact), verbal taboos, social taboos, magical taboos, and sexual taboos.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Which taboos directly affect your romance?**
 
 Pick 2-3 that create real obstacles:
 
-| Taboo | How It Affects the Romance |
-|-------|---------------------------|
-| | |
-| | |
-| | |
+**Pick your most important taboos and describe how each specifically affects the romance.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens when someone breaks a taboo?**
 
@@ -1128,10 +1136,15 @@ _______________________________________________________________
 
 What's the kind of scandal that follows someone forever? Is it the same for all classes and genders?
 
-| Position | What Destroys Their Reputation |
-|----------|-------------------------------|
-| Someone of the protagonist's position | |
-| Someone of the love interest's position | |
+**What would destroy the reputation of someone in the protagonist's position? What about the love interest's position?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can a ruined reputation be recovered? How?**
 
@@ -1165,10 +1178,15 @@ _______________________________________________________________
 
 The rumor that would destroy them — true or not:
 
-| Character | Worst Possible Rumor |
-|-----------|---------------------|
-| Protagonist | |
-| Love Interest | |
+**What is the worst possible rumor that could circulate about your protagonist? About your love interest?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do your characters protect their reputations while pursuing each other?**
 
@@ -1203,11 +1221,15 @@ _______________________________________________________________
 
 List the spaces where privacy is possible — and what risks each location carries:
 
-| Location | Risk of Discovery |
-|----------|-------------------|
-| | |
-| | |
-| | |
+**Where do your characters meet in secret, and what is the risk of discovery at each location?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where are they always watched?**
 
@@ -1358,12 +1380,15 @@ Transitions in wardrobe also serve well as indicators of how intimate the relati
 
 **What does clothing communicate in your culture?**
 
-| Marker Type | What Clothing Communicates |
-|-------------|---------------------------|
-| Class markers | |
-| Profession markers | |
-| Marital/availability markers | |
-| Religious markers | |
+**What does clothing communicate in your world? Describe what markers indicate class, profession, marital status, and religion.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are there sumptuary laws — rules about who can wear what?**
 

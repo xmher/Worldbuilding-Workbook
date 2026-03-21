@@ -746,10 +746,15 @@ _______________________________________________________________
 **Where do your characters fall?**
 The larger the gap, the greater the romantic tension. What does each person assume as normal that the other has never experienced?
 
-| Character | Class Position | Example (*Serpent & Dove*) |
-|-----------|---------------|-------------------------|
-| Protagonist | | Witch (criminal class), beneath even peasants in the eyes of law, hunted and killed on sight |
-| Love Interest | | Chasseur Captain, military-religious elite, second only to the Archbishop, respected and feared |
+**What is each character's class position in the social/political hierarchy?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How many ranks separate them?**
 Same social class? One or two classes apart (scandalous but possible to bridge)? An extreme class gap (servant/royal)?
@@ -950,12 +955,15 @@ _______________________________________________________________
 
 **Who benefits from their union? Who's threatened by it?**
 
-| Group | Benefit or Threat |
-|-------|-------------------|
-| Who wants them together | |
-| Why | |
-| Who wants them apart | |
-| Why | |
+**Who wants your characters together, and why? Who wants them apart, and why?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens if they refuse the political obligation?**
 
@@ -995,12 +1003,15 @@ All fake relationships begin with parameters: how much physical interaction can 
 
 *All fake relationships start with boundaries. The romantic tension comes from violating them.*
 
-| Rule | Details | Example (*The Bridge Kingdom*) |
-|------|---------|-------------------------------|
-| What relationship are they performing? (love, unity, hostility, indifference) | | *Devoted wife — Lara performs loyalty while secretly planning assassination* |
-| Physical boundaries (what contact is and isn't allowed) | | |
-| When does the performance end? | | |
-| Is one secretly working against the other? | | |
+**If your characters must perform a public relationship (love, unity, hostility, indifference): What are the physical boundaries? When does the performance end? Is one secretly working against the other?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's the first boundary violation?**
 
@@ -1038,19 +1049,27 @@ The moment of choosing love over loyalty is one of the most powerful beats in en
 
 **What major factions exist?**
 
-| Faction | What They Want | Who Leads Them | Their Power Base |
-|---------|---------------|----------------|------------------|
-| *Court of Nightmares (ACOTAR)* | *Power over the Night Court, return to old cruelties* | *Keir* | *Ancient nobility, military strength, fear* |
-| | | | |
-| | | | |
-| | | | |
+**Describe the key political factions in your world. For each, what do they want, who leads them, and what is their power base?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where do your characters fall?**
 
-| Character | Faction |
-|-----------|---------|
-| Protagonist | |
-| Love Interest | |
+**Which political faction does each character belong to or align with?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are they on the same side, opposite sides, or unaligned?**
 
@@ -1071,11 +1090,15 @@ _______________________________________________________________
 **Who has political reason to keep your characters apart?**
 Name specific antagonists. What do they stand to lose if your characters unite?
 
-| Enemy | Position | What They Want | Why They Oppose | What They'll Do |
-|-------|----------|---------------|-----------------|-----------------|
-| *Amarantha (ACOTAR)* | *Self-appointed ruler Under the Mountain* | *Dominion over all Courts* | *Feyre and Rhysand's bond threatens her control* | *Torture, manipulation, death trials* |
-| | | | | |
-| | | | | |
+**Describe your story's political enemy/antagonist: Who are they? What position do they hold? What do they want? Why do they oppose the characters? What will they do?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

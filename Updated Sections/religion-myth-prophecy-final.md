@@ -181,41 +181,49 @@ Identify the gods or spiritual forces that exist in your world. Focus on those r
 
 #### Deity/Power 1:
 
-| Aspect | Details | Example (*Priory of the Orange Tree*) |
-|--------|---------|---------------------------------------|
-| Name | | The Mother, creator goddess, source of all life and magic |
-| Domain (what they govern) | | Creation, protection, the cycle of life and death |
-| Personality/nature | | Distant but loving; works through her chosen, not direct intervention |
-| What they demand from followers | | Service to the greater good, celibacy for her priestesses, protection of the innocent |
-| What they offer in return | | Magic (for those who can channel it), community, purpose, afterlife |
+**Describe your world's primary deity: What is their name? What do they govern? What is their personality/nature? What do they demand from followers? What do they offer in return?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Deity/Power 2:
 
-| Aspect | Details | Example |
-|--------|---------|---------|
-| Name | | The Nameless One, the great wyrm, enemy of all life |
-| Domain | | Fire, destruction, chaos, the end of things |
-| Personality/nature | | Consuming hunger, patient malevolence, sleeps but will wake |
-| What they demand | | Everything; he doesn't bargain, only devours |
-| What they offer | | Nothing but the end of suffering (through annihilation) |
+**If your world has an opposing force or antagonist deity: What is their name? What do they govern? What is their nature? What do they demand? What do they offer?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Deity/Power 3 (if applicable):
 
-| Aspect | Details | Example (original, not from a published book) |
-|--------|---------|-----------------------------------------------|
-| Name | | Seluris, the Silver Lady, goddess of twilight, secrets, and forbidden love |
-| Domain | | The liminal spaces: dusk and dawn, doorways and crossroads, love that defies boundaries |
-| Personality/nature | | Mysterious, neither cruel nor kind; favours those who risk everything for what they desire |
-| What they demand | | A secret kept, a vow made in moonlight; she doesn't ask for worship, only authenticity |
-| What they offer | | Safe passage through dangerous transitions; blessings on unions the world condemns |
+**Is there a deity specifically relevant to your romance — a god of love, forbidden things, or liminal spaces? Describe their name, domain, personality, demands, and offerings.**
 
-| Aspect | Details |
-|--------|---------|
-| Name | |
-| Domain | |
-| Personality/nature | |
-| What they demand | |
-| What they offer | |
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**Describe any additional deity important to your story: Name, domain, personality, demands, and offerings.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do the gods relate to each other?**
 Divine politics often mirrors mortal politics. Are they a harmonious pantheon? Competing rivals? Locked in cosmic war? Indifferent to each other? Gods in conflict can take different sides of your romance.
@@ -269,12 +277,15 @@ _______________________________________________________________
 
 **Quick Reference: Magic & Religion**
 
-| Aspect | Details |
-|--------|---------|
-| How religion explains magic in your world | |
-| Whether your character's magic is divine, heretical, or something else | |
-| What happens to their magic if they defy religious law | |
-| How magic raises the romantic stakes beyond the social | |
+**How does religion relate to magic in your world? How does religion explain magic? Is your character's magic divine, heretical, or something else? What happens to their magic if they defy religious law? How does magic raise the romantic stakes?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -287,10 +298,15 @@ Religious authorities can be allies, enemies, or complex figures caught between 
 **What religious institutions exist?**
 Focus on institutions that could affect your romance: those that might forbid, bless, or complicate your characters' relationship.
 
-| Institution | Function | Power They Hold | Example (*Serpent & Dove*) |
-|-------------|----------|----------------|---------------------------|
-| | | | The Church: controls spiritual truth, legitimises monarchy, commands the Chasseurs |
-| | | | The Covens: hidden networks of witches, preserving forbidden knowledge |
+**What are the key religious institutions in your world? For each, describe their function, the power they hold, and how they interact with other power structures.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who leads religious institutions?**
 These leaders may become allies or antagonists. Think about who holds power to help or harm your characters' relationship.

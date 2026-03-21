@@ -1243,11 +1243,15 @@ In *Bridgerton*, the tension between love and advantageous marriage runs through
 **What economic security does each character sacrifice to be together?**
 What inheritance, income, protection, or opportunity do they lose by choosing each other? The sacrifice should cost enough to prove the love is real.
 
-| Character | What They Sacrifice |
-|---|---|
-| *Protagonist* | *Her position at the academy — expelled for the relationship, losing her only path out of poverty* |
-| Protagonist | |
-| Love Interest | |
+**What does each character sacrifice economically to be together?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is the sacrifice permanent or temporary?**
 
@@ -1310,24 +1314,28 @@ A counterexample is Nesta, whose excessive spending on wine and gambling are see
 **What does daily life look like after the sacrifice?**
 Don't skip this. The most powerful romantic endings show the cost in concrete, daily terms. Map what changes for each character.
 
-| After the Choice | Protagonist | Love Interest |
-|---|---|---|
-| Where do they live? | | |
-| What do they eat? (Every day, not at feasts) | | |
-| Who do they still have access to? (Friends, family, allies) | | |
-| Who has shut them out? | | |
-| What do they miss most from their former life? | | |
-| What surprised them about their new reality? | | |
+**After your characters choose each other over economic security: Where do they live? What do they eat every day? Who do they still have access to? Who has shut them out? What do they miss most? What surprised them about their new reality?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do they handle money differently?**
 Partners from different backgrounds will clash over spending. This isn't a flaw to fix. It's a source of ongoing, realistic tension that makes the relationship feel lived-in.
 
-| Money Question | Character Who Grew Up With Less | Character Who Grew Up With More |
-|---|---|---|
-| What do they spend freely on? | | |
-| What do they refuse to spend on? | | |
-| What purchase would start an argument? | | |
-| How do they feel about accepting help from others? | | |
+**How do your characters' different financial backgrounds show up in daily life? For the one who grew up with less and the one with more: What do they spend freely on? What do they refuse to spend on? What purchase would start an argument? How do they feel about accepting help?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What moment makes the sacrifice feel worth it?**
 
@@ -1383,11 +1391,15 @@ _______________________________________________________________
 
 *Desperation doesn't just create backstory — it creates present-tense romantic tension. A character who can't eat tomorrow makes different choices about love than one who's comfortable. Map how survival needs warp the romantic dynamic.*
 
-| Survival Pressure | How It Affects the Romance | Scene Where This Is Felt |
-|---|---|---|
-| *Can't afford medicine → accepts help from love interest* | *Gratitude that feels dangerously close to obligation; she resents needing him* | *He pays the healer without asking; she finds out and they fight — not about money, but about what accepting means* |
-| | | |
-| | | |
+**How does survival-level economic pressure affect the romance? Describe a specific pressure, how it affects the relationship, and a scene where this is felt.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

@@ -748,14 +748,15 @@ And don't announce the connection. "The rain matched her sadness" kills the effe
 
 *The best environmental mirroring feels inevitable, not forced. Pick your story's most emotionally intense moment and consider what the natural world could be doing around your characters — not to explain the emotion, but to make the reader feel it in their body.*
 
-| Aspect | Details |
-|--------|---------|
-| *The emotional moment* | *Feyre learns the truth about Tamlin's bargain — hope dying in a single instant* |
-| *What the environment is doing* | *The Spring Court, which had been blooming as she healed, goes still. Petals stop falling mid-air.* |
-| *Why this works (what it makes the reader feel)* | *The reader sees the relationship's death made visible in the landscape before either character says a word* |
-| The emotional moment | |
-| What the environment is doing | |
-| Why this works (what it makes the reader feel) | |
+**Describe a key emotional moment in your story. What is the environment doing at that moment, and why does the combination work (what does it make the reader feel)?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -763,34 +764,43 @@ And don't announce the connection. "The rain matched her sadness" kills the effe
 
 *Symbols add layers to scenes without a word of dialogue. A raven landing on the windowsill the morning of the duel. A white stag appearing the night before a proposal. What creature might appear at a significant romantic moment, and what would it mean?*
 
-| Association | Creature | How You Could Use It in a Scene |
-|-------------|----------|--------------------------------|
-| *Death* | *Ravens* | *A raven lands on the windowsill the morning of the duel. Neither character mentions it. The reader feels the chill.* |
-| Love | | |
-| Death | | |
-| Royalty/power | | |
-| Luck (good or bad) | | |
+**What creatures carry symbolic meaning in your world (love, death, power, luck)? How could you use one in a scene to create subtext?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *What plants have symbolic meaning?*
 
 *Symbols add layers to scenes without a word of dialogue. A flower given as a gift, a tree that blooms out of season, a herb burnt at a funeral. What plants carry meaning in your world, and how might you use them in a scene?*
 
-| Plant | What It Symbolises | How You Could Use It in a Scene |
-|-------|-------------------|--------------------------------|
-| *Nightbloom (a flower that opens only in darkness)* | *Love that thrives in secret, hidden desire* | *He leaves one on her pillow the night before she's betrothed to someone else. She presses it in a book. Neither of them mentions it.* |
-| | | |
-| | | |
+**Is there a plant in your world with symbolic meaning? What does it represent, and how could you use it in a scene?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
 ## Integration Check
 
-| Question | Your Answer |
-|----------|-------------|
-| How do plants and animals enable or restrict magic? *(Reference: Section 8)* | |
-| Does control of creatures or natural resources create political or economic power? *(Reference: Sections 4-5)* | |
-| How have creatures or environmental factors shaped history? *(Reference: Section 7)* | |
-| Do weather patterns or seasonal cycles create festivals, deadlines, or forced proximity that affects the romance? *(Reference: Section 6)* | |
+**How do plants and animals connect to other aspects of your world? Consider: How do they enable or restrict magic? Does control of creatures or resources create political power? How have creatures shaped history? Do seasonal cycles create festivals or forced proximity?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -882,13 +892,15 @@ The best inter-species romances let the human partner discover these differences
 
 *Consider: strength, speed, senses, temperature, diet, sleep patterns, healing, aging, reproduction. These should feel visceral and constant — not mentioned once and then forgotten.*
 
-| Aspect | Protagonist | Love Interest | How This Difference Affects the Relationship |
-|--------|-------------|---------------|-----------------------------------------------|
-| *Body temperature* | *Warm — 37°C* | *Fae-cold — barely above room temperature* | *Every time they touch, she flinches. He starts warming his hands before reaching for her.* |
-| Physical abilities | | | |
-| Senses | | | |
-| Diet / sleep | | | |
-| Aging / healing | | | |
+**What physical differences exist between your protagonist and love interest (body temperature, physical abilities, senses, diet/sleep, aging/healing)? For the most significant differences, how do they affect the relationship?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *Are there biological incompatibilities?*
 

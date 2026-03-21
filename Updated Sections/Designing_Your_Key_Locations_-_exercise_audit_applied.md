@@ -806,14 +806,6 @@ _______________________________________________________________
 
 ## Quick Reference: Your Key Locations
 
-| Location | Moment That Happens There | What It Forces/Enables |
-| --- | --- | --- |
-| **Location 1:** | | |
-| **Location 2:** | | |
-| **Location 3:** | | |
-| **Location 4:** | | |
-| **Location 5:** | | |
-
 **Name your recurring location (the place that becomes 'theirs'), any location that becomes lost or inaccessible, and the location where the romantic climax happens.**
 
 *(Write your answer below)*
