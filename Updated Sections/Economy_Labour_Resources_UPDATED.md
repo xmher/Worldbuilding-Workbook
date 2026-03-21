@@ -36,12 +36,15 @@ What's the single biggest entry on your characters' Invisible Ledger: the one de
 
 **What's on your characters' Invisible Ledger?**
 
-| What's Been Given or Received | Who Gave | Who Owes | How It Feels |
-|---|---|---|---|
-| *Healed her arm Under the Mountain — saved her life* | *Rhysand* | *Feyre* | *She's grateful but uneasy; she can't repay a life, and every gift after this one adds to a debt she didn't choose* |
-| | | | |
-| | | | |
-| | | | |
+**Map the emotional debt between your characters. What has been given or received, who gave, who owes, and how does the debt feel?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **When does the ledger stop mattering?**
 What moment, scene, or choice makes one or both characters decide they're done keeping score? This is your romantic turning point. Make it earn its weight.
@@ -83,11 +86,15 @@ When money or resources pass between lovers:
 
 *Imbalance, pressure, and transaction often overlap, but one usually dominates. Naming it helps you write it with intention rather than accidentally.*
 
-| Mechanism | How It Shows Up in Your Story | Which Scenes Does It Drive? |
-|---|---|---|
-| Economic Imbalance (one has more) | | |
-| Economic Pressure (necessity forces choices) | | |
-| Economic Transaction (resources pass between them) | | |
+**Which economic mechanisms drive your romance — imbalance (one has more), pressure (necessity forces choices), or transaction (resources pass between them)? How does each show up, and which scenes does it drive?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Common Patterns: Economics in Romantasy
 
@@ -505,11 +512,15 @@ _______________________________________________________________
 
 **What resources are scarce or valuable?**
 
-| Resource | Why It's Valuable | Who Controls It |
-|----------|-------------------|-----------------|
-| *Starlight ore (magical metal)* | *Only material that holds enchantments; weapons and wards require it* | *The Fae courts control the only known mines — humans must trade or steal* |
-| | | |
-| | | |
+**What is the most valuable resource in your world? Why is it valuable, and who controls it?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do your world's primary resources shape the romantic landscape?**
 Resources don't just create cultures. They create the conditions for love stories. Scarcity forces desperate choices. Abundance creates power to hoard or share. Control of a resource is control of people's lives.
@@ -578,13 +589,15 @@ _______________________________________________________________
 
 List occupations that appear or matter in your story:
 
-| Occupation | What They Do | Social Status | Who Does This Work |
-|------------|--------------|---------------|-------------------|
-| *Healer/herbalist* | *Treats illness and injury using herbs, poultices, and minor magic* | *Respected but feared — people need them but don't trust them* | *Usually women; often solitary or marginalised* |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+**Describe 2-3 key occupations in your world. For each, what do they do, what is their social status, and who typically does this work?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What dangerous or unpleasant work exists?**
 
@@ -625,22 +638,28 @@ _______________________________________________________________
 **What does your protagonist do to survive?**
 Work shapes who we become. What skills, knowledge, and worldview has their occupation given them?
 
-| Aspect | Details |
-|---|---|
-| Occupation | |
-| Skills learned through work | |
-| How the work shows on their body (calluses, scars, ink-stained fingers) | |
-| What they notice that others don't (because of their training) | |
+**Describe your protagonist's occupation: What do they do? What skills have they learned through work? How does the work show on their body? What do they notice that others don't because of their training?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does your love interest do to survive?**
 How does their work connect to or conflict with your protagonist's world? Do their occupations create proximity or distance?
 
-| Aspect | Details |
-|---|---|
-| Occupation | |
-| Skills learned through work | |
-| How the work shows on their body (calluses, scars, ink-stained fingers) | |
-| What they notice that others don't (because of their training) | |
+**Describe your love interest's occupation: What do they do? What skills have they learned through work? How does the work show on their body? What do they notice that others don't because of their training?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -649,24 +668,28 @@ How does their work connect to or conflict with your protagonist's world? Do the
 **Where does your protagonist fall economically?**
 Their economic position shapes what they worry about, what they dream of, and what they would sacrifice for security or freedom.
 
-| Aspect | Details |
-|---|---|
-| *Economic status (wealthy, comfortable, struggling, poor)* | *Struggling — earns enough to eat but one bad month from disaster* |
-| Economic status (wealthy, comfortable, struggling, poor) | |
-| Source of income/survival | |
-| Economic security (stable, precarious, desperate) | |
-| Economic autonomy (independent, dependent, controlled) | |
+**Describe your protagonist's economic position: What is their economic status, source of income, economic security, and economic autonomy?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where does your love interest fall economically?**
 How does their economic reality differ from your protagonist's? What assumptions do they make about money that might clash or align?
 
-| Aspect | Details |
-|---|---|
-| *Economic status* | *Wealthy — heir to an estate, never worried about money a day in his life* |
-| Economic status | |
-| Source of income/survival | |
-| Economic security | |
-| Economic autonomy | |
+**Describe your love interest's economic position: What is their economic status, source of income, economic security, and economic autonomy?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If there's a gap, how significant is it?**
 
@@ -714,11 +737,15 @@ _______________________________________________________________
 **How do they each feel about the gap?**
 Shame? Guilt? Obliviousness? Resentment? These feelings may never be spoken aloud, but they shape every interaction.
 
-| Character | How They Feel About the Gap | How They Show It (or Hide It) |
-|---|---|---|
-| *Wealthier character* | *Guilty — knows the gap is unfair but doesn't know how to close it without being patronising* | *Offers help indirectly; pretends things cost less than they do* |
-| Wealthier character | | |
-| Less wealthy character | | |
+**How does each character feel about the wealth gap between them, and how do they show it (or hide it)?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -805,14 +832,15 @@ Jude has taken the complete opposite approach. She refuses to view marriage as a
 **What is marriage worth in your world?**
 How is marriage negotiated? What does each party bring to the arrangement, and what do they stand to lose?
 
-| Aspect | Details |
-|---|---|
-| Who negotiates the marriage? (families, rulers, the couple themselves) | |
-| What does the bride's side provide? (dowry, land, political alliance, magical ability) | |
-| What does the groom's side provide? (bride price, protection, title, territory) | |
-| What happens financially if the marriage dissolves? | |
-| Is consummation required to make the contract binding? | |
-| Can the contract be broken, and what is the cost? | |
+**Describe the economics of marriage in your world: Who negotiates? What does each side provide (dowry, bride price, alliance)? What happens financially if the marriage dissolves? Is consummation required? Can the contract be broken, and at what cost?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is your protagonist's marriage being negotiated for economic reasons?**
 If so, the romance is fighting against a contract. That contract needs teeth: real consequences for breaking it. Lost land, broken alliances, financial ruin for a family, magical backlash, a soul forfeit. The stronger the contract's grip, the higher the stakes for choosing love instead.
@@ -828,14 +856,15 @@ Does she submit to it, subvert it, or use it as a tool for her own goals? The an
 
 **If your world uses magical contracts or bonds, define the terms:**
 
-| Contract Element | Details |
-|---|---|
-| What kind of bond or contract binds them? (bargain, mating bond, oath, soul contract, political alliance) | |
-| Who initiated it, and why? | |
-| What are the exact terms? | |
-| What happens if someone breaks it? (magical backlash, death, loss of power, political fallout) | |
-| Is consummation required? What changes if they consummate? | |
-| Can the bond be felt physically or mentally? How? | |
+**If your characters are bound by a contract, bargain, or magical bond: What kind of bond is it? Who initiated it and why? What are the exact terms? What happens if someone breaks it? Is consummation required? Can the bond be felt physically or mentally?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does the contract force them to do that they wouldn't choose freely?**
 Forced proximity only creates tension if it's genuinely forced. What specific obligation does the contract impose: living together, appearing in public as a couple, physical contact, sharing information?
@@ -843,20 +872,29 @@ Forced proximity only creates tension if it's genuinely forced. What specific ob
 **At what moment does the contract stop being the reason they stay?**
 This is the romantic turning point. The obligation hasn't changed, but the motivation has. When does "I have to be here" become "I want to be here"? How does each character recognise that shift, in themselves or in the other?
 
-| Character | When Does the Contract Stop Being the Reason? | How Do They Realise It? |
-|---|---|---|
-| Protagonist | | |
-| Love Interest | | |
+**For each character: When does the contract or arrangement stop being the reason they stay, and how do they realise it?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Inheritance & Economic Marriage
 
 **What does each character stand to inherit?**
 
-| Character | Inheritance |
-|-----------|-------------|
-| *Protagonist* | *Nothing — youngest daughter of a disgraced family, written out of the will* |
-| Protagonist | |
-| Love Interest | |
+**What does each character stand to inherit — or what have they been denied?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does marrying the "right" or "wrong" person affect inheritance?**
 
@@ -899,14 +937,15 @@ In *Kingdom of the Wicked*, the debt is even more extreme. Emilia accidentally s
 **Is either character in debt?**
 Debt creates obligation, and obligation clouds consent. Does debt to the love interest (or a third party) complicate the romance?
 
-| Aspect | Details |
-|---|---|
-| *To whom* | *The merchant guild — her mother borrowed to open a shop and died before repaying* |
-| To whom | |
-| For what (money, life saved, magical service) | |
-| What happens if they can't repay | |
-| Is the debt magically enforced? How? | |
-| How does the debt affect their ability to say no, or yes, to the romance? | |
+**If a character carries a debt: To whom is it owed? For what? What happens if they can't repay? Is it magically enforced? How does the debt affect their ability to say yes or no to the romance?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does this debt affect the romance?**
 
@@ -945,12 +984,15 @@ _______________________________________________________________
 
 Marriage for money? Employment? Alliance for mutual benefit?
 
-| Aspect | Details |
-|--------|---------|
-| *The arrangement* | *Marriage of convenience — she needs his title, he needs her family's trade connections* |
-| The arrangement | |
-| Why it's necessary | |
-| What each party gets | |
+**If your characters have an economic arrangement (marriage of convenience, etc.), describe: What is the arrangement? Why is it necessary? What does each party get?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do they navigate the economic coercion?**
 
@@ -976,10 +1018,15 @@ _______________________________________________________________
 
 **If offered money to abandon the relationship, what would each character do?**
 
-| Character | Response |
-|-----------|----------|
-| Protagonist | |
-| Love Interest | |
+**How does each character respond to the economic arrangement — what do they feel about it?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -991,13 +1038,15 @@ Work allows for proximity, and proximity leads to potential romance, yet work al
 
 **Does one character employ the other?**
 
-| Aspect | Details |
-|---|---|
-| Who employs whom? | |
-| What is the nature of the employment? (hired, bonded, indentured, appointed) | |
-| Can the employee leave freely? | |
-| What would the employee lose by refusing the employer's advances? | |
-| What would the employee lose by accepting? | |
+**If one character employs the other: Who employs whom? What is the nature of the employment? Can the employee leave freely? What would they lose by refusing advances? What would they lose by accepting?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 The issue of consent will always come to the fore in employer/employee romance. The reader will need to perceive that the less powerful party is making their own decisions, and there is no better method to demonstrate that than to provide them with a genuine opportunity to say no without consequence. If the employee can walk away and chooses to stay, the romance is earned. If they can't walk away, you're writing a different, darker story, which can work, but the power imbalance needs to be acknowledged, not glossed over. Show the employee pushing back, setting boundaries, asserting agency within the power structure. Show the employer recognising the imbalance and actively trying to level it. When the employer states "you don't have to" and truly means it? That's when the romance can begin.
 
@@ -1063,10 +1112,15 @@ And what would it cost them to stay? Map both sides. The answer reveals whether 
 
 **Before the relationship, how economically independent is each character?**
 
-| Character | Economic Independence |
-|-----------|----------------------|
-| Protagonist | |
-| Love Interest | |
+**How economically independent is each character? Could they survive on their own?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does the relationship change their economic situation?**
 
@@ -1158,10 +1212,15 @@ _______________________________________________________________
 
 How would each character answer the question "Is this love or is this a good deal?"
 
-| Character | What They Tell Themselves | What They're Afraid Might Be True |
-|---|---|---|
-| | | |
-| | | |
+**What does each character tell themselves about the economic dimension of the relationship, and what are they afraid might actually be true?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would they sacrifice — the relationship or the ambition — if forced to choose?**
 
@@ -1184,11 +1243,15 @@ In *Bridgerton*, the tension between love and advantageous marriage runs through
 **What economic security does each character sacrifice to be together?**
 What inheritance, income, protection, or opportunity do they lose by choosing each other? The sacrifice should cost enough to prove the love is real.
 
-| Character | What They Sacrifice |
-|---|---|
-| *Protagonist* | *Her position at the academy — expelled for the relationship, losing her only path out of poverty* |
-| Protagonist | |
-| Love Interest | |
+**What does each character sacrifice economically to be together?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is the sacrifice permanent or temporary?**
 
@@ -1251,24 +1314,28 @@ A counterexample is Nesta, whose excessive spending on wine and gambling are see
 **What does daily life look like after the sacrifice?**
 Don't skip this. The most powerful romantic endings show the cost in concrete, daily terms. Map what changes for each character.
 
-| After the Choice | Protagonist | Love Interest |
-|---|---|---|
-| Where do they live? | | |
-| What do they eat? (Every day, not at feasts) | | |
-| Who do they still have access to? (Friends, family, allies) | | |
-| Who has shut them out? | | |
-| What do they miss most from their former life? | | |
-| What surprised them about their new reality? | | |
+**After your characters choose each other over economic security: Where do they live? What do they eat every day? Who do they still have access to? Who has shut them out? What do they miss most? What surprised them about their new reality?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do they handle money differently?**
 Partners from different backgrounds will clash over spending. This isn't a flaw to fix. It's a source of ongoing, realistic tension that makes the relationship feel lived-in.
 
-| Money Question | Character Who Grew Up With Less | Character Who Grew Up With More |
-|---|---|---|
-| What do they spend freely on? | | |
-| What do they refuse to spend on? | | |
-| What purchase would start an argument? | | |
-| How do they feel about accepting help from others? | | |
+**How do your characters' different financial backgrounds show up in daily life? For the one who grew up with less and the one with more: What do they spend freely on? What do they refuse to spend on? What purchase would start an argument? How do they feel about accepting help?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What moment makes the sacrifice feel worth it?**
 
@@ -1324,11 +1391,15 @@ _______________________________________________________________
 
 *Desperation doesn't just create backstory — it creates present-tense romantic tension. A character who can't eat tomorrow makes different choices about love than one who's comfortable. Map how survival needs warp the romantic dynamic.*
 
-| Survival Pressure | How It Affects the Romance | Scene Where This Is Felt |
-|---|---|---|
-| *Can't afford medicine → accepts help from love interest* | *Gratitude that feels dangerously close to obligation; she resents needing him* | *He pays the healer without asking; she finds out and they fight — not about money, but about what accepting means* |
-| | | |
-| | | |
+**How does survival-level economic pressure affect the romance? Describe a specific pressure, how it affects the relationship, and a scene where this is felt.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1374,21 +1445,27 @@ In *Hunt on Dark Waters*, the pirate crew operates under a vow system that repla
 
 *"Morally grey" isn't a personality trait — it's a decision in a specific moment. The best criminal romances put the character at a fork where both paths cost something real. What's the fork for your character, and what does their choice reveal about what they value more than profit?*
 
-| Character | The Moral Fork (two options, both costly) | What They Choose | What It Costs | What It Reveals to Their Partner |
-|---|---|---|---|---|
-| *Kaz Brekker* | *Use Inej as bait to complete the heist vs. protect her and risk the job* | *Protects her — abandons the optimal plan* | *Weakened negotiating position; crew sees his vulnerability* | *Inej learns she matters more than the job — but also that he made a tactical calculation about it first* |
-| | | | | |
-| | | | | |
+**Describe a moral fork your character faces — two options, both costly. What do they choose, what does it cost, and what does it reveal to their partner?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does either character operate outside the law?**
 
-| Aspect | Details |
-|---|---|
-| What illegal activity are they involved in? | |
-| What organisation do they belong to? (gang, guild, crew, solo) | |
-| What code or rules govern their criminal world? | |
-| What would their lover lose by being associated with them? | |
-| What moral line would they refuse to cross, even for profit? | |
+**If a character is involved in criminal activity: What illegal activity? What organisation? What code governs their criminal world? What would their lover lose by association? What moral line would they refuse to cross?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What is the chokepoint in your criminal world?**
 Every convincing underground economy has a bottleneck: a port, a tunnel, a border crossing, an auction house, a guild hall. It's where power concentrates and where your characters are most vulnerable. What is it, and who controls it?
@@ -1396,11 +1473,15 @@ Every convincing underground economy has a bottleneck: a port, a tunnel, a borde
 **How does secrecy shape the romance?**
 If one character operates outside the law, they're keeping secrets. Map the disclosure arc: what do they withhold, what do they reveal, and when does revealing a secret become the romantic turning point?
 
-| Stage | What They're Hiding | What They Reveal | What It Costs Them to Reveal It |
-|---|---|---|---|
-| Early (walls up) | | | |
-| Middle (cracks forming) | | | |
-| Turning point (full vulnerability) | | | |
+**Describe how the criminal character's walls come down across three stages (early, middle, turning point): What are they hiding, what do they reveal, and what does each revelation cost them?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does the non-criminal partner discover, and how do they react?**
 If your love interest isn't part of the criminal world, the moment they find out is a make-or-break scene. What specifically do they learn? Are they horrified, fascinated, or both? Does it change what they thought they knew about the person they love?
@@ -1408,12 +1489,15 @@ If your love interest isn't part of the criminal world, the moment they find out
 **What would going legitimate cost them?**
 Some criminal romances end with the characters leaving the life. But leaving has a price: lost allies, lost income, lost identity. If your characters went straight, what would they lose?
 
-| What They'd Lose by Going Legitimate | What They'd Gain |
-|---|---|
-| *Kaz: his network, his reputation, his leverage over half the Barrel, his identity as Dirtyhands* | *The possibility of touching Inej without armour — emotional and literal* |
-| | |
-| | |
-| | |
+**If your criminal character went legitimate, what would they lose and what would they gain?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

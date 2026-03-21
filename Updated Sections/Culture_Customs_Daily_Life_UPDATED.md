@@ -30,12 +30,15 @@ What cultural assumption does your character accept without question at the star
 
 *The invisible cage only becomes visible when your character wants something on the other side of the bars. This is the moment when culture stops being background and becomes the central obstacle of your romance.*
 
-| | Protagonist | Love Interest |
-|---|---|---|
-| What cultural rule do they accept without question at the start? | | |
-| What moment or person makes the cage visible? | | |
-| What do they lose by seeing it? (Certainty, community, identity?) | | |
-| What do they gain? | | |
+**For both your protagonist and love interest: What cultural rule do they accept without question at the start? What moment makes the cage visible? What do they lose by seeing it, and what do they gain?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -92,11 +95,15 @@ Some of the most interesting romantic tension comes from pairing characters who 
 
 *Pick 2-3 patterns from the reference table above that fit your romance. For each, note how it shows up in your story.*
 
-| Pattern | How It Works in Your World |
-|---|---|
-| *e.g., The forbidden touch — Fae cannot touch humans without burning them, so every accidental contact carries the weight of physical danger and forbidden desire* | |
-| | |
-| | |
+**Which cultural restriction patterns from the reference list apply to your world? For each, describe how it specifically works in your story.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -206,10 +213,15 @@ _______________________________________________________________
 
 **How does one character embody the cultural ideal while the other challenges it?**
 
-| Character | Relationship to Cultural Values |
-|-----------|--------------------------------|
-| Protagonist | |
-| Love Interest | |
+**How does each character (protagonist and love interest) relate to their culture's dominant values? Where do they conform, and where do they chafe?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What cultural value must one or both characters sacrifice to be together?**
 
@@ -234,17 +246,27 @@ Don't overlook the costs associated with conformity, either. There may be mental
 
 Focus on what affects your story:
 
-| Aspect | Expectations |
-|--------|--------------|
-| Expected roles and behaviors | |
-| Prohibited roles and behaviors | |
+**What roles and behaviors does your culture expect based on gender? What is prohibited?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do these expectations affect your characters?**
 
-| Character | How Gender Expectations Affect Them |
-|-----------|-------------------------------------|
-| Protagonist | |
-| Love Interest | |
+**How do gender expectations specifically affect your protagonist and love interest?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does either character violate gender expectations?**
 
@@ -283,12 +305,15 @@ As soon as romance enters into a character's routine, the reader will be able to
 
 **What's the rhythm of a typical day?**
 
-| Time | What Happens |
-|------|--------------|
-| Morning (when do people wake? what happens first?) | |
-| Midday (is there a rest period? a main meal?) | |
-| Afternoon/Evening (when does work end? what follows?) | |
-| Night (when do people sleep? what's nightlife like?) | |
+**Describe the daily rhythm of life in your world: When do people wake and what happens first? Is there a midday rest or main meal? When does work end? What is nightlife like?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does this rhythm differ by class or profession?**
 
@@ -316,11 +341,15 @@ _______________________________________________________________
 
 *Romance changes the texture of daily life. What shifts when your protagonist starts thinking about this person?*
 
-| Routine Element | Before the Love Interest | After |
-|---|---|---|
-| *e.g., Morning tea ritual — Feyre used to eat alone at dawn, mechanically* | *Alone, silent, functional — tea was fuel, not comfort* | *She begins noticing whether Rhysand is already awake, listening for his movements, lingering over her cup* |
-| | | |
-| | | |
+**How does the protagonist's daily routine shift after the love interest enters their life? Pick a specific routine element and describe it before and after.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Home & Household
@@ -333,11 +362,15 @@ As your character first enters their love interest's home, take some time to all
 
 **What does a typical home look like for different classes?**
 
-| Class | Home Description |
-|-------|------------------|
-| Wealthy/noble | |
-| Middle/merchant | |
-| Common/poor | |
+**What does home look like for the wealthy, the middle class, and the poor in your world?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who lives together?**
 
@@ -416,10 +449,15 @@ _______________________________________________________________
 
 *Family is often the first and most personal obstacle to love. Whose approval matters? Who will try to interfere? What power does a parent or elder hold over the match?*
 
-| Character | Family's Stance on the Relationship | What Power They Have to Interfere |
-|---|---|---|
-| Protagonist's family | | |
-| Love Interest's family | | |
+**What is each character's family's stance on the relationship, and what power do they have to interfere?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Food & Meals
@@ -434,11 +472,15 @@ Eating together is one of the most simple ways to develop intimacy. When charact
 
 *Meals are where your characters will share space, reveal habits, and build domestic intimacy. Knowing what people eat and how they eat it gives you the raw material for food scenes that do emotional heavy lifting.*
 
-| Meal | What's Eaten | How It's Eaten |
-|------|--------------|----------------|
-| Morning | | |
-| Midday | | |
-| Evening | | |
+**Describe the meals in your world: What do people eat for morning, midday, and evening meals, and how do they eat (alone, communally, formally)?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's "special occasion" food vs. everyday food?**
 
@@ -521,22 +563,29 @@ _______________________________________________________________
 
 How can your protagonist tell a temple from a tavern at a glance?
 
-| Building Type | Distinctive Features |
-|---|---|
-| Palace/noble estate | |
-| Temple/place of worship | |
-| Merchant's home/shop | |
-| Common dwelling | |
-| Military/fortification | |
+**What are the distinctive architectural features of your world's key buildings — palaces, temples, merchant homes, common dwellings, and fortifications?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does a specific building's layout shape a romantic scene?**
 
 *Narrow corridors force proximity. Great halls create distance. Hidden passages give one character power over another. Pick a key setting and map how its layout affects the dynamic between your characters.*
 
-| Setting | Layout Detail | How It Affects the Romantic Dynamic |
-|---|---|---|
-| *e.g., Spring Court manor — long corridors with alcoves hidden behind tapestries* | *e.g., Characters can slip out of sight for a moment but footsteps echo, so they can always hear someone approaching* | |
-| | | |
+**Describe a specific architectural layout in your story and explain how its physical design affects the romantic dynamic (e.g., hidden alcoves, echoing corridors, shared walls).**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -699,9 +748,15 @@ _______________________________________________________________
 
 *Etiquette violations reveal where someone comes from and create charged moments between characters. What faux pas creates a scene between your protagonists?*
 
-| The Mistake | Who Makes It | How the Other Reacts |
-|---|---|---|
-| | | |
+**Describe a moment where one character makes a cultural mistake in the other's world. What is the mistake, who makes it, and how does the other react?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Hospitality & Guest Rights
@@ -822,10 +877,15 @@ _______________________________________________________________
 
 *Dances require touch. Games reveal personality. Shared stories create inside jokes. What activity gives your characters an excuse to spend time together — and does everyone else see through the excuse?*
 
-| Activity | What It Allows (touch, conversation, competition, proximity) | How Obvious Is It That They're There for Each Other? |
-|---|---|---|
-| *e.g., Weekly tavern card game — Xaden starts showing up to a game he never attended before Violet joined* | *e.g., Seated across from each other, sustained eye contact, banter disguised as competitive trash-talk* | *e.g., Everyone at the table knows exactly why he's there except Violet* |
-| | | |
+**What social activity allows your characters to spend time together without arousing suspicion? What does it allow (touch, conversation, competition), and how obvious is it to others that they're there for each other?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Oaths, Promises & Honour
@@ -900,13 +960,15 @@ _______________________________________________________________
 
 If precise wording matters in your world, draft the actual words of the promise that binds your character. Then look for the loophole. What could those words mean that the speaker didn't intend?
 
-| | Details |
-|---|---|
-| The exact words of the oath | |
-| Who it was sworn to | |
-| What it was intended to mean | |
-| What it could literally mean (the loophole) | |
-| What it costs to break outright | |
+**If a character has sworn an oath that conflicts with the romance, describe: What are the exact words? Who was it sworn to? What was it intended to mean vs. what could it literally mean (the loophole)? What does it cost to break outright?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -918,23 +980,29 @@ Forbidden love has its excitement in the risk involved. Ensure that your reader 
 
 **What actions, topics, or behaviors are taboo in your culture?**
 
-| Category | Taboo Behaviors |
-|----------|-----------------|
-| Physical (touch, proximity, eye contact, showing skin) | |
-| Verbal (certain words, discussing feelings, speaking across gender/class) | |
-| Social (cross-class interaction, public displays, being alone together) | |
-| Magical (certain powers, displaying abilities, magical contact between people) | |
-| Sexual (anything related to intimacy before or outside marriage) | |
+**What behaviors are taboo in your world? Consider physical taboos (touch, proximity, eye contact), verbal taboos, social taboos, magical taboos, and sexual taboos.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Which taboos directly affect your romance?**
 
 Pick 2-3 that create real obstacles:
 
-| Taboo | How It Affects the Romance |
-|-------|---------------------------|
-| | |
-| | |
-| | |
+**Pick your most important taboos and describe how each specifically affects the romance.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens when someone breaks a taboo?**
 
@@ -1068,10 +1136,15 @@ _______________________________________________________________
 
 What's the kind of scandal that follows someone forever? Is it the same for all classes and genders?
 
-| Position | What Destroys Their Reputation |
-|----------|-------------------------------|
-| Someone of the protagonist's position | |
-| Someone of the love interest's position | |
+**What would destroy the reputation of someone in the protagonist's position? What about the love interest's position?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can a ruined reputation be recovered? How?**
 
@@ -1105,10 +1178,15 @@ _______________________________________________________________
 
 The rumor that would destroy them — true or not:
 
-| Character | Worst Possible Rumor |
-|-----------|---------------------|
-| Protagonist | |
-| Love Interest | |
+**What is the worst possible rumor that could circulate about your protagonist? About your love interest?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do your characters protect their reputations while pursuing each other?**
 
@@ -1143,11 +1221,15 @@ _______________________________________________________________
 
 List the spaces where privacy is possible — and what risks each location carries:
 
-| Location | Risk of Discovery |
-|----------|-------------------|
-| | |
-| | |
-| | |
+**Where do your characters meet in secret, and what is the risk of discovery at each location?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where are they always watched?**
 
@@ -1298,12 +1380,15 @@ Transitions in wardrobe also serve well as indicators of how intimate the relati
 
 **What does clothing communicate in your culture?**
 
-| Marker Type | What Clothing Communicates |
-|-------------|---------------------------|
-| Class markers | |
-| Profession markers | |
-| Marital/availability markers | |
-| Religious markers | |
+**What does clothing communicate in your world? Describe what markers indicate class, profession, marital status, and religion.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are there sumptuary laws — rules about who can wear what?**
 
@@ -1325,14 +1410,15 @@ _______________________________________________________________
 
 What do people actually wear? You don't need to describe every stitch, just know enough to make your descriptions feel true when they matter to the scene.
 
-| Context | Wealthy/Noble | Common/Working |
-|---|---|---|
-| Daily wear | | |
-| Formal events | | |
-| Work/labour | | |
-| Religious occasions | | |
-| Mourning | | |
-| Wedding/celebration | | |
+**How does clothing differ between wealthy/noble and common/working people in your world? Describe what each group wears for daily life, formal events, work, religious occasions, mourning, and celebrations.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 *For historical fashion terminology (chemise, doublet, kirtle, stays, etc.), see Section 20: Quick Reference Sheets.*
 
@@ -1458,12 +1544,15 @@ _______________________________________________________________
 
 *Each layer removed is a layer of distance dissolved. Map the progression — from the first small reveal to the moment when they're fully unguarded around each other.*
 
-| Stage of Relationship | What's Removed or Revealed | What It Signifies |
-|----------------------|---------------------------|-------------------|
-| *Early (formal, guarded)* | *She removes her gloves in his presence — the first time she's shown bare hands* | *A crack in the armour; she's stopped performing* |
-| | | |
-| | | |
-| | | |
+**How does the gradual removal of clothing or armor track the progression of intimacy in your story? Describe an early, middle, and late-stage moment where something is removed or revealed, and what it signifies.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a garment that represents armor or protection that one character removes around the other?**
 
@@ -1546,11 +1635,15 @@ _______________________________________________________________
 
 **What does it mean if someone violates the expected progression?**
 
-| Violation | What It Signals |
-|-----------|-----------------|
-| Moving too fast | |
-| Skipping family involvement | |
-| Pursuing someone "above" them | |
+**What signals does it send in your world when someone moves too fast in courtship, skips family involvement, or pursues someone above their station?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1629,12 +1722,15 @@ _______________________________________________________________
 
 *The most powerful gift scenes slow down through all three stages: giving, receiving, and aftermath. A gift that shows the giver noticed something specific about the receiver always lands harder than one that merely demonstrates wealth.*
 
-| Component | Details |
-|---|---|
-| The gift (what is it? why this gift specifically?) | |
-| The giving (how nervous/confident? explanation or silence?) | |
-| The receiving (recognition, confusion, physical contact with the gift) | |
-| The aftermath (where does the gift go? how often is it touched or looked at?) | |
+**Plan a significant gift-giving moment. What is the gift and why this gift specifically? Describe the giving (nervous or confident?), the receiving (recognition, confusion?), and the aftermath (where does the gift go, how often is it touched?).**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Marriage Customs & Ceremonies
@@ -1655,13 +1751,15 @@ _______________________________________________________________
 
 **Describe a traditional wedding ceremony in your world:**
 
-| Element | Description |
-|---------|-------------|
-| Setting | |
-| Who performs it | |
-| Key rituals or moments | |
-| Words or vows spoken | |
-| Objects or symbols used | |
+**Describe your world's marriage ceremony: Where does it happen? Who performs it? What are the key rituals or moments? What words or vows are spoken? What objects or symbols are used?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens after the ceremony?**
 
@@ -1748,11 +1846,15 @@ When developing mourning traditions for your world, there are several dynamics w
 
 **What are the mourning customs in your culture?**
 
-| Aspect | Custom |
-|--------|--------|
-| Mourning period (how long, what's expected) | |
-| Mourning dress or symbols | |
-| Restrictions during mourning (social, romantic, business) | |
+**What are your world's mourning customs? How long is the mourning period, what mourning dress or symbols are used, and what restrictions apply during mourning (social, romantic, business)?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does your culture treat the dead?**
 
@@ -1899,10 +2001,15 @@ _______________________________________________________________
 
 Their upbringing shaped who they are. What was childhood like for them?
 
-| Character | How They Were Raised |
-|---|---|
-| Protagonist | |
-| Love Interest | |
+**How were your protagonist and love interest each raised and educated? What skills did they gain, and what gaps does each have?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Work & Professions
@@ -1947,11 +2054,15 @@ The environment created by festivals gives characters an excuse to be different 
 
 Describe 2-3 that matter for your story:
 
-| Festival | When & What It Celebrates | Key Traditions |
-|----------|---------------------------|----------------|
-| | | |
-| | | |
-| | | |
+**Describe 1-3 important festivals in your world. For each, when does it happen, what does it celebrate, and what are the key traditions?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Which festival provides a romantic opportunity for your characters, and why?**
 
@@ -2055,15 +2166,15 @@ _______________________________________________________________
 
 **Map your character's exile (actual or threatened):**
 
-| What They Lose | Specific Details |
-|---|---|
-| Home/territory | |
-| Name/title/identity | |
-| Family connections | |
-| Access to magic or power | |
-| Community/social belonging | |
-| Sense of self | |
-| What replaces it | |
+**If a character is exiled or becomes an outsider, what do they lose? Consider: home/territory, name/title/identity, family connections, access to magic or power, community, sense of self. What replaces what they've lost?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -2085,13 +2196,15 @@ Additionally, allow secondary characters to reinforce the consequences of breaki
 
 **What are the unwritten rules of cross-class interaction?**
 
-| Aspect | Rule |
-|--------|------|
-| Eye contact (allowed, forbidden, lowered) | |
-| Forms of address | |
-| Physical proximity | |
-| Who speaks first | |
-| What topics are appropriate | |
+**What are the etiquette rules between different classes or ranks in your world? Address eye contact, forms of address, physical proximity, who speaks first, and what topics are appropriate.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens when someone violates these unwritten rules?**
 
@@ -2123,23 +2236,29 @@ _______________________________________________________________
 
 *The most revealing moments in cross-class romance are the accidental ones — a first name used without thinking, a hand reached for instinctively, eye contact held a beat too long. What moment of "I forgot myself" reveals the truth beneath the social performance?*
 
-| Aspect | Details |
-|--------|---------|
-| *What the slip is* | *She calls him by his first name in front of the court — then freezes when she realises what she's done* |
-| What the slip is | |
-| Who slips | |
-| Who notices | |
-| What it reveals | |
+**Describe a moment when a character slips on etiquette — breaks a class or rank rule without meaning to. What is the slip, who makes it, who notices, and what does it reveal?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### How do your characters behave differently in public versus private?
 
 *When characters maintain perfect hierarchy in front of others but drop it behind closed doors, they create a secret world. What does the shift look like between your characters — and what would happen if someone saw the private version?*
 
-| Context | How They Interact |
-|---------|-------------------|
-| In public (with others watching) | |
-| In private (alone together) | |
-| What would happen if someone saw the private version | |
+**How do your characters interact differently in public versus in private? What would happen if someone saw the private version?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Language, Names & Forms of Address
@@ -2176,11 +2295,15 @@ _______________________________________________________________
 
 This is often a pivotal intimacy moment:
 
-| Aspect | Details |
-|--------|---------|
-| From | |
-| To | |
-| When and why | |
+**Describe the shift in how your characters address each other: What do they call each other at first, what do they shift to, and when and why does the change happen?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there significance to names in your world?**
 
@@ -2205,26 +2328,39 @@ If no, skip to Integration Check.
 
 If yes:
 
-| Character | Culture |
-|-----------|---------|
-| Protagonist | |
-| Love Interest | |
+**What culture does each character come from?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What are the key differences between their cultures?**
 
-| Aspect | Culture 1 | Culture 2 |
-|--------|-----------|-----------|
-| Values | | |
-| Customs | | |
-| Taboos | | |
+**Compare the two cultures your characters come from: How do their values, customs, and taboos differ?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does one culture do that the other finds shocking, rude, or confusing?**
 
-| Misunderstanding | Description |
-|------------------|-------------|
-| 1 | |
-| 2 | |
-| 3 | |
+**Describe 2-3 cultural misunderstandings that could arise between your characters because of their different backgrounds.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What romantic gesture from one culture means something different in the other?**
 
@@ -2260,14 +2396,15 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Your Answer |
-|---|---|
-| How does government enforce cultural norms? Which taboos are laws vs. "just" social rules? (Ref: Section 5) | |
-| How does magic interact with cultural customs? Magical courtship rituals? Spells that detect rule-breaking? (Ref: Section 8) | |
-| What cultural norm conflicts with your magic system? (Ref: Section 8) | |
-| How do economic realities constrain your characters' choices? Can they afford to defy convention? (Ref: Section 4) | |
-| What cultural customs have religious origins? Do characters follow them out of faith or habit? (Ref: Section 6) | |
-| How does your culture's attitude toward sexuality and desire affect your romance's pacing? | |
+**How does culture connect to other parts of your world? Consider: How does government enforce cultural norms? How does magic interact with cultural customs? What cultural norm conflicts with your magic system? How do economic realities constrain your characters? What customs have religious origins? How does your culture's attitude toward desire affect your romance's pacing?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Quick Reference: Cultural Stakes

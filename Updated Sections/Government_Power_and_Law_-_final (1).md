@@ -82,11 +82,15 @@ In the strongest romantasy, your characters are changed by both the romance and 
 
 *Your protagonist should grow through both the romance and the political conflict — not just one. If you can't fill in both rows, one of your plotlines may be decorative.*
 
-| Catalyst | What It Forces Your Protagonist to Face | How They Change |
-|----------|----------------------------------------|-----------------|
-| *The romance (emotional safety/vulnerability)* | *Feyre's bond with Rhys gives her the emotional safety to confront her trauma* | *She stops surviving and starts choosing to fight* |
-| The romance (emotional safety/vulnerability) | | |
-| The political conflict (impossible challenge) | | |
+**How do the romance and the political conflict each force your protagonist to change? What does each catalyst make them face, and how do they grow?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Political Situations That Create Romance
 
@@ -126,9 +130,15 @@ In the strongest romantasy, your characters are changed by both the romance and 
 
 *Take the biggest political pressure in your story and translate it to the personal level. What does this political reality feel like in an intimate moment between your characters?*
 
-| Your Macro Political Stake | Your Micro Romantic Obstacle |
-|---|---|
-| | |
+**What is your macro political stake, and what micro romantic obstacle does it create?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -229,12 +239,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-| Aspect | Details |
-|--------|---------|
-| Title/Position | |
-| Name | |
-| How they gained power | |
-| How long they've ruled | |
+**Describe your world's ruler: What is their title/position and name? How did they gain power, and how long have they ruled?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How did they gain power?**
 
@@ -362,11 +375,15 @@ _______________________________________________________________
 
 **What positions exist that matter for your story?**
 
-| Position | Power They Hold | Who Currently Holds It |
-|----------|-----------------|----------------------|
-| *High Lord (ACOTAR)* | *Absolute rule over their Court, command of Court's magic* | *Rhysand — Night Court* |
-| | | |
-| | | |
+**Who holds power in your world? For each key position, describe what power they hold and who currently fills the role.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -402,11 +419,15 @@ _______________________________________________________________
 
 **Who controls access to magical power?**
 
-| Aspect | Details |
-|--------|---------|
-| How is magic acquired (birth, training, divine gift, artifacts)? | |
-| Who controls training/access? | |
-| Can magical power be taken away? | |
+**How does government relate to magic in your world? How is magic acquired? Who controls training/access? Can magical power be taken away?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What laws govern magic use?**
 
@@ -450,11 +471,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-| Enforcement Body | What They Handle | Who Controls Them |
-|-----------------|------------------|-------------------|
-| *Chasseurs (Serpent & Dove)* | *Hunting and burning witches* | *The Church / Archbishop* |
-| | | |
-| | | |
+**What enforcement bodies exist in your world? What do they handle, and who controls them?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How effective is enforcement?**
 
@@ -476,13 +501,15 @@ _______________________________________________________________
 
 **How does the justice system work?**
 
-| Aspect | Details |
-|--------|---------|
-| Who judges (monarch, courts, religious authority, trial by combat) | |
-| Are there trials? | |
-| Do the accused have rights? | |
-| Can verdicts be appealed? | |
-| Who can afford good representation? | |
+**Describe your world's justice system: Who judges? Are there trials? Do the accused have rights? Can verdicts be appealed? Who can afford good representation?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is justice equal?**
 
@@ -613,12 +640,15 @@ When one character has the ability to imprison, exile, or kill another, how do y
 
 **How does the power gap between your characters affect intimacy?**
 
-| Aspect | Details |
-|--------|---------|
-| Who holds more political power? | |
-| Does the more powerful character recognise the gap? | |
-| How does the less powerful character exercise agency? | |
-| What would it look like if the less powerful character said no? Would there be consequences? | |
+**Describe the political power imbalance between your characters: Who holds more power? Does the more powerful character recognise the gap? How does the less powerful character exercise agency? What would it look like if they said no — would there be consequences?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 That last question is the most important one. If the less powerful character can't say no without facing punishment, exile, or death, you don't have a romance. You have coercion with good lighting. The reader has to believe that "no" is a real option, even if the character chooses "yes."
 
@@ -716,10 +746,15 @@ _______________________________________________________________
 **Where do your characters fall?**
 The larger the gap, the greater the romantic tension. What does each person assume as normal that the other has never experienced?
 
-| Character | Class Position | Example (*Serpent & Dove*) |
-|-----------|---------------|-------------------------|
-| Protagonist | | Witch (criminal class), beneath even peasants in the eyes of law, hunted and killed on sight |
-| Love Interest | | Chasseur Captain, military-religious elite, second only to the Archbishop, respected and feared |
+**What is each character's class position in the social/political hierarchy?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How many ranks separate them?**
 Same social class? One or two classes apart (scandalous but possible to bridge)? An extreme class gap (servant/royal)?
@@ -920,12 +955,15 @@ _______________________________________________________________
 
 **Who benefits from their union? Who's threatened by it?**
 
-| Group | Benefit or Threat |
-|-------|-------------------|
-| Who wants them together | |
-| Why | |
-| Who wants them apart | |
-| Why | |
+**Who wants your characters together, and why? Who wants them apart, and why?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens if they refuse the political obligation?**
 
@@ -965,12 +1003,15 @@ All fake relationships begin with parameters: how much physical interaction can 
 
 *All fake relationships start with boundaries. The romantic tension comes from violating them.*
 
-| Rule | Details | Example (*The Bridge Kingdom*) |
-|------|---------|-------------------------------|
-| What relationship are they performing? (love, unity, hostility, indifference) | | *Devoted wife — Lara performs loyalty while secretly planning assassination* |
-| Physical boundaries (what contact is and isn't allowed) | | |
-| When does the performance end? | | |
-| Is one secretly working against the other? | | |
+**If your characters must perform a public relationship (love, unity, hostility, indifference): What are the physical boundaries? When does the performance end? Is one secretly working against the other?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's the first boundary violation?**
 
@@ -1008,19 +1049,27 @@ The moment of choosing love over loyalty is one of the most powerful beats in en
 
 **What major factions exist?**
 
-| Faction | What They Want | Who Leads Them | Their Power Base |
-|---------|---------------|----------------|------------------|
-| *Court of Nightmares (ACOTAR)* | *Power over the Night Court, return to old cruelties* | *Keir* | *Ancient nobility, military strength, fear* |
-| | | | |
-| | | | |
-| | | | |
+**Describe the key political factions in your world. For each, what do they want, who leads them, and what is their power base?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where do your characters fall?**
 
-| Character | Faction |
-|-----------|---------|
-| Protagonist | |
-| Love Interest | |
+**Which political faction does each character belong to or align with?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are they on the same side, opposite sides, or unaligned?**
 
@@ -1041,11 +1090,15 @@ _______________________________________________________________
 **Who has political reason to keep your characters apart?**
 Name specific antagonists. What do they stand to lose if your characters unite?
 
-| Enemy | Position | What They Want | Why They Oppose | What They'll Do |
-|-------|----------|---------------|-----------------|-----------------|
-| *Amarantha (ACOTAR)* | *Self-appointed ruler Under the Mountain* | *Dominion over all Courts* | *Feyre and Rhysand's bond threatens her control* | *Torture, manipulation, death trials* |
-| | | | | |
-| | | | | |
+**Describe your story's political enemy/antagonist: Who are they? What position do they hold? What do they want? Why do they oppose the characters? What will they do?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1054,10 +1107,15 @@ Name specific antagonists. What do they stand to lose if your characters unite?
 **Who supports your characters despite political opposition?**
 Allies provide hope and aid, but their support should cost them something too.
 
-| Ally | Position | Why They Help | What They Risk |
-|------|----------|--------------|----------------|
-| | | | |
-| | | | |
+**Describe your story's key political ally: Who are they? What position do they hold? Why do they help, and what do they risk by doing so?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there current factional conflict that affects your story?**
 Political instability creates both danger and opportunity. Could your characters use factional conflict to their advantage?
@@ -1094,11 +1152,15 @@ _______________________________________________________________
 
 *The romantic spark happens when masks crack. You need to know what each character is hiding before you can write the moments it slips.*
 
-| Character | Public Mask | What It Hides | Example (*The Cruel Prince*) |
-|-----------|-------------|---------------|------------------------------|
-| *Cardan* | *Casual cruelty and indifference* | *Abuse trauma, isolation, fear of vulnerability* | |
-| Protagonist | | | |
-| Love Interest | | | |
+**What public mask does each character wear, and what does it hide?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What court ritual creates romantic pressure for your characters?**
 
@@ -1130,11 +1192,15 @@ _______________________________________________________________
 
 *Surviving court together creates shared codes. These small, secret communications are some of the most romantic moments you can write.*
 
-| Private Signal | What It Means | Example (*ACOTAR*) |
-|----------------|---------------|---------------------|
-| *A specific look* | *"We need to leave now"* | *Feyre and Rhysand's daemati bond lets them speak while performing for the Hewn City* |
-| | | |
-| | | |
+**Do your characters develop private signals — a look, a gesture, a code word? What do they mean?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1145,13 +1211,15 @@ Secrets in romantasy aren't side stories; they're obstacles to intimacy. Each ti
 **Is either of your characters hiding their identity?**
 If yes:
 
-| Aspect | Details |
-|--------|---------|
-| What are they hiding? | |
-| Who are they hiding it from? | |
-| Why can't they reveal it? | |
-| What happens if they're discovered? | |
-| How does the secret limit the intimacy they can share? | |
+**What are your characters hiding? Who are they hiding it from, and why? What happens if they're discovered, and how does the secret limit the intimacy they can share?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does the secret create a ceiling on intimacy?**
 
@@ -1209,12 +1277,15 @@ After the big reveal, the heavy lifting begins. The cat's out of the bag. Now wh
 
 *The revelation is your most structurally important romantic beat. When it falls in the story determines what kind of tension you're building.*
 
-| Aspect | Details |
-|--------|---------|
-| What secret is revealed? | |
-| When in the story? (early / midpoint / climax) | |
-| How? (confession / discovery / betrayal by third party / forced) | |
-| Does it deepen or shatter the bond? | |
+**How is the secret revealed? What is it, when in the story does it happen, how is it revealed (confession, discovery, betrayal), and does it deepen or shatter the bond?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If your secret unravels in layers, map the cascade:**
 
@@ -1319,13 +1390,15 @@ _______________________________________________________________
 
 If yes:
 
-| Aspect | Details |
-|--------|---------|
-| *Example (Fourth Wing)* | *Violet Sorsengail — cadet / rider — because her mother commands it — has survived the Gauntlet and bonded two dragons* |
-| Which character | |
-| Role/rank | |
-| Why they serve | |
-| What they've seen or done | |
+**If a character serves in the military: Which character, what is their role/rank, why do they serve, and what have they seen or done?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If one character is a soldier, how does this affect the relationship?**
 
@@ -1347,20 +1420,29 @@ If your characters are on opposing sides of the war and they develop an emotiona
 
 If yes:
 
-| Aspect | Protagonist | Love Interest |
-|--------|-------------|---------------|
-| *Example (The Bridge Kingdom)* | *Lara — Maridrina's war against Ithicana* | *Aren — defending Ithicana's bridge and sovereignty* |
-| What conflict | | |
-| Their side | | |
+**If your characters are on opposing sides of a conflict: What is the conflict, and what side is each on?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does each side believe about the other?**
 
 Propaganda, stereotypes, justified grievances:
 
-| Side | What They Believe About the Enemy |
-|------|----------------------------------|
-| Protagonist's side | |
-| Love interest's side | |
+**What does each side believe about the enemy — what propaganda have they been taught?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would each character's people say about them loving the enemy?**
 
@@ -1394,18 +1476,27 @@ _______________________________________________________________
 
 If yes:
 
-| Aspect | Details |
-|--------|---------|
-| Which character | |
-| Circumstances | |
-| How it affects them | |
+**Has either character experienced violence or combat? Describe the circumstances and how it affects them.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Has either character lost someone to the conflict?**
 
-| Aspect | Details |
-|--------|---------|
-| Who was lost and how | |
-| How it shapes them | |
+**Has either character lost someone in the conflict? Who was lost, how, and how does it shape them?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there blood between their peoples that can't be easily forgiven?**
 
@@ -1621,10 +1712,15 @@ _______________________________________________________________
 
 Do they feel personal guilt/grievance, or do they see it as "the past"?
 
-| Character | Relationship to Historical Wrong |
-|-----------|----------------------------------|
-| Protagonist | |
-| Love Interest | |
+**What is each character's relationship to a historical wrong between their peoples — are they inheritor, victim, bystander, or denier?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1670,19 +1766,29 @@ _______________________________________________________________
 
 **What does each character believe that the other finds repugnant?**
 
-| Character | Belief the Other Finds Repugnant |
-|-----------|----------------------------------|
-| Protagonist | |
-| Love Interest | |
+**What belief does each character hold that the other finds repugnant?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Why does each believe this?**
 
 Not just "they were raised that way" — what experiences, evidence, or reasoning supports their view?
 
-| Character | Reasoning Behind Their Belief |
-|-----------|------------------------------|
-| Protagonist | |
-| Love Interest | |
+**What reasoning lies behind each character's problematic belief — why does it make sense from their perspective?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is either belief clearly wrong?**
 
@@ -1810,10 +1916,15 @@ At a certain point in the story, each of the characters will have to opt for the
 
 *In the strongest enemies-to-lovers, both characters pay a price of equal weight for choosing each other. Map what each one loses.*
 
-| Character | What They Sacrifice | Why This Costs Them Specifically |
-|-----------|--------------------|---------------------------------|
-| Protagonist | | |
-| Love Interest | | |
+**What does each character sacrifice to be together, and why does this cost them specifically?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are these sacrifices roughly equal in weight?**
 
@@ -1841,17 +1952,27 @@ _______________________________________________________________
 
 **What does each character need to say?**
 
-| Character | What They Need to Say |
-|-----------|----------------------|
-| Protagonist | |
-| Love Interest | |
+**What does each character need to say to the other for reconciliation to be possible?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does each need to hear?**
 
-| Character | What They Need to Hear |
-|-----------|----------------------|
-| Protagonist | |
-| Love Interest | |
+**What does each character need to hear from the other?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there an apology? Is it sufficient?**
 
@@ -1925,10 +2046,15 @@ _______________________________________________________________
 
 **How do others react to their relationship?**
 
-| Side | Reaction |
-|------|----------|
-| Protagonist's side | |
-| Love interest's side | |
+**How does each side (protagonist's people and love interest's people) react to the couple being together?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1960,10 +2086,15 @@ If your characters come from influential families, then succession will impact t
 
 **What does each character stand to inherit?**
 
-| Character | Inheritance |
-|-----------|-------------|
-| Protagonist | |
-| Love Interest | |
+**What does each character inherit from the political resolution — new roles, responsibilities, or losses?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does their relationship affect inheritance?**
 
@@ -1975,10 +2106,15 @@ _______________________________________________________________
 
 **Is either expected to produce an heir?**
 
-| Aspect | Details |
-|--------|---------|
-| Timeline | |
-| What happens if they don't | |
+**What is the political timeline or deadline, and what happens if your characters don't act?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If they're different species or one is sterile, how does this affect heir requirements?**
 
@@ -2040,12 +2176,15 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Answer |
-|----------|--------|
-| How does your government control, use, or fear magic? | |
-| What magical law most affects your characters? | |
-| Could magic let them bypass political obstacles? If yes, why don't they? | |
-| Does government have magical enforcement (truth spells, tracking, binding oaths)? | |
+**How does government interact with magic in your world? What magical law most affects your characters? Could magic bypass political obstacles — and if so, why don't they use it? Does government have magical enforcement (truth spells, tracking, binding oaths)?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

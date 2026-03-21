@@ -93,12 +93,15 @@ You may feel that if your geography does not cause friction for your characters 
 
 *Think about the core dynamic of your love story. Do your characters need to be trapped together (proximity), kept apart (separation), or forced to negotiate over something (resource)? Most romances use more than one, but one tends to dominate.*
 
-| Friction Type | How It Shows Up in Your Story | What It Forces Your Characters to Do |
-|---------------|-------------------------------|--------------------------------------|
-| *Proximity* | *Violet and Xaden are trapped at Basgiath — can't leave, paired for training, dragons are bonded* | *They must confront their hostility daily instead of avoiding each other* |
-| Proximity | | |
-| Separation | | |
-| Resource | | |
+**What type of geographic friction does your romance use most — proximity, separation, or resource? How does it show up in your story, and what does it force your characters to do?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### What seals the pressure cooker in your world?
 
@@ -223,15 +226,15 @@ _______________________________________________________________
 
 *You don't need to detail everything — just locations that matter.*
 
-| Location Type | Name/Description |
-|---------------|------------------|
-| *Primary location* | *The Winter Court — an ice palace where protagonist is held hostage, forced into proximity with the prince* |
-| Primary location | |
-| Secondary location | |
-| Secondary location | |
-| | |
-| | |
-| | |
+**List your primary and secondary locations. For each, give the name and a one-sentence description of what happens there and why it matters to the romance.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -239,39 +242,25 @@ _______________________________________________________________
 
 *This is reference material. Fill in what you know now; come back as your world develops.*
 
-| Aspect | Kingdom/Nation 1 | Kingdom/Nation 2 |
-|--------|------------------|------------------|
-| Name | | |
-| Capital | | |
-| Neighbouring lands | | |
-| Known for | | |
-| Main industry/resource | | |
-| Climate | | |
-| Primary species | | |
-| Religion | | |
-| Government type | | |
-| Allies | | |
-| Enemies/rivals | | |
-| Notable landmark | | |
-| Role in your story | | |
-| Romantic function (how does this nation create or complicate your love story?) | | |
+**Describe your primary kingdom/nation. What is it called, what is it known for, what is its main resource, and how does it create or complicate your love story? If you have a second kingdom, describe it too.**
 
-| Aspect | Kingdom/Nation 3 | Kingdom/Nation 4 |
-|--------|------------------|------------------|
-| Name | | |
-| Capital | | |
-| Neighbouring lands | | |
-| Known for | | |
-| Main industry/resource | | |
-| Climate | | |
-| Primary species | | |
-| Religion | | |
-| Government type | | |
-| Allies | | |
-| Enemies/rivals | | |
-| Notable landmark | | |
-| Role in your story | | |
-| Romantic function (how does this nation create or complicate your love story?) | | |
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**If your world has additional kingdoms or nations, describe them here. What is each called, what distinguishes it, and how does it matter to the romance?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### How does the relationship between these kingdoms/nations affect your romance?
 
@@ -289,14 +278,15 @@ _______________________________________________________________
 
 #### What terrains shape your story?
 
-| Terrain | Where? | What It Provides | What Challenges It Creates | How It Affects the Romance |
-|---------|--------|------------------|---------------------------|---------------------------|
-| *Mountains* | *Northern border between kingdoms* | *Natural defense, mineral deposits* | *Impassable in winter, treacherous passes* | *Separates protagonist's and love interest's kingdoms; winter trapping forces the arranged-marriage alliance* |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+**For each major terrain type in your world, describe where it is, what it provides, what challenges it creates, and how it affects the romance.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Naming Places
@@ -401,30 +391,29 @@ For deeper language work, see *Section 11: Language & Communication*.
 
 *Create prefixes and suffixes that fit your world's languages. What sounds right for this culture?*
 
-| Prefix/Suffix | Meaning | Example in Your World |
-|---------------|---------|----------------------|
-| *Kel- / -kel* | *silver, moonlight* | *Kelvareth (Silver City)* |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+**Create 3-5 naming elements (prefixes or suffixes) for your world's place names. For each, note the meaning and give an example of a location name that uses it.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Name your key locations
 
 *Use the patterns above (or your own) to name the places that matter most. If you already have names, write them here and note what they mean or evoke.*
 
-| Location | Name | What It Means/Evokes | Naming Convention It Follows |
-|----------|------|----------------------|------------------------------|
-| *Protagonist's homeland* | *Caerwyn* | *Fortress of the white river — Celtic roots signal ancient, mystical culture* | *Welsh: Caer- (fort) + gwyn (white/blessed)* |
-| Protagonist's homeland | | | |
-| Love interest's homeland | | | |
-| The place they meet | | | |
-| The contested territory | | | |
-| Their "place" | | | |
+**Name your key locations (protagonist's homeland, love interest's homeland, where they meet, the contested territory, their special place). For each, explain what the name means and which naming convention it follows.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Do your characters' naming conventions signal cultural distance?
 
@@ -475,19 +464,15 @@ The most effective way to demonstrate resource control on the page is to show wh
 
 *Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?*
 
-| Resource | Where It's Found | Who Controls It |
-|----------|------------------|-----------------|
-| *Fertile farmland* | *River valley between the two kingdoms* | *Contested — marriage alliance proposed to end the conflict* |
-| Fertile farmland | | |
-| Fresh water | | |
-| Timber/forests | | |
-| Mineral deposits | | |
-| Coastal access/ports | | |
-| Mountain passes | | |
-| Magical resources | | |
-| | | |
-| | | |
-| | | |
+**What are the 2-3 most important natural resources in your world? For each, describe where it's found, who controls it, and how that control creates conflict or tension in your story.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### What geographic resource creates tension or conflict in your world?
 
@@ -528,23 +513,29 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
 
 *Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?*
 
-| Sense | Description |
-|-------|-------------|
-| What you see | |
-| What you hear | |
-| What you smell | |
-| What the air feels like (temperature, humidity, wind) | |
+**Close your eyes and walk through your primary setting. Describe what you see, hear, smell, and feel (temperature, humidity, wind).**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### How does the environment change at different times of day?
 
 *Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?*
 
-| Time | Description | What kind of romantic scene would fit here? |
-|------|-------------|---------------------------------------------|
-| Morning | | |
-| Midday | | |
-| Evening | | |
-| Night | | |
+**How does your primary setting change throughout the day? Describe it at morning, midday, evening, and night — and note what kind of romantic scene would fit each time.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### What's beautiful about this place?
 
@@ -595,21 +586,29 @@ _______________________________________________________________
 
 *Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent?*
 
-| Aspect | Details |
-|--------|---------|
-| Season | |
-| What this season makes possible | |
-| What this season makes impossible | |
+**Pick the most story-relevant season in your world. What does this season make possible, and what does it make impossible?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### How do seasons affect life in your world?
 
 *When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors?*
 
-| Season | What's Possible | What's Impossible |
-|--------|-----------------|-------------------|
-| Summer/warm season | | |
-| Winter/cold season | | |
-| Transitional seasons | | |
+**For each season (summer/warm, winter/cold, transitional), what becomes possible and what becomes impossible in your world?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Does the season create pressure or opportunity in your story?
 
@@ -636,26 +635,29 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
 
 *Every world has places people warn you not to go. What makes them deadly? What would force your characters there anyway?*
 
-| Region | What Makes It Dangerous | Who Goes There Anyway (and Why) |
-|--------|------------------------|--------------------------------|
-| *The Blighted Wastes* | *Corrupted magic, monsters, no water for miles, disorienting mists* | *Exiles, desperate smugglers, and our protagonists who must cross it to reach sanctuary* |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+**Describe the most dangerous region in your world. What makes it dangerous, and who goes there anyway (and why)?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Do your characters travel through dangerous territory?
 
 *Shared danger bonds people fast. What threats would force them to rely on each other?*
 
-| Aspect | Details |
-|--------|---------|
-| Where they go and why | |
-| What dangers they face | |
-| What damage the environment causes (exhaustion, injury, rationing) | |
-| What forces them to rely on each other | |
-| What changes between them after surviving it | |
+**Plan a dangerous journey for your characters. Where do they go and why? What dangers do they face? What damage does the environment cause? What forces them to rely on each other, and what changes between them after surviving it?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Borders & Boundaries
@@ -690,21 +692,29 @@ _______________________________________________________________
 
 *Borders create "us" and "them." What assumptions would each character have about someone from the other side?*
 
-| Aspect | Details |
-|--------|---------|
-| What separates them | |
-| What crossing means (legally, socially, personally) | |
-| What "in-between" space exists (neutral zone, disputed land, meeting point) | |
+**What geographic or political border separates your characters? What does crossing it mean (legally, socially, personally), and is there any in-between space where they can meet?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### What assumptions does each character carry about the other side?
 
 *The strongest borders are internal. What does each character believe — casually, without thinking — about people from their love interest's side? And what moment first cracks that assumption?*
 
-| Character | What They Assume About "Those People" | The Moment That Assumption Breaks |
-|-----------|--------------------------------------|-----------------------------------|
-| *Protagonist* | *"Night Court fae are manipulative and cruel — everyone knows their High Lord tortured people Under the Mountain"* | *Seeing Rhysand play with children in the streets of Velaris* |
-| Protagonist | | |
-| Love interest | | |
+**What does your protagonist assume about the love interest's people — and what moment shatters that assumption? What does the love interest assume about the protagonist's people, and when does that break?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Home & Belonging
@@ -749,10 +759,15 @@ _______________________________________________________________
 
 *Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?*
 
-| Character | Where They Feel Alien |
-|-----------|----------------------|
-| Protagonist | |
-| Love interest | |
+**Where does each of your main characters feel most out of place — alien, uncomfortable, or unwelcome? Why?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Entering Each Other's Worlds
@@ -775,12 +790,15 @@ This can happen on a much smaller level. In *Bridgerton* (Season 2 / *The Viscou
 
 *Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?*
 
-| Aspect | Details |
-|--------|---------|
-| Who visits whose world | |
-| What the visitor notices first (strange, beautiful, uncomfortable) | |
-| What the host is proud of — and what they'd rather hide | |
-| What everyday moment creates unexpected intimacy | |
+**When one character visits the other's world, who visits whom? What does the visitor notice first? What is the host proud of — and what would they rather hide? What everyday moment creates unexpected intimacy?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### What's the sensory experience of entering unfamiliar territory?
 
@@ -829,12 +847,15 @@ In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Ha
 
 *The mode of travel shapes intimacy. Dragonback forces touching. A carriage allows conversation. Walking side by side is different from riding single-file. What does your world's travel look like — and what proximity does it create?*
 
-| Mode of Travel | Who Uses It | What Proximity Does It Create? |
-|----------------|-------------|-------------------------------|
-| *Dragonback* | *Riders at Basgiath* | *Constant physical contact, shared body heat, no way to create distance mid-flight* |
-| | | |
-| | | |
-| | | |
+**What is the primary mode of travel in your world? Who uses it, and what kind of physical proximity does it create between your characters?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Travel Time Reference
 
@@ -854,21 +875,29 @@ In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Ha
 
 *Distance creates stakes. A week apart feels different than a year. How painful is separation in your world?*
 
-| Route | Travel Time |
-|-------|-------------|
-| From capital to border | |
-| From one character's home to the other's | |
-| Across the dangerous region | |
+**How long does it take to travel between your key locations — capital to border, one character's home to the other's, and across the dangerous region?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Do your characters undertake a significant journey?
 
 *The road is where walls come down. What would a long journey together reveal about each of them?*
 
-| Aspect | Details |
-|--------|---------|
-| From where to where | |
-| How long | |
-| What happens during the journey | |
+**Describe the most important journey in your story. Where does it go, how long does it take, and what happens between your characters during the journey?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Isolated Locations
@@ -889,26 +918,29 @@ And remember: when characters finally *could* leave but choose to stay, that cho
 
 *Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:*
 
-| Location | Type | Why People Go | Why Leaving Is Difficult |
-|----------|------|---------------|-------------------------|
-| *Stormhold Keep* | *Remote mountain fortress* | *Political prisoners sent there; protagonist exiled after scandal* | *Mountain passes are snowed in 8 months/year; magic wards prevent unauthorized departure* |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+**Describe an isolated or trapped location in your world. What kind of place is it, why do people end up there, and what makes leaving difficult?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### How does the isolation generate romantic pressure?
 
 *Isolation alone isn't enough — it's the logistics of confinement that force intimacy. What about this space means your characters can't avoid each other? Think about shared meals, narrow corridors, mandatory pairings, limited beds, communal bathing, arguments with nowhere to storm off to.*
 
-| Aspect | Details |
-|--------|---------|
-| *What space must they share?* | *The single hearth room at Stormhold — the only warm room in the fortress during winter* |
-| What space must they share? | |
-| What daily routine forces interaction? | |
-| What happens after an argument (where do they go when there's nowhere to go)? | |
-| At what point could they leave — and what does staying mean? | |
+**In your trapped/isolated setting, what space must the characters share? What daily routine forces interaction? Where do they go after an argument when there's nowhere to go? At what point could they leave — and what does choosing to stay mean?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Geography as Emotional Landscape
@@ -953,13 +985,15 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Your Answer |
-|----------|------------|
-| Does your geography create the friction type you identified? (proximity / separation / resource) | |
-| How does geography explain cultural differences? *(Reference: Section 3)* | |
-| How does geography create or reinforce power structures? *(Reference: Section 5)* | |
-| How does geography interact with magic? *(Reference: Section 8)* | |
-| What geographic resource or territory is contested in your world? | |
+**How does your geography connect to other aspects of your world? Consider: Does it create the friction type you identified? How does it explain cultural differences? How does it create power structures? How does it interact with magic? What resource or territory is contested?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
