@@ -833,49 +833,73 @@ Madoc in *The Cruel Prince* is a great example of this. He isn't just a villain 
 
 Do they profit from laws, economic structures, cultural prejudices, political arrangements that also create obstacles for your romance?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does your antagonist represent or embody a system that oppresses your protagonists?**
 
 Are they the face of the law, the culture, the political structure that keeps your characters apart?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would your antagonist lose if your protagonists succeed?**
 
 Power, wealth, status, worldview, identity, control?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does defeating the antagonist require changing the system — or just removing one person?**
 
 If removing the antagonist doesn't change the system, will another antagonist rise? Does lasting change require more than victory?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If defeating the antagonist doesn't change the system, what else needs to change?**
 
 *Map the systemic changes required for your protagonists' victory to be lasting — not just personal. If removing the antagonist leaves the oppressive system intact, the happy ending hasn't truly been earned.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is the antagonist wrong about everything, or do they have a point about the world?**
 
 Complex antagonists often represent legitimate concerns taken too far, or defend systems that have real value alongside their oppression:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -889,37 +913,57 @@ In *Fourth Wing*, Violet finds herself at exactly this crossroads: loyalty to he
 
 Safety vs. freedom? Tradition vs. progress? Individual happiness vs. collective good? Loyalty vs. truth? Power vs. connection?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What trade-off does your protagonist face?**
 
 What two things they value are in conflict?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What trade-off does your love interest face?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do they face the same trade-off differently, or different trade-offs entirely?**
 
 *When protagonists face the same dilemma from opposite sides, every conversation becomes charged. When they face different dilemmas, they struggle to understand each other's stakes. Both create tension — but the romantic dynamics differ.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does their relationship force them to confront trade-offs they could otherwise avoid?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does each character choose — and what does that choice cost?**
 
@@ -951,15 +995,21 @@ Romantasy is at its best when the relationship has weight beyond the couple them
 
 Obstacle 1 exists because of (which law, cultural value, magical rule, political reality, economic pressure — reference specific sections):
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
 
 Obstacle 2 exists because of:
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
 
 Obstacle 3 exists because of:
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
 
 **If any obstacle feels arbitrary, strengthen it by connecting to multiple systems.**
 
@@ -969,33 +1019,49 @@ _______________________________________________________________
 
 Shared mission, institutional requirement (Section 14), magical bond (Section 10), political arrangement (Section 5), geographic isolation (Section 1), economic necessity (Section 4)?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does this forced proximity connect to at least two other systems?**
 
 Example: A magical bond (Section 10) required by law (Section 5) because historically bonded pairs were weapons (Section 7) and now the kingdom is at war (Section 5 — warfare).
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Stakes Test
 
 **What would they lose if their relationship was discovered or if they chose each other?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are these losses connected to concrete worldbuilding?**
 
 Loss of political power (Section 5), economic ruin (Section 4), magical consequences (Section 10), cultural exile (Section 3), legal punishment (Section 5), religious condemnation (Section 6)?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

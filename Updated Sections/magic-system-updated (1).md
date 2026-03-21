@@ -698,99 +698,128 @@ This is where your magic system really starts to get interesting. Unlimited powe
 When the cost of the magic is something that has been freely given as opposed to demanded, then the cost becomes romantic. When your character chooses to pay a price for someone else without being asked. So when you're writing this, show the cost through the body and through consequence, not through explanation. Don't tell readers that healing magic requires equivalent pain. Show the healer gritting their teeth. Show them bracing before they reach for someone's wound. Show them unable to stand afterwards. And when one character pays the price for another, let the witness react: the horror of watching someone you care about suffer for you, the guilt, the fury at not being asked first.
 
 **What does using magic cost?**
-Physical energy/exhaustion, pain/damage, shortened lifespan, emotional toll, rare materials, time, moral cost (corruption, debt), something from the world around them.
 
-_______________________________________________________________________________
+*Physical energy/exhaustion, pain/damage, shortened lifespan, emotional toll, rare materials, time, moral cost (corruption, debt), something from the world around them.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does the cost scale with the power used?**
-Is a small spell a small price, while world-shaking magic demands everything?
 
-_______________________________________________________________________________
+*Is a small spell a small price, while world-shaking magic demands everything?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens when someone overextends, using more magic than they can safely handle?**
-Overextension consequences create tension in high-stakes moments. What would your protagonist risk by pushing too far?
 
-_______________________________________________________________________________
+*Overextension consequences create tension in high-stakes moments. What would your protagonist risk by pushing too far?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is the cost immediate, or does it accumulate over time?**
-Can someone use magic freely for years and then pay all at once?
 
-_______________________________________________________________________________
+*Can someone use magic freely for years and then pay all at once?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are there situational or plot-driven costs, times when magic can't be used safely?**
-In *ACOTAR*, Rhysand limits his magic use because the enemy can track it. Can magic be traced? Would using it alert enemies or violate a treaty? Does magic leave evidence?
 
-_______________________________________________________________________________
+*In ACOTAR, Rhysand limits his magic use because the enemy can track it. Can magic be traced? Would using it alert enemies or violate a treaty? Does magic leave evidence?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does your protagonist know the full cost of their power, or will they find out the hard way?**
-Hidden costs create devastating revelations. What might your protagonist discover about the price they've been paying, or will pay?
 
-_______________________________________________________________________________
+*Hidden costs create devastating revelations. What might your protagonist discover about the price they've been paying, or will pay?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Hidden Costs and Secrets
 
 Beyond the obvious costs, many abilities come with complications that characters want to hide. And secrets are fuel for romance.
 
 **What does your character's magic cost them that others can't easily see?**
-Physical toll, emotional burden, shortened lifespan, moral compromise?
 
-_______________________________________________________________________________
+*Physical toll, emotional burden, shortened lifespan, moral compromise?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Why do they hide this cost?**
-Shame, protection of others, fear of being seen as weak, fear of being stopped?
 
-_______________________________________________________________________________
+*Shame, protection of others, fear of being seen as weak, fear of being stopped?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would the love interest do if they discovered the hidden cost?**
-Would they try to stop your character, share the burden, or respect the choice?
 
-_______________________________________________________________________________
+*Would they try to stop your character, share the burden, or respect the choice?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How might the cost of magic create stakes in the relationship?**
 
 *When magic demands sacrifice, what would one character pay to protect the other — and what would the other feel about that price? The most devastating romantic moments in the genre come from one character paying a cost the other didn't ask for and can't repay.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -799,13 +828,16 @@ _______________________________________________________________________________
 What your magic cannot do is just as important as what your magic can do. Limitations create tension, require creative thinking on the part of your characters and eliminate the ability for your characters to solve every problem with a simple wave of their hand. They also create romantic complications. In *The Cruel Prince*, the Fae can't lie. Every cruel thing Cardan says, Jude knows he means it. And every rare moment of honesty hits harder because she knows it's true; he literally can't say "I love you" unless he does.
 
 **What is absolutely impossible with magic in your world? Name at least three things.**
-Firm limitations prevent magic from solving every problem. What must your characters face without magical shortcuts?
 
-1. ___________________________________________________________________________
+*Firm limitations prevent magic from solving every problem. What must your characters face without magical shortcuts?*
 
-2. ___________________________________________________________________________
+*(Write your answer below)*
 
-3. ___________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Types of Magic Limitations
 
@@ -852,31 +884,40 @@ Every limitation creates story opportunities. Which constraints will force your 
 ☐ Consent/Will: _____________________________________________________________
 
 **Are there things magic can technically do, but nobody attempts because the cost or risk is too high?**
-Forbidden-but-possible magic creates temptation. What might your protagonist be desperate enough to try?
 
-_______________________________________________________________________________
+*Forbidden-but-possible magic creates temptation. What might your protagonist be desperate enough to try?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can magic be resisted or defended against?**
-How do non-magical people protect themselves?
 
-_______________________________________________________________________________
+*How do non-magical people protect themselves?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How might your magic's limitations affect the relationship?**
-Limitations can protect or obstruct love. Can magic reveal truth, or does it force lies? Does it prevent harm, or make protection impossible?
 
-_______________________________________________________________________________
+*Limitations can protect or obstruct love. Can magic reveal truth, or does it force lies? Does it prevent harm, or make protection impossible?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -886,9 +927,7 @@ Not all magic users are created equal, and not all magic is the same flavour. Un
 
 **What's the range of magical power in your world?**
 
-*Establishing the floor and ceiling of power helps you set stakes. If your protagonist is the most powerful being alive, tension has to come from somewhere other than "will they be strong enough?" If they're among the weakest, every magical encounter is dangerous.*
-
-**What does the weakest magic user in your world look like? What about the strongest? Establishing the floor and ceiling of power helps you set stakes.**
+*Establishing the floor and ceiling of power helps you set stakes. If your protagonist is the most powerful being alive, tension has to come from somewhere other than "will they be strong enough?" If they're among the weakest, every magical encounter is dangerous. What does the weakest magic user in your world look like? What about the strongest?*
 
 *(Write your answer below)*
 
@@ -901,8 +940,6 @@ Not all magic users are created equal, and not all magic is the same flavour. Un
 **Where do your protagonist and love interest fall on this scale?**
 
 *The gap (or lack of one) between your leads shapes their entire dynamic. Equally matched characters negotiate; imbalanced ones navigate trust, protection, and the risk of resentment.*
-
-**Where do your protagonist and love interest fall on the power scale you just described? How does the gap (or lack of one) between them shape their dynamic?**
 
 *(Write your answer below)*
 

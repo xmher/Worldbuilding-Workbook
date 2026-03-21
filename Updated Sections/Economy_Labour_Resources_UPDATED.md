@@ -1208,6 +1208,14 @@ Could someone try to buy one of your characters — offer money to leave, marry 
 
 **If offered money to abandon the relationship, what would each character do?**
 
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 **How does each character respond to the economic arrangement — what do they feel about it?**
 
 *(Write your answer below)*

@@ -870,15 +870,25 @@ Hospitals, asylums, and recovery spaces create vulnerability by design. One pers
 
 Hospital, field medical tent, asylum, magical healing centre, quarantine, recovery house, private sickroom?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Why is one character there?**
 
 Injury, illness, magical affliction, mental health crisis, recovery from trauma, curse, poison?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's the other character's role?**
 
@@ -886,7 +896,13 @@ _______________________________________________________________
 
 Healer, fellow patient, visitor, guard, staff, reluctant caretaker?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Vulnerability & Intimacy
 
@@ -894,17 +910,25 @@ _______________________________________________________________
 
 Physical weakness, dependence, loss of privacy, inability to leave, altered mental state, need for constant care?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What intimate care creates connection?**
 
 Feeding, bathing, wound care, sitting vigil, sharing confined space, witnessing pain, providing comfort?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does the power imbalance of caregiver/patient affect the relationship?**
 
@@ -912,9 +936,13 @@ This is perhaps the most difficult dynamic to write well, because readers can id
 
 Can genuine connection form when one person is so vulnerable? Does the dynamic shift when recovery happens?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Recovery & Change
 
@@ -924,17 +952,25 @@ _______________________________________________________________
 
 **What does the caregiver witness? What do they learn about each other?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens when recovery is complete?**
 
 Does the connection survive when vulnerability ends? Does the relationship need to be rebuilt as equals?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

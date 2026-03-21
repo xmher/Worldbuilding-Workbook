@@ -521,12 +521,16 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 
 ### Timekeeping
 
-**How do people tell time, and how precise is it?**
-Sun position, bells, clocks, magical timekeepers. Imprecise timekeeping matters for romance: "meet me at sunset" creates ambiguity that "meet me at 6:15 PM" doesn't. If time is vague, characters wait. They wonder if they've been stood up. They arrive early out of eagerness or late out of pride. The precision of your world's clocks shapes the emotional texture of every planned meeting.
+**How do people tell time, and how precisely do they schedule? Do they use sun position, bells, clocks, or magical timekeepers?**
+*Imprecise timekeeping matters for romance: "meet me at sunset" creates ambiguity that "meet me at 6:15 PM" doesn't. If time is vague, characters wait. They wonder if they've been stood up. They arrive early out of eagerness or late out of pride. The precision of your world's clocks shapes the emotional texture of every planned meeting.*
 
-**Do people schedule precisely, or approximately?**
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -564,10 +568,8 @@ Physicians, healers, midwives, herbalists, magical healers, family members:
 
 Cost? Location? Class? Connections?
 
-**Does magical healing exist?**
-*Magical healing can remove stakes from injuries — unless it has limits, costs, or is inaccessible to your characters. The most effective romantasy healing systems give with one hand and take with the other.*
-
 **Does magical healing exist in your world? How common is it, how effective, what can't it heal, and what does it cost?**
+*Magical healing can remove stakes from injuries — unless it has limits, costs, or is inaccessible to your characters. The most effective romantasy healing systems give with one hand and take with the other.*
 
 *(Write your answer below)*
 
@@ -577,10 +579,8 @@ Cost? Location? Class? Connections?
 
 &nbsp;
 
-**What injuries or illnesses are survivable vs. fatal?**
-*Understanding what can and can't be healed helps you write realistic stakes. If everything is survivable, danger loses its weight. If too much is fatal, you lose the caretaking scenes where romance deepens.*
-
 **What injuries or illnesses are easily treated in your world? What is survivable with care? What is usually fatal?**
+*Understanding what can and can't be healed helps you write realistic stakes. If everything is survivable, danger loses its weight. If too much is fatal, you lose the caretaking scenes where romance deepens.*
 
 *(Write your answer below)*
 
@@ -619,12 +619,16 @@ Social consequences? Legal consequences? Practical consequences?
 
 Who faces this pressure and from whom?
 
-**Do fertility issues exist?**
+**Do fertility issues exist in your world? Consider infertility, difficulty conceiving, or magical interference.**
 *Infertility or difficulty conceiving adds another layer of vulnerability and stakes to intimate relationships, particularly where heir pressure exists.*
 
-Infertility, difficulty conceiving, magical interference:
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -696,14 +700,16 @@ Stone castles, timber halls, mud-brick dwellings. Each creates different atmosph
 **How tall can buildings be?**
 Height limits shape cityscapes and the symbolic power of towers. What does it mean when someone lives in the highest room, and who has to climb all those stairs to reach them?
 
-**What construction techniques exist?**
+**What construction techniques exist, and what architectural features are common?**
 *Construction methods determine what's physically possible in your world — and what rooms, hiding places, and escape routes your characters have access to.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-**What architectural features are common?**
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Entertainment & Leisure
 
@@ -733,10 +739,8 @@ Both romantic scenes and combat scenes follow the same basic structure: they beg
 
 The biggest difference between the two is that *sparring* is a consensual and eroticised form of intimacy that occurs within the safety of the practice session. But *actual combat* is non-consensual and dangerous. You can use either as a means to develop a romantic relationship, but you'll use them very differently.
 
-**What weapons exist?**
-*Available weapons shape both conflict and protection. What your protagonist can fight with — or against — determines the physical stakes of every dangerous scene and how much they depend on the person beside them.*
-
 **What weapons exist in your world? List examples of melee, ranged, siege, and magical weapons.**
+*Available weapons shape both conflict and protection. What your protagonist can fight with — or against — determines the physical stakes of every dangerous scene and how much they depend on the person beside them.*
 
 *(Write your answer below)*
 

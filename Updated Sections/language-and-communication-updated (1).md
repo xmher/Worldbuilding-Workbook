@@ -931,9 +931,13 @@ In *Romancing Mister Bridgerton*, Penelope's secret life as Lady Whistledown giv
 **What do they write that they couldn't say?**
 What truths emerge only in writing?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -954,10 +958,8 @@ The choice of method will affect the overall romantic dynamic between your chara
 | Sending spells / magical letters | Deliberate, one-directional. The sender chooses words carefully, like a letter but instant. In *Divine Rivals*, Iris slips letters beneath her wardrobe door and they vanish into the hands of her rival, Roman. They fall in love as anonymous correspondents before they can admit it face to face: the classic pattern of loving a mind before a body. | Can be intercepted, traced, or blocked. Asynchrony means misunderstandings can't be quickly repaired. The same secrecy that makes letters romantic makes them dangerous. |
 | Animal messengers / familiars | Indirect, charming, limited. The messenger adds personality and constraint. | Slow, unreliable, limited message length. The animal may have its own agenda. |
 
-**What magical communication methods exist in your world?**
-Telepathy? Sending spells? Magical mirrors? Dream-walking? Enchanted objects?
-
 **If your characters use magical communication, describe the method, how it works, its limitations, who has access, and what romantic tension it creates.**
+*Telepathy? Sending spells? Magical mirrors? Dream-walking? Enchanted objects?*
 
 *(Write your answer below)*
 
@@ -967,10 +969,8 @@ Telepathy? Sending spells? Magical mirrors? Dream-walking? Enchanted objects?
 
 &nbsp;
 
-**Do your characters use magical communication?**
-Magical methods can create instant connection or bypass barriers, but they may also be monitored, traced, or come with their own costs.
-
 **Which magical communication method do your characters use, and when do they use it (the specific moment that matters most)?**
+*Magical methods can create instant connection or bypass barriers, but they may also be monitored, traced, or come with their own costs.*
 
 *(Write your answer below)*
 
@@ -983,16 +983,24 @@ Magical methods can create instant connection or bypass barriers, but they may a
 **Is magical communication private, or can it be intercepted?**
 The belief that communication is private changes what people say. What happens if that privacy is an illusion?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What can they say magically that they can't say aloud?**
 When magic provides a private channel, what becomes possible? Confessions in the dark, words across distance, thoughts too dangerous to speak.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1000,10 +1008,8 @@ _______________________________________________________________
 
 Restricted languages carry power. Knowing a forbidden tongue can mark someone as chosen, criminal, or dangerous. And in romance, sharing a language no one else speaks creates the ultimate private space. Teaching someone a forbidden language is an act of trust that can't be taken back.
 
-**Are there languages that are sacred, secret, or forbidden?**
-*A language no one else speaks is the ultimate private space. If your characters share access to a restricted tongue, they carry a secret that binds them — and that can endanger them both.*
-
 **Is there a sacred or ancient language in your world? What is it called, who can speak it, and why is it special?**
+*A language no one else speaks is the ultimate private space. If your characters share access to a restricted tongue, they carry a secret that binds them — and that can endanger them both.*
 
 *(Write your answer below)*
 
@@ -1016,16 +1022,24 @@ Restricted languages carry power. Knowing a forbidden tongue can mark someone as
 **Is there a magical language?**
 Required for spells? A language of power? A language belonging to a particular species or order?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does either character teach the other a sacred or forbidden language?**
 What does sharing this knowledge mean? What risk does it carry?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### True Names
 
@@ -1036,14 +1050,20 @@ In *From Blood and Ash*, this plays out through identity rather than magic. Popp
 **Do true names have power in your world?**
 What kind of power? Control, magical access, bond creation, vulnerability?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does your true name system differ from the familiar versions?**
 What's unique about how it works in your world?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
 
 _______________________________________________________________
 

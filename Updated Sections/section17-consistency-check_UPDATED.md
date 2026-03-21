@@ -575,7 +575,13 @@ The story you're telling needs to run two clocks: one for the fantasy plot, one 
 
 *The strongest romantasy climaxes fuse these deadlines. Must defeat the enemy together, which requires trust they haven't built. Must break the curse by admitting love. Political marriage deadline is also war deadline. Confession must happen before a battle they might not survive.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If deadlines are separate, can you align them?**
 
@@ -651,7 +657,13 @@ Mishandled information is probably the fastest way to break consistency. Charact
 
 *The secret that, once revealed, changes the romantic relationship. A hidden identity, a concealed motive, a truth about the world that reframes everything between them.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Could this character have figured this out earlier?**
 
@@ -659,13 +671,25 @@ Good reasons they didn't: they were deliberately avoiding the truth, the informa
 
 Bad reasons: they just didn't think to ask, the plot needed them not to know yet.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does any character act on information they shouldn't have yet?**
 
 *This is especially common with love interests who have secret knowledge. Does your love interest react to a threat before the protagonist has told them about it? Does a character show jealousy about something they shouldn't know yet?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Misunderstanding Check
 
@@ -673,7 +697,13 @@ _______________________________________________________________
 
 *The belief, assumption, or missing piece of information that keeps your leads apart. What does one character believe about the other that's wrong, and what would change if they knew the truth?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Why don't they just talk to each other?**
 
@@ -691,9 +721,13 @@ _______________________________________________________________
 
 **Which applies to your story?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 *If they could resolve the misunderstanding with a single honest conversation and nothing is preventing that conversation from happening, readers will get frustrated. The barrier to communication needs to be as real as any other obstacle in your world.*
 
@@ -741,7 +775,13 @@ When your narrator's understanding shifts (they learn the truth about a characte
 
 **Your major reveal or shift in understanding:**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Pick two earlier scenes that will be recontextualised by this reveal:**
 
@@ -783,7 +823,13 @@ This question is important in romantasy twice: once in terms of the fantasy plot
 
 Not what you need them to do. What they would actually choose, based on their established personality, their current knowledge, and their emotional state.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Apply all three to your climax or major turning point:**
 

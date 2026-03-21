@@ -937,43 +937,51 @@ If yes:
 
 **Who arranged it and why?**
 
-Family (for alliance, wealth, bloodline)? Ruler (for political stability)? Religious authority (fulfilling prophecy)? The characters themselves made a deal?
+*Family (for alliance, wealth, bloodline)? Ruler (for political stability)? Religious authority (fulfilling prophecy)? The characters themselves made a deal?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What makes the arrangement binding?**
 
-Legal penalties? Magical oath? Political necessity? Family pressure? No alternative?
+*Legal penalties? Magical oath? Political necessity? Family pressure? No alternative?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Who is the arranged partner?**
 
-Are they decent (potential ally), cruel (clear villain), in love with someone else too (shared predicament), or the actual love interest (arranged marriage to lovers)?
+*Are they decent (potential ally), cruel (clear villain), in love with someone else too (shared predicament), or the actual love interest (arranged marriage to lovers)?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What happens if the arrangement is broken?**
 
-War? Family ruin? Loss of protection? Magical backlash? Political chaos?
+*War? Family ruin? Loss of protection? Magical backlash? Political chaos?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -985,73 +993,99 @@ Often, the arranged marriage isn't something the characters have to get past. It
 
 **How long have they been married?**
 
-Just wed? Months? Years of cold distance?
+*Just wed? Months? Years of cold distance?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What were the circumstances of the wedding?**
 
-Did they meet before? Was one or both unwilling? Was there hope, dread, or resignation?
+*Did they meet before? Was one or both unwilling? Was there hope, dread, or resignation?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What's their relationship like at the start of the story?**
 
-Strangers? Polite distance? Active hostility? Tentative curiosity?
+*Strangers? Polite distance? Active hostility? Tentative curiosity?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does their marriage require of them publicly?**
 
-Must they appear united? Produce an heir? Attend functions together? Share chambers?
+*Must they appear united? Produce an heir? Attend functions together? Share chambers?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What private boundaries have they established?**
 
-Separate bedrooms? Limited conversation? Rules about what they will and won't share?
+*Separate bedrooms? Limited conversation? Rules about what they will and won't share?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What begins to shift those boundaries?**
 
-What event, conversation, or realization starts changing how they see each other?
+*What event, conversation, or realization starts changing how they see each other?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What's the obstacle now — if they're already married?**
 
-The legal barrier is gone, but what emotional, political, or personal barrier remains? Trust issues? One is in love with someone else? They're on opposite sides of a conflict? One holds a secret?
+*The legal barrier is gone, but what emotional, political, or personal barrier remains? Trust issues? One is in love with someone else? They're on opposite sides of a conflict? One holds a secret?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **When does obligation become choice?**
 
-At what point do they stay together because they want to, not because they must?
+*At what point do they stay together because they want to, not because they must?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1065,17 +1099,17 @@ If yes:
 
 **What political problem does their union solve?**
 
-Ends a war? Unites rival houses? Fulfills prophecy? Secures resources?
+*Ends a war? Unites rival houses? Fulfills prophecy? Secures resources?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Who benefits from their union? Who's threatened by it?**
-
-**Who wants your characters together, and why? Who wants them apart, and why?**
 
 *(Write your answer below)*
 

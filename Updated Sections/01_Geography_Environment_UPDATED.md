@@ -928,9 +928,7 @@ In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Ha
 
 #### Do your characters undertake a significant journey?
 
-*The road is where walls come down. What would a long journey together reveal about each of them?*
-
-**Describe the most important journey in your story. Where does it go, how long does it take, and what happens between your characters during the journey?**
+*The road is where walls come down. What would a long journey together reveal about each of them? Where does it go, how long does it take, and what happens between your characters during the journey?*
 
 *(Write your answer below)*
 
@@ -941,6 +939,7 @@ In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Ha
 &nbsp;
 
 ---
+
 ## Isolated Locations
 
 Isolation is romance's secret weapon. When characters can't leave, they can't avoid each other, and avoidance is the enemy of romantic development. Isolated settings force confrontation, require cooperation, and create the kind of pressure that transforms reluctant attraction into something undeniable.
@@ -953,13 +952,9 @@ And remember: when characters finally *could* leave but choose to stay, that cho
 
 ---
 
-## Isolated Locations
-
 #### What isolated locations exist?
 
-*Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:*
-
-**Describe an isolated or trapped location in your world. What kind of place is it, why do people end up there, and what makes leaving difficult?**
+*Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions. Describe an isolated or trapped location in your world: what kind of place is it, why do people end up there, and what makes leaving difficult?*
 
 *(Write your answer below)*
 
@@ -971,9 +966,7 @@ And remember: when characters finally *could* leave but choose to stay, that cho
 
 #### How does the isolation generate romantic pressure?
 
-*Isolation alone isn't enough — it's the logistics of confinement that force intimacy. What about this space means your characters can't avoid each other? Think about shared meals, narrow corridors, mandatory pairings, limited beds, communal bathing, arguments with nowhere to storm off to.*
-
-**In your trapped/isolated setting, what space must the characters share? What daily routine forces interaction? Where do they go after an argument when there's nowhere to go? At what point could they leave — and what does choosing to stay mean?**
+*Isolation alone isn't enough — it's the logistics of confinement that force intimacy. What space must the characters share? What daily routine forces interaction? Where do they go after an argument when there's nowhere to go? At what point could they leave — and what does choosing to stay mean?*
 
 *(Write your answer below)*
 
@@ -984,6 +977,7 @@ And remember: when characters finally *could* leave but choose to stay, that cho
 &nbsp;
 
 ---
+
 ## Geography as Emotional Landscape
 
 The physical world may support, or oppose, the emotional journey that is happening in your story. A romantic encounter would feel very different if it were happening in a sunny field versus a ruined castle. A confession made during a storm would have much greater emotional impact than a confession made while everything was quiet.

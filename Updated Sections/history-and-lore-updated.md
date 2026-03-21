@@ -260,23 +260,35 @@ Elite record-keeping is one thing, but what do common people actually *know* abo
 **Which are most common in your world?**
 Think about how your characters learned the history they know. Songs? Grandparents' stories? Temple teachings? Two characters who learned history through different channels may "know" completely different pasts.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What history do children learn?**
 What stories are they told? What do they grow up "knowing" about the past? The stories children absorb become the beliefs adults struggle to question, even when they fall in love with someone those stories told them to hate.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a gap between elite and common historical knowledge?**
 Do scholars know different things than farmers? If your characters come from different classes, they may have been taught fundamentally different histories of the same events.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Did your protagonist and love interest learn history through different channels?**
 *A character who learned history through bardic songs knows a romanticised version. A character who read court archives knows a politicised version. When they compare what they "know," the clash isn't about facts — it's about whose truth counts. This is a rich source of early-relationship conflict.*
@@ -304,19 +316,25 @@ What survives shapes what your characters can discover — and what secrets stay
 
 Stone buildings? Written records? Magical artifacts? Oral traditions? Bloodline memories?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's been lost?**
 
 What kinds of knowledge, artifacts, or records have been destroyed or forgotten?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-**Why was it lost?**
+&nbsp;
+
+&nbsp;
 
 **What knowledge, artifacts, or records have been lost in your world, and why? Consider war/conquest, natural disaster, deliberate destruction, neglect, or magical sealing.**
 
@@ -330,20 +348,26 @@ _______________________________________________________________
 
 **Are there ruins, artifacts, or fragments that hint at what's lost?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does this lost knowledge matter for your story?**
 If your characters discovered what was lost, how would it change things? Would it dissolve their obstacle, deepen it, or reveal that the obstacle was built on a lie? Lost knowledge matters most when finding it has consequences for the romance.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
-
-**How much does your world actually know about its past?**
 
 **For each era of your world's past (recent memory, a few generations ago, centuries ago, and mythic past), how well known is the history and how accurate is what people believe? Where does history blur into myth?**
 
@@ -359,15 +383,23 @@ _______________________________________________________________
 
 At what point does "this happened" become "the stories say"?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are there historical "facts" everyone believes that might be wrong?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -389,21 +421,35 @@ What would change if your characters discovered the truth? Would it dissolve the
 **Who knows the real history?**
 Everyone but pretends not to? Secret societies? Ancient beings? No one alive?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do your characters discover this hidden history?**
 How and when? Historical discoveries should complicate as much as they clarify.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does learning the truth change everything?**
 Does it explain why they're forbidden? Reveal they're not who they thought? Prove that the hatred between their peoples was manufactured?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

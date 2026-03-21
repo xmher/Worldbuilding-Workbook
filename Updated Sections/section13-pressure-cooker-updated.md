@@ -861,12 +861,24 @@ Think of escalation in terms of scale. Most stories move through multiple levels
 **Initial proximity level:**
 How close are they forced to be at the start?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What increases the pressure over time?**
 Space gets smaller, time gets shorter, stakes get higher, others leave so they're more alone, danger increases, walls between them (literal or figurative) come down.
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Map the scale progression:**
 
@@ -880,12 +892,24 @@ ___
 **The peak pressure moment:**
 When proximity is most intense, most inescapable:
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What finally releases the pressure?**
 Do they escape? Complete the mission? Confess feelings? Get external rescue? Does the pressure cooker end, or do they transform within it?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -910,17 +934,35 @@ In *A Court of Mist and Fury*, Feyre's nightmares become the vulnerability that 
 **What assumptions do they have to revise after seeing each other constantly?**
 What did they think about the other that turns out to be wrong?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What vulnerability is impossible to hide in close quarters?**
 Nightmares, illness, fear, grief, need, habits, weaknesses. What can't be concealed?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How are they different by the time the confinement ends?**
 What has proximity taught them about themselves and each other?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Map the belief shift that proximity forces.**
 *What does each character believe about the other at the start of confinement? What do they believe by the end? The gap between these two beliefs is the arc that proximity creates.*
@@ -998,22 +1040,38 @@ Reid and Lou's transition out of forced proximity in *Serpent & Dove* was trigge
 **When the pressure cooker ends, what changes?**
 Is it sudden (the siege breaks, the mission ends) or gradual (the constraints loosen over time)?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does each character do first when they're free?**
 Do they seek each other out, or do they pull away? Why?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What do they miss: the person, or the situation?**
 Be honest. The answer might be different for each character, and it might not be flattering.
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What lingers from the pressure cooker period?**
-*Confinement leaves traces. Check which of these resonate for your story and fill in the specifics.*
-
-**What lingers after the pressure cooker period? Consider: secrets kept during confinement, habits formed together, sensory memories that ambush them, guilt about things said or done, knowledge of vulnerabilities seen, and private jokes or rituals.**
+*Confinement leaves traces. Consider: secrets kept during confinement, habits formed together, sensory memories that ambush them, guilt about things said or done, knowledge of vulnerabilities seen, and private jokes or rituals.*
 
 *(Write your answer below)*
 
@@ -1026,12 +1084,24 @@ ___
 **What act of choice proves the connection is real?**
 Not a grand gesture necessarily. Sometimes it's small: a message sent, a door left open, a return that didn't have to happen. What does the character do when they're free that proves they'd choose this person without the pressure?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can the relationship survive without the external pressure that created it?**
 This is the honest question. Some relationships are forged in the fire and tempered by freedom. Others were only possible because the fire was burning. Which is yours?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1064,7 +1134,13 @@ Weak answers aren't useless. They can work as *emotional* constraints that layer
 **What is the cost of separation in your story?**
 The consequences should be severe enough that staying together isn't just convenient but necessary.
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

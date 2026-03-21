@@ -1171,9 +1171,7 @@ Forbidden love has its excitement in the risk involved. Ensure that your reader 
 
 **Which taboos directly affect your romance?**
 
-Pick 2-3 that create real obstacles:
-
-**Pick your most important taboos and describe how each specifically affects the romance.**
+*Pick 2-3 that create real obstacles. Describe how each specifically affects the romance.*
 
 *(Write your answer below)*
 
@@ -1197,23 +1195,28 @@ Consequences should escalate with severity:
 
 This is often a pivotal early scene — the first boundary crossed:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What taboo must they break to be together fully?**
 
 This might be the climactic choice — the line they can't uncross:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Sexuality, Desire & Intimacy Norms
 
 Every society has its own way of regulating desire. The question is: what counts as appropriate sexual behaviour, who can pursue whom sexually, and what happens to individuals (notably women) if they violate these norms? The answers to these questions reside at the centre of romantic conflict in the genre. In addition to external barriers such as war and geography, the expectations surrounding purity are internalised to the point that they become part of the character's inner dialogue, defining both what she does and what she believes she may or may not want.
@@ -1236,41 +1239,49 @@ When writing this type of romance arc, take care when writing the transition. In
 
 Is virginity prized? For whom? What's the double standard? Are there visible markers of sexual status (clothing, rituals, titles)?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How are these norms enforced?**
 
 Social shame? Physical punishment? Religious consequence? Loss of status or marriageability? Who does the enforcing: family, religious authorities, the community at large?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What happens to someone who violates these norms?**
 
 Particularly for women. What are the consequences of being perceived as sexually transgressive? Are they the same for men?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does your protagonist's relationship with desire affect their romance?**
 
 Do they feel shame? Freedom? Confusion? Curiosity they've been taught to suppress? How does their love interest challenge or affirm their sense of self?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Where does the double standard live in your world?**
 
@@ -1305,17 +1316,17 @@ The way people react to your character when they enter a space can represent the
 
 **How does information travel in your society?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What destroys a reputation?**
 
-What's the kind of scandal that follows someone forever? Is it the same for all classes and genders?
-
-**What would destroy the reputation of someone in the protagonist's position? What about the love interest's position?**
+*What's the kind of scandal that follows someone forever? Is it the same for all classes and genders? What would destroy the reputation of someone in the protagonist's position? What about the love interest's position?*
 
 *(Write your answer below)*
 
@@ -1329,35 +1340,41 @@ What's the kind of scandal that follows someone forever? Is it the same for all 
 
 Some cultures allow redemption; others don't. Is there a path back, or is ruin permanent?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Who are the gossips and rumormongers in your story?**
 
 Who spreads information — maliciously or carelessly? Who might your characters need to avoid, bribe, or silence?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What rumors might circulate about your characters' relationship?**
 
 Even if nothing has happened yet, what might people *say* is happening?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What's the worst thing that could be said about either character?**
 
-The rumor that would destroy them — true or not:
-
-**What is the worst possible rumor that could circulate about your protagonist? About your love interest?**
+*The rumor that would destroy them — true or not. What is the worst possible rumor that could circulate about your protagonist? About your love interest?*
 
 *(Write your answer below)*
 
@@ -1371,13 +1388,16 @@ The rumor that would destroy them — true or not:
 
 What precautions do they take? What lies do they tell? What image do they maintain?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Privacy, Surveillance & Being Watched
 
 It is when we are denied our private moments that we begin to value them. But private moments are hard to come by; it is this lack of privacy that creates the feeling of earning intimacy.
