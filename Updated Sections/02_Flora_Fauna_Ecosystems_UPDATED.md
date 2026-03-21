@@ -312,9 +312,7 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
 
 #### *Does your love interest have an animal companion?*
 
-*Does the animal accept your protagonist? That small moment of acceptance can mark relationship progression.*
-
-**Does your love interest have an animal companion? If so, what is it, what is its name, and what does the animal mean to them?**
+*Does the animal accept your protagonist? That small moment of acceptance can mark relationship progression. If so, what is it, what is its name, and what does the animal mean to them?*
 
 *(Write your answer below)*
 

@@ -784,12 +784,24 @@ Early on, relief might mean escaping each other. Later, it might mean finding ea
 **Is there a moment when one seeks out the other during a relief period, when they didn't have to?**
 The choice to be together when they could be apart:
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens when relief is taken away?**
 When even the small escapes disappear, and there's no break from the pressure:
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -806,17 +818,35 @@ However, the breaking point needs to feel like it was earned. There needs to be 
 **What does the pressure-release moment look like in your story?**
 A confession? A kiss? A fight that turns into something else? Magic that escapes? A moment of vulnerability that can't be taken back?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does your worldbuilding externalise the internal tension?**
 Does magic respond to their emotions? Does the environment shift? Does something physical happen that makes the invisible visible?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What restraint has to break for this moment to happen?**
 What have they been holding back, and what finally makes it impossible to hold any longer?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

@@ -1081,47 +1081,65 @@ Even in cultures where oaths are entirely symbolic, the consequences of breaking
 
 Military oaths? Family promises? Honour debts? Sworn service? Magical bargains? A promise to the dead?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does breaking one's word cost in your culture?**
 
 Social disgrace? Exile? Loss of rank or magic? Physical pain? Somatic illness? Something worse?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are oaths in your world purely cultural, or do they carry magical weight?**
 
 Can a bargain be literally binding? Does it manifest physically (a tattoo, a mark, a compulsion)? What happens if someone tries to break a magically enforced oath?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does your world's oath system have loopholes?**
 
 Can precise wording be exploited? Is the letter or the spirit of the promise what matters? How might your characters use the system's rigidity to create space for personal choice?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What oath conflicts with your characters' romance?**
 
 Which promise must be broken, or creatively reinterpreted, for them to be together? Did the character know what they were giving up when they made the oath, or did love change the equation?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Write the oath.**
 
-If precise wording matters in your world, draft the actual words of the promise that binds your character. Then look for the loophole. What could those words mean that the speaker didn't intend?
-
-**If a character has sworn an oath that conflicts with the romance, describe: What are the exact words? Who was it sworn to? What was it intended to mean vs. what could it literally mean (the loophole)? What does it cost to break outright?**
+*If precise wording matters in your world, draft the actual words of the promise that binds your character. What are the exact words? Who was it sworn to? What was it intended to mean vs. what could it literally mean (the loophole)? What does it cost to break outright?*
 
 *(Write your answer below)*
 
@@ -1141,7 +1159,7 @@ Forbidden love has its excitement in the risk involved. Ensure that your reader 
 
 **What actions, topics, or behaviors are taboo in your culture?**
 
-**What behaviors are taboo in your world? Consider physical taboos (touch, proximity, eye contact), verbal taboos, social taboos, magical taboos, and sexual taboos.**
+*Consider physical taboos (touch, proximity, eye contact), verbal taboos, social taboos, magical taboos, and sexual taboos.*
 
 *(Write your answer below)*
 

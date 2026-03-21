@@ -657,31 +657,37 @@ Violet's true surpassing comes about when her lightning signet manifests in Four
 
 *The moment the student surpasses the teacher is one of the genre's definitive romantic turning points — the shift from hierarchy to partnership. What triggers it? A crisis that demands more than what they were taught? An instinctive act their mentor couldn't replicate?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does the love interest respond when they're surpassed?**
 
 *This is a character test. Do they celebrate it, fear it, resent it, or kneel? In romantasy, the right partner is the one who sees your power and stands beside it rather than trying to contain it. Rhysand made Feyre High Lady. Xaden admitted Violet was the only one capable of killing him. Casteel knelt.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Does surpassing the teacher change the romantic dynamic?**
 
 *It should. The relationship that began as "I'll teach you" needs to become "we teach each other" or "you don't need me anymore, but you still want me." The shift from need to choice is where the romance deepens.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 

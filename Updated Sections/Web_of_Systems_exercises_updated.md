@@ -774,8 +774,6 @@ If a system isn't connected, don't panic. Don't leave it alone either. Below are
 
 *Trace backward from the obstacle. The more systems you can connect to it, the more earned it feels.*
 
-**What is your biggest romantic obstacle? Trace it backward: which worldbuilding systems (politics, history, culture, magic, economy, religion) generate this obstacle, and how do they compound to make it feel earned?**
-
 *(Write your answer below)*
 
 &nbsp;
@@ -799,17 +797,19 @@ If a system isn't connected, don't panic. Don't leave it alone either. Below are
 
 *The event doesn't need to be dramatic — a famine, a discovery, a treaty can reshape multiple systems at once.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Integration Exercise
 
 Choose one major worldbuilding element to test its connections:
 
 **The element:** ________________________________________________
-
-**Choose one major worldbuilding element and test its connections. How does it affect geography, economy, politics, culture, and your romance? If it doesn't connect to at least three of these, it might be decorative.**
 
 *(Write your answer below)*
 

@@ -1300,9 +1300,7 @@ And what would it cost them to stay? Map both sides. The answer reveals whether 
 
 ## Economic Independence & Dependence
 
-**Before the relationship, how economically independent is each character?**
-
-**How economically independent is each character? Could they survive on their own?**
+**How economically independent is each character before the relationship? Could they survive on their own?**
 
 *(Write your answer below)*
 

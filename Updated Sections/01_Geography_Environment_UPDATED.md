@@ -888,13 +888,9 @@ In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Ha
 
 ---
 
-## Travel & Distance
-
 #### How do people typically travel in your world?
 
-*The mode of travel shapes intimacy. Dragonback forces touching. A carriage allows conversation. Walking side by side is different from riding single-file. What does your world's travel look like — and what proximity does it create?*
-
-**What is the primary mode of travel in your world? Who uses it, and what kind of physical proximity does it create between your characters?**
+*The mode of travel shapes intimacy. Dragonback forces touching. A carriage allows conversation. Walking side by side is different from riding single-file. What does your world's travel look like — and what proximity does it create between your characters?*
 
 *(Write your answer below)*
 
@@ -920,9 +916,7 @@ In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Ha
 
 #### How long does travel take between key locations?
 
-*Distance creates stakes. A week apart feels different than a year. How painful is separation in your world?*
-
-**How long does it take to travel between your key locations — capital to border, one character's home to the other's, and across the dangerous region?**
+*Distance creates stakes. A week apart feels different than a year. How painful is separation in your world? How long does it take to travel between your key locations — capital to border, one character's home to the other's, and across the dangerous region?*
 
 *(Write your answer below)*
 

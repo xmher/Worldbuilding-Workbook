@@ -470,10 +470,8 @@ A world without the sanitation we have today will be smelly. Cities smell. Peopl
 
 The key to using this technique is selective realism. Identify the general odour of your world (peat smoke, river mud, tallow candles), then describe your love interest's unique scent against that background. Give the pleasant scent an in-world justification: herbal wash, scented oils, magical essence, or simply the poetic focus of a narrator who's falling in love and notices only the good. Show how scent makes the character *feel* (calmed, electrified, achingly nostalgic) rather than cataloguing what they literally smell. And real humans are drawn to partners whose scent signals genetic compatibility, so a heroine overwhelmed by her love interest's scent isn't just genre convention. There's biology underneath it.
 
-**What does your world smell like, and what does your love interest smell like against that background?**
-*Scent is one of romantasy's most powerful sensory tools. Identify the baseline smells of your world, then layer your love interest's distinctive scent on top. The contrast between the ordinary and the intoxicating is what makes it land on the page.*
-
 **What does your world generally smell like? What does your love interest smell like against that background? What's the in-world justification for their scent, and how does it make your protagonist feel?**
+*Scent is one of romantasy's most powerful sensory tools. Identify the baseline smells of your world, then layer your love interest's distinctive scent on top. The contrast between the ordinary and the intoxicating is what makes it land on the page.*
 
 *(Write your answer below)*
 
@@ -499,10 +497,8 @@ Salting, smoking, drying, pickling, cold storage, magical preservation:
 
 Fresh food daily? Seasonal eating? Long-term storage possible?
 
-**What food is available to different classes?**
-*Food marks class in visible ways. A shared meal across class lines reveals everything: the character who's never eaten anything sweet reacts differently to a feast than the one who takes it for granted.*
-
 **What food is available to different classes in your world (wealthy, common, poor)? How do these differences become visible when your characters share a meal?**
+*Food marks class in visible ways. A shared meal across class lines reveals everything: the character who's never eaten anything sweet reacts differently to a feast than the one who takes it for granted.*
 
 *(Write your answer below)*
 
@@ -512,10 +508,8 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 
 &nbsp;
 
-**How does food reveal the dynamic between your characters?**
-*Shared meals are power negotiations. Who hosts, who serves, who speaks, who may leave — all of this communicates status, care, and vulnerability. A character who has never eaten anything sweet reacts differently to a feast than the character who takes it for granted.*
-
 **What does your protagonist typically eat? What does your love interest typically eat? Is there a food gap between them, and what would a shared meal reveal about their dynamic? Could a meal become a turning point in their relationship?**
+*Shared meals are power negotiations. Who hosts, who serves, who speaks, who may leave — all of this communicates status, care, and vulnerability. A character who has never eaten anything sweet reacts differently to a feast than the character who takes it for granted.*
 
 *(Write your answer below)*
 

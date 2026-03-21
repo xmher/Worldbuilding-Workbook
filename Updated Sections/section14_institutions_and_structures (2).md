@@ -762,23 +762,37 @@ Guilds, apprenticeships, indentured service, and debt bondage create obligation 
 
 Guild membership, apprenticeship, indentured service, debt bondage, employment contract, family business obligation, trade partnership?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Why can't they simply leave?**
 
 Debt that must be repaid? Contract with penalties? No other options? Would lose everything they've worked for? Legal consequences?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How long are they bound?**
 
 *Duration shapes the romance. A short-term bond creates urgency — they must figure out their feelings before the timer runs out. A lifetime bond forces them to find a way to coexist, which is slow burn territory.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Economic Hierarchy
 
@@ -786,9 +800,13 @@ _______________________________________________________________
 
 Master and apprentice? Employer and worker? Creditor and debtor? Guild ranks? Business partners with unequal stakes?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If there's a power imbalance, how does it affect the relationship?**
 
@@ -796,13 +814,23 @@ Economic dependency creates a specific kind of romantic tension that's different
 
 Can they be equals, or does one have power over the other's livelihood? *(Reference Section 4 for economic power dynamics)*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would happen to the less powerful person if the relationship ended badly?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Forced Proximity Through Work
 
@@ -810,17 +838,25 @@ _______________________________________________________________
 
 Shared workspace, shared housing, required collaboration, travelling for business, dependent on the same clients?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What risks does workplace romance create?**
 
 Loss of position, scandal, accusations of favouritism, contract violation, guild expulsion?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

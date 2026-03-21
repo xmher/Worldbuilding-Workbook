@@ -551,13 +551,25 @@ The story you're telling needs to run two clocks: one for the fantasy plot, one 
 
 *(War reaches the city, curse takes effect, prophecy deadline passes, trial concludes, army arrives)*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Your romantic plot deadline:**
 
 *(Point of no return for the relationship, final choice about each other, moment after which nothing can be the same)*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do these deadlines converge?**
 
@@ -569,7 +581,13 @@ _______________________________________________________________
 
 *Separate deadlines create the "two stories in one book" problem. If your fantasy climax and your romantic climax happen at different times, one will feel like an afterthought. Look for ways to make the romantic choice and the fantasy choice the same choice.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If your deadlines don't converge yet, use this to find the connection:**
 

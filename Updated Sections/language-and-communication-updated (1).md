@@ -889,10 +889,8 @@ Literacy is power, and in romantasy, power imbalances create tension. Who can re
 
 &nbsp;
 
-**Can your characters read and write?**
-Literacy can be a source of power, shame, or connection. How does each character's relationship to written language shape their world?
-
 **What is your protagonist's literacy level? What is your love interest's literacy level?**
+*Literacy can be a source of power, shame, or connection. How does each character's relationship to written language shape their world?*
 
 *(Write your answer below)*
 
@@ -905,9 +903,13 @@ Literacy can be a source of power, shame, or connection. How does each character
 **If one is literate and one isn't, how does this affect them?**
 Does the literate one teach? Is there a power imbalance? Shame? Practical problems? Teaching someone to read is as intimate as teaching them your language.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Letters & Written Communication
 
@@ -915,16 +917,8 @@ Written words can be read and re-read; they can be hidden or rediscovered. A sep
 
 In *Romancing Mister Bridgerton*, Penelope's secret life as Lady Whistledown gives her a written voice that is sharp, biting, and powerful, everything her public wallflower persona is not. When Colin finds her journals and eventually learns it was her who wrote them, the tension shifts from romantic pursuit to a clash of egos: he realises he never truly knew the woman he'd spent years overlooking. A written self can be braver than a spoken self, and the space between the page and the person is nothing but fuel for the fire of romance.
 
-**Do your characters exchange letters or written messages?**
-*Written words can be reread, hidden, and discovered. A letter allows for confessions that spoken conversation can't — and creates physical evidence of feeling that can be found by the wrong person.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Map a letter or written exchange between your characters.**
-
 **Do your characters communicate in writing? What do they write, what can they say on paper that they can't say aloud, how does it reach the other person, what risk exists in it being written, and how does the recipient react?**
+*Written words can be reread, hidden, and discovered. A letter allows for confessions that spoken conversation can't — and creates physical evidence of feeling that can be found by the wrong person.*
 
 *(Write your answer below)*
 

@@ -830,20 +830,20 @@ Class also defines an individual in a way that continues long after they become 
 In *ACOTAR*, Feyre is brought to the Spring Court from such extreme poverty that she can't even read. She has no knowledge of the customs of the court, doesn't know which fork to use, and has no idea how to interact with a world where people can afford the luxury of boredom. This class barrier doesn't disappear once Feyre and Tamlin fall in love. Instead it influences each of their interactions, each misunderstanding, every moment that Tamlin takes for granted something Feyre has never known. In *Bridgerton*, the Sharma family must navigate a class system they weren't born into, a system in which knowledge of the rules is as important as the money one possesses, and one misstep in etiquette could destroy all that they've worked for.
 
 **What social hierarchy exists?**
-Map it from highest to lowest, including what determines class (birth, wealth, magic, achievement):
 
-_______________________________________________________________
+*Map it from highest to lowest, including what determines class (birth, wealth, magic, achievement):*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Where do your characters fall?**
-The larger the gap, the greater the romantic tension. What does each person assume as normal that the other has never experienced?
 
-**What is each character's class position in the social/political hierarchy?**
+*The larger the gap, the greater the romantic tension. What does each person assume as normal that the other has never experienced?*
 
 *(Write your answer below)*
 
@@ -854,25 +854,40 @@ The larger the gap, the greater the romantic tension. What does each person assu
 &nbsp;
 
 **How many ranks separate them?**
-Same social class? One or two classes apart (scandalous but possible to bridge)? An extreme class gap (servant/royal)?
 
-_______________________________________________________________
+*Same social class? One or two classes apart (scandalous but possible to bridge)? An extreme class gap (servant/royal)?*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What laws enforce class separation?**
-Are there restricted areas or forbidden contact? What are the consequences if someone behaves above their station?
 
-_______________________________________________________________
+*Are there restricted areas or forbidden contact? What are the consequences if someone behaves above their station?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What social consequences exist for cross-class relationships?**
-Will they lose their status? Be disowned? Become socially isolated?
 
-_______________________________________________________________
+*Will they lose their status? Be disowned? Become socially isolated?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -880,27 +895,35 @@ _______________________________________________________________
 
 **What species exist in your world?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What legal restrictions exist between species?**
 
-Intermarriage? Mixed-species children? Enslaved or second-class species? Segregated territories?
+*Intermarriage? Mixed-species children? Enslaved or second-class species? Segregated territories?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If your characters are different species, what laws affect them?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 

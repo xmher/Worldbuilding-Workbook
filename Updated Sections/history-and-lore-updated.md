@@ -191,9 +191,13 @@ Whoever controls the records controls the narrative. Their biases become your wo
 **Who keeps history in your world?**
 Focus on the keepers most relevant to your story. Whose version of history do your characters know, and whose version have they never heard?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What institutions preserve the past?**
 Institutions that hold history can become plot elements in their own right: libraries to break into, forbidden archives, restricted knowledge that could change everything about what your characters believe.
@@ -218,16 +222,24 @@ Institutions that hold history can become plot elements in their own right: libr
 **What perspectives are missing from official history?**
 The conquered? The poor? Certain species? Magic users? The missing perspectives are often where the real story lives, and where your characters might find the truth that changes everything.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are there competing versions of history?**
 Different peoples telling different stories about the same events? One's heroes might be the other's villains. One's glorious victory might be the other's massacre. These aren't lies. They're different truths, and they create conflict that isn't about facts but about perspective.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
