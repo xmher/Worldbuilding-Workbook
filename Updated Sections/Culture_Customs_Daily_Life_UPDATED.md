@@ -2645,33 +2645,41 @@ Additionally, allow secondary characters to reinforce the consequences of breaki
 
 Social consequences — awkwardness, offense, whispers, retaliation:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If your characters are from different classes, how do they navigate interaction?**
 
 Do they follow the rules? Chafe against them? Have a private space where class doesn't apply?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What social space allows them to interact more freely than usual?**
 
 Markets? Festivals? Neutral territory? Magical spaces? Private chambers?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### What does the "slip" look like between your characters?
 
-*The most revealing moments in cross-class romance are the accidental ones — a first name used without thinking, a hand reached for instinctively, eye contact held a beat too long. What moment of "I forgot myself" reveals the truth beneath the social performance?*
-
-**Describe a moment when a character slips on etiquette — breaks a class or rank rule without meaning to. What is the slip, who makes it, who notices, and what does it reveal?**
+*The most revealing moments in cross-class romance are the accidental ones — a first name used without thinking, a hand reached for instinctively, eye contact held a beat too long. Describe a moment when a character slips on etiquette — breaks a class or rank rule without meaning to. What is the slip, who makes it, who notices, and what does it reveal?*
 
 *(Write your answer below)*
 
@@ -2684,8 +2692,6 @@ _______________________________________________________________
 #### How do your characters behave differently in public versus private?
 
 *When characters maintain perfect hierarchy in front of others but drop it behind closed doors, they create a secret world. What does the shift look like between your characters — and what would happen if someone saw the private version?*
-
-**How do your characters interact differently in public versus in private? What would happen if someone saw the private version?**
 
 *(Write your answer below)*
 

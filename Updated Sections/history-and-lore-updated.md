@@ -1461,8 +1461,6 @@ Xaden's scars confession in *Fourth Wing* follows a similar structure. It happen
 
 The best scenes that show a history-reveal are all structured similarly: a trigger (a question, a crisis, a boundary that must be explained), the actual revelation (this must be clear, cost the speaker dearly, and take place in a private, confined area), the listener's response to that revelation (the listener's response must be observable -- the listener touches them, the listener withdraws from them, the listener gets angry, the listener makes a new promise -- as opposed to only internal), and a changed relational dynamic that shifts the way the two people relate to each other. Location is also incredibly important here. Beds, isolated cabins, and automobiles (*Twilight*'s car-ride confession) serve as "truth chambers" because they are small, private, and have eliminated public performance. Ideally, you want to put your reveal close enough to a point where the reader can see evidence of the character's concern for the other person, yet far enough away so that the larger issues of the story can still explode later. And crucially, the listener should never have to forgive the speaker immediately after learning this information. The most compelling revelations provide the listener with the opportunity to reflect on the experience: withdrawal that looks like choice and not rejection.
 
-**Does your story include a history-reveal scene?**
-
 **Plan your history-reveal scene: Which character reveals hidden history, and what do they share? What triggers the reveal (crisis, intimacy, accusation)? Where does it happen? How does the listener react? Does it bring them closer or drive them apart? Is it a repair confession or an identity rupture?**
 
 *(Write your answer below)*
@@ -1473,7 +1471,6 @@ The best scenes that show a history-reveal are all structured similarly: a trigg
 
 &nbsp;
 
-**Map the structure of your history-reveal scene:**
 *The best reveals follow a specific architecture. Use the prose above to check that your reveal has all the structural elements that make it land.*
 
 **Map the architecture of your history-reveal scene: What forces the reveal? Where does it happen (a small, private space)? What does it cost the speaker to share? What does the listener observably do in response? How does their dynamic change afterward? Does the listener get space to process and choose to return?**

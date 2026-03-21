@@ -740,17 +740,6 @@ Who has access to information and who does not, shapes power dynamics in romance
 
 &nbsp;
 
-**What do people write with?**
-*Writing tools affect who can communicate in writing and how portable that communication is. A quill and ink require a desk; a charcoal stick works anywhere. What your characters have access to shapes what they can say and where they can say it.*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 **How are books made?**
 *How books are produced determines how scarce they are — and scarcity changes their meaning. In a world where every book is hand-copied, giving one is an act of extraordinary generosity and intimacy.*
 

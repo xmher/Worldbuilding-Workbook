@@ -2365,49 +2365,64 @@ A large number of fantasy worlds contain magic which binds the words of those wh
 Feyre's bargain with Rhysand in *ACOTAR* requires her to spend one week per month in the Night Court. At first glance, it seems like a terrible thing: a powerful male claiming a human woman's time against her will. But the requirement to spend time in the Night Court becomes the catalyst for the real romance. It forces proximity, creates a space away from Tamlin, and gives Feyre a reason to keep returning to the person she's actually falling for. What appeared to be a cage created by the magic was in reality an opportunity for escape.
 
 **What promises in your world are magically enforced?**
-What happens when they're broken?
 
-_______________________________________________________________
+*What happens when they're broken?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is your character bound by any magical oath or agreement?**
-What are the terms, and who holds the other end?
 
-_______________________________________________________________
+*What are the terms, and who holds the other end?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does this binding create an obstacle to the romance?**
-Something they've promised that conflicts with what they want?
 
-_______________________________________________________________
+*Something they've promised that conflicts with what they want?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Could a magical bargain be used for the romance?**
-A binding that protects, legitimises, or forces proximity? What would the terms be, and who would propose it?
 
-_______________________________________________________________
+*A binding that protects, legitimises, or forces proximity? What would the terms be, and who would propose it?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's the most dangerous promise your character could make? What would push them to make it?**
-Love makes people offer things they shouldn't. What would your protagonist risk for the one they love?
 
-_______________________________________________________________
+*Love makes people offer things they shouldn't. What would your protagonist risk for the one they love?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -2416,22 +2431,28 @@ _______________________________________________________________
 You've built the system. Now let's make sure it actually works for the story you're telling, both the plot and the romance.
 
 **How does magic create or complicate your central conflict?**
-Not just "there's a magical villain," but how do the rules of your magic shape what's possible?
 
-_______________________________________________________________________________
+*Not just "there's a magical villain," but how do the rules of your magic shape what's possible?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What can your antagonist do with magic that makes them a genuine threat?**
-What limits prevent them from simply winning immediately?
 
-_______________________________________________________________________________
+*What limits prevent them from simply winning immediately?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Act 1: Setup
 

@@ -2385,37 +2385,55 @@ At a certain point in the story, each of the characters will have to opt for the
 
 **If they choose each other, what does the protagonist lose?**
 
-Community, family, identity, safety, purpose:
+*Community, family, identity, safety, purpose:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does the love interest lose?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are these losses worth it?**
 
-The answer should be "yes, but barely" — the cost should be real enough that choosing each other means something.
+*The answer should be "yes, but barely" — the cost should be real enough that choosing each other means something.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### World Impact
 
 **Does their relationship affect the larger conflict?**
 
-Symbol of peace? Proof that reconciliation is possible? Catalyst for change? Or just two people who found each other despite everything?
+*Symbol of peace? Proof that reconciliation is possible? Catalyst for change? Or just two people who found each other despite everything?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do others react to their relationship?**
 
-**How does each side (protagonist's people and love interest's people) react to the couple being together?**
+*How does each side (protagonist's people and love interest's people) react to the couple being together?*
 
 *(Write your answer below)*
 
