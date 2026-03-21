@@ -1565,37 +1565,43 @@ War is the most extreme form of political pressure. It will separate lovers, cre
 
 **Who serves in the military?**
 
-*Military service creates duty that competes with love, and shapes who your characters are allowed to associate with.*
+*Military service creates duty that competes with love, and shapes who your characters are allowed to associate with. Volunteers? Conscripts? Nobility obligated to fight? Mercenaries? Magical warriors? A professional standing army?*
 
-Volunteers? Conscripts? Nobility obligated to fight? Mercenaries? Magical warriors? A professional standing army?
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Is military service required?**
 
-*Mandatory service can separate lovers, delay unions, or create the very proximity that sparks the romance.*
+*Mandatory service can separate lovers, delay unions, or create the very proximity that sparks the romance. For whom? At what age? For how long? Can it be avoided — and how?*
 
-For whom? At what age? For how long? Can it be avoided — and how?
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What's the social status of soldiers?**
 
-Honored? Feared? Pitied? Looked down upon? Does it vary by rank?
+*Honored? Feared? Pitied? Looked down upon? Does it vary by rank?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is either of your characters in military service?**
 
-If yes:
-
-**If a character serves in the military: Which character, what is their role/rank, why do they serve, and what have they seen or done?**
+*If yes: Which character, what is their role/rank, why do they serve, and what have they seen or done?*
 
 *(Write your answer below)*
 
@@ -1607,11 +1613,15 @@ If yes:
 
 **If one character is a soldier, how does this affect the relationship?**
 
-Absence and separation? PTSD and emotional distance? Skills that are attractive or frightening? Duty that conflicts with love?
+*Absence and separation? PTSD and emotional distance? Skills that are attractive or frightening? Duty that conflicts with love?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 _______________________________________________________________
 

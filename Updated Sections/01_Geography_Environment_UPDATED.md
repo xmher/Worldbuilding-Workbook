@@ -91,9 +91,7 @@ You may feel that if your geography does not cause friction for your characters 
 
 #### What type of geographic friction does your romance need most?
 
-*Think about the core dynamic of your love story. Do your characters need to be trapped together (proximity), kept apart (separation), or forced to negotiate over something (resource)? Most romances use more than one, but one tends to dominate.*
-
-**What type of geographic friction does your romance use most — proximity, separation, or resource? How does it show up in your story, and what does it force your characters to do?**
+*Think about the core dynamic of your love story. Do your characters need to be trapped together (proximity), kept apart (separation), or forced to negotiate over something (resource)? Most romances use more than one, but one tends to dominate. How does it show up in your story, and what does it force your characters to do?*
 
 *(Write your answer below)*
 

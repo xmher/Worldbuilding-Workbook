@@ -1470,21 +1470,25 @@ The mating bond between Feyre and Rhysand in ACOTAR has been slowly developing t
 
 *A bond snapping into place, a mark appearing, powers amplifying, a mental link opening — many of the genre's most pivotal moments happen when physical and magical vulnerability collide.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If so, is this activation wanted or feared?**
 
 *A bond that activates during intimacy can feel like cosmic confirmation, or like the universe making a choice the characters didn't get to make consciously. The difference shapes whether the moment feels like a gift or a trap.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Sensation Amplification
 
@@ -1500,43 +1504,49 @@ The best method is to treat intimate scenes the same way you treat any other sce
 
 *A sensory feedback loop, empathic sharing, a euphoric biological mechanic, amplified awareness through a bond — these aren't gratuitous. They make the intimate connection feel as extraordinary as the world your characters inhabit. If your system includes something like this, define it. If it doesn't, that's fine — skip ahead.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If so, would the intimate scene lose narrative meaning if you removed the magical element? What would be missing?**
 
 *This is the test for whether the magic is serving the story or just decorating it. If the scene works exactly the same without the lightning storm, the shield drop, or the bond activation, the magic is spectacle. If something important would be lost, the magic is earning its place.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **After your characters' intimate scene, what has changed magically?**
 
-*The best intimate scenes in romantasy aren't just emotional milestones — they're plot events. Something magical should be different afterwards that can't be undone.*
+*The best intimate scenes in romantasy aren't just emotional milestones — they're plot events. Something magical should be different afterwards that can't be undone. New bond, deepened connection, revealed secret, shifted power dynamic, consequence that can't be undone?*
 
-New bond, deepened connection, revealed secret, shifted power dynamic, consequence that can't be undone?
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
 
 **Does the magical element create aftermath that affects the plot?**
 
 *Other characters noticing the bond, magical evidence that can't be hidden, a power shift that changes the political landscape — the intimate scene should send ripples outward.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 

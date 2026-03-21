@@ -920,8 +920,8 @@ Now that you've established your world's technology level, think about how it sp
 
 &nbsp;
 
-**Where can your characters be truly alone together? Who might observe or overhear them?**
-*Privacy determines where intimacy is possible. Where and when can your characters be truly alone together — and what changes when they finally are?*
+**Where can your characters be truly alone together? Who might observe or overhear them? If one character has servants or attendants, how does that affect privacy?**
+*Privacy determines where intimacy is possible. Where and when can your characters be truly alone together — and what changes when they finally are? Attendants are witnesses: what must your characters hide even from loyal servants, and what happens if servants aren't loyal?*
 
 *(Write your answer below)*
 
@@ -930,9 +930,6 @@ Now that you've established your world's technology level, think about how it sp
 &nbsp;
 
 &nbsp;
-
-**If one character has servants/attendants, how does that affect privacy?**
-*Attendants are witnesses. What must your characters hide even from loyal servants, and what happens if servants aren't loyal?*
 
 **Does either character face medical issues? What condition, what treatment exists, and does one care for the other during illness or injury?**
 *Illness and injury create vulnerability. Caring for someone sick is intimacy of a different kind — it proves love in ways that words cannot. What might that reveal between your characters?*

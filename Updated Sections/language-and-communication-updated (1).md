@@ -19,10 +19,8 @@ This is why language works so powerfully in romance. It doesn't just create a pr
 
 Build language that creates both barriers and bridges. Make your characters work to understand each other, and make that work meaningful.
 
-**Where does your story sit on the barrier-to-bridge progression?**
-Language intimacy builds in stages. Where do your characters start, and where do they end? Mark the stages that appear in your story — these become scenes to write.
-
 **Map the communication arc between your characters. Which of these stages are present in your story, and when does each happen: complete inability to communicate, halting exchanges, functional but nuance-missing conversation, real conversation (arguing, joking, confessing), private language only they share, and silence that says everything?**
+*Language intimacy builds in stages. Where do your characters start, and where do they end? Mark the stages that appear in your story — these become scenes to write.*
 
 *(Write your answer below)*
 
@@ -61,10 +59,8 @@ The key question isn't *what languages exist in your world*. It's this: what lan
 | Scholar / illiterate | Power imbalance in written communication; teaching becomes intimate or condescending | Penelope in *Romancing Mister Bridgerton*, whose secret writing life as Whistledown gives her power Colin never suspected |
 | Spy / mark | Language as weapon; fluency is deception, and the truth of accent or mother tongue slips out under pressure | Casteel in *From Blood and Ash*, who poses as "Hawke" so convincingly that Poppy falls in love with a persona |
 
-**Which language patterns create the most tension between your characters?**
-Look at the toolkit table above. Pick the 2–3 patterns most relevant to your romance. For each one, note the specific scene or dynamic it creates.
-
 **Which language patterns from the list above are you using? For each, describe how it works between your characters and a specific scene it creates.**
+*Look at the toolkit table above. Pick the 2–3 patterns most relevant to your romance. For each one, note the specific scene or dynamic it creates.*
 
 *(Write your answer below)*
 
@@ -197,10 +193,8 @@ Do they share a language with the protagonist, or will communication itself beco
 
 &nbsp;
 
-**Do they share a common language when they first meet?**
-If not, how do they communicate initially? Gestures? A shared third language? Magic? And if they do share a language, is it native to both of them, or is one always slightly at a disadvantage?
-
 **Do your characters share a language at first meeting? If yes, is one at a disadvantage in it? If no, how do they communicate initially? What's lost in this early communication?**
+*If not, how do they communicate initially? Gestures? A shared third language? Magic? And if they do share a language, is it native to both of them, or is one always slightly at a disadvantage?*
 
 *(Write your answer below)*
 
@@ -400,10 +394,8 @@ One way to avoid this is to add at least one constraint.
 | Power asymmetry (one side controls the translator) | Translation becomes political, not neutral |
 | Intimacy gating (only bonded lovers can "hear" thoughts) | The translation itself becomes a marker of relationship depth |
 
-**If your world has magical translation, what breaks it?**
-Perfect translation kills tension. Pick at least one constraint from the table above and describe how it affects your characters' communication.
-
 **What translation constraint are you using, how does it fail at the worst possible moment, and what do your characters do instead?**
+*Perfect translation kills tension. Pick at least one constraint from the table above and describe how it affects your characters' communication.*
 
 *(Write your answer below)*
 

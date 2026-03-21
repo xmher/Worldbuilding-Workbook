@@ -899,25 +899,37 @@ Cyclical history creates a specific kind of romantic dread: the sense that your 
 
 **Do people compare your characters to this historical precedent?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are they doomed to repeat history, or determined to break the cycle?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would breaking the cycle require?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
 Having famous ancestry can create expectations and obligations. Inheriting a legendary role means living in someone's shadow, and that shadow falls over the relationship too. If the last person who held your character's position loved unwisely and caused a catastrophe, everyone will be watching to see if your character makes the same mistake. If their ancestor was the one who ended the last forbidden romance, there's a grim irony in your character falling into one. The legend doesn't have to be about love to distort a love story, either. A military hero's descendant may feel obligated to put duty first, and a traitor's descendant may feel they don't deserve love at all.
-
-**Is either character descended from a famous historical figure?**
 
 **Is either character descended from a famous historical figure? Which character, who was the ancestor, and what expectations does that legacy create?**
 
@@ -928,9 +940,6 @@ Having famous ancestry can create expectations and obligations. Inheriting a leg
 &nbsp;
 
 &nbsp;
-
-**Does either character hold a position once held by someone legendary?**
-Did the predecessor succeed or fail? Love or lose?
 
 **Does either character hold a position once held by someone legendary? What was the position, who held it before, what did they do, and what shadow does this cast on your character?**
 
@@ -945,9 +954,13 @@ Did the predecessor succeed or fail? Love or lose?
 **How does living in a legend's shadow affect your character?**
 Do they try to live up to it? Rebel against it? Feel crushed by impossible expectations? Does the legend's story make their own love feel inevitable, or doomed?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

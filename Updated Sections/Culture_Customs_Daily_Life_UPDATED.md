@@ -1913,33 +1913,41 @@ One gender? Either? Families? Does it vary by class?
 
 Must families approve? Arrange meetings? Give formal consent? Or do individuals choose freely?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How long is a typical courtship?**
 
 Weeks? Months? Years? Is a long courtship expected, or can people marry quickly?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do your characters violate courtship expectations?**
 
 Do they skip steps? Move too fast? Pursue when they shouldn't? Ignore family involvement?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What does it mean if someone violates the expected progression?**
 
-**What signals does it send in your world when someone moves too fast in courtship, skips family involvement, or pursues someone above their station?**
+*What signals does it send in your world when someone moves too fast in courtship, skips family involvement, or pursues someone above their station?*
 
 *(Write your answer below)*
 
@@ -1955,27 +1963,35 @@ _______________________________________________________________
 
 Describe 3 gestures that signal love or interest:
 
-1. _______________________________________________________________
+1. *(Write your answer below)*
 
-2. _______________________________________________________________
+&nbsp;
 
-3. _______________________________________________________________
+2. &nbsp;
+
+3. &nbsp;
 
 **What gestures would be considered too forward or inappropriate?**
 
-1. _______________________________________________________________
+1. *(Write your answer below)*
 
-2. _______________________________________________________________
+&nbsp;
 
-3. _______________________________________________________________
+2. &nbsp;
+
+3. &nbsp;
 
 **What romantic gesture does one character make that surprises the other?**
 
 Something that reveals more than they intended, or that the other didn't expect:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 _______________________________________________________________
 
