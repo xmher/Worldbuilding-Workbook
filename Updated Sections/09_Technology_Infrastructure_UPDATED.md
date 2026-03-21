@@ -373,18 +373,16 @@ Lighting shapes the emotional tone of every scene. Candlelight is soft, warm, an
 
 ### Heating, Cooling & Shelter
 
-**How do people stay warm?**
-*Extreme cold is one of romantasy's most reliable forced-proximity engines. Shared body heat turns survival into intimacy, and the snowbound inn works precisely because the shared bed is a survival decision rather than a romantic one — at first.*
+**How do people stay warm and cool in your world? What are the dangers from extreme temperatures, and how might they push your characters together?**
+*Extreme cold is one of romantasy's most reliable forced-proximity engines: shared body heat turns survival into intimacy. Consider fireplaces, central heating, braziers, body heat, or magical warmth; fans, shade, water, or magical cooling. Can cold or heat kill? The snowbound inn in ACOMAF works precisely because the shared bed is a survival decision rather than a romantic one — at first.*
 
-Fireplaces, central heating, braziers, body heat, magical warmth:
+*(Write your answer below)*
 
-**How do people stay cool?**
-*Heat creates its own brand of vulnerability — lighter clothing, bare skin, seeking shade or water together. How your characters manage heat shapes the sensory texture of warm-weather scenes.*
+&nbsp;
 
-Fans, shade, water, magical cooling, architectural solutions:
+&nbsp;
 
-**What's the danger from extreme temperatures?**
-Can cold or heat kill? What do people do to survive extremes? Extreme cold is a classic forced-proximity engine, because sharing warmth becomes necessity, then intimacy. The snowbound inn in *ACOMAF* works precisely because the cold outside makes the shared bed inside a survival decision rather than a romantic one (at first). What temperature extremes exist in your world, and how might they push your characters together?
+&nbsp;
 
 ### Water, Sanitation & Bathing
 

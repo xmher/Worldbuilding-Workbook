@@ -2303,27 +2303,38 @@ If not — how does this create obstacles? Are they defying expectations by acti
 
 *(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Are there other significant life transitions that affect your story?**
 
 Coming-of-age ceremonies, magical awakenings, trials, presentations at court, etc.?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does a coming-of-age transition trigger the romantic plot?**
 
 *Does your character become eligible for courtship, gain new powers, or enter a new social context because of a life transition? How does this change what's possible between them and the love interest?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Children & Education
 
 A culture's beliefs are shown through how it brings up its youth. There are cultures that focus on discipline, there are cultures that focus on creativity. Some educate everyone equally; others reserve knowledge for the elite.
@@ -2343,39 +2354,53 @@ Think about what a childhood would be in your world. The way your characters wer
 
 Apprenticeship? Formal schools? Family teaching? Religious institutions?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who has access to education?**
 
 Is literacy common? Are schools available to all classes? Gender differences in education?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What knowledge is valued vs. dismissed?**
 
 Book learning vs. practical skills? Magical knowledge vs. mundane? Traditional knowledge vs. innovation?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are there institutions that take children from their families?**
 
 Temples, military academies, magical schools, noble fostering arrangements? What does separation mean?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How were your main characters raised?**
 
-Their upbringing shaped who they are. What was childhood like for them?
-
-**How were your protagonist and love interest each raised and educated? What skills did they gain, and what gaps does each have?**
+*Their upbringing shaped who they are. How were your protagonist and love interest each raised and educated? What skills did they gain, and what gaps does each have?*
 
 *(Write your answer below)*
 

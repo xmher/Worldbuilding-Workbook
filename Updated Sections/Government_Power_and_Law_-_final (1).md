@@ -2063,8 +2063,6 @@ _______________________________________________________________
 
 **What does each character believe that the other finds repugnant?**
 
-**What belief does each character hold that the other finds repugnant?**
-
 *(Write your answer below)*
 
 &nbsp;
@@ -2075,9 +2073,7 @@ _______________________________________________________________
 
 **Why does each believe this?**
 
-Not just "they were raised that way" — what experiences, evidence, or reasoning supports their view?
-
-**What reasoning lies behind each character's problematic belief — why does it make sense from their perspective?**
+*Not just "they were raised that way" — what experiences, evidence, or reasoning supports their view?*
 
 *(Write your answer below)*
 
@@ -2089,13 +2085,15 @@ Not just "they were raised that way" — what experiences, evidence, or reasonin
 
 **Is either belief clearly wrong?**
 
-If so, the story is about one character learning they were wrong — which is fine, but different from true ideological conflict.
+*If so, the story is about one character learning they were wrong — which is fine, but different from true ideological conflict. If both views have merit, the story is about synthesis or accepting difference — more complex.*
 
-If both views have merit, the story is about synthesis or accepting difference — more complex.
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 

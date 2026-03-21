@@ -2046,27 +2046,33 @@ Whether your magic includes fated bonds or not, these questions help you make su
 
 **What does magic give your characters access to in each other? What do they still have to earn the hard way through time, honesty, and choice?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Can two people in your world be emotionally intimate without any magical component? What does purely human closeness look like against the backdrop of your magical world?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What would your characters have if you stripped away all magical connection — would there still be something between them?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 

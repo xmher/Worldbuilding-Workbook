@@ -1240,9 +1240,13 @@ Magically? Politically? Socially? Bloodline significance creates stakes for who 
 
 Prophecy fulfilled? Forbidden mixing? Powerful heirs? Ending a curse?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
