@@ -19,19 +19,25 @@ Every decision in this section should serve the cage. When you choose a governme
 
 *The cage is the structural force that keeps your characters apart — not a personal flaw or misunderstanding, but a system, law, or political reality that doesn't care about their feelings. Name it specifically.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Why can't your characters simply walk away from the cage?**
 
 *An iron cage only works if leaving it would break something bigger than the relationship. What's at stake beyond the two of them?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -82,8 +88,6 @@ In the strongest romantasy, your characters are changed by both the romance and 
 
 *Your protagonist should grow through both the romance and the political conflict — not just one. If you can't fill in both rows, one of your plotlines may be decorative.*
 
-**How do the romance and the political conflict each force your protagonist to change? What does each catalyst make them face, and how do they grow?**
-
 *(Write your answer below)*
 
 &nbsp;
@@ -129,8 +133,6 @@ In the strongest romantasy, your characters are changed by both the romance and 
 **Map your political stake to a romantic obstacle:**
 
 *Take the biggest political pressure in your story and translate it to the personal level. What does this political reality feel like in an intimate moment between your characters?*
-
-**What is your macro political stake, and what micro romantic obstacle does it create?**
 
 *(Write your answer below)*
 
@@ -202,27 +204,37 @@ Political divisions between countries can keep lovers separated or provide escap
 
 Common options: monarchy (absolute, constitutional, hereditary, elected), theocracy, magocracy, oligarchy, democracy, empire, feudal system, tribal confederation, council, or dual systems where magical and mundane authorities coexist.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If your world has multiple nations, do they have different systems?**
 
 *Political differences between nations can keep lovers separated — or provide escape routes. If your characters needed to flee, where could they go? If they come from nations with opposing systems, that's a built-in source of conflict.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does your government type create the romantic obstacle?**
 
 *You chose this government for a reason. What specific pressure does it put on your characters' relationship that a different system wouldn't?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

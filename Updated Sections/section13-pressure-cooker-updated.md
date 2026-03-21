@@ -5,8 +5,6 @@ You've already created geographical barriers that isolate (Section 1) and instit
 
 The "only one bed" trope works because it eliminates the option for the characters to avoid each other. In romantasy, you can scale this principle up to entire settings. Academies where students are required to live in dorms and therefore don't have an opportunity to avoid each other. Ships where passengers can't escape each other. Journeys through dangerous terrain where separation means death. Think of Feyre trapped Under the Mountain in *A Court of Thorns and Roses*, where she has no ability to leave, and every encounter with Rhysand happens under Amarantha's surveillance. The confinement in this story isn't just a background element. It's what forces the relationship to develop under conditions neither character would have chosen.
 
----
-
 ## The Pressure Cooker Principle
 
 A pressure cooker works because it's sealed. The heat has no way of escaping so the temperature inside reaches much hotter levels quicker than it would in an open atmosphere. That's what forced proximity does to a romance. It removes the escape valve. Your characters can't walk away, can't take a break, can't give themselves time and space to process what they're feeling. The emotional temperature rises because it has no choice.
@@ -62,9 +60,7 @@ Beyond the subtypes, forced proximity creates romantic tension through a set of 
 | **Escalating Stakes** | The longer they're together, the more they have to lose | Emotional investment that makes separation devastating |
 
 **Which romantic tension patterns will be strongest in your story?**
-*Rank your top three. This will help you prioritise which later exercises to dig deepest into.*
-
-**From the forced proximity patterns listed above, which three fit your story best? Rank them and explain why each suits your story.**
+*Rank your top three and explain why each suits your story. This will help you prioritise which later exercises to dig deepest into.*
 
 *(Write your answer below)*
 

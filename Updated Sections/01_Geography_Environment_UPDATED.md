@@ -118,9 +118,13 @@ You may feel that if your geography does not cause friction for your characters 
 
 *If the answer is yes, your pressure cooker has a leak. What makes leaving impossible, too dangerous, or too costly?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -266,9 +270,13 @@ _______________________________________________________________
 
 *Are your characters from rival nations? Allied ones? Does one kingdom control something the other needs? The political geography between nations often becomes the romantic geography between lovers.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -289,6 +297,7 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
 ## Naming Places
 
 Good place names make your world feel real. You don't need to invent a whole language for this; just notice how real places get their names.
@@ -419,19 +428,28 @@ For deeper language work, see *Section 11: Language & Communication*.
 
 *If your characters come from different cultures, distinct naming patterns instantly tell readers "these people are not the same." Would someone from Kingdom A struggle to pronounce names from Kingdom B?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Where could naming differences create a quiet intimacy beat?
 
 *A character stumbling over an unfamiliar name, asking what a place name means, or learning that their love interest's homeland translates to something beautiful — these are small moments that build closeness. Where in your story could the act of learning someone's language or place names become a romantic gesture?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Resources & Territorial Control
 
 Geography tells us who has what and thus who has the ability to have power. Fertile land, fresh water, mineral deposits, trade routes: all of these are valuable enough to fight wars over, to marry for, to die for.
@@ -441,8 +459,6 @@ Resource control is probably the most consistent engine for romantic conflict wi
 The most effective way to demonstrate resource control on the page is to show what your characters can and cannot do, rather than telling them through exposition. For instance, a character from a land that has very little water may flinch every time they see someone leaving a tub of water running. If there is a war for control of a particular piece of land because of its strategic location for trade, then someone who is aware of this will notice the strategic advantage where others just view it as beautiful. This awareness should show itself through small reactions, casual conversations about prices or lack thereof, and the constant underlying anxiety that people in this world experience about resources. The tension that develops between two characters when one comes from a side of the battle for resources and the other comes from the opposing side will always develop in their assumptions about each other, what they choose not to comment about, and the times when privilege becomes visible.
 
 ---
-
-## Resources & Territorial Control
 
 ### Reference: Natural Resource Ideas
 
@@ -478,17 +494,25 @@ The most effective way to demonstrate resource control on the page is to show wh
 
 *Water rights? Arable land? Trade routes? Does the conflict show up as war, political marriage, trade embargo, or something subtler?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### How does geographic resource control affect your characters?
 
 *Does one character's family/nation control something the other's needs? Is there territorial dispute between their peoples?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 > **Continue in Section 4**
 >
@@ -507,13 +531,9 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
 
 ---
 
-## The Sensory World
-
 #### What does your primary setting look, sound, smell, and feel like?
 
-*Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?*
-
-**Close your eyes and walk through your primary setting. Describe what you see, hear, smell, and feel (temperature, humidity, wind).**
+*Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice? Describe what you see, hear, smell, and feel (temperature, humidity, wind).*
 
 *(Write your answer below)*
 
@@ -525,9 +545,7 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
 
 #### How does the environment change at different times of day?
 
-*Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?*
-
-**How does your primary setting change throughout the day? Describe it at morning, midday, evening, and night — and note what kind of romantic scene would fit each time.**
+*Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous? Describe it at morning, midday, evening, and night — and note what kind of romantic scene would fit each time.*
 
 *(Write your answer below)*
 

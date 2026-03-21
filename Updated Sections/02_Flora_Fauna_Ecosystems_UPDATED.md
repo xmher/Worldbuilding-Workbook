@@ -142,25 +142,37 @@ Inhabitants of your world do not encounter a neutral environment. Instead, the e
 
 *Do people dominate their environment? Live in balance? Struggle against nature? Have they tamed the wild or does wilderness still rule?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *How magical is the natural world?*
 
 *Completely mundane (magic is separate from nature)? Subtly magical (nature has hidden power)? Overtly magical (magical creatures are common)? Sentient (nature has awareness or will)?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *What's the overall health of the ecosystem?*
 
 *Thriving? Balanced? Under pressure from civilization? Recovering from past damage? Dying?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *How does your climate shape intimacy and romance?*
 
@@ -212,9 +224,13 @@ If the magic in your world is dependent upon the land (as it is in ACOTAR, where
 
 *In some romantasy worlds, the romantic relationship is tied to the land itself — the couple's bond keeps the world fertile, or a broken relationship causes ecological collapse. Even without a direct magical link, environmental stakes can raise the emotional stakes. Does your world have any connection between the natural world's health and your characters' relationship?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *If your world has large magical creatures, what do they eat — and who provides it?*
 
@@ -272,9 +288,13 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
 
 *If so, what are they used for and who has access to them?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -380,9 +400,13 @@ Agriculture creates the daily rhythms, class structures, and resource pressures 
 
 *The grains, roots, or plants that feed most people:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *What non-food crops are important?*
 
@@ -448,9 +472,13 @@ At its core, foraging is domestic intimacy transplanted to the wilderness. Two p
 
 *Rural common knowledge? Specialised profession? Lost art? Class-dependent? Consider whether this creates a knowledge gap between your characters — the one who knows plants holds quiet power over the one who doesn't.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *Could a foraging or plant-knowledge scene build your romance?*
 
@@ -595,17 +623,25 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 
 *Everyday occurrence? Regional? Nearly mythical?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *How do magical creatures fit into the ecosystem?*
 
 *Do they fill normal ecological roles? Exist outside natural laws? Disrupt normal nature?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -613,9 +649,13 @@ _______________________________________________________________
 
 *If no, skip to the next section.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *How does the bond form?*
 

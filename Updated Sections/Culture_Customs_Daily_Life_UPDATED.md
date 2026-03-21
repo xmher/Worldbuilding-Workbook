@@ -181,37 +181,41 @@ Use this list when deciding what your culture values most. Pick 3-5 that define 
 
 List 3-5 core values in order of importance:
 
-1. _______________________________________________________________
+1. *(Write your answer below)*
 
-2. _______________________________________________________________
+&nbsp;
 
-3. _______________________________________________________________
+2. &nbsp;
 
-4. _______________________________________________________________
+3. &nbsp;
 
-5. _______________________________________________________________
+4. &nbsp;
+
+5. &nbsp;
 
 **How do these values create tension for your characters?**
 
 *Values create tension when two characters' cultures prize different things, or when the same culture's values conflict with what love demands. A culture that values duty above all makes choosing love feel like choosing selfishness.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What does your culture consider shameful or dishonorable?**
 
 The flip side of values — what brings disgrace:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-**How does one character embody the cultural ideal while the other challenges it?**
+&nbsp;
 
 **How does each character (protagonist and love interest) relate to their culture's dominant values? Where do they conform, and where do they chafe?**
 
@@ -227,13 +231,16 @@ _______________________________________________________________
 
 What virtue do they have to abandon, or what shame must they accept?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Gender Roles & Expectations
 
 Gender (or equivalent social categories in your world) shapes behaviour, opportunities, and relationship dynamics. In many cases, societal expectations regarding gender dictate who will pursue and who will be pursued, who has agency to act versus waiting to act. This is fundamental because it affects everything that follows: daily life, family, courtship, hierarchy, and what your characters are even allowed to want.
@@ -272,29 +279,40 @@ Focus on what affects your story:
 
 How? What consequences do they face — social, legal, or personal?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How do gender expectations shape courtship?**
 
 Who pursues? Who waits? Who controls the pace?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens when the "wrong" person takes the lead in courtship?**
 
 *When someone breaks the expected courtship dynamic — the woman proposing, the lower-status person initiating — the social reaction reveals how rigid or flexible your culture truly is, and how much your characters risk by defying expectations.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Daily Life & Routines
 
 To understand how culture shapes romantic experiences, you have to begin with how people live their lives. Romance occurs in the context of daily routines. Examining the patterns of living reveals when a couple will encounter each other and what is considered "normal."
@@ -317,31 +335,41 @@ As soon as romance enters into a character's routine, the reader will be able to
 
 **How does this rhythm differ by class or profession?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's the weekly or monthly rhythm?**
 
 Market days? Rest days? Religious observances? Regular social gatherings?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What do people do when they're not working?**
 
 Leisure, entertainment, socializing — what fills non-work hours?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does the love interest disrupt your protagonist's routine?**
 
-*Romance changes the texture of daily life. What shifts when your protagonist starts thinking about this person?*
-
-**How does the protagonist's daily routine shift after the love interest enters their life? Pick a specific routine element and describe it before and after.**
+*Romance changes the texture of daily life. What shifts when your protagonist starts thinking about this person? Pick a specific routine element and describe it before and after.*
 
 *(Write your answer below)*
 
@@ -352,6 +380,7 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
 ## Home & Household
 
 Your home is the most intimate space in your world. It's the place where characters are most themselves. The way homes are constructed, how many people share them, and the amount of privacy they provide will determine when and where your characters can be vulnerable with each other. Homes shared with servants or other people create vastly different possibilities for romance than homes lived in alone.
