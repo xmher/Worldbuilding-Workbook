@@ -34,15 +34,6 @@ The invisible cage works because culture creates identity. Disobeying the law is
 === The Key Question
 
 
-What cultural assumption does your character accept without question at the start of the story? And what will loving this person force them to confront about their own world?
-
-
-#strong[Map your character's invisible cage:]
-
-
-#hint[The invisible cage only becomes visible when your character wants something on the other side of the bars. This is the moment when culture stops being background and becomes the central obstacle of your romance.]
-
-
 #structured-table(
   headers: ("", "Protagonist", "Love Interest"),
   example-rows: (
@@ -55,6 +46,13 @@ What cultural assumption does your character accept without question at the star
     ([What do they gain?], [], []),
   ),
   row-height: 65pt,
+  preamble: [
+What cultural assumption does your character accept without question at the start of the story? And what will loving this person force them to confront about their own world?
+
+#strong[Map your character's invisible cage:]
+
+#hint[The invisible cage only becomes visible when your character wants something on the other side of the bars. This is the moment when culture stops being background and becomes the central obstacle of your romance.]
+],
 )
 
 
@@ -126,12 +124,6 @@ Some of the most interesting romantic tension comes from pairing characters who 
 )
 
 
-#strong[Which cultural patterns does your world use?]
-
-
-#hint[Pick 2-3 patterns from the reference table above that fit your romance. For each, note how it shows up in your story.]
-
-
 #open-table(
   headers: ("Pattern", "How It Works in Your World"),
   example-rows: (
@@ -143,6 +135,11 @@ Some of the most interesting romantic tension comes from pairing characters who 
   ),
   row-height: 75pt,
   fill-strategy: "wider_rows",
+  preamble: [
+#strong[Which cultural patterns does your world use?]
+
+#hint[Pick 2-3 patterns from the reference table above that fit your romance. For each, note how it shows up in your story.]
+],
 )
 
 
@@ -261,31 +258,32 @@ List 3-5 core values in order of importance:
 #writing-lines(count: 1)
 
 
-#strong[How do these values create tension for your characters?]
+#block(breakable: false)[
 
+#strong[How do these values create tension for your characters?]
 
 #hint[Values create tension when two characters' cultures prize different things, or when the same culture's values conflict with what love demands. A culture that values duty above all makes choosing love feel like choosing selfishness.]
 
-
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What does your culture consider shameful or dishonorable?]
 
-
 The flip side of values — what brings disgrace:
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
-
-#strong[How does one character embody the cultural ideal while the other challenges it?]
+]
 
 
 #structured-table(
@@ -298,6 +296,9 @@ The flip side of values — what brings disgrace:
     ([Love Interest], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[How does one character embody the cultural ideal while the other challenges it?]
+],
 )
 
 
@@ -345,9 +346,6 @@ Focus on what affects your story:
 )
 
 
-#strong[How do these expectations affect your characters?]
-
-
 #structured-table(
   headers: ("Character", "How Gender Expectations Affect Them"),
   example-rows: (
@@ -358,31 +356,38 @@ Focus on what affects your story:
     ([Love Interest], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[How do these expectations affect your characters?]
+],
 )
 
 
+#block(breakable: false)[
+
 #strong[Does either character violate gender expectations?]
 
-
 How? What consequences do they face — social, legal, or personal?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[How do gender expectations shape courtship?]
 
-
 Who pursues? Who waits? Who controls the pace?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #strong[What happens when the "wrong" person takes the lead in courtship?]
@@ -440,34 +445,32 @@ As soon as romance enters into a character's routine, the reader will be able to
 ]
 
 
-#strong[What's the weekly or monthly rhythm?]
+#block(breakable: false)[
 
+#strong[What's the weekly or monthly rhythm?]
 
 Market days? Rest days? Religious observances? Regular social gatherings?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What do people do when they're not working?]
 
-
 Leisure, entertainment, socializing — what fills non-work hours?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
-
-#strong[How does the love interest disrupt your protagonist's routine?]
-
-
-#hint[Romance changes the texture of daily life. What shifts when your protagonist starts thinking about this person?]
+]
 
 
 #open-table(
@@ -481,6 +484,11 @@ Leisure, entertainment, socializing — what fills non-work hours?
   ),
   row-height: 90pt,
   fill-strategy: "wider_rows",
+  preamble: [
+#strong[How does the love interest disrupt your protagonist's routine?]
+
+#hint[Romance changes the texture of daily life. What shifts when your protagonist starts thinking about this person?]
+],
 )
 
 
@@ -513,40 +521,46 @@ As your character first enters their love interest's home, take some time to all
 )
 
 
-#strong[Who lives together?]
+#block(breakable: false)[
 
+#strong[Who lives together?]
 
 Nuclear families? Extended families? Multiple generations? Servants in the household? Unmarried adults with parents?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[How much privacy exists within a home?]
 
-
 Private bedrooms? Shared sleeping spaces? Thin walls? Servants everywhere?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What makes a house a "home"?]
 
-
 What objects, rituals, or elements make a space feel like home in your culture?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #strong[What does your protagonist notice when they first enter the love interest's home?]
@@ -582,46 +596,46 @@ Who heads the household? How are decisions made? What's the hierarchy within a f
 ]
 
 
-#strong[What obligations exist between family members?]
+#block(breakable: false)[
 
+#strong[What obligations exist between family members?]
 
 What do children owe parents? What do parents owe children? What about siblings, extended family?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[How are children raised?]
 
-
 Who raises them (parents, extended family, nurses, community)? What are they taught? When do they start working or training?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What happens to orphans, unmarried adults, elderly without children?]
 
-
 How does the culture handle people outside the typical family structure?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
-
-#strong[How does family affect your characters' romance?]
-
-
-#hint[Family is often the first and most personal obstacle to love. Whose approval matters? Who will try to interfere? What power does a parent or elder hold over the match?]
+]
 
 
 #structured-table(
@@ -634,6 +648,11 @@ How does the culture handle people outside the typical family structure?
     ([Love Interest's family], [], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[How does family affect your characters' romance?]
+
+#hint[Family is often the first and most personal obstacle to love. Whose approval matters? Who will try to interfere? What power does a parent or elder hold over the match?]
+],
 )
 
 
@@ -681,67 +700,77 @@ Eating together is one of the most simple ways to develop intimacy. When charact
 ]
 
 
-#strong[What food rules or restrictions exist?]
+#block(breakable: false)[
 
+#strong[What food rules or restrictions exist?]
 
 Religious restrictions? Class-based foods? Regional specialties? Seasonal availability?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What's the culture around drinking (alcohol or otherwise)?]
 
-
 When is drinking appropriate? What's drunk? What are drinking customs?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #divider()
 
 
+#block(breakable: false)[
+
 #strong[What are the rules around shared meals?]
 
-
 Who can eat together? Who eats first? Who serves? Are there forbidden combinations (class, gender, species)?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What does sharing a meal signify?]
 
-
 Friendship? Alliance? Courtship? Family acceptance? Sealing a deal?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What foods or drinks have romantic or special meaning?]
 
-
 Aphrodisiacs, festival foods, courting treats, magical foods:
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #strong[Is there a meal where something important happens between your characters?]
@@ -779,12 +808,6 @@ Research real-world architecture that inspires your world. Note distinctive elem
 ]
 
 
-#strong[What do different types of buildings look like?]
-
-
-How can your protagonist tell a temple from a tavern at a glance?
-
-
 #structured-table(
   headers: ("Building Type", "Distinctive Features"),
   example-rows: (
@@ -798,13 +821,12 @@ How can your protagonist tell a temple from a tavern at a glance?
     ([Military/fortification], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[What do different types of buildings look like?]
+
+How can your protagonist tell a temple from a tavern at a glance?
+],
 )
-
-
-#strong[How does a specific building's layout shape a romantic scene?]
-
-
-#hint[Narrow corridors force proximity. Great halls create distance. Hidden passages give one character power over another. Pick a key setting and map how its layout affects the dynamic between your characters.]
 
 
 #open-table(
@@ -817,6 +839,11 @@ How can your protagonist tell a temple from a tavern at a glance?
   ),
   row-height: 90pt,
   fill-strategy: "wider_rows",
+  preamble: [
+#strong[How does a specific building's layout shape a romantic scene?]
+
+#hint[Narrow corridors force proximity. Great halls create distance. Hidden passages give one character power over another. Pick a key setting and map how its layout affects the dynamic between your characters.]
+],
 )
 
 
@@ -844,40 +871,46 @@ Daily prayers or rituals? Religious dietary restrictions? Spiritual interpretati
 ]
 
 
-#strong[What life events have religious significance?]
+#block(breakable: false)[
 
+#strong[What life events have religious significance?]
 
 Birth, coming of age, marriage, death — what rituals mark these transitions?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[How do people interact with religious institutions or figures?]
 
-
 Priests, temples, shrines — how present are they in ordinary life?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What's considered sacred or profane?]
 
-
 What places, objects, words, or actions carry spiritual weight?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #strong[How does religion create tension or intimacy between your characters?]
@@ -923,28 +956,32 @@ Use this list for inspiration. Pick a few that fit your world's mood and culture
 )
 
 
+#block(breakable: false)[
+
 #strong[What common superstitions exist?]
 
-
 Lucky/unlucky numbers, colors, animals? Actions that invite bad fortune? Protective gestures or phrases?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What everyday rituals do people perform without thinking?]
 
-
 Knocking on wood, crossing fingers, small offerings, phrases spoken at certain moments:
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -1016,46 +1053,46 @@ Etiquette becomes romantic tension as a result of one character watching another
 )
 
 
-#strong[What's considered rude in everyday interaction?]
+#block(breakable: false)[
 
+#strong[What's considered rude in everyday interaction?]
 
 Behaviors that give offense, things that aren't done:
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What's considered polite or hospitable?]
 
-
 Offering food/drink to guests? Specific gestures of respect? Customs around visiting someone's home?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[How do people handle conflict or disagreement?]
 
-
 Direct confrontation? Indirect communication? Mediation through third parties?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
-
-#strong[What social mistake does one character make that the other notices?]
-
-
-#hint[Etiquette violations reveal where someone comes from and create charged moments between characters. What faux pas creates a scene between your protagonists?]
+]
 
 
 #open-table(
@@ -1065,6 +1102,11 @@ Direct confrontation? Indirect communication? Mediation through third parties?
   ),
   row-height: 60pt,
   fill-strategy: "wider_rows",
+  preamble: [
+#strong[What social mistake does one character make that the other notices?]
+
+#hint[Etiquette violations reveal where someone comes from and create charged moments between characters. What faux pas creates a scene between your protagonists?]
+],
 )
 
 
@@ -1098,46 +1140,46 @@ Protection? Food and shelter? Safe passage? How long do guest rights last? Is th
 ]
 
 
-#strong[What does a guest owe their host?]
+#block(breakable: false)[
 
+#strong[What does a guest owe their host?]
 
 Respect for house rules? Gifts? Restraint? What behaviour would violate guest rights? Are there things a guest must never do (ask certain questions, enter certain rooms, refuse offered food)?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What happens when hospitality is violated?]
 
-
 By either party. What are the consequences of betraying a guest or dishonouring a host? Is the penalty social, legal, magical, or divine?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[How does your protagonist's guest status affect the romance?]
 
-
 Are they a willing guest, a reluctant one, or a prisoner in all but name? How does the power imbalance of guest and host shape the early dynamic between your characters?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
-
-#strong[Which hospitality pattern does your romance use?]
-
-
-#hint[These three patterns shape some of the most effective romantic dynamics in the genre. The gilded cage traps through luxury, the host's exposure creates accidental vulnerability, and the violation cuts deepest because it breaks a sacred trust.]
+]
 
 
 #structured-table(
@@ -1151,6 +1193,11 @@ Are they a willing guest, a reluctant one, or a prisoner in all but name? How do
     ([The violation (broken contract, deeper betrayal)], [], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[Which hospitality pattern does your romance use?]
+
+#hint[These three patterns shape some of the most effective romantic dynamics in the genre. The gilded cage traps through luxury, the host's exposure creates accidental vulnerability, and the violation cuts deepest because it breaks a sacred trust.]
+],
 )
 
 
@@ -1189,28 +1236,32 @@ Music, theater, games, sports, storytelling, gambling — what do people do for 
 ]
 
 
-#strong[What stories or legends does everyone know?]
+#block(breakable: false)[
 
+#strong[What stories or legends does everyone know?]
 
 The cultural touchstones — tales children grow up hearing, references everyone understands:
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What music exists? When is it played?]
 
-
 Instruments, styles, occasions for music:
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -1225,22 +1276,18 @@ Instruments, styles, occasions for music:
 ]
 
 
+#block(breakable: false)[
+
 #strong[What art forms are valued?]
 
-
 Visual arts, crafts, performance, literature — what does this culture create and prize?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
-
-#strong[What leisure activity brings your characters together?]
-
-
-#hint[Dances require touch. Games reveal personality. Shared stories create inside jokes. What activity gives your characters an excuse to spend time together — and does everyone else see through the excuse?]
+]
 
 
 #open-table(
@@ -1253,6 +1300,11 @@ Visual arts, crafts, performance, literature — what does this culture create a
   ),
   row-height: 90pt,
   fill-strategy: "wider_rows",
+  preamble: [
+#strong[What leisure activity brings your characters together?]
+
+#hint[Dances require touch. Games reveal personality. Shared stories create inside jokes. What activity gives your characters an excuse to spend time together — and does everyone else see through the excuse?]
+],
 )
 
 
@@ -1298,58 +1350,60 @@ Military oaths? Family promises? Honour debts? Sworn service? Magical bargains? 
 ]
 
 
-#strong[What does breaking one's word cost in your culture?]
+#block(breakable: false)[
 
+#strong[What does breaking one's word cost in your culture?]
 
 Social disgrace? Exile? Loss of rank or magic? Physical pain? Somatic illness? Something worse?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Are oaths in your world purely cultural, or do they carry magical weight?]
 
-
 Can a bargain be literally binding? Does it manifest physically (a tattoo, a mark, a compulsion)? What happens if someone tries to break a magically enforced oath?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Does your world's oath system have loopholes?]
 
-
 Can precise wording be exploited? Is the letter or the spirit of the promise what matters? How might your characters use the system's rigidity to create space for personal choice?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What oath conflicts with your characters' romance?]
 
-
 Which promise must be broken, or creatively reinterpreted, for them to be together? Did the character know what they were giving up when they made the oath, or did love change the equation?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
-
-#strong[Write the oath.]
-
-
-If precise wording matters in your world, draft the actual words of the promise that binds your character. Then look for the loophole. What could those words mean that the speaker didn't intend?
+]
 
 
 #structured-table(
@@ -1365,6 +1419,11 @@ If precise wording matters in your world, draft the actual words of the promise 
     ([What it costs to break outright], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[Write the oath.]
+
+If precise wording matters in your world, draft the actual words of the promise that binds your character. Then look for the loophole. What could those words mean that the speaker didn't intend?
+],
 )
 
 
@@ -1396,12 +1455,6 @@ Forbidden love has its excitement in the risk involved. Ensure that your reader 
 )
 
 
-#strong[Which taboos directly affect your romance?]
-
-
-Pick 2-3 that create real obstacles:
-
-
 #open-table(
   headers: ("Taboo", "How It Affects the Romance"),
   example-rows: (
@@ -1409,13 +1462,12 @@ Pick 2-3 that create real obstacles:
   ),
   row-height: 60pt,
   fill-strategy: "wider_rows",
+  preamble: [
+#strong[Which taboos directly affect your romance?]
+
+Pick 2-3 that create real obstacles:
+],
 )
-
-
-#strong[What happens when someone breaks a taboo?]
-
-
-Consequences should escalate with severity:
 
 
 #structured-table(
@@ -1429,19 +1481,26 @@ Consequences should escalate with severity:
     ([Major taboo broken], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[What happens when someone breaks a taboo?]
+
+Consequences should escalate with severity:
+],
 )
 
 
+#block(breakable: false)[
+
 #strong[What taboo do your characters break first?]
 
-
 This is often a pivotal early scene — the first boundary crossed:
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
+
+]
 
 
 #strong[What taboo must they break to be together fully?]
@@ -1489,46 +1548,46 @@ Is virginity prized? For whom? What's the double standard? Are there visible mar
 ]
 
 
-#strong[How are these norms enforced?]
+#block(breakable: false)[
 
+#strong[How are these norms enforced?]
 
 Social shame? Physical punishment? Religious consequence? Loss of status or marriageability? Who does the enforcing: family, religious authorities, the community at large?
 
-
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What happens to someone who violates these norms?]
 
-
 Particularly for women. What are the consequences of being perceived as sexually transgressive? Are they the same for men?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[How does your protagonist's relationship with desire affect their romance?]
 
-
 Do they feel shame? Freedom? Confusion? Curiosity they've been taught to suppress? How does their love interest challenge or affirm their sense of self?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
-
-#strong[Where does the double standard live in your world?]
-
-
-#hint[What's permitted for one gender that would destroy the other? How does this asymmetry create tension between your characters?]
+]
 
 
 #structured-table(
@@ -1542,6 +1601,11 @@ Do they feel shame? Freedom? Confusion? Curiosity they've been taught to suppres
     ([Expressing desire openly], [], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[Where does the double standard live in your world?]
+
+#hint[What's permitted for one gender that would destroy the other? How does this asymmetry create tension between your characters?]
+],
 )
 
 
@@ -1585,12 +1649,6 @@ The way people react to your character when they enter a space can represent the
 ]
 
 
-#strong[What destroys a reputation?]
-
-
-What's the kind of scandal that follows someone forever? Is it the same for all classes and genders?
-
-
 #structured-table(
   headers: ("Position", "What Destroys Their Reputation"),
   example-rows: (
@@ -1601,49 +1659,54 @@ What's the kind of scandal that follows someone forever? Is it the same for all 
     ([Someone of the love interest's position], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[What destroys a reputation?]
+
+What's the kind of scandal that follows someone forever? Is it the same for all classes and genders?
+],
 )
 
 
+#block(breakable: false)[
+
 #strong[Can a ruined reputation be recovered? How?]
 
-
 Some cultures allow redemption; others don't. Is there a path back, or is ruin permanent?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Who are the gossips and rumormongers in your story?]
 
-
 Who spreads information — maliciously or carelessly? Who might your characters need to avoid, bribe, or silence?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What rumors might circulate about your characters' relationship?]
 
-
 Even if nothing has happened yet, what might people #emph[say] is happening?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
-
-#strong[What's the worst thing that could be said about either character?]
-
-
-The rumor that would destroy them — true or not:
+]
 
 
 #structured-table(
@@ -1656,6 +1719,11 @@ The rumor that would destroy them — true or not:
     ([Love Interest], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[What's the worst thing that could be said about either character?]
+
+The rumor that would destroy them — true or not:
+],
 )
 
 
@@ -1694,12 +1762,6 @@ Consider: Do servants see everything? Do nobles have private chambers? Do common
 ]
 
 
-#strong[Where can your characters be alone together?]
-
-
-List the spaces where privacy is possible — and what risks each location carries:
-
-
 #open-table(
   headers: ("Location", "Risk of Discovery"),
   example-rows: (
@@ -1707,34 +1769,40 @@ List the spaces where privacy is possible — and what risks each location carri
   ),
   row-height: 60pt,
   fill-strategy: "wider_rows",
+  preamble: [
+#strong[Where can your characters be alone together?]
+
+List the spaces where privacy is possible — and what risks each location carries:
+],
 )
 
+
+#block(breakable: false)[
 
 #strong[Where are they always watched?]
 
-
 Courts, public spaces, family homes, workplaces — where is privacy impossible?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Who might be watching or listening?]
 
-
 Servants, guards, family members, rivals, magical surveillance, spies:
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
-
-#strong[What would happen if they were seen together?]
+]
 
 
 #structured-table(
@@ -1748,6 +1816,9 @@ Servants, guards, family members, rivals, magical surveillance, spies:
     ([Seen in physical contact], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[What would happen if they were seen together?]
+],
 )
 
 
@@ -1821,79 +1892,91 @@ Map the boundaries:
 ]
 
 
+#block(breakable: false)[
+
 #strong[What touch is considered particularly intimate — perhaps more so than a kiss?]
 
-
 What's YOUR culture's unexpected intimacy?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[When do your characters first break the touch barrier?]
 
-
 Describe the scene — what boundary do they cross? Was it intentional or accidental? How do they react?
-
 
 #writing-box(
   label: "Your Answer",
   height: 200pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What touch do they share in private that they couldn't share in public?]
 
-
 The contrast between public restraint and private contact creates tension:
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
+
+]
 
 
 #divider()
 
 
-#strong[Are unmarried people allowed to be alone together?]
+#block(breakable: false)[
 
+#strong[Are unmarried people allowed to be alone together?]
 
 If no — who must be present? Under what circumstances can they be unchaperoned?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Who acts as chaperone for your characters?]
 
-
 Is this person sympathetic, oblivious, or hostile to the romance?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[How do they evade supervision?]
 
-
 What excuses, distractions, or locations allow them to be alone?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
+
+]
 
 
 #strong[If they ARE alone together, what does that imply?]
@@ -1942,34 +2025,32 @@ Transitions in wardrobe also serve well as indicators of how intimate the relati
 )
 
 
-#strong[Are there sumptuary laws — rules about who can wear what?]
+#block(breakable: false)[
 
+#strong[Are there sumptuary laws — rules about who can wear what?]
 
 Certain fabrics, colors, or styles restricted to certain classes? Penalties for dressing "above your station"?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What would it mean for your character to dress outside their station?]
 
-
 Disguise? Scandal? Crime? Social death?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
-
-#strong[Fashion by Class & Context]
-
-
-What do people actually wear? You don't need to describe every stitch, just know enough to make your descriptions feel true when they matter to the scene.
+]
 
 
 #structured-table(
@@ -1986,37 +2067,45 @@ What do people actually wear? You don't need to describe every stitch, just know
     ([Wedding/celebration], [], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[Fashion by Class & Context]
+
+What do people actually wear? You don't need to describe every stitch, just know enough to make your descriptions feel true when they matter to the scene.
+],
 )
 
 
-#hint[For historical fashion terminology (chemise, doublet, kirtle, stays, etc.), see Section 20: Quick Reference Sheets.]
+#block(breakable: false)[
 
+#hint[For historical fashion terminology (chemise, doublet, kirtle, stays, etc.), see Section 20: Quick Reference Sheets.]
 
 #strong[What are your world's distinctive garments?]
 
-
 What clothing exists in your world that doesn't exist in ours? Magical garments? Cultural specifics?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 === Covered & Revealed
 
 
+#block(breakable: false)[
+
 #strong[What parts of the body are typically covered?]
 
-
 What's modest dress in your culture? Does it differ by gender, class, or context?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -2031,94 +2120,108 @@ What's modest dress in your culture? Does it differ by gender, class, or context
 ]
 
 
+#block(breakable: false)[
+
 #strong[What does revealing something usually hidden mean?]
 
-
 If someone shows skin they normally cover, what does that signal? Trust? Intimacy? Invitation? Shame?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Is there something one character shows the other that they don't show anyone else?]
 
-
 A physical vulnerability? A hidden mark? Simply their unguarded appearance?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
 
 === Hair & Its Meanings
 
 
-#strong[What do hairstyles signify in your culture?]
+#block(breakable: false)[
 
+#strong[What do hairstyles signify in your culture?]
 
 Bound vs. loose? Cut vs. uncut? Covered vs. uncovered? Specific styles for specific statuses?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Is there significance to who can touch someone's hair?]
 
-
 Is it intimate? Forbidden? Reserved for family or spouse?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Is there a moment when one character sees the other's hair differently than usual?]
 
-
 Unbound, wet, disheveled, cut — and what does it mean?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 === Tokens of Dress
 
 
-#strong[Are there clothing items exchanged in courtship or marriage?]
+#block(breakable: false)[
 
+#strong[Are there clothing items exchanged in courtship or marriage?]
 
 Rings, pins, sashes, cloaks, veils — items that mark someone as courting or claimed?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What does it mean to give or receive such an item?]
 
-
 Interest? Betrothal? Binding commitment?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -2133,16 +2236,18 @@ Interest? Betrothal? Binding commitment?
 ]
 
 
+#block(breakable: false)[
+
 #strong[Is there a garment or accessory that becomes significant between your characters?]
 
-
 Something given, borrowed, kept, or returned:
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
+
+]
 
 
 === Undressing as Intimacy
@@ -2160,16 +2265,18 @@ Something given, borrowed, kept, or returned:
 ]
 
 
+#block(breakable: false)[
+
 #strong[When do your characters first see each other less than fully dressed?]
 
-
 What are the circumstances? What does each see?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #open-table(
@@ -2248,55 +2355,60 @@ Map the steps from "strangers" to "married":
 #writing-lines(count: 1)
 
 
-#strong[Who initiates courtship?]
+#block(breakable: false)[
 
+#strong[Who initiates courtship?]
 
 One gender? Either? Families? Does it vary by class?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What's the role of family in courtship?]
 
-
 Must families approve? Arrange meetings? Give formal consent? Or do individuals choose freely?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[How long is a typical courtship?]
 
-
 Weeks? Months? Years? Is a long courtship expected, or can people marry quickly?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[How do your characters violate courtship expectations?]
 
-
 Do they skip steps? Move too fast? Pursue when they shouldn't? Ignore family involvement?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
-
-#strong[What does it mean if someone violates the expected progression?]
+]
 
 
 #structured-table(
@@ -2310,6 +2422,9 @@ Do they skip steps? Move too fast? Pursue when they shouldn't? Ignore family inv
     ([Pursuing someone "above" them], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[What does it mean if someone violates the expected progression?]
+],
 )
 
 
@@ -2376,46 +2491,46 @@ What objects carry romantic meaning? (Flowers, jewelry, handkerchiefs, enchanted
 ]
 
 
+#block(breakable: false)[
+
 #strong[What does giving or accepting such a token signify?]
 
-
 Interest? Serious intent? Engagement? Binding commitment?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Does either of your characters give such a token — or refuse one?]
 
-
 What happens and what does it mean?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Is there an object that becomes meaningful to your couple specifically?]
 
-
 Not a traditional token, but something that gains significance between them:
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
-
-#strong[Plan a gift scene using the three components.]
-
-
-#hint[The most powerful gift scenes slow down through all three stages: giving, receiving, and aftermath. A gift that shows the giver noticed something specific about the receiver always lands harder than one that merely demonstrates wealth.]
+]
 
 
 #structured-table(
@@ -2430,6 +2545,11 @@ Not a traditional token, but something that gains significance between them:
     ([The aftermath (where does the gift go? how often is it touched or looked at?)], []),
   ),
   row-height: 65pt,
+  preamble: [
+#strong[Plan a gift scene using the three components.]
+
+#hint[The most powerful gift scenes slow down through all three stages: giving, receiving, and aftermath. A gift that shows the giver noticed something specific about the receiver always lands harder than one that merely demonstrates wealth.]
+],
 )
 
 
@@ -2453,9 +2573,6 @@ Religious ceremony? Community witness? Consummation? Exchange of vows? Magical b
 ]
 
 
-#strong[Describe a traditional wedding ceremony in your world:]
-
-
 #structured-table(
   headers: ("Element", "Description"),
   example-rows: (
@@ -2469,70 +2586,83 @@ Religious ceremony? Community witness? Consummation? Exchange of vows? Magical b
     ([Objects or symbols used], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[Describe a traditional wedding ceremony in your world:]
+],
 )
 
+
+#block(breakable: false)[
 
 #strong[What happens after the ceremony?]
 
-
 Reception? Consummation rituals? Wedding night traditions? Period of seclusion?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Are there different marriage customs for different classes, species, or magical groups?]
 
-
 If so, what are the key differences?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[If your characters marry, how does their ceremony differ from tradition?]
 
-
 Do they follow all customs, some, or none? What does this choice reveal?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #divider()
 
 
+#block(breakable: false)[
+
 #strong[Can people marry secretly or elope?]
 
-
 Is this culturally acceptable, scandalous, or meaningless without public recognition?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What makes a secret marriage feel "real" to the people in it?]
 
-
 Even without official ceremony, what ritual or words would make it meaningful?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
+
+]
 
 
 #strong[If your characters had a secret ceremony, what would it look like?]
@@ -2601,52 +2731,60 @@ When developing mourning traditions for your world, there are several dynamics w
 )
 
 
-#strong[How does your culture treat the dead?]
+#block(breakable: false)[
 
+#strong[How does your culture treat the dead?]
 
 Burial, cremation, sky burial, magical dissolution? Is there a ritual that must be performed? What happens if the rites aren't completed — does it affect the dead, the living, or both?
 
-
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What are the rules around loving again after loss?]
 
-
 Is remarriage permitted? Expected? Shameful? Does it depend on how long they wait, who died, or how they died?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Can someone in mourning pursue romance?]
 
-
 Is courtship forbidden during mourning? For how long? What happens if they violate this?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[How does grief affect your characters or their relationship?]
 
-
 If one character is mourning, how does this impact what's possible between them? Does shared grief bring them together?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
+
+]
 
 
 #strong[How do your characters treat the dead they encounter?]
@@ -2682,40 +2820,46 @@ Age? Ceremony? Achievement? Magical awakening? Physical maturity?
 ]
 
 
+#block(breakable: false)[
+
 #strong[What can people do as adults that they couldn't do as children?]
 
-
 Marry without consent? Own property? Make contracts? Use certain magic? Live independently?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Are your characters considered adults?]
 
-
 If not — how does this create obstacles? Are they defying expectations by acting before they're "ready"?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Are there other significant life transitions that affect your story?]
 
-
 Coming-of-age ceremonies, magical awakenings, trials, presentations at court, etc.?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #strong[Does a coming-of-age transition trigger the romantic plot?]
@@ -2758,58 +2902,60 @@ Think about what a childhood would be in your world. The way your characters wer
 )
 
 
-#strong[How do most people learn skills and knowledge?]
+#block(breakable: false)[
 
+#strong[How do most people learn skills and knowledge?]
 
 Apprenticeship? Formal schools? Family teaching? Religious institutions?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Who has access to education?]
 
-
 Is literacy common? Are schools available to all classes? Gender differences in education?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What knowledge is valued vs. dismissed?]
 
-
 Book learning vs. practical skills? Magical knowledge vs. mundane? Traditional knowledge vs. innovation?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Are there institutions that take children from their families?]
 
-
 Temples, military academies, magical schools, noble fostering arrangements? What does separation mean?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
-
-#strong[How were your main characters raised?]
-
-
-Their upbringing shaped who they are. What was childhood like for them?
+]
 
 
 #structured-table(
@@ -2822,6 +2968,11 @@ Their upbringing shaped who they are. What was childhood like for them?
     ([Love Interest], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[How were your main characters raised?]
+
+Their upbringing shaped who they are. What was childhood like for them?
+],
 )
 
 
@@ -2841,9 +2992,6 @@ Is labor dignified or demeaning? Is idleness virtuous (noble leisure) or sinful?
 ]
 
 
-#strong[What professions are respected? Looked down upon?]
-
-
 #structured-table(
   headers: ("Status", "Professions"),
   example-rows: (
@@ -2856,6 +3004,9 @@ Is labor dignified or demeaning? Is idleness virtuous (noble leisure) or sinful?
     ([Disreputable or shameful], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[What professions are respected? Looked down upon?]
+],
 )
 
 
@@ -2912,16 +3063,18 @@ Describe 2-3 that matter for your story:
 ]
 
 
+#block(breakable: false)[
+
 #strong[What festival tradition do your characters participate in together?]
 
-
 Describe the scene:
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
+
+]
 
 
 #strong[Do festivals allow any relaxation of normal rules?]
@@ -2973,79 +3126,82 @@ The threat of exile is often more useful to your story than exile itself. When y
 === What Exile Strips Away
 
 
-When building exile customs for your world, think about what the banished person loses beyond location. Do they lose their name? Their family connections? Access to magic? Their place in the afterlife? The more the exile strips away, the higher the cost of the transgression that caused it, and the more your character risks by pursuing a forbidden relationship.
+#block(breakable: false)[
 
+When building exile customs for your world, think about what the banished person loses beyond location. Do they lose their name? Their family connections? Access to magic? Their place in the afterlife? The more the exile strips away, the higher the cost of the transgression that caused it, and the more your character risks by pursuing a forbidden relationship.
 
 The other key aspect of exile in romantasy is how it ends for the characters. Does exile result in a permanent loss of home and identity? Or can the individual escape their exile and start anew? Can an exiled character create a life outside of their homeland, and will they ever be able to overcome the shame associated with their separation from society? In some fantasy worlds exile results in a form of death sentence for the character. In other worlds exile is considered a social death, where the exiled individual lives on as a physical being but is socially invisible and unable to connect with anyone.
 
-
 One of the most frequently occurring, and ultimately the most emotionally gratifying, forms of resolution for exile in romantasy is the found family. If a character has been exiled from their natural or culturally defined family, the romance provides more than a partner; it provides a new family for the exiled character. The loved ones' people become the exiled individual's people. Together they construct a home, a court, a rebellion, or a secret city which serves as a replacement for what has been taken from the individual.
-
 
 The narrative resolution of found family is effective because it recognises that humans need more than romantic love to survive. A person requires community, a sense of belonging, and a sense of purpose to truly thrive. What makes the found family so emotionally powerful is that the exile established what was lost. Therefore, when readers have witnessed you remove the character from every aspect of society, witnessing that same character establish a new existence, one that is developed based upon choice rather than inheritance, carries significant emotional weight.
 
-
 #strong[What does banishment or exile look like in your world?]
-
 
 Physical exile from the territory? Social death while remaining present? Being cut off from family, magic, or community? Loss of name, title, or identity? Inherited stigma that marks the next generation?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What triggers banishment?]
 
-
 What transgression crosses the line from punishable to unforgivable? Is there a formal process, or can it happen at one person's command?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Has your character seen someone else face this consequence?]
 
-
 Showing the cost through a secondary character makes the threat real before your protagonists face it. Who in your world has already been cast out, and what happened to them?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[Is exile reversible in your world?]
 
-
 Can the banished return? What would it cost? Is there a path to redemption, or are some falls permanent?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What replaces the lost community?]
 
-
 If your character is exiled, where do they go? Who takes them in? Does the romance provide not just a partner but a new world to belong to?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
-
-#strong[Map your character's exile (actual or threatened):]
+]
 
 
 #structured-table(
@@ -3063,6 +3219,9 @@ If your character is exiled, where do they go? Who takes them in? Does the roman
     ([What replaces it], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[Map your character's exile (actual or threatened):]
+],
 )
 
 
@@ -3109,40 +3268,46 @@ Additionally, allow secondary characters to reinforce the consequences of breaki
 )
 
 
+#block(breakable: false)[
+
 #strong[What happens when someone violates these unwritten rules?]
 
-
 Social consequences — awkwardness, offense, whispers, retaliation:
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[If your characters are from different classes, how do they navigate interaction?]
 
-
 Do they follow the rules? Chafe against them? Have a private space where class doesn't apply?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What social space allows them to interact more freely than usual?]
 
-
 Markets? Festivals? Neutral territory? Magical spaces? Private chambers?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #structured-table(
@@ -3210,34 +3375,32 @@ To build anticipation for the name shift, establish the formality at the beginni
 )
 
 
-#strong[When is it appropriate to use informal or intimate forms?]
+#block(breakable: false)[
 
+#strong[When is it appropriate to use informal or intimate forms?]
 
 Between family? Close friends? Lovers? Only after marriage?
 
-
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[What shift in address marks a change in relationship?]
 
-
 From title to first name? From formal to informal? A new nickname?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
-
-#strong[When do your characters shift how they address each other?]
-
-
-This is often a pivotal intimacy moment:
+]
 
 
 #structured-table(
@@ -3251,31 +3414,36 @@ This is often a pivotal intimacy moment:
     ([When and why], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[When do your characters shift how they address each other?]
+
+This is often a pivotal intimacy moment:
+],
 )
 
 
+#block(breakable: false)[
+
 #strong[Is there significance to names in your world?]
 
-
 True names with power? Secret names? Multiple names for different contexts?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
+]
 
-#block(breakable: false)[
 
 ==== What does it mean when one character learns the other's private or true name?
+
 
 #writing-box(
   label: "What does it mean when one character learns the other's private or true name?",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 == Cultural Differences Between Characters
@@ -3303,9 +3471,6 @@ If yes:
 )
 
 
-#strong[What are the key differences between their cultures?]
-
-
 #structured-table(
   headers: ("Aspect", "Culture 1", "Culture 2"),
   example-rows: (
@@ -3317,10 +3482,10 @@ If yes:
     ([Taboos], [], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[What are the key differences between their cultures?]
+],
 )
-
-
-#strong[What does one culture do that the other finds shocking, rude, or confusing?]
 
 
 #structured-table(
@@ -3334,31 +3499,38 @@ If yes:
     ([3], []),
   ),
   row-height: 60pt,
+  preamble: [
+#strong[What does one culture do that the other finds shocking, rude, or confusing?]
+],
 )
 
+
+#block(breakable: false)[
 
 #strong[What romantic gesture from one culture means something different in the other?]
 
-
 This is prime territory for miscommunication and eventual understanding:
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 #strong[When do they realize they've been misunderstanding each other?]
 
-
 The revelation scene:
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
+
+]
 
 
 #strong[What cultural tradition does one character teach the other?]

@@ -973,18 +973,17 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 ]
 
 
-#block(breakable: false)[
-
 ==== Could the characters have the creature bond without having a romantic relationship?
 
+
 #hint[Are there bonded rider pairs who aren't romantically involved? Is romance a separate thing from creature partnership?]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 == Weather, Seasons & Environmental Pressure
@@ -1320,18 +1319,17 @@ The best inter-species romances let the human partner discover these differences
 ]
 
 
-#block(breakable: false)[
-
 ==== What can one perceive about the other that's normally hidden?
 
+
 #hint[Can the fae see through glamours? Can the shifter smell lies? Can the vampire hear heartbeats quicken?]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 == Lifespan & Time
@@ -1408,18 +1406,17 @@ Aragorn and Arwen's relationship in The Lord of the Rings establishes the preced
 ]
 
 
-#block(breakable: false)[
-
 ==== Is there any way to change this?
 
+
 #hint[Can the mortal become immortal? Can the immortal give up their lifespan? What would either cost?]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 == Instinct, Biology & Choice
@@ -1655,18 +1652,17 @@ Don't do this. Let your monster remain dangerous after falling in love. Love doe
 ]
 
 
-#block(breakable: false)[
-
 ==== How does your protagonist feel about the danger?
 
+
 #hint[Fear and attraction coexist in monster romance. Does your protagonist find the danger thrilling? Terrifying? Both? Do they understand what's being held back — and does that understanding draw them closer or push them away?]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 == Living in Two Worlds

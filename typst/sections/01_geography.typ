@@ -120,18 +120,17 @@ You may feel that if your geography does not cause friction for your characters 
 )
 
 
-#block(breakable: false)[
-
 ==== Could your characters simply walk away from each other?
 
+
 #hint[If the answer is yes, your pressure cooker has a leak. What makes leaving impossible, too dangerous, or too costly?]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 == Common Geographic Patterns in Romantasy
@@ -337,18 +336,17 @@ You may feel that if your geography does not cause friction for your characters 
 )
 
 
-#block(breakable: false)[
-
 ==== How does the relationship between these kingdoms/nations affect your romance?
 
+
 #hint[Are your characters from rival nations? Allied ones? Does one kingdom control something the other needs? The political geography between nations often becomes the romantic geography between lovers.]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 #open-table(
@@ -555,18 +553,17 @@ For deeper language work, see #emph[Section 11: Language & Communication].
 ]
 
 
-#block(breakable: false)[
-
 ==== Where could naming differences create a quiet intimacy beat?
 
+
 #hint[A character stumbling over an unfamiliar name, asking what a place name means, or learning that their love interest's homeland translates to something beautiful — these are small moments that build closeness. Where in your story could the act of learning someone's language or place names become a romantic gesture?]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 == Resources & Territorial Control
@@ -734,18 +731,17 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
 ]
 
 
-#block(breakable: false)[
-
 ==== What's harsh or uncomfortable about this place?
 
+
 #hint[What do people endure or complain about? What takes getting used to?]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 == Climate, Weather & Seasons
@@ -828,18 +824,17 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
 )
 
 
-#block(breakable: false)[
-
 ==== Does the season create pressure or opportunity in your story?
 
+
 #hint[Racing against winter? Waiting for spring thaw? Only able to travel in summer?]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 == Dangerous Regions
@@ -1123,18 +1118,17 @@ This can happen on a much smaller level. In #emph[Bridgerton] (Season 2 / #emph[
 ]
 
 
-#block(breakable: false)[
-
 ==== What does the visitor understand about their partner after seeing where they come from?
 
+
 #hint[Place explains people. What becomes clear about your love interest once you see where they grew up?]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 == Travel & Distance
@@ -1343,18 +1337,17 @@ In #emph[Fourth Wing], the use of emotional geography is taken further. Violet's
 ]
 
 
-#block(breakable: false)[
-
 ==== Is there a location that becomes meaningful to your characters specifically?
 
+
 #hint[A place they return to, a place where something changed, a place that's "theirs":]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 #structured-table(

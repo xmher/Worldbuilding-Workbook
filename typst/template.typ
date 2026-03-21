@@ -32,11 +32,11 @@
 ) = {
   set document(title: title)
 
-  // Page geometry — 8.5 × 11 in, generous margins
+  // Page geometry — 8.5 × 11 in, tighter margins for digital
   set page(
     width: 8.5in,
     height: 11in,
-    margin: (top: 1in, bottom: 1.25in, left: 1.1in, right: 1.1in),
+    margin: (top: 0.75in, bottom: 0.9in, left: 0.85in, right: 0.85in),
     fill: white,
 
     // Double decorative border on every page
@@ -124,7 +124,8 @@
     ]
   }
 
-  // R4: H2 headings get 24pt+ above, always keep with next block
+  // R4: H2 headings — large top margin to separate from previous content,
+  // tight bottom margin so heading+divider feel like one unit (Issue 20)
   show heading.where(level: 2): it => {
     set text(
       font: font-display,
@@ -133,17 +134,17 @@
       fill: color-noir,
     )
     block(
-      above: 2.5em,
-      below: 1.2em,
+      above: 3em,
+      below: 0.75em,
       breakable: false,
     )[
       #it.body
-      #v(0.5em)
+      #v(0.3em)
       #line(length: 100%, stroke: 2pt + color-accent)
     ]
   }
 
-  // R4: H3 headings get 18pt+ above
+  // R4: H3 headings — more above, less below (Issue 20)
   show heading.where(level: 3): it => {
     set text(
       font: font-display,
@@ -151,7 +152,7 @@
       weight: "bold",
       fill: color-theme,
     )
-    block(above: 2em, below: 0.75em, it.body)
+    block(above: 2.5em, below: 0.6em, it.body)
   }
 
   show heading.where(level: 4): it => {
@@ -162,7 +163,7 @@
       style: "italic",
       fill: color-text-sub,
     )
-    block(above: 1.25em, below: 0.5em, it.body)
+    block(above: 1.5em, below: 0.4em, it.body)
   }
 
   body
@@ -437,14 +438,16 @@
     #set text(size: 0.9em)
     #body
     #if fix != none {
-      v(0.75em)
+      v(1.25em)
+      line(length: 40%, stroke: 0.5pt + color-danger.lighten(60%))
+      v(0.5em)
       text(
         font: font-display,
         size: 0.65em,
         tracking: 1pt,
         fill: color-theme,
       )[#upper("Fix")]
-      linebreak()
+      v(0.3em)
       text(size: 0.9em)[#fix]
     }
   ]
@@ -631,11 +634,19 @@
     else { 1fr }
   })
 
-  // Always allow breaking — individual rows are non-breakable (no ghost rows),
-  // and Typst's heading orphan protection keeps headings with content.
-  // This avoids dead white space from non-breakable blocks being pushed
-  // to the next page.
-  block(width: 100%, above: 1.5em, below: 1.5em, breakable: true)[
+  // Issue 5: Estimate total height. If preamble exists and table is too tall
+  // for one page, force a page break so preamble stays with table header.
+  // If table fits on one page, make block non-breakable to keep everything together.
+  let est-row-h = row-height / 1pt + 24
+  let est-total = 44 + (example-rows.len() + rows.len()) * est-row-h
+  let preamble-h = if preamble != none { 120 } else { 0 }
+  let fits-one-page = (est-total + preamble-h) < 620
+
+  if not fits-one-page and preamble != none {
+    pagebreak(weak: true)
+  }
+
+  block(width: 100%, above: 1.5em, below: 1.5em, breakable: not fits-one-page)[
     #if preamble != none { preamble }
     #set par(justify: false)
     #table(
@@ -688,11 +699,23 @@
     )
   )
 
+  // Auto-detect narrow yes/no columns (same logic as structured-table, Issue 4)
+  let check-headers = ("✓", "✓/✗", "check", "y/n", "status")
+  let yn-prefixes = ("does it", "does this", "does your", "is it", "is there", "are there", "can it", "can they", "has it", "has this", "have they", "have characters", "was there", "exists in", "present in", "connects to", "do they")
+  let ot-col-widths = headers.map(h => {
+    let normalized = lower(h.trim())
+    if normalized in check-headers { 50pt }
+    else if yn-prefixes.any(p => normalized.starts-with(p)) and normalized.ends-with("?") { 80pt }
+    else if normalized.ends-with("?") and normalized.contains(" or ") { 80pt }
+    else if normalized.ends-with("?") and normalized.len() <= 12 { 80pt }
+    else { 1fr }
+  })
+
   // Shared table builder
   let make-table(all-rows, ex-count) = {
     set par(justify: false)
     table(
-      columns: range(col-count).map(_ => 1fr),
+      columns: ot-col-widths,
       fill: (col, row) => {
         if row == 0 { color-theme }
         else if row <= ex-count { color-theme.lighten(92%) }

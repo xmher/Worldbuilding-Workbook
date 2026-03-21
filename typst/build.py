@@ -550,13 +550,25 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 consumed.add(j)
             elif next_type == "writing_box":
                 # Group heading2 preamble + writing_box together
+                wb_item = content[j]
+                should_fill = j in fill_page_indices
+                if should_fill:
+                    wb_item = dict(wb_item)
+                    wb_item["fill_page"] = True
                 wb_gen = GENERATORS.get("writing_box")
                 if wb_gen:
-                    preamble_parts.append(wb_gen(content[j]))
-                parts.append(
-                    f"\n#block(breakable: false)["
-                    f"\n{''.join(preamble_parts)}\n]\n"
-                )
+                    if should_fill:
+                        # Don't wrap fill-page box in non-breakable block —
+                        # layout() needs to measure the page, not the block
+                        for p in preamble_parts:
+                            parts.append(p)
+                        parts.append(wb_gen(wb_item))
+                    else:
+                        preamble_parts.append(wb_gen(wb_item))
+                        parts.append(
+                            f"\n#block(breakable: false)["
+                            f"\n{''.join(preamble_parts)}\n]\n"
+                        )
                 consumed.add(j)
             else:
                 # No table/group/writing_box follows — output normally
@@ -590,13 +602,24 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 consumed.add(j)
             elif next_type == "writing_box":
                 # Group heading4+hint+writing_box together
+                wb_item = content[j]
+                should_fill = j in fill_page_indices
+                if should_fill:
+                    wb_item = dict(wb_item)
+                    wb_item["fill_page"] = True
                 wb_gen = GENERATORS.get("writing_box")
                 if wb_gen:
-                    preamble_parts.append(wb_gen(content[j]))
-                parts.append(
-                    f"\n#block(breakable: false)["
-                    f"\n{''.join(preamble_parts)}\n]\n"
-                )
+                    if should_fill:
+                        # Don't wrap fill-page box in non-breakable block
+                        for p in preamble_parts:
+                            parts.append(p)
+                        parts.append(wb_gen(wb_item))
+                    else:
+                        preamble_parts.append(wb_gen(wb_item))
+                        parts.append(
+                            f"\n#block(breakable: false)["
+                            f"\n{''.join(preamble_parts)}\n]\n"
+                        )
                 consumed.add(j)
             else:
                 # No table follows — output normally
@@ -646,6 +669,58 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                     parts.append(p)
             continue
 
+        # Issue 5: Standalone hint/prose before a writing_box or table
+        # (without a preceding heading) — group them together so the question
+        # text stays with its fillable element.
+        if item_type in ("hint", "prose"):
+            fillable_types = {"writing_box", "structured_table", "open_table"}
+            # Look ahead: collect consecutive hint/prose, check if fillable follows
+            preamble_parts = []
+            j = idx
+            while j < len(content) and content[j].get("type", "") in ("hint", "prose"):
+                if j in consumed:
+                    j += 1
+                    continue
+                child_gen = GENERATORS.get(content[j]["type"])
+                if child_gen:
+                    preamble_parts.append(child_gen(content[j]))
+                j += 1
+            next_type = content[j].get("type", "") if j < len(content) else ""
+            if next_type in fillable_types and len(preamble_parts) > 0:
+                # Mark intermediate items as consumed
+                for k in range(idx + 1, j):
+                    consumed.add(k)
+                if next_type == "writing_box":
+                    wb_item = content[j]
+                    should_fill = j in fill_page_indices
+                    if should_fill:
+                        wb_item = dict(wb_item)
+                        wb_item["fill_page"] = True
+                    wb_gen = GENERATORS.get("writing_box")
+                    if wb_gen:
+                        if should_fill:
+                            # Don't wrap fill-page box in non-breakable block
+                            for p in preamble_parts:
+                                parts.append(p)
+                            parts.append(wb_gen(wb_item))
+                        else:
+                            preamble_parts.append(wb_gen(wb_item))
+                            parts.append(
+                                f"\n#block(breakable: false)["
+                                f"\n{''.join(preamble_parts)}\n]\n"
+                            )
+                    consumed.add(j)
+                    continue
+                elif next_type in ("structured_table", "open_table"):
+                    preamble_text = "".join(preamble_parts)
+                    table_item = content[j]
+                    if next_type == "structured_table":
+                        parts.append(gen_structured_table(table_item, preamble=preamble_text))
+                    else:
+                        parts.append(gen_open_table(table_item, preamble=preamble_text))
+                    consumed.add(j)
+                    continue
+
         # R2: If this writing_box should fill the page, inject fill_page flag
         if item_type == "writing_box" and idx in fill_page_indices:
             item = dict(item)  # copy to avoid mutating original
@@ -683,7 +758,27 @@ def compile_pdf():
 
 
 def build():
-    mode = sys.argv[1] if len(sys.argv) > 1 else None
+    mode = None
+    sections_filter = None
+
+    # Parse arguments
+    args = sys.argv[1:]
+    i = 0
+    while i < len(args):
+        if args[i] == "--sections" and i + 1 < len(args):
+            # e.g. --sections 0-3 or --sections 0,1,2,3
+            spec = args[i + 1]
+            if "-" in spec and "," not in spec:
+                start, end = spec.split("-")
+                sections_filter = set(range(int(start), int(end) + 1))
+            else:
+                sections_filter = set(int(x) for x in spec.split(","))
+            i += 2
+        elif args[i].startswith("--"):
+            mode = args[i]
+            i += 1
+        else:
+            i += 1
 
     SECTIONS_DIR.mkdir(exist_ok=True)
     OUTPUT_DIR.mkdir(exist_ok=True)
@@ -693,6 +788,20 @@ def build():
     if mode != "--compile":
         # --- Generate .typ files from JSON ---
         json_files = sorted(DATA_DIR.glob("*.json"))
+
+        # Filter sections if --sections flag provided
+        if sections_filter is not None:
+            filtered = []
+            for jf in json_files:
+                # Extract section number from filename prefix (e.g. "01_geography" -> 1)
+                try:
+                    num = int(jf.stem.split("_")[0])
+                    if num in sections_filter:
+                        filtered.append(jf)
+                except ValueError:
+                    pass
+            json_files = filtered
+            print(f"  Filtering to sections: {sorted(sections_filter)}")
         if not json_files:
             print("No JSON files found in data/")
             sys.exit(1)
