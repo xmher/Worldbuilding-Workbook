@@ -2527,22 +2527,28 @@ In *ACOTAR*, Feyre kills a faerie, a magical creature, in the woods. The incitin
 In *ACOTAR*, Feyre solves Amarantha's riddle, and the answer is love. Her willingness to die for Tamlin breaks the curse. The romantic sacrifice triggers the magical solution. The romantic climax IS the magical climax.
 
 **How does your protagonist's romantic choice enable the magical resolution?**
-In the best romantasy, love isn't separate from magic. The emotional climax and the magical climax should intertwine.
 
-_______________________________________________________________________________
+*In the best romantasy, love isn't separate from magic. The emotional climax and the magical climax should intertwine.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What is your protagonist's magical state at the end versus the beginning?**
-Gained power, lost it, transformed, or learned to use it differently?
 
-_______________________________________________________________________________
+*Gained power, lost it, transformed, or learned to use it differently?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

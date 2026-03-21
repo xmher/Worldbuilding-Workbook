@@ -768,23 +768,16 @@ Who has access to information and who does not, shapes power dynamics in romance
 
 If your world has magic, it doesn't exist in a vacuum. It interacts with technology, replaces it, enhances it, or conflicts with it. The key question for romance isn't "how does magic work?" but "who has access to magical solutions and who doesn't?" That asymmetry drives character dynamics.
 
-**Does magic replace certain technologies?**
-*When magic fills a need that technology would otherwise serve, it changes who has access to solutions. If magical heating replaces fireplaces, then characters without magic are left in the cold — literally and figuratively.*
+**How does magic interact with technology in your world? Does it replace, enhance, or conflict with technological solutions? Who has access to magical vs. technological solutions?**
+*The key question for romance isn't "how does magic work?" but "who has access to magical solutions and who doesn't?" If magical heating replaces fireplaces, characters without magic are left in the cold. Enchanted items create inequality in who has access. If magic interferes with technology or vice versa, characters must choose between solutions — and that choice reveals what they value. The gap between magical and mundane solutions is often the gap between your characters' worlds.*
 
-What technology doesn't exist because magic fills the need:
+*(Write your answer below)*
 
-**Does magic enhance technology?**
-*Enchanted items and magitech create a world where some tools are more powerful than they should be — and access to those enhanced tools becomes another axis of inequality between your characters.*
+&nbsp;
 
-Enchanted items, magitech:
+&nbsp;
 
-**Do magic and technology conflict?**
-*If magic interferes with technology or vice versa, your characters may have to choose between magical and technological solutions — and that choice reveals what they value and who they trust.*
-
-Does magic interfere with technology or vice versa?
-
-**Who has access to magical vs. technological solutions?**
-*Magic and technology may solve similar problems differently. Which solution is available to your protagonist, and which is beyond reach? The gap between magical and mundane solutions is often the gap between your characters' worlds.*
+&nbsp;
 
 **What magical solution does one character have that the other doesn't? How does the character without magic solve the same problem, and does the divide create dependency, resentment, wonder, or something else?**
 *When one character has access to magical solutions and the other relies on slower, harder alternatives, the gap creates dependency, resentment, or wonder. This asymmetry is fuel for romantic tension.*

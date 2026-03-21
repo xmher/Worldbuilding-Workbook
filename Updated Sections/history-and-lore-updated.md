@@ -1562,8 +1562,6 @@ The fact that immortals and ancient beings have a personal connection to the pas
 
 This "emotional stasis," or lack of emotional aging, is an almost defining characteristic of the fae court romantasy subgenre. Historical events can become traumatic experiences that remain intensely personal and therefore can be directly tied to the romantic arc. Rhysand is personally connected to the war that created the Wall, not simply as a participant, but as a fighter who suffered losses during the conflict. All decisions that he makes based on politics are fuelled by the same anger and sense of loss that he felt centuries ago. Edward Cullen's ability as a vampire to recall all of his moments since becoming a vampire is due to the clarity and perfection of his immortal memory, while his human memories are fading and indistinct. As a vampire that has been alive for over one hundred years, Edward is stuck in time. His relationship with Bella forces him to confront the stark difference between his crystalline immortal memory and her very brief, intense, mortal experience. And in *Shadow and Bone*, the Darkling has lived for centuries and has watched as Sun Summoners came and went. Alina Starkov is another Sun Summoner, and unlike the many others that came before her, she refuses to play out the role assigned to her.
 
-**Is either of your characters a long-lived being?**
-
 **Is either character a long-lived being? Who are they, how old are they, and what history have they personally lived through?**
 
 *(Write your answer below)*

@@ -2757,17 +2757,26 @@ From title to first name? From formal to informal? A new nickname?
 
 True names with power? Secret names? Multiple names for different contexts?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does it mean when one character learns the other's private or true name?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Cultural Differences Between Characters
 
 **Do your characters come from different cultural backgrounds?**

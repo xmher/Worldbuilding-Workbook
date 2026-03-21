@@ -2559,41 +2559,61 @@ Sometimes, the antagonists of a romantic fantasy are the very systems we live un
 
 **Are there legal means to change the laws keeping them apart?**
 
-Appealing for exception? Changing laws politically? Waiting for a new ruler? Finding loopholes?
+*Appealing for exception? Changing laws politically? Waiting for a new ruler? Finding loopholes?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If peaceful change is impossible, what would revolution look like?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Would your characters join or lead a revolution?**
 
-What would push them from surviving the system to fighting it?
+*What would push them from surviving the system to fighting it?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would they sacrifice to change the system?**
 
-Safety? Family? Status? Each other?
+*Safety? Family? Status? Each other?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's lost even if they win?**
 
-Revolution isn't clean. Lives lost? Stability destroyed? Becoming what they fought?
+*Revolution isn't clean. Lives lost? Stability destroyed? Becoming what they fought?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
