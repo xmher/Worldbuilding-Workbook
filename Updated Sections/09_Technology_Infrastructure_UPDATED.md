@@ -454,29 +454,16 @@ Water scenes can serve two distinctly different romantic purposes in romantasy. 
 
 &nbsp;
 
-**How do people get clean water?**
-Wells, rivers, aqueducts, pumps, magical purification:
+**How do people get clean water, how do they bathe, and what sanitation exists? What are the health implications?**
+*Consider: wells, rivers, aqueducts, pumps, or magical purification for water. Public bathhouses, private baths, rivers/lakes, or basins for bathing, and how frequently. Sewers, chamber pots, outhouses, or magical waste disposal for sanitation. A city with open sewers smells and feels very different from one with magical waste disposal — these details make your world feel lived-in. Disease, cleanliness, and smell all flow from sanitation; a world where illness is common is a world of constant vulnerability.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-**How do people bathe?**
-Public bathhouses, private baths, rivers/lakes, basins, rarely:
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-Frequency: ______________________________________________________
-
-**What sanitation exists?**
-*Sanitation shapes the sensory world your characters inhabit. A city with open sewers smells and feels very different from one with magical waste disposal — and these details make your world feel lived-in.*
-
-Sewers, chamber pots, outhouses, magical waste disposal:
-
-**What are the health implications of sanitation level?**
-*Disease, cleanliness, and smell all flow from sanitation. A world where illness is common is a world where vulnerability is constant — and where staying healthy is never guaranteed.*
-
-Disease, cleanliness, smell:
-
-_______________________________________________________________
+&nbsp;
 
 **What does your world smell like, and how do your characters smell?**
 A world without the sanitation we have today will be smelly. Cities smell. People smell. Woodsmoke, horse, leather, herbs, sweat. These are the sensory details that make a world feel real. The love interest's distinctive scent is a genre staple: Yennefer's letters smell of lilac and gooseberries in *The Witcher*; Bardugo's Darkling fills a room with the scent of winter wind and bare branches in *Siege and Storm*; in *Duke of Sin*, Elizabeth Hoyt has her hero find the heroine's unwashed scent (sweat, sex, earth) deeply enticing rather than repellent.

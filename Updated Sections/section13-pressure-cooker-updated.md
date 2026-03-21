@@ -630,14 +630,24 @@ This is a powerful tool if your protagonist enters the pressure cooker from a pl
 
 What has your protagonist been denied before the pressure cooker?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 How does the love interest become associated with those first experiences?
 *The first person who touched them gently. The first person who treated them as capable. The first person whose presence felt like safety instead of surveillance:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -653,12 +663,24 @@ _______________________________________________________________
 **How does the internal monologue change over the course of the confinement?**
 *Early on, the other person might barely register. Or they might register as a threat, an annoyance, an obligation. How does the internal framing shift as proximity does its work?*
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a moment of internal honesty, when the character admits to themselves what they actually feel?**
 *This beat is often the emotional climax of the forced proximity arc, even if nothing external changes. It's the moment when the character stops lying to themselves — and the reader finally exhales.*
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -680,22 +702,46 @@ This is the impact of daily routines on individuals in forced proximity. Routine
 **What moment repeats daily that becomes meaningful?**
 The same time of day they always cross paths? A shared task? A regular meal? A moment of quiet?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does a routine moment become ritual, something they both anticipate?**
 What starts as obligation and becomes something they look forward to:
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What changes when the routine is broken?**
 If one day the pattern doesn't happen, what does that mean? What do they feel? This is a great test of how invested the characters (and readers) have become: the absence of the expected moment reveals its importance.
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do they develop private rituals only they share?**
 Something that becomes "theirs" within the larger routine:
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -710,12 +756,24 @@ Relief is also where the romantic arc becomes visible *to the characters themsel
 **When does the pressure temporarily release?**
 Moments when they can be apart, when danger pauses, when they get privacy or solitude:
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What do they do with moments of relief?**
 Seek solitude? Seek each other? Process what's happening? Avoid thinking about it?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does relief feel different as the relationship develops?**
 Early on, relief might mean escaping each other. Later, it might mean finding each other.

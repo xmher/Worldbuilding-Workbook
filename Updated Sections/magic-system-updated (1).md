@@ -486,79 +486,102 @@ This overlap was not incidental. It's what makes romantic tension feel mythic ra
 The way someone uses magic shows who they are. In romance, this becomes a way for characters to see each other, to notice things about how the other person wields power that others miss entirely.
 
 **What does the way your protagonist uses magic reveal about them that most people don't notice?**
-Are they more gentle than they appear? More precise? More reckless? More afraid?
 
-_______________________________________________________________
+*Are they more gentle than they appear? More precise? More reckless? More afraid?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does the love interest notice about the protagonist's magic that others overlook?**
-Seeing what others miss is a form of intimacy. What do they perceive that reveals how closely they watch?
 
-_______________________________________________________________
+*Seeing what others miss is a form of intimacy. What do they perceive that reveals how closely they watch?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What do they see in each other's magic that makes them understand each other differently?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Is there a moment where one character sees the other use magic and realises something important?**
-About their power, their control, their fear, their care:
 
-_______________________________________________________________
+*About their power, their control, their fear, their care:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Vulnerability Through Magic
 
 Magic can strip away defences. Not because it's designed to, but because using it requires something from the person wielding it. In *Fourth Wing*, Violet and Xaden can speak mind-to-mind, which means he knows when she's scared, when she's lying, when she's thinking about him. There's nowhere to hide.
 
 **When is your character most vulnerable while using magic?**
-During casting, after exhaustion, when emotions run high, when they're at their limits?
 
-_______________________________________________________________
+*During casting, after exhaustion, when emotions run high, when they're at their limits?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would it mean for the love interest to see them in that state?**
-Is this something they'd normally hide?
 
-_______________________________________________________________
+*Is this something they'd normally hide?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Has your character ever had to use magic in front of the love interest when they would have preferred to hide?**
-What happened?
 
-_______________________________________________________________
+*What happened?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Flip it: has your character ever seen the love interest vulnerable through magic?**
-What did they learn?
 
-_______________________________________________________________
+*What did they learn?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -576,45 +599,51 @@ In From Blood and Ash, Casteel (posing as Hawke) uses his role as Poppy's guard 
 
 **How does your character learn or develop their magic?**
 
-*Training is one of the most reliable vehicles for romantic tension in the genre. How your character learns shapes who they're close to, who has power over them, and what kind of vulnerability the learning demands.*
+*Training is one of the most reliable vehicles for romantic tension in the genre. How your character learns shapes who they're close to, who has power over them, and what kind of vulnerability the learning demands. Options: formal instruction, self-taught experimentation, a mentor, trial by fire, institutional training, inherited knowledge.*
 
-Formal instruction, self-taught experimentation, a mentor, trial by fire, institutional training, inherited knowledge?
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
 
 **Who teaches them? What is the power dynamic?**
 
 *Teacher/student relationships carry inherent tension because one person holds knowledge and the other needs it. The most interesting version of this trope uses it to contrast healthy and unhealthy models of power — Tamlin's containment versus Rhysand's empowerment.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Does the training require physical proximity or contact?**
 
 *Combat training, shared rituals, mental shielding, guided meditation, channelling through touch — any of these create a functional excuse for closeness that can become charged. The question isn't just whether they have to be near each other, but what that nearness forces them to feel.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What does the training environment look like?**
 
 *A private sparring room feels different from a crowded academy hall. Where your characters train shapes what kind of intimacy the training allows — and what kind of witnesses might complicate things.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Training as Intimacy
 

@@ -885,6 +885,7 @@ Direct confrontation? Indirect communication? Mediation through third parties?
 &nbsp;
 
 ---
+
 ## Hospitality & Guest Rights
 
 While it may seem like hospitality would be a minor detail when building a world, in romantasy it can be one of the most dependable ways to generate romantic tension. Both of your characters are continually entering into each other's space, and the obligations that come from being a guest or a host establish a precarious, intimate dynamic that has a lot of opportunity.
@@ -905,33 +906,49 @@ When developing hospitality customs for your world, consider the rituals that oc
 
 Protection? Food and shelter? Safe passage? How long do guest rights last? Is there a formal ritual of welcome that activates these obligations?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does a guest owe their host?**
 
 Respect for house rules? Gifts? Restraint? What behaviour would violate guest rights? Are there things a guest must never do (ask certain questions, enter certain rooms, refuse offered food)?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens when hospitality is violated?**
 
 By either party. What are the consequences of betraying a guest or dishonouring a host? Is the penalty social, legal, magical, or divine?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does your protagonist's guest status affect the romance?**
 
 Are they a willing guest, a reluctant one, or a prisoner in all but name? How does the power imbalance of guest and host shape the early dynamic between your characters?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Which hospitality pattern does your romance use?**
 
@@ -965,45 +982,63 @@ Leisure time is great for creating opportunities for your characters to spend ti
 
 Music, theater, games, sports, storytelling, gambling — what do people do for enjoyment?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What stories or legends does everyone know?**
 
 The cultural touchstones — tales children grow up hearing, references everyone understands:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What music exists? When is it played?**
 
 Instruments, styles, occasions for music:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What games or sports do people play?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What art forms are valued?**
 
 Visual arts, crafts, performance, literature — what does this culture create and prize?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What leisure activity brings your characters together?**
 
-*Dances require touch. Games reveal personality. Shared stories create inside jokes. What activity gives your characters an excuse to spend time together — and does everyone else see through the excuse?*
-
-**What social activity allows your characters to spend time together without arousing suspicion? What does it allow (touch, conversation, competition), and how obvious is it to others that they're there for each other?**
+*Dances require touch. Games reveal personality. Shared stories create inside jokes. What activity gives your characters an excuse to spend time together? What does it allow (touch, conversation, competition), and how obvious is it to others that they're there for each other?*
 
 *(Write your answer below)*
 

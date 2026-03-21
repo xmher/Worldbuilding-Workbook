@@ -595,21 +595,45 @@ Barracks, tents, ships, field camps; what privacy exists?
 
 Capture, neutral ground, secret negotiations, undercover work, chance meeting?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What information does each have that could harm the other's side?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would each sacrifice to be together?**
 
 *The weight of the sacrifice is what proves the love is real. If what they'd give up is trivial, the choice carries no tension. If it's everything — loyalty, identity, safety — then the reader understands just how much this person matters.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **At what point does love become treason?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -625,23 +649,37 @@ Temples, monasteries, and religious orders create unique pressure: vows that con
 
 Temple, monastery, convent, religious order, pilgrimage site, sacred academy?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What is the institution's stated purpose?**
 
 Training priests? Preserving knowledge? Serving a deity? Healing? Protection? Isolation from the world?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What vows or commitments does the institution require?**
 
 Celibacy, obedience, poverty, silence, service, separation from family, renunciation of former identity?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Religious Conflict with Love
 
@@ -654,15 +692,25 @@ _______________________________________________________________
 
 **Is the relationship forbidden, or just complicated by religious duty?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would the institution do if the relationship were discovered?**
 
 Expulsion? Punishment? Forced separation? Loss of position? Trial? Worse?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Faith & Desire
 
@@ -670,23 +718,35 @@ _______________________________________________________________
 
 *This internal conflict is what makes religious settings so powerful for romance. A character torn between devotion to their god and desire for another person carries a tension that no external obstacle can match — because the obstacle is inside them.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do they reconcile (or fail to reconcile) devotion and desire?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a way to have both, the relationship and their faith?**
 
 Or must they choose? *(Reference Section 6 for how religion might adapt or condemn)*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

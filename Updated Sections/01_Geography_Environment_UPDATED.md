@@ -798,9 +798,7 @@ This idea is central to the entire arc of the ACOTAR series. The Spring Court is
 
 #### Where does each character feel like an outsider?
 
-*Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?*
-
-**Where does each of your main characters feel most out of place — alien, uncomfortable, or unwelcome? Why?**
+*Fish-out-of-water moments reveal character. Where would each feel most out of place — alien, uncomfortable, or unwelcome? Why?*
 
 *(Write your answer below)*
 
@@ -811,6 +809,7 @@ This idea is central to the entire arc of the ACOTAR series. The Spring Court is
 &nbsp;
 
 ---
+
 ## Entering Each Other's Worlds
 
 When your characters are from different areas, sending one to visit the other's territory is a big deal. There is a certain risk of weakness in inviting someone to enter your home grounds. While your new friend will be seeing your world through their eyes, they'll also notice aspects of your world you've grown so accustomed to you no longer even think about. Both the beauty and the flaws are equally present.
@@ -825,13 +824,9 @@ This can happen on a much smaller level. In *Bridgerton* (Season 2 / *The Viscou
 
 ---
 
-## Entering Each Other's Worlds
-
 #### Does one character visit the other's home territory?
 
-*Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?*
-
-**When one character visits the other's world, who visits whom? What does the visitor notice first? What is the host proud of — and what would they rather hide? What everyday moment creates unexpected intimacy?**
+*Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide? Who visits whom? What does the visitor notice first? What everyday moment creates unexpected intimacy?*
 
 *(Write your answer below)*
 
@@ -845,29 +840,40 @@ This can happen on a much smaller level. In *Bridgerton* (Season 2 / *The Viscou
 
 *What do they notice first? What's strange? What's beautiful? What's uncomfortable?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 #### How does the "native" character see their home differently through the visitor's eyes?
 
 *Pride? Shame? New appreciation? Defensiveness?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### What does the visitor understand about their partner after seeing where they come from?
 
 *Place explains people. What becomes clear about your love interest once you see where they grew up?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Travel & Distance
 
 Distance lends an air of seriousness. When characters can go anywhere instantly, then being apart has little consequence. If you're travelling for weeks, then every time your characters leave each other, it counts.

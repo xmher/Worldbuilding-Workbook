@@ -759,51 +759,63 @@ Romantasy typically utilises marriage law as the primary legal barrier. Once you
 
 **Who can legally marry whom?**
 
-Consider restrictions based on class, species, magical status, gender, family, religion, age, political status:
+*Consider restrictions based on class, species, magical status, gender, family, religion, age, political status:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Why do these restrictions exist?**
 
-Give a reason — even if it's a bad one. Magical danger? Political control? Religious doctrine? Maintaining class system? Historical catastrophe blamed on forbidden unions?
+*Give a reason — even if it's a bad one. Magical danger? Political control? Religious doctrine? Maintaining class system? Historical catastrophe blamed on forbidden unions?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What makes a marriage legal and binding?**
 
-Religious ceremony? Legal contract? Magical binding? Consummation? Public declaration? Parental consent? Royal approval?
+*Religious ceremony? Legal contract? Magical binding? Consummation? Public declaration? Parental consent? Royal approval?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Can marriages be dissolved?**
 
-Divorce allowed? Annulment possible? Magical bonds breakable? Or is marriage permanent?
+*Divorce allowed? Annulment possible? Magical bonds breakable? Or is marriage permanent?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What are the consequences of an illegal marriage?**
 
-Criminal (execution, imprisonment, exile)? Social (loss of title, disownment)? Magical (loss of power, curse)? Political (loss of succession rights, treaty violation)?
+*Criminal (execution, imprisonment, exile)? Social (loss of title, disownment)? Magical (loss of power, curse)? Political (loss of succession rights, treaty violation)?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 

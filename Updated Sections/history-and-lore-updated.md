@@ -37,11 +37,23 @@ The deeper the historical layer, the harder it is to crack. Identify the layers 
 
 Is your central historical conflict surface-level (recent, raw, could be resolved with new information), mid-level (cultural memory, woven into traditions and assumptions), or bedrock (so deep it feels like identity, biology, or the laws of nature)?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 What would it take to crack sediment that deep?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -143,16 +155,24 @@ Think about the inherent unevenness that exists here. In *ACOTAR*, the fae have 
 **How is history recorded and preserved in your world?**
 *The methods your world uses to document history determine what survives, who has access to it, and what your characters can discover. A world that relies on oral tradition loses details but keeps emotional truth. A world with magical archives preserves everything but restricts access. The method shapes the mystery.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Which method is considered most authoritative?**
 What counts as "real" history vs. "just stories"? This matters for your romance. Can your characters dismiss the legend that condemns their love as "just a story," or does everyone treat it as sacred truth?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

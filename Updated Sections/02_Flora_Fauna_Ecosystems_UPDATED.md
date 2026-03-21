@@ -300,9 +300,7 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
 
 #### *Does your protagonist have an animal companion?*
 
-*How someone treats their animal reveals character. What does this companion show readers about your protagonist?*
-
-**Does your protagonist have an animal companion? If so, what is it, what is its name, and what does the animal mean to them?**
+*How someone treats their animal reveals character. If so, what is it, what is its name, and what does the animal mean to them? What does this companion show readers about your protagonist?*
 
 *(Write your answer below)*
 
@@ -508,9 +506,7 @@ In *From Blood and Ash*, Poppy's empathic healing abilities create physical inti
 
 #### *What natural remedies exist?*
 
-*Healing scenes create intimacy. What would one character use to tend the other's wounds or illness?*
-
-**What natural remedies exist in your world for pain, fever, and infection/wounds?**
+*Healing scenes create intimacy. What would one character use to tend the other's wounds or illness? What exists in your world for pain, fever, and infection or wounds?*
 
 *(Write your answer below)*
 

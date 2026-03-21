@@ -1582,6 +1582,14 @@ Partners from different backgrounds will clash over spending. This isn't a flaw 
 
 There should be a scene, maybe small, maybe private, where one character looks at their reduced circumstances and feels certain they chose right. What does that moment look like?
 
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ---
 
 ## Poverty, Survival & Desperation

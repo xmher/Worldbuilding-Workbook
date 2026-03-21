@@ -413,17 +413,25 @@ If you're protecting them, then provide a valid reason as to why, established be
 
 *A character who defeats ten soldiers in chapter five but struggles against two in chapter fifteen needs an in-world explanation for the shift. If power levels fluctuate without reason, readers lose trust in every obstacle — including the ones keeping your leads apart.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does anyone conveniently forget an ability that would solve the current problem?**
 
 *This is especially damaging in romantic tension scenes. If a telepath could just read the love interest's mind and resolve the misunderstanding, readers will wonder why they don't. You need a reason the ability doesn't work here — emotional interference, magical shielding, or the cost being too high to risk.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Environmental Consistency
 
@@ -439,13 +447,25 @@ _______________________________________________________________
 
 *If a three-week journey suddenly takes three days because your leads need to reunite, readers will notice. Physical distance is one of romantasy's most effective tools for building longing — but only if it's consistent.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do environmental dangers remain consistent?**
 
 *A forest that's deadly in chapter two should still be deadly in chapter eighteen. If your characters cross it safely later, there should be a reason: they've gained knowledge, protection, or allies that weren't available before. Environmental dangers that vanish when they're inconvenient undermine the sense that your world is real.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Authority and Surveillance
 
@@ -488,13 +508,25 @@ One of the biggest consistency issues in romantasy isn't actually a broken rule.
 
 *The dark lord doesn't pause his march because your protagonists need a three-chapter relationship arc. If the external threat exists, it should be pressing during romantic moments too, not waiting politely outside.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do romantic beats happen during plot events or in pauses between them?**
 
 *The strongest romantasy weaves them together. First kiss while hiding from enemies. Confession after surviving battle. Argument because they disagree on strategy. Intimacy when they might die tomorrow. If your romantic moments only happen in calm, consequence-free pockets, they're not integrated with your story. They're interrupting it.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Pressure Test
 

@@ -681,21 +681,35 @@ Colin tells his brothers in *Bridgerton* that he would never marry Penelope, a r
 **How does what they overhear change things?**
 Does it reveal truth? Create misunderstanding? Confirm fears? Offer hope?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does the speaker know they were overheard?**
 The asymmetry of knowledge creates tension. Does the listener reveal what they know, or carry it as a secret?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there something one character says about the other when they think they're not listening?**
 Defence of them to others? Confession of feelings? Criticism? Praise?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -718,30 +732,46 @@ Nonverbal fluency develops slowly, though. At the start of their relationship, y
 **What expressions or gestures does the protagonist learn to read in the love interest?**
 The small signs of their moods, needs, feelings. What do they notice first, and what takes months to decode?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does the love interest learn to read in the protagonist?**
 The small signs only they notice, the tells that reveal mood, need, or hidden feeling beneath a composed surface. What makes them the only person who can read the protagonist accurately?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do they develop private signals?**
 Looks across the room, small gestures, touches that mean something specific. Private signals are the nonverbal equivalent of a private language: proof that these two people have built a world between them that no one else can enter.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a moment when one understands the other without any words at all?**
 A look that communicates everything. This is often one of the most powerful scenes in a romance, the moment when words become unnecessary:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -832,9 +862,13 @@ Real conflict reveals character. What triggers it, what gets said that can't be 
 **What do they learn about each other through conflict?**
 Arguments can deepen understanding as much as gentle moments. What truths emerge only when defences are down?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

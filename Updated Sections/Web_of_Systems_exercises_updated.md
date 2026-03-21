@@ -631,15 +631,17 @@ Poppy's role as the Maiden in *From Blood and Ash* is defined by religious prohi
 
 *A faith that treats love as sacred creates different tension than one that treats desire as dangerous. In some systems, love is the highest devotion. In others, it's a distraction from duty, or an outright transgression. Where your world's faith falls determines the emotional register of every romantic scene.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does your world distinguish between "sacred bonds" (arranged, ordained, prophesied) and "chosen bonds" (personal love)?**
 
 *This is one of the richest conflicts in romantasy. The strongest versions make both bonds feel legitimate — so breaking the sacred one costs something real.*
-
-**If your world distinguishes between 'sacred bonds' (arranged, ordained, prophesied) and 'chosen bonds' (personal love), describe both, why they conflict, and what breaking the sacred bond costs.**
 
 *(Write your answer below)*
 
@@ -653,23 +655,29 @@ _______________________________________________________________
 
 *Religious enforcers carry both institutional power and moral authority — defying them feels weightier than defying a political figure alone. The High Priest in FBAA and the Celestial Emperor in Daughter of the Moon Goddess aren't just political obstacles. They claim divine mandate.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do the gods (or divine forces) in your world take an active interest in your characters' romance?**
 
 *Divine intervention can work for or against the lovers. If your world has active deities, their stance on the romance — blessing, opposing, or engineering it — raises stakes significantly.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does your romance interact with your faith system?**
 
 *The best faith-based romantic obstacles are ones where choosing love requires the character to redefine what's sacred — not abandon faith entirely, but find a deeper truth within it.*
-
-**How does your romance interact with your world's faith system? Does it violate a religious law, break a sacred vow, fulfil an unexpected prophecy, prove a doctrine wrong, or challenge a corrupt authority? What does this cost the character, and what does it reveal about the faith?**
 
 *(Write your answer below)*
 
@@ -693,31 +701,47 @@ The small frictions of daily life, how you eat, how you sleep, what you consider
 
 How do they get food, water, shelter? Travel? Communicate? Find entertainment?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How is the protagonist's daily life different from average?**
 
 Richer, poorer, more powerful, more restricted, more free?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How is the love interest's daily life different from the protagonist's?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Romantasy Connection:** What daily life difference creates friction?
 
 Different social classes? One takes for granted what the other struggles for? What misunderstanding arises from different lived experiences?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Map the small collisions between your protagonists' daily lives.**
 
