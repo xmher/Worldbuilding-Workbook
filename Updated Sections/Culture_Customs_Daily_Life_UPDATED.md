@@ -2166,15 +2166,15 @@ _______________________________________________________________
 
 **Map your character's exile (actual or threatened):**
 
-| What They Lose | Specific Details |
-|---|---|
-| Home/territory | |
-| Name/title/identity | |
-| Family connections | |
-| Access to magic or power | |
-| Community/social belonging | |
-| Sense of self | |
-| What replaces it | |
+**If a character is exiled or becomes an outsider, what do they lose? Consider: home/territory, name/title/identity, family connections, access to magic or power, community, sense of self. What replaces what they've lost?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -2196,13 +2196,15 @@ Additionally, allow secondary characters to reinforce the consequences of breaki
 
 **What are the unwritten rules of cross-class interaction?**
 
-| Aspect | Rule |
-|--------|------|
-| Eye contact (allowed, forbidden, lowered) | |
-| Forms of address | |
-| Physical proximity | |
-| Who speaks first | |
-| What topics are appropriate | |
+**What are the etiquette rules between different classes or ranks in your world? Address eye contact, forms of address, physical proximity, who speaks first, and what topics are appropriate.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens when someone violates these unwritten rules?**
 

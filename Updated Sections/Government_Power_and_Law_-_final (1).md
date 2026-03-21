@@ -1434,10 +1434,15 @@ If yes:
 
 Propaganda, stereotypes, justified grievances:
 
-| Side | What They Believe About the Enemy |
-|------|----------------------------------|
-| Protagonist's side | |
-| Love interest's side | |
+**What does each side believe about the enemy — what propaganda have they been taught?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would each character's people say about them loving the enemy?**
 
@@ -1471,18 +1476,27 @@ _______________________________________________________________
 
 If yes:
 
-| Aspect | Details |
-|--------|---------|
-| Which character | |
-| Circumstances | |
-| How it affects them | |
+**Has either character experienced violence or combat? Describe the circumstances and how it affects them.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Has either character lost someone to the conflict?**
 
-| Aspect | Details |
-|--------|---------|
-| Who was lost and how | |
-| How it shapes them | |
+**Has either character lost someone in the conflict? Who was lost, how, and how does it shape them?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there blood between their peoples that can't be easily forgiven?**
 

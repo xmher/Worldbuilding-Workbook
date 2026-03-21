@@ -834,12 +834,15 @@ Religion governs time. Holy days, sacred seasons, periods of fasting or celebrat
 **What major holy days and sacred seasons exist?**
 *Holy days and sacred seasons create story opportunities: festivals where rules relax, sacred days when forbidden love feels more transgressive, forbidden times that separate lovers, and rituals that bring characters together. Focus on the ones that could affect your romance.*
 
-| Holy Day/Season | When | What It Celebrates | How It's Observed | Restrictions (What's Forbidden) | Romantic Opportunity |
-|----------------|------|-------------------|------------------|-------------------------------|---------------------|
-| *The Vigil of Final Vows* | *Midsummer eve* | *The moment of commitment to the order* | *All-night prayer, fasting, silence* | *No contact with outsiders; the last chance to leave* | *The stolen conversation at dawn — the final moment to choose differently* |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+**Describe a key holy day or sacred time in your world: When is it? What does it celebrate? How is it observed? What is forbidden during this time? What romantic opportunity does it create?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do these timing restrictions affect your characters?**
 *Must they wait for a specific time? Are they separated during a religious season? Do they violate sacred time to be together, and what does that cost?*
@@ -868,13 +871,15 @@ You should write your sacred space to be distinguishable from the moment of entr
 **What sacred locations exist?**
 Sacred spaces can serve as sanctuary, meeting place, or site of spiritual reckoning for your characters.
 
-| Type | Examples in Your World | Who Can Enter |
-|------|----------------------|---------------|
-| Major temples/churches | | |
-| Local shrines | | |
-| Natural sacred sites | | |
-| Pilgrimage destinations | | |
-| Forbidden/secret holy places | | |
+**What sacred spaces exist in your world — temples, shrines, natural sacred sites, pilgrimage destinations, forbidden holy places? Describe them and who is allowed to enter.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What makes a space sacred?**
 *What makes a space sacred determines what it means when your characters enter — or defile — that space. A temple consecrated by divine presence carries different weight than a grove made holy by history.*
