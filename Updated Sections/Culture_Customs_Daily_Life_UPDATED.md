@@ -2702,6 +2702,7 @@ Markets? Festivals? Neutral territory? Magical spaces? Private chambers?
 &nbsp;
 
 ---
+
 ## Language, Names & Forms of Address
 
 The way people interact with each other is how they reveal and create intimacy. The transition from formal to informal communication can be as profound as a first kiss. In many fantasy worlds, names hold a lot of power.
@@ -2720,23 +2721,29 @@ To build anticipation for the name shift, establish the formality at the beginni
 
 Between family? Close friends? Lovers? Only after marriage?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What shift in address marks a change in relationship?**
 
 From title to first name? From formal to informal? A new nickname?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **When do your characters shift how they address each other?**
 
-This is often a pivotal intimacy moment:
-
-**Describe the shift in how your characters address each other: What do they call each other at first, what do they shift to, and when and why does the change happen?**
+*This is often a pivotal intimacy moment. Describe the shift: What do they call each other at first, what do they shift to, and when and why does the change happen?*
 
 *(Write your answer below)*
 

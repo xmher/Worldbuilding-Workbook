@@ -2451,19 +2451,43 @@ Use this to pressure-test your enmity:
 
 **Check: Is your enmity based primarily on misunderstanding?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Check: Does attraction make them forget their legitimate grievances?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Check: Do they ever actually address the reason they were enemies?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Check: Does falling in love make either character unrecognizable?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -2473,7 +2497,7 @@ If your characters come from influential families, then succession will impact t
 
 **What does each character stand to inherit?**
 
-**What does each character inherit from the political resolution — new roles, responsibilities, or losses?**
+*Title, land, political role — what does each character stand to gain or lose?*
 
 *(Write your answer below)*
 
@@ -2485,15 +2509,19 @@ If your characters come from influential families, then succession will impact t
 
 **How does their relationship affect inheritance?**
 
-Marrying wrong costs inheritance? They must marry to inherit? Their union combines inheritances?
+*Marrying wrong costs inheritance? They must marry to inherit? Their union combines inheritances?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is either expected to produce an heir?**
 
-**What is the political timeline or deadline, and what happens if your characters don't act?**
+*What is the political timeline or deadline, and what happens if your characters don't act?*
 
 *(Write your answer below)*
 
@@ -2505,15 +2533,23 @@ _______________________________________________________________
 
 **If they're different species or one is sterile, how does this affect heir requirements?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Could their relationship cause or solve a succession crisis?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

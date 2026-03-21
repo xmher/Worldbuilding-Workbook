@@ -740,18 +740,16 @@ Who has access to information and who does not, shapes power dynamics in romance
 
 &nbsp;
 
-**How are books made?**
-*How books are produced determines how scarce they are — and scarcity changes their meaning. In a world where every book is hand-copied, giving one is an act of extraordinary generosity and intimacy.*
+**How are books made, how expensive and rare are they, and who can access education?**
+*How books are produced determines how scarce they are — and scarcity changes their meaning. In a world where every book is hand-copied, giving one is an act of extraordinary generosity and intimacy. Consider: hand-copied, printed, or magically reproduced. Education access shapes the power dynamic between your characters more than almost any other technology — is education universal, class-restricted, or gender-restricted?*
 
-Hand-copied, printed, magically reproduced:
+*(Write your answer below)*
 
-**How expensive and rare are books?**
-*The scarcity of books affects who has access to knowledge, and how precious a single volume might be as a gift, an inheritance, or a sign of trust between two people who share what others can't access.*
+&nbsp;
 
-**Who can access education?**
-*Education access shapes the power dynamic between your characters more than almost any other technology. If one can read and the other can't, if one has been trained and the other hasn't, that gap becomes a source of dependency, shame, or intimacy. Teaching someone is an act of trust; being taught is an act of vulnerability.*
+&nbsp;
 
-Universal? Class-restricted? Gender-restricted? If your characters come from different education levels, how does that gap affect their dynamic? Does one teach the other, and what does that teaching look like?
+&nbsp;
 
 **Does either character have knowledge the other lacks? Does one teach the other, and how does the knowledge gap affect their dynamic (dependency, shame, wonder, trust)?**
 *When one character can read and the other can't, when one has access to information the other is denied, the knowledge gap becomes a source of dependency, shame, or intimacy. Teaching someone is an act of trust. Withholding knowledge is an act of control.*

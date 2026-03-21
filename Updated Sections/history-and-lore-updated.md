@@ -1486,9 +1486,13 @@ The best scenes that show a history-reveal are all structured similarly: a trigg
 **If the reveal backfires, what replacement frame must the text supply?**
 A reveal that violates the listener's beliefs can only be survived if the story provides a new ethical frame: a reason the speaker hid truth (safety, coercion, wartime necessity) and a path for the listener to regain agency (the choice to stay, fight, or forgive). Without this, the romance feels coercive rather than earned.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1516,8 +1520,7 @@ Feyre's role as the new High Lady of Prythian is used to symbolise the end of th
 
 A reconciliation that comes at no cost is unearned. The cost could include exile, losing a family member, changing who you once were or realising your people were wrong. The larger the historical weight, the larger the price tag should be.
 
-**How does your romance resolve the historical conflict?**
-The reconciliation between your characters needs to work on multiple levels. If they get together personally but the world doesn't change, readers feel cheated. Map how you're planning to earn it.
+*The reconciliation between your characters needs to work on multiple levels. If they get together personally but the world doesn't change, readers feel cheated. Map how you're planning to earn it.*
 
 **How does your romance earn its reconciliation? For each element -- reciprocal sacrifice, gradual pacing, a shared enemy or truth, both public and private resolution, and structural change in the world -- describe how your story delivers.**
 
@@ -1540,9 +1543,6 @@ The reconciliation between your characters needs to work on multiple levels. If 
 | 3. | | |
 | 4. | | |
 | 5. | | |
-
-**What does reconciliation cost your characters?**
-A reconciliation that comes at no cost is unearned. The larger the historical weight, the larger the price tag. What do your characters lose, sacrifice, or fundamentally change about themselves in order to be together?
 
 **What does reconciliation cost your protagonist? What does it cost your love interest? The larger the historical weight, the larger the price.**
 

@@ -2459,53 +2459,68 @@ You've built the system. Now let's make sure it actually works for the story you
 In *ACOTAR*, Feyre kills a faerie, a magical creature, in the woods. The inciting incident isn't just "something happens"; it's "something magical happens that she can't undo."
 
 **What magical event, ability, or consequence pulls your protagonist out of their ordinary world?**
-The inciting incident often involves magic working in ways the protagonist didn't expect or couldn't control.
 
-_______________________________________________________________________________
+*The inciting incident often involves magic working in ways the protagonist didn't expect or couldn't control.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does this same magical event connect them to the love interest?**
-In romantasy, the fantasy inciting incident and the meet-cute should be linked.
 
-_______________________________________________________________________________
+*In romantasy, the fantasy inciting incident and the meet-cute should be linked.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Act 2: Rising Action
 
 **What magical obstacles, revelations, or complications arise as your leads grow closer?**
-Magic should complicate the romance as much as it complicates the plot. Secrets about power, dangerous abilities, conflicting duties.
 
-_______________________________________________________________________________
+*Magic should complicate the romance as much as it complicates the plot. Secrets about power, dangerous abilities, conflicting duties.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does magic create intimacy or distance as they grow closer?**
-Shared power, training together, magical bonds forming? Or secrets, power imbalances, dangerous abilities?
 
-_______________________________________________________________________________
+*Shared power, training together, magical bonds forming? Or secrets, power imbalances, dangerous abilities?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Act 3: Crisis
 
 **What magical crisis makes everything seem hopeless?**
-How does magic trap, separate, or endanger your leads at their lowest point?
 
-_______________________________________________________________________________
+*How does magic trap, separate, or endanger your leads at their lowest point?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Act 4: Resolution
 
