@@ -1107,10 +1107,15 @@ Name specific antagonists. What do they stand to lose if your characters unite?
 **Who supports your characters despite political opposition?**
 Allies provide hope and aid, but their support should cost them something too.
 
-| Ally | Position | Why They Help | What They Risk |
-|------|----------|--------------|----------------|
-| | | | |
-| | | | |
+**Describe your story's key political ally: Who are they? What position do they hold? Why do they help, and what do they risk by doing so?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there current factional conflict that affects your story?**
 Political instability creates both danger and opportunity. Could your characters use factional conflict to their advantage?
@@ -1147,11 +1152,15 @@ _______________________________________________________________
 
 *The romantic spark happens when masks crack. You need to know what each character is hiding before you can write the moments it slips.*
 
-| Character | Public Mask | What It Hides | Example (*The Cruel Prince*) |
-|-----------|-------------|---------------|------------------------------|
-| *Cardan* | *Casual cruelty and indifference* | *Abuse trauma, isolation, fear of vulnerability* | |
-| Protagonist | | | |
-| Love Interest | | | |
+**What public mask does each character wear, and what does it hide?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What court ritual creates romantic pressure for your characters?**
 
@@ -1183,11 +1192,15 @@ _______________________________________________________________
 
 *Surviving court together creates shared codes. These small, secret communications are some of the most romantic moments you can write.*
 
-| Private Signal | What It Means | Example (*ACOTAR*) |
-|----------------|---------------|---------------------|
-| *A specific look* | *"We need to leave now"* | *Feyre and Rhysand's daemati bond lets them speak while performing for the Hewn City* |
-| | | |
-| | | |
+**Do your characters develop private signals — a look, a gesture, a code word? What do they mean?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

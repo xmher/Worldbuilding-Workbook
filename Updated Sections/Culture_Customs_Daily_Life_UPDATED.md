@@ -1410,14 +1410,15 @@ _______________________________________________________________
 
 What do people actually wear? You don't need to describe every stitch, just know enough to make your descriptions feel true when they matter to the scene.
 
-| Context | Wealthy/Noble | Common/Working |
-|---|---|---|
-| Daily wear | | |
-| Formal events | | |
-| Work/labour | | |
-| Religious occasions | | |
-| Mourning | | |
-| Wedding/celebration | | |
+**How does clothing differ between wealthy/noble and common/working people in your world? Describe what each group wears for daily life, formal events, work, religious occasions, mourning, and celebrations.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 *For historical fashion terminology (chemise, doublet, kirtle, stays, etc.), see Section 20: Quick Reference Sheets.*
 
@@ -1543,12 +1544,15 @@ _______________________________________________________________
 
 *Each layer removed is a layer of distance dissolved. Map the progression — from the first small reveal to the moment when they're fully unguarded around each other.*
 
-| Stage of Relationship | What's Removed or Revealed | What It Signifies |
-|----------------------|---------------------------|-------------------|
-| *Early (formal, guarded)* | *She removes her gloves in his presence — the first time she's shown bare hands* | *A crack in the armour; she's stopped performing* |
-| | | |
-| | | |
-| | | |
+**How does the gradual removal of clothing or armor track the progression of intimacy in your story? Describe an early, middle, and late-stage moment where something is removed or revealed, and what it signifies.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a garment that represents armor or protection that one character removes around the other?**
 
@@ -1631,11 +1635,15 @@ _______________________________________________________________
 
 **What does it mean if someone violates the expected progression?**
 
-| Violation | What It Signals |
-|-----------|-----------------|
-| Moving too fast | |
-| Skipping family involvement | |
-| Pursuing someone "above" them | |
+**What signals does it send in your world when someone moves too fast in courtship, skips family involvement, or pursues someone above their station?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

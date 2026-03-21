@@ -359,11 +359,15 @@ These leaders may become allies or antagonists. Think about who holds power to h
 **Is either character part of the religious hierarchy?**
 Religious roles often carry vows and obligations that directly conflict with romantic love.
 
-| Aspect | Details | Example (*Priory of the Orange Tree*) |
-|--------|---------|---------------------------------------|
-| Position | | Handmaiden of the Priory, sworn warrior-priestess, bound by sacred vows |
-| Vows or obligations | | Celibacy, secrecy, protection of the Queen at all costs |
-| What they'd lose by leaving | | Her sisterhood, her identity, her purpose, her place in the only family she's known |
+**If a character holds a religious position: What is it? What vows or obligations bind them? What would they lose by leaving?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does religious authority oppose or support the relationship?**
 Who specifically? What will they do about it? Are there authorities who might secretly help?
@@ -477,14 +481,15 @@ The Redefinition Path: The doctrine itself is exposed as partial, weaponised, or
 
 **Which pathway is your story on?**
 
-| Aspect | Details |
-|--------|---------|
-| Is the love interest condemned by *nature* or by *action*? | |
-| What does the protagonist's faith say they are? | |
-| What does the protagonist's experience reveal them to be? | |
-| Does your story redeem the beloved or redefine the faith? | |
-| What is the protagonist's epistemic crisis, the moment their certainty fractures? | |
-| What replaces the old categories? | |
+**If the love interest is condemned by their nature (not just their actions): What does the protagonist's faith say they are? What does experience reveal them to be? Does the story redeem the beloved or redefine the faith? What is the moment the protagonist's certainty fractures? What replaces the old moral categories?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -548,10 +553,15 @@ _______________________________________________________________
 **How does each character's personal faith differ from official doctrine?**
 The gap between personal belief and institutional religion creates room for characters to redefine faith rather than abandon it.
 
-| Character | Where They Agree with Doctrine | Where They Disagree |
-|-----------|-------------------------------|-------------------|
-| Protagonist | | |
-| Love Interest | | |
+**For each character, where do they agree with their faith's doctrine and where do they disagree?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does either character follow religious practice without genuine belief?**
 Why? Social expectation? Family pressure? Fear? Habit? Hoping belief will come?

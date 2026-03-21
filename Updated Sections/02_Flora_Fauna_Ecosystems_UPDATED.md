@@ -952,12 +952,15 @@ Aragorn and Arwen's relationship in The Lord of the Rings establishes the preced
 
 *Lifespan disparity creates profound romantic stakes. How does knowing one will outlive the other shape the relationship?*
 
-| Character | Species Lifespan |
-|-----------|------------------|
-| *Protagonist* | *Human — 70-80 years, already 23* |
-| *Love Interest* | *Fae — immortal unless killed, currently 847 years old* |
-| Protagonist | |
-| Love Interest | |
+**What is each character's species and expected lifespan? How does any disparity affect the relationship?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *How does the longer-lived character feel about loving someone who will die?*
 
@@ -1028,14 +1031,15 @@ _______________________________________________________________
 
 *The romance lives in the gap between what your non-human character could do and what they choose not to. That gap needs to be visible. What physical tells show your character is holding back — and what happens in the moments when control slips?*
 
-| Aspect | Details |
-|--------|---------|
-| *The physical tells of control* | *Edward stops breathing around Bella. His hands fist at his sides. He steps back mid-conversation for no apparent reason.* |
-| *What the human partner notices (and what they understand about it)* | *Bella sees the golden eyes darken to black and learns this means hunger, not anger — and that she's the cause.* |
-| *What happens when control slips* | *A grip too tight on her arm. A flash of something inhuman when someone else touches her. The room he destroys after she leaves.* |
-| The physical tells of control | |
-| What the human partner notices (and what they understand about it) | |
-| What happens when control slips | |
+**If one character has dangerous instincts, describe: What are the physical tells of control? What does the human partner notice (and what do they understand about it)? What happens when control slips?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1082,12 +1086,15 @@ _______________________________________________________________
 
 *The best mate bonds create circumstances, not feelings. How does yours work — and where does it leave room for the characters to build the actual relationship?*
 
-| Aspect | Your Bond |
-|--------|-----------|
-| *Does the bond create feelings or just proximity/awareness?* | |
-| *Can it be rejected — and at what cost?* | |
-| *Does recognition happen before or after they fall in love?* | |
-| *Does either character fight the bond — and why?* | |
+**If your story uses a mate bond or fated bond: Does the bond create feelings or just proximity/awareness? Can it be rejected, and at what cost? Does recognition happen before or after they fall in love? Does either character fight the bond, and why?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

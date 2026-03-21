@@ -1445,21 +1445,27 @@ In *Hunt on Dark Waters*, the pirate crew operates under a vow system that repla
 
 *"Morally grey" isn't a personality trait — it's a decision in a specific moment. The best criminal romances put the character at a fork where both paths cost something real. What's the fork for your character, and what does their choice reveal about what they value more than profit?*
 
-| Character | The Moral Fork (two options, both costly) | What They Choose | What It Costs | What It Reveals to Their Partner |
-|---|---|---|---|---|
-| *Kaz Brekker* | *Use Inej as bait to complete the heist vs. protect her and risk the job* | *Protects her — abandons the optimal plan* | *Weakened negotiating position; crew sees his vulnerability* | *Inej learns she matters more than the job — but also that he made a tactical calculation about it first* |
-| | | | | |
-| | | | | |
+**Describe a moral fork your character faces — two options, both costly. What do they choose, what does it cost, and what does it reveal to their partner?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does either character operate outside the law?**
 
-| Aspect | Details |
-|---|---|
-| What illegal activity are they involved in? | |
-| What organisation do they belong to? (gang, guild, crew, solo) | |
-| What code or rules govern their criminal world? | |
-| What would their lover lose by being associated with them? | |
-| What moral line would they refuse to cross, even for profit? | |
+**If a character is involved in criminal activity: What illegal activity? What organisation? What code governs their criminal world? What would their lover lose by association? What moral line would they refuse to cross?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What is the chokepoint in your criminal world?**
 Every convincing underground economy has a bottleneck: a port, a tunnel, a border crossing, an auction house, a guild hall. It's where power concentrates and where your characters are most vulnerable. What is it, and who controls it?
