@@ -407,10 +407,8 @@ One way to avoid this is to add at least one constraint.
 
 ### Your Approach
 
-**How do you represent other languages on the page?**
-Which technique (or combination) matches the experience you want readers to have?
-
 **What is your primary technique for representing language on the page? How are foreign words formatted (italics, roman, tags), and how much does the reader understand vs. the protagonist?**
+*Which technique (or combination) matches the experience you want readers to have?*
 
 *(Write your answer below)*
 
@@ -420,10 +418,8 @@ Which technique (or combination) matches the experience you want readers to have
 
 &nbsp;
 
-**Does your world have magical translation?**
-If so, what are its limits? What can't it translate? What happens when it fails?
-
 **What translation method do your characters use? What can't it handle, and when does it fail (and what does failure cost)?**
+*If your world has magical translation: what are its limits? What can't it translate? What happens when it fails?*
 
 *(Write your answer below)*
 
@@ -658,8 +654,6 @@ Sometimes we gain insight into others' worlds through overheard words. Words hea
 
 Colin tells his brothers in *Bridgerton* that he would never marry Penelope, a revelation she discovers by accident, one which influences how she will perceive herself for years to come and further adds to the pining and resentment that exists in their later relationship. Poppy's eavesdropping at the Red Pearl leads directly to her first encounter with Hawke in *From Blood and Ash*, creating a romantic relationship that will forever be tied to her pursuit of truth about the world she has been sheltered from.
 
-**Does either character overhear something significant?**
-
 **Is there an overheard conversation that changes everything? Who overhears, what do they hear, and who was speaking (and to whom)?**
 
 *(Write your answer below)*
@@ -801,10 +795,8 @@ You don't need to write full dialogue yet. Map how the rhythm changes. Start wit
 | Breaking point — the unsayable line | | |
 | Aftermath — silence, exit, or collapse | | |
 
-**What does conflict sound like between them?**
-Do they yell? Go cold? Talk in circles? Walk away? Get cutting? Cry?
-
 **In conflict, what does your protagonist do (attack, withdraw, deflect, freeze)? What does your love interest do?**
+*Do they yell? Go cold? Talk in circles? Walk away? Get cutting? Cry?*
 
 *(Write your answer below)*
 

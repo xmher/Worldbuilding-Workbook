@@ -975,22 +975,24 @@ Allow your family stories to naturally emerge in your writing, triggered by obje
 **What stories does your protagonist's family tell about themselves?**
 The founding ancestor? The great hero? The terrible loss? The family shame? These stories shape who your characters believe they should be.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What stories does your love interest's family tell?**
 Their family stories may complement, contradict, or directly oppose your protagonist's family mythology.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-**How do these family stories shape who each character believes they should be?**
+&nbsp;
 
 **What did family stories teach your protagonist they should be? What did family stories teach your love interest they should be?**
 
@@ -1005,16 +1007,24 @@ _______________________________________________________________
 **Are there family stories that contradict each other?**
 Does one family's hero appear as a villain in the other's stories?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What family story has each character never questioned, until now?**
 Falling in love with the "wrong" person often forces us to question the stories we were raised on.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

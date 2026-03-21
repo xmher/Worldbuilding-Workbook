@@ -1623,8 +1623,6 @@ War is the most extreme form of political pressure. It will separate lovers, cre
 
 &nbsp;
 
-_______________________________________________________________
-
 ---
 
 ### Enemies Across Battle Lines
@@ -1633,9 +1631,7 @@ If your characters are on opposing sides of the war and they develop an emotiona
 
 **Are your characters on opposite sides of a conflict?**
 
-If yes:
-
-**If your characters are on opposing sides of a conflict: What is the conflict, and what side is each on?**
+*If yes: What is the conflict, and what side is each character on?*
 
 *(Write your answer below)*
 
@@ -1647,9 +1643,7 @@ If yes:
 
 **What does each side believe about the other?**
 
-Propaganda, stereotypes, justified grievances:
-
-**What does each side believe about the enemy — what propaganda have they been taught?**
+*Propaganda, stereotypes, justified grievances — what have they been taught about the enemy?*
 
 *(Write your answer below)*
 
@@ -1661,27 +1655,33 @@ Propaganda, stereotypes, justified grievances:
 
 **What would each character's people say about them loving the enemy?**
 
-Traitor? Spy? Corrupted? Foolish? Understandable but forbidden?
+*Traitor? Spy? Corrupted? Foolish? Understandable but forbidden?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would it take for them to choose each other over their side?**
 
-What would they have to believe, learn, or experience?
+*What would they have to believe, learn, or experience?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Could their relationship end the conflict — or make it worse?**
 
-Does their union have political implications for the war?
+*Does their union have political implications for the war?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
 _______________________________________________________________
 

@@ -1993,9 +1993,8 @@ Something that reveals more than they intended, or that the other didn't expect:
 
 &nbsp;
 
-_______________________________________________________________
-
 ---
+
 ## Tokens, Gifts & Symbols
 
 Gifts in the context of courtship can be thought of as their own unique form of communication. The right gift at the right time signals interest; too much interest, however, can communicate presumptuousness or even ignorance of the recipient.

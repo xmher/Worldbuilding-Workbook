@@ -1563,76 +1563,100 @@ But that same sense of certainty is also the greatest threat. The best versions 
 Before you think about what the bond means for your romance, you need to understand what it actually is in your world. A bond that's biological works differently than one that's divine. Get the mechanics clear first, and the romantic implications will follow.
 
 **What is the bond, fundamentally? What kind of phenomenon is it?**
-Biological (pheromones, genetic compatibility)? Magical (a spell, curse, enchantment)? Divine (granted by gods, written in fate)? Spiritual (souls recognising each other)? Something your world doesn't fully understand?
 
-_______________________________________________________________
+*Biological (pheromones, genetic compatibility)? Magical (a spell, curse, enchantment)? Divine (granted by gods, written in fate)? Spiritual (souls recognising each other)? Something your world doesn't fully understand?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does a bond form? What triggers it?**
-Exists from birth? Snaps at first meeting/touch? Requires ritual or vow? Builds gradually? Can be created deliberately or only happens spontaneously?
 
-_______________________________________________________________
+*Exists from birth? Snaps at first meeting/touch? Requires ritual or vow? Builds gradually? Can be created deliberately or only happens spontaneously?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is the bond universal in your world, or rare?**
-Does everyone have a fated mate? Only certain bloodlines or species? Common enough for social customs, or rare enough they don't believe it at first?
 
-_______________________________________________________________
+*Does everyone have a fated mate? Only certain bloodlines or species? Common enough for social customs, or rare enough they don't believe it at first?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What is the bond's relationship to your broader magic system?**
-Same rules, costs, limitations? Or does it operate outside normal magical laws?
 
-_______________________________________________________________
+*Same rules, costs, limitations? Or does it operate outside normal magical laws?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How much does your world understand about how bonds work?**
-Is the mechanism well-studied and documented? Shrouded in mystery and legend? Actively suppressed or hidden? Do your characters have accurate information, or will they discover that what they believed about bonds is wrong?
 
-_______________________________________________________________
+*Is the mechanism well-studied and documented? Shrouded in mystery and legend? Actively suppressed or hidden? Do your characters have accurate information, or will they discover that what they believed about bonds is wrong?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What form does direct intimate magic take in your world?**
-Mating bonds, soul marks, fated mate recognition through scent/sight/sensation, telepathic links, shared sensory experiences, dream-walking, magical contracts:
 
-_______________________________________________________________
+*Mating bonds, soul marks, fated mate recognition through scent/sight/sensation, telepathic links, shared sensory experiences, dream-walking, magical contracts:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does the bond actually do? Be specific about the mechanics.**
-Physical pull? Emotional awareness? Telepathy? Pain when separated? Recognition? Sexual compatibility?
 
-_______________________________________________________________
+*Physical pull? Emotional awareness? Telepathy? Pain when separated? Recognition? Sexual compatibility?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What doesn't the bond do? What's still missing even with this connection?**
-The bond might create attraction but not trust. Recognition but not compatibility. Awareness but not understanding. What gaps remain?
 
-_______________________________________________________________
+*The bond might create attraction but not trust. Recognition but not compatibility. Awareness but not understanding. What gaps remain?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Destiny vs. Choice
 

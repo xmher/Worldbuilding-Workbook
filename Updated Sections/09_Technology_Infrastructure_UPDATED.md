@@ -246,16 +246,16 @@ Can your characters reach each other across distance, and at what cost?
 
 &nbsp;
 
-**How reliable is communication?**
-*Unreliable communication breeds misunderstanding, dramatic irony, and the ache of not knowing. A message that might never arrive carries a completely different emotional weight than one that's guaranteed.*
+**How reliable is communication in your world? What's the most secure method? What's the fastest?**
+*Unreliable communication breeds misunderstanding, dramatic irony, and the ache of not knowing. Can messages be lost, delayed, intercepted, or altered? Secrets require secure channels — what lengths would your protagonist go to for truly private communication, and what would it cost them? Urgent messages carry weight: the decision to use the fastest method signals that something matters enough to pay the price.*
 
-Can messages be lost? Delayed? Intercepted? Altered?
+*(Write your answer below)*
 
-**What's the most secure way to communicate?**
-*Secrets require secure channels. What lengths would your protagonist go to for truly private communication, and what would it cost them?*
+&nbsp;
 
-**What's the fastest way to communicate?**
-*Urgent messages carry weight — the decision to use the fastest method signals that something matters enough to pay the price. What would justify it?*
+&nbsp;
+
+&nbsp;
 
 **How do your characters adapt to communication constraints?**
 *Characters who live under communication constraints develop workarounds: codes, intermediaries, stolen moments of open speech. These adaptations become part of the romance's texture. A character who has never been able to speak openly will react powerfully when they finally can.*
