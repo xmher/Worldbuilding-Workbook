@@ -822,11 +822,13 @@ The pressure does not always have to be from a single legendary couple. Sometime
 
 Does your culture celebrate doomed love or warn against it?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-**Do people compare your characters to legendary lovers?**
+&nbsp;
+
+&nbsp;
 
 **Do people compare your characters to legendary lovers? Which couple, who makes the comparison, and is it meant as compliment, warning, or accusation?**
 
@@ -837,8 +839,6 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
-
-**How do your characters feel about being compared to this couple?**
 
 **How does your protagonist feel about being compared to legendary lovers? How does your love interest feel about it?**
 

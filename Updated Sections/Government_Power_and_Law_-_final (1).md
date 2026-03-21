@@ -1470,9 +1470,7 @@ After the big reveal, the heavy lifting begins. The cat's out of the bag. Now wh
 
 **When is the secret revealed?**
 
-*The revelation is your most structurally important romantic beat. When it falls in the story determines what kind of tension you're building.*
-
-**How is the secret revealed? What is it, when in the story does it happen, how is it revealed (confession, discovery, betrayal), and does it deepen or shatter the bond?**
+*The revelation is your most structurally important romantic beat. When it falls in the story determines what kind of tension you're building. How is it revealed — voluntary confession, accidental discovery, betrayal by a third party? Does it deepen or shatter the bond?*
 
 *(Write your answer below)*
 
@@ -1497,11 +1495,13 @@ After the big reveal, the heavy lifting begins. The cat's out of the bag. Now wh
 
 *Words aren't enough. What concrete action does the character who lied take to rebuild trust?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 

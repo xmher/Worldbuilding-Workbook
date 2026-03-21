@@ -1373,31 +1373,40 @@ Look at the magic system you've already built. Don't add new "romantic" mechanic
 One thing magic can do is create space for communication that exists outside normal channels. Not because the magic is telepathic, but because your characters find ways to use it that way.
 
 **Do your characters have any way of communicating that others can't easily intercept?**
-Enchanted objects passed back and forth, messages hidden in magical constructs, illusions only one person can see, a shared spell that signals without words.
 
-_______________________________________________________________
+*Enchanted objects passed back and forth, messages hidden in magical constructs, illusions only one person can see, a shared spell that signals without words.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What can they say through this channel that they couldn't say aloud or in public?**
-What makes this form of communication feel safer?
 
-_______________________________________________________________
+*What makes this form of communication feel safer?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Did they create this private channel intentionally, or did it develop accidentally?**
-What does its origin say about their relationship?
 
-_______________________________________________________________
+*What does its origin say about their relationship?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

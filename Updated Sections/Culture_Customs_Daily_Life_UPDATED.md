@@ -1717,9 +1717,11 @@ A physical vulnerability? A hidden mark? Simply their unguarded appearance?
 
 *(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Hair & Its Meanings
 
@@ -1727,25 +1729,37 @@ _______________________________________________________________
 
 Bound vs. loose? Cut vs. uncut? Covered vs. uncovered? Specific styles for specific statuses?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there significance to who can touch someone's hair?**
 
 Is it intimate? Forbidden? Reserved for family or spouse?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a moment when one character sees the other's hair differently than usual?**
 
 Unbound, wet, disheveled, cut — and what does it mean?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Tokens of Dress
 
@@ -1753,49 +1767,71 @@ _______________________________________________________________
 
 Rings, pins, sashes, cloaks, veils — items that mark someone as courting or claimed?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does it mean to give or receive such an item?**
 
 Interest? Betrothal? Binding commitment?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does it mean to remove or reject such an item?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a garment or accessory that becomes significant between your characters?**
 
 Something given, borrowed, kept, or returned:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Undressing as Intimacy
 
 **What does it mean to see someone in states of undress?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **When do your characters first see each other less than fully dressed?**
 
 What are the circumstances? What does each see?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### What layers come off over the course of the relationship?
 

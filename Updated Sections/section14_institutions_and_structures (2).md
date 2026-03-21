@@ -1582,7 +1582,13 @@ Not because they love the institution, but because they fear what will happen to
 
 **Does the institution end in your story, or does it persist?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If the institution ends, what proves the relationship is real without it?**
 
@@ -1590,23 +1596,35 @@ _______________________________________________________________
 
 What the institution provided that they must now provide for themselves (excuses to be near, shared purpose, routines):
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 The moment that proves they're choosing each other, not the institution:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If the institution persists, what changes about how they exist within it?**
 
 *They can't go back to the way things were before the relationship. Something has to shift — their rank, their public face, their willingness to break rules, or the institution itself.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 If it persists, the characters must find a way to exist within it on new terms. If it ends, they must find a way to exist without it. Both are interesting. Neither is easy.
 
@@ -1636,13 +1654,16 @@ If the answer is "nothing" or "they'd feel bad," your institution doesn't have e
 - Someone might be disappointed
 
 **What is that cost in your story?**
+
 Name the specific consequences that make walking away impossible, not just inconvenient.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
