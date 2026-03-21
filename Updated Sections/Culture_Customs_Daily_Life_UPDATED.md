@@ -2876,6 +2876,7 @@ The intimacy of sharing worlds:
 &nbsp;
 
 ---
+
 ## Quick Reference: Cultural Stakes
 
 | Element | Your World |

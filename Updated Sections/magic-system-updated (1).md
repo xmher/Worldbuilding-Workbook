@@ -2816,38 +2816,47 @@ Magic doesn't just affect your characters. It shapes the larger world they live 
 
 *A war, a catastrophe, a revolution. What resentments, imbalances, or unfinished business remain? The past rarely stays buried, and inherited conflicts create some of the most powerful romantic obstacles.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Do your characters come from different sides of this historical divide?**
-Inherited enmity creates powerful tension when attraction crosses lines generations have drawn.
 
-_______________________________________________________________
+*Inherited enmity creates powerful tension when attraction crosses lines generations have drawn.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would it take to truly resolve the old conflict — and is that resolution possible within your story, or is it the wound your world carries?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If your characters are from different sides of this divide, what does choosing each other cost them in the eyes of their own people?**
 
 *Inherited enmity makes love feel like betrayal — not of the partner, but of everyone who came before. What do your characters risk from their own side by being together?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### The Bigger Pressure
 

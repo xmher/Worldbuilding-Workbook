@@ -436,17 +436,8 @@ Food is one of the fastest ways to demonstrate differences in social status on t
 
 Meals also serve as soft diplomacy where characters may engage in building trust through commonality in an everyday experience. In ACOTAR, the first dinners Feyre shares with Tamlin place a poor human huntress within the High Fae aristocracy. Through these experiences, she learns the rules of that world; incorrect perceptions are resolved; Tamlin shares his politics as if signing a formal treaty. The physical space of the table is transformed through the use of magic to draw the two characters closer together, domestic magic as a flirting mechanism rather than relying upon architectural features. In *From Blood and Ash*, sharing a meal with a captor-protector is a way to signal that you'll support or defend each other politically. Daphne in *Bridgerton* shares tea with the housekeeper to learn about her husband's childhood, which is an example of crossing social classes to develop a relationship, and the housekeeper holds the knowledge that Daphne was previously denied. Each time characters share a meal they're negotiating power. Who will host? Who will serve? Who will speak? Who may depart?
 
-**How is food preserved?**
-*Preservation methods shape what's available and when. A world that relies on seasonal eating creates different meal-sharing dynamics than one with year-round variety — and a character who's only ever eaten preserved food will react very differently to fresh fruit.*
-
-Salting, smoking, drying, pickling, cold storage, magical preservation:
-
-**How does food preservation affect daily life?**
-*Whether food is fresh or preserved affects what meals look like, what seasons feel like, and what counts as a luxury. A fresh peach in winter is a very different gift than one in summer.*
-
-Fresh food daily? Seasonal eating? Long-term storage possible?
-
-**What food is available to different classes in your world (wealthy, common, poor)? How do these differences become visible when your characters share a meal?**
+**What food is available to different classes in your world (wealthy, common, poor)? How is food preserved, and how do these differences become visible when your characters share a meal?**
+*Preservation methods shape what's available and when — a world relying on seasonal eating creates different meal-sharing dynamics than one with year-round variety. Whether food is fresh or preserved affects what meals look like, what seasons feel like, and what counts as a luxury. A fresh peach in winter is a very different gift than one in summer.*
 *Food marks class in visible ways. A shared meal across class lines reveals everything: the character who's never eaten anything sweet reacts differently to a feast than the one who takes it for granted.*
 
 *(Write your answer below)*
