@@ -924,11 +924,15 @@ Does magic interfere with technology or vice versa?
 **Is any technology restricted or forbidden?**
 *Forbidden technology creates temptation and danger. A character willing to risk punishment to access forbidden knowledge or tools reveals how much they're willing to sacrifice — and a shared secret about forbidden technology binds characters together.*
 
-| Aspect | Details |
-|---|---|
-| What's restricted | |
-| Who restricts it and why | |
-| Consequences for using it | |
+**Is any technology restricted or forbidden in your world? What's restricted, who restricts it and why, and what are the consequences for using it?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -939,10 +943,15 @@ Now that you've established your world's technology level, think about how it sp
 **What technology does each character have access to?**
 *Differing access creates imbalance. What does each character take for granted that the other finds remarkable or impossible?*
 
-| Character | Technology Access |
-|---|---|
-| Protagonist | |
-| Love interest | |
+**What technology does your protagonist have access to? What about your love interest? What does one take for granted that the other finds remarkable?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a technology gap between them?**
 *Technology gaps create friction, dependency, and curiosity — all the raw material romance is built from. A character who's never seen enchanted light arriving in a palace full of it experiences wonder that reveals vulnerability, while the character who takes it for granted sees their world through new eyes.*
@@ -955,19 +964,28 @@ What does one have that the other doesn't?
 **How do they communicate when separated?**
 *Distance communication shapes the texture of separation. Letters reread until worn, messages that might never arrive, or instant magical contact. Each creates a different emotional reality.*
 
-| Aspect | Details |
-|---|---|
-| Method | |
-| How long messages take | |
-| What risk exists in their communication | |
+**How do your characters communicate when separated? What method do they use, how long do messages take, and what risk exists in their communication?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What privacy do they have?**
 *Privacy determines where intimacy is possible. Where and when can your characters be truly alone together — and what changes when they finally are?*
 
-| Aspect | Details |
-|---|---|
-| Where can they be alone | |
-| Who might observe or overhear them | |
+**Where can your characters be truly alone together? Who might observe or overhear them?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If one character has servants/attendants, how does that affect privacy?**
 *Attendants are witnesses. What must your characters hide even from loyal servants, and what happens if servants aren't loyal?*
@@ -975,27 +993,41 @@ What does one have that the other doesn't?
 **Does either character face medical issues?**
 *Illness and injury create vulnerability. Caring for someone sick is intimacy of a different kind — it proves love in ways that words cannot. What might that reveal between your characters?*
 
-| Aspect | Details |
-|---|---|
-| What condition | |
-| What treatment exists | |
-| Does one care for the other during illness/injury | |
+**Does either character face medical issues? What condition, what treatment exists, and does one care for the other during illness or injury?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does contraception (or lack thereof) affect them?**
 *The availability and reliability of contraception shapes what intimacy means and what consequences your characters might face. This is where worldbuilding meets the most personal moments of your romance.*
 
-| Aspect | Details |
-|---|---|
-| Is it available to them | |
-| Is it something they discuss or navigate | |
+**Is contraception available to your characters? Is it something they discuss or navigate?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Could they marry secretly with no record?**
 *Secret marriage is a classic romantasy option, but documentation requirements determine whether it can stay secret and what risks exist. A union no one can prove is also a union no one can disprove.*
 
-| Aspect | Details |
-|---|---|
-| What would be required | |
-| What risks would exist | |
+**Could your characters marry secretly with no record? What would be required, and what risks would exist?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

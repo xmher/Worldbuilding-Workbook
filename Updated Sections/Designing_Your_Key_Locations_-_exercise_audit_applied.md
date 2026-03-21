@@ -68,10 +68,15 @@ Different relationship dynamics interact with locations differently. Have a thin
 
 *Use the tables above to identify which types of pressure your romance needs. You don't have to limit yourself to one — the strongest locations combine two or more.*
 
-| Your Pairing Dynamic | Primary Pressure Type Needed | Secondary Pressure Type | Why This Combination Serves Your Romance |
-| --- | --- | --- | --- |
-| *Enemies to lovers (example)* | *Forced connection* | *Creates risk* | *They need to be stuck together AND have consequences if feelings show* |
-| | | | |
+**What is your pairing dynamic (e.g., enemies to lovers, forbidden love, slow burn), and which types of location pressure does your romance need most? Why does this combination serve your story?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -131,14 +136,15 @@ Before designing locations, identify the moments that need them. These are the s
 
 List three to five major romantic moments in your story. Think about the moments that shift the relationship: where walls come down, where stakes become real, where everything changes.
 
-| Your Pivotal Romantic Moments |
-| --- |
-| *First kiss / the moment she sees his true self / the betrayal that breaks everything (example)* |
-| **Moment 1:** |
-| **Moment 2:** |
-| **Moment 3:** |
-| **Moment 4:** |
-| **Moment 5:** |
+**List three to five pivotal romantic moments in your story -- the scenes that shift the relationship, where walls come down, stakes become real, or everything changes.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Matching Moments to Locations
 
@@ -196,12 +202,15 @@ What they feel (temperature, texture, air): ___________________________
 
 **What does this space force or prevent?**
 
-| Force (what must happen) | Prevent (what can't happen) |
-|--------------------------|----------------------------|
-| *Must stand close enough to whisper (narrow corridor)* | *Can't leave without being seen (single guarded exit)* |
-| | |
-| | |
-| | |
+**For this location: What does the space force to happen (physical proximity, cooperation, vulnerability)? And what does it prevent (escape, privacy, honesty)?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What features define the space?**
 
@@ -308,13 +317,15 @@ Time of day also shapes the *type* of romantic tension a space creates. At dawn,
 
 *The same space creates completely different romantic tension depending on when your characters arrive. Think about which version serves your scene best.*
 
-| Time | How the Space Changes | What Romantic Tension It Creates |
-| --- | --- | --- |
-| *Dawn (example)* | *Grey light, cold stone, the night's fire reduced to ash* | *Vulnerability — defences lowered from sleeplessness; the coming daylight forces a reckoning with what happened in the dark* |
-| **Dawn** | | |
-| **Midday** | | |
-| **Dusk** | | |
-| **Night** | | |
+**What time of day does your pivotal scene happen in this location? How does the space change at that hour, and what romantic tension does that timing create?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 What time does the pivotal scene happen, and why that time? Timing should feel deliberate, chosen because this version of the space creates the right pressure.
 
@@ -428,13 +439,15 @@ Does this location have active magical properties? Wards, enchantments, sentienc
 
 Use the table below to identify how the magic of this space serves your scene:
 
-| Magical Property Type | How It Works in This Location | What It Does for the Romance |
-| --- | --- | --- |
-| **Wards / Barriers** *(blocks surveillance, prevents entry/exit, shields from tracking)* | | |
-| **Sentience / Responsiveness** *(the space reacts to emotions, adjusts to needs, manifests resources)* | | |
-| **Emotional Influence** *(induces feelings, compels honesty, amplifies desires, tests character)* | | |
-| **Shifting / Unstable** *(geography changes, paths rearrange, doorways appear or vanish)* | | |
-| **Bonding / Tethering** *(magical connections that mandate proximity or create emotional bleed)* | | |
+**Does this location have active magical properties (wards, sentience, emotional influence, shifting geography, bonding/tethering)? For each that applies, describe how the magic works here and what it does for the romance.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 Does the magic of this space bypass your characters' defences? Emotion-responsive environments, truth-compelling pools, sin-testing corridors. These spaces force a transparency that characters would never choose voluntarily. If your location has this property, it can accelerate intimacy in a way that feels earned because it's the space doing the work, not a convenient change of heart.
 
@@ -801,11 +814,15 @@ _______________________________________________________________
 | **Location 4:** | | |
 | **Location 5:** | | |
 
-| | |
-| --- | --- |
-| **Recurring location ("theirs"):** | |
-| **Lost location (if any):** | |
-| **Final/climax location:** | |
+**Name your recurring location (the place that becomes 'theirs'), any location that becomes lost or inaccessible, and the location where the romantic climax happens.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

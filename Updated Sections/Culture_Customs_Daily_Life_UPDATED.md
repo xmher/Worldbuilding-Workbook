@@ -30,12 +30,15 @@ What cultural assumption does your character accept without question at the star
 
 *The invisible cage only becomes visible when your character wants something on the other side of the bars. This is the moment when culture stops being background and becomes the central obstacle of your romance.*
 
-| | Protagonist | Love Interest |
-|---|---|---|
-| What cultural rule do they accept without question at the start? | | |
-| What moment or person makes the cage visible? | | |
-| What do they lose by seeing it? (Certainty, community, identity?) | | |
-| What do they gain? | | |
+**For both your protagonist and love interest: What cultural rule do they accept without question at the start? What moment makes the cage visible? What do they lose by seeing it, and what do they gain?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -92,11 +95,15 @@ Some of the most interesting romantic tension comes from pairing characters who 
 
 *Pick 2-3 patterns from the reference table above that fit your romance. For each, note how it shows up in your story.*
 
-| Pattern | How It Works in Your World |
-|---|---|
-| *e.g., The forbidden touch — Fae cannot touch humans without burning them, so every accidental contact carries the weight of physical danger and forbidden desire* | |
-| | |
-| | |
+**Which cultural restriction patterns from the reference list apply to your world? For each, describe how it specifically works in your story.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -206,10 +213,15 @@ _______________________________________________________________
 
 **How does one character embody the cultural ideal while the other challenges it?**
 
-| Character | Relationship to Cultural Values |
-|-----------|--------------------------------|
-| Protagonist | |
-| Love Interest | |
+**How does each character (protagonist and love interest) relate to their culture's dominant values? Where do they conform, and where do they chafe?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What cultural value must one or both characters sacrifice to be together?**
 
@@ -234,17 +246,27 @@ Don't overlook the costs associated with conformity, either. There may be mental
 
 Focus on what affects your story:
 
-| Aspect | Expectations |
-|--------|--------------|
-| Expected roles and behaviors | |
-| Prohibited roles and behaviors | |
+**What roles and behaviors does your culture expect based on gender? What is prohibited?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do these expectations affect your characters?**
 
-| Character | How Gender Expectations Affect Them |
-|-----------|-------------------------------------|
-| Protagonist | |
-| Love Interest | |
+**How do gender expectations specifically affect your protagonist and love interest?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does either character violate gender expectations?**
 
@@ -283,12 +305,15 @@ As soon as romance enters into a character's routine, the reader will be able to
 
 **What's the rhythm of a typical day?**
 
-| Time | What Happens |
-|------|--------------|
-| Morning (when do people wake? what happens first?) | |
-| Midday (is there a rest period? a main meal?) | |
-| Afternoon/Evening (when does work end? what follows?) | |
-| Night (when do people sleep? what's nightlife like?) | |
+**Describe the daily rhythm of life in your world: When do people wake and what happens first? Is there a midday rest or main meal? When does work end? What is nightlife like?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does this rhythm differ by class or profession?**
 
@@ -316,11 +341,15 @@ _______________________________________________________________
 
 *Romance changes the texture of daily life. What shifts when your protagonist starts thinking about this person?*
 
-| Routine Element | Before the Love Interest | After |
-|---|---|---|
-| *e.g., Morning tea ritual — Feyre used to eat alone at dawn, mechanically* | *Alone, silent, functional — tea was fuel, not comfort* | *She begins noticing whether Rhysand is already awake, listening for his movements, lingering over her cup* |
-| | | |
-| | | |
+**How does the protagonist's daily routine shift after the love interest enters their life? Pick a specific routine element and describe it before and after.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Home & Household
@@ -333,11 +362,15 @@ As your character first enters their love interest's home, take some time to all
 
 **What does a typical home look like for different classes?**
 
-| Class | Home Description |
-|-------|------------------|
-| Wealthy/noble | |
-| Middle/merchant | |
-| Common/poor | |
+**What does home look like for the wealthy, the middle class, and the poor in your world?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who lives together?**
 
@@ -416,10 +449,15 @@ _______________________________________________________________
 
 *Family is often the first and most personal obstacle to love. Whose approval matters? Who will try to interfere? What power does a parent or elder hold over the match?*
 
-| Character | Family's Stance on the Relationship | What Power They Have to Interfere |
-|---|---|---|
-| Protagonist's family | | |
-| Love Interest's family | | |
+**What is each character's family's stance on the relationship, and what power do they have to interfere?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Food & Meals
@@ -434,11 +472,15 @@ Eating together is one of the most simple ways to develop intimacy. When charact
 
 *Meals are where your characters will share space, reveal habits, and build domestic intimacy. Knowing what people eat and how they eat it gives you the raw material for food scenes that do emotional heavy lifting.*
 
-| Meal | What's Eaten | How It's Eaten |
-|------|--------------|----------------|
-| Morning | | |
-| Midday | | |
-| Evening | | |
+**Describe the meals in your world: What do people eat for morning, midday, and evening meals, and how do they eat (alone, communally, formally)?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's "special occasion" food vs. everyday food?**
 
@@ -521,22 +563,29 @@ _______________________________________________________________
 
 How can your protagonist tell a temple from a tavern at a glance?
 
-| Building Type | Distinctive Features |
-|---|---|
-| Palace/noble estate | |
-| Temple/place of worship | |
-| Merchant's home/shop | |
-| Common dwelling | |
-| Military/fortification | |
+**What are the distinctive architectural features of your world's key buildings — palaces, temples, merchant homes, common dwellings, and fortifications?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does a specific building's layout shape a romantic scene?**
 
 *Narrow corridors force proximity. Great halls create distance. Hidden passages give one character power over another. Pick a key setting and map how its layout affects the dynamic between your characters.*
 
-| Setting | Layout Detail | How It Affects the Romantic Dynamic |
-|---|---|---|
-| *e.g., Spring Court manor — long corridors with alcoves hidden behind tapestries* | *e.g., Characters can slip out of sight for a moment but footsteps echo, so they can always hear someone approaching* | |
-| | | |
+**Describe a specific architectural layout in your story and explain how its physical design affects the romantic dynamic (e.g., hidden alcoves, echoing corridors, shared walls).**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -699,9 +748,15 @@ _______________________________________________________________
 
 *Etiquette violations reveal where someone comes from and create charged moments between characters. What faux pas creates a scene between your protagonists?*
 
-| The Mistake | Who Makes It | How the Other Reacts |
-|---|---|---|
-| | | |
+**Describe a moment where one character makes a cultural mistake in the other's world. What is the mistake, who makes it, and how does the other react?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Hospitality & Guest Rights
@@ -822,10 +877,15 @@ _______________________________________________________________
 
 *Dances require touch. Games reveal personality. Shared stories create inside jokes. What activity gives your characters an excuse to spend time together — and does everyone else see through the excuse?*
 
-| Activity | What It Allows (touch, conversation, competition, proximity) | How Obvious Is It That They're There for Each Other? |
-|---|---|---|
-| *e.g., Weekly tavern card game — Xaden starts showing up to a game he never attended before Violet joined* | *e.g., Seated across from each other, sustained eye contact, banter disguised as competitive trash-talk* | *e.g., Everyone at the table knows exactly why he's there except Violet* |
-| | | |
+**What social activity allows your characters to spend time together without arousing suspicion? What does it allow (touch, conversation, competition), and how obvious is it to others that they're there for each other?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Oaths, Promises & Honour

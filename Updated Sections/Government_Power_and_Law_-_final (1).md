@@ -82,11 +82,15 @@ In the strongest romantasy, your characters are changed by both the romance and 
 
 *Your protagonist should grow through both the romance and the political conflict — not just one. If you can't fill in both rows, one of your plotlines may be decorative.*
 
-| Catalyst | What It Forces Your Protagonist to Face | How They Change |
-|----------|----------------------------------------|-----------------|
-| *The romance (emotional safety/vulnerability)* | *Feyre's bond with Rhys gives her the emotional safety to confront her trauma* | *She stops surviving and starts choosing to fight* |
-| The romance (emotional safety/vulnerability) | | |
-| The political conflict (impossible challenge) | | |
+**How do the romance and the political conflict each force your protagonist to change? What does each catalyst make them face, and how do they grow?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Political Situations That Create Romance
 
@@ -126,9 +130,15 @@ In the strongest romantasy, your characters are changed by both the romance and 
 
 *Take the biggest political pressure in your story and translate it to the personal level. What does this political reality feel like in an intimate moment between your characters?*
 
-| Your Macro Political Stake | Your Micro Romantic Obstacle |
-|---|---|
-| | |
+**What is your macro political stake, and what micro romantic obstacle does it create?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -229,12 +239,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-| Aspect | Details |
-|--------|---------|
-| Title/Position | |
-| Name | |
-| How they gained power | |
-| How long they've ruled | |
+**Describe your world's ruler: What is their title/position and name? How did they gain power, and how long have they ruled?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How did they gain power?**
 
@@ -362,11 +375,15 @@ _______________________________________________________________
 
 **What positions exist that matter for your story?**
 
-| Position | Power They Hold | Who Currently Holds It |
-|----------|-----------------|----------------------|
-| *High Lord (ACOTAR)* | *Absolute rule over their Court, command of Court's magic* | *Rhysand — Night Court* |
-| | | |
-| | | |
+**Who holds power in your world? For each key position, describe what power they hold and who currently fills the role.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -402,11 +419,15 @@ _______________________________________________________________
 
 **Who controls access to magical power?**
 
-| Aspect | Details |
-|--------|---------|
-| How is magic acquired (birth, training, divine gift, artifacts)? | |
-| Who controls training/access? | |
-| Can magical power be taken away? | |
+**How does government relate to magic in your world? How is magic acquired? Who controls training/access? Can magical power be taken away?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What laws govern magic use?**
 
@@ -450,11 +471,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-| Enforcement Body | What They Handle | Who Controls Them |
-|-----------------|------------------|-------------------|
-| *Chasseurs (Serpent & Dove)* | *Hunting and burning witches* | *The Church / Archbishop* |
-| | | |
-| | | |
+**What enforcement bodies exist in your world? What do they handle, and who controls them?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How effective is enforcement?**
 
@@ -476,13 +501,15 @@ _______________________________________________________________
 
 **How does the justice system work?**
 
-| Aspect | Details |
-|--------|---------|
-| Who judges (monarch, courts, religious authority, trial by combat) | |
-| Are there trials? | |
-| Do the accused have rights? | |
-| Can verdicts be appealed? | |
-| Who can afford good representation? | |
+**Describe your world's justice system: Who judges? Are there trials? Do the accused have rights? Can verdicts be appealed? Who can afford good representation?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is justice equal?**
 
@@ -613,12 +640,15 @@ When one character has the ability to imprison, exile, or kill another, how do y
 
 **How does the power gap between your characters affect intimacy?**
 
-| Aspect | Details |
-|--------|---------|
-| Who holds more political power? | |
-| Does the more powerful character recognise the gap? | |
-| How does the less powerful character exercise agency? | |
-| What would it look like if the less powerful character said no? Would there be consequences? | |
+**Describe the political power imbalance between your characters: Who holds more power? Does the more powerful character recognise the gap? How does the less powerful character exercise agency? What would it look like if they said no — would there be consequences?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 That last question is the most important one. If the less powerful character can't say no without facing punishment, exile, or death, you don't have a romance. You have coercion with good lighting. The reader has to believe that "no" is a real option, even if the character chooses "yes."
 

@@ -1216,27 +1216,28 @@ The best scenes that show a history-reveal are all structured similarly: a trigg
 
 **Does your story include a history-reveal scene?**
 
-| Aspect | Details |
-|---|---|
-| Which character reveals? | |
-| What history do they share? | |
-| What triggers the reveal? (crisis, intimacy, accusation, discovery) | |
-| Where does it happen? (the "confessional container") | |
-| How does the listener react? (touch, withdrawal, anger, reassessment) | |
-| Does it bring them closer or drive them apart? | |
-| Is it a repair confession or an identity rupture? | |
+**Plan your history-reveal scene: Which character reveals hidden history, and what do they share? What triggers the reveal (crisis, intimacy, accusation)? Where does it happen? How does the listener react? Does it bring them closer or drive them apart? Is it a repair confession or an identity rupture?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Map the structure of your history-reveal scene:**
 *The best reveals follow a specific architecture. Use the prose above to check that your reveal has all the structural elements that make it land.*
 
-| Element | Your Scene | Check |
-|---|---|---|
-| The trigger (what forces the reveal) | | |
-| The confessional container (where it happens — small, private, public performance eliminated) | | |
-| The cost to the speaker (what it costs them to share this) | | |
-| The listener's observable response (not just internal — what do they DO?) | | |
-| The changed dynamic (how do they relate differently after?) | | |
-| Space to process (does the listener get to withdraw and choose to return?) | | |
+**Map the architecture of your history-reveal scene: What forces the reveal? Where does it happen (a small, private space)? What does it cost the speaker to share? What does the listener observably do in response? How does their dynamic change afterward? Does the listener get space to process and choose to return?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If the reveal backfires, what replacement frame must the text supply?**
 A reveal that violates the listener's beliefs can only be survived if the story provides a new ethical frame: a reason the speaker hid truth (safety, coercion, wartime necessity) and a path for the listener to regain agency (the choice to stay, fight, or forgive). Without this, the romance feels coercive rather than earned.
@@ -1274,14 +1275,15 @@ A reconciliation that comes at no cost is unearned. The cost could include exile
 **How does your romance resolve the historical conflict?**
 The reconciliation between your characters needs to work on multiple levels. If they get together personally but the world doesn't change, readers feel cheated. Map how you're planning to earn it.
 
-| Requirement | How Your Story Meets It |
-|---|---|
-| *Reciprocal sacrifice* | *e.g., ACOTAR: Feyre gives up her human life; Rhysand gives up his secrecy and isolation* |
-| Reciprocal sacrifice | |
-| Time and pacing | |
-| A shared enemy or shared truth | |
-| Public and private resolution | |
-| Structural change | |
+**How does your romance earn its reconciliation? For each element -- reciprocal sacrifice, gradual pacing, a shared enemy or truth, both public and private resolution, and structural change in the world -- describe how your story delivers.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Map your slow-burn progression:**
 *Reconciliation doesn't happen in one scene. It happens through a sequence of small moments where the armour cracks. List 3-5 moments where your characters' inherited enmity erodes — shared danger, unexpected kindness, a moment where one sees the other's humanity despite everything they were taught.*
@@ -1298,11 +1300,15 @@ The reconciliation between your characters needs to work on multiple levels. If 
 **What does reconciliation cost your characters?**
 A reconciliation that comes at no cost is unearned. The larger the historical weight, the larger the price tag. What do your characters lose, sacrifice, or fundamentally change about themselves in order to be together?
 
-| Character | What They Sacrifice or Lose |
-|---|---|
-| *Protagonist* | *e.g., The Bridge Kingdom: Lara loses her family's trust and her identity as a spy; she must fight to free the kingdom she helped destroy* |
-| Protagonist | |
-| Love Interest | |
+**What does reconciliation cost your protagonist? What does it cost your love interest? The larger the historical weight, the larger the price.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1314,31 +1320,42 @@ This "emotional stasis," or lack of emotional aging, is an almost defining chara
 
 **Is either of your characters a long-lived being?**
 
-| Aspect | Details |
-|---|---|
-| Which character | |
-| How old | |
-| What history they've lived through | |
+**Is either character a long-lived being? Who are they, how old are they, and what history have they personally lived through?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If one character is ancient and one is mortal, how does this affect the relationship?**
 The ancient character has seen patterns repeat, loved and lost countless times, watched mortal lives flicker past. The mortal character is one brief moment in an endless existence, or perhaps they're something different, something that makes the ancient one feel again.
 
 **The ancient character:**
 
-| Question | Answer |
-|---|---|
-| What historical patterns have they seen repeat? | |
-| What have they lost over centuries? | |
-| What makes them cynical, or gives them hope? | |
-| Do they see the mortal as another loss waiting to happen? | |
+**For your ancient character: What historical patterns have they seen repeat? What have they lost over centuries? What makes them cynical or gives them hope? Do they see the mortal partner as another loss waiting to happen?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **The mortal character:**
 
-| Question | Answer |
-|---|---|
-| What does it mean to love someone who's seen centuries? | |
-| Do they feel insignificant? Or do they bring something the ancient one has lost? | |
-| Are they aware of their own mortality in the relationship? | |
+**For your mortal character: What does it mean to love someone who's seen centuries? Do they feel insignificant, or do they bring something the ancient one has lost? Are they aware of their own mortality in the relationship?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does the long-lived character carry from their past?**
 Lost loves? Dead friends? Guilt? Witnessed atrocities? Actions they regret?
