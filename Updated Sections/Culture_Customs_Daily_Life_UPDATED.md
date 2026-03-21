@@ -2236,23 +2236,29 @@ _______________________________________________________________
 
 *The most revealing moments in cross-class romance are the accidental ones — a first name used without thinking, a hand reached for instinctively, eye contact held a beat too long. What moment of "I forgot myself" reveals the truth beneath the social performance?*
 
-| Aspect | Details |
-|--------|---------|
-| *What the slip is* | *She calls him by his first name in front of the court — then freezes when she realises what she's done* |
-| What the slip is | |
-| Who slips | |
-| Who notices | |
-| What it reveals | |
+**Describe a moment when a character slips on etiquette — breaks a class or rank rule without meaning to. What is the slip, who makes it, who notices, and what does it reveal?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### How do your characters behave differently in public versus private?
 
 *When characters maintain perfect hierarchy in front of others but drop it behind closed doors, they create a secret world. What does the shift look like between your characters — and what would happen if someone saw the private version?*
 
-| Context | How They Interact |
-|---------|-------------------|
-| In public (with others watching) | |
-| In private (alone together) | |
-| What would happen if someone saw the private version | |
+**How do your characters interact differently in public versus in private? What would happen if someone saw the private version?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Language, Names & Forms of Address
@@ -2289,11 +2295,15 @@ _______________________________________________________________
 
 This is often a pivotal intimacy moment:
 
-| Aspect | Details |
-|--------|---------|
-| From | |
-| To | |
-| When and why | |
+**Describe the shift in how your characters address each other: What do they call each other at first, what do they shift to, and when and why does the change happen?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there significance to names in your world?**
 

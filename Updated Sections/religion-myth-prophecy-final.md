@@ -929,13 +929,15 @@ Completed rituals and broken rituals serve two very different functions in terms
 **Does a religious ritual play a pivotal role in your romance?**
 Think about weddings, initiations, vow-taking ceremonies, funerals, fertility rites; any structured ceremonial moment that could serve as a turning point.
 
-| Aspect | Details |
-|--------|---------|
-| Which ritual | |
-| What the ritual is supposed to accomplish | |
-| What actually happens during it | |
-| Is the ritual completed or broken? | |
-| How does it change the relationship? | |
+**Describe a key ritual in your story: Which ritual is it? What is it supposed to accomplish? What actually happens? Is it completed or broken? How does it change the relationship?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does a character undergo a transformation through ritual?**
 Initiations, ascensions, species changes: these are identity thresholds. What does the character become, and what do they lose?
@@ -981,10 +983,15 @@ So instead of asking "what does their religion forbid?" ask "what would they los
 **What religious community do your characters belong to?**
 Community is often what people lose first when they defy religious rules. What support, identity, and belonging would they sacrifice?
 
-| Character | Religious Community | What This Community Provides |
-|-----------|-------------------|----------------------------|
-| Protagonist | | |
-| Love Interest | | |
+**What religious community does each character belong to, and what does it provide them (identity, safety, purpose, belonging)?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What else does religious community provide that they'd lose?**
 *Social support? Identity? Safety? Business connections? Marriage prospects? Meaning? Purpose? The more comprehensive the community, the more devastating the loss.*
@@ -992,10 +999,15 @@ Community is often what people lose first when they defy religious rules. What s
 **What would each character lose if cast out of their religious community?**
 Not just spiritual consequences. Social, practical, relational losses:
 
-| Character | What They Would Lose |
-|-----------|---------------------|
-| Protagonist | |
-| Love Interest | |
+**What would each character lose by leaving their religious community?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is their family's acceptance tied to religious conformity?**
 Would religious violation mean losing family as well as faith community? This multiplies the stakes enormously.

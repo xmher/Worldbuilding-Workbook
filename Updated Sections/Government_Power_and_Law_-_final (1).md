@@ -1712,10 +1712,15 @@ _______________________________________________________________
 
 Do they feel personal guilt/grievance, or do they see it as "the past"?
 
-| Character | Relationship to Historical Wrong |
-|-----------|----------------------------------|
-| Protagonist | |
-| Love Interest | |
+**What is each character's relationship to a historical wrong between their peoples — are they inheritor, victim, bystander, or denier?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1761,19 +1766,29 @@ _______________________________________________________________
 
 **What does each character believe that the other finds repugnant?**
 
-| Character | Belief the Other Finds Repugnant |
-|-----------|----------------------------------|
-| Protagonist | |
-| Love Interest | |
+**What belief does each character hold that the other finds repugnant?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Why does each believe this?**
 
 Not just "they were raised that way" — what experiences, evidence, or reasoning supports their view?
 
-| Character | Reasoning Behind Their Belief |
-|-----------|------------------------------|
-| Protagonist | |
-| Love Interest | |
+**What reasoning lies behind each character's problematic belief — why does it make sense from their perspective?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is either belief clearly wrong?**
 
@@ -1901,10 +1916,15 @@ At a certain point in the story, each of the characters will have to opt for the
 
 *In the strongest enemies-to-lovers, both characters pay a price of equal weight for choosing each other. Map what each one loses.*
 
-| Character | What They Sacrifice | Why This Costs Them Specifically |
-|-----------|--------------------|---------------------------------|
-| Protagonist | | |
-| Love Interest | | |
+**What does each character sacrifice to be together, and why does this cost them specifically?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are these sacrifices roughly equal in weight?**
 
