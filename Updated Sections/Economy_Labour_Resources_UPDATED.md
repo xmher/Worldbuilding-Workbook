@@ -1296,6 +1296,14 @@ The best employer/employee romances don't just acknowledge the imbalance. They t
 **What does the employee know that the employer doesn't?**
 The less powerful character almost always has knowledge, skills, or perspective that the employer lacks. This is what prevents the romance from feeling one-directional. What does your employee bring that money and status can't provide?
 
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 **What would it cost the employee to walk away?**
 And what would it cost them to stay? Map both sides. The answer reveals whether your romance is earned or coerced.
 
@@ -1668,11 +1676,9 @@ If yes, does this complicate the romance? Create doubt about true feelings?
 
 &nbsp;
 
-**How does survival pressure shape the romance?**
+**How does survival-level economic pressure affect the romance? Describe a specific pressure, how it affects the relationship, and a scene where this is felt.**
 
 *Desperation doesn't just create backstory — it creates present-tense romantic tension. A character who can't eat tomorrow makes different choices about love than one who's comfortable. Map how survival needs warp the romantic dynamic.*
-
-**How does survival-level economic pressure affect the romance? Describe a specific pressure, how it affects the relationship, and a scene where this is felt.**
 
 *(Write your answer below)*
 

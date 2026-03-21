@@ -1170,11 +1170,13 @@ Systems break each other's logic:
 
 **List potential contradictions in your systems:**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **For each: is this productive tension or a plot hole?**
 
@@ -1200,17 +1202,27 @@ If no → Fantasy Romance (romance is the structural core)
 
 Both are valid! But knowing which helps you check if worldbuilding serves the right story.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can I remove the fantasy elements and still have the same romance?**
 If yes → Worldbuilding might be decorative. Strengthen connections.
 If no → Good. Worldbuilding is doing essential work.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does every major system connect to the romance?** Systems that don't connect may need reworking to serve the story, or might exist primarily for atmosphere rather than plot.
-
-**For each major system you've built (magic, politics, economy, culture, religion, geography, history), does it connect to your romance? For any that don't, either strengthen the connection or acknowledge it exists for atmosphere.**
 
 *(Write your answer below)*
 

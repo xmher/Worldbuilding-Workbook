@@ -1204,17 +1204,37 @@ Captivity creates the most extreme version of forced proximity in romantasy. The
 
 Cell, palace, island, enchanted realm, warded room, travelling under guard?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What intimacy does confinement force?**
 
 Shared sleeping space, being seen at your worst (injured, ill, grieving, afraid), depending on each other for basic needs, witnessing each other's private moments?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does the captive observe about the captor that she wouldn't see in any other context?**
 
 It's these private moments that dissolve the "villain" archetype. A captor who is publicly ruthless but privately kind, or exhausted, or conflicted, becomes a person rather than a monster. Lara watching Aren govern Ithicana with genuine care for his people. Poppy seeing Hawke's tender side beneath the flirtation. Feyre witnessing Rhysand's burden behind his mask of cruelty. All of these things only come into existence because the characters are confined together, and they're what make the reader believe the romantic connection is real.
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Betrayal Beat
 
@@ -1228,15 +1248,23 @@ This can't happen through words alone. Trust is rebuilt through action, through 
 
 The reveal/betrayal:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 How trust is rebuilt (what action, not words, proves it):
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Stockholm Syndrome Question
 
@@ -1252,19 +1280,33 @@ It's essential that the choice is informed and free. The captive must know the f
 
 What truth does the captive now know:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 What genuine escape option exists:
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 Why they choose to stay (not dependency or conditioning — a real reason):
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1282,23 +1324,35 @@ The danger in these settings isn't institutional punishment in the traditional s
 
 Resistance movement, thieves' guild, spy network, hidden magical order, underground religion, smuggling ring, assassin brotherhood, revolutionary cell?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What is the organisation's purpose? What are they working toward or against?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens if the organisation is discovered?**
 
 *This is the institutional grip. The consequence of exposure must be severe enough that every interaction between your characters carries real risk — not just for them, but for everyone they're protecting.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Secrecy & Trust
 
@@ -1306,21 +1360,35 @@ _______________________________________________________________
 
 *Oaths, magical bonds, mutual blackmail, shared guilt, initiation rituals? The binding mechanism determines how trapped your characters are.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do both characters know each other's involvement from the start, or does one discover the other's secret?**
 
 *If both know, the shared secret is an instant bond — "us against the world." If one discovers the other's involvement, the discovery becomes a turning point: do they protect the secret, exploit it, or join?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would betrayal look like, and what would it cost?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Double Life
 
@@ -1336,17 +1404,25 @@ _______________________________________________________________
 
 **Where do they meet in secret? What cover do they use?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does maintaining the double life affect their ability to be honest with each other?**
 
 *Characters who spend their days performing a lie often struggle to stop performing, even with someone they trust. The habit of secrecy can become a barrier to genuine intimacy.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1357,21 +1433,28 @@ _______________________________________________________________
 Every institution claims to serve a purpose, and the gap between what it claims and what it actually does creates brilliant story opportunities. Basgiath War College in Fourth Wing claims to train the next generation of dragon riders to defend the kingdom; in reality, it's a brutal selection process that treats cadets as expendable. The Spring Court in ACOTAR presents itself as a safe haven of beauty and tradition; in reality, it's a gilded cage where Feyre's autonomy is slowly suffocated. Once your characters find out about that gap, it changes everything, not just how they see the institution, but how they see each other. Disappointment can be a strong bond. Two people who've both looked behind the same curtain share something no one else can understand.
 
 **What does your institution claim to do?**
+
 The stated mission, the noble purpose, what it tells the world:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does it actually do?**
+
 The reality beneath the ideal: control, exploitation, preservation of power, something darker?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-**Do your characters believe in the institution's stated purpose?**
-Are they idealists who believe in the mission? Cynics who see the truth? One of each? Do their views change?
+&nbsp;
+
+&nbsp;
 
 **Does your protagonist believe in the institution's stated purpose, or do they see the reality beneath? What about your love interest? Are they idealists, cynics, or one of each?**
 
@@ -1384,18 +1467,28 @@ Are they idealists who believe in the mission? Cynics who see the truth? One of 
 &nbsp;
 
 **What happens when they see behind the curtain?**
+
 When the gap between ideal and reality becomes undeniable:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does disillusionment bring them together or create conflict?**
+
 Do they bond over shared revelation? Or does one still believe while the other has lost faith?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1406,44 +1499,76 @@ _______________________________________________________________
 Every institution has people who know how to work it, and people who suffer under it.
 
 **Who benefits from this institution?**
+
 Who has power, comfort, and advantage within the system?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who suffers under it?**
+
 Who is exploited, trapped, or disadvantaged by the system?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where are your characters in this hierarchy?**
+
 Are they beneficiaries, victims, or somewhere in between? Do their positions differ?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who knows how to game the system?**
+
 Someone who knows the loopholes, who to bribe, how to bend rules.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do your characters learn to work the system?**
+
 Do they find ways around the rules? Use the institution against itself?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there corruption they could exploit, or that threatens them?**
+
 Bribes, favouritism, blackmail, secret deals, people who can be bought.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

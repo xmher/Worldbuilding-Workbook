@@ -921,23 +921,53 @@ The method operates as follows:
 
 *Focus on problems that directly affect the romance. A power that manifests to save the love interest, a truth about the bond that changes everything, a secret that reframes the entire relationship.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where in your manuscript does the truth need to land?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where can you plant the first hint? (Aim for 15-20% into the manuscript)**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where can you add a second reference? (Aim for the midpoint)**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a scene where the character can struggle with or fail at this element before it becomes critical?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Ignorance Shield
 
@@ -973,19 +1003,37 @@ Using this technique, a limitation you establish through worldbuilding becomes a
 
 *Fae who cannot lie, bond-linked characters who sense deception, oath-bound warriors, prophets who can only speak truth. If any character in your story has a speech constraint, every line of their dialogue needs to pass the literalism test.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Have they said anything in your draft that technically breaks that constraint?**
 
 *Read their dialogue line by line. If you find a statement that is factually false, it needs to be rephrased. Pay special attention to romantic scenes, where characters under truth constraints might say "I don't care about you" or "You mean nothing to me" when the opposite is true.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How can you rephrase it as a question, omission, or technical truth?**
 
 *"I don't want you" becomes "Do you think I want this?" (question). "I feel nothing" becomes silence or a subject change (omission). "You're safe" becomes "No one will harm you while I'm here" (technically true, different implication).*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Sacrificial Reset
 
@@ -1004,19 +1052,37 @@ The writing lesson here: if you're going to remove power from your character, ma
 
 *If your protagonist or love interest could solve every problem with their magic, your romantic obstacles dissolve. There's no tension in "will they survive?" if the answer is obviously yes.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What could they sacrifice, and for whom?**
 
 *The most emotionally powerful sacrifices in romantasy are for the love interest or for someone the love interest cares about. Nesta sacrifices her power for Feyre. The sacrifice serves the romance because it proves the depth of feeling that Nesta spent the whole book denying.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does the sacrifice come from love, duty, or plot mechanics?**
 
 *If the answer is "plot mechanics," reconsider. Readers can tell the difference.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Perspective Upgrade
 
@@ -1030,19 +1096,37 @@ If you need to change a character's backstory or reveal a hidden nature, you can
 
 *In romantasy, this is often about the love interest. Your narrator saw them one way; now they need to see the truth. What changes their perception: the bond deepening, a new magical ability, or simply spending enough time together to see past the mask?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What new lens could make that possible?**
 
 *A magical ability, a new perspective gained through experience, the bond revealing something it previously concealed, or a piece of information that reframes what they've already observed?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can you establish this lens before the scene where they need it?**
 
 *The lens should feel like character growth, not a plot device. If it's a magical ability, let them struggle with it before it becomes useful. If it's emotional growth, show the incremental shifts.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Choosing Your Fix
 
@@ -1061,19 +1145,35 @@ Not every inconsistency needs the same tool. Here's a quick reference for matchi
 
 *The one that, if a reader caught it, would make them stop trusting your world and your romance.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Which technique fits?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What specific changes do you need to make, and where in the manuscript?**
 
 *Be concrete: "Add a line in Ch. 5 where [character] notices [detail]" is better than "foreshadow the reveal earlier."*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1107,47 +1207,83 @@ Document and maintain:
 
 *Include any rules that have evolved or been revealed across books. Note which book established each rule.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Travel times between key locations:**
 
 *These are among the easiest inconsistencies for readers to spot across a series. If a journey takes three weeks in Book One, it should take three weeks in Book Three.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Political structures and current power holders:**
 
 *Track who holds power at the end of each book. Power shifts are often tied to romantic stakes — a new ruler might change everything about whether the relationship is forbidden or permitted.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Character abilities and their established limits:**
 
 *Note any power growth, sacrifices, or new abilities gained across books. Readers track power levels closely.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Romantic relationship progression and bond mechanics:**
 
 *Track where the relationship stands at the end of each book: what's been confessed, what's still secret, what physical or magical bonds are active, and what rules govern those bonds. If a mating bond behaves one way in Book One, it should behave the same way in Book Three unless you've established why it's changed.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Major worldbuilding facts that can't change:**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Will you need a series bible?**
 
 *If you're writing more than one book in this world, the answer is almost certainly yes. Even if you think you'll remember everything, you won't. Start it now, while this workbook's answers are fresh.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

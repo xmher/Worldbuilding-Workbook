@@ -1154,16 +1154,12 @@ In *The Bridge Kingdom*, Lara marries King Aren as a professional assassin sent 
 In *Radiance*, Brishen and Ildiko were both used as pawns in a marriage of convenience to facilitate a trade agreement between two species that found each other disgusting to look at. The public face they put on as symbols of peace was in direct contrast to their private lives as outsiders in their respective families. The reason the romance works is because they develop a legitimate friendship first, utilising humour and honesty regarding their physical appearance to form an intellectual connection. Once they develop a friendship based on respect, the feelings of affection grow, and eventually so do the feelings of desire.
 
 **Are your characters performing a relationship for political purposes?**
-If yes:
 
-**What are the ground rules?**
-All fake relationships begin with parameters: how much physical interaction can take place, what story they're going to tell the public, and when the pretence will stop. Establishing these boundaries is important because it's the violations of them that create the tension. The first time one character touches the other outside the established limits, or when one character defends the other more intensely than required by the scene, or when one character can't stop thinking about the performance when they're by themselves, the facade of their pretend begins to crumble. Affection? Unity? Hostility? Indifference? Which behaviours will the political situation require? Are the characters complete strangers? Enemies? Already attracted to one another, but pretending not to be? Is one character secretly working against the other? The instant the veil falls is your romantic turning point. At which point during the public display will the characters cross the line from acting strategically to feeling genuinely? A protective instinct that occurs too quickly to be calculated? A compliment intended for the court that the other character recognises as being true? A touch that lingers longer than the audience expects? Once the political goals of the situation are met or abandoned, and there's no longer a need for the characters to maintain the performance, will they continue to choose each other? The movement from "we have to" to "we want to" is the emotional core of this dynamic. Many of the most memorable romantic moments arise from the moment one character realises they're continuing to reach for the other's hand even though no one is watching.
+*If yes: All fake relationships begin with parameters — how much physical interaction can take place, what story they'll tell the public, and when the pretence will stop. The romantic tension comes from violating those limits.*
 
 **What are the rules of the performance?**
 
-*All fake relationships start with boundaries. The romantic tension comes from violating them.*
-
-**If your characters must perform a public relationship (love, unity, hostility, indifference): What are the physical boundaries? When does the performance end? Is one secretly working against the other?**
+*What are the physical boundaries? When does the performance end? Is one secretly working against the other?*
 
 *(Write your answer below)*
 
@@ -1177,19 +1173,25 @@ All fake relationships begin with parameters: how much physical interaction can 
 
 *The moment one character crosses the performance's limits — a touch that lingers, a defence that's too fierce, a compliment that's true — is your romantic turning point.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **When does the performance become real?**
 
 *At what point does one character realise they're reaching for the other's hand even though no one is watching?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1209,7 +1211,7 @@ The moment of choosing love over loyalty is one of the most powerful beats in en
 
 **What major factions exist?**
 
-**Describe the key political factions in your world. For each, what do they want, who leads them, and what is their power base?**
+*For each faction, what do they want, who leads them, and what is their power base?*
 
 *(Write your answer below)*
 
@@ -1221,7 +1223,7 @@ The moment of choosing love over loyalty is one of the most powerful beats in en
 
 **Where do your characters fall?**
 
-**Which political faction does each character belong to or align with?**
+*Which political faction does each character belong to or align with?*
 
 *(Write your answer below)*
 
@@ -1235,22 +1237,31 @@ The moment of choosing love over loyalty is one of the most powerful beats in en
 
 *Same side creates shared purpose; opposite sides creates enemies-to-lovers tension; unaligned means one or both will eventually be forced to choose. Each configuration generates different romantic pressure.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If on opposite sides, what would it take to betray their faction for each other?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
 ### Political Enemies
 
 **Who has political reason to keep your characters apart?**
-Name specific antagonists. What do they stand to lose if your characters unite?
 
-**Describe your story's political enemy/antagonist: Who are they? What position do they hold? What do they want? Why do they oppose the characters? What will they do?**
+*Name specific antagonists. Who are they, what position do they hold, what do they want, why do they oppose the characters, and what will they do? What do they stand to lose if your characters unite?*
 
 *(Write your answer below)*
 
@@ -1265,9 +1276,8 @@ Name specific antagonists. What do they stand to lose if your characters unite?
 ### Political Allies
 
 **Who supports your characters despite political opposition?**
-Allies provide hope and aid, but their support should cost them something too.
 
-**Describe your story's key political ally: Who are they? What position do they hold? Why do they help, and what do they risk by doing so?**
+*Allies provide hope and aid, but their support should cost them something too. Who are they, what position do they hold, why do they help, and what do they risk by doing so?*
 
 *(Write your answer below)*
 
@@ -1278,11 +1288,16 @@ Allies provide hope and aid, but their support should cost them something too.
 &nbsp;
 
 **Is there current factional conflict that affects your story?**
-Political instability creates both danger and opportunity. Could your characters use factional conflict to their advantage?
 
-_______________________________________________________________
+*Political instability creates both danger and opportunity. Could your characters use factional conflict to their advantage?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1306,13 +1321,17 @@ When two characters share an adversarial environment at court as partners, that 
 
 *Courts create constant surveillance that turns every private feeling into a public risk. If your characters interact at court, the romantic tension is built into the environment.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What mask does each character wear at court?**
 
-*The romantic spark happens when masks crack. You need to know what each character is hiding before you can write the moments it slips.*
-
-**What public mask does each character wear, and what does it hide?**
+*The romantic spark happens when masks crack. What public mask does each character wear, and what does it hide?*
 
 *(Write your answer below)*
 
@@ -1326,33 +1345,41 @@ _______________________________________________________________
 
 *Balls, coronations, tournaments — public rituals force your characters into proximity under observation. The best romantic moments happen when the performance cracks during the event.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Where is the private space where the masks come off?**
 
 *The contrast between public performance and private truth drives the romantic arc. Where can your characters be themselves?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do your characters navigate court as partners or adversaries?**
 
 *Partners build intimacy through shared burdens. Adversaries build tension through strategic counterplay. Both can lead to romance, but through very different paths.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What private language have your characters developed at court?**
 
-*Surviving court together creates shared codes. These small, secret communications are some of the most romantic moments you can write.*
-
-**Do your characters develop private signals — a look, a gesture, a code word? What do they mean?**
+*Surviving court together creates shared codes. Do your characters develop private signals — a look, a gesture, a code word? What do they mean?*
 
 *(Write your answer below)*
 
@@ -1385,11 +1412,13 @@ If yes:
 
 *A character hiding their identity can never be fully present with their partner. The secret sets a maximum depth the relationship can reach — and the reader should feel that ceiling. What moments of connection are cut short or made hollow because of what's being hidden?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Espionage as Proximity
 

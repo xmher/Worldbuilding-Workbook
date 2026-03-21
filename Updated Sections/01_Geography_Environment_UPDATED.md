@@ -228,9 +228,7 @@ You may feel that if your geography does not cause friction for your characters 
 
 #### If your world is large, where specifically does your romance happen?
 
-*You don't need to detail everything — just locations that matter.*
-
-**List your primary and secondary locations. For each, give the name and a one-sentence description of what happens there and why it matters to the romance.**
+*You don't need to detail everything — just locations that matter. List your primary and secondary locations; for each, give the name and a one-sentence description of what happens there and why it matters to the romance.*
 
 *(Write your answer below)*
 
@@ -286,7 +284,7 @@ You may feel that if your geography does not cause friction for your characters 
 
 #### What terrains shape your story?
 
-**For each major terrain type in your world, describe where it is, what it provides, what challenges it creates, and how it affects the romance.**
+*For each major terrain type in your world, describe where it is, what it provides, what challenges it creates, and how it affects the romance.*
 
 *(Write your answer below)*
 
@@ -412,9 +410,7 @@ For deeper language work, see *Section 11: Language & Communication*.
 
 #### Name your key locations
 
-*Use the patterns above (or your own) to name the places that matter most. If you already have names, write them here and note what they mean or evoke.*
-
-**Name your key locations (protagonist's homeland, love interest's homeland, where they meet, the contested territory, their special place). For each, explain what the name means and which naming convention it follows.**
+*Use the patterns above (or your own) to name the places that matter most. For each key location (protagonist's homeland, love interest's homeland, where they meet, the contested territory, their special place), explain what the name means and which naming convention it follows.*
 
 *(Write your answer below)*
 
@@ -478,9 +474,7 @@ The most effective way to demonstrate resource control on the page is to show wh
 
 #### What natural resources are geographically concentrated?
 
-*Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?*
-
-**What are the 2-3 most important natural resources in your world? For each, describe where it's found, who controls it, and how that control creates conflict or tension in your story.**
+*Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life? For each of the 2-3 most important natural resources in your world, describe where it's found, who controls it, and how that control creates conflict or tension in your story.*
 
 *(Write your answer below)*
 
@@ -521,6 +515,7 @@ The most effective way to demonstrate resource control on the page is to show wh
 > You've mapped where resources are found and who controls them. In Section 4: Resources & Scarcity, you'll explore how resource control creates economic stakes, cultural traditions, and romantic tension.
 
 ---
+
 ## The Sensory World
 
 Geography doesn't just mean what exists in space; it also means how it feels to be in that space. Those sensory elements of your setting contribute to the emotional texture of scenes. A first kiss will have a different quality to it when done in a garden filled with the scent of night-blooming jasmine as opposed to a stone hallway with torch smoke.
@@ -580,6 +575,7 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
 &nbsp;
 
 ---
+
 ## Climate, Weather & Seasons
 
 The weather is a form of immediate, physical, environmental condition, which affects everything from how people move through the world, their ability to grow food, warfare, and their day-to-day lives. In addition to providing these barriers to possibility, seasons can provide a deadline (marry before the snow blocks the pass) or a waiting period (trapped together until the spring thaw), or simply mark the passage of time as they navigate their long-term attraction to one another.

@@ -302,10 +302,8 @@ Magical scrying? Spy networks? Informants? Nothing systematic?
 **What are the consequences of being overheard?**
 *The stakes of privacy shape how carefully characters speak and act. If the wrong person hearing the wrong thing means execution, exile, or scandal, then every whispered word carries enormous weight — and every private moment becomes an act of courage.*
 
-**Design a stolen moment for your characters.**
-*In worlds where privacy is scarce, every stolen moment carries the weight of an entire scene. Think about how your characters would navigate surveillance to create a private interaction — and what the consequences would be if they were caught.*
-
 **Design a stolen moment for your characters: Where does it happen? Who or what are they hiding from? What do they do or say? How do they cover their tracks? What would happen if they were caught?**
+*In worlds where privacy is scarce, every stolen moment carries the weight of an entire scene. Think about how your characters would navigate surveillance to create a private interaction — and what the consequences would be if they were caught.*
 
 *(Write your answer below)*
 
@@ -813,10 +811,8 @@ Hand-copied, printed, magically reproduced:
 
 Universal? Class-restricted? Gender-restricted? If your characters come from different education levels, how does that gap affect their dynamic? Does one teach the other, and what does that teaching look like?
 
-**Does knowledge create a power dynamic between your characters?**
-*When one character can read and the other can't, when one has access to information the other is denied, the knowledge gap becomes a source of dependency, shame, or intimacy. Teaching someone is an act of trust. Withholding knowledge is an act of control.*
-
 **Does either character have knowledge the other lacks? Does one teach the other, and how does the knowledge gap affect their dynamic (dependency, shame, wonder, trust)?**
+*When one character can read and the other can't, when one has access to information the other is denied, the knowledge gap becomes a source of dependency, shame, or intimacy. Teaching someone is an act of trust. Withholding knowledge is an act of control.*
 
 *(Write your answer below)*
 
@@ -850,10 +846,8 @@ Does magic interfere with technology or vice versa?
 **Who has access to magical vs. technological solutions?**
 *Magic and technology may solve similar problems differently. Which solution is available to your protagonist, and which is beyond reach? The gap between magical and mundane solutions is often the gap between your characters' worlds.*
 
-**How does the magic/technology divide affect your characters' relationship?**
-*When one character has access to magical solutions and the other relies on slower, harder alternatives, the gap creates dependency, resentment, or wonder. This asymmetry is fuel for romantic tension.*
-
 **What magical solution does one character have that the other doesn't? How does the character without magic solve the same problem, and does the divide create dependency, resentment, wonder, or something else?**
+*When one character has access to magical solutions and the other relies on slower, harder alternatives, the gap creates dependency, resentment, or wonder. This asymmetry is fuel for romantic tension.*
 
 *(Write your answer below)*
 
@@ -865,10 +859,8 @@ Does magic interfere with technology or vice versa?
 
 ### Lost or Forbidden Technology
 
-**Did past civilisations have technology now lost?**
-*Lost technology creates mystery and possibility. What ancient wonders might your characters discover or seek — and could the quest to find them bring your characters together or drive them apart?*
-
 **Did past civilisations have technology now lost? What was lost, why was it lost, and could it be rediscovered?**
+*Lost technology creates mystery and possibility. What ancient wonders might your characters discover or seek — and could the quest to find them bring your characters together or drive them apart?*
 
 *(Write your answer below)*
 
@@ -878,10 +870,8 @@ Does magic interfere with technology or vice versa?
 
 &nbsp;
 
-**Is any technology restricted or forbidden?**
-*Forbidden technology creates temptation and danger. A character willing to risk punishment to access forbidden knowledge or tools reveals how much they're willing to sacrifice — and a shared secret about forbidden technology binds characters together.*
-
 **Is any technology restricted or forbidden in your world? What's restricted, who restricts it and why, and what are the consequences for using it?**
+*Forbidden technology creates temptation and danger. A character willing to risk punishment to access forbidden knowledge or tools reveals how much they're willing to sacrifice — and a shared secret about forbidden technology binds characters together.*
 
 *(Write your answer below)*
 
@@ -897,10 +887,8 @@ Does magic interfere with technology or vice versa?
 
 Now that you've established your world's technology level, think about how it specifically affects your characters. This is where the worldbuilding becomes personal, where abstract rules about communication speed and medical access become the concrete reality of your romance. Some of these questions may echo earlier ones — that's intentional. Earlier, you were building the world's systems. Now you're asking: what do those systems mean for these two people specifically?
 
-**What technology does each character have access to?**
-*Differing access creates imbalance. What does each character take for granted that the other finds remarkable or impossible?*
-
 **What technology does your protagonist have access to? What about your love interest? What does one take for granted that the other finds remarkable?**
+*Differing access creates imbalance. What does each character take for granted that the other finds remarkable or impossible?*
 
 *(Write your answer below)*
 
@@ -918,10 +906,8 @@ What does one have that the other doesn't?
 **How does this affect their dynamic?**
 *Technology gaps can create dependency, wonder, shame, or teaching moments. The character who teaches reveals patience or condescension; the one who learns reveals pride or openness. How does the disparity shape how they see each other?*
 
-**How do they communicate when separated?**
-*Distance communication shapes the texture of separation. Letters reread until worn, messages that might never arrive, or instant magical contact. Each creates a different emotional reality.*
-
 **How do your characters communicate when separated? What method do they use, how long do messages take, and what risk exists in their communication?**
+*Distance communication shapes the texture of separation. Letters reread until worn, messages that might never arrive, or instant magical contact. Each creates a different emotional reality.*
 
 *(Write your answer below)*
 
@@ -931,10 +917,8 @@ What does one have that the other doesn't?
 
 &nbsp;
 
-**What privacy do they have?**
-*Privacy determines where intimacy is possible. Where and when can your characters be truly alone together — and what changes when they finally are?*
-
 **Where can your characters be truly alone together? Who might observe or overhear them?**
+*Privacy determines where intimacy is possible. Where and when can your characters be truly alone together — and what changes when they finally are?*
 
 *(Write your answer below)*
 
@@ -947,11 +931,9 @@ What does one have that the other doesn't?
 **If one character has servants/attendants, how does that affect privacy?**
 *Attendants are witnesses. What must your characters hide even from loyal servants, and what happens if servants aren't loyal?*
 
-**Does either character face medical issues?**
+**Does either character face medical issues? What condition, what treatment exists, and does one care for the other during illness or injury?**
 *Illness and injury create vulnerability. Caring for someone sick is intimacy of a different kind — it proves love in ways that words cannot. What might that reveal between your characters?*
 
-**Does either character face medical issues? What condition, what treatment exists, and does one care for the other during illness or injury?**
-
 *(Write your answer below)*
 
 &nbsp;
@@ -959,11 +941,9 @@ What does one have that the other doesn't?
 &nbsp;
 
 &nbsp;
-
-**How does contraception (or lack thereof) affect them?**
-*The availability and reliability of contraception shapes what intimacy means and what consequences your characters might face. This is where worldbuilding meets the most personal moments of your romance.*
 
 **Is contraception available to your characters? Is it something they discuss or navigate?**
+*The availability and reliability of contraception shapes what intimacy means and what consequences your characters might face. This is where worldbuilding meets the most personal moments of your romance.*
 
 *(Write your answer below)*
 
@@ -973,10 +953,8 @@ What does one have that the other doesn't?
 
 &nbsp;
 
-**Could they marry secretly with no record?**
-*Secret marriage is a classic romantasy option, but documentation requirements determine whether it can stay secret and what risks exist. A union no one can prove is also a union no one can disprove.*
-
 **Could your characters marry secretly with no record? What would be required, and what risks would exist?**
+*Secret marriage is a classic romantasy option, but documentation requirements determine whether it can stay secret and what risks exist. A union no one can prove is also a union no one can disprove.*
 
 *(Write your answer below)*
 

@@ -1069,10 +1069,8 @@ What's unique about how it works in your world?
 
 &nbsp;
 
-**Do your characters have true names different from their common names?**
-What would it mean for your protagonist to share, or withhold, this from their love interest?
-
 **Do true names hold power in your world? What is your protagonist's true name and what does it mean? What is your love interest's true name and why does it matter?**
+*What would it mean for your protagonist to share, or withhold, their true name from their love interest?*
 
 *(Write your answer below)*
 
@@ -1082,10 +1080,8 @@ What would it mean for your protagonist to share, or withhold, this from their l
 
 &nbsp;
 
-**When does one learn the other's true name?**
-This moment marks a turning point. Is it freely given or discovered? What changes when this knowledge passes between them?
-
 **When and how is a true name revealed between your characters? What does the revelation mean for their relationship?**
+*This moment marks a turning point. Is it freely given or discovered? What changes when this knowledge passes between them?*
 
 *(Write your answer below)*
 
@@ -1103,10 +1099,8 @@ The way characters address each other is a map of their relationship. Titles bec
 
 ### Forms of Address
 
-**What forms of address exist?**
-Titles, honorifics, and familiar names create layers of intimacy. The shift from formal to informal often marks a relationship's evolution.
-
 **What are the forms of address in your world? Describe the formal (titles, honorifics), informal (first names), and intimate (pet names, private names) levels.**
+*Titles, honorifics, and familiar names create layers of intimacy. The shift from formal to informal often marks a relationship's evolution.*
 
 *(Write your answer below)*
 
@@ -1116,10 +1110,8 @@ Titles, honorifics, and familiar names create layers of intimacy. The shift from
 
 &nbsp;
 
-**What shift in how they address each other marks growing intimacy?**
-From title to name? Formal to informal? Surname to given name? A private nickname? In *From Blood and Ash*, the progression from "Hawke" to "Casteel" to "Cas" tracks Poppy's journey from loving a persona, to confronting a stranger, to accepting the real man. Each name marks a different stage of the relationship, and the moment she chooses "Cas" is the moment the deception stops mattering more than the person beneath it.
-
 **How do your characters initially address each other? What do they shift to? When does the shift happen, and what triggers it?**
+*From title to name? Formal to informal? Surname to given name? A private nickname? In* From Blood and Ash*, the progression from "Hawke" to "Casteel" to "Cas" tracks Poppy's journey from loving a persona, to confronting a stranger, to accepting the real man. Each name marks a different stage of the relationship, and the moment she chooses "Cas" is the moment the deception stops mattering more than the person beneath it.*
 
 *(Write your answer below)*
 
@@ -1135,8 +1127,6 @@ The inside joke, the glance that holds meaning, the word or phrase that only one
 
 In *The Cruel Prince*, Jude and Cardan's shared cruelty functions as a private code. The insults they give one another serve as a language of fixation that only they understand; when Cardan says to Queen Orlagh that he will have Jude, it may appear to be a political statement for those around them, but Jude understands this to be a desperate expression of his personal desire. The daemati link in *ACOTAR* serves the same function: a channel that excludes the entire world and belongs only to Feyre and Rhysand.
 
-**Do your characters develop a code or private language?**
-
 **Do your characters develop a private code or shared language? What form does it take, what can they say in code that they can't say openly, and when do they first use it?**
 
 *(Write your answer below)*
@@ -1151,8 +1141,6 @@ In *The Cruel Prince*, Jude and Cardan's shared cruelty functions as a private c
 
 Endearments carry cultural weight. Are they common or reserved? What does using, or avoiding, such words reveal about your characters and their world?
 
-**What words express love or affection in your world's languages?**
-
 **What are the common terms of endearment in your world? What more intimate or private words exist between your characters specifically?**
 
 *(Write your answer below)*
@@ -1166,14 +1154,16 @@ Endearments carry cultural weight. Are they common or reserved? What does using,
 **Are there words for love in one language that don't exist in another?**
 Concepts that can't quite be translated. These untranslatable words become story in themselves.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-**What's the first affectionate thing one says in the other's language?**
-Learning to say something tender in someone else's tongue is an act of reaching across distance.
+&nbsp;
+
+&nbsp;
 
 **What is the first term of endearment one character uses for the other? How does the other react?**
+*Learning to say something tender in someone else's tongue is an act of reaching across distance.*
 
 *(Write your answer below)*
 
@@ -1186,9 +1176,13 @@ Learning to say something tender in someone else's tongue is an act of reaching 
 **If they say "I love you," in what language?**
 Whose language and why that choice:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1207,10 +1201,8 @@ The best misunderstandings aren't just about getting the words wrong. They're ab
 | Deliberate misdirection | A third party translates or explains incorrectly on purpose | The truth comes out and the manipulator is exposed |
 | Silence read as rejection | One character's inability to speak is taken as unwillingness | The moment when they finally find the words, or find another way |
 
-**What misunderstanding occurs because of language barriers?**
-Language gaps create room for confusion, comedy, or heartbreak. What gets lost in translation between your characters, and is the misunderstanding rooted in language, culture, or character?
-
 **Plan a key miscommunication between your characters: What is the miscommunication, why is it inevitable given who they are, what does each character believe happened, and how is it resolved?**
+*Language gaps create room for confusion, comedy, or heartbreak. What gets lost in translation between your characters, and is the misunderstanding rooted in language, culture, or character?*
 
 *(Write your answer below)*
 
@@ -1223,9 +1215,13 @@ Language gaps create room for confusion, comedy, or heartbreak. What gets lost i
 **When do they finally understand each other completely?**
 Not just words, but meaning. This moment often lands near the emotional climax of the romance, when all the barriers, linguistic and otherwise, finally come down:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

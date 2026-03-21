@@ -988,40 +988,52 @@ Not all magic users are created equal, and not all magic is the same flavour. Un
 ### Types and Specialisations
 
 **Is magic in your world one unified force, or are there distinct types, schools, or disciplines?**
-Different magical traditions can create cultural divides or opportunities for complementary partnership. If there are distinct types, list them.
 
-_______________________________________________________________________________
+*Different magical traditions can create cultural divides or opportunities for complementary partnership. If there are distinct types, list them.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do magic users specialise, or can someone master multiple types?**
-What determines their speciality: birth, choice, training, or something else?
 
-_______________________________________________________________________________
+*What determines their speciality: birth, choice, training, or something else?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are some types of magic considered more valuable, dangerous, or taboo than others?**
-Stigmatised magic creates secrets to hide or discover. Does either character possess abilities they must conceal?
 
-_______________________________________________________________________________
+*Stigmatised magic creates secrets to hide or discover. Does either character possess abilities they must conceal?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do different types of magic interact?**
-Can they combine for greater effect, cancel each other out, or create unexpected reactions?
 
-_______________________________________________________________________________
+*Can they combine for greater effect, cancel each other out, or create unexpected reactions?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### How Your Leads' Magic Interacts
 
@@ -1029,9 +1041,7 @@ In *Gideon the Ninth*, Harrow is a necromancer who works with bones and death. G
 
 **How might your leads' types of magic interact, for good or ill?**
 
-*This is a first sketch — we'll explore opposition and incompatibility in depth later. For now, map the basics of how your characters' magic relates.*
-
-**How might your leads' magic interact? Describe each character's magic, how their abilities might clash, how they might complement each other, and what this means for the romance.**
+*This is a first sketch — we'll explore opposition and incompatibility in depth later. For now, map the basics of how your characters' magic relates. Describe each character's magic, how their abilities might clash, how they might complement each other, and what this means for the romance.*
 
 *(Write your answer below)*
 
@@ -1066,31 +1076,37 @@ These actions add to the romance because they are a physical representation of h
 
 *What's the nature of the bond: mental link, soul bond, channelling conduit, symbiotic partnership? How much of themselves do they share with the creature? The deeper the bond, the harder it is to hide feelings from your creature — and from yourself.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does the creature respond to the love interest?**
 
 *Protectiveness, jealousy, curiosity, hostility, instant acceptance? The creature's reaction is often the first honest signal of how the protagonist really feels — before either character is willing to admit it. Does its response change over the course of the story?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Does the creature know things about the protagonist's feelings before the protagonist does?**
 
 *Bonded creatures often function as emotional truth-tellers. Can the creature sense attraction, fear, or trust before the character is willing to acknowledge it? In Fourth Wing, the dragons' mating bond reveals the riders' feelings before either rider is ready to face them.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### The Creature Bond Alongside the Romantic Bond
 
@@ -1106,31 +1122,37 @@ A key aspect of accepting a partner's beast form is acceptance of all parts of w
 
 *What does it look like? What does it reveal about their nature? In ACOTAR, Tamlin's beast form reflects his territorial protector instincts; Rhysand's monstrous scaled form represents the darkness he controls but despises.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does the love interest respond to this form?**
 
 *Fear, fascination, acceptance, attraction? The response is a character test — a partner who flinches from the beast form is rejecting part of who the person is.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What would it mean for the love interest to accept or embrace the creature aspect?**
 
 *This often functions as one of the story's key romantic turning points — the moment where "I love you" extends to "I love all of you, including the parts that aren't human."*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1168,31 +1190,37 @@ The manner in which your character develops their magic influences the response 
 
 *Born with it, inherited it, earned it through training, gained it through trauma or transformation, had it forced upon them, stole it? The origin of your protagonist's power shapes how the world treats them — and how they feel about themselves.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Does the origin of their power affect how others treat them?**
 
 *Born magic might be respected but expected. Gained magic might be feared, envied, or seen as illegitimate. Feyre's "Made" status creates political friction because it doesn't fit existing power structures. The social response to how someone got their power shapes the obstacles they face.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Is there a tension between what your protagonist was and what they're becoming?**
 
 *The scribe becoming a rider. The mortal becoming Fae. The sheltered maiden becoming a warrior. These transitions force the character to negotiate between their past self and their emerging one — and the love interest is often the person who helps them bridge that gap, or the person who can't accept the change.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1212,33 +1240,41 @@ When writing hard magic, show the reader the rules through consequence. Don't ex
 
 HARD (Clear rules, defined costs, readers can predict what magic will do) ←―――――――――→ SOFT (Mysterious, wondrous, readers feel awe but can't predict outcomes)
 
-_______________________________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
 
 *Now answer the question that matches your position:*
 
 **If your magic is on the harder side:** Have you established the rules clearly enough that readers will accept magical solutions?
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If your magic is on the softer side:** Are you avoiding using vague magic to solve major plot problems?
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If you're in the middle:** Which elements are rule-bound and which are mysterious?
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 

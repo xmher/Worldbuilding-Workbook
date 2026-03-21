@@ -534,15 +534,17 @@ The founding ideals shape what your world considers "natural" or "right" — inc
 
 Could their union restore what was lost — or repeat the mistake that caused the fall?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
 ### The Defining Event
-
-**What single historical event most shaped the current world?**
 
 **What single historical event most shaped your current world? Describe what happened, when, who was involved, its immediate consequences, and the long-term effects still felt today.**
 
@@ -581,13 +583,15 @@ Wars and conflicts create deep divisions that will be remembered for centuries t
 
 Cold tensions, simmering resentments, truces that aren't really peace?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
-
-**What major conflict most directly affects your romance?**
 
 **What major historical conflict most directly affects your romance? Describe the conflict (name, when, participants, cause, outcome, consequences) and whether your characters' families/nations are on opposing sides.**
 
@@ -601,21 +605,35 @@ _______________________________________________________________
 
 **Are their families/nations/species on opposing sides of this conflict?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are there still active hostilities, or is this a cold peace?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would it mean for them to be together despite this history?**
 
 Betrayal? Healing? Repeating forbidden history?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -633,9 +651,13 @@ Places that have a historical significance have an impact on the lives of your c
 **Do your characters visit a place where history happened?**
 Why do they go? What do they find? Standing where history happened can force characters to confront what they've been avoiding, or reveal a truth they didn't expect.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -648,36 +670,52 @@ There are many ways people relate to their own history. Some hold their historie
 
 Which describes your world (or different groups within it)?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do people interact with historical sites?**
 *If ruins are sacred, a romantic scene set in one becomes sacrilege. If they're forbidden, meeting there makes your characters outlaws. The way your world treats its historical places determines what it means for your characters to stand in them together.*
 
 Are ruins sacred? Dangerous? Tourist attractions? Forbidden? Looted for materials?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do people venerate ancestors?**
 *If your characters' peoples venerate their ancestors, then falling in love with the enemy isn't just a personal betrayal — it's a spiritual one. Ancestor veneration raises the stakes from "my family will be angry" to "my dead grandmother's spirit is watching me betray everything she fought for."*
 
 How? Shrines? Prayers? Consulting spirits? Obligation to fulfill their wishes?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are there historical commemorations?**
 *Festivals and monuments refresh historical trauma on a schedule. If your world celebrates a victory that was your love interest's people's worst defeat, every anniversary becomes a scene waiting to happen.*
 
 Holidays marking past events? Monuments? Annual remembrances?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -707,18 +745,26 @@ Using the table above as a guide, identify what forms of historical propaganda e
 **Does the propaganda landscape intrude on your characters' intimate moments?**
 Propaganda landscapes are strongest when they enter into the private realm of a character. When Feyre and Rhysand act out their relationship in the Court of Nightmares in *ACOMAF*, it's not just that they're being forced to perform their love for each other; the court itself is a monument to the violence done to them, and their intimacy becomes political theatre. In *Mistborn*, Vin's first experiences of romance occur at noble balls, where the grey ashfalls outside contrast with the lavish gowns inside. It creates a moral dissonance she can't ignore.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 The way for characters to find resistance is to look for the cracks in the wall, the truth beneath the ash, the banned text that tells a different story. Feyre utilises her own art as a means of resistance, painting vivid, misleading images so that she can keep her real emotions hidden. In *Mistborn*, the truth is literally etched in metal, a medium that can't be altered by the entity who corrupted the paper records. And in *The Hunger Games*, the three-finger salute becomes an organic counter-symbol that outpaces the state's manufactured propaganda.
 
 **What "holes" exist in your world's propaganda?**
 Clandestine meeting places? Forbidden archives? Subversive art? Underground networks? These gaps in the propaganda landscape are where your romance lives. The spaces where the state's version of history fails and something truer can grow.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

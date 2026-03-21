@@ -1434,17 +1434,25 @@ Consider: Do servants see everything? Do nobles have private chambers? Do common
 
 Courts, public spaces, family homes, workplaces — where is privacy impossible?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who might be watching or listening?**
 
 Servants, guards, family members, rivals, magical surveillance, spies:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would happen if they were seen together?**
 
@@ -1456,23 +1464,28 @@ _______________________________________________________________
 
 **What excuse or cover story do they use when almost caught?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Is there a moment in your story when they ARE seen?**
 
 Who sees them? What happens next?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Touch, Proximity & Physical Boundaries
 
 In many societies, there are rules about who may physically touch whom, and to what extent. Touch restrictions have the power to create a slow burn feeling in romance. When a simple brush of the fingers with another person is seen as taboo, it carries a charge that explicit contact in a more permissive culture simply can't match.
@@ -1494,41 +1507,49 @@ Map the boundaries:
 
 **What physical distance is expected between unmarried people?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What touch is considered particularly intimate — perhaps more so than a kiss?**
 
 What's YOUR culture's unexpected intimacy?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **When do your characters first break the touch barrier?**
 
 Describe the scene — what boundary do they cross? Was it intentional or accidental? How do they react?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
 **What touch do they share in private that they couldn't share in public?**
 
 The contrast between public restraint and private contact creates tension:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1536,37 +1557,52 @@ _______________________________________________________________
 
 If no — who must be present? Under what circumstances can they be unchaperoned?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who acts as chaperone for your characters?**
 
 Is this person sympathetic, oblivious, or hostile to the romance?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do they evade supervision?**
 
 What excuses, distractions, or locations allow them to be alone?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If they ARE alone together, what does that imply?**
 
 Does it automatically suggest impropriety? Is their reputation ruined? Are they now obligated to marry?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Dress, Appearance & Adornment
 
 Dressing tells us who we are: our social standing, how available we are, our values and beliefs. In addition, clothing creates its own romantic tension. The veil that cannot be removed, the colour that says "do not speak to me," the hair that only your spouse can see unbound.
@@ -1579,7 +1615,7 @@ Transitions in wardrobe also serve well as indicators of how intimate the relati
 
 **What does clothing communicate in your culture?**
 
-**What does clothing communicate in your world? Describe what markers indicate class, profession, marital status, and religion.**
+*Describe what markers indicate class, profession, marital status, and religion.*
 
 *(Write your answer below)*
 
@@ -1593,23 +1629,29 @@ Transitions in wardrobe also serve well as indicators of how intimate the relati
 
 Certain fabrics, colors, or styles restricted to certain classes? Penalties for dressing "above your station"?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would it mean for your character to dress outside their station?**
 
 Disguise? Scandal? Crime? Social death?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Fashion by Class & Context**
 
-What do people actually wear? You don't need to describe every stitch, just know enough to make your descriptions feel true when they matter to the scene.
-
-**How does clothing differ between wealthy/noble and common/working people in your world? Describe what each group wears for daily life, formal events, work, religious occasions, mourning, and celebrations.**
+*What do people actually wear? You don't need to describe every stitch, just know enough to make your descriptions feel true when they matter to the scene. Describe how clothing differs between wealthy/noble and common/working people for daily life, formal events, work, religious occasions, mourning, and celebrations.*
 
 *(Write your answer below)*
 
