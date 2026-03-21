@@ -22,12 +22,15 @@ You must decide what is underneath your characters' feet, and then let the crack
 **What sediment are your characters standing on?**
 The deeper the historical layer, the harder it is to crack. Identify the layers of compressed history beneath your characters' feet, from recent grudges to ancient bedrock.
 
-| Layer | The Event | How Compressed It Is | How It Affects Your Characters |
-|---|---|---|---|
-| *Surface (recent memory)* | *e.g., Fourth Wing: The Tyrrish rebellion, one generation ago* | *Still raw — people who fought in it are alive* | *Xaden is marked by it; Violet's mother ordered it* |
-| Surface (recent memory) | | | |
-| Middle (cultural memory) | | | |
-| Deep (identity/bedrock) | | | |
+**Identify three layers of compressed history beneath your characters' feet: a surface-level event (within living memory), a mid-level cultural memory, and a deep bedrock belief. For each, describe what happened, how compressed it has become, and how it affects your characters today.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How deep is the bedrock your characters need to crack?**
 *The deeper the historical layer, the harder the resolution. A grudge from last year can be talked out. A grudge compressed into identity — "this is what we ARE" — requires dismantling a worldview. Understanding the depth of your central conflict tells you how much your resolution needs to cost.*
@@ -81,11 +84,15 @@ The essential takeaway here is that historical worldbuilding in romantasy must p
 **Which subgenre pattern does your story follow?**
 *Use the table above to identify your closest match. This tells you where to invest your historical worldbuilding energy — and what you can afford to leave vague. Not every story fits one subgenre neatly; if yours blends two, note both and focus on the "Essential" column for each.*
 
-| Aspect | Your Story |
-|---|---|
-| Closest subgenre(s) | |
-| What's essential for your historical worldbuilding | |
-| What you can leave vague or skip | |
+**Which romantasy subgenre pattern does your story follow most closely? Based on that, what historical worldbuilding is essential for your story, and what can you afford to leave vague?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -242,11 +249,15 @@ _______________________________________________________________
 **Did your protagonist and love interest learn history through different channels?**
 *A character who learned history through bardic songs knows a romanticised version. A character who read court archives knows a politicised version. When they compare what they "know," the clash isn't about facts — it's about whose truth counts. This is a rich source of early-relationship conflict.*
 
-| Character | How They Learned History | What Version They Got |
-|---|---|---|
-| *Protagonist* | *e.g., Fourth Wing: Violet learned through military academy propaganda and her mother's accounts* | *The rebellion was treason; the loyalists were heroes* |
-| Protagonist | | |
-| Love Interest | | |
+**How did your protagonist learn history (songs, propaganda, archives, family stories), and what version did they get? How did your love interest learn history, and what version did they get? Where do their versions clash?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 The way to incorporate history in your writing is by using bits and pieces. Some phrases you hear from everyone. Monuments that are simply walked past without being explained. Old songs with lyrics that no one can remember the words or meaning to. Make history emerge from the things that characters take for granted ("the wall has always been there"), as opposed to telling history as a series of expository statements. If your characters are going to discuss the history, provide them with their own perspectives on it: one calls it "the Great Liberation," another calls it "the Betrayal." And some of the most compelling historical moments occur when a character finds out that everything they were ever taught about something was a lie.
 
@@ -275,14 +286,15 @@ _______________________________________________________________
 
 **Why was it lost?**
 
-| Cause | What Was Lost |
-|-------|---------------|
-| *War/conquest* | *e.g., ACOTAR: Human knowledge of fae culture and the truth of the war was lost when the Wall severed contact between the realms* |
-| War/conquest | |
-| Natural disaster | |
-| Deliberate destruction | |
-| Simple neglect/time | |
-| Magic (curse, sealing, etc.) | |
+**What knowledge, artifacts, or records have been lost in your world, and why? Consider war/conquest, natural disaster, deliberate destruction, neglect, or magical sealing.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are there ruins, artifacts, or fragments that hint at what's lost?**
 
@@ -301,14 +313,15 @@ _______________________________________________________________
 
 **How much does your world actually know about its past?**
 
-| Era | How Well Known | How Accurate |
-|-----|----------------|--------------|
-| *Last 50 years* | *e.g., Fourth Wing: Well known — veterans are still alive* | *Heavily biased by government propaganda* |
-| Last 50 years | | |
-| 50-200 years ago | | |
-| 200-500 years ago | | |
-| 500+ years ago | | |
-| Mythic past | | |
+**For each era of your world's past (recent memory, a few generations ago, centuries ago, and mythic past), how well known is the history and how accurate is what people believe? Where does history blur into myth?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where does history blur into myth?**
 
@@ -331,11 +344,15 @@ Sometimes the most critical information lies hidden. And when we talk about "hid
 **Is there a historical truth that's been suppressed or rewritten?**
 What would change if your characters discovered the truth? Would it dissolve the obstacle between them, or make it worse?
 
-| Aspect | Details |
-|---|---|
-| What really happened | |
-| What people are taught | |
-| Who suppressed it and why | |
+**Is there a historical truth in your world that's been suppressed or rewritten? What really happened, what are people taught instead, and who suppressed the truth and why?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who knows the real history?**
 Everyone but pretends not to? Secret societies? Ancient beings? No one alive?
@@ -407,12 +424,15 @@ _______________________________________________________________
 
 **Was there a golden age that fell?**
 
-| Aspect | Details |
-|--------|---------|
-| What it was called | |
-| What made it great | |
-| What caused its fall | |
-| What was lost | |
+**Was there a golden age in your world? What was it called, what made it great, what caused its fall, and what was lost?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does the fall relate to your characters' relationship?**
 
@@ -428,18 +448,15 @@ _______________________________________________________________
 
 **What single historical event most shaped the current world?**
 
-| Aspect | Details |
-|--------|---------|
-| *What happened* | *e.g., ACOTAR: The ancient war between fae and humans* |
-| *When* | *Roughly 500 years before the story begins* |
-| *Who was involved* | *All fae courts vs. human armies* |
-| *Immediate consequences* | *The Treaty; the Wall erected; separation of the realms* |
-| *Long-term effects still felt today* | *Humans fear and hate fae; Feyre grows up in poverty partly because the Wall cut off trade; the Treaty's terms still govern fae-human relations* |
-| What happened | |
-| When | |
-| Who was involved | |
-| Immediate consequences | |
-| Long-term effects still felt today | |
+**What single historical event most shaped your current world? Describe what happened, when, who was involved, its immediate consequences, and the long-term effects still felt today.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Other Significant Events
 
@@ -476,14 +493,15 @@ _______________________________________________________________
 
 **What major conflict most directly affects your romance?**
 
-| Aspect | Details |
-|--------|---------|
-| Name | |
-| When | |
-| Who fought | |
-| Why | |
-| Who won | |
-| Consequences | |
+**What major historical conflict most directly affects your romance? Describe the conflict (name, when, participants, cause, outcome, consequences) and whether your characters' families/nations are on opposing sides.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are their families/nations/species on opposing sides of this conflict?**
 
@@ -664,18 +682,27 @@ _______________________________________________________________
 
 **Do people compare your characters to legendary lovers?**
 
-| Aspect | Details |
-|--------|---------|
-| Which couple | |
-| Who makes the comparison | |
-| Is it meant as compliment, warning, or accusation | |
+**Do people compare your characters to legendary lovers? Which couple, who makes the comparison, and is it meant as compliment, warning, or accusation?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do your characters feel about being compared to this couple?**
 
-| Character | How They Feel About the Comparison |
-|-----------|-----------------------------------|
-| Protagonist | |
-| Love Interest | |
+**How does your protagonist feel about being compared to legendary lovers? How does your love interest feel about it?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does the comparison create pressure or expectation?**
 
@@ -706,10 +733,15 @@ _______________________________________________________________
 
 A previous pair of lovers from opposing sides? A past relationship that ended in tragedy?
 
-| Aspect | Details |
-|--------|---------|
-| What happened before | |
-| How it ended | |
+**Is there a historical parallel to your characters' situation -- a previous pair of lovers from opposing sides? What happened, and how did it end?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do people compare your characters to this historical precedent?**
 
@@ -733,21 +765,28 @@ Having famous ancestry can create expectations and obligations. Inheriting a leg
 
 **Is either character descended from a famous historical figure?**
 
-| Aspect | Details |
-|---|---|
-| Which character | |
-| Descended from | |
-| What's expected of them | |
+**Is either character descended from a famous historical figure? Which character, who was the ancestor, and what expectations does that legacy create?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does either character hold a position once held by someone legendary?**
 Did the predecessor succeed or fail? Love or lose?
 
-| Aspect | Details |
-|---|---|
-| The position | |
-| Who held it before | |
-| What that predecessor did | |
-| The shadow this casts | |
+**Does either character hold a position once held by someone legendary? What was the position, who held it before, what did they do, and what shadow does this cast on your character?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does living in a legend's shadow affect your character?**
 Do they try to live up to it? Rebel against it? Feel crushed by impossible expectations? Does the legend's story make their own love feel inevitable, or doomed?
@@ -786,10 +825,15 @@ _______________________________________________________________
 
 **How do these family stories shape who each character believes they should be?**
 
-| Character | What Family Stories Taught Them to Be |
-|---|---|
-| Protagonist | |
-| Love Interest | |
+**What did family stories teach your protagonist they should be? What did family stories teach your love interest they should be?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are there family stories that contradict each other?**
 Does one family's hero appear as a villain in the other's stories?
@@ -833,19 +877,27 @@ _______________________________________________________________
 
 **What major event happened within living memory (last 50-80 years)?**
 
-| Aspect | Details |
-|--------|---------|
-| The event | |
-| When | |
-| Who fought/suffered/benefited | |
-| How it shaped the current world | |
+**What major event happened within living memory (last 50-80 years)? What was it, when did it happen, who was affected, and how did it shape the current world?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How did this event affect your characters' families?**
 
-| Character | How Their Family Was Affected |
-|-----------|------------------------------|
-| Protagonist | |
-| Love Interest | |
+**How did this recent historical event affect your protagonist's family? How did it affect your love interest's family? Were they on the same side or opposing sides?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Were their families on the same side or opposing sides?**
 
@@ -867,19 +919,27 @@ Objects of the past can hold many things -- weapons that killed, rings that boun
 
 **What object from the past does your protagonist possess or know about?**
 
-| Aspect | Details |
-|--------|---------|
-| Object | |
-| Its history | |
-| What it means to them | |
+**What object from the past does your protagonist possess or know about? What is its history, and what does it mean to them?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What about your love interest?**
 
-| Aspect | Details |
-|--------|---------|
-| Object | |
-| Its history | |
-| What it means to them | |
+**What object from the past does your love interest possess or know about? What is its history, and what does it mean to them?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there an object that connects both their histories?**
 

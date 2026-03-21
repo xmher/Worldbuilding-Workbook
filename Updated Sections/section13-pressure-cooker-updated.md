@@ -64,12 +64,15 @@ Beyond the subtypes, forced proximity creates romantic tension through a set of 
 **Which romantic tension patterns will be strongest in your story?**
 *Rank your top three. This will help you prioritise which later exercises to dig deepest into.*
 
-| Rank | Pattern | Why It Fits Your Story |
-| --- | --- | --- |
-| *1* | *Performance Under Surveillance* | *Violet and Xaden are surrounded by people who'd exploit any sign of connection* |
-| 1 | | |
-| 2 | | |
-| 3 | | |
+**From the forced proximity patterns listed above, which three fit your story best? Rank them and explain why each suits your story.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -228,15 +231,15 @@ ___
 **Map the constraints:**
 *You've already identified your constraint types above. Now map how your specific setting enforces them — the practical details of how your pressure cooker actually works.*
 
-| Constraint Type | Specific Details |
-| --- | --- |
-| Time pressure *(example)* | *Must complete the bonding ritual before the spring equinox or lose claim to the throne; only 6 weeks remain* |
-| External threat *(example)* | *Enemy army three months away; alliance marriage to the rival kingdom's prince is the only way to secure reinforcements* |
-| Physical (size, layout, barriers) | |
-| Temporal (how long they're stuck) | |
-| Survival (needs that must be met) | |
-| Social (who's watching, what's expected) | |
-| Escape (what happens if they try to leave) | |
+**Map the specific constraints of your pressure cooker setting: What are the physical constraints (size, layout, barriers)? The temporal constraints (how long they're stuck)? The survival needs? The social pressure (who's watching)? And what happens if they try to escape?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's the minimum physical distance they can maintain?**
 *This determines the baseline tension level. If they can stay in separate buildings, the pressure is social — they choose to avoid each other. If they're sharing a room, the pressure is physical — avoidance is a fantasy. The smaller the minimum distance, the faster the body awareness builds.*
@@ -730,14 +733,15 @@ ___
 **What lingers from the pressure cooker period?**
 *Confinement leaves traces. Check which of these resonate for your story and fill in the specifics.*
 
-| What Lingers | Specifics for Your Story |
-| --- | --- |
-| Secrets kept during confinement | |
-| Habits formed together | |
-| Sensory memories that ambush them | |
-| Guilt about things said or done | |
-| Knowledge of vulnerabilities seen | |
-| Private jokes or rituals | |
+**What lingers after the pressure cooker period? Consider: secrets kept during confinement, habits formed together, sensory memories that ambush them, guilt about things said or done, knowledge of vulnerabilities seen, and private jokes or rituals.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What act of choice proves the connection is real?**
 Not a grand gesture necessarily. Sometimes it's small: a message sent, a door left open, a return that didn't have to happen. What does the character do when they're free that proves they'd choose this person without the pressure?

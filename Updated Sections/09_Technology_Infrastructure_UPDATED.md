@@ -123,11 +123,15 @@ Reference points: Stone Age, Bronze/Iron Age, Medieval, Renaissance, Early Moder
 **Is technology consistent across your world, or does it vary?**
 Technological disparity creates power imbalances and dramatic opportunities when characters cross from one level to another. A character moving from a village with no running water to a city with enchanted plumbing experiences culture shock that reveals character and creates vulnerability.
 
-| Aspect | Details |
-|---|---|
-| Advanced regions | |
-| Less advanced regions | |
-| Why the disparity | |
+**Is technology consistent across your world, or does it vary by region? Which regions are advanced, which are less advanced, and what causes the disparity?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does magic affect technology?**
 *The relationship between magic and technology shapes what solutions are available, and to whom — and crucially, which character has access to magical solutions and which is left relying on slower, harder, non-magical alternatives.*
@@ -163,40 +167,54 @@ But forced proximity doesn't always require a road. In *The Cruel Prince*, Holly
 **What's the fastest way to travel long distances?**
 The fastest method is often the most expensive or dangerous. What would your protagonist sacrifice for speed?
 
-| Aspect | Details |
-|---|---|
-| Method | |
-| Limitations (cost, rarity, danger, who can use it) | |
+**What's the fastest way to travel long distances in your world, and what limits it (cost, rarity, danger, who can use it)?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How long does travel take between important locations?**
 Travel time shapes the emotional weight of journeys, but don't overlook short-distance containment: a carriage ride across town can be just as powerful as a week-long journey. In *Bridgerton* Season 3, a single carriage scene becomes the friends-to-lovers turning point. The enclosed space, the rhythmic movement, the inability to walk away mid-conversation. The carriage functions as a sealed room on wheels. What transport in your world creates that kind of pressurised intimacy?
 
-| Route | Time Required |
-|---|---|
-| Between major cities | |
-| Across your world's span | |
-| The journey your characters take | |
+**How long does travel take between major cities, across your world's full span, and along the journey your characters take?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What makes travel difficult or dangerous?**
 *Danger on the road is one of romantasy's most reliable engines for intimacy. When characters face threats together, protection becomes care, and shared survival builds trust faster than any conversation.*
 
-| Danger | Details |
-|---|---|
-| Weather and terrain | |
-| Bandits, creatures, hostile forces | |
-| Cost and physical demands | |
-| Other risks | |
+**What makes travel difficult or dangerous in your world? Consider weather and terrain, bandits or hostile creatures, cost and physical demands, and any other risks.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What travel infrastructure exists?**
 Roads, inns, and rest stops determine whether journeys are manageable or desperate. Where does infrastructure fail, and where might your characters find themselves alone, off the map, beyond observation?
 
-| Infrastructure | Details |
-|---|---|
-| Roads (quality, where they go) | |
-| Bridges | |
-| Ports and harbours | |
-| Way stations, inns, caravanserais | |
-| Stables and animal care | |
+**What travel infrastructure exists in your world? Describe the quality of roads, bridges, ports and harbours, way stations or inns, and stables or animal care.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who maintains infrastructure?**
 *When infrastructure breaks down, isolation follows — and isolation is where romantasy thrives. Knowing who maintains the roads and bridges tells you where they'll fail, and where your characters might find themselves stranded together.*
@@ -232,10 +250,15 @@ Can your characters reach each other across distance, and at what cost?
 **How long does it take to send a message between important locations?**
 Delayed messages create dramatic irony and miscommunication. What might change before a letter arrives?
 
-| Route | Time |
-|---|---|
-| Between major cities | |
-| Between your characters when separated | |
+**How long does it take to send a message between major cities? Between your characters when they're separated?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How reliable is communication?**
 *Unreliable communication breeds misunderstanding, dramatic irony, and the ache of not knowing. A message that might never arrive carries a completely different emotional weight than one that's guaranteed.*
@@ -296,13 +319,15 @@ Magical scrying? Spy networks? Informants? Nothing systematic?
 **Design a stolen moment for your characters.**
 *In worlds where privacy is scarce, every stolen moment carries the weight of an entire scene. Think about how your characters would navigate surveillance to create a private interaction — and what the consequences would be if they were caught.*
 
-| Aspect | Details |
-|---|---|
-| Where does the moment happen? | |
-| Who or what are they hiding from? | |
-| What do they do or say? | |
-| How do they cover their tracks? | |
-| What would happen if they were caught? | |
+**Design a stolen moment for your characters: Where does it happen? Who or what are they hiding from? What do they do or say? How do they cover their tracks? What would happen if they were caught?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Servants & Attendants
 
@@ -327,10 +352,15 @@ What motivates their loyalty or disloyalty?
 **Do your characters have servants?**
 *Think about how servants affect your characters' ability to have private moments, and whether any servants become confidants or threats.*
 
-| Character | Servants? | How This Affects Privacy |
-|---|---|---|
-| Protagonist | | |
-| Love interest | | |
+**Does your protagonist have servants or attendants? Does your love interest? How does their presence (or absence) affect the characters' ability to have private moments?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do servants affect what your characters can do privately?**
 *The constant presence of others shapes intimacy. What strategies do your characters use to find moments alone — and what happens when those strategies fail?*
@@ -348,12 +378,15 @@ Lighting shapes the emotional tone of every scene. Candlelight is soft, warm, an
 **How much time do ordinary people spend on survival tasks?**
 *Time spent on survival is time unavailable for romance, education, or ambition. If your protagonist spends half the day hauling water, that shapes what kind of relationship is even possible.*
 
-| Task | Time Required |
-|---|---|
-| Food preparation | |
-| Water collection | |
-| Heating/fuel | |
-| Cleaning/maintenance | |
+**How much time do ordinary people in your world spend on survival tasks like food preparation, water collection, heating, and cleaning? Who does this labour, and how does it affect your characters' available time for romance?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who does this labour?**
 *Who does the work shapes who has time for anything else, including romance. If your protagonist spends hours on survival tasks while your love interest has servants handling everything, that gap in daily reality affects how they understand each other.*
@@ -363,11 +396,15 @@ Servants? Women? Lower classes? Everyone? Magical solutions?
 **How much leisure time exists, and for whom?**
 *Leisure is unequally distributed. If your characters come from different classes, their relationship to time differs — and that difference shapes what "spending time together" even means.*
 
-| Class | Leisure Time |
-|---|---|
-| Wealthy | |
-| Middle class | |
-| Poor/working class | |
+**How much leisure time exists for different classes in your world (wealthy, middle class, poor/working class)? What does the disparity in free time mean for your characters?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does the disparity in free time mean for your characters?**
 *If one character has leisure and one doesn't, the imbalance shapes every interaction. The character who works all day experiences an evening visit very differently from the one who was free all afternoon. How does this gap affect their relationship?*
@@ -387,11 +424,15 @@ Can everyone afford to stay up after dark, or is darkness the norm for the poor?
 **What does nighttime look like?**
 *Darkness creates different moods in different settings. Danger in unlighted streets, intimacy in candlelit rooms, isolation in rural darkness. Where your characters are when the sun goes down shapes what's possible between them.*
 
-| Location | Lighting at Night |
-|---|---|
-| In cities | |
-| In homes | |
-| In the countryside | |
+**What does nighttime look like in your world? Describe the lighting available in cities, in homes, and in the countryside.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What can and can't be done after dark?**
 *Darkness limits and enables. Some activities become impossible; others — secret meetings, escapes, confessions — become easier. What does nightfall make possible for your characters that daylight forbids?*
@@ -399,11 +440,15 @@ Can everyone afford to stay up after dark, or is darkness the norm for the poor?
 **How does lighting shape a key romantic scene?**
 *Candlelight softens features and creates intimacy. Torchlight flickers and unsettles. Darkness heightens every other sense — sound, touch, the awareness of warmth from another body. Think about a scene where lighting shapes the emotional tone of an interaction between your characters.*
 
-| Aspect | Details |
-|---|---|
-| The scene | |
-| What lighting exists | |
-| How the lighting affects mood and what characters can see | |
+**Think about a key romantic scene between your characters. Where does it take place, what lighting exists, and how does that lighting shape the mood and what the characters can see of each other?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Heating, Cooling & Shelter
 
@@ -431,13 +476,15 @@ Water scenes can serve two distinctly different romantic purposes in romantasy. 
 **What role does water/bathing play in your romance?**
 *Water scenes can serve two very different romantic purposes: safety and domestication (intimacy earned through shared vulnerability in a private space) or dangerous vulnerability (exposure, loss of autonomy, sovereignty). Knowing which function you want helps you design the scene's emotional architecture.*
 
-| Aspect | Details |
-|---|---|
-| What bathing looks like for your protagonist | |
-| What bathing looks like for your love interest | |
-| Is there a bathing/water scene in your story? | |
-| Which function does it serve: safety or danger? | |
-| What makes this moment emotionally significant? | |
+**What does bathing look like for your protagonist and your love interest? Is there a bathing or water scene in your story? Does it serve as safety/domestication or dangerous vulnerability? What makes it emotionally significant?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do people get clean water?**
 Wells, rivers, aqueducts, pumps, magical purification:
@@ -471,12 +518,15 @@ The key to using this technique is selective realism. Identify the general odour
 **What does your world smell like, and what does your love interest smell like against that background?**
 *Scent is one of romantasy's most powerful sensory tools. Identify the baseline smells of your world, then layer your love interest's distinctive scent on top. The contrast between the ordinary and the intoxicating is what makes it land on the page.*
 
-| Aspect | Details |
-|---|---|
-| What does your world generally smell like? (Woodsmoke, horse, river mud, tallow, herbs) | |
-| What does your love interest smell like? | |
-| What's the in-world justification for their scent? (Herbal wash, oils, magic, or just the narrator falling in love) | |
-| How does their scent make your protagonist *feel*? | |
+**What does your world generally smell like? What does your love interest smell like against that background? What's the in-world justification for their scent, and how does it make your protagonist feel?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Food & Drink
 
@@ -497,22 +547,28 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 **What food is available to different classes?**
 *Food marks class in visible ways. A shared meal across class lines reveals everything: the character who's never eaten anything sweet reacts differently to a feast than the one who takes it for granted.*
 
-| Class | Food Available |
-|---|---|
-| Wealthy | |
-| Common | |
-| Poor | |
+**What food is available to different classes in your world (wealthy, common, poor)? How do these differences become visible when your characters share a meal?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does food reveal the dynamic between your characters?**
 *Shared meals are power negotiations. Who hosts, who serves, who speaks, who may leave — all of this communicates status, care, and vulnerability. A character who has never eaten anything sweet reacts differently to a feast than the character who takes it for granted.*
 
-| Aspect | Details |
-|---|---|
-| What does your protagonist typically eat? | |
-| What does your love interest typically eat? | |
-| Is there a food gap between them? | |
-| What would a shared meal between them reveal? | |
-| Could a meal become a turning point in their relationship? How? | |
+**What does your protagonist typically eat? What does your love interest typically eat? Is there a food gap between them, and what would a shared meal reveal about their dynamic? Could a meal become a turning point in their relationship?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Timekeeping
 
