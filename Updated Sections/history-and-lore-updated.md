@@ -854,30 +854,38 @@ Does your culture celebrate doomed love or warn against it?
 
 Are they expected to follow the same path? Avoid the same mistakes?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What do your characters know about the legendary couple that others don't?**
 
 Is the famous story accurate? Romanticized? Missing crucial context?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
 **Does history repeat in your world?**
 Cyclical history creates a specific kind of romantic dread: the sense that your characters are walking a path others have walked before, and everyone watching knows how it ended. Are there patterns, prophecies, or recurring doom that your characters are expected to repeat?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-**Is there a historical parallel to your characters' situation?**
+&nbsp;
 
-A previous pair of lovers from opposing sides? A past relationship that ended in tragedy?
+&nbsp;
 
 **Is there a historical parallel to your characters' situation -- a previous pair of lovers from opposing sides? What happened, and how did it end?**
 

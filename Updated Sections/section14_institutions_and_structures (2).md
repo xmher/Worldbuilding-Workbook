@@ -1670,29 +1670,64 @@ Name the specific consequences that make walking away impossible, not just incon
 ## Integration Check
 
 **How does your institution reflect or enforce government structures (from Section 5)?**
+
 Does the institution serve the ruling power, challenge it, or operate in its shadow?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does your institution reflect cultural values (from Section 3)?**
+
 What beliefs about honour, duty, family, or success does this institution embody or exploit?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does economic power shape your institution (from Section 4)?**
+
 Who funds it, who profits from it, and who pays the price of its existence?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does religion intersect with your institution (from Section 6)?**
+
 Does faith legitimise, condemn, or operate parallel to this institution's authority?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does magic affect how the institution functions (from Section 10)?**
+
 Does magic enable control, create hierarchy, or offer paths to subvert the institution's rules?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

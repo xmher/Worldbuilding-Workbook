@@ -1851,13 +1851,16 @@ What are the circumstances? What does each see?
 
 Literal armor? A mask? Formal court dress? Religious garments? What does removing it signify?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Courtship Customs & Romantic Expectations
 
 All cultures have a romantic script: the expected ways to indicate interest, as well as the approved sequence of events from stranger to spouse. If we don't understand what the normal expectations of these scripts are, then the deviations may be difficult to identify.
@@ -1870,33 +1873,41 @@ In *From Blood and Ash*, Poppy has lived her entire life adhering to the rules o
 
 What's the cultural script for "I'm interested in you"?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What's the expected progression of a relationship?**
 
 Map the steps from "strangers" to "married":
 
-1. _______________________________________________________________
+1. *(Write your answer below)*
 
-2. _______________________________________________________________
+&nbsp;
 
-3. _______________________________________________________________
+2. &nbsp;
 
-4. _______________________________________________________________
+3. &nbsp;
 
-5. _______________________________________________________________
+4. &nbsp;
+
+5. &nbsp;
 
 **Who initiates courtship?**
 
 One gender? Either? Families? Does it vary by class?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's the role of family in courtship?**
 

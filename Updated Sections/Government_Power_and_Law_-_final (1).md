@@ -1521,35 +1521,45 @@ War is the most extreme form of political pressure. It will separate lovers, cre
 - Long peace (generations without major conflict)
 - Perpetual low-level conflict (border skirmishes, raids, never fully resolved)
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If at war: who's fighting whom, and why?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If at peace: what threatens to break it? What tensions simmer beneath the surface?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does the state of conflict affect daily life?**
 
-Rationing? Curfews? Suspicion of outsiders? Refugees? Economic strain? Absent family members?
+*Rationing? Curfews? Suspicion of outsiders? Refugees? Economic strain? Absent family members?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Military Service
 

@@ -898,13 +898,16 @@ Now that you've established your world's technology level, think about how it sp
 
 &nbsp;
 
-**Is there a technology gap between them?**
-*Technology gaps create friction, dependency, and curiosity — all the raw material romance is built from. A character who's never seen enchanted light arriving in a palace full of it experiences wonder that reveals vulnerability, while the character who takes it for granted sees their world through new eyes.*
+**Is there a technology gap between your characters, and how does it affect their dynamic?**
+*Technology gaps create friction, dependency, and curiosity — all the raw material romance is built from. What does one have that the other doesn't? The character who teaches reveals patience or condescension; the one who learns reveals pride or openness.*
 
-What does one have that the other doesn't?
+*(Write your answer below)*
 
-**How does this affect their dynamic?**
-*Technology gaps can create dependency, wonder, shame, or teaching moments. The character who teaches reveals patience or condescension; the one who learns reveals pride or openness. How does the disparity shape how they see each other?*
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do your characters communicate when separated? What method do they use, how long do messages take, and what risk exists in their communication?**
 *Distance communication shapes the texture of separation. Letters reread until worn, messages that might never arrive, or instant magical contact. Each creates a different emotional reality.*

@@ -1424,31 +1424,37 @@ Across the board, the theme of the genre is the same: magic breaks its constrain
 
 *This is one of the genre's signature moments — the magical discharge during vulnerability. Fire mages set things ablaze. Shadow wielders darken the room. Empaths broadcast their emotions. What does your character's magic do when they can't hold it back?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Is the loss of magical control during intimacy dangerous?**
 
 *Danger during vulnerability raises the stakes and forces trust. If your character's magic could genuinely hurt the person they're with, every intimate moment becomes an act of faith — from both sides.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What does the magical discharge reveal about the character?**
 
 *The nature of the uncontrolled magic often reflects something true about the person wielding it. Fire for passion and destruction. Shadows for secrets and protection. Lightning for volatility and power. What does your character's magic say about them when they can't hold it back?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Shields, Glamours, and What Drops
 
