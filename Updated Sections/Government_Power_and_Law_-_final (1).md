@@ -2086,10 +2086,15 @@ If your characters come from influential families, then succession will impact t
 
 **What does each character stand to inherit?**
 
-| Character | Inheritance |
-|-----------|-------------|
-| Protagonist | |
-| Love Interest | |
+**What does each character inherit from the political resolution — new roles, responsibilities, or losses?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does their relationship affect inheritance?**
 

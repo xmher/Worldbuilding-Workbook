@@ -2396,14 +2396,15 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Your Answer |
-|---|---|
-| How does government enforce cultural norms? Which taboos are laws vs. "just" social rules? (Ref: Section 5) | |
-| How does magic interact with cultural customs? Magical courtship rituals? Spells that detect rule-breaking? (Ref: Section 8) | |
-| What cultural norm conflicts with your magic system? (Ref: Section 8) | |
-| How do economic realities constrain your characters' choices? Can they afford to defy convention? (Ref: Section 4) | |
-| What cultural customs have religious origins? Do characters follow them out of faith or habit? (Ref: Section 6) | |
-| How does your culture's attitude toward sexuality and desire affect your romance's pacing? | |
+**How does culture connect to other parts of your world? Consider: How does government enforce cultural norms? How does magic interact with cultural customs? What cultural norm conflicts with your magic system? How do economic realities constrain your characters? What customs have religious origins? How does your culture's attitude toward desire affect your romance's pacing?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Quick Reference: Cultural Stakes

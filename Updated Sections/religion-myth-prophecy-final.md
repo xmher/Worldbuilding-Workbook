@@ -1261,11 +1261,15 @@ Being chosen by the gods is a burden as much as a gift. Divine purpose competes 
 **Is either character marked by divine favour, curse, or destiny?**
 Being chosen creates obligations that compete with personal desire. What does destiny demand that love can't give?
 
-| Aspect | Details | Example (*From Blood and Ash*) |
-|--------|---------|-------------------------------|
-| Which character | | Poppy, the Maiden, supposedly chosen by the gods to Ascend and serve |
-| What marks them | | Her title, her isolation, the veil she must wear, the "blessing" of her touch |
-| What they're chosen to do | | Ascend and become a holy vessel, but the truth is far darker |
+**If your story has a 'chosen one': Which character is it? What marks them as chosen? What are they chosen to do?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does divine purpose conflict with personal desire?**
 Does love distract from destiny? Does destiny require sacrifice of the relationship?
@@ -1296,18 +1300,28 @@ Interfaith love creates daily challenges beyond the initial obstacle: whose trad
 
 If yes:
 
-| Character | Faith |
-|-----------|-------|
-| Protagonist | |
-| Love Interest | |
+**What faith does each character follow?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does each faith teach about the other?**
 Mutual hostility between faiths raises the stakes considerably. Mutual respect makes blending easier but may reduce tension.
 
-| Faith | What It Teaches About the Other |
-|-------|-------------------------------|
-| Protagonist's | |
-| Love Interest's | |
+**What does each character's faith teach about the other character's faith or people?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What practical conflicts arise from different faiths?**
 Different holy days? Conflicting dietary laws? Different marriage requirements? Children: which faith to raise them in?
