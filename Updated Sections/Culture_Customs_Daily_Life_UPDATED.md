@@ -1410,17 +1410,17 @@ The process of creating their own privacy together is itself a type of intimacy.
 
 Consider: Do servants see everything? Do nobles have private chambers? Do commoners share living spaces? Is magical surveillance possible?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Where can your characters be alone together?**
 
-List the spaces where privacy is possible — and what risks each location carries:
-
-**Where do your characters meet in secret, and what is the risk of discovery at each location?**
+*List the spaces where privacy is possible — and what risks each location carries. Where do your characters meet in secret, and what is the risk of discovery at each location?*
 
 *(Write your answer below)*
 

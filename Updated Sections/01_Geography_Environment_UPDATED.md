@@ -996,25 +996,37 @@ In *Fourth Wing*, the use of emotional geography is taken further. Violet's ligh
 
 *The emotional quality of a place shapes every scene that happens there. An oppressive setting adds urgency to a first kiss; a serene one implies safety and choice. Does your primary setting feel oppressive, expansive, peaceful, threatening, beautiful, decaying — and how does that quality interact with your romance?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Does the environment ever mirror or oppose your characters' emotions?
 
 *A storm during a confrontation, sunlight breaking through as characters reconcile, a wilting garden reflecting a dying relationship. Where could your setting respond to the emotional beats of your romance?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Is there a location that becomes meaningful to your characters specifically?
 
 *A place they return to, a place where something changed, a place that's "theirs":*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

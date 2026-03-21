@@ -875,9 +875,13 @@ Readers forgive inconsistencies that serve emotion *if you've earned their trust
 
 **Ask yourself:** Am I bending rules to serve the story, or breaking them to avoid consequences I don't want to write?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Categorise your known inconsistencies:**
 

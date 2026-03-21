@@ -1751,6 +1751,14 @@ In *Hunt on Dark Waters*, the pirate crew operates under a vow system that repla
 **What is the chokepoint in your criminal world?**
 Every convincing underground economy has a bottleneck: a port, a tunnel, a border crossing, an auction house, a guild hall. It's where power concentrates and where your characters are most vulnerable. What is it, and who controls it?
 
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 **How does secrecy shape the romance?**
 If one character operates outside the law, they're keeping secrets. Map the disclosure arc: what do they withhold, what do they reveal, and when does revealing a secret become the romantic turning point?
 
@@ -1767,8 +1775,13 @@ If one character operates outside the law, they're keeping secrets. Map the disc
 **What does the non-criminal partner discover, and how do they react?**
 If your love interest isn't part of the criminal world, the moment they find out is a make-or-break scene. What specifically do they learn? Are they horrified, fascinated, or both? Does it change what they thought they knew about the person they love?
 
-**What would going legitimate cost them?**
-Some criminal romances end with the characters leaving the life. But leaving has a price: lost allies, lost income, lost identity. If your characters went straight, what would they lose?
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If your criminal character went legitimate, what would they lose and what would they gain?**
 

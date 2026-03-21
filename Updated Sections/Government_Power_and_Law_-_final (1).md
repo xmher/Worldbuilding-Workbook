@@ -1121,19 +1121,25 @@ If yes:
 
 **What happens if they refuse the political obligation?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does political pressure affect their emotional relationship?**
 
-Do they resent being forced together? Does duty make intimacy feel less genuine? Do they fall in love despite the arrangement — or struggle to trust what they feel because of it?
+*Do they resent being forced together? Does duty make intimacy feel less genuine? Do they fall in love despite the arrangement — or struggle to trust what they feel because of it?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 

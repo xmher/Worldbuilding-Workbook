@@ -460,18 +460,26 @@ You don't have to develop a full timeline of everything that has occurred in you
 **Which layers of history matter for your story?**
 Think about the sediment beneath your characters' feet. Which historical periods — recent memory, cultural memory, deep ancient past — create the most pressure on your romance? You don't need all of them. Focus on the layers that make your characters' relationship feel impossible.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
 **What's the overall arc of your world's history?**
 Is your world in decline from a golden age? Rising from ruin? Locked in cycles? Stable but stagnant? The shape of your world's history determines whether your characters' love feels like hope, rebellion, or doom.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -481,26 +489,36 @@ Events from long ago can become legend. They set "the way things have always bee
 
 The origin story as people believe it:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Who were the founders?**
 
 Heroes? Gods? Conquerors? Survivors?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What ideals did they establish? Are those ideals still honored or corrupted?**
 The founding ideals shape what your world considers "natural" or "right" — including who is allowed to love whom. If the founders established separation between peoples, your characters' love is a violation of the founding order itself.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-**Was there a golden age that fell?**
+&nbsp;
+
+&nbsp;
 
 **Was there a golden age in your world? What was it called, what made it great, what caused its fall, and what was lost?**
 

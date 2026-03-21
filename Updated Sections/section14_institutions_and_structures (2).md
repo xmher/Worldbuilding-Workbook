@@ -986,19 +986,35 @@ The arranged marriage forces intimacy before trust. Strangers are expected to fi
 
 Peace treaty, alliance, joining bloodlines, claiming territory, preventing war, magical necessity, fulfilling prophecy?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who arranged it? Do the characters have any say?**
 
 *Whether the characters had input shapes their initial attitude toward each other. A marriage imposed without consent breeds resentment that must be overcome. A marriage they reluctantly agreed to carries guilt and second-guessing. Either way, the arrangement is the inciting incident of the romance.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens if they refuse?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Binding
 
@@ -1006,17 +1022,35 @@ _______________________________________________________________
 
 Legal contract, magical binding, political treaty, religious vow, family honour?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can they live separately, or must they cohabitate?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What intimacy is expected?**
 
 Public appearances, shared household, producing heirs, consummation, presenting a united front?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Starting Point
 
@@ -1024,33 +1058,57 @@ _______________________________________________________________
 
 Before means the arrangement is an obstacle to escape or accept. After means they're already bound and must learn to live together.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If already married, what's their relationship like at the start?**
 
 Strangers? Cold distance? Active hostility? Tentative curiosity? Grudging respect?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What begins to shift how they see each other?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Navigating Strangers-to-Lovers
 
 **What preconceptions does each have about the other?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's the first thing that surprises them?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What domestic situation forces vulnerability?**
 
@@ -1058,29 +1116,49 @@ _______________________________________________________________
 
 Sharing a bedroom, seeing each other sick, navigating servants who report everything, facing a crisis together?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### External Pressure
 
 **Who wants this marriage to succeed? Who wants it to fail?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What public performance is required?**
 
 *The performance is where arranged marriages get interesting for romance. Characters who must act like a couple in public start to blur the line between pretence and reality. Every performed kiss, every public hand-hold, every shared glance for the benefit of an audience — at some point, it stops being entirely fake, and neither of them can pinpoint when.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens behind closed doors when performance ends?**
 
 *The gap between the public act and the private reality is where the real relationship lives. When the audience is gone and the masks come off, what remains? Awkward silence? Relief? The unsettling realisation that they miss the pretence?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

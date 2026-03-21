@@ -764,10 +764,8 @@ Restricted to military/nobility? Commonly owned? Forbidden to certain groups?
 **Does weapons training exist, and who has access to it?**
 Training scenes are some of romantasy's most effective tension-builders. Physical proximity, physical contact, one person in a position of authority over another's body, all under the socially acceptable cover of "practice." Choreograph these scenes like intimate dances: combine blows with glances, describe the grip of a hand correcting stance, the stinging muscle, the heart pounding. Use setting to amplify tension. Cramped sparring halls force proximity, dim torchlight creates mood. And pay attention to the aftermath: the exhilaration, the embarrassment, the way characters can't quite look at each other once the weapons are put down. Who trains your characters, and could that dynamic become romantic?
 
-**Is there a training or sparring dynamic between your characters?**
-*Training scenes work because they disguise intimacy as necessity: physical proximity, physical contact, one person in authority over another's body, all under the cover of "practice." If your characters train together or one teaches the other, map the romantic potential.*
-
 **Is there a training or sparring dynamic between your characters? Who trains whom (or are they equals), what's being taught, what creates the tension, and how do they act once weapons are put down?**
+*Training scenes work because they disguise intimacy as necessity: physical proximity, physical contact, one person in authority over another's body, all under the cover of "practice." If your characters train together or one teaches the other, map the romantic potential.*
 
 *(Write your answer below)*
 
@@ -794,7 +792,13 @@ Paper, parchment, clay, wax tablets, magical surfaces:
 **What do people write with?**
 *Writing tools affect who can communicate in writing and how portable that communication is. A quill and ink require a desk; a charcoal stick works anywhere. What your characters have access to shapes what they can say and where they can say it.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How are books made?**
 *How books are produced determines how scarce they are — and scarcity changes their meaning. In a world where every book is hand-copied, giving one is an act of extraordinary generosity and intimacy.*

@@ -1065,7 +1065,9 @@ What's unique about how it works in your world?
 
 &nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Do your characters have true names different from their common names?**
 What would it mean for your protagonist to share, or withhold, this from their love interest?

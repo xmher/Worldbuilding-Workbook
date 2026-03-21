@@ -1073,55 +1073,81 @@ This is what takes the ACOTAR series from being a personal love story to somethi
 
 Do laws get challenged? Alliances shift? Cultural prejudices erode? Magical systems reveal new possibilities? Economic structures reorganise?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What system that tried to keep them apart is affected by their union?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who else benefits if they succeed?**
 
 Others in similar situations? The oppressed? The kingdom? The magical community? Future generations?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who loses if they succeed?**
 
 Those who benefited from keeping them apart? The antagonist? The old order? People who depended on the systems that are now changing?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does their relationship model something new?**
 
 A new kind of alliance? Proof that old prejudices were wrong? A magical possibility no one knew existed? A path others might follow?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is their happy ending just personal, or does it change things for others?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What work remains after their personal story ends?**
 
 If systems need changing, does their union start that work? Continue it? Complete it? Or is their victory just the beginning of larger change?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

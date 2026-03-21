@@ -1159,27 +1159,57 @@ Your pressure cooker doesn't exist in isolation. It's built from the worldbuildi
 **What geographic features create your pressure cooker (from Section 1)?**
 *How does the land itself trap them together — and what kind of intimacy does that geographic confinement create?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What institution binds them (from Section 14)?**
 *What rules or structures hold them close — and how does that institutional framework shape what their relationship can look like?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does magic create or prevent escape (from Section 10)?**
 *If magic enforces the proximity, how does that magical intimacy differ from what the characters would choose on their own?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do cultural obligations force proximity (from Section 3)?**
 *What cultural expectations keep them in each other's presence — and how does performing those obligations blur into genuine feeling?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does technology level affect confinement (from Section 9)?**
 *Does the tech level make escape impractical, slow communication to a crawl, or limit the alternatives available — and how does that stretch the timeline of forced proximity?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

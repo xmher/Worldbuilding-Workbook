@@ -950,34 +950,40 @@ Not all magic users are created equal, and not all magic is the same flavour. Un
 &nbsp;
 
 **Is raw power the only measure of magical strength?**
-Or can skill, creativity, knowledge, or cleverness make a "weaker" user formidable?
 
-_______________________________________________________________________________
+*Or can skill, creativity, knowledge, or cleverness make a "weaker" user formidable?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's the most impressive feat of magic in your world's history?**
 
-*Legendary feats establish the ceiling of power in your world — and they often become the standard your characters are measured against. If your protagonist is being compared to the mage who shattered the mountain, that reputation affects how the love interest sees them.*
+*Legendary feats establish the ceiling of power in your world — and they often become the standard your characters are measured against. If your protagonist is being compared to the mage who shattered the mountain, that reputation affects how the love interest sees them. Could anyone alive today replicate it?*
 
-Could anyone alive today replicate it?
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
 
 **Is magical power fixed, or can it grow?**
-How does someone become more powerful, and what do they risk in pursuing that growth?
 
-_______________________________________________________________________________
+*How does someone become more powerful, and what do they risk in pursuing that growth?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Types and Specialisations
 
