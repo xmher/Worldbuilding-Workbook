@@ -1883,65 +1883,82 @@ A bond might guarantee compatibility on some level, but it doesn't build a relat
 ### Bonds in Context
 
 **Is the bond visible to others?**
-Can people see the mark, sense the connection, or recognise bonded pairs?
 
-_______________________________________________________________
+*Can people see the mark, sense the connection, or recognise bonded pairs?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does your society view bonded pairs?**
-Reverence, envy, suspicion, obligation, legal recognition, political value?
 
-_______________________________________________________________
+*Reverence, envy, suspicion, obligation, legal recognition, political value?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is their specific bond acceptable, or does who they're bonded to create scandal?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Can a bond be hidden? What would your characters have to do to conceal it, and what happens if they're discovered?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Does the bond give one character more access, information, or control than the other? If so, how does the character with less power assert agency?**
 
 *Asymmetrical bonds create power dynamics that mirror the broader relationship. If one character can sense the other's emotions but not vice versa, or if one can close the bond while the other can't, that imbalance needs to be addressed — or it becomes a form of control.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Can the bond be used against one of the characters?**
-Could an enemy exploit the connection?
 
-_______________________________________________________________
+*Could an enemy exploit the connection?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would it mean for one character to "close off" or "shut down" their end of the bond? Is this possible? What would it feel like to the other?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### The Choice Moment
 

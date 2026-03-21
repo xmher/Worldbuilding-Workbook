@@ -349,18 +349,8 @@ Lighting shapes the emotional tone of every scene. Candlelight is soft, warm, an
 
 ### Lighting & Darkness
 
-**How do people light their spaces?**
-*Lighting technology shapes the emotional palette of every scene you write. Candlelight softens; torchlight unsettles; darkness heightens every other sense. What your characters see by determines what they feel.*
-
-Candles, oil lamps, torches, magical light, gas, electricity:
-
-**How expensive is lighting?**
-*If staying up after dark is a luxury, then a character who can afford candlelight lives in a different world from one who goes to bed at sunset. An evening invitation that requires lighting becomes a marker of class — and a character who's never seen a well-lit room will react to one.*
-
-Can everyone afford to stay up after dark, or is darkness the norm for the poor?
-
-**What does nighttime look like in your world? Describe the lighting available in cities, in homes, and in the countryside.**
-*Darkness creates different moods in different settings. Danger in unlighted streets, intimacy in candlelit rooms, isolation in rural darkness. Where your characters are when the sun goes down shapes what's possible between them.*
+**What does nighttime look like in your world? How do people light their spaces, how expensive is it, and what does darkness mean for different classes?**
+*Lighting technology shapes the emotional palette of every scene you write. Candlelight softens; torchlight unsettles; darkness heightens every other sense. Consider: candles, oil lamps, torches, magical light, gas, electricity. If staying up after dark is a luxury, then an evening invitation that requires lighting becomes a marker of class — danger in unlighted streets, intimacy in candlelit rooms, isolation in rural darkness.*
 
 *(Write your answer below)*
 
@@ -370,10 +360,7 @@ Can everyone afford to stay up after dark, or is darkness the norm for the poor?
 
 &nbsp;
 
-**What can and can't be done after dark?**
-*Darkness limits and enables. Some activities become impossible; others — secret meetings, escapes, confessions — become easier. What does nightfall make possible for your characters that daylight forbids?*
-
-**Think about a key romantic scene between your characters. Where does it take place, what lighting exists, and how does that lighting shape the mood and what the characters can see of each other?**
+**Think about a key romantic scene between your characters. Where does it take place, what lighting exists, and how does that lighting shape the mood and what the characters can see of each other? What does nightfall make possible that daylight forbids?**
 *Candlelight softens features and creates intimacy. Torchlight flickers and unsettles. Darkness heightens every other sense — sound, touch, the awareness of warmth from another body.*
 
 *(Write your answer below)*

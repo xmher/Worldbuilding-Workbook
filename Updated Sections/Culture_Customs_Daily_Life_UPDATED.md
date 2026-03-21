@@ -2209,47 +2209,64 @@ When developing mourning traditions for your world, there are several dynamics w
 
 Burial, cremation, sky burial, magical dissolution? Is there a ritual that must be performed? What happens if the rites aren't completed — does it affect the dead, the living, or both?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What are the rules around loving again after loss?**
 
 Is remarriage permitted? Expected? Shameful? Does it depend on how long they wait, who died, or how they died?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can someone in mourning pursue romance?**
 
 Is courtship forbidden during mourning? For how long? What happens if they violate this?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does grief affect your characters or their relationship?**
 
 If one character is mourning, how does this impact what's possible between them? Does shared grief bring them together?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How do your characters treat the dead they encounter?**
 
 *A character who pauses to close a stranger's eyes or say a prayer reveals something about their capacity for tenderness. A character who walks past without looking reveals something too.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Life Stages & Coming of Age
 
 Each culture establishes a point at which an individual is no longer a child, and that threshold indicates when they become eligible for romance, responsibility, and independent choice. The traditions surrounding this transition are crucial to understanding your character's past and can provide a pivotal moment within your story.
@@ -2260,23 +2277,31 @@ These transitions also establish natural turning points. A character who was not
 
 Age? Ceremony? Achievement? Magical awakening? Physical maturity?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What can people do as adults that they couldn't do as children?**
 
 Marry without consent? Own property? Make contracts? Use certain magic? Live independently?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are your characters considered adults?**
 
 If not — how does this create obstacles? Are they defying expectations by acting before they're "ready"?
 
-_______________________________________________________________
+*(Write your answer below)*
 
 _______________________________________________________________
 

@@ -616,7 +616,7 @@ In *The Cruel Prince*, the Fae can't technically lie, therefore Cardan learns to
 &nbsp;
 
 **What is the lie that matters most between your characters? What was the lie, how did the other person know, and what happened as a result?**
-*The moment of discovering a lie is significant. How much does the discovery cost the relationship, and what does the decision to either confront or not confront it reveal about each of them? In* The Wicked King*, Cardan sends Jude away with a decree that sounds like betrayal but contains a hidden loophole: as High Queen, she has the power to pardon herself. The romantic tension survives because decoding the literalism of his speech becomes Jude's act of faith in a man who communicates love through legal technicalities.*
+*The moment of discovering a lie is significant. How much does the discovery cost the relationship, and what does the decision to either confront or not confront it reveal about each of them? In* The Wicked King, *Cardan sends Jude away with a decree that sounds like betrayal but contains a hidden loophole: as High Queen, she has the power to pardon herself. The romantic tension survives because decoding the literalism of his speech becomes Jude's act of faith in a man who communicates love through legal technicalities.*
 
 *(Write your answer below)*
 

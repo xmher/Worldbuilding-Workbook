@@ -1913,19 +1913,27 @@ _______________________________________________________________
 
 **Could a reasonable person, knowing what your protagonist knows, hate your love interest?**
 
-Not just dislike — *hate*. If the answer is no, your enmity isn't strong enough.
+*Not just dislike — hate. If the answer is no, your enmity isn't strong enough.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Could a reasonable person, knowing what your love interest knows, hate your protagonist?**
 
-Enemies to lovers works best when both have legitimate grievances.
+*Enemies to lovers works best when both have legitimate grievances.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Types of Political Enmity
 

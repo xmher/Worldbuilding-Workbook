@@ -1122,17 +1122,25 @@ Objects of the past can hold many things -- weapons that killed, rings that boun
 
 Something stolen, shared, or fought over? Something that proves a historical truth?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Could an heirloom help or hurt their relationship?**
 
 Does it prove something? Reveal something? Obligate them to enemies?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1142,39 +1150,67 @@ More than just wealth, your characters will also inherit their family name, repu
 
 Great deeds? Terrible crimes? Sacred oaths? Curses earned?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What reputation does their family name carry?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What obligations do they inherit?**
 
 Oaths to serve? Debts to repay? Vengeance to seek?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What did your love interest's ancestors do that affects them now?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What reputation does their family carry?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do ancestral legacies put them in conflict?**
 
 Historical enemies? One family wronged the other?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
