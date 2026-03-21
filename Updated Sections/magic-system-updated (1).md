@@ -1819,49 +1819,64 @@ The most compelling fated-connection stories put the bond in direct conflict wit
 A bond might guarantee compatibility on some level, but it doesn't build a relationship. These questions help you identify what your characters still have to earn.
 
 **The bond might create attraction, but what about trust?**
-What does each character have to do to earn the other's trust despite the bond?
 
-_______________________________________________________________
+*What does each character have to do to earn the other's trust despite the bond?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **The bond might create recognition, but what about understanding?**
-What do they still not know about each other that matters?
 
-_______________________________________________________________
+*What do they still not know about each other that matters?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **The bond might say they're matched, but what about actual compatibility?**
-Where do they clash, disagree, or drive each other crazy?
 
-_______________________________________________________________
+*Where do they clash, disagree, or drive each other crazy?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What conflict exists between them that the bond can't resolve?**
-What would they be fighting about even without the magical connection?
 
-_______________________________________________________________
+*What would they be fighting about even without the magical connection?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What wound does each character carry that the bond doesn't heal?**
-How might the bond even make that wound more painful?
 
-_______________________________________________________________
+*How might the bond even make that wound more painful?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 *If you've answered the questions above, you have a solid foundation for how your bond works, what it means, and what it can't do. The remaining questions explore how the bond interacts with the wider world and when your characters choose each other. Answer what's useful — you can always come back.*
 

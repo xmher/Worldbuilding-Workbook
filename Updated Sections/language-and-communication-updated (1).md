@@ -1091,7 +1091,7 @@ The way characters address each other is a map of their relationship. Titles bec
 &nbsp;
 
 **How do your characters initially address each other? What do they shift to? When does the shift happen, and what triggers it?**
-*From title to name? Formal to informal? Surname to given name? A private nickname? In* From Blood and Ash*, the progression from "Hawke" to "Casteel" to "Cas" tracks Poppy's journey from loving a persona, to confronting a stranger, to accepting the real man. Each name marks a different stage of the relationship, and the moment she chooses "Cas" is the moment the deception stops mattering more than the person beneath it.*
+*From title to name? Formal to informal? Surname to given name? A private nickname? In* From Blood and Ash, *the progression from "Hawke" to "Casteel" to "Cas" tracks Poppy's journey from loving a persona, to confronting a stranger, to accepting the real man. Each name marks a different stage of the relationship, and the moment she chooses "Cas" is the moment the deception stops mattering more than the person beneath it.*
 
 *(Write your answer below)*
 

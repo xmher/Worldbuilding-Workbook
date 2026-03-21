@@ -336,12 +336,7 @@ Lighting shapes the emotional tone of every scene. Candlelight is soft, warm, an
 
 &nbsp;
 
-**Who does this labour?**
-*Who does the work shapes who has time for anything else, including romance. If your protagonist spends hours on survival tasks while your love interest has servants handling everything, that gap in daily reality affects how they understand each other.*
-
-Servants? Women? Lower classes? Everyone? Magical solutions?
-
-**How much leisure time exists for different classes in your world (wealthy, middle class, poor/working class)? What does the disparity in free time mean for your characters?**
+**How much leisure time exists for different classes in your world (wealthy, middle class, poor/working class)? Who does the survival labour, and what does the disparity in free time mean for your characters?**
 *Leisure is unequally distributed. If your characters come from different classes, their relationship to time differs — and that difference shapes what "spending time together" even means. If one character has leisure and one doesn't, the imbalance shapes every interaction. The character who works all day experiences an evening visit very differently from the one who was free all afternoon.*
 
 *(Write your answer below)*

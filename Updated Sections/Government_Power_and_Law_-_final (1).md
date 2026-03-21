@@ -1753,59 +1753,87 @@ If your characters are on opposing sides of the war and they develop an emotiona
 
 **What happens to deserters in your world?**
 
-Execution? Imprisonment? Exile? Branded? Hunted?
+*Execution? Imprisonment? Exile? Branded? Hunted?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Could either character desert or defect for the relationship?**
 
-What would push them to it? What would they lose?
+*What would push them to it? What would they lose?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If one defects to the other's side, how are they received?**
 
-Welcomed? Suspected? Used for information then discarded? Tested?
+*Welcomed? Suspected? Used for information then discarded? Tested?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### War's End
 
 **How might the conflict end?**
 
-Victory for one side? Negotiated peace? Exhaustion? Outside intervention?
+*Victory for one side? Negotiated peace? Exhaustion? Outside intervention?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Could your characters' relationship play a role in ending the conflict?**
 
-Symbol of unity? Marriage alliance? Proof that peace is possible?
+*Symbol of unity? Marriage alliance? Proof that peace is possible?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would peace cost?**
 
-What would each side have to give up or accept?
+*What would each side have to give up or accept?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **In peacetime, could they be together openly — or would old hatreds persist?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

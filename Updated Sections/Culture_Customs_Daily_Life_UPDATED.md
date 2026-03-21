@@ -2121,9 +2121,13 @@ If so, what are the key differences?
 
 Do they follow all customs, some, or none? What does this choice reveal?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -2131,31 +2135,40 @@ _______________________________________________________________
 
 Is this culturally acceptable, scandalous, or meaningless without public recognition?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What makes a secret marriage feel "real" to the people in it?**
 
 Even without official ceremony, what ritual or words would make it meaningful?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If your characters had a secret ceremony, what would it look like?**
 
 Where would it happen? What would they say or do? Who (if anyone) would witness?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Death, Grief & Mourning
 
 Death customs help shape the way a culture approaches romance and many of its most emotional moments. Rituals surrounding the dead, what is owed to the deceased, whether grief is performed publicly or hidden away, and whether remarriage is permitted or shameful. All of these factors will influence the plot of your romance. What your characters believe about the end of life will colour how they view love and ultimately how they approach it.
@@ -2182,7 +2195,7 @@ When developing mourning traditions for your world, there are several dynamics w
 
 **What are the mourning customs in your culture?**
 
-**What are your world's mourning customs? How long is the mourning period, what mourning dress or symbols are used, and what restrictions apply during mourning (social, romantic, business)?**
+*How long is the mourning period, what mourning dress or symbols are used, and what restrictions apply during mourning (social, romantic, business)?*
 
 *(Write your answer below)*
 
