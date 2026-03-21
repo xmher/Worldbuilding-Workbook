@@ -2106,10 +2106,15 @@ _______________________________________________________________
 
 **Is either expected to produce an heir?**
 
-| Aspect | Details |
-|--------|---------|
-| Timeline | |
-| What happens if they don't | |
+**What is the political timeline or deadline, and what happens if your characters don't act?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If they're different species or one is sterile, how does this affect heir requirements?**
 
@@ -2171,12 +2176,15 @@ _______________________________________________________________
 
 ## Integration Check
 
-| Question | Answer |
-|----------|--------|
-| How does your government control, use, or fear magic? | |
-| What magical law most affects your characters? | |
-| Could magic let them bypass political obstacles? If yes, why don't they? | |
-| Does government have magical enforcement (truth spells, tracking, binding oaths)? | |
+**How does government interact with magic in your world? What magical law most affects your characters? Could magic bypass political obstacles — and if so, why don't they use it? Does government have magical enforcement (truth spells, tracking, binding oaths)?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

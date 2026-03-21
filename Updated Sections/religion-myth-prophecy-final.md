@@ -1360,14 +1360,15 @@ And perhaps the greatest subversion is the character who chooses not to convert.
 **Does either character change faith, species, or worldview to be with their partner?**
 Conversion for love raises questions about authenticity, sacrifice, and identity.
 
-| Aspect | Details |
-|--------|---------|
-| Who converts (and to what) | |
-| Is the conversion genuine or performed for necessity? | |
-| What do they lose in the conversion? | |
-| Does the other partner feel guilt about "causing" the change? | |
-| Is the conversion affirmed or regretted by the story's end? | |
-| Does either character choose NOT to convert, and is that refusal honoured? | |
+**If conversion is part of your story: Who converts and to what? Is it genuine or performed? What do they lose? Does the other partner feel guilt? Is the conversion affirmed or regretted? Does either character refuse to convert, and is that refusal honoured?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
