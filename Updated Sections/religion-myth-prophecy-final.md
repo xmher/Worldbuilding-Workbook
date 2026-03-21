@@ -591,16 +591,15 @@ _______________________________________________________________
 **Is either character hiding their true faith or spiritual identity?**
 Hidden faith creates unique romantic tension. The lover who discovers the secret must choose: accept the truth, or become the instrument of the beloved's destruction.
 
-| Aspect | Details |
-|--------|---------|
-| Which character hides their faith/identity | |
-| What they're concealing | |
-| How they conceal it (which mechanism) | |
-| What discovery would cost them | |
-| Is the love interest an agent of the persecuting institution? | |
-| How is the truth revealed? | |
-| Which revelation type plays out? | |
-| How does revelation change the relationship? | |
+**If a character hides their faith or identity: What are they concealing? How do they conceal it? What would discovery cost? Is the love interest an agent of the persecuting institution? How is the truth revealed? Which revelation type plays out? How does it change the relationship?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Daily Practice & Devotion
 
@@ -748,23 +747,28 @@ A recurring distinction in published romantasy is the difference between rejecti
 **How does the religious obstacle resolve in your story?**
 Which pattern are you using? What does your character lose in the process? The cost is what makes the resolution feel real.
 
-| Aspect | Details |
-|--------|---------|
-| Which resolution pattern | |
-| What the character loses or sacrifices | |
-| Do they reject the institution, the faith, or both? | |
-| What replaces the old belief system? | |
-| Does the resolution feel earned, and why? | |
+**How does the religious conflict resolve? Which resolution pattern do you use? What does the character lose or sacrifice? Do they reject the institution, the faith, or both? What replaces the old belief system? Does it feel earned — and why?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Stress-test your resolution.**
 Using the "earned vs. convenient" columns in the reference table above, honestly assess: does your resolution cost enough? Or does it arrive too easily?
 
-| Test | Your Story |
-|------|-----------|
-| *What does your character permanently lose?* | *Reid loses his identity as a Chasseur, his faith in the Archbishop, and his belief that the world divides neatly into good and evil* |
-| What does your character permanently lose? | |
-| Could the obstacle have been removed without sacrifice? If yes, it may be too convenient. | |
-| Does the resolution change who your character is, or just what they're allowed to do? | |
+**Test whether your resolution is earned: What does your character permanently lose? Could the obstacle have been removed without sacrifice? Does the resolution change who they are, or just what they're allowed to do?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -795,11 +799,15 @@ _______________________________________________________________
 **Does either character feel they're sinning by being in this relationship?**
 What specifically triggers the guilt: the act of loving, or the identity of the person they love?
 
-| Aspect | Details |
-|--------|---------|
-| Which character | |
-| Why they feel sinful | |
-| How they reconcile this | |
+**Does either character feel sinful for their desire? Which character, why do they feel that way, and how (if ever) do they reconcile faith and desire?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does religious shame affect how they behave in the relationship?**
 Withdrawal? Self-punishment? Trying to resist feelings? Guilt after intimacy?

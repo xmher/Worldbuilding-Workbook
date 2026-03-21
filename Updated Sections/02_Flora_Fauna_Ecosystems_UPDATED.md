@@ -1180,12 +1180,15 @@ _______________________________________________________________
 
 *External opposition raises stakes. Whose disapproval hurts most, and what would each character sacrifice to be together?*
 
-| Character | Family/Community Reaction |
-|-----------|--------------------------|
-| *Human* | *Family horrified — fae killed her brother in the war; they see this as ultimate betrayal* |
-| *Non-human* | *Fae court sees humans as pets at best; his interest in a mortal is considered degrading* |
-| Human | |
-| Non-human | |
+**How do each character's family and community react to their cross-species relationship?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *Does either character have to choose between their partner and their people?*
 
@@ -1199,11 +1202,15 @@ _______________________________________________________________
 
 *The tension of living between worlds isn't one big confrontation — it's the accumulation of small moments. The conversation that stops when they enter. The friend who "forgets" to invite them. What small, recurring frictions would your couple face — and does the "insider" partner always notice?*
 
-| The Small Friction | Who Experiences It | Does the Other Partner Notice? |
-|-------------------|-------------------|-------------------------------|
-| *The shopkeeper's smile freezes when she walks in with her fae partner* | *Both — but he doesn't register it as hostile because he's never had to* | *No. She doesn't mention it. He buys the bread and doesn't understand why she's quiet afterwards.* |
-| | | |
-| | | |
+**What small, daily friction does the cross-species relationship create? Who experiences it, and does the other partner even notice?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1247,12 +1254,15 @@ _______________________________________________________________
 
 *Disagreement about transformation creates tension. Does one want to change and the other resist it? Why? And what are they each afraid of losing?*
 
-| Character | Do They Want Transformation? | Why? | What Are They Afraid of Losing? |
-|-----------|------------------------------|------|--------------------------------|
-| *Bella* | *Yes — desperately* | *Can't bear aging while Edward stays 17; wants to be his equal* | *Charlie, her human life, the possibility of children* |
-| *Edward* | *No — refuses to allow it* | *Believes he'd be damning her soul; can't bear being responsible for her death* | *Her humanity, which is the thing he loves most about her* |
-| Human | | | |
-| Non-human | | | |
+**If species transformation is possible in your world: Does each character want it? Why or why not? What are they afraid of losing?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

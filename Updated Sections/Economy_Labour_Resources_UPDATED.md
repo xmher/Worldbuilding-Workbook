@@ -1473,11 +1473,15 @@ Every convincing underground economy has a bottleneck: a port, a tunnel, a borde
 **How does secrecy shape the romance?**
 If one character operates outside the law, they're keeping secrets. Map the disclosure arc: what do they withhold, what do they reveal, and when does revealing a secret become the romantic turning point?
 
-| Stage | What They're Hiding | What They Reveal | What It Costs Them to Reveal It |
-|---|---|---|---|
-| Early (walls up) | | | |
-| Middle (cracks forming) | | | |
-| Turning point (full vulnerability) | | | |
+**Describe how the criminal character's walls come down across three stages (early, middle, turning point): What are they hiding, what do they reveal, and what does each revelation cost them?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does the non-criminal partner discover, and how do they react?**
 If your love interest isn't part of the criminal world, the moment they find out is a make-or-break scene. What specifically do they learn? Are they horrified, fascinated, or both? Does it change what they thought they knew about the person they love?
@@ -1485,12 +1489,15 @@ If your love interest isn't part of the criminal world, the moment they find out
 **What would going legitimate cost them?**
 Some criminal romances end with the characters leaving the life. But leaving has a price: lost allies, lost income, lost identity. If your characters went straight, what would they lose?
 
-| What They'd Lose by Going Legitimate | What They'd Gain |
-|---|---|
-| *Kaz: his network, his reputation, his leverage over half the Barrel, his identity as Dirtyhands* | *The possibility of touching Inej without armour — emotional and literal* |
-| | |
-| | |
-| | |
+**If your criminal character went legitimate, what would they lose and what would they gain?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

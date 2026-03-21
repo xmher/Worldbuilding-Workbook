@@ -1211,13 +1211,15 @@ Secrets in romantasy aren't side stories; they're obstacles to intimacy. Each ti
 **Is either of your characters hiding their identity?**
 If yes:
 
-| Aspect | Details |
-|--------|---------|
-| What are they hiding? | |
-| Who are they hiding it from? | |
-| Why can't they reveal it? | |
-| What happens if they're discovered? | |
-| How does the secret limit the intimacy they can share? | |
+**What are your characters hiding? Who are they hiding it from, and why? What happens if they're discovered, and how does the secret limit the intimacy they can share?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does the secret create a ceiling on intimacy?**
 
@@ -1275,12 +1277,15 @@ After the big reveal, the heavy lifting begins. The cat's out of the bag. Now wh
 
 *The revelation is your most structurally important romantic beat. When it falls in the story determines what kind of tension you're building.*
 
-| Aspect | Details |
-|--------|---------|
-| What secret is revealed? | |
-| When in the story? (early / midpoint / climax) | |
-| How? (confession / discovery / betrayal by third party / forced) | |
-| Does it deepen or shatter the bond? | |
+**How is the secret revealed? What is it, when in the story does it happen, how is it revealed (confession, discovery, betrayal), and does it deepen or shatter the bond?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If your secret unravels in layers, map the cascade:**
 
@@ -1385,13 +1390,15 @@ _______________________________________________________________
 
 If yes:
 
-| Aspect | Details |
-|--------|---------|
-| *Example (Fourth Wing)* | *Violet Sorsengail — cadet / rider — because her mother commands it — has survived the Gauntlet and bonded two dragons* |
-| Which character | |
-| Role/rank | |
-| Why they serve | |
-| What they've seen or done | |
+**If a character serves in the military: Which character, what is their role/rank, why do they serve, and what have they seen or done?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If one character is a soldier, how does this affect the relationship?**
 
@@ -1413,11 +1420,15 @@ If your characters are on opposing sides of the war and they develop an emotiona
 
 If yes:
 
-| Aspect | Protagonist | Love Interest |
-|--------|-------------|---------------|
-| *Example (The Bridge Kingdom)* | *Lara — Maridrina's war against Ithicana* | *Aren — defending Ithicana's bridge and sovereignty* |
-| What conflict | | |
-| Their side | | |
+**If your characters are on opposing sides of a conflict: What is the conflict, and what side is each on?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does each side believe about the other?**
 

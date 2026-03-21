@@ -1722,12 +1722,15 @@ _______________________________________________________________
 
 *The most powerful gift scenes slow down through all three stages: giving, receiving, and aftermath. A gift that shows the giver noticed something specific about the receiver always lands harder than one that merely demonstrates wealth.*
 
-| Component | Details |
-|---|---|
-| The gift (what is it? why this gift specifically?) | |
-| The giving (how nervous/confident? explanation or silence?) | |
-| The receiving (recognition, confusion, physical contact with the gift) | |
-| The aftermath (where does the gift go? how often is it touched or looked at?) | |
+**Plan a significant gift-giving moment. What is the gift and why this gift specifically? Describe the giving (nervous or confident?), the receiving (recognition, confusion?), and the aftermath (where does the gift go, how often is it touched?).**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Marriage Customs & Ceremonies
@@ -1748,13 +1751,15 @@ _______________________________________________________________
 
 **Describe a traditional wedding ceremony in your world:**
 
-| Element | Description |
-|---------|-------------|
-| Setting | |
-| Who performs it | |
-| Key rituals or moments | |
-| Words or vows spoken | |
-| Objects or symbols used | |
+**Describe your world's marriage ceremony: Where does it happen? Who performs it? What are the key rituals or moments? What words or vows are spoken? What objects or symbols are used?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens after the ceremony?**
 
@@ -1841,11 +1846,15 @@ When developing mourning traditions for your world, there are several dynamics w
 
 **What are the mourning customs in your culture?**
 
-| Aspect | Custom |
-|--------|--------|
-| Mourning period (how long, what's expected) | |
-| Mourning dress or symbols | |
-| Restrictions during mourning (social, romantic, business) | |
+**What are your world's mourning customs? How long is the mourning period, what mourning dress or symbols are used, and what restrictions apply during mourning (social, romantic, business)?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does your culture treat the dead?**
 
@@ -1992,10 +2001,15 @@ _______________________________________________________________
 
 Their upbringing shaped who they are. What was childhood like for them?
 
-| Character | How They Were Raised |
-|---|---|
-| Protagonist | |
-| Love Interest | |
+**How were your protagonist and love interest each raised and educated? What skills did they gain, and what gaps does each have?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Work & Professions
@@ -2040,11 +2054,15 @@ The environment created by festivals gives characters an excuse to be different 
 
 Describe 2-3 that matter for your story:
 
-| Festival | When & What It Celebrates | Key Traditions |
-|----------|---------------------------|----------------|
-| | | |
-| | | |
-| | | |
+**Describe 1-3 important festivals in your world. For each, when does it happen, what does it celebrate, and what are the key traditions?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Which festival provides a romantic opportunity for your characters, and why?**
 
