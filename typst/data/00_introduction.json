@@ -270,16 +270,21 @@
       "type": "divider"
     },
     {
-      "type": "heading2",
-      "text": "Let's Begin"
-    },
-    {
-      "type": "lead_text",
-      "text": "Turn to whichever section calls to you first. There's no wrong starting point."
-    },
-    {
-      "type": "prose",
-      "text": "Your world is waiting to be built."
+      "type": "group",
+      "content": [
+        {
+          "type": "heading2",
+          "text": "Let's Begin"
+        },
+        {
+          "type": "lead_text",
+          "text": "Turn to whichever section calls to you first. There's no wrong starting point."
+        },
+        {
+          "type": "prose",
+          "text": "Your world is waiting to be built."
+        }
+      ]
     }
   ]
 }

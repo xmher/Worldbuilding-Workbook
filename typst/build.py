@@ -435,11 +435,15 @@ def generate_section(data: dict, standalone: bool = False) -> str:
 
     # R2: Pre-scan to mark writing boxes that should fill remaining page space.
     # A writing_box is "page-filling" if the next non-trivial element is a
-    # heading2, divider, group, or end-of-section (i.e., it's the last
-    # interactive element before a visual break).
+    # heading2/3/4, divider→heading, group, or end-of-section (i.e., it's the
+    # last interactive element before a visual break).
     fill_page_indices = set()
     for idx, item in enumerate(content):
         if item.get("type") == "writing_box":
+            # Respect explicit fill_page from JSON
+            if item.get("fill_page"):
+                fill_page_indices.add(idx)
+                continue
             # Look ahead to see what follows
             j = idx + 1
             while j < len(content) and content[j].get("type") in ("divider", "hint"):

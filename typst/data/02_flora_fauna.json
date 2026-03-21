@@ -646,10 +646,8 @@
     {
       "type": "writing_box",
       "label": "Your Answer",
-      "height": "100pt"
-    },
-    {
-      "type": "divider"
+      "height": "150pt",
+      "fill_page": true
     },
     {
       "type": "heading4",
@@ -2507,7 +2505,8 @@
     {
       "type": "writing_box",
       "label": "Your Answer",
-      "height": "100pt"
+      "height": "150pt",
+      "fill_page": true
     },
     {
       "type": "heading4",

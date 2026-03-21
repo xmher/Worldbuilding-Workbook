@@ -179,9 +179,6 @@ If your world mirrors a real culture, focus on what's different. You don't need 
 ]
 
 
-#divider()
-
-
 #structured-table(
   headers: ("Mistake", "Does This Apply to You?", "What to Fix"),
   example-rows: (

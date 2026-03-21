@@ -385,21 +385,17 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
 )
 
 
-#block(breakable: false)[
-
 ==== Are there domesticated magical creatures?
+
 
 #hint[If so, what are they used for and who has access to them?]
 
+
 #writing-box(
   label: "Your Answer",
-  height: 120pt,
+  height: 150pt,
+  fill-page: true,
 )
-
-]
-
-
-#divider()
 
 
 #structured-table(
@@ -1554,18 +1550,17 @@ The most satisfying mate bond romances do one or more of these:
 ]
 
 
-#block(breakable: false)[
-
 ==== How does the human partner feel about being biologically "chosen"?
+
 
 #hint[Flattered? Trapped? Skeptical? Resentful that the choice was made for them?]
 
+
 #writing-box(
   label: "Your Answer",
-  height: 120pt,
+  height: 150pt,
+  fill-page: true,
 )
-
-]
 
 
 #open-table(

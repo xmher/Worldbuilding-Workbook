@@ -477,14 +477,9 @@
           "Multiple worlds/realms (parallel dimensions, portals)",
           "",
           ""
-        ],
-        [
-          "Other: Describe",
-          "",
-          ""
         ]
       ],
-      "row_height": "55pt"
+      "row_height": "45pt"
     },
     {
       "type": "heading4",

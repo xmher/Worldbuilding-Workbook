@@ -246,7 +246,6 @@ You may feel that if your geography does not cause friction for your characters 
     ([Multiple regions (nations, continents)], [], []),
     ([Entire world (epic scope)], [], []),
     ([Multiple worlds/realms (parallel dimensions, portals)], [], []),
-    ([Other: Describe], [], []),
   ),
   row-height: 60pt,
   preamble: [

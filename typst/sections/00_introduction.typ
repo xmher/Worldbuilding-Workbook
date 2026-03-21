@@ -194,10 +194,12 @@ Build what you need. Skip what you don't. Make a world worth falling in love in.
 #strong[Appendix A: Revealing Worldbuilding in Prose] — A practical guide to deploying your worldbuilding in scenes without info-dumps.
 
 
-== Let's Begin
+#block(breakable: false)[
 
+== Let's Begin
 
 #lead-text[Turn to whichever section calls to you first. There's no wrong starting point.]
 
-
 Your world is waiting to be built.
+
+]
