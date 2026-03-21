@@ -2543,45 +2543,65 @@ The narrative resolution of found family is effective because it recognises that
 
 Physical exile from the territory? Social death while remaining present? Being cut off from family, magic, or community? Loss of name, title, or identity? Inherited stigma that marks the next generation?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What triggers banishment?**
 
 What transgression crosses the line from punishable to unforgivable? Is there a formal process, or can it happen at one person's command?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Has your character seen someone else face this consequence?**
 
 Showing the cost through a secondary character makes the threat real before your protagonists face it. Who in your world has already been cast out, and what happened to them?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is exile reversible in your world?**
 
 Can the banished return? What would it cost? Is there a path to redemption, or are some falls permanent?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What replaces the lost community?**
 
 If your character is exiled, where do they go? Who takes them in? Does the romance provide not just a partner but a new world to belong to?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Map your character's exile (actual or threatened):**
 
-**If a character is exiled or becomes an outsider, what do they lose? Consider: home/territory, name/title/identity, family connections, access to magic or power, community, sense of self. What replaces what they've lost?**
+*If a character is exiled or becomes an outsider, what do they lose? Consider: home/territory, name/title/identity, family connections, access to magic or power, community, sense of self. What replaces what they've lost?*
 
 *(Write your answer below)*
 
@@ -2611,7 +2631,7 @@ Additionally, allow secondary characters to reinforce the consequences of breaki
 
 **What are the unwritten rules of cross-class interaction?**
 
-**What are the etiquette rules between different classes or ranks in your world? Address eye contact, forms of address, physical proximity, who speaks first, and what topics are appropriate.**
+*What are the etiquette rules between different classes or ranks in your world? Address eye contact, forms of address, physical proximity, who speaks first, and what topics are appropriate.*
 
 *(Write your answer below)*
 

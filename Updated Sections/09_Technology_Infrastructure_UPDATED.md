@@ -715,16 +715,30 @@ Training scenes are some of romantasy's most effective tension-builders. Physica
 **Does your story use sparring, actual combat, or both to develop the romance?**
 *Sparring and combat serve different romantic functions. Sparring is consensual intimacy disguised as practice — it builds trust, creates sanctioned touch, and lets characters attribute their physical awareness to necessity. Actual combat is dangerous vulnerability under real threat — it bonds through shared survival and reveals who your characters are when stakes are lethal. Knowing which you're using, and when, helps you control the tone.*
 
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ---
 
 ## Knowledge & Education
 
 Who has access to information and who does not, shapes power dynamics in romance just as much as wealth or title. The ability to read when others can't is a particularly significant form of power. In a world where books are hard to come by, the value of giving one as a gift is based on the fact that books are scarce. And the act of teaching someone to read, sharing knowledge, or revealing a hidden library is an act of trust and intimacy that technology level makes possible.
 
-**What do people write on?**
-*Writing surfaces affect who can communicate in writing and how portable that communication is. A love letter carved into wax is a very different object from one inked on paper — and the material itself signals what the writer had access to.*
+**What do people write on and write with?**
+*Writing surfaces and tools affect who can communicate in writing and how portable that communication is. A love letter carved into wax is a very different object from one inked on paper — and the material itself signals what the writer had access to. Consider: paper, parchment, clay, wax tablets, magical surfaces; quills, charcoal, ink, or other instruments.*
 
-Paper, parchment, clay, wax tablets, magical surfaces:
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What do people write with?**
 *Writing tools affect who can communicate in writing and how portable that communication is. A quill and ink require a desk; a charcoal stick works anywhere. What your characters have access to shapes what they can say and where they can say it.*

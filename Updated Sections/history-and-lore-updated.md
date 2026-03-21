@@ -1426,16 +1426,24 @@ The best history-as-weapon scenes occur when a character uses the past to throw 
 **What happens when the weapons are drawn?**
 Does the scene escalate (like Poppy stabbing Casteel) or resolve (like Violet accepting Xaden's scars)? Escalation drives the plot forward; resolution builds intimacy. Both are powerful, and the best romances alternate between them.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a moment where one character refuses to flinch?**
 This is often the turning point of the entire romantic arc. The weapon is drawn, the historical accusation is made, and instead of retreating, the other character steps closer. That's when history stops being a wall and starts becoming a door.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

@@ -2349,23 +2349,35 @@ At a certain point in the story, each of the characters will have to opt for the
 
 **What damage from their enmity is permanent?**
 
-Lives lost, time wasted, trust that can never be fully restored:
+*Lives lost, time wasted, trust that can never be fully restored:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do they live with what can't be fixed?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there anything one can do to make amends — even if it can't undo the harm?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

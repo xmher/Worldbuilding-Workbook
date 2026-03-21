@@ -2308,43 +2308,53 @@ The darkest magical conflicts involve power used without consent: abilities that
 
 **Is there a significant power gap between your characters? Who holds more magical, political, or physical power?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What does the more powerful character have that the other wants or needs? What could they give — or withhold?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Now flip it: what does the "weaker" character have that the powerful one lacks? Knowledge, skills, connections, immunity, moral clarity, the ability to say no?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does the power balance shift throughout your story? What moments give the less powerful character the upper hand?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What would an outsider see when watching their dynamic? Would they be concerned? Are they right to be?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
