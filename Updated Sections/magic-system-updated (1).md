@@ -1717,79 +1717,102 @@ The sweet spot is usually: the bond creates the opportunity or the pull, but the
 Timing changes everything. A bond recognised at first meeting creates different tension than one that emerges after feelings already exist.
 
 **When do your characters become aware of the bond?**
-Before they have feelings for each other, or after?
 
-_______________________________________________________________
+*Before they have feelings for each other, or after?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If the bond comes first:** How do your characters interpret their growing feelings?
-Do they trust what they feel, or wonder if it's just the magic?
 
-_______________________________________________________________
+*Do they trust what they feel, or wonder if it's just the magic?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If feelings come first:** How does discovering the bond change things?
-Confirmation or stolen choice? One validated while the other feels trapped?
 
-_______________________________________________________________
+*Confirmation or stolen choice? One validated while the other feels trapped?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do both characters discover the bond at the same time?**
-Or does one know before the other? What does this asymmetry create?
 
-_______________________________________________________________
+*Or does one know before the other? What does this asymmetry create?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Inconvenient Bond
 
 The most compelling fated-connection stories put the bond in direct conflict with everything else in the characters' lives. The magical connection draws them together while circumstances, history, politics, or personality push them apart.
 
 **What makes this bond inconvenient, unwanted, or complicated for your protagonist?**
-The love interest is an enemy, rival, captor, wrong species, wrong class, already committed, politically dangerous, personally infuriating, someone who hurt them or their people.
 
-_______________________________________________________________
+*The love interest is an enemy, rival, captor, wrong species, wrong class, already committed, politically dangerous, personally infuriating, someone who hurt them or their people.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What makes it inconvenient for your love interest?**
-Both characters should have reasons to resist. What does the love interest stand to lose by accepting this connection?
 
-_______________________________________________________________
+*Both characters should have reasons to resist. What does the love interest stand to lose by accepting this connection?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would your characters lose by accepting the bond?**
-Position, freedom, other relationships, sense of self, life goals?
 
-_______________________________________________________________
+*Position, freedom, other relationships, sense of self, life goals?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What are they fighting against when they resist — the bond itself, or what accepting it would mean for their lives?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### The Work the Bond Doesn't Do
 

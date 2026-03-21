@@ -1070,8 +1070,6 @@ Do they fight about it? Try to understand? Discover they were both taught incomp
 
 &nbsp;
 
-**How did this event affect your characters' families?**
-
 **How did this recent historical event affect your protagonist's family? How did it affect your love interest's family? Were they on the same side or opposing sides?**
 
 *(Write your answer below)*
@@ -1082,17 +1080,17 @@ Do they fight about it? Try to understand? Discover they were both taught incomp
 
 &nbsp;
 
-**Were their families on the same side or opposing sides?**
-
-_______________________________________________________________
-
 **Does this recent history create conflict between them?**
 
 Do their families still hate each other? Is one family blamed by the other?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

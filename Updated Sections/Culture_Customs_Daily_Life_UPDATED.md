@@ -2097,21 +2097,25 @@ Religious ceremony? Community witness? Consummation? Exchange of vows? Magical b
 
 Reception? Consummation rituals? Wedding night traditions? Period of seclusion?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Are there different marriage customs for different classes, species, or magical groups?**
 
 If so, what are the key differences?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If your characters marry, how does their ceremony differ from tradition?**
 
