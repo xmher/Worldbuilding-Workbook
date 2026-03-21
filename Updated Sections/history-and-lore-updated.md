@@ -1218,11 +1218,13 @@ Historical enemies? One family wronged the other?
 
 Magically? Politically? Socially? Bloodline significance creates stakes for who your characters are *allowed* to love, and what happens if forbidden bloodlines combine.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-**What does each character's bloodline mean?**
+&nbsp;
+
+&nbsp;
 
 **What does each character's bloodline or heritage mean in your world? What does it grant them, and what does it demand of them?**
 

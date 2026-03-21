@@ -1965,62 +1965,80 @@ A bond might guarantee compatibility on some level, but it doesn't build a relat
 Regardless of how fated the bond is, the most satisfying romantic payoff comes when characters choose each other. Not because the magic compels them, but because they want this, consequences and all.
 
 **At what point do your characters stop fighting the bond and start choosing each other?**
-What changes?
 
-_______________________________________________________________
+*What changes?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does choosing look like?**
-Is there a moment, a declaration, an action that marks the shift from "stuck with this" to "I want this"?
 
-_______________________________________________________________
+*Is there a moment, a declaration, an action that marks the shift from "stuck with this" to "I want this"?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If the bond disappeared tomorrow, would they stay?**
-At what point in your story does this become true?
 
-_______________________________________________________________
+*At what point in your story does this become true?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Agency Check
 
 Whether your magic includes fated bonds or not, these questions help you make sure the characters are driving the connection.
 
 **If you removed every magical link between your characters, would they still have reasons to be drawn to each other?**
-What are those reasons?
 
-_______________________________________________________________
+*What are those reasons?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **When your characters connect through magic, is it because the magic compels it, or because they're choosing to use their magic to reach each other?**
-Compelled connection may feel intense, but chosen connection reveals character.
 
-_______________________________________________________________
+*Compelled connection may feel intense, but chosen connection reveals character.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **At what point in your story do your characters choose each other as people?**
-Not because of magical mechanics but despite the complications magic creates:
 
-_______________________________________________________________
+*Not because of magical mechanics but despite the complications magic creates:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

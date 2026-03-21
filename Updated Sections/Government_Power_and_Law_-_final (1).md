@@ -1941,41 +1941,55 @@ _______________________________________________________________
 
 **What historical wrong exists between their peoples?**
 
-Conquest? Massacre? Betrayal? Enslavement? Theft of land or magic?
+*Conquest? Massacre? Betrayal? Enslavement? Theft of land or magic?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Who did what to whom?**
 
-Be specific. Vague "ancient grudge" isn't enough.
+*Be specific. Vague "ancient grudge" isn't enough.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How recent is this history?**
 
-Living memory? Grandparents' time? Centuries ago but never forgotten?
+*Living memory? Grandparents' time? Centuries ago but never forgotten?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What evidence of this history remains?**
 
-Scars on the land, displaced peoples, stolen artifacts, suppressed culture, ongoing inequality?
+*Scars on the land, displaced peoples, stolen artifacts, suppressed culture, ongoing inequality?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does each character relate to this history?**
 
-Do they feel personal guilt/grievance, or do they see it as "the past"?
-
-**What is each character's relationship to a historical wrong between their peoples — are they inheritor, victim, bystander, or denier?**
+*Do they feel personal guilt/grievance, or do they see it as "the past"? Are they inheritor, victim, bystander, or denier?*
 
 *(Write your answer below)*
 
@@ -1991,37 +2005,57 @@ Do they feel personal guilt/grievance, or do they see it as "the past"?
 
 **What did one character do to the other (or their loved ones)?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Was it intentional, justified (in their mind), or accidental?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does the one who caused harm feel guilty, justified, or conflicted?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would justice look like to the wronged party?**
 
-Death? Confession? Reparation? There's no path forward without addressing this.
+*Death? Confession? Reparation? There's no path forward without addressing this.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can this harm actually be forgiven?**
 
-Some things can't be — and pretending otherwise insults readers. If one killed the other's family, "sorry" doesn't cut it.
+*Some things can't be — and pretending otherwise insults readers. If one killed the other's family, "sorry" doesn't cut it.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
