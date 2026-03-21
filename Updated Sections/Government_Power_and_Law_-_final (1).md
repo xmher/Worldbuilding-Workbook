@@ -2187,7 +2187,11 @@ _______________________________________________________________
 
 *(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -2195,29 +2199,45 @@ _______________________________________________________________
 
 **What does the protagonist do that their side would consider betrayal?**
 
-Not just "has feelings" — an action that crosses a line.
+*Not just "has feelings" — an action that crosses a line.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does this cost them?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does the love interest do that their side would consider betrayal?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does this cost them?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -2245,29 +2265,43 @@ At a certain point in the story, each of the characters will have to opt for the
 
 *If one character gives up everything and the other gives up nothing, the reader won't believe they're true equals.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **The Conversation That Has to Happen**
 
 **What specifically needs to be addressed?**
 
-The historical wrong, the personal injury, the ideological divide — name it:
+*The historical wrong, the personal injury, the ideological divide — name it:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who brings it up?**
 
-The one who was wronged? The one who caused harm? Does it happen naturally or get forced?
+*The one who was wronged? The one who caused harm? Does it happen naturally or get forced?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does each character need to say?**
 
-**What does each character need to say to the other for reconciliation to be possible?**
+*What does each character need to say to the other for reconciliation to be possible?*
 
 *(Write your answer below)*
 
@@ -2279,7 +2313,7 @@ _______________________________________________________________
 
 **What does each need to hear?**
 
-**What does each character need to hear from the other?**
+*What does each character need to hear from the other?*
 
 *(Write your answer below)*
 
@@ -2291,15 +2325,23 @@ _______________________________________________________________
 
 **Is there an apology? Is it sufficient?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there forgiveness? Is it earned?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

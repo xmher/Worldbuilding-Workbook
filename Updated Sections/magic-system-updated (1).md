@@ -2259,37 +2259,46 @@ The darkest magical conflicts involve power used without consent: abilities that
 ## Opposition & Incompatibility
 
 **Do your characters' magical abilities conflict?**
-What happens when they're used in close proximity: cancellation, amplification, volatility, pain?
 
-_______________________________________________________________
+*What happens when they're used in close proximity: cancellation, amplification, volatility, pain?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is this opposition a permanent state or something that can be overcome with practice, trust, or sacrifice? What would it take?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does magical incompatibility mirror or contrast with their personal dynamic? Are they opposites in temperament too, or is the magical conflict at odds with their emotional compatibility?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If their magic is dangerous to combine, what circumstances might force them to try anyway? What would be worth the risk?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 

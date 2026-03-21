@@ -687,16 +687,16 @@ The biggest difference between the two is that *sparring* is a consensual and er
 
 &nbsp;
 
-**What armour exists?**
-*Armour protects but also constrains. A character in full plate is safe but untouchable; a character in leather is vulnerable but mobile. The trade-off between protection and accessibility is a physical metaphor for the emotional walls your characters build.*
+**What armour exists, what's the most advanced military technology, and who has access to weapons?**
+*Armour protects but also constrains: a character in full plate is safe but untouchable; a character in leather is vulnerable but mobile. The cutting edge of warfare reveals what powers fear most. A character who's forbidden from carrying weapons depends differently on the person beside them — and if your protagonist isn't allowed to train, learning in secret becomes an act of rebellion and trust.*
 
-**What's the most advanced military technology?**
-*The cutting edge of warfare reveals what powers fear most. What weapons or defences give decisive advantage — and how does that shape the danger your characters face?*
+*(Write your answer below)*
 
-**Who has access to weapons?**
-*A character who's forbidden from carrying weapons faces danger differently than one who is armed — and depends differently on the person beside them. Weapon restrictions also shape training dynamics: if your protagonist isn't allowed to train, learning in secret becomes an act of rebellion and trust.*
+&nbsp;
 
-Restricted to military/nobility? Commonly owned? Forbidden to certain groups?
+&nbsp;
+
+&nbsp;
 
 **Does weapons training exist, and who has access to it?**
 Training scenes are some of romantasy's most effective tension-builders. Physical proximity, physical contact, one person in a position of authority over another's body, all under the socially acceptable cover of "practice." Choreograph these scenes like intimate dances: combine blows with glances, describe the grip of a hand correcting stance, the stinging muscle, the heart pounding. Use setting to amplify tension. Cramped sparring halls force proximity, dim torchlight creates mood. And pay attention to the aftermath: the exhilaration, the embarrassment, the way characters can't quite look at each other once the weapons are put down. Who trains your characters, and could that dynamic become romantic?

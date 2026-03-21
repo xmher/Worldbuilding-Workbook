@@ -1403,9 +1403,6 @@ The best history-as-weapon scenes occur when a character uses the past to throw 
 
 ### Your Characters' Arsenal
 
-**What historical ammunition does your protagonist carry?**
-What can they throw at the love interest during their worst arguments? Their family name? Their people's crimes? Their species' history of oppression?
-
 **What historical ammunition does your protagonist carry? What can they throw at the love interest during their worst arguments, when do they use it, and what fear underlies it?**
 
 *(Write your answer below)*
@@ -1415,9 +1412,6 @@ What can they throw at the love interest during their worst arguments? Their fam
 &nbsp;
 
 &nbsp;
-
-**What historical ammunition does your love interest carry?**
-What's their trump card? What historical fact can they invoke that the protagonist has no answer for?
 
 **What historical ammunition does your love interest carry? What's their trump card, when do they use it, and what fear underlies it?**
 
