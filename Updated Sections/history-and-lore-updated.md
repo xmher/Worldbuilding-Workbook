@@ -1011,10 +1011,15 @@ _______________________________________________________________
 
 **What does each character's bloodline mean?**
 
-| Character | Heritage and What It Grants or Demands |
-|-----------|---------------------------------------|
-| Protagonist | |
-| Love Interest | |
+**What does each character's bloodline or heritage mean in your world? What does it grant them, and what does it demand of them?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there something significant about combining their bloodlines?**
 
@@ -1080,19 +1085,28 @@ _______________________________________________________________
 **Did either side in historical conflicts commit atrocities?**
 Atrocities create wounds that don't heal with time. They raise questions of guilt, responsibility, and whether forgiveness is possible.
 
-| Aspect | Details |
-|---|---|
-| What happened | |
-| Who committed them | |
-| Who suffered | |
+**Did either side in your world's historical conflicts commit atrocities? What happened, who committed them, and who suffered?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How is this remembered?**
 Perpetrators and victims remember differently. Understanding both perspectives deepens your enemies-to-lovers tension.
 
-| Group | How They Remember |
-|---|---|
-| By the perpetrators | |
-| By the victims | |
+**How do the perpetrators remember the atrocity? How do the victims remember it?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is this atrocity acknowledged, denied, justified, or forgotten?**
 How society handles atrocity shapes whether your characters can discuss it openly or must navigate denial and silence.
@@ -1147,20 +1161,28 @@ The best history-as-weapon scenes occur when a character uses the past to throw 
 **What historical ammunition does your protagonist carry?**
 What can they throw at the love interest during their worst arguments? Their family name? Their people's crimes? Their species' history of oppression?
 
-| Aspect | Details |
-|---|---|
-| The weapon | |
-| When they use it | |
-| What it's really about (the fear underneath) | |
+**What historical ammunition does your protagonist carry? What can they throw at the love interest during their worst arguments, when do they use it, and what fear underlies it?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What historical ammunition does your love interest carry?**
 What's their trump card? What historical fact can they invoke that the protagonist has no answer for?
 
-| Aspect | Details |
-|---|---|
-| The weapon | |
-| When they use it | |
-| What it's really about (the fear underneath) | |
+**What historical ammunition does your love interest carry? What's their trump card, when do they use it, and what fear underlies it?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens when the weapons are drawn?**
 Does the scene escalate (like Poppy stabbing Casteel) or resolve (like Violet accepting Xaden's scars)? Escalation drives the plot forward; resolution builds intimacy. Both are powerful, and the best romances alternate between them.

@@ -193,12 +193,15 @@ _______________________________________________________________
 
 **Your academy's ranking structure:**
 
-| Rank/Level | What They Get or Lose | How This Affects the Romance |
-| --- | --- | --- |
-| Privileges at the top: | | |
-| Consequences at the bottom: | | |
-| Where your protagonist sits: | | |
-| Where your love interest sits: | | |
+**In your academy's ranking system, what do those at the top get and what happens to those at the bottom? Where does your protagonist sit in the hierarchy, and where does your love interest sit? How does the gap between them create tension?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does ranking create tension between your characters?**
 
@@ -286,12 +289,15 @@ _______________________________________________________________
 
 *(Reference Section 5 for class structures)*
 
-| Position | Description |
-| --- | --- |
-| Queen's Inner Circle (example) | Twelve advisors with private audience rights; love interest is the youngest member ever appointed, causing resentment |
-| Lady-in-Waiting (example) | Protagonist's cover position; grants access to royal quarters but no political voice; must attend the princess constantly |
-| Protagonist's position: | |
-| Love interest's position: | |
+**Where does each character rank in the court hierarchy? What is your protagonist's position (title, access, limitations) and your love interest's position?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What spaces can each access? Where would they naturally encounter each other?**
 
@@ -376,11 +382,16 @@ _______________________________________________________________
 *Their military roles define the power dynamic. A commander and a soldier under her command face very different romantic obstacles than two soldiers of equal rank. The role also determines what each character has access to — information, movement, authority — and what they risk by loving the wrong person.*
 
 Soldier, commander, medic, strategist, prisoner, spy, conscript, mercenary, support staff?
-| --- | --- |
-| Commander (example) | Leads 500 soldiers in the northern battalion; protagonist earned position through merit despite noble opposition |
-| War Mage (example) | Love interest is assigned to protagonist's unit as magical support; outranks her in magic but answers to her in battle |
-| Protagonist: | |
-| Love interest: | |
+
+**What is your protagonist's military role (rank, unit, how they earned it)? What is your love interest's military role? How do their roles create power dynamics or romantic obstacles?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What rules govern relationships between ranks?**
 
@@ -797,12 +808,15 @@ The balance of power in a captivity romance is what determines if the story live
 
 This is the essential question. In every successful captivity romance, the captive must gain some form of leverage, whether through discovering her own power (Feyre gaining High Lord abilities, Poppy discovering her Atlantian heritage, Emilia realising she's a Star Witch), through acquiring information the captor needs, or through the captor's own transformation from seeing the captive as a tool to seeing her as a person. By the time the story ends, both parties must be able to see each other as equals. If they don't, you've got a control story, not a love story.
 
-| | |
-| --- | --- |
-| Who holds power at the start: | |
-| What shifts the balance: | |
-| When do they become equals: | |
-| What proves the shift is real (not just the captor being "nicer"): | |
+**In your captivity dynamic, who holds power at the start? What shifts the balance? When do they become equals? What proves the shift is real (not just the captor being 'nicer')?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Forced Proximity in Captivity
 
@@ -981,10 +995,15 @@ _______________________________________________________________
 **Do your characters believe in the institution's stated purpose?**
 Are they idealists who believe in the mission? Cynics who see the truth? One of each? Do their views change?
 
-| | |
-| --- | --- |
-| Protagonist: | |
-| Love interest: | |
+**Does your protagonist believe in the institution's stated purpose, or do they see the reality beneath? What about your love interest? Are they idealists, cynics, or one of each?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens when they see behind the curtain?**
 When the gap between ideal and reality becomes undeniable:

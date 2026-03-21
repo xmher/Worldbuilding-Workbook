@@ -22,14 +22,15 @@ Build language that creates both barriers and bridges. Make your characters work
 **Where does your story sit on the barrier-to-bridge progression?**
 Language intimacy builds in stages. Where do your characters start, and where do they end? Mark the stages that appear in your story — these become scenes to write.
 
-| Stage | Present in Your Story? | When It Happens |
-|---|---|---|
-| *Can't communicate at all — gestures, frustration, misreading* | *Yes — Chapters 1–4, when Feyre first arrives in Prythian and can't read the Fae language on signs or documents* | *Early meetings, before any trust is built* |
-| Halting exchanges — single words, pointing, stumbling | | |
-| Functional communication — can get through a conversation but miss nuance | | |
-| Real conversation — can argue, joke, confess | | |
-| Private language — words, signals, or codes only they share | | |
-| Silence that says everything — words no longer needed | | |
+**Map the communication arc between your characters. Which of these stages are present in your story, and when does each happen: complete inability to communicate, halting exchanges, functional but nuance-missing conversation, real conversation (arguing, joking, confessing), private language only they share, and silence that says everything?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -63,11 +64,15 @@ The key question isn't *what languages exist in your world*. It's this: what lan
 **Which language patterns create the most tension between your characters?**
 Look at the toolkit table above. Pick the 2–3 patterns most relevant to your romance. For each one, note the specific scene or dynamic it creates.
 
-| Language Pattern | How It Works Between Your Characters | A Scene It Creates |
-|---|---|---|
-| *Language barrier* | *Feyre can't read — Rhysand teaches her, creating private tutoring sessions that become intimate* | *The reading lessons in ACOTAR where proximity + patience = attraction* |
-| | | |
-| | | |
+**Which language patterns from the list above are you using? For each, describe how it works between your characters and a specific scene it creates.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -156,33 +161,42 @@ If your characters don't share a first language, you've got built-in tension, an
 
 How did they learn each one? What doors does their linguistic knowledge open or close?
 
-| Aspect | Details |
-|---|---|
-| Native language | |
-| Other languages and fluency | |
-| How they learned each one | |
-| What doors their languages open or close | |
+**What is your protagonist's native language? What other languages do they speak and how fluently? How did they learn each one, and what doors do their languages open or close?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Love Interest's Languages
 
 Do they share a language with the protagonist, or will communication itself become part of their journey together?
 
-| Aspect | Details |
-|---|---|
-| Native language | |
-| Other languages and fluency | |
-| How they learned each one | |
-| What doors their languages open or close | |
+**What is your love interest's native language? What other languages do they speak and how fluently? How did they learn each one, and what doors do their languages open or close?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do they share a common language when they first meet?**
 If not, how do they communicate initially? Gestures? A shared third language? Magic? And if they do share a language, is it native to both of them, or is one always slightly at a disadvantage?
 
-| Aspect | Details |
-|---|---|
-| Do they share a language at first meeting? | |
-| If yes — is one at a disadvantage in it? | |
-| If no — how do they communicate initially? | |
-| What's lost in this early communication? | |
+**Do your characters share a language at first meeting? If yes, is one at a disadvantage in it? If no, how do they communicate initially? What's lost in this early communication?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who learns whose language?**
 This is a power question as much as a practical one. Does one teach the other? Do they meet in the middle? Does the love interest learn the protagonist's "lesser" language as an act of respect?
@@ -199,10 +213,15 @@ When characters need translation, a third party enters their most intimate space
 
 **Do your characters ever need a translator?**
 
-| Aspect | Details |
-|---|---|
-| Who translates | |
-| How trustworthy are they | |
+**If your characters need a translator or intermediary, who fills that role and how trustworthy are they?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What can't be said through a translator?**
 What's too private, too dangerous, or too intimate to say through a third party? The things they can't say with someone listening become the things they long to say alone.
@@ -242,21 +261,29 @@ _______________________________________________________________
 
 First words carry weight. Is it practical, accidental, or something that reveals character?
 
-| Aspect | Details |
-|---|---|
-| The word | |
-| What it means | |
-| Context of learning it | |
+**What's the first word your protagonist learns in the love interest's language? What does it mean, and what's the context in which they learn it?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Love Interest's First Word
 
 What does their choice to learn this particular word reveal about what they notice or value?
 
-| Aspect | Details |
-|---|---|
-| The word | |
-| What it means | |
-| Context of learning it | |
+**What's the first word your love interest learns in the protagonist's language? What does it mean, and what's the context in which they learn it?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **When can they first have a real conversation?**
 What changes when they can finally understand each other fully, when the bridge is built enough to carry the weight of real meaning?
@@ -338,21 +365,30 @@ One way to avoid this is to add at least one constraint.
 **If your world has magical translation, what breaks it?**
 Perfect translation kills tension. Pick at least one constraint from the table above and describe how it affects your characters' communication.
 
-| Constraint You're Using | How It Fails at the Worst Moment | What Your Characters Do Instead |
-|---|---|---|
-| *Register loss — the daemati bond can't transmit humour or sarcasm* | *Feyre sends a sarcastic thought; Rhysand receives it as flat hostility and pulls away* | *She has to explain she was joking — vulnerability through having to narrate her own tone* |
-| | | |
+**What translation constraint are you using, how does it fail at the worst possible moment, and what do your characters do instead?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Your Approach
 
 **How do you represent other languages on the page?**
 Which technique (or combination) matches the experience you want readers to have?
 
-| Aspect | Details |
-|---|---|
-| Primary technique | |
-| How foreign words are formatted (italics, roman, tags) | |
-| How much the reader understands vs. the protagonist | |
+**What is your primary technique for representing language on the page? How are foreign words formatted (italics, roman, tags), and how much does the reader understand vs. the protagonist?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does your world have magical translation?**
 If so, what are its limits? What can't it translate? What happens when it fails?

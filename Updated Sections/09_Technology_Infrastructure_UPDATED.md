@@ -618,21 +618,28 @@ Cost? Location? Class? Connections?
 **Does magical healing exist?**
 *Magical healing can remove stakes from injuries — unless it has limits, costs, or is inaccessible to your characters. The most effective romantasy healing systems give with one hand and take with the other.*
 
-| Aspect | Details |
-|---|---|
-| How common | |
-| How effective | |
-| What it can't heal | |
-| Cost/limitations | |
+**Does magical healing exist in your world? How common is it, how effective, what can't it heal, and what does it cost?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What injuries or illnesses are survivable vs. fatal?**
 *Understanding what can and can't be healed helps you write realistic stakes. If everything is survivable, danger loses its weight. If too much is fatal, you lose the caretaking scenes where romance deepens.*
 
-| Category | Examples |
-|---|---|
-| Easily treated | |
-| Survivable with care | |
-| Usually fatal | |
+**What injuries or illnesses are easily treated in your world? What is survivable with care? What is usually fatal?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What chronic conditions exist, and how are they managed?**
 *Chronic illness shapes daily life in ways acute injury doesn't. A character who lives with ongoing health concerns experiences vulnerability differently — it's not a single dramatic moment but a constant reality that the love interest must understand and accommodate.*
@@ -780,12 +787,15 @@ The biggest difference between the two is that *sparring* is a consensual and er
 **What weapons exist?**
 *Available weapons shape both conflict and protection. What your protagonist can fight with — or against — determines the physical stakes of every dangerous scene and how much they depend on the person beside them.*
 
-| Type | Examples |
-|---|---|
-| Melee weapons | |
-| Ranged weapons | |
-| Siege weapons | |
-| Magical weapons | |
+**What weapons exist in your world? List examples of melee, ranged, siege, and magical weapons.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What armour exists?**
 *Armour protects but also constrains. A character in full plate is safe but untouchable; a character in leather is vulnerable but mobile. The trade-off between protection and accessibility is a physical metaphor for the emotional walls your characters build.*
@@ -804,12 +814,15 @@ Training scenes are some of romantasy's most effective tension-builders. Physica
 **Is there a training or sparring dynamic between your characters?**
 *Training scenes work because they disguise intimacy as necessity: physical proximity, physical contact, one person in authority over another's body, all under the cover of "practice." If your characters train together or one teaches the other, map the romantic potential.*
 
-| Aspect | Details |
-|---|---|
-| Who trains whom (or do they spar as equals)? | |
-| What weapon or skill is being taught? | |
-| What creates the tension (proximity, authority, vulnerability)? | |
-| What happens in the aftermath — how do they act once weapons are put down? | |
+**Is there a training or sparring dynamic between your characters? Who trains whom (or are they equals), what's being taught, what creates the tension, and how do they act once weapons are put down?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does your story use sparring, actual combat, or both to develop the romance?**
 *Sparring and combat serve different romantic functions. Sparring is consensual intimacy disguised as practice — it builds trust, creates sanctioned touch, and lets characters attribute their physical awareness to necessity. Actual combat is dangerous vulnerability under real threat — it bonds through shared survival and reveals who your characters are when stakes are lethal. Knowing which you're using, and when, helps you control the tone.*
@@ -846,11 +859,15 @@ Universal? Class-restricted? Gender-restricted? If your characters come from dif
 **Does knowledge create a power dynamic between your characters?**
 *When one character can read and the other can't, when one has access to information the other is denied, the knowledge gap becomes a source of dependency, shame, or intimacy. Teaching someone is an act of trust. Withholding knowledge is an act of control.*
 
-| Aspect | Details |
-|---|---|
-| Does either character have knowledge the other lacks? | |
-| Does one teach the other anything? What? | |
-| How does the knowledge gap affect their dynamic (dependency, shame, wonder, trust)? | |
+**Does either character have knowledge the other lacks? Does one teach the other, and how does the knowledge gap affect their dynamic (dependency, shame, wonder, trust)?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -879,22 +896,30 @@ Does magic interfere with technology or vice versa?
 **How does the magic/technology divide affect your characters' relationship?**
 *When one character has access to magical solutions and the other relies on slower, harder alternatives, the gap creates dependency, resentment, or wonder. This asymmetry is fuel for romantic tension.*
 
-| Aspect | Details |
-|---|---|
-| What magical solution does one character have that the other doesn't? | |
-| How does the character without magic solve the same problem? | |
-| Does this create dependency, resentment, wonder, or something else? | |
+**What magical solution does one character have that the other doesn't? How does the character without magic solve the same problem, and does the divide create dependency, resentment, wonder, or something else?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Lost or Forbidden Technology
 
 **Did past civilisations have technology now lost?**
 *Lost technology creates mystery and possibility. What ancient wonders might your characters discover or seek — and could the quest to find them bring your characters together or drive them apart?*
 
-| Aspect | Details |
-|---|---|
-| What was lost | |
-| Why it was lost | |
-| Could it be rediscovered | |
+**Did past civilisations have technology now lost? What was lost, why was it lost, and could it be rediscovered?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is any technology restricted or forbidden?**
 *Forbidden technology creates temptation and danger. A character willing to risk punishment to access forbidden knowledge or tools reveals how much they're willing to sacrifice — and a shared secret about forbidden technology binds characters together.*
