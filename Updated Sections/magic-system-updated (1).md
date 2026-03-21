@@ -2864,39 +2864,47 @@ Magic doesn't just affect your characters. It shapes the larger world they live 
 
 *Wars, political upheaval, magical catastrophe — the world doesn't pause for love. Identifying the external pressure helps you write the impossible choices that make romantasy heartbreaking.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **At some point, will your characters have to choose between each other and the larger conflict? What does that choice look like?**
 
 *The best romantasy forces this choice and then finds a way to make both matter. What does your version of "save the world or save the person you love" look like?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If they ignore the world's problems to be together, what happens? Can they live with the consequences?**
 
 *Some of the most devastating romantic moments come from characters trying to have both — saving the world and keeping each other — and failing. What happens in the gap between what they want and what they can have?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If they sacrifice their relationship to address the world's problems, what happens? Would either of them actually make that choice?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -2915,9 +2923,7 @@ How does your magic system connect to the rest of your world?
 
 **Map your magic system's connections to the rest of your world:**
 
-*Your magic doesn't exist in isolation. Use the reference table above for inspiration, then fill in how your magic connects to each element. Skip any that don't apply.*
-
-**How does your magic system connect to the rest of your world? For each relevant system (geography, government, religion, culture, economy, history), describe how magic integrates and how that integration affects your leads.**
+*Your magic doesn't exist in isolation. Use the reference table above for inspiration, then fill in how your magic connects to each element (geography, government, religion, culture, economy, history) and how that integration affects your leads. Skip any that don't apply.*
 
 *(Write your answer below)*
 
@@ -2952,42 +2958,52 @@ How does your magic system connect to the rest of your world?
 ### Consistency Check
 
 **Write out your magic system in two or three sentences:**
-This summary should capture the essence: source, who can use it, how it works, main cost, and biggest limit. If you can't summarise it clearly, the system may need simplification.
 
-_______________________________________________________________________________
+*This summary should capture the essence: source, who can use it, how it works, main cost, and biggest limit. If you can't summarise it clearly, the system may need simplification.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Does your magic system contradict itself anywhere?**
-For example: "Magic is extremely rare" but also "Every noble family has a court mage."
 
-_______________________________________________________________________________
+*For example: "Magic is extremely rare" but also "Every noble family has a court mage."*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Think of the biggest problem your protagonist faces.**
-If a sceptical reader asked "Why didn't they just use magic to fix that?" what's your answer?
 
-_______________________________________________________________________________
+*If a sceptical reader asked "Why didn't they just use magic to fix that?" what's your answer?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's one thing you're still unsure about in your magic system?**
-Write it down. You may figure it out as you draft, or in later sections.
 
-_______________________________________________________________________________
+*Write it down. You may figure it out as you draft, or in later sections.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

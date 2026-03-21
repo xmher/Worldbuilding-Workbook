@@ -251,9 +251,7 @@ Don't overlook the costs associated with conformity, either. There may be mental
 
 **What are the general expectations for different genders in your culture?**
 
-Focus on what affects your story:
-
-**What roles and behaviors does your culture expect based on gender? What is prohibited?**
+*What roles and behaviors does your culture expect based on gender? What is prohibited? Focus on what affects your story.*
 
 *(Write your answer below)*
 
@@ -265,7 +263,7 @@ Focus on what affects your story:
 
 **How do these expectations affect your characters?**
 
-**How do gender expectations specifically affect your protagonist and love interest?**
+*How do gender expectations specifically affect your protagonist and love interest?*
 
 *(Write your answer below)*
 
@@ -2892,6 +2890,7 @@ The intimacy of sharing worlds:
 | The cultural attitude toward desire that your protagonist must navigate | |
 
 ---
+
 ## Final Thought
 
 **Culture Is Behaviour, Not Exposition**
