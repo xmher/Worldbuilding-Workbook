@@ -2328,26 +2328,39 @@ If no, skip to Integration Check.
 
 If yes:
 
-| Character | Culture |
-|-----------|---------|
-| Protagonist | |
-| Love Interest | |
+**What culture does each character come from?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What are the key differences between their cultures?**
 
-| Aspect | Culture 1 | Culture 2 |
-|--------|-----------|-----------|
-| Values | | |
-| Customs | | |
-| Taboos | | |
+**Compare the two cultures your characters come from: How do their values, customs, and taboos differ?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does one culture do that the other finds shocking, rude, or confusing?**
 
-| Misunderstanding | Description |
-|------------------|-------------|
-| 1 | |
-| 2 | |
-| 3 | |
+**Describe 2-3 cultural misunderstandings that could arise between your characters because of their different backgrounds.**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What romantic gesture from one culture means something different in the other?**
 

@@ -1034,13 +1034,15 @@ The way we think about death affects every part of our lives; it shapes our fear
 **What do people believe happens after death?**
 Afterlife beliefs shape how characters think about sacrifice, loss, and whether lovers can be reunited after death.
 
-| Belief | Details |
-|--------|---------|
-| What happens to the soul/spirit | |
-| Is there judgement? Based on what? | |
-| What's the good outcome? | |
-| What's the bad outcome? | |
-| Can the living affect the dead's fate? | |
+**What does your world's religion teach about the afterlife? What happens to the soul/spirit? Is there judgement, and based on what? What's the good outcome and bad outcome? Can the living affect the dead's fate?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are these beliefs literally true in your world?**
 If the afterlife is confirmed and knowable, dying for love becomes a different calculation. If it's uncertain, faith in reunion after death is poignant hope, not guaranteed promise.
@@ -1117,11 +1119,15 @@ _______________________________________________________________
 **What are the major sacred stories everyone knows?**
 These stories create templates for how characters understand their own lives. Do any parallel your romance?
 
-| Story | What It's About | What It Teaches | How It Parallels Your Romance |
-|-------|----------------|----------------|------------------------------|
-| | | | |
-| | | | |
-| | | | |
+**What founding myths or sacred stories exist in your world? For the most important one, what is it about, what does it teach, and how does it parallel your romance?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are there stories specifically about love, marriage, or relationships?**
 Divine lovers? Cautionary tales? Blessed unions? These stories create templates. Characters may try to live up to them or fear becoming cautionary tales themselves.
@@ -1199,10 +1205,15 @@ _______________________________________________________________
 **How does each character react to the prophecy?**
 Characters may embrace, resist, deny, or be torn about what prophecy means for them.
 
-| Character | Reaction to Prophecy |
-|-----------|---------------------|
-| Protagonist | |
-| Love Interest | |
+**If there's a prophecy in your story, how does each character react to it?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Prophecy Problem: Destiny vs. Choice
 

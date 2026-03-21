@@ -1952,17 +1952,27 @@ _______________________________________________________________
 
 **What does each character need to say?**
 
-| Character | What They Need to Say |
-|-----------|----------------------|
-| Protagonist | |
-| Love Interest | |
+**What does each character need to say to the other for reconciliation to be possible?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does each need to hear?**
 
-| Character | What They Need to Hear |
-|-----------|----------------------|
-| Protagonist | |
-| Love Interest | |
+**What does each character need to hear from the other?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there an apology? Is it sufficient?**
 
@@ -2036,10 +2046,15 @@ _______________________________________________________________
 
 **How do others react to their relationship?**
 
-| Side | Reaction |
-|------|----------|
-| Protagonist's side | |
-| Love interest's side | |
+**How does each side (protagonist's people and love interest's people) react to the couple being together?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
