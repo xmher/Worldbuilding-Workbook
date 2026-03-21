@@ -675,17 +675,25 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 
 *Communication? Shared senses? Telepathy? Empathic connection? Shared magic? Extended lifespan?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *What does the bond cost or demand?*
 
 *Responsibility? Shared pain? Shortened human lifespan? Behavioral changes?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *Do your characters have bonded creatures?*
 
@@ -705,17 +713,25 @@ _______________________________________________________________
 
 *Do the creatures reflect the romantic tension? Mirror the relationship's progression? Create obstacles or opportunities for the characters?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *Could the characters have the creature bond without having a romantic relationship?*
 
 *Are there bonded rider pairs who aren't romantically involved? Is romance a separate thing from creature partnership?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -946,9 +962,13 @@ The best inter-species romances let the human partner discover these differences
 
 *Touch that burns? Venom? Pheromones that overwhelm? Blood that's intoxicating or poisonous?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Senses & Perception
 
@@ -956,17 +976,25 @@ _______________________________________________________________
 
 *Heat vision, magical sight, ability to sense emotions, scent-based communication:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *What can one perceive about the other that's normally hidden?*
 
 *Can the fae see through glamours? Can the shifter smell lies? Can the vampire hear heartbeats quicken?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1006,25 +1034,37 @@ Aragorn and Arwen's relationship in The Lord of the Rings establishes the preced
 
 *Have they loved mortals before? What happened? Are they terrified of the grief?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *How does the shorter-lived character feel about loving someone who will outlive them?*
 
 *Do they feel insignificant? Worry about being forgotten? Resent that they'll age while their partner doesn't?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *Is there any way to change this?*
 
 *Can the mortal become immortal? Can the immortal give up their lifespan? What would either cost?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1047,25 +1087,37 @@ Keep in mind the fine line between "instinct creates tension" and "instinct elim
 
 *Consider: predator instincts, pack dynamics, territorial behaviour, mating drives, protective instincts. Which of these are most likely to create friction with a human partner — either because they're frightening, or because they reveal a vulnerability the character would rather hide?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *How strong are these instincts? Can they be controlled?*
 
 *Easily overridden? Suppressible but uncomfortable? Overwhelming in certain situations?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *How does your character feel about their instincts?*
 
 *Do they embrace this part of themselves? Fight it? Feel ashamed? Consider it a gift?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *What does restraint look like in the body?*
 
@@ -1102,25 +1154,37 @@ The most satisfying mate bond romances do one or more of these:
 
 *Scent recognition? Immediate pull? Gradual awareness? Physical symptoms?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *Can a mate bond be rejected?*
 
 *If yes — at what cost? Pain? Illness? Death? Permanent inability to bond with anyone else?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *How does the human partner feel about being biologically "chosen"?*
 
 *Flattered? Trapped? Skeptical? Resentful that the choice was made for them?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *Design your mate bond*
 
@@ -1158,33 +1222,49 @@ Don't do this. Let your monster remain dangerous after falling in love. Love doe
 
 *Physically dangerous? Supernaturally dangerous? Morally different? Biologically driven?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *Have they hurt people before?*
 
 *Not accidentally — deliberately. Have they killed? Hunted? Used their powers to harm?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *Are they currently dangerous to the protagonist?*
 
 *Could they hurt their partner if they lost control? Is this a real possibility?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *How does your protagonist feel about the danger?*
 
 *Fear and attraction coexist in monster romance. Does your protagonist find the danger thrilling? Terrifying? Both? Do they understand what's being held back — and does that understanding draw them closer or push them away?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1204,17 +1284,25 @@ Show the exhaustion of navigating hostile spaces, and the relief of spaces where
 
 *Is the non-human's nature visible? Would they have to hide? Is there prejudice, fear, laws against them?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *Can your couple live openly in non-human society?*
 
 *How do other non-humans view humans? As lesser? Prey? Novelty? How would the human partner be treated?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *What do each character's families/communities think of the relationship?*
 
@@ -1234,9 +1322,13 @@ _______________________________________________________________
 
 *This choice creates powerful romantic stakes. What would each give up, and does the other want them to make that sacrifice?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *What does daily friction look like for your couple?*
 
@@ -1278,17 +1370,25 @@ Bella's transformation in the Twilight saga is the structural element upon which
 
 *Turned vampire? Made immortal? Given fae blood? Become a shifter?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *What does transformation cost?*
 
 *Physical (pain, danger of death)? Spiritual (losing their soul)? Social (losing their human connections)?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### *Who wants transformation — and who doesn't?*
 

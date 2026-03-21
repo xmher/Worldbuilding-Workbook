@@ -21,9 +21,13 @@ Create a religion that is important enough for your characters to fight for, aga
 **What is your character's altar — the thing they're forced to lay down?**
 *The altar is the sacrifice your religion demands. In* Serpent & Dove, *Lou is literally the sacrifice the Church demands. In* Priory, *Ead must lay down her sisterhood and sacred purpose. What does your character have to give up — and is love the offering (what they place on the altar willingly) or the sacrifice (what the altar takes from them)?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -125,9 +129,13 @@ When you're writing devout characters, show faith through habit, not declaration
 **Which theological system describes your world, and how does it shape what faith means for your characters?**
 You can combine types (e.g., polytheism with confirmed gods, or animism with absent gods). Your choice shapes what religious doubt, devotion, and defiance look like in your story.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Are the Gods Real?
 
@@ -147,18 +155,24 @@ Whether gods are real and active affects how your characters relate to faith and
 **If gods are real, what can they actually do?**
 Can gods grant magic? Curse people? Speak through prophets? Raise the dead? Appear in person? A god who can directly punish forbidden love creates very different stakes than a god who works through doctrine and social pressure.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What limits divine power?**
 Unlimited gods create story problems, because why don't they just fix everything? Can gods do anything, or are they constrained? By each other? By cosmic law? By their own nature? By mortal free will?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Major Deities & Powers
 
@@ -228,10 +242,13 @@ Identify the gods or spiritual forces that exist in your world. Focus on those r
 **How do the gods relate to each other?**
 Divine politics often mirrors mortal politics. Are they a harmonious pantheon? Competing rivals? Locked in cosmic war? Indifferent to each other? Gods in conflict can take different sides of your romance.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -250,30 +267,46 @@ In *From Blood and Ash*, Poppy's magical "blessing," the ability to sense others
 **How does religion explain magic in your world?**
 Divine gift? Demonic corruption? Natural force the church claims authority over? Ancient power that predates the current religion? The answer shapes whether your magical character is blessed or damned.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does your character's magic come from a divine source?**
 If magic is a gift from the gods, what happens to that gift when the character defies divine law for love? Does the power weaken, change, or disappear? Or does love itself become a new source of power?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does the religion condemn your character's magic?**
 If the beloved's magic is heresy, then the romance is inherently blasphemous. The character isn't just breaking a rule. They're choosing to love the thing their faith tells them is evil.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What are the magical consequences of religious defiance?**
 Loss of power? Transformation? Curse? New and different magic? In systems where faith and magic are linked, choosing love over the gods should have supernatural consequences, not just social ones.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Quick Reference: Magic & Religion**
 
@@ -372,10 +405,13 @@ Religious roles often carry vows and obligations that directly conflict with rom
 **Does religious authority oppose or support the relationship?**
 Who specifically? What will they do about it? Are there authorities who might secretly help?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -388,18 +424,24 @@ This is probably the most romantic way that religious law can be used in a roman
 **What does your religion teach about love and marriage?**
 Sacred gift? Duty? Path to the divine? Distraction from spiritual purpose? How a religion frames love determines whether your characters' feelings are blessed or blasphemous.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What does religious law say about who can marry whom?**
 Restrictions based on faith, role, gender, species, class?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What religious restrictions specifically affect your characters' relationship?**
 Identify the specific rules that create obstacles. These become the stakes your characters must navigate.
@@ -415,18 +457,24 @@ Identify the specific rules that create obstacles. These become the stakes your 
 **What are the consequences for violating religious law?**
 Not just social disapproval. What are the spiritual, magical, and institutional consequences? Excommunication? Damnation? Loss of divine favour or magic? Ritual punishment? Social ostracism?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Does either character prioritise religious law over their own desires?**
 Which one, and why? What would it take for them to choose love over religious duty? This character creates the most interesting tension: the one who genuinely believes the law is right even as they fall in love.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -481,6 +529,14 @@ The Redefinition Path: The doctrine itself is exposed as partial, weaponised, or
 
 **Which pathway is your story on?**
 
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 **If the love interest is condemned by their nature (not just their actions): What does the protagonist's faith say they are? What does experience reveal them to be? Does the story redeem the beloved or redefine the faith? What is the moment the protagonist's certainty fractures? What replaces the old moral categories?**
 
 *(Write your answer below)*
@@ -533,22 +589,24 @@ The "remedy" for the betrayal is often a moment of self-sacrifice. The hidden pr
 **What does your protagonist actually believe?**
 Not what they're supposed to believe. What do they genuinely feel about the divine? Deep faith? Doubt? Going through motions? Complicated relationship with their gods?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
 **What does your love interest actually believe?**
 Deep faith? Doubt? Going through motions? Complicated relationship with their gods? Their genuine beliefs may align with or differ from your protagonist's, creating harmony or another layer of conflict.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
 **How does each character's personal faith differ from official doctrine?**
 The gap between personal belief and institutional religion creates room for characters to redefine faith rather than abandon it.
@@ -566,27 +624,35 @@ The gap between personal belief and institutional religion creates room for char
 **Does either character follow religious practice without genuine belief?**
 Why? Social expectation? Family pressure? Fear? Habit? Hoping belief will come?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Does either character have genuine faith but reject religious authority?**
 Do they believe in the gods but distrust priests? Follow their own interpretation? This creates the possibility of redefining faith rather than abandoning it.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does personal faith affect how they approach religious obstacles?**
 *A character with deep, genuine faith faces an existential crisis when they defy religious law — they're not just breaking rules, they're betraying who they are. A character who follows religion out of habit or social pressure faces a different kind of loss: community and identity rather than spiritual anguish. Knowing which type of believer your character is shapes the entire emotional texture of their struggle.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Is either character hiding their true faith or spiritual identity?**
 Hidden faith creates unique romantic tension. The lover who discovers the secret must choose: accept the truth, or become the instrument of the beloved's destruction.
@@ -618,50 +684,68 @@ Daily practices make faith feel real on the page. What rituals would your charac
 **What religious objects or symbols do people wear or keep?**
 Amulets? Sacred texts? Prayer beads? Holy symbols? These details make faith tangible, and they create charged moments when a character removes them, hides them, or clutches them during temptation.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What phrases, blessings, or invocations are common in speech?**
 Religious language in everyday speech shows how deeply faith permeates culture. "God willing," "bless you," "by the saints." These phrases also reveal when a character is losing faith, because they stop saying them.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Are there practices they've stopped observing? Started observing? Hidden from others?**
 Changes in practice often signal changes in faith. The character who stops praying after tragedy. The one who secretly visits forbidden shrines. The one who prays harder after a guilty kiss.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What comfort does faith provide?**
 In fear, grief, or uncertainty, what does religion offer that nothing else does? Understanding this shows what they'd lose by leaving.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What does it feel like when they pray or practise their faith?**
 Connection? Comfort? Obligation? Silence? Doubt? Peace? This is faith as experience, not just belief.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How might falling in love change their religious practice?**
 Do they pray about it? Feel guilty during rituals? Find new meaning in old prayers? Stop practising? Start practising?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -682,46 +766,57 @@ You want to create a crisis of faith as a process. You want to depict the charac
 **Does the relationship cause either character to question their faith?**
 What specifically do they question? The existence of gods? The rightness of doctrine? The authority of religious leaders? The goodness of a god who forbids love?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
 **What would it mean for them to lose their faith?**
 Not just leaving a religion. Losing the belief itself. What would that cost? What would fill the void?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
 **Do they try to reconcile their faith with their feelings?**
 How? Reinterpreting doctrine? Finding loopholes? Believing the gods would understand? Distinguishing between divine will and institutional corruption?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Is there a moment when faith breaks, or is renewed?**
 The crisis point when they must choose, or when they find a new understanding:
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Can they find a version of faith that includes their love?**
 Is there a way to believe that doesn't require giving up the relationship? This is the "redefining faith" resolution, harder than leaving, sometimes more satisfying.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -783,18 +878,24 @@ Religious guilt follows you into private moments. It can even make love itself f
 **What does your religion teach about desire and love?**
 Sacred gift? Dangerous temptation? Test of faith? How the religion frames desire shapes whether characters feel blessed or damned by their own feelings.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What romantic or sexual behaviours are considered sinful?**
 Understanding what's forbidden helps you write the internal conflict of characters who believe they're doing wrong.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Does either character feel they're sinning by being in this relationship?**
 What specifically triggers the guilt: the act of loving, or the identity of the person they love?
@@ -812,18 +913,24 @@ What specifically triggers the guilt: the act of loving, or the identity of the 
 **Does religious shame affect how they behave in the relationship?**
 Withdrawal? Self-punishment? Trying to resist feelings? Guilt after intimacy?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What would it take to release religious shame?**
 Reinterpretation? Leaving the faith? Divine reassurance? Accepting love isn't sin? Building a new moral framework?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -847,18 +954,24 @@ Religion governs time. Holy days, sacred seasons, periods of fasting or celebrat
 **How do these timing restrictions affect your characters?**
 *Must they wait for a specific time? Are they separated during a religious season? Do they violate sacred time to be together, and what does that cost?*
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How do people mark sacred vs. ordinary time or space?**
 Thresholds between sacred and ordinary create charged moments. What changes when your characters cross into holy ground or holy time?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -884,26 +997,35 @@ Sacred spaces can serve as sanctuary, meeting place, or site of spiritual reckon
 **What makes a space sacred?**
 *What makes a space sacred determines what it means when your characters enter — or defile — that space. A temple consecrated by divine presence carries different weight than a grove made holy by history.*
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Does a sacred site play a role in your romance?**
 Do they meet there? Seek blessing? Take sanctuary? Perform a forbidden ritual?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Are there places where certain relationships are blessed, or cursed?**
 Sacred ground where vows are binding? Temples where certain unions are forbidden?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -942,16 +1064,24 @@ Think about weddings, initiations, vow-taking ceremonies, funerals, fertility ri
 **Does a character undergo a transformation through ritual?**
 Initiations, ascensions, species changes: these are identity thresholds. What does the character become, and what do they lose?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a ceremony where private feelings become public?**
 The most charged ritual scenes are those where an audience is watching. What happens when the mask slips in front of the congregation?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does your key ritual create romantic tension?**
 *Rituals work through restraint (formality makes small gestures explosive), transition (the character crosses an identity threshold), and public stakes (private feelings become everyone's business). Most powerful rituals use at least two of these.*
@@ -966,9 +1096,13 @@ _______________________________________________________________
 **Is your key ritual completed or broken? Why?**
 *Completed rituals (the forced marriage that becomes real) build slow-burn tension. Broken rituals (the wedding that falls apart) create explosive turning points. Either works, but know which you're writing and why.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1012,18 +1146,24 @@ Not just spiritual consequences. Social, practical, relational losses:
 **Is their family's acceptance tied to religious conformity?**
 Would religious violation mean losing family as well as faith community? This multiplies the stakes enormously.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Are there people in their religious community who might support them despite doctrine?**
 The secret ally who believes love matters more than rules? The reformer who thinks doctrine should change?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1047,52 +1187,68 @@ Afterlife beliefs shape how characters think about sacrifice, loss, and whether 
 **Are these beliefs literally true in your world?**
 If the afterlife is confirmed and knowable, dying for love becomes a different calculation. If it's uncertain, faith in reunion after death is poignant hope, not guaranteed promise.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
 **How do afterlife beliefs affect behaviour?**
 What do people do (or avoid) because of afterlife consequences?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Can lovers be reunited after death?**
 Or does death separate them? Are only certain unions blessed in the afterlife?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If one character is willing to die, what do they believe happens next?**
 Their afterlife beliefs shape whether dying for love feels like ending or beginning, loss or reunion.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Does belief in the afterlife make sacrifice easier or harder?**
 If they believe in reunion after death, does that make dying for love more tempting? Or does uncertainty make sacrifice more costly?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Does their relationship affect their afterlife fate?**
 Does loving the "wrong" person damn them? Does true love grant salvation?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1109,12 +1265,13 @@ Romance and sacred stories use similar mechanics because many times characters d
 **What's the creation story?**
 How did the world/gods/people come to exist?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
 **What are the major sacred stories everyone knows?**
 These stories create templates for how characters understand their own lives. Do any parallel your romance?
@@ -1132,17 +1289,24 @@ These stories create templates for how characters understand their own lives. Do
 **Are there stories specifically about love, marriage, or relationships?**
 Divine lovers? Cautionary tales? Blessed unions? These stories create templates. Characters may try to live up to them or fear becoming cautionary tales themselves.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Is there a founding myth that your romance dismantles or fulfils?**
 The most powerful sacred stories in romantasy are the ones the plot proves wrong, or proves true in an unexpected way.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Prophecy & Destiny
 
@@ -1153,25 +1317,37 @@ The power of prophecy lies in how characters receive it. Take your time revealin
 **Do prophecies exist in your world?**
 Prophecy adds a layer of fate vs. choice to your romance. Characters may resist destiny or embrace it.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 If yes:
 
 **How do prophecies work?**
 Divine revelation? Oracle visions? Ancient texts? Prophetic dreams? Astrological calculation?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Are prophecies always true, sometimes true, or open to interpretation?**
 This determines how much weight prophecy carries. Infallible prophecy is destiny. Fallible prophecy is guidance that might be wrong. Make prophecies specific enough to create real expectations: "The child of two worlds will unite or destroy" creates tension. "Something important will happen" doesn't.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Is there a prophecy about your characters or their relationship?**
 Prophecies about the romance itself create unique tension around whether love is chosen or fated.
@@ -1181,26 +1357,35 @@ If yes:
 **What does the prophecy say?**
 Write the actual prophecy or its key elements:
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
 **Who knows about this prophecy?**
 Everyone? Select few? Only one character? The asymmetry of knowledge creates tension.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does the prophecy suggest they're fated to be together or fated to be apart?**
 Either direction creates tension. Fated together: is the love real? Fated apart: can they defy destiny?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does each character react to the prophecy?**
 Characters may embrace, resist, deny, or be torn about what prophecy means for them.
@@ -1241,18 +1426,24 @@ How you handle prophecy shapes whether love feels chosen or predetermined. Most 
 **At what point do they choose each other despite or because of prophecy?**
 The moment where prophecy becomes choice, where destiny is claimed rather than passively received:
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Can prophecy be avoided or changed?**
 If yes: how? At what cost? If prophecy can be defied, their choice to fulfil it means something.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Chosen Ones & Divine Purpose
 
@@ -1274,18 +1465,24 @@ Being chosen creates obligations that compete with personal desire. What does de
 **How does divine purpose conflict with personal desire?**
 Does love distract from destiny? Does destiny require sacrifice of the relationship?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What happens if they refuse their divine purpose?**
 What are the stakes of saying no to the gods?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1326,26 +1523,35 @@ Mutual hostility between faiths raises the stakes considerably. Mutual respect m
 **What practical conflicts arise from different faiths?**
 Different holy days? Conflicting dietary laws? Different marriage requirements? Children: which faith to raise them in?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Would one need to convert for them to marry?**
 What would conversion mean: practical formality or genuine betrayal of belief?
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Can they build a shared spiritual life, or will faith always divide them?**
 This question shapes the long-term viability of the relationship. Some couples find synthesis; others accept respectful difference.
 
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Conversion & Religious Identity
 

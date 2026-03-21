@@ -245,13 +245,7 @@ This is the person (or people) that will decide the fate of your character(s). A
 
 **Name your current ruler(s)**
 
-Be specific — name or title:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Describe your world's ruler: What is their title/position and name? How did they gain power, and how long have they ruled?**
+*Be specific — name or title:*
 
 *(Write your answer below)*
 
@@ -263,53 +257,63 @@ _______________________________________________________________
 
 **How did they gain power?**
 
-This matters because it reveals what they fear losing:
+*This matters because it reveals what they fear losing: Inheritance (fears other heirs, revolution), conquest (fears being conquered), election (fears losing support), magical strength (fears stronger mage), divine right (fears religious challengers), coup (fears the same), marriage alliance (fears spouse's family).*
 
-Inheritance (fears other heirs, revolution), conquest (fears being conquered), election (fears losing support), magical strength (fears stronger mage), divine right (fears religious challengers), coup (fears the same), marriage alliance (fears spouse's family).
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
 **How do they maintain power?**
 
-Military force? Magic? Religion? Economic control? Information and spies? Fear? Legitimacy and tradition?
+*Military force? Magic? Religion? Economic control? Information and spies? Fear? Legitimacy and tradition?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What do they want?**
 
 *The ruler's priorities determine what threatens them — and your characters become a threat the moment their relationship conflicts with those priorities. What does the ruler want badly enough to destroy a love story over?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What threatens their rule?**
 
-Every power structure has cracks. Rival claimants? Popular unrest? External enemies? Succession crisis? Prophecy?
+*Every power structure has cracks. Rival claimants? Popular unrest? External enemies? Succession crisis? Prophecy?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does this instability affect your romance?**
 
-Are your characters on opposite sides? Could their union stabilize or destabilize the realm? Would their relationship be used as a political weapon?
+*Are your characters on opposite sides? Could their union stabilize or destabilize the realm? Would their relationship be used as a political weapon?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -325,13 +329,15 @@ Divine law, ancient compacts, magically binding treaties, things that can't be a
 
 **Who makes laws?**
 
-*This determines whether your characters have any hope of changing the system that keeps them apart.*
+*This determines whether your characters have any hope of changing the system that keeps them apart. Ruler by decree? Legislative body? Religious authority? Tradition that no one changes? Magical compulsion?*
 
-Ruler by decree? Legislative body? Religious authority? Tradition that no one changes? Magical compulsion?
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Can laws be changed? How?**
 
@@ -345,19 +351,27 @@ _______________________________________________________________
 
 **Are there laws considered unchangeable?**
 
-Divine law, ancient compacts, magically binding treaties — things that *cannot* be altered:
+*Divine law, ancient compacts, magically binding treaties — things that cannot be altered:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Which law most directly affects your characters' relationship?**
 
 *This is the law your reader needs to feel. Name it specifically — the law that makes their love dangerous.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -369,25 +383,29 @@ Hierarchy is shown by how characters act, not what they say. Who does the waitin
 
 *Map it from highest to lowest power. For each level, think about the physical behaviours that show rank — who waits, who speaks first, who can interrupt. These details will make hierarchy visible in your scenes without exposition.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
 **How do people move up (or down) in political power?**
 
-Birth? Achievement? Magical ability? Wealth? Military service? Marriage?
+*Birth? Achievement? Magical ability? Wealth? Military service? Marriage?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What positions exist that matter for your story?**
 
-**Who holds power in your world? For each key position, describe what power they hold and who currently fills the role.**
+*For each key position, describe what power they hold and who currently fills the role.*
 
 *(Write your answer below)*
 
@@ -405,33 +423,19 @@ If you have magic in your world, then magic is going to interact with political 
 
 **Who controls access to magic?**
 
-Is it hereditary (bloodlines hold power)? Learned (those controlling education hold power)? Granted by deities (those controlling access hold power)? Random (those who find and control magic-users hold power)?
+*Is it hereditary (bloodlines hold power)? Learned (those controlling education hold power)? Granted by deities (those controlling access hold power)? Random (those who find and control magic-users hold power)? How does government relate to magic — how is it acquired, who controls training/access, and can magical power be taken away?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Do mages rule, serve rulers, or oppose rulers?**
 
-**Mages rule (magocracy):** How do non-mages fit in? What happens to weak mages?
-
-**Mages serve:** Are they conscripted, employed, or enslaved? What happens to those who refuse?
-
-**Mages are controlled:** What laws restrict magic? How are mages tracked or eliminated?
-
-Which dynamic exists, and how does it affect your characters?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Who controls access to magical power?**
-
-**How does government relate to magic in your world? How is magic acquired? Who controls training/access? Can magical power be taken away?**
+*Mages rule (magocracy): How do non-mages fit in? What happens to weak mages? Mages serve: Are they conscripted, employed, or enslaved? What happens to those who refuse? Mages are controlled: What laws restrict magic? How are mages tracked or eliminated? Which dynamic exists, and how does it affect your characters?*
 
 *(Write your answer below)*
 
@@ -443,31 +447,37 @@ _______________________________________________________________
 
 **What laws govern magic use?**
 
-What's forbidden? What's required? What's regulated?
+*What's forbidden? What's required? What's regulated?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If one character has magic and the other doesn't, how does this affect their political standing?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Could your characters' relationship threaten the magical power structure?**
 
-Mixing bloodlines? Teaching forbidden magic? Creating a dangerous bond? Fulfilling or defying prophecy?
+*Mixing bloodlines? Teaching forbidden magic? Creating a dangerous bond? Fulfilling or defying prophecy?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -477,13 +487,7 @@ Enforcement gives force to laws. If the criminal aspect of your story has no rea
 
 **Who enforces the law?**
 
-Royal guard? City watch? Magical enforcers? Religious authorities? Secret police? Self-enforcing magical contracts?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What enforcement bodies exist in your world? What do they handle, and who controls them?**
+*Royal guard? City watch? Magical enforcers? Religious authorities? Secret police? Self-enforcing magical contracts? What do they handle, and who controls them?*
 
 *(Write your answer below)*
 
@@ -495,11 +499,15 @@ _______________________________________________________________
 
 **How effective is enforcement?**
 
-Omnipresent (high risk)? Moderate? Weak or corrupt (easy to evade)? Selective (depends who you are)?
+*Omnipresent (high risk)? Moderate? Weak or corrupt (easy to evade)? Selective (depends who you are)?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens when your characters are caught?**
 
@@ -513,7 +521,7 @@ _______________________________________________________________
 
 **How does the justice system work?**
 
-**Describe your world's justice system: Who judges? Are there trials? Do the accused have rights? Can verdicts be appealed? Who can afford good representation?**
+*Who judges? Are there trials? Do the accused have rights? Can verdicts be appealed? Who can afford good representation?*
 
 *(Write your answer below)*
 
@@ -525,13 +533,15 @@ _______________________________________________________________
 
 **Is justice equal?**
 
-Does class, wealth, species, or magical status affect how law applies? Be specific about who gets treated differently:
+*Does class, wealth, species, or magical status affect how law applies? Be specific about who gets treated differently:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -541,41 +551,51 @@ It is possible for one individual to receive a slap on the wrist for a violation
 
 **Are laws enforced equally, or does power matter?**
 
-Does the noble face consequences, or only the commoner? Can the magical character escape while the non-magical suffers?
+*Does the noble face consequences, or only the commoner? Can the magical character escape while the non-magical suffers?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If one character risks everything while the other risks little, how do they navigate that?**
 
-Does the protected character understand what the other faces? Do they try to shield them? Does the vulnerable character resent the inequality?
+*Does the protected character understand what the other faces? Do they try to shield them? Does the vulnerable character resent the inequality?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Could the protected character sacrifice their protection for the other?**
 
-Renounce their status? Confess to share punishment? What would that cost?
+*Renounce their status? Confess to share punishment? What would that cost?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would happen if only one of them were caught?**
 
-Would the protected character let the other suffer alone? Would they come forward? Would they have the power to save them?
+*Would the protected character let the other suffer alone? Would they come forward? Would they have the power to save them?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -584,63 +604,116 @@ _______________________________________________________________
 Some positions grant immunity from normal laws, or make someone untouchable in ways that affect the relationship.
 
 **Does either character have special legal status?**
-Diplomatic immunity? Religious sanctuary? Royal protection? Magical immunity? Status as hostage or ward?
 
-_______________________________________________________________
+*Diplomatic immunity? Religious sanctuary? Royal protection? Magical immunity? Status as hostage or ward?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does this status affect what they can do, or what can be done to them?**
-Special status can be both shield and cage. What freedoms does it grant, and what constraints does it impose?
 
-_______________________________________________________________
+*Special status can be both shield and cage. What freedoms does it grant, and what constraints does it impose?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Could their status protect the other character?**
-Could marriage, alliance, or association extend protection to their partner?
 
-_______________________________________________________________
+*Could marriage, alliance, or association extend protection to their partner?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Could their status endanger the other character?**
-Does being connected to them make their partner a target? Create political complications?
 
-_______________________________________________________________
+*Does being connected to them make their partner a target? Create political complications?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would they lose if they gave up their special status?**
-Could they renounce it? At what cost?
 
-_______________________________________________________________
+*Could they renounce it? At what cost?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
 ### Trials & Justice
 
 **If caught, do your characters get a trial?**
-A trial creates narrative opportunity for public confrontation, defence, and dramatic revelations.
 
-_______________________________________________________________
+*A trial creates narrative opportunity for public confrontation, defence, and dramatic revelations.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who judges them?**
-Monarch? Court? Religious authority? Magical council? Trial by combat?
 
-_______________________________________________________________
+*Monarch? Court? Religious authority? Magical council? Trial by combat?*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can they appeal? Is there any legal recourse?**
-Hope of appeal can drive plot; no recourse raises the stakes considerably.
 
-_______________________________________________________________
+*Hope of appeal can drive plot; no recourse raises the stakes considerably.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who would or could defend them?**
-Allies willing to speak for them reveal the depth of support or isolation your characters face.
 
-_______________________________________________________________
+*Allies willing to speak for them reveal the depth of support or isolation your characters face.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -652,7 +725,7 @@ When one character has the ability to imprison, exile, or kill another, how do y
 
 **How does the power gap between your characters affect intimacy?**
 
-**Describe the political power imbalance between your characters: Who holds more power? Does the more powerful character recognise the gap? How does the less powerful character exercise agency? What would it look like if they said no — would there be consequences?**
+*Who holds more power? Does the more powerful character recognise the gap? How does the less powerful character exercise agency? What would it look like if they said no — would there be consequences?*
 
 *(Write your answer below)*
 

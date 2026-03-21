@@ -391,7 +391,7 @@ As your character first enters their love interest's home, take some time to all
 
 **What does a typical home look like for different classes?**
 
-**What does home look like for the wealthy, the middle class, and the poor in your world?**
+*What does home look like for the wealthy, the middle class, and the poor in your world?*
 
 *(Write your answer below)*
 
@@ -405,80 +405,41 @@ As your character first enters their love interest's home, take some time to all
 
 Nuclear families? Extended families? Multiple generations? Servants in the household? Unmarried adults with parents?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How much privacy exists within a home?**
 
 Private bedrooms? Shared sleeping spaces? Thin walls? Servants everywhere?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What makes a house a "home"?**
 
 What objects, rituals, or elements make a space feel like home in your culture?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does your protagonist notice when they first enter the love interest's home?**
 
 *A home reveals who someone truly is. What details catch your protagonist's eye — and what do those details tell them?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-## Family Structure & Relationships
-
-Your characters' family is where their identity is formed prior to the story beginning; and also what they will be answering to once the story has begun. Expectations from their parents, siblings and other relatives will have commitments that conflict with those of romantic interests. In romantasy, family often acts as the first and most personal obstacle to finding true love.
-
-A character caught between their feelings for another person and their obligation to their family is making a decision that your readers will relate to on a visceral level. You can show family dynamics through the little things: who speaks first at dinner, who always gives in to whom, whose opinion really matters even if there isn't an established order of authority. Approval from family members (and the lack of it) can speed up or kill a romance, and when a love interest gains the acceptance of a difficult parent, the reader also views this as a victory.
-
-**What's the typical family structure?**
-
-Who heads the household? How are decisions made? What's the hierarchy within a family?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What obligations exist between family members?**
-
-What do children owe parents? What do parents owe children? What about siblings, extended family?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How are children raised?**
-
-Who raises them (parents, extended family, nurses, community)? What are they taught? When do they start working or training?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What happens to orphans, unmarried adults, elderly without children?**
-
-How does the culture handle people outside the typical family structure?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How does family affect your characters' romance?**
-
-*Family is often the first and most personal obstacle to love. Whose approval matters? Who will try to interfere? What power does a parent or elder hold over the match?*
-
-**What is each character's family's stance on the relationship, and what power do they have to interfere?**
 
 *(Write your answer below)*
 
@@ -489,6 +450,75 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
+## Family Structure & Relationships
+
+Your characters' family is where their identity is formed prior to the story beginning; and also what they will be answering to once the story has begun. Expectations from their parents, siblings and other relatives will have commitments that conflict with those of romantic interests. In romantasy, family often acts as the first and most personal obstacle to finding true love.
+
+A character caught between their feelings for another person and their obligation to their family is making a decision that your readers will relate to on a visceral level. You can show family dynamics through the little things: who speaks first at dinner, who always gives in to whom, whose opinion really matters even if there isn't an established order of authority. Approval from family members (and the lack of it) can speed up or kill a romance, and when a love interest gains the acceptance of a difficult parent, the reader also views this as a victory.
+
+**What's the typical family structure?**
+
+Who heads the household? How are decisions made? What's the hierarchy within a family?
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**What obligations exist between family members?**
+
+What do children owe parents? What do parents owe children? What about siblings, extended family?
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**How are children raised?**
+
+Who raises them (parents, extended family, nurses, community)? What are they taught? When do they start working or training?
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**What happens to orphans, unmarried adults, elderly without children?**
+
+How does the culture handle people outside the typical family structure?
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**How does family affect your characters' romance?**
+
+*Family is often the first and most personal obstacle to love. Whose approval matters? Who will try to interfere? What power does a parent or elder hold over the match?*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+---
+
 ## Food & Meals
 
 Food shows culture. The foods we eat, the ways we prepare them, and with whom we eat them can tell you a great deal about values, resources, and social bonds.
@@ -499,9 +529,7 @@ Eating together is one of the most simple ways to develop intimacy. When charact
 
 **What's a typical meal like?**
 
-*Meals are where your characters will share space, reveal habits, and build domestic intimacy. Knowing what people eat and how they eat it gives you the raw material for food scenes that do emotional heavy lifting.*
-
-**Describe the meals in your world: What do people eat for morning, midday, and evening meals, and how do they eat (alone, communally, formally)?**
+*Meals are where your characters will share space, reveal habits, and build domestic intimacy. Knowing what people eat and how they eat it gives you the raw material for food scenes that do emotional heavy lifting. Describe morning, midday, and evening meals, and how they are eaten (alone, communally, formally).*
 
 *(Write your answer below)*
 
@@ -513,65 +541,88 @@ Eating together is one of the most simple ways to develop intimacy. When charact
 
 **What's "special occasion" food vs. everyday food?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What food rules or restrictions exist?**
 
 Religious restrictions? Class-based foods? Regional specialties? Seasonal availability?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's the culture around drinking (alcohol or otherwise)?**
 
 When is drinking appropriate? What's drunk? What are drinking customs?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
----
+&nbsp;
+
+&nbsp;
 
 **What are the rules around shared meals?**
 
 Who can eat together? Who eats first? Who serves? Are there forbidden combinations (class, gender, species)?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What does sharing a meal signify?**
 
 Friendship? Alliance? Courtship? Family acceptance? Sealing a deal?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What foods or drinks have romantic or special meaning?**
 
 Aphrodisiacs, festival foods, courting treats, magical foods:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a meal where something important happens between your characters?**
 
 *Food scenes do emotional heavy lifting — the shared cup, the meal cooked with care, the silence over a table. What's the setting? What's eaten? What happens?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Architecture & Building
 
 The way that people construct buildings can tell us a lot about who they are. A desert palace won't look anything like a northern fortress. No degree in architecture is required to recognise this.
@@ -584,15 +635,17 @@ The way you construct your scenes can also impact the development of those scene
 
 Research real-world architecture that inspires your world. Note distinctive elements like columns, arches, domes, and materials.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What do different types of buildings look like?**
 
-How can your protagonist tell a temple from a tavern at a glance?
-
-**What are the distinctive architectural features of your world's key buildings — palaces, temples, merchant homes, common dwellings, and fortifications?**
+*What are the distinctive architectural features of your world's key buildings — palaces, temples, merchant homes, common dwellings, and fortifications? How can your protagonist tell a temple from a tavern at a glance?*
 
 *(Write your answer below)*
 
@@ -604,9 +657,7 @@ How can your protagonist tell a temple from a tavern at a glance?
 
 **How does a specific building's layout shape a romantic scene?**
 
-*Narrow corridors force proximity. Great halls create distance. Hidden passages give one character power over another. Pick a key setting and map how its layout affects the dynamic between your characters.*
-
-**Describe a specific architectural layout in your story and explain how its physical design affects the romantic dynamic (e.g., hidden alcoves, echoing corridors, shared walls).**
+*Narrow corridors force proximity. Great halls create distance. Hidden passages give one character power over another. Pick a key setting and describe how its physical design affects the romantic dynamic (e.g., hidden alcoves, echoing corridors, shared walls).*
 
 *(Write your answer below)*
 
@@ -628,49 +679,66 @@ Most religions are rooted in the small things: how someone prays before a meal, 
 
 **What role does religion/spirituality play in daily life?**
 
-*These details will determine whether your characters share a spiritual vocabulary or must navigate different faiths — both of which shape the intimacy available to them.*
+*These details will determine whether your characters share a spiritual vocabulary or must navigate different faiths — both of which shape the intimacy available to them. Consider daily prayers or rituals, religious dietary restrictions, and spiritual interpretations of everyday events.*
 
-Daily prayers or rituals? Religious dietary restrictions? Spiritual interpretations of everyday events?
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What life events have religious significance?**
 
 Birth, coming of age, marriage, death — what rituals mark these transitions?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do people interact with religious institutions or figures?**
 
 Priests, temples, shrines — how present are they in ordinary life?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's considered sacred or profane?**
 
 What places, objects, words, or actions carry spiritual weight?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does religion create tension or intimacy between your characters?**
 
 *Do they pray to different gods? Does one character's faith demand something the other can't give? Is there a moment when one character quietly participates in the other's spiritual practice out of respect?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Superstitions & Folk Beliefs
 
 Beyond formal religion, most cultures have their own folk beliefs. These are things everyone knows even though they can't tell you how they know. This little stuff makes a world that feels lived in.
@@ -695,41 +763,60 @@ Use this list for inspiration. Pick a few that fit your world's mood and culture
 
 Lucky/unlucky numbers, colors, animals? Actions that invite bad fortune? Protective gestures or phrases?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What everyday rituals do people perform without thinking?**
 
 Knocking on wood, crossing fingers, small offerings, phrases spoken at certain moments:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What do people believe about dreams, omens, or signs?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What folk remedies or beliefs exist around health, love, or fortune?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does a superstition or folk belief play a role in your characters' relationship?**
 
 *A charm given as a gift, a shared ritual that becomes "their thing," a superstition one character finds endearing in the other — small beliefs can create intimacy.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Manners, Etiquette & Everyday Politeness
 
 Etiquette is an unwritten set of rules that we follow in our daily lives; which person says hello first, when does one stop speaking to allow another to go first. In romantasy, the "rules" of etiquette are a battleground for characters. Each time someone breaks some social rule you see something about where they come from, each deliberate violation is a statement of power and control, and the tension between what politeness requires and what desire demands drives countless charged scenes.
@@ -753,31 +840,41 @@ Etiquette becomes romantic tension as a result of one character watching another
 
 Behaviors that give offense, things that aren't done:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's considered polite or hospitable?**
 
 Offering food/drink to guests? Specific gestures of respect? Customs around visiting someone's home?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do people handle conflict or disagreement?**
 
 Direct confrontation? Indirect communication? Mediation through third parties?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What social mistake does one character make that the other notices?**
 
-*Etiquette violations reveal where someone comes from and create charged moments between characters. What faux pas creates a scene between your protagonists?*
-
-**Describe a moment where one character makes a cultural mistake in the other's world. What is the mistake, who makes it, and how does the other react?**
+*Etiquette violations reveal where someone comes from and create charged moments between characters. Describe a moment where one character makes a cultural mistake in the other's world. What is the mistake, who makes it, and how does the other react?*
 
 *(Write your answer below)*
 

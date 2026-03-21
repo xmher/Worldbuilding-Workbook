@@ -101,9 +101,13 @@ But what matters most for your story isn't the connections in the abstract. It's
 
 (Check against Section 9 — Technology, Section 4 — Economy)
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If magic doesn't affect daily life, why not?**
 
@@ -111,7 +115,13 @@ _______________________________________________________________
 
 Too rare? Expensive? Forbidden? Unreliable? Taboo? Hoarded by elites?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -131,15 +141,25 @@ _______________________________________________________________
 
 Agricultural land, mines, magical resources, trade routes, manufacturing, tribute from conquered peoples?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If in conflict with another power, what are they actually fighting over?**
 
 *Not just "power" — specific resources, territories, economic advantages. The more concrete the stakes, the more a forced political marriage feels like a genuine sacrifice rather than a plot device.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -157,15 +177,25 @@ _______________________________________________________________
 
 (Reference Section 10 — Magic Limits)
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Why hasn't magic solved poverty, disease, war, or death?**
 
 *The answer reveals what's fundamentally broken in your world — and broken systems are where the most powerful romantic stakes live. If magic could fix everything, there'd be nothing worth fighting for.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -185,9 +215,13 @@ _______________________________________________________________
 
 Historical event, environmental pressure, religious revelation, social need, trauma?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -205,13 +239,23 @@ Resources are where geography becomes power. Whoever has control over something 
 
 (Reference Section 4 for how these drive economy)
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where do these resources come from geographically?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who controls access — and how did they get control?**
 
@@ -219,23 +263,35 @@ Conquest, natural borders, treaty, magical ability, historical claim?
 
 (Reference Section 5 for political control, Section 7 for historical claims)
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does resource control create inequality, tension, or power imbalance?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Romantasy Connection:** Does resource scarcity or control affect your characters' relationship?
 
 Does one control something the other needs? Does fighting over resources force proximity? Does an economic alliance require their union?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -259,23 +315,29 @@ When using any magical romantic mechanism, the key craft question is this: **doe
 
 *Readers trust bonds that deepen chemistry the characters have already built. If the bond originates feelings, your characters should question and resist it — choosing love on their own terms.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does the bond raise consent or agency concerns — and how do your characters grapple with that?**
 
 *If magic compels attraction, forces proximity, or reveals private feelings without permission, the characters should acknowledge the tension. The best romantasy doesn't gloss over this.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Which other systems does the magical bond collide with?**
 
 *A bond that's politically inconvenient, culturally taboo, or historically feared creates far richer tension than one that exists in isolation. The more systems your bond touches, the more it costs to accept.*
-
-**Which other worldbuilding systems (politics, culture, religion, history, economy) does your magical bond collide with? For each relevant system, describe how it interacts with the bond and what tension that creates.**
 
 *(Write your answer below)*
 
@@ -297,7 +359,13 @@ Skip if your world has no magic.
 
 Everyone? Bloodlines? Trained individuals? Random selection?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can magic create wealth or resources directly?**
 
@@ -305,9 +373,13 @@ _______________________________________________________________
 
 Conjuring food, transmuting materials, enhanced crops, healing for profit, teleportation for trade?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If magic can create resources, why isn't everyone wealthy?**
 
@@ -315,9 +387,13 @@ _______________________________________________________________
 
 Cost in energy/life, rare components, illegal, inferior products, years of training, limited scale?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What jobs exist because of magic — or were made obsolete by it?**
 
@@ -325,9 +401,13 @@ _______________________________________________________________
 
 (Reference Section 4 for labor and economic structures)
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does magic change the economy of warfare?**
 
@@ -337,17 +417,25 @@ _______________________________________________________________
 
 Are magical soldiers worth more? Do mage-heavy kingdoms dominate? Magical arms race? Black market for magical weapons/services?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Romantasy Connection:** How does the magic economy affect your romance?
 
 Does one profit from magic while the other suffers? Economic inequality between magical and non-magical? Does magical ability determine social class and therefore marriageability?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -371,9 +459,13 @@ Equally important are the taboos. The best taboos have roots that go deep — th
 
 Heredity, military strength, wealth, magical ability, religious authority, democratic process?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If magic exists, do magical users hold power or are they controlled?**
 
@@ -381,39 +473,59 @@ If mages are powerful, why don't they rule everything? If non-mages rule, how do
 
 (This should align with your magic system from Section 10)
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What laws exist specifically because of your world's unique features?**
 
 Laws regulating magic, forbidding inter-species relationships, governing dragon ownership, protecting non-magical citizens, controlling trade in rare resources?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who benefits from these laws? Who is oppressed?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Romantasy Connection:** Which law creates the biggest obstacle for your romance?
 
 Is their relationship illegal, politically inconvenient, or magically dangerous?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If they break this law, what are the specific, concrete consequences?**
 
 Not just "scandal" — actual legal punishment (reference Section 5 for justice system):
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -425,7 +537,13 @@ _______________________________________________________________
 
 Honor, loyalty, freedom, magical power, wealth, lineage, martial prowess, scholarship?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do these values show up in laws and political structure?**
 
@@ -433,9 +551,13 @@ _______________________________________________________________
 
 If honor is valued — dueling laws? If lineage matters — inheritance complications? If magical power is valued — special legal status for mages?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What is taboo or shameful — and why?**
 
@@ -443,25 +565,37 @@ What threatens social order, challenges power, violates religion, connects to hi
 
 (Reference Section 6 for religious taboos, Section 7 for historical sources)
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do taboos connect to practical realities?**
 
 If magic is forbidden — because mages once conquered? If inter-species relationships are taboo — past war created prejudice? If showing emotion is shameful — harsh environment requires stoicism?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Romantasy Connection:** How does your romance violate or challenge cultural values?
 
 Does their relationship represent something the culture fears? Does choosing love mean rejecting cultural identity?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -475,9 +609,13 @@ Poppy's role as the Maiden in *From Blood and Ash* is defined by religious prohi
 
 **Does your world have an organised religion or belief system?** If so, what does it demand of its followers? Vows, rituals, prohibitions, codes of behaviour? Religious demands that touch on love, marriage, desire, or bodily autonomy are where your romance will collide with faith.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does your religion impose restrictions on love, desire, or partnership?**
 

@@ -52,9 +52,13 @@ If you designed bonds or intimate magic in Section 11, this is your reality chec
 
 (Fated mate bond, telepathic link, shared magic, magical contract, curse, soul bond)
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Without this magic, do they still have reasons to interact?**
 
@@ -62,25 +66,37 @@ _______________________________________________________________
 
 In *ACOTAR*, strip away the mating bond and Feyre and Rhysand still share the experience of Under the Mountain, a mutual understanding of trauma, and complementary values. They've got reasons to be in each other's lives that have nothing to do with magic. In *Fourth Wing*, without the dragon bond, Violet and Xaden are still cadets in a brutal military academy with a shared secret about the rebellion. The bond adds a layer, but it isn't the whole foundation.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Without the magic, what would still draw them to each other?**
 
 *Think beyond physical attraction. What personality traits, shared experiences, or values would create a spark even without magical interference? This is the organic chemistry your romance needs underneath the bond.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Describe a scene from your story that would still work with the magic stripped out entirely.**
 
 *If you can picture a specific moment — a conversation, a shared glance, a quiet act of care — that works without any magical enhancement, your organic connection is strong. If you're struggling to find one, magic may be doing too much of the relationship's heavy lifting.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Test 2: Remove the Prophecy/Destiny
 
@@ -92,21 +108,37 @@ You explored the tension between prophecy and choice in Section 6. This test pus
 
 *Name the specific prediction, divine decree, or fated element that touches the relationship. If your story doesn't include prophecy or destiny, skip to Test 3.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Without the prophecy, do they still have reason to be together?**
 
 *Strip the cosmic layer away. Are there personal, emotional, or situational reasons for these two to find each other? If the only answer is "the prophecy says so," the connection needs more foundation.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does prophecy create their connection, or confirm what would happen anyway?**
 
 Best answer: It confirms. They fall in love organically, and prophecy is validation, not cause. In *Twilight*, there's no prophecy at all. Edward and Bella choose each other despite every practical reason not to. His vampirism is a reason to stay apart, not a magical matchmaking mechanism. The danger is an obstacle, not a destiny.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Test 3: Remove the Political Pressure
 
@@ -116,15 +148,25 @@ _______________________________________________________________
 
 *Arranged marriage, treaty alliance, shared military unit, court obligations, hostage situation? Identify the external structure that puts them in each other's path.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Without this force, would they choose to spend time together?**
 
 *Imagine your characters meeting at a tavern with no political stakes. Would they be drawn to each other, or would they walk past without a second glance? The answer reveals how much your romance depends on external pressure versus personal chemistry.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do they develop reasons to want to be together beyond obligation?**
 
@@ -132,7 +174,13 @@ The strongest political romances follow a clear arc: obligation first, then genu
 
 Good answer: They start together because they have to, and stay because they want to.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Test 4: Remove the Dangerous Situation
 
@@ -142,19 +190,37 @@ _______________________________________________________________
 
 *War, quest, survival situation, magical threat, enemy pursuit? Name the specific threat that creates their proximity and forced reliance on each other.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **In peacetime, with no danger, would they still connect?**
 
 *Picture them in a quiet moment with nothing at stake. Do they have things to talk about? Do they enjoy each other's company when no one is trying to kill them? If the answer feels unclear, your romance might need more quiet character moments between the action beats.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is their bond only about survival, or does it include genuine emotional intimacy?**
 
 *Danger bonds are real, but they need more than shared adrenaline to sustain a romance past the threat. If your characters only connect when someone is trying to kill them, the relationship may feel thin once the threat passes. What emotional intimacy exists between the action beats?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -168,9 +234,13 @@ Romance characters with agency have desires independent of a romantic connection
 
 (Concrete goal: escape, master magic, find family, survive, defeat enemy, gain freedom, prove themselves)
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does this goal still matter after they meet the love interest?**
 
@@ -181,7 +251,13 @@ If it still matters: Good. They're a full person with their own life.
 
 In *The Cruel Prince*, Jude wants power and belonging in the faerie world. She wants to be more than a mortal plaything. Meeting Cardan doesn't replace that drive; it complicates it. She's still fighting for her place in Elfhame even as she's falling for him. Her goal and her romance are intertwined, but neither consumes the other. In *Serpent & Dove*, Lou's goal is survival: hiding from her mother, concealing her identity as a witch while living among witch-hunters. Marrying Reid is a strategic choice, not a romantic one. Her goals don't evaporate when the romance develops; they become more complicated because falling for a man who'd kill her if he knew what she was raises the stakes on everything she's already fighting for.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does the romance complicate their goal?**
 
@@ -189,9 +265,13 @@ _______________________________________________________________
 
 Best: Romance and goal conflict, forcing hard choices.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does your protagonist have to choose between their original goal and the relationship?**
 
@@ -199,21 +279,37 @@ _______________________________________________________________
 
 If yes: Good. Meaningful choice demonstrates agency.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does your love interest want that has nothing to do with the protagonist?**
 
 *The love interest needs their own life too. A love interest whose only purpose is loving the protagonist is a prop, not a person. What drives them when the protagonist isn't in the room?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does falling for the protagonist complicate those goals?**
 
 *The same tension should work in both directions. If the protagonist's goals get complicated by the romance but the love interest's don't, only one of them is making real choices.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The "Walking Away" Question
 
@@ -221,13 +317,25 @@ _______________________________________________________________
 
 *Other goals, relationships, purposes that would sustain them? If the answer is "no, they'd have nothing," the relationship isn't a choice. It's a lifeline.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Could your love interest walk away and still have a complete life?**
 
 *Same question, other direction. Both characters need a viable life outside the romance so that choosing to stay actually means something.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 If both answers are "yes," then when they choose to stay, it means something. They're choosing each other over viable alternatives.
 
@@ -243,9 +351,13 @@ There should be a specific moment where your characters actively choose the rela
 
 (Specific scene or decision point)
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does this choice cost them?**
 
@@ -255,21 +367,37 @@ _______________________________________________________________
 
 If the choice costs nothing, it doesn't prove much. The weight of the choice is what makes it matter. In *ACOMAF*, Feyre choosing to return to the Spring Court to spy for Rhysand costs her safety, comfort, and honesty with the man she's falling for. It's a choice that proves she's acting with agency, not being swept along.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **When does your love interest actively choose the protagonist?**
 
 *The love interest needs a choice moment too. If only the protagonist actively chooses, the love interest is a destination, not a partner. Describe their specific scene or turning point.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does this choice cost them?**
 
 *What do they sacrifice, risk, or give up? The cost should be proportional to their power. A High Lord risking his court for a mortal carries different weight than a mortal risking her life for a High Lord, but both need to lose something real.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The "Defying the World" Moment
 
@@ -279,21 +407,37 @@ _______________________________________________________________
 
 (Reference Section 16 — which system creates the biggest obstacle)
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a moment where your character defies this force to be with their love interest?**
 
 *Describe the scene. Defiance can be loud (public declaration, breaking a law) or quiet (a whispered name, a secret meeting, a refused order). What matters is that the character acts against the world's rules for the sake of the relationship.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What do they risk in this defiance?**
 
 *Exile, execution, loss of magic, family rejection, war? The risk is what gives the defiance its weight. If defiance is cost-free, the worldbuilding obstacle wasn't real.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 This defiance is proof of agency. It's your character making their own choice against the world's rules.
 
@@ -311,9 +455,13 @@ This is especially important with tropes like fated mates and magical bonds. Whe
 
 If they never think about other options, readers may not believe they had any. Even a brief internal moment where the character acknowledges they could walk away, could choose someone safer, could live without this person, and then chooses anyway, gives readers evidence of agency.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do characters articulate their choice?**
 
@@ -321,9 +469,13 @@ _______________________________________________________________
 
 *Check your manuscript or notes for phrases like "I can't help it," "I can't resist," "something about him made her..." or "she couldn't stay away." These are compulsion markers. If you find any in key romantic moments, can you rewrite them as active choices?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a moment where they could leave but visibly don't?**
 
@@ -331,9 +483,13 @@ _______________________________________________________________
 
 Showing the open door they don't walk through is one of the most effective ways to demonstrate agency on the page. In *The Cruel Prince*, Jude has multiple opportunities to leave Elfhame. She could return to the mortal world, where she'd be safe. Every time she stays, she's choosing the dangerous, painful, complicated path, and readers know it because they've seen the alternative sitting right there.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do other characters acknowledge that they had a choice?**
 
@@ -341,7 +497,13 @@ _______________________________________________________________
 
 Someone saying "you could have walked away" or "you didn't have to do this" confirms agency existed:
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is the cost of their choice visible on the page?**
 
@@ -349,9 +511,13 @@ _______________________________________________________________
 
 If choosing each other costs something, show what they lose or give up:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Writing Choice on the Page: Craft Techniques
 
@@ -387,29 +553,37 @@ Same bond. Same pull. But now the character is the one holding the verbs: she gr
 
 *Example: The bond surged through her, pulling her toward him. She was helpless against the intensity. Before she could think, she was in his arms.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Now rewrite the same moment with your character as the subject, holding the verbs (active version):**
 
 *Example: The bond flared hot in her chest. She planted her feet and waited for the fog to clear. Then she looked at him — really looked — and stepped forward because she wanted to, not because the magic told her to.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What changed?**
 
 *Compare your two versions. In the passive version, who or what is driving the scene? In the active version, who is? Identify the specific verbs that shifted from the bond/magic to your character. This is the muscle you'll use in every romantic scene you write.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Audit Your Draft for Compulsion Language
 
@@ -417,21 +591,33 @@ _______________________________________________________________
 
 **Filter words** (felt drawn to, was pulled toward, couldn't resist, something about him made her):
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Missing deliberation** (character jumps from trigger to action with no internal weighing):
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Bond as subject** (the bond pulled, the magic surged, the connection overwhelmed — paragraphs where the bond drives the action and the character doesn't respond):
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Revise Your Choice Moment
 
@@ -439,31 +625,47 @@ _______________________________________________________________
 
 **The catalyst:** What forces the decision right now? What makes the character unable to keep drifting?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **The deliberation:** What alternatives does your character weigh? What's the easier path they could take? What do they stand to lose by choosing the love interest?
 
 *This is where agency becomes visible. Even two or three sentences of internal weighing transforms a passive acceptance into an active choice.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **The commitment:** What action seals the choice? Not just an internal feeling, but something they do, say, or physically enact.
 
 *The best commitment moments are specific and visceral: handing someone a bowl of soup, stepping across a threshold, speaking a name they're not supposed to say, staying when the door is open.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **The lamp test:** In the scene you've just sketched, could you replace your protagonist with an inanimate object and have it play out the same way? If yes, add more deliberation or resistance.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -481,21 +683,37 @@ You designed your bond mechanics in Section 11. Now it's time to test them for c
 
 In *Fourth Wing*, neither Violet nor Xaden chose the telepathic link that formed through their dragons. The bond happened *to* them. What makes it work is that the story never pretends this is the same as choosing each other. The bond gives them access; trust has to be earned separately, and it's earned slowly, painfully, through choices that have nothing to do with magic.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If the bond formed without consent, can they reject it? What would rejection look like?**
 
 *This isn't just "can they say no?" but what happens if they do. The consequences of rejection define how much agency your characters actually have. A bond that can't be rejected at all is very different from one that can be rejected at cost.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would happen if they tried to reject it?**
 
 Nothing? Discomfort? Death? Loss of magic? Pain?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Consent Spectrum
 
@@ -511,7 +729,13 @@ _______________________________________________________________
 
 **Where does your bond fall?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If low agency, how do you preserve choice within it?**
 
@@ -519,9 +743,13 @@ _______________________________________________________________
 
 Even at the "low agency" end, good romantasy finds space for choice. The bond might be unbreakable, but how they respond to it is still theirs. Do they resent it? Embrace it? Test its limits? Build something meaningful within the constraint? The relationship within the bond is where agency lives.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -556,9 +784,13 @@ Power imbalances are simply a part of the romantic genre, and can create some of
 
 The best power-imbalanced romances don't stay static. The dynamic should shift, complicate, even reverse over the course of the story. If the powerful character starts on top and stays there, the less powerful character's agency is going to be in question.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The "Can They Say No?" Test
 
@@ -568,19 +800,25 @@ _______________________________________________________________
 
 This is non-negotiable. If there isn't a single moment in your story where the less powerful character refuses something and the more powerful character respects that refusal, you've got a consent problem, not a power dynamic.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If the love interest has pressured or forced the protagonist, how does the story address this?**
 
 *Is it acknowledged as wrong? Are there consequences? Must they earn back trust? Or is it romanticised as "passionate"? How your story handles these moments tells readers what it believes about love and power.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Captivity Scenario
 
@@ -590,7 +828,13 @@ _______________________________________________________________
 
 (Prisoner, hostage, magically trapped, indentured)
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If yes, how do you maintain agency within captivity?**
 
@@ -600,9 +844,13 @@ _______________________________________________________________
 
 In *From Blood and Ash*, Casteel kidnaps Poppy. The story works (for readers who enjoy it) because Poppy never stops fighting. She doesn't become passive. Her captivity is acknowledged as wrong within the narrative, and she maintains her own will, her own goals, and her own sharp tongue throughout. She isn't tamed by captivity; she's sharpened by it. When she eventually chooses Casteel, readers believe it because they've watched her resist, question, and decide on her own terms.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **When does the captive gain ability to leave, and what do they choose?**
 
@@ -610,9 +858,13 @@ _______________________________________________________________
 
 If they never gain this ability, the romance is fundamentally non-consensual.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -637,9 +889,13 @@ In addition to whatever magical or political pressures exist, you'll also need t
 
 *Pick one answer from the table above. Describe a specific scene where the reader gets to see this — not told in narration, but demonstrated through action, dialogue, or a revealing moment.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 Much of the time, this is the core of a romantasy romance. To everyone else, your High Lord is a monster, the enemy, the prince. But your protagonist sees someone beneath that label, and is seen in return. This shared view, beyond titles and reputations, is what creates an inevitability to "why these two?"
 
@@ -655,7 +911,13 @@ There must be viable alternatives to make the choice meaningful. Simply because 
 
 (Another character, choosing to be alone, a safer/easier relationship)
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Why do they reject this alternative?**
 
@@ -663,25 +925,49 @@ _______________________________________________________________
 
 (Must be a character-driven reason, not just "the bond says so")
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What other option exists for your love interest?**
 
 *Same question from the other side. Could they choose someone easier, less complicated, more politically convenient? What's the path of least resistance they're rejecting?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Why do they reject it?**
 
 *Again, character-driven. What does the protagonist offer that no easier option can match? What need does the protagonist fulfil that a simpler choice wouldn't?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there an easier, safer option than being together?**
 
 If yes: Good. Choosing the harder path demonstrates agency and commitment.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -693,27 +979,37 @@ Ultimately, the final decision should be made actively by the characters, rather
 
 *Describe the specific decision one or both characters make in the final act that seals their commitment. Not just "the villain is defeated and now they're together" but an active choice. If the ending feels granted (the curse just lifted, the prophecy completed itself, the villain conveniently died) rather than earned, look for a place to insert a final choice — even if external forces resolve the plot, the relationship resolution should come from the characters themselves.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **If the characters had chosen differently, how would the ending change?**
 
 *Describe the alternate ending that was possible. If you can't imagine a different outcome regardless of their choices, they didn't have meaningful agency in the resolution.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does this final choice cost them, and how do readers see it?**
 
 *The cost is what makes the earned ending feel earned. What do they sacrifice, risk, or give up in this final moment? If the cost happens offscreen or is never mentioned again, it doesn't register as real.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -729,15 +1025,25 @@ While some worlds offer greater freedom than others, that doesn't mean there's a
 
 *This establishes the baseline. In a world where everyone chooses their own partner, a love match isn't rebellious. In a world where marriages are arranged by family elders, choosing your own partner is revolution.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is having any choice at all radical in your setting?**
 
 In highly controlled societies, small acts of choice carry enormous weight. In *From Blood and Ash*, Poppy removing her veil is a radical act in a world where the Maiden must remain unseen. It's a tiny gesture by our standards, but it's an assertion of selfhood in a world designed to erase it.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does choosing each other mean within your world's context?**
 
@@ -745,9 +1051,13 @@ _______________________________________________________________
 
 In some worlds, refusing an arranged marriage is revolutionary. In others, it's ordinary.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are your characters' acts of agency appropriately weighted for your world?**
 
@@ -755,7 +1065,13 @@ _______________________________________________________________
 
 Small choices in oppressive worlds can be as powerful as dramatic choices in free ones.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Do readers from our world need context to understand why their choices matter?**
 
@@ -763,17 +1079,25 @@ _______________________________________________________________
 
 If choice is rare in your world, make sure readers understand what choosing costs. You can't assume they'll automatically grasp the weight of a small rebellion unless you've shown them what the consequences look like for people who defy the system.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who in your world has defied the system before your protagonist, and what happened to them?**
 
 *This is how you show readers the stakes. A character who chose their own partner and was exiled, a couple who defied tradition and were separated, a rebel who was executed — these precedents tell readers what your protagonist is risking before they risk it. Name the example your story will use.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -793,21 +1117,37 @@ Your romantic bond will fall somewhere along this spectrum:
 
 *Knowing your position helps you calibrate how much agency work your story needs. Full compulsion requires the most; choice within fate requires moderate work; fate as conflict builds agency into the premise.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Which does your target reader want?**
 
 Some readers may enjoy the idea of a "safe harbour," the sense of knowing that this person belongs to them permanently and irrevocably. Other readers are looking for the "defiant stand" of agency: a heroine who gets her love through her own choices, rather than the choices of fate. Ultimately, most readers would like to see both elements, which is why the middle of the spectrum tends to be the most popular. Understand your audience and you can then develop your worldbuilding around their desires.
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Look back at your answers in the Removal Tests. Given where your bond sits on the spectrum, which test result concerns you most?**
 
 *A "full compulsion" bond needs exceptionally strong non-magical reasons for the relationship (Test 1). A "choice within fate" bond needs a clear acceptance moment. A "fate as conflict" bond needs visible resistance. Which of your earlier answers feels weakest given your spectrum position?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Your Agency Action Plan**
 
@@ -835,17 +1175,25 @@ In *Zodiac Academy*, the "Divine Moment" is accepted as an active decision by ea
 
 *If yes, describe it. If no, consider creating one. An acceptance ritual is one of the simplest, most effective ways to add a visible moment of choice to a fated bond.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does this action require conscious choice?**
 
 If the bond simply snaps into place with no input from the characters, look for a way to add a moment of acceptance. Even a small one, like a spoken vow, an offered hand, or a deliberate step forward, gives the characters (and the readers) a visible moment of choice.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -893,25 +1241,37 @@ If your removal tests or checklist revealed problems, here's where to fix them. 
 
 (Magical bond / Prophecy / Political pressure / Power imbalance / Dangerous situation / More than one)
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What specific change will you make to strengthen agency?**
 
 *Be concrete. Not "I'll add more choice" but "I'll add a scene in Chapter 12 where she has the chance to leave and chooses to stay because..."*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How will this change affect the romantic arc?**
 
 *Agency repairs often strengthen the romance rather than weakening it. Describe how giving your character more choice will make the eventual commitment more meaningful.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -969,31 +1329,73 @@ For strong character agency, you should be able to check most of these:
 
 **The bond/pressure that brings them together:**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Why they'd choose each other without it:**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **The moment protagonist actively chooses:**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **The moment love interest actively chooses:**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What each choice costs:**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **The alternative they reject:**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How power imbalance is addressed:**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

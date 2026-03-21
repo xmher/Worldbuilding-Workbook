@@ -475,7 +475,13 @@ Guilds controlling who can sell what? Import/export restrictions? Illegal goods?
 
 *The scale of money matters most when readers can feel the difference between your characters. If a night at an inn costs 5 coppers and your protagonist earns 3 coppers a day, the reader instantly understands what it means when the love interest drops a gold crown without thinking. What specific price point makes the gap visceral?*
 
-> *(Your response here)*
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -609,8 +615,6 @@ Food, water, shelter, fuel, medicine — what do people need to live?
 
 &nbsp;
 
-**What resources are scarce or valuable?**
-
 **What is the most valuable resource in your world? Why is it valuable, and who controls it?**
 
 *(Write your answer below)*
@@ -687,10 +691,6 @@ In an agrarian society, most people farm. In a trade economy, many are merchants
 &nbsp;
 
 &nbsp;
-
-**What occupations exist in your world?**
-
-List occupations that appear or matter in your story:
 
 **Describe 2-3 key occupations in your world. For each, what do they do, what is their social status, and who typically does this work?**
 
@@ -861,8 +861,9 @@ Does one depend on the other? Is there resentment? Does the wealthy one use mone
 
 &nbsp;
 
-**How do they each feel about the gap?**
-Shame? Guilt? Obliviousness? Resentment? These feelings may never be spoken aloud, but they shape every interaction.
+#### How do they each feel about the gap?
+
+*Shame? Guilt? Obliviousness? Resentment? These feelings may never be spoken aloud, but they shape every interaction.*
 
 **How does each character feel about the wealth gap between them, and how do they show it (or hide it)?**
 
@@ -1020,6 +1021,14 @@ Does she submit to it, subvert it, or use it as a tool for her own goals? The an
 **What does the contract force them to do that they wouldn't choose freely?**
 Forced proximity only creates tension if it's genuinely forced. What specific obligation does the contract impose: living together, appearing in public as a couple, physical contact, sharing information?
 
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 **At what moment does the contract stop being the reason they stay?**
 This is the romantic turning point. The obligation hasn't changed, but the motivation has. When does "I have to be here" become "I want to be here"? How does each character recognise that shift, in themselves or in the other?
 
@@ -1034,8 +1043,6 @@ This is the romantic turning point. The obligation hasn't changed, but the motiv
 &nbsp;
 
 ### Inheritance & Economic Marriage
-
-**What does each character stand to inherit?**
 
 **What does each character stand to inherit — or what have they been denied?**
 
@@ -1459,10 +1466,9 @@ Make the sacrifice concrete and visible. Not just "gave up the inheritance" but:
 
 In *Bridgerton*, the tension between love and advantageous marriage runs through nearly every storyline. Characters face the choice between a match that secures their family's future and a match that makes them happy, and the consequences of choosing wrong are real. Financial ruin, social exile, a family left unprotected. That's what makes the sacrifice land: it costs something concrete, and the cost doesn't disappear after the wedding.
 
-**What economic security does each character sacrifice to be together?**
-What inheritance, income, protection, or opportunity do they lose by choosing each other? The sacrifice should cost enough to prove the love is real.
-
 **What does each character sacrifice economically to be together?**
+
+*What inheritance, income, protection, or opportunity do they lose by choosing each other? The sacrifice should cost enough to prove the love is real.*
 
 *(Write your answer below)*
 

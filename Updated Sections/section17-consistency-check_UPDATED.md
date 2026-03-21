@@ -88,13 +88,45 @@ Check if you've done any of these:
 
 ### Fixing Vibes-Over-Logic Problems
 
-**Issue:** _____________________________________________________
+**Issue:**
 
-**Which fix:** __________________________________________________
+*(Write your answer below)*
 
-**Issue:** _____________________________________________________
+&nbsp;
 
-**Which fix:** __________________________________________________
+&nbsp;
+
+&nbsp;
+
+**Which fix:**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**Issue:**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**Which fix:**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -123,9 +155,13 @@ You've already developed your magic system with sources, costs, limitations, and
 
 **For any rule marked "No":** Was there an in-world explanation for the exception, or did you just need it to work differently?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 *If the answer is "I just needed it to work differently," you've got a consistency problem. Jump to the Fixing Consistency Problems section at the end of this part.*
 
@@ -148,9 +184,13 @@ Political rules create some of the most powerful obstacles in romance. But they'
 
 If yes: did they face the stated consequences? If not, will readers accept the reason they didn't?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Social and Cultural Rules
 
@@ -171,7 +211,13 @@ Cultural rules work differently from legal ones. No one arrests you for breaking
 
 *Who in your world would notice the transgression, even if they don't act on it immediately? A servant, a rival, a parent, a religious figure?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Physical and Environmental Rules
 
@@ -194,9 +240,13 @@ Your geography section defined distances, travel times, and environmental danger
 
 *If a journey that took weeks in chapter two takes days in chapter fifteen, you need a reason. New transportation? A shortcut that carries risk? Desperation overriding safety? Name the limitation and what changed.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 *Physical inconsistencies are among the easiest for readers to spot. If it takes three weeks to travel between cities in chapter two, it should still take three weeks in chapter twenty. Unless something has genuinely changed: new route, magical transportation, extreme urgency forcing dangerous shortcuts.*
 
@@ -218,9 +268,13 @@ Religious obstacles carry a specific weight because they're tied to identity, no
 
 *A vow that feels absolute in chapter one but gets waved away in chapter fifteen is a broken promise. If the obstacle lessens, there should be a story reason for it: a crisis of faith, a doctrinal revelation, a divine intervention that changes the rules.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -254,9 +308,13 @@ Pick a key romantic scene, one where the characters are together in a way that y
 
 **Describe the scene:**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Apply your rules:**
 
@@ -279,19 +337,35 @@ For the same scene:
 
 *Be specific. Not "it would be bad" but the actual consequence: imprisonment, forced separation, public shaming, magical punishment, death. The more concrete the consequence, the more tension the scene carries.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who would catch them, and why haven't they?**
 
 *Name the specific character or group. A guard, a rival, a parent, a magical ward. Then explain why that person or system hasn't intervened yet.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 *Is there a good in-world reason they don't get caught? A lookout, a shift change, concealment magic, a distraction, an ally covering for them? Or are you just protecting them?*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 
 If you're protecting them, then provide a valid reason as to why, established before the scene and not invented in the moment. Alternatively, let them get caught and deal with the fallout. It can create better storytelling if they're caught versus if they successfully avoid detection.
@@ -300,15 +374,23 @@ If you're protecting them, then provide a valid reason as to why, established be
 
 **List your protagonist's key abilities:**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **List your love interest's key abilities:**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **For each major scene of conflict or tension, check:**
 

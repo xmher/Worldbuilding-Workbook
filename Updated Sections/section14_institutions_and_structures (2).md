@@ -27,21 +27,33 @@ This is the grip. The institution's rules become the grammar of the love story. 
 
 The way they communicate feelings (coded, stolen, indirect):
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 The way they find physical closeness (what excuse the institution gives them):
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 The way institutional rules become the "grammar" of their relationship:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -66,9 +78,15 @@ Institutions come in many forms. Some stories use a single institution; others c
 
 *Example: A military academy combines military structure with an educational setting. A temple that trains warrior-priests combines religious and military. A royal court with magical rankings combines court politics with magical hierarchy.*
 
-Your hybrid: _______________________________________________________________
+Your hybrid:
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ## A Note Before You Begin
 
@@ -98,17 +116,25 @@ You don't necessarily need your institution to develop into its "default" trope.
 
 **Which trope(s) is your institution pushing toward?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are you leaning into that, or deliberately subverting it? If subverting, what are you replacing it with?**
 
 *There's nothing wrong with working against the grain, but make sure you're doing it on purpose and replacing the lost tension with something equally strong.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -150,27 +176,47 @@ The best academy settings don't just teach; they threaten. If your characters co
 
 Magical training, military school, assassin academy, scholarly institution, religious education, craft guild school?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What makes your academy dangerous or high-stakes?**
 
 Deadly trials? Brutal competition? Magical dangers? Political intrigue? Secrets that could kill?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How long do students stay?**
 
 *The length of time at the academy determines how much pressure builds. A single semester creates urgency; years create slow burn. The duration also affects how deeply the institution shapes your characters' identities.*
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can students leave? What happens if they try to quit?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Ranking System
 
@@ -178,9 +224,13 @@ _______________________________________________________________
 
 Physical prowess, magical power, test scores, combat victories, political connections, instructor favour?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What do top-ranked students get? What happens to those at the bottom?**
 
@@ -190,8 +240,6 @@ _______________________________________________________________
 | --- | --- | --- |
 | *First year* | *Basic magic training, no outside contact, shared dormitories with four to a room* | *No privacy; every interaction is witnessed by roommates* |
 | *Inner Circle (fourth-year)* | *Private chambers, direct access to the Archmage* | *Private space exists but is earned; the gap between ranks creates longing and barriers* |
-
-**Your academy's ranking structure:**
 
 **In your academy's ranking system, what do those at the top get and what happens to those at the bottom? Where does your protagonist sit in the hierarchy, and where does your love interest sit? How does the gap between them create tension?**
 
@@ -207,49 +255,81 @@ _______________________________________________________________
 
 Competing for the same spot? One at top, one struggling? Must choose between winning and helping each other? Assigned as partners despite rivalry?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Living Arrangements
 
 **Where do students sleep? How much privacy exists?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What daily routines force interaction?**
 
 Communal meals, training, shared bathing, curfews, inspections, study groups?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What rules govern relationships between students?**
 
 Forbidden entirely? Forbidden between certain ranks? Allowed but discouraged? Punishable how?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Authority & Mentorship
 
 **Who runs the academy? What power do instructors have over students?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a mentor figure who might help or hinder the relationship?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would happen if an instructor discovered the relationship?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -263,9 +343,13 @@ The danger doesn't have to be physical. Social ruin can be just as devastating i
 
 Political assassination, social ruin, blackmail, magical surveillance, loss of favour, imprisonment?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who watches everyone, and why?**
 
@@ -273,19 +357,27 @@ _______________________________________________________________
 
 Spies, rivals, servants who report, magical surveillance, gossips?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would happen if they were seen together inappropriately?**
 
 What defines "inappropriate" in your court? Private conversation? Touching? Being alone? Dancing too often?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Court Hierarchy
-
-**Where does each character rank in the court hierarchy?**
 
 *(Reference Section 5 for class structures)*
 
@@ -301,13 +393,23 @@ _______________________________________________________________
 
 **What spaces can each access? Where would they naturally encounter each other?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where could they have a truly private conversation?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Court Customs
 
@@ -315,35 +417,57 @@ _______________________________________________________________
 
 *(Reference Section 3 for cultural customs)* Dances, ceremonies, negotiations, festivals, religious observances, political marriages?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How could they use customs to steal intimacy while appearing to follow rules?**
 
 The dance that allows touch, the ceremony that requires standing close, the negotiation that puts them in the same room.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Factions & Reputation
 
 **What factions exist? Which side is each character on?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would each lose if the relationship became public?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is the threat of exposure used against them?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -357,7 +481,13 @@ War is an accelerator for everything. When you're facing death, all pretences fa
 
 **What conflict is your world engaged in?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How imminent is the danger?**
 
@@ -365,15 +495,25 @@ _______________________________________________________________
 
 Cold war (tension, espionage) or active combat (battles, sieges)?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does "we might die tomorrow" actually mean for them?**
 
 Is death a real possibility they face? How does this urgency affect what they're willing to say or do?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Military Structure
 
@@ -397,11 +537,23 @@ Soldier, commander, medic, strategist, prisoner, spy, conscript, mercenary, supp
 
 Forbidden between officers and enlisted? Required to report relationships? Subject to reassignment?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What if their relationship interfered with the mission?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Forced Proximity in War
 
@@ -409,17 +561,33 @@ _______________________________________________________________
 
 Barracks, tents, ships, field camps; what privacy exists?
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What situation forces them to rely on each other for survival?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What injury might one tend for the other?**
 
-_______________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Opposite Sides
 

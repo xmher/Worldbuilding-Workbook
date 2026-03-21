@@ -559,17 +559,25 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
 
 *The details a character falling in love would notice. What would make someone homesick for this place?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### What's harsh or uncomfortable about this place?
 
 *What do people endure or complain about? What takes getting used to?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 ## Climate, Weather & Seasons
@@ -582,29 +590,33 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
 
 ---
 
-## Climate, Weather & Seasons
-
 #### What's the overall climate?
 
 *Climate shapes daily life, which shapes your characters' interactions. Tropical heat, bitter cold, endless rain — each creates different physical problems that your characters may need to solve together.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### What seasons exist and how distinct are they?
 
 *Traditional four seasons? A long winter and brief summer? Magical seasons tied to something other than the sun?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### What season is your story set in?
 
-*Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent?*
-
-**Pick the most story-relevant season in your world. What does this season make possible, and what does it make impossible?**
+*Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent? What does it make impossible?*
 
 *(Write your answer below)*
 
@@ -616,9 +628,7 @@ _______________________________________________________________
 
 #### How do seasons affect life in your world?
 
-*When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors?*
-
-**For each season (summer/warm, winter/cold, transitional), what becomes possible and what becomes impossible in your world?**
+*When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors? For each season (summer/warm, winter/cold, transitional), what becomes possible and what becomes impossible?*
 
 *(Write your answer below)*
 
@@ -632,11 +642,16 @@ _______________________________________________________________
 
 *Racing against winter? Waiting for spring thaw? Only able to travel in summer?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
+
 ## Dangerous Regions
 
 Every world has places that are deadly, and therefore avoided, or crossed only with preparation and company. Dangerous regions serve romance by raising stakes and forcing partnership. When two characters find themselves needing to travel across hostile territory together, survival becomes the only priority, and the walls people maintain in civilised settings collapse fast.
@@ -647,13 +662,9 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
 
 ---
 
-## Dangerous Regions
-
 #### What regions are dangerous or forbidden?
 
 *Every world has places people warn you not to go. What makes them deadly? What would force your characters there anyway?*
-
-**Describe the most dangerous region in your world. What makes it dangerous, and who goes there anyway (and why)?**
 
 *(Write your answer below)*
 
@@ -665,9 +676,7 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
 
 #### Do your characters travel through dangerous territory?
 
-*Shared danger bonds people fast. What threats would force them to rely on each other?*
-
-**Plan a dangerous journey for your characters. Where do they go and why? What dangers do they face? What damage does the environment cause? What forces them to rely on each other, and what changes between them after surviving it?**
+*Shared danger bonds people fast. What threats would force them to rely on each other? Where do they go and why? What dangers do they face? What damage does the environment cause? What forces them to rely on each other, and what changes between them after surviving it?*
 
 *(Write your answer below)*
 
@@ -678,6 +687,7 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
 &nbsp;
 
 ---
+
 ## Borders & Boundaries
 
 Borders convert geographic areas to identities. When a mountain range or river is defined as the "line" that separates two groups of people, the people on either side begin to define themselves relative to one another. The creation of a border creates cultural assumptions, political tension, and a kind of deep-seated distrust that leads to cross-border romance feeling like something that is strictly prohibited, as opposed to merely inconvenient.
@@ -688,29 +698,33 @@ Also consider the cost of crossing a border for each character. Is crossing cons
 
 ---
 
-## Borders & Boundaries
-
 #### What geographic features create borders?
 
 *Mountains, rivers, and oceans don't just separate land — they separate peoples, and the assumptions each side makes about the other. The feature you choose shapes how crossable the border feels.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### How permeable are these borders?
 
 *A border that's easy to cross creates a different kind of forbidden love than one that's physically impassable. The harder the crossing, the more it costs — and the more that cost means when someone pays it.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Do your characters come from opposite sides of a significant border?
 
-*Borders create "us" and "them." What assumptions would each character have about someone from the other side?*
-
-**What geographic or political border separates your characters? What does crossing it mean (legally, socially, personally), and is there any in-between space where they can meet?**
+*Borders create "us" and "them." What assumptions would each character have about someone from the other side? What does crossing it mean (legally, socially, personally), and is there any in-between space where they can meet?*
 
 *(Write your answer below)*
 
@@ -722,9 +736,7 @@ _______________________________________________________________
 
 #### What assumptions does each character carry about the other side?
 
-*The strongest borders are internal. What does each character believe — casually, without thinking — about people from their love interest's side? And what moment first cracks that assumption?*
-
-**What does your protagonist assume about the love interest's people — and what moment shatters that assumption? What does the love interest assume about the protagonist's people, and when does that break?**
+*The strongest borders are internal. What does each character believe — casually, without thinking — about people from their love interest's side? What moment shatters that assumption? And what does the love interest assume about the protagonist's people, and when does that break?*
 
 *(Write your answer below)*
 
@@ -735,6 +747,7 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
 ## Home & Belonging
 
 One of the most emotionally charged concepts of love is "Home". The characters may have to travel to find love, may choose between the love they want to have and the comfort of "Home", may learn that "Home" is wherever the other person is, or may discover that choosing this person means exile from everything familiar.
@@ -747,31 +760,41 @@ This idea is central to the entire arc of the ACOTAR series. The Spring Court is
 
 ---
 
-## Home & Belonging
-
 #### Where does your protagonist feel at home?
 
 *The place that shaped them, where they feel most themselves:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### What does home look, smell, sound like to them?
 
 *The sensory details that mean "home":*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Where does your love interest feel at home?
 
 *The place that shaped them, where they're most themselves. How different is it from your protagonist's home?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #### Where does each character feel like an outsider?
 

@@ -110,9 +110,13 @@ The linguistic landscape of your world determines what's possible between your c
 **How many languages exist in your world?**
 One universal language? Many regional languages? Hundreds of dialects? The answer shapes how easily your characters can connect.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What are the major languages?**
 Think about who speaks each language, its cultural prestige, and whether knowing it grants access or marks someone as an outsider.
@@ -127,16 +131,24 @@ Think about who speaks each language, its cultural prestige, and whether knowing
 **Is there a common/trade language most people speak?**
 What does using this language signal about a speaker? Does your protagonist rely on it or resist it?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Are there trade pidgins or mixed languages?**
 Languages that developed from contact between groups often carry stories of conquest, trade, or migration in their vocabulary. A character who speaks a pidgin language might be marked as someone who lives between worlds, which is its own kind of romantic identity.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Multilingual Spaces
 
@@ -201,17 +213,19 @@ If not, how do they communicate initially? Gestures? A shared third language? Ma
 **Who learns whose language?**
 This is a power question as much as a practical one. Does one teach the other? Do they meet in the middle? Does the love interest learn the protagonist's "lesser" language as an act of respect?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
 ## Translators & Interpreters
 
 When characters need translation, a third party enters their most intimate space. Someone else hears every word, controls meaning, and stands between two people trying to reach each other. That's vulnerability and story opportunity in one.
-
-**Do your characters ever need a translator?**
 
 **If your characters need a translator or intermediary, who fills that role and how trustworthy are they?**
 
@@ -226,23 +240,35 @@ When characters need translation, a third party enters their most intimate space
 **What can't be said through a translator?**
 What's too private, too dangerous, or too intimate to say through a third party? The things they can't say with someone listening become the things they long to say alone.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **When can they finally communicate without help?**
 What changes when the translator is no longer needed? This is often a turning point: the first time they're truly alone in conversation.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Does the translator have their own agenda?**
 Could they mistranslate? Report what they hear? Manipulate the relationship? A translator with their own motives adds a layer of tension to every exchange.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -253,9 +279,13 @@ Teaching someone your language is one of the most intimate things you can do. Yo
 **What does teaching or learning language reveal about them?**
 Patience? Intelligence? Cultural values? Playfulness? Frustration? How someone teaches, and how someone learns, reveals character as clearly as any action scene.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Protagonist's First Word
 
@@ -288,9 +318,13 @@ What does their choice to learn this particular word reveal about what they noti
 **When can they first have a real conversation?**
 What changes when they can finally understand each other fully, when the bridge is built enough to carry the weight of real meaning?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -343,9 +377,13 @@ Pick a word or phrase from the love interest's language that will become signifi
 **How does the full meaning of this word change the relationship?**
 *The best staged comprehension moments don't just deliver a translation — they reframe everything the character thought they understood. The word hasn't changed; the character has.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### The Universal Translator Trap
 
@@ -422,16 +460,24 @@ Think beyond pitch. Consider texture, rhythm, what emotions colour their speech,
 **When does voice convey more than words?**
 The catch in their throat? The softening when they say the other's name? The way their voice changes when angry, aroused, afraid?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a moment when one recognises the other by voice alone?**
 In darkness, across a room, through a door:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Accents, Dialects & Class Markers
 
@@ -482,9 +528,13 @@ How does their speech mark them in your world, and what does the protagonist not
 **When does one character hear the other's "real" voice?**
 When the careful accent slips, when they speak unguarded:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -494,10 +544,8 @@ The most significant form of communication is sometimes what isn't communicated.
 
 ### What Goes Unsaid
 
-**What do your characters not say to each other?**
-What truths are they avoiding? What feelings go unexpressed?
-
 **What does your protagonist never say to the love interest? What does the love interest never say to the protagonist?**
+*What truths are they avoiding? What feelings go unexpressed?*
 
 *(Write your answer below)*
 
@@ -510,16 +558,24 @@ What truths are they avoiding? What feelings go unexpressed?
 **Why don't they say it?**
 Fear? Pride? Protection? Timing? Not having the words?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does their silence communicate?**
 Can the other person feel what's not being said?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does silence mean between your characters?**
 *Comfortable silence signals safety. Tense silence signals unspoken desire or unresolved conflict. Both are scenes worth writing.*
@@ -535,9 +591,13 @@ In *Twilight*, Bella's mind is the only one Edward can't read, and that silence 
 **When does the unsaid finally get said?**
 The moment when they finally speak the truth they've been holding:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Lying & Evasion
 
@@ -545,10 +605,8 @@ Everyone lies in their own way, and in romance, how someone lies reveals as much
 
 In *The Cruel Prince*, the Fae can't technically lie, therefore Cardan learns to use truth as a tool of war. When he tells Jude he thinks of her "often" and finds it "disgusting," every word is technically honest, but the way he frames those words disguises his vulnerability from being exposed in his hostility. Casteel's complete deception in *From Blood and Ash* is that he creates an entirely new identity as "Hawke" to get close to Poppy. The romance isn't ruined by the lie. It's complicated by the fact that all of the feelings he had were genuine, even though he was lying about who he claimed to be.
 
-**How does each character lie?**
-Deflection, omission, confident falsehood, nervous tells:
-
 **How does your protagonist lie (omission, misdirection, performance, blunt falsehood)? How does your love interest lie?**
+*Deflection, omission, confident falsehood, nervous tells — how they lie reveals as much as how they love.*
 
 *(Write your answer below)*
 
@@ -557,11 +615,9 @@ Deflection, omission, confident falsehood, nervous tells:
 &nbsp;
 
 &nbsp;
-
-**How can they tell when the other is lying?**
-What tells give them away? Learning someone's tells is its own form of intimacy.
 
 **What are your protagonist's tells when they're lying? What are your love interest's tells?**
+*What gives them away? Learning someone's tells is its own form of intimacy.*
 
 *(Write your answer below)*
 
@@ -571,10 +627,8 @@ What tells give them away? Learning someone's tells is its own form of intimacy.
 
 &nbsp;
 
-**When does one catch the other in a lie?**
-The moment of discovering a lie is significant. How much does the discovery cost the relationship, and what does the decision to either confront or not confront it reveal about each of them? In *The Wicked King*, Cardan sends Jude away with a decree that sounds like betrayal but contains a hidden loophole: as High Queen, she has the power to pardon herself. The romantic tension survives because decoding the literalism of his speech becomes Jude's act of faith in a man who communicates love through legal technicalities.
-
 **What is the lie that matters most between your characters? What was the lie, how did the other person know, and what happened as a result?**
+*The moment of discovering a lie is significant. How much does the discovery cost the relationship, and what does the decision to either confront or not confront it reveal about each of them? In* The Wicked King*, Cardan sends Jude away with a decree that sounds like betrayal but contains a hidden loophole: as High Queen, she has the power to pardon herself. The romantic tension survives because decoding the literalism of his speech becomes Jude's act of faith in a man who communicates love through legal technicalities.*
 
 *(Write your answer below)*
 
@@ -587,16 +641,24 @@ The moment of discovering a lie is significant. How much does the discovery cost
 **What truths are hard to say?**
 What's true but difficult to speak aloud?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a moment of radical honesty?**
 When all defences drop and they tell the whole truth:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Overhearing
 

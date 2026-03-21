@@ -35,16 +35,24 @@ Most stories use a combination, and the layering is what makes the pressure feel
 **Which pressure cooker subtypes does your story use?**
 *Most stories layer two or more. Identify your primary subtype and any secondary ones. If you're only using one, consider whether adding a second layer would tighten the grip.*
 
-Primary subtype: _______________________________________________________________
+*(Write your answer below)*
 
-Secondary subtype(s): _______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do your subtypes interact to create layered pressure?**
 *The combination matters more than either type alone. In* Fourth Wing, *institutional confinement (can't leave the academy) meets magical binding (the dragon bond), so even within the institution, Violet can't avoid Xaden specifically.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -127,61 +135,103 @@ Each of these constraint types does something different to the romance. Physical
 **Physical constraints** (geography, architecture, locked doors):
 *Physical confinement forces body awareness — they notice how the other person moves, breathes, takes up space.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Obligation** (must complete a task, fulfill a contract, serve a sentence):
 *Obligation breeds resentment, and resentment in close quarters has a way of curdling into something more complicated.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Danger** (can't survive alone, enemies surround them, wilderness is lethal):
 *Danger creates reliance, which is one of the fastest routes to intimacy in fiction. When your life depends on someone, you stop filtering how you feel about them.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Social/political requirements** (must maintain appearances, fulfill duties):
 *Social constraints create performance — and performing a relationship has a way of blurring into feeling one.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Economic necessity** (job requires it, only shelter available, debt binding them):
 *Economic dependence creates a power dynamic that charges every interaction with questions of obligation, gratitude, and resentment.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Magical binding** (curse, bond, spell requires proximity):
 *Magical binding creates intimacy that bypasses consent, which forces characters to negotiate boundaries they never expected to need.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
 **How long are they trapped together?**
 *Duration shapes the flavour of your romance. Days create intensity and desperation — feelings ignite fast but haven't been tested. Weeks allow routines to develop, which is where real intimacy grows. Months create the deepest transformation but require more progression beats to avoid the "spinning wheels" problem.*
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can they physically separate within the confined space?**
 *The answer determines how much control your characters have over their own exposure. Separate rooms allow strategic retreat — characters can process privately and choose when to engage. Truly shared space removes that option, which accelerates vulnerability but also risks exhausting the tension if there's no variation.*
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens if they try to leave or separate?**
 *Be specific and severe. "Something bad" isn't enough — you need consequences concrete enough that the reader never questions why the characters don't just walk out. The more specific the cost, the stronger the cage.*
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -196,22 +246,46 @@ When you use emotional constraints instead of physical ones, the tension you cre
 **Beyond physical constraints, what emotional stakes keep them there?**
 Would leaving mean abandoning someone who needs them? Admitting defeat? Breaking a promise? Losing their only chance at something they need?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Could either character technically leave but chooses to stay?**
 If yes, why do they stay? What would leaving cost them emotionally?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would leaving say about them, to themselves and each other?**
 Would it mean they're a coward? That they don't care? That they've given up?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a moment when one considers leaving but doesn't?**
 What stops them: the physical constraints, or something deeper?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -222,12 +296,16 @@ You've likely already identified your setting in Section 1 (Geography) or Sectio
 **What is your primary pressure cooker setting?**
 *Your setting isn't just a backdrop — it's the mechanism that creates and maintains the pressure. The best pressure cooker settings have built-in reasons characters can't leave, limited privacy, forced daily interaction, and at least one space where stolen moments become possible.*
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Map the constraints:**
-*You've already identified your constraint types above. Now map how your specific setting enforces them — the practical details of how your pressure cooker actually works.*
-
-**Map the specific constraints of your pressure cooker setting: What are the physical constraints (size, layout, barriers)? The temporal constraints (how long they're stuck)? The survival needs? The social pressure (who's watching)? And what happens if they try to escape?**
+*You've already identified your constraint types above. Now map how your specific setting enforces them — the practical details of how your pressure cooker actually works. What are the physical constraints (size, layout, barriers)? The temporal constraints (how long they're stuck)? The survival needs? The social pressure (who's watching)? And what happens if they try to escape?*
 
 *(Write your answer below)*
 
@@ -240,7 +318,13 @@ ___
 **What's the minimum physical distance they can maintain?**
 *This determines the baseline tension level. If they can stay in separate buildings, the pressure is social — they choose to avoid each other. If they're sharing a room, the pressure is physical — avoidance is a fantasy. The smaller the minimum distance, the faster the body awareness builds.*
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -255,32 +339,68 @@ In *Fourth Wing*, Violet and Xaden's interactions at Basgiath are always influen
 **Who else is present in the confined setting?**
 Allies, rivals, authority figures, servants? Others shape what your leads can say and do around each other.
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do others affect how the protagonists can interact?**
 Must they hide their feelings? Maintain appearances? Compete for attention? Perform a relationship that isn't real (yet)?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a rival for either character's attention?**
 Someone else interested in one of them? A former lover present? Someone they're "supposed" to be with?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there an ally who helps them find private moments?**
 Someone who covers for them, creates distractions, keeps secrets?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a threat, someone who would expose or harm them?**
 Someone watching, someone who would report them, someone dangerous?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What can't they say or do because others are present?**
 The words they swallow and the touches they deny create tension that demands eventual release.
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Stolen Privacy
 
@@ -291,27 +411,57 @@ Think of Poppy's stolen encounters with Hawke in *From Blood and Ash*. The Red P
 **How do they steal private moments together?**
 Within a setting where others are watching, where do they find each other?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's the risk of being caught alone together?**
 Scandal, punishment, misunderstanding, or something worse? Stakes make stolen moments matter.
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where can each character go to be truly alone (if anywhere)?**
 Solitude becomes precious in forced proximity. Where do they retreat to process their feelings?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What happens when they're finally alone, truly alone, for the first time?**
 After constant company, the first real privacy:
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **When do they have extended true privacy?**
 Circumstances that allow them to be genuinely alone together for more than a stolen moment, and what happens:
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -335,11 +485,15 @@ Cooperation is one of the most powerful forced interaction types because it requ
 
 **Required activities:**
 
-Training, meetings, tasks, social events they must both attend:
+*Training, meetings, tasks, social events they must both attend:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Enforced cooperation:**
 *Cooperation is one of the most powerful forced interaction types because it requires trust, communication, and reliance — all the ingredients of intimacy, delivered under the guise of getting a job done.*
@@ -353,7 +507,13 @@ _______________________________________________________________
 **What daily contact is absolutely unavoidable?**
 What do they have to do together every single day?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -384,27 +544,57 @@ So put the body on the page. Not just in the charged moments, but in the ordinar
 **What physical details does each character notice about the other first?**
 Not attraction, awareness. What becomes impossible to ignore?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What is the love interest's sensory signature?**
 Scent, warmth, the sound of their breathing, the way they move. What becomes associated with their presence?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What accidental physical contact does the space force?**
 Narrow hallways, small rooms, shared equipment, crowded meals. Where does the space itself push them together?
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **When does physical awareness shift into something they can't dismiss as neutral?**
 The moment when noticing becomes wanting, even if they won't admit it yet:
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What sensory details will trigger memory and longing after the proximity ends?**
 A scent encountered in a market. A sound heard through a wall. The echo of warmth where someone used to stand:
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -421,7 +611,13 @@ Holly Black does this brilliantly in *The Cruel Prince*. Jude's internal monolog
 **What does each character tell themselves about the other that the reader can see through?**
 *"I'm watching him because he's dangerous." "She's nothing to me." "This doesn't mean anything." The lies your characters tell themselves are the engine of slow-burn tension — the reader sees the truth before the character does.*
 
-___
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Deprivation and Cognitive Hunger
 

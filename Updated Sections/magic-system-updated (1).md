@@ -27,21 +27,25 @@ Design your magical system based off of one question -- what does it cost? The a
 
 *The costs that matter most in romantasy aren't about energy. They're about what magic takes from who you are or how you connect with others. Rhysand's price for protecting his people was fifty years of abuse. Poppy's gift means absorbing others' pain into her own body. What has your protagonist's magic cost them beyond tiredness?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does that personal cost affect the way your protagonist approaches closeness?**
 
 *A character who's been burned by what magic demands will have specific fears about letting someone in. Do they keep people at arm's length to protect them? Do they hide what they've sacrificed? Does the cost make them reluctant to use their power for someone they care about — or desperate to use it despite the price?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ## How to Think About Magic in Romantasy
 
@@ -72,9 +76,7 @@ Not every magical ability needs to directly advance the romance. Winnowing in *A
 
 **Which romantic tension pattern(s) from the table above best describe your leads' dynamic?**
 
-*Most romances use two or three patterns simultaneously. Identifying yours now helps you write scenes where the tension is specific and earned rather than generic. If you're not sure yet, pick the one that excites you most.*
-
-**Which romance-magic patterns from the list above apply to your story? For each one you're using, describe how it shows up between your characters.**
+*Most romances use two or three patterns simultaneously. Identifying yours now helps you write scenes where the tension is specific and earned rather than generic. If you're not sure yet, pick the one that excites you most. For each one you're using, describe how it shows up between your characters.*
 
 *(Write your answer below)*
 
@@ -98,8 +100,6 @@ Not every magical ability needs to directly advance the romance. Winnowing in *A
 **Which pairing dynamic best describes your leads — and how does it show up?**
 
 *If none of these fit exactly, describe your own. The important thing is naming the built-in tension your pairing creates, because that tension will drive scenes before you've written a single line of dialogue.*
-
-**What is the magical pairing dynamic between your leads (from the archetypes above), and how does it create specific tension in your story?**
 
 *(Write your answer below)*
 
@@ -179,20 +179,28 @@ Magic doesn't have to mean spellcasting. Here are different approaches to inspir
 | Psychic/Mental | Mind-reading, telekinesis, mental influence | Thoughts you can't hide; mental shields as emotional walls; choosing to let someone in | *Shatter Me*, *Carrie* |
 
 **Which type(s) best describe your magic system?**
-You can combine multiple approaches.
 
-_______________________________________________________________________________
+*You can combine multiple approaches.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If your system doesn't fit these categories, describe what makes it different:**
-Unique magic systems are memorable. What makes yours distinctive from what readers have seen before?
 
-_______________________________________________________________________________
+*Unique magic systems are memorable. What makes yours distinctive from what readers have seen before?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -201,49 +209,64 @@ _______________________________________________________________________________
 Every magic system has an origin, and where the power actually comes from shapes everything: who has access, how it's viewed by society, what it costs to use, and whether it can unite or divide your leads.
 
 **Where does magic come from in your world?**
-Options: the gods or divine forces, the natural world (ley lines, elemental forces), an internal source (bloodlines, souls, emotions), external objects, knowledge and study, a bargain or bond, something unknown or mysterious.
 
-_______________________________________________________________________________
+*Options: the gods or divine forces, the natural world (ley lines, elemental forces), an internal source (bloodlines, souls, emotions), external objects, knowledge and study, a bargain or bond, something unknown or mysterious.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a single source of magic, or multiple types with different origins?**
-If multiple, how do they interact, or conflict? Multiple sources can create cultural or romantic divides.
 
-_______________________________________________________________________________
+*If multiple, how do they interact, or conflict? Multiple sources can create cultural or romantic divides.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can the source be depleted, corrupted, or cut off? What happens if it is?**
-Vulnerable magic sources create stakes. What would your protagonist do if their power began to fail?
 
-_______________________________________________________________________________
+*Vulnerable magic sources create stakes. What would your protagonist do if their power began to fail?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How do people in your world explain where magic comes from?**
-Is the truth different from what most believe? Gaps between belief and reality create secrets worth keeping or discovering.
 
-_______________________________________________________________________________
+*Is the truth different from what most believe? Gaps between belief and reality create secrets worth keeping or discovering.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How might the source of magic affect your leads' relationship?**
-Magic's origin can unite or divide. In *ACOTAR*, Feyre is human and Tamlin is High Fae. That's the obvious gap: she's mortal and powerless in his world. Or perhaps magic runs through noble bloodlines and she's aristocracy while he's common-born, except he's developing abilities that shouldn't exist in someone like him. Do your characters share the same source, or does their magic come from opposing places?
 
-_______________________________________________________________________________
+*Magic's origin can unite or divide. In ACOTAR, Feyre is human and Tamlin is High Fae. That's the obvious gap: she's mortal and powerless in his world. Or perhaps magic runs through noble bloodlines and she's aristocracy while he's common-born, except he's developing abilities that shouldn't exist in someone like him. Do your characters share the same source, or does their magic come from opposing places?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -252,48 +275,56 @@ _______________________________________________________________________________
 Not everyone has to be magical, and who can wield magic shapes everything from social structure to your protagonist's place in the world. It also determines the power dynamic between your leads.
 
 **How common is magic in your world?**
-Can nearly everyone use some form? Is it limited to certain bloodlines, species, or chosen ones? Can anyone learn it with training? Is it vanishingly rare?
 
-_______________________________________________________________________________
+*Can nearly everyone use some form? Is it limited to certain bloodlines, species, or chosen ones? Can anyone learn it with training? Is it vanishingly rare?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What determines whether someone can use magic?**
-Birth (bloodlines, species, being "chosen"), training and study, a triggering event (trauma, ritual), possession of an object or bond, random chance, a sacrifice or bargain.
 
-_______________________________________________________________________________
+*Birth (bloodlines, species, being "chosen"), training and study, a triggering event (trauma, ritual), possession of an object or bond, random chance, a sacrifice or bargain.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Can magical ability be gained if you weren't born with it? Can it be lost or taken away?**
-The permanence of magical ability affects what characters fear and hope for. Could your protagonist gain power, or lose everything?
 
-_______________________________________________________________________________
+*The permanence of magical ability affects what characters fear and hope for. Could your protagonist gain power, or lose everything?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **If magic is inherited, how does that affect families, dynasties, and marriages?**
-If it's learned, who controls access to that knowledge, and who's excluded? Control over magical training is a form of political power that can separate lovers by class, status, or allegiance.
 
-_______________________________________________________________________________
+*If it's learned, who controls access to that knowledge, and who's excluded? Control over magical training is a form of political power that can separate lovers by class, status, or allegiance.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there a significant power gap between your characters?**
 
-*We'll dig deeper into power dynamics in the Power Imbalance section later. For now, sketch the basics — the gap between your leads will shape every interaction they have.*
-
-Who holds more magical, political, or physical power? Power imbalances create tension, so show it through interaction dynamics. Who waits for whom? Who has to ask permission? Whose comfort is automatically prioritised?
-
-**What is your protagonist's magical status? What is your love interest's magical status? What does the gap (or lack of one) between them mean for their dynamic?**
+*We'll dig deeper into power dynamics in the Power Imbalance section later. For now, sketch the basics — the gap between your leads will shape every interaction they have. Who holds more magical, political, or physical power? Power imbalances create tension, so show it through interaction dynamics. Who waits for whom? Who has to ask permission? Whose comfort is automatically prioritised?*
 
 *(Write your answer below)*
 
@@ -304,13 +335,16 @@ Who holds more magical, political, or physical power? Power imbalances create te
 &nbsp;
 
 **If there's a power gap, what does the less powerful person bring that the powerful one needs?**
-In later *ACOTAR* books, Rhysand is the most powerful High Lord in history. But Feyre sees through his masks and challenges his decisions. Power isn't just magic. It's also who's willing to call you on your bullshit. Balanced relationships require more than magical equality, so what does each character offer that the other can't provide for themselves?
 
-_______________________________________________________________________________
+*In later ACOTAR books, Rhysand is the most powerful High Lord in history. But Feyre sees through his masks and challenges his decisions. Power isn't just magic. It's also who's willing to call you on your bullshit. Balanced relationships require more than magical equality, so what does each character offer that the other can't provide for themselves?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -319,61 +353,76 @@ _______________________________________________________________________________
 This is the mechanical heart of your system, the "physics" of magic. You don't need to explain everything to readers, but you should understand how it operates so your story stays consistent. And the mechanics matter for romance too, because the process of using magic can strip away defences.
 
 **How does someone actually do magic? What does the process look like?**
-Spoken words, physical gestures, intense concentration, drawing symbols, channelling through objects, emotional states, rituals, physical contact, visualisation, music or art.
 
-_______________________________________________________________________________
+*Spoken words, physical gestures, intense concentration, drawing symbols, channelling through objects, emotional states, rituals, physical contact, visualisation, music or art.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does magic look like when it happens?**
-What do bystanders see, hear, or feel?
 
-_______________________________________________________________________________
+*What do bystanders see, hear, or feel?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How long does it take to use magic, and does the time required change what's at stake?**
 
 *Instant magic feels different from magic that requires preparation. A spell that takes thirty seconds of concentration means thirty seconds of vulnerability. A ritual that takes hours means hours of trust — who do you let guard you while you work?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Can magic be interrupted? What happens if it's disrupted mid-use?**
-Interruptible magic creates vulnerability during casting, a moment when the powerful become defenceless. This is also a moment of trust: who do you let near you when you're mid-spell and exposed?
 
-_______________________________________________________________________________
+*Interruptible magic creates vulnerability during casting, a moment when the powerful become defenceless. This is also a moment of trust: who do you let near you when you're mid-spell and exposed?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where does your magic fall between precise and unpredictable — and does that change based on the user's emotional state?**
 
 *Magic that becomes volatile when the user is emotional is a romance goldmine. If your character's control slips when they're angry, frightened, or attracted, every charged moment becomes a potential magical incident.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How might the process of using magic create vulnerable or intimate moments between your leads?**
 
 *Think about what using magic requires: concentration that leaves you exposed, physical contact that could become charged, emotional openness that drops your guard. Any of these could turn a practical moment into a personal one.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Magic Through the Body
 
@@ -400,31 +449,37 @@ This overlap was not incidental. It's what makes romantic tension feel mythic ra
 
 *Magic that shifts when directed at or shared with another person creates a built-in intimacy barometer. In ACOTAR, the mating bond grows physically warm when acknowledged. In Fourth Wing, shared feelings bleed over as a scalp prickle and energetic pull. If your character's magic changes when the love interest is nearby, every charged moment has a magical signature.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What does overextension feel like — and how dangerous is it?**
 
 *The physical symptoms of pushing too far should feel genuinely threatening, not just uncomfortable. In Fourth Wing, burnout manifests as trembling, fever, and skin that feels sunburned — and Violet's condition makes it life-threatening. What does pushing past the limit look like for your character, and why should readers be afraid when they reach for more power than their body can hold?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How does your character's emotional state change what magic feels like?**
 
 *If magic is tied to emotion, falling in love might make it stronger, more volatile, or harder to control. Fear might suppress it. Grief might warp it. The connection between feeling and power is where romance and magic become inseparable — map that connection now so you can use it in scenes later.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### How Magic Reveals Character
 
