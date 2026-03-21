@@ -1428,19 +1428,25 @@ What spying does for characters is put them in charged close proximity. Intellig
 
 *Espionage creates charged proximity. When your character is watching someone closely for strategic reasons, that observation often blurs into personal fascination.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does your character discover that humanises their target?**
 
 *The moment a spy sees past the political role to the person beneath is one of the most powerful romantic beats in the genre.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### The Revelation
 

@@ -1316,35 +1316,49 @@ Use this checklist for any major plot point or romantic beat. If you can check e
 
 *These are the promises your entire romance depends on. The cost of magic, the law that forbids their union, the bond's mechanics, the physical danger that forces them together.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Rules you can bend slightly (as long as bending is consistent):**
 
 *Minor timing, background details, vague power levels. These can flex if the emotional story is strong enough.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Consequences that must happen if rules are broken:**
 
 *What's the worst thing that happens if your characters get caught? This consequence should be specific, not vague. Name it.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **The biggest consistency risk in your story right now:**
 
 *The scene, rule, or plot point you're most worried about. The one where you know a careful reader might say "wait, but what about...?"*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

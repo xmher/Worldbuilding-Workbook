@@ -1285,68 +1285,88 @@ It's simple to identify grand magical gestures. The interesting stuff is smaller
 Look at the magic system you've already built. Don't add new "romantic" mechanics. Find the intimate potential in what exists.
 
 **What magic does your protagonist have?**
-List their abilities without thinking about romance yet.
 
-_______________________________________________________________
+*List their abilities without thinking about romance yet.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Now: how could this magic be used to create a private moment?**
-A secret gesture? A communication no one else would notice or understand?
 
-_______________________________________________________________
+*A secret gesture? A communication no one else would notice or understand?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What about your love interest's magic?**
-What could they do with their abilities that would feel personal, specific, meant only for your protagonist?
 
-_______________________________________________________________
+*What could they do with their abilities that would feel personal, specific, meant only for your protagonist?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there something one character's magic could do for the other that would be difficult, costly, or unusual for them — making the gesture more meaningful?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 *Now that you've identified what's possible, think about what becomes habitual — the gestures that start as one-offs and become part of your characters' private language.*
 
 **What repeated small gesture might develop between your characters using their magic?**
-Think about: a fire mage who always keeps a candle lit in someone's window. An illusionist who makes small images appear to make the other laugh. A weather worker who clears the rain from just the space where someone's standing. A telekinetic who adjusts someone's collar without touching them.
 
-_______________________________________________________________
+*Think about: a fire mage who always keeps a candle lit in someone's window. An illusionist who makes small images appear to make the other laugh. A weather worker who clears the rain from just the space where someone's standing. A telekinetic who adjusts someone's collar without touching them.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What magical gesture would your characters recognise as meaningful that others would overlook or misunderstand?**
-Private meaning transforms ordinary magic into intimate language. What small act holds significance only for them?
 
-_______________________________________________________________
+*Private meaning transforms ordinary magic into intimate language. What small act holds significance only for them?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How might your character's magic show care in a way that words wouldn't?**
-Especially if they're someone who struggles to express feelings directly:
 
-_______________________________________________________________
+*Especially if they're someone who struggles to express feelings directly:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Private Channels
 

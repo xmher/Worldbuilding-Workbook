@@ -793,9 +793,13 @@ Is either character compared to a villain? What would it mean to be descended fr
 **Are any of these figures relevant to your characters?**
 Ancestors? Role models? Cautionary examples? One character's hero might be the other's monster.
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

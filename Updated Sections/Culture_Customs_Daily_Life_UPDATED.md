@@ -1667,9 +1667,13 @@ Disguise? Scandal? Crime? Social death?
 
 What clothing exists in your world that doesn't exist in ours? Magical garments? Cultural specifics?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Covered & Revealed
 
@@ -1677,29 +1681,41 @@ _______________________________________________________________
 
 What's modest dress in your culture? Does it differ by gender, class, or context?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's considered scandalous or provocative to reveal?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What does revealing something usually hidden mean?**
 
 If someone shows skin they normally cover, what does that signal? Trust? Intimacy? Invitation? Shame?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Is there something one character shows the other that they don't show anyone else?**
 
 A physical vulnerability? A hidden mark? Simply their unguarded appearance?
 
-_______________________________________________________________
+*(Write your answer below)*
 
 _______________________________________________________________
 
