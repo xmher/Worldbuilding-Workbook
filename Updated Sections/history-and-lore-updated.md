@@ -324,18 +324,6 @@ Stone buildings? Written records? Magical artifacts? Oral traditions? Bloodline 
 
 &nbsp;
 
-**What's been lost?**
-
-What kinds of knowledge, artifacts, or records have been destroyed or forgotten?
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 **What knowledge, artifacts, or records have been lost in your world, and why? Consider war/conquest, natural disaster, deliberate destruction, neglect, or magical sealing.**
 
 *(Write your answer below)*
@@ -405,8 +393,7 @@ At what point does "this happened" become "the stories say"?
 
 Sometimes the most critical information lies hidden. And when we talk about "hidden history," that is like having a loaded gun pointed at your characters' assumptions. Within nearly every romantasy subgenre except for Regency, there exists a fundamental lie that the characters must unmask. In *From Blood and Ash*, the entire kingdom of Solis is based on the myth of the Ascension, and when the protagonists learn that the Ascended are actually predatory vampyric creatures, it destroys all of the assumptions that Poppy ever held. In *Fourth Wing*, the "official history" taught at Basgiath War College is essentially government propaganda intended to keep its own cadets from discovering the true enemy (venin).
 
-**Is there a historical truth that's been suppressed or rewritten?**
-What would change if your characters discovered the truth? Would it dissolve the obstacle between them, or make it worse?
+*What would change if your characters discovered the truth? Would it dissolve the obstacle between them, or make it worse?*
 
 **Is there a historical truth in your world that's been suppressed or rewritten? What really happened, what are people taught instead, and who suppressed the truth and why?**
 
@@ -1575,8 +1562,6 @@ This "emotional stasis," or lack of emotional aging, is an almost defining chara
 **If one character is ancient and one is mortal, how does this affect the relationship?**
 The ancient character has seen patterns repeat, loved and lost countless times, watched mortal lives flicker past. The mortal character is one brief moment in an endless existence, or perhaps they're something different, something that makes the ancient one feel again.
 
-**The ancient character:**
-
 **For your ancient character: What historical patterns have they seen repeat? What have they lost over centuries? What makes them cynical or gives them hope? Do they see the mortal partner as another loss waiting to happen?**
 
 *(Write your answer below)*
@@ -1586,8 +1571,6 @@ The ancient character has seen patterns repeat, loved and lost countless times, 
 &nbsp;
 
 &nbsp;
-
-**The mortal character:**
 
 **For your mortal character: What does it mean to love someone who's seen centuries? Do they feel insignificant, or do they bring something the ancient one has lost? Are they aware of their own mortality in the relationship?**
 
@@ -1602,16 +1585,24 @@ The ancient character has seen patterns repeat, loved and lost countless times, 
 **What does the long-lived character carry from their past?**
 Lost loves? Dead friends? Guilt? Witnessed atrocities? Actions they regret?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How does their personal history affect the relationship?**
 Are they afraid to love again? Comparing the mortal to past loves? Keeping secrets from centuries ago?
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

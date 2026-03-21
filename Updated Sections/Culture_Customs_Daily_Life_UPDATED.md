@@ -964,9 +964,13 @@ Are they a willing guest, a reluctant one, or a prisoner in all but name? How do
 
 *The more elaborate the welcoming ritual, the greater the weight when it's violated. What must happen when a guest arrives — and what does it mean when someone skips a step?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -1049,6 +1053,7 @@ Visual arts, crafts, performance, literature — what does this culture create a
 &nbsp;
 
 ---
+
 ## Oaths, Promises & Honour
 
 In many romantasy worlds, people's words carry value. Culturally, socially, and at times magically. Oaths of allegiance, sworn promises, and honour debts often create commitments which have the potential to create direct conflicts with the heart's desires. This theme of a person's word as a contract is especially prevalent in Fae-inspired settings; spoken words are literal contracts. When a bargain is made correctly, under the right circumstances, it creates a binding obligation, and the definition of "equal" repayment can lie completely with the other party.
@@ -2411,6 +2416,7 @@ Temples, military academies, magical schools, noble fostering arrangements? What
 &nbsp;
 
 ---
+
 ## Work & Professions
 
 **How does culture view work?**
@@ -2797,7 +2803,7 @@ If yes:
 
 **What are the key differences between their cultures?**
 
-**Compare the two cultures your characters come from: How do their values, customs, and taboos differ?**
+*Compare the two cultures your characters come from: How do their values, customs, and taboos differ?*
 
 *(Write your answer below)*
 
@@ -2809,7 +2815,7 @@ If yes:
 
 **What does one culture do that the other finds shocking, rude, or confusing?**
 
-**Describe 2-3 cultural misunderstandings that could arise between your characters because of their different backgrounds.**
+*Describe 2-3 cultural misunderstandings that could arise between your characters because of their different backgrounds.*
 
 *(Write your answer below)*
 
@@ -2823,31 +2829,37 @@ If yes:
 
 This is prime territory for miscommunication and eventual understanding:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **When do they realize they've been misunderstanding each other?**
 
 The revelation scene:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What cultural tradition does one character teach the other?**
 
 The intimacy of sharing worlds:
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 

@@ -2560,21 +2560,25 @@ You've spent this section building the mechanics of your magic — now let's mak
 
 *The most memorable romantic gestures in the genre aren't grand displays. They're quiet, costly, and specific to the magic your character already has. A fire mage keeping a candle burning. A healer absorbing pain they could avoid. What would your protagonist's version look like?*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What would it mean for your protagonist to use their magic *in front of* their love interest in a way they don't show others — revealing their full power, their vulnerability, or a secret aspect of their abilities?**
 
 *Letting someone see your magic at its most raw is one of the genre's deepest forms of intimacy. It's not about impressing them. It's about trusting them with the parts of yourself you normally keep hidden.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -2586,59 +2590,73 @@ Magic doesn't just affect your characters. It shapes the larger world they live 
 
 *Magical hierarchy creates the conditions your characters must navigate. If your leads come from different levels of this hierarchy, the world itself is pushing against their relationship.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **What do non-magical people think of magic users? Fear? Reverence? Resentment? Envy? Exploitation?**
 
 *Public attitudes toward magic affect whether your characters can be open about who they are and what they can do. If one character is magical and the other isn't, public opinion may be the biggest obstacle they face.*
 
-_______________________________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________________________
+&nbsp;
 
-_______________________________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Magical Resources and Scarcity
 
 **Does magic in your world require resources that can be controlled, hoarded, or fought over?**
-Rare plants, minerals, or creatures. Ley lines or places of power. Magical artefacts. Blood or life force. Access to training, texts, or teachers.
 
-_______________________________________________________________
+*Rare plants, minerals, or creatures. Ley lines or places of power. Magical artefacts. Blood or life force. Access to training, texts, or teachers.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who controls magical resources in your world? Who's excluded from access?**
 
 *If one character controls something the other desperately needs, every interaction between them carries an undercurrent of dependence and obligation — which can look a lot like attraction from the outside.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Are there active conflicts — wars, trade disputes, political maneuvering — over magical resources? How do these affect ordinary people?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How might resource scarcity or control put pressure on your leads' relationship?**
-Consider: They're on opposite sides of a resource conflict. One of them controls something the other desperately needs. Their relationship threatens existing power structures. Staying together requires resources they can't access.
 
-_______________________________________________________________
+*Consider: They're on opposite sides of a resource conflict. One of them controls something the other desperately needs. Their relationship threatens existing power structures. Staying together requires resources they can't access.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Magical Damage and Corruption
 
@@ -2646,105 +2664,131 @@ _______________________________________________________________
 
 *Corrupted lands, scarred populations, broken ecosystems — magical catastrophe creates the backdrop your characters live against. What would it take to fix the damage, and what would that cost?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Do your characters live with the consequences of magical damage? How does it affect their daily lives, their communities, their futures?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Could magical corruption threaten your characters directly — their home, their people, their health, their powers?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How might magical damage or corruption put pressure on your leads' relationship?**
 
 *Consider: one character caused the damage, or comes from the people who did. Healing the corruption requires a sacrifice one of them isn't willing to make. The damaged land is the only place they're safe together, or the one place they can't go.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### Magical Arms Races
 
 **Is there military or political competition to develop magical power in your world?**
-Nations racing to train war-mages. Factions seeking ancient weapons. Attempts to breed more powerful magic users.
 
-_______________________________________________________________
+*Nations racing to train war-mages. Factions seeking ancient weapons. Attempts to breed more powerful magic users.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What's the most dangerous magical weapon or capability in your world? Who has it, and who wants it?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Are your characters caught up in this competition? As weapons, as soldiers, as prizes, as targets?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **How might magical militarization put pressure on the relationship?**
-Consider: One or both characters are seen as assets rather than people. Their abilities make them valuable to factions who won't let them go. Falling in love creates a vulnerability enemies can exploit. Their duties put them on opposite sides.
 
-_______________________________________________________________
+*Consider: One or both characters are seen as assets rather than people. Their abilities make them valuable to factions who won't let them go. Falling in love creates a vulnerability enemies can exploit. Their duties put them on opposite sides.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Regulation, Control, and Resistance
 
 **How does authority in your world attempt to control magic?**
-Registration of magic users. Licensing and restriction. Conscription of powerful mages. Suppression of "dangerous" types. State monopoly on training.
 
-_______________________________________________________________
+*Registration of magic users. Licensing and restriction. Conscription of powerful mages. Suppression of "dangerous" types. State monopoly on training.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Who benefits from magical regulation? Who suffers under it?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 **Is there resistance to magical control?**
-Underground magic users, rebel factions, hidden communities, black markets?
 
-_______________________________________________________________
+*Underground magic users, rebel factions, hidden communities, black markets?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Where do your characters stand in relation to magical authority?**
 
-**Where does your protagonist stand in relation to magical authority (hunted, enforcer, exempt, hidden)? Where does your love interest stand? What does each position cost them, and how might their positions create tension or force alliance?**
+*Where does your protagonist stand (hunted, enforcer, exempt, hidden)? Where does your love interest stand? What does each position cost them, and how might their positions create tension or force alliance?*
 
 *(Write your answer below)*
 
@@ -2758,11 +2802,13 @@ _______________________________________________________________
 
 *If one character enforces the rules and the other breaks them, every interaction carries risk. If both are on the same side, what would it take to push them apart?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ### History Repeating
 

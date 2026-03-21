@@ -2635,9 +2635,13 @@ Sometimes, the antagonists of a romantic fantasy are the very systems we live un
 
 **In one sentence, what is the primary political obstacle keeping your characters apart?**
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **How can this obstacle be overcome?**
 
@@ -2646,19 +2650,27 @@ _______________________________________________________________
 - Escaping the system (running away, exile)
 - Accepting consequences (being together despite the cost)
 
-Which path do your characters take?
+*Which path do your characters take?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **When does the political obstacle force a choice?**
 
-The crisis point when they can no longer avoid confronting it:
+*The crisis point when they can no longer avoid confronting it:*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

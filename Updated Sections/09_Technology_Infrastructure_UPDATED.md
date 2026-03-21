@@ -507,15 +507,16 @@ When writing these types of scenes, keep in mind that medical environments tend 
 | Childbirth | | |
 | Pain | | |
 
-**Who provides medical care?**
-*The person who heals is in a position of extraordinary intimacy: they see the body vulnerable, they touch without the usual social barriers, they hold knowledge about what hurts. Who provides that care in your world shapes who holds that power.*
+**Who provides medical care in your world, and what determines access to it?**
+*The person who heals is in a position of extraordinary intimacy: they see the body vulnerable, they touch without the usual social barriers, they hold knowledge about what hurts. Consider: physicians, healers, midwives, herbalists, magical healers, family members. Unequal access to healing is one of the most emotionally charged technology gaps in romantasy — if one character can afford a magical healer and the other can't, that disparity becomes visible every time someone gets hurt.*
 
-Physicians, healers, midwives, herbalists, magical healers, family members:
+*(Write your answer below)*
 
-**What determines access to medical care?**
-*Unequal access to healing is one of the most emotionally charged technology gaps in romantasy. If one character can afford a magical healer and the other can't, that disparity becomes visible every time someone gets hurt.*
+&nbsp;
 
-Cost? Location? Class? Connections?
+&nbsp;
+
+&nbsp;
 
 **Does magical healing exist in your world? How common is it, how effective, what can't it heal, and what does it cost?**
 *Magical healing can remove stakes from injuries — unless it has limits, costs, or is inaccessible to your characters. The most effective romantasy healing systems give with one hand and take with the other.*
@@ -539,8 +540,16 @@ Cost? Location? Class? Connections?
 
 &nbsp;
 
-**What chronic conditions exist, and how are they managed?**
+**What chronic conditions exist in your world, and how are they managed?**
 *Chronic illness shapes daily life in ways acute injury doesn't. A character who lives with ongoing health concerns experiences vulnerability differently — it's not a single dramatic moment but a constant reality that the love interest must understand and accommodate.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Contraception & Reproduction
 
@@ -553,23 +562,8 @@ Cost? Location? Class? Connections?
 | Barrier methods | | |
 | Magical prevention | | |
 
-**Who has access to contraception?**
-*Access to contraception is rarely equal. Class, gender, knowledge, and cost all shape who can control the consequences of intimacy — and who can't.*
-
-Available to all? Expensive? Forbidden? Requires specific knowledge? Class-dependent?
-
-**What happens if contraception fails or isn't used?**
-*The consequences of unprotected intimacy shape how characters approach physical closeness. Social, legal, and practical consequences all affect the weight of every intimate scene.*
-
-Social consequences? Legal consequences? Practical consequences?
-
-**Is there pressure on anyone to produce heirs?**
-*Heir pressure is one of romantasy's most powerful engines. It can force marriages, forbid them, or make certain relationships politically explosive. Who faces this pressure changes everything about what love is allowed to look like.*
-
-Who faces this pressure and from whom?
-
-**Do fertility issues exist in your world? Consider infertility, difficulty conceiving, or magical interference.**
-*Infertility or difficulty conceiving adds another layer of vulnerability and stakes to intimate relationships, particularly where heir pressure exists.*
+**Who has access to contraception? What happens if it fails or isn't used? Is there pressure to produce heirs, and do fertility issues exist?**
+*Access to contraception is rarely equal — class, gender, knowledge, and cost all shape who can control the consequences of intimacy. The consequences of unprotected intimacy (social, legal, practical) affect the weight of every intimate scene. Heir pressure can force marriages, forbid them, or make relationships politically explosive. Infertility or difficulty conceiving adds vulnerability and stakes, particularly where heir pressure exists.*
 
 *(Write your answer below)*
 
@@ -599,23 +593,16 @@ Whether a character conceals their identity or reveals it is entirely dependent 
 | Identity documents | | |
 | Property records | | |
 
-**How do people prove identity?**
-*How identity is verified determines whether your characters can hide who they are — and what it takes to expose them. A world that relies on personal knowledge is very different from one with magical verification.*
+**How do people prove identity? What makes a marriage legally valid? What happens without documentation, and can documents be falsified?**
+*How identity is verified determines whether your characters can hide who they are — and what it takes to expose them. Consider: personal knowledge, documents, witnesses, or magical verification. Marriage documentation affects inheritance and legitimacy. A character with no records can reinvent themselves; forged documents open possibilities but the risk of discovery adds its own tension.*
 
-Personal knowledge? Documents? Witnesses? Magical verification?
+*(Write your answer below)*
 
-**What makes a marriage legally valid and provable?**
-*Marriage documentation affects inheritance, legitimacy, and whether unions can be hidden or denied. What your characters need for a legal marriage — and what happens without it — shapes whether secret unions are possible.*
+&nbsp;
 
-**What happens without documentation?**
-*If there's no proof of birth, identity, or marriage, the consequences can be liberating or devastating. A character with no records can reinvent themselves; a character who can't prove their marriage has no legal protection.*
+&nbsp;
 
-If there's no proof of birth, identity, or marriage, what are the consequences?
-
-**Can documents be falsified?**
-*Forged documents open possibilities: new identities, secret marriages made official, inconvenient births erased. But the risk of discovery adds its own tension.*
-
-How difficult is it? What would it require? What are the risks?
+&nbsp;
 
 ---
 
