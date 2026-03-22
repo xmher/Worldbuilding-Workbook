@@ -178,20 +178,7 @@
       "text": "**What is your pairing dynamic (e.g., enemies to lovers, forbidden love, slow burn), and which types of location pressure does your romance need most? Why does this combination serve your story?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -249,20 +236,7 @@
       "text": "**List three to five pivotal romantic moments in your story -- the scenes that shift the relationship, where walls come down, stakes become real, or everything changes.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading3",
@@ -403,20 +377,7 @@
       "text": "**For this location: What does the space force to happen (physical proximity, cooperation, vulnerability)? And what does it prevent (escape, privacy, honesty)?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -632,20 +593,7 @@
       "text": "**What time of day does your pivotal scene happen in this location? How does the space change at that hour, and what romantic tension does that timing create?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -852,20 +800,7 @@
       "text": "**Does this location have active magical properties (wards, sentience, emotional influence, shifting geography, bonding/tethering)? For each that applies, describe how the magic works here and what it does for the romance.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1541,20 +1476,7 @@
       "text": "**Name your recurring location (the place that becomes 'theirs'), any location that becomes lost or inaccessible, and the location where the romantic climax happens.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"

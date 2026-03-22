@@ -302,16 +302,9 @@ Physical prowess, magical power, test scores, combat victories, political connec
 #strong[In your academy's ranking system, what do those at the top get and what happens to those at the bottom? Where does your protagonist sit in the hierarchy, and where does your love interest sit? How does the gap between them create tension?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How does ranking create tension between your characters?]
@@ -463,16 +456,9 @@ What defines "inappropriate" in your court? Private conversation? Touching? Bein
 #strong[Where does each character rank in the court hierarchy? What is your protagonist's position (title, access, limitations) and your love interest's position?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -627,16 +613,9 @@ Soldier, commander, medic, strategist, prisoner, spy, conscript, mercenary, supp
 #strong[What is your protagonist's military role (rank, unit, how they earned it)? What is your love interest's military role? How do their roles create power dynamics or romantic obstacles?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What rules govern relationships between ranks?]
@@ -1365,16 +1344,9 @@ This is the essential question. In every successful captivity romance, the capti
 #strong[In your captivity dynamic, who holds power at the start? What shifts the balance? When do they become equals? What proves the shift is real (not just the captor being 'nicer')?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 === Forced Proximity in Captivity
@@ -1667,16 +1639,9 @@ Are they idealists who believe in the mission? Cynics who see the truth? One of 
 #strong[Does your protagonist believe in the institution's stated purpose, or do they see the reality beneath? What about your love interest? Are they idealists, cynics, or one of each?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What happens when they see behind the curtain?]

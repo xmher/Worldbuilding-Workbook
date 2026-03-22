@@ -48,16 +48,9 @@ What cultural assumption does your character accept without question at the star
 #strong[For both your protagonist and love interest: What cultural rule do they accept without question at the start? What moment makes the cage visible? What do they lose by seeing it, and what do they gain?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == How to Think About Culture in Romantasy
@@ -137,16 +130,9 @@ Some of the most interesting romantic tension comes from pairing characters who 
 #strong[Which cultural restriction patterns from the reference list apply to your world? For each, describe how it specifically works in your story.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == A Note Before You Begin
@@ -294,16 +280,9 @@ The flip side of values — what brings disgrace:
 #strong[How does each character (protagonist and love interest) relate to their culture's dominant values? Where do they conform, and where do they chafe?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What cultural value must one or both characters sacrifice to be together?]
@@ -319,52 +298,53 @@ What virtue do they have to abandon, or what shame must they accept?
 )
 
 
-#block(breakable: false)[
-
 == Gender Roles & Expectations
+
 
 Gender (or equivalent social categories in your world) shapes behaviour, opportunities, and relationship dynamics. In many cases, societal expectations regarding gender dictate who will pursue and who will be pursued, who has agency to act versus waiting to act. This is fundamental because it affects everything that follows: daily life, family, courtship, hierarchy, and what your characters are even allowed to want.
 
+
 Showing constraint of gender through big dramatic confrontations doesn't necessarily convey well the ways in which gender constrains individuals. It's through many small, almost imperceptible friction points that you can best illustrate this. The dress she wears limits her range of motion. The conversation she is prevented from participating in. The assumption made by others regarding her desires without ever asking if those assumptions were correct. For example, a character who has issues with the constraints of gender may express rebellion through small acts: unbuttoned corsets, secret reading material, or stolen time for personal practice. Her actions and behaviours may also be altered depending upon who is observing her, or she may maintain an internal dialogue questioning the rules she publicly abides by.
+
 
 Don't overlook the costs associated with conformity, either. There may be mental fatigue, emotional exhaustion due to self-censorship, and personal sorrow for choices not made. When two people that have been socially constructed in differing manners fall in love with one another, allow them to perceive one another differently than others do. The space between how society views them and how their lover views them is precisely where the romance is located.
 
+
 #strong[What are the general expectations for different genders in your culture?]
+
 
 Focus on what affects your story:
 
+
 #strong[What roles and behaviors does your culture expect based on gender? What is prohibited?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[How do these expectations affect your characters?]
 
+
 #strong[How do gender expectations specifically affect your protagonist and love interest?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[Does either character violate gender expectations?]
 
+
 How? What consequences do they face — social, legal, or personal?
+
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
-
-]
 
 
 #strong[How do gender expectations shape courtship?]
@@ -392,27 +372,30 @@ Who pursues? Who waits? Who controls the pace?
 )
 
 
-#block(breakable: false)[
-
 == Daily Life & Routines
+
 
 To understand how culture shapes romantic experiences, you have to begin with how people live their lives. Romance occurs in the context of daily routines. Examining the patterns of living reveals when a couple will encounter each other and what is considered "normal."
 
+
 The number of routines you choose to depict isn't as important as establishing a baseline for readers' perception of what is normal and how much of an impact a deviation from that norm has. A couple of lines about a character's morning rituals (they always take their tea; they always say their prayers) illustrate what a distraction or change means. Routine is a good method for developing character as well: what does the character do first? When in a rush, what does the character skip? What is the small comfort the character would never give up no matter what?
+
 
 As soon as romance enters into a character's routine, the reader will be able to sense the difference due to the prior knowledge of what was considered "normal." Their character begins to wake up thinking of someone. The regular walk back home has new feelings because there could be this person. These little changes resonate with the reader because the reader understands the context from before.
 
+
 #strong[What's the rhythm of a typical day?]
+
 
 #strong[Describe the daily rhythm of life in your world: When do people wake and what happens first? Is there a midday rest or main meal? When does work end? What is nightlife like?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
 
-&nbsp;
+#block(breakable: false)[
 
 ==== How does this rhythm differ by class or profession?
 
@@ -457,50 +440,44 @@ Leisure, entertainment, socializing — what fills non-work hours?
 #strong[How does the protagonist's daily routine shift after the love interest enters their life? Pick a specific routine element and describe it before and after.]
 
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-#block(breakable: false)[
 
 == Home & Household
 
+
 Your home is the most intimate space in your world. It's the place where characters are most themselves. The way homes are constructed, how many people share them, and the amount of privacy they provide will determine when and where your characters can be vulnerable with each other. Homes shared with servants or other people create vastly different possibilities for romance than homes lived in alone.
+
 
 How your point-of-view character reacts (or doesn't react) to what they see upon entering a home is an indicator of their past experience. A character raised in poverty will count every single thing of value; a character from wealth will likely never recognise anything about their surroundings as luxurious, but rather notice immediately if something feels wrong. Instead of saying "the home was rich" use specific objects like "silver candlesticks left casually on a side table, more books than she'd seen in her life, a fire burning in an empty room."
 
+
 As your character first enters their love interest's home, take some time to allow them to understand who this person is based upon where they live. That is a type of intimacy in itself.
+
 
 #strong[What does a typical home look like for different classes?]
 
+
 #strong[What does home look like for the wealthy, the middle class, and the poor in your world?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[Who lives together?]
 
+
 Nuclear families? Extended families? Multiple generations? Servants in the household? Unmarried adults with parents?
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #strong[How much privacy exists within a home?]
@@ -605,41 +582,38 @@ How does the culture handle people outside the typical family structure?
 #strong[What is each character's family's stance on the relationship, and what power do they have to interfere?]
 
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-#block(breakable: false)[
 
 == Food & Meals
 
+
 Food shows culture. The foods we eat, the ways we prepare them, and with whom we eat them can tell you a great deal about values, resources, and social bonds.
+
 
 Don't have to invent a whole cuisine. Just focus on those aspects of food which will be relevant to your story: what would your characters share over a meal? What meal will they make for someone they love?
 
+
 Eating together is one of the most simple ways to develop intimacy. When characters first begin to eat together, pay close attention to what they notice about each other's habits. Is she picking at her food? Is he eating as if he has no idea when his next meal will come? Cooking for someone is an act of caring. Use this in your writing. Refusing to eat with someone, or eating by yourself when you can be sharing a meal, also means something. To create a food scene that works well, you should slow down on the detail of the senses: the smell of the food, the warmth of a shared cup, the way a character tears apart their bread. Let the physical action of eating together do all the emotional work.
+
 
 #strong[What's a typical meal like?]
 
+
 #hint[Meals are where your characters will share space, reveal habits, and build domestic intimacy. Knowing what people eat and how they eat it gives you the raw material for food scenes that do emotional heavy lifting.]
+
 
 #strong[Describe the meals in your world: What do people eat for morning, midday, and evening meals, and how do they eat (alone, communally, formally)?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
 
-&nbsp;
+#block(breakable: false)[
 
 ==== What's "special occasion" food vs. everyday food?
 
@@ -758,16 +732,9 @@ How can your protagonist tell a temple from a tavern at a glance?
 #strong[What are the distinctive architectural features of your world's key buildings — palaces, temples, merchant homes, common dwellings, and fortifications?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How does a specific building's layout shape a romantic scene?]
@@ -779,16 +746,9 @@ How can your protagonist tell a temple from a tavern at a glance?
 #strong[Describe a specific architectural layout in your story and explain how its physical design affects the romantic dynamic (e.g., hidden alcoves, echoing corridors, shared walls).]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -1032,16 +992,9 @@ Direct confrontation? Indirect communication? Mediation through third parties?
 #strong[Describe a moment where one character makes a cultural mistake in the other's world. What is the mistake, who makes it, and how does the other react?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -1222,16 +1175,9 @@ Visual arts, crafts, performance, literature — what does this culture create a
 #strong[What social activity allows your characters to spend time together without arousing suspicion? What does it allow (touch, conversation, competition), and how obvious is it to others that they're there for each other?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -1333,16 +1279,9 @@ If precise wording matters in your world, draft the actual words of the promise 
 #strong[If a character has sworn an oath that conflicts with the romance, describe: What are the exact words? Who was it sworn to? What was it intended to mean vs. what could it literally mean (the loophole)? What does it cost to break outright?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == Taboos & Forbidden Things
@@ -1360,16 +1299,9 @@ Forbidden love has its excitement in the risk involved. Ensure that your reader 
 #strong[What behaviors are taboo in your world? Consider physical taboos (touch, proximity, eye contact), verbal taboos, social taboos, magical taboos, and sexual taboos.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Which taboos directly affect your romance?]
@@ -1381,16 +1313,9 @@ Pick 2-3 that create real obstacles:
 #strong[Pick your most important taboos and describe how each specifically affects the romance.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What happens when someone breaks a taboo?]
@@ -1575,16 +1500,9 @@ What's the kind of scandal that follows someone forever? Is it the same for all 
 #strong[What would destroy the reputation of someone in the protagonist's position? What about the love interest's position?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Can a ruined reputation be recovered? How?]
@@ -1632,16 +1550,9 @@ The rumor that would destroy them — true or not:
 #strong[What is the worst possible rumor that could circulate about your protagonist? About your love interest?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How do your characters protect their reputations while pursuing each other?]
@@ -1688,16 +1599,9 @@ List the spaces where privacy is possible — and what risks each location carri
 #strong[Where do your characters meet in secret, and what is the risk of discovery at each location?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Where are they always watched?]
@@ -1899,40 +1803,42 @@ Does it automatically suggest impropriety? Is their reputation ruined? Are they 
 )
 
 
-#block(breakable: false)[
-
 == Dress, Appearance & Adornment
+
 
 Dressing tells us who we are: our social standing, how available we are, our values and beliefs. In addition, clothing creates its own romantic tension. The veil that cannot be removed, the colour that says "do not speak to me," the hair that only your spouse can see unbound.
 
+
 Dress in detail and observe what your characters pay attention to when it comes to each other's clothes. What your protagonist focuses on with regards to another character's appearance will give your readers an idea of where their eyes keep going back to: how fabric falls, a scar that is hidden under the edge of a collar, a ring that is or isn't being worn.
+
 
 Transitions in wardrobe also serve well as indicators of how intimate the relationship has become. Armour removed, hair unbound, formal wear discarded. Each layer of clothing that is removed is a layer of distance that has been removed.
 
+
 === What Clothing Signals
+
 
 #strong[What does clothing communicate in your culture?]
 
+
 #strong[What does clothing communicate in your world? Describe what markers indicate class, profession, marital status, and religion.]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[Are there sumptuary laws — rules about who can wear what?]
 
+
 Certain fabrics, colors, or styles restricted to certain classes? Penalties for dressing "above your station"?
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #strong[What would it mean for your character to dress outside their station?]
@@ -1956,16 +1862,9 @@ What do people actually wear? You don't need to describe every stitch, just know
 #strong[How does clothing differ between wealthy/noble and common/working people in your world? Describe what each group wears for daily life, formal events, work, religious occasions, mourning, and celebrations.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #hint[For historical fashion terminology (chemise, doublet, kirtle, stays, etc.), see Section 20: Quick Reference Sheets.]
@@ -2151,32 +2050,31 @@ What are the circumstances? What does each see?
 )
 
 
-#block(breakable: false)[
-
 ==== What layers come off over the course of the relationship?
+
 
 #hint[Each layer removed is a layer of distance dissolved. Map the progression — from the first small reveal to the moment when they're fully unguarded around each other.]
 
+
 #strong[How does the gradual removal of clothing or armor track the progression of intimacy in your story? Describe an early, middle, and late-stage moment where something is removed or revealed, and what it signifies.]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[Is there a garment that represents armor or protection that one character removes around the other?]
 
+
 Literal armor? A mask? Formal court dress? Religious garments? What does removing it signify?
+
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
+  fill-page: true,
 )
-
-]
 
 
 #block(breakable: false)[
@@ -2276,16 +2174,9 @@ Do they skip steps? Move too fast? Pursue when they shouldn't? Ignore family inv
 #strong[What signals does it send in your world when someone moves too fast in courtship, skips family involvement, or pursues someone above their station?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #divider()
@@ -2396,16 +2287,9 @@ Not a traditional token, but something that gains significance between them:
 #strong[Plan a significant gift-giving moment. What is the gift and why this gift specifically? Describe the giving (nervous or confident?), the receiving (recognition, confusion?), and the aftermath (where does the gift go, how often is it touched?).]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -2434,16 +2318,9 @@ Religious ceremony? Community witness? Consummation? Exchange of vows? Magical b
 #strong[Describe your world's marriage ceremony: Where does it happen? Who performs it? What are the key rituals or moments? What words or vows are spoken? What objects or symbols are used?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What happens after the ceremony?]
@@ -2522,54 +2399,63 @@ Where would it happen? What would they say or do? Who (if anyone) would witness?
 )
 
 
-#block(breakable: false)[
-
 == Death, Grief & Mourning
+
 
 Death customs help shape the way a culture approaches romance and many of its most emotional moments. Rituals surrounding the dead, what is owed to the deceased, whether grief is performed publicly or hidden away, and whether remarriage is permitted or shameful. All of these factors will influence the plot of your romance. What your characters believe about the end of life will colour how they view love and ultimately how they approach it.
 
+
 Death customs can provide the most obvious romantic obstacle in the form of a #strong[mourning period]: a socially or magically enforced period of time where the bereaved are separated from the world of the living, and therefore from the world of romance. Historically, Victorian widows were expected to wear black for over two years, progressing through stages of "deep mourning" to "half mourning" in specific increments. In romantasy, mourning customs can be even more restrictive, including restrictions against dancing, socialising, wearing colours, and being visible in public. The mourning period serves to enforce a waiting period in the characters' lives; developing romantic feelings towards another person during this time carries an added layer of guilt because wanting someone while you are supposed to be grieving the loss of someone is seen as a betrayal of the deceased.
+
 
 But death customs do more than just create a waiting period; they also serve to define the characters. Are your characters careful with the dead? Do they mourn with others? Are they open with their grief, or do they keep it inside? Do your characters follow customs they don't believe in out of a deep respect? These answers will give the reader insight into who they are at their deepest level. If a character is willing to risk their safety to retrieve a body for proper burial, this shows that they have the capacity for selfless acts of caring, and therefore they are emotionally mature. And if a character refuses to take part in the outward signs of mourning, but displays deep, genuine grief in private, this reads as more emotionally honest and complex.
 
+
 Grief is the unseen force driving both central relationships in #emph[A Court of Thorns and Roses]. Rhysand has built a whole identity on unaddressed grief for the murders of his mother and sister by Tamlin's father and brothers. As such, he believes that anything he loves will eventually be taken away from him and keeps his true feelings and mating bond with Feyre hidden to protect himself. At the same time, Feyre is grieving the loss of her humanity, as she died and was resurrected as High Fae. The symptoms she displays (nightmares, dissociation, physical illness) are classic trauma responses, yet in the Spring Court, these are dismissed. The romantic obstacle isn't just that Tamlin is controlling; it's that he is unable to deal with his own grief, so he can't hold space for hers. Because Rhysand acknowledges her pain and provides Feyre with the room to feel it, he offers something Tamlin structurally cannot. Because of this fundamental difference in how each of them experiences and processes grief, one relationship is broken, and a new one can emerge.
+
 
 Death is far from abstract in #emph[The Cruel Prince]. When Jude was only seven years old, she witnessed her parents' murder at the hands of Madoc. The Fae around her have become detached and nonchalant about death; during a royal coronation where the entire royal family is slaughtered, the celebration continues without a care. This cultural indifference to mortality is itself a source of conflict. Jude is aware that because she is mortal and the Fae are immortal, she is fragile and ephemeral, and that perception affects all of her interactions with Cardan. It is her knowledge that death is final that makes her ruthless, and it gives her an advantage over the immortals surrounding her.
 
+
 In #emph[Fourth Wing], the dragon bond causes a series of events to occur once one partner dies: the bonded dragon dies, which kills the other bonded rider. Because there is an irrefutable mathematical certainty of shared mortality, Violet and Xaden are invested in each other's survival prior to developing an emotional connection. When Liam, Xaden's friend and Violet's protector, is killed, this is the moment that finally allows Violet to break down her defences and accept that death is not some distant concept in their world. It is this shared mourning for Liam that begins to unite them to a greater extent than before, developing a shared purpose that deepens into something more personal.
+
 
 When developing mourning traditions for your world, there are several dynamics worth thinking about:
 
+
 #strong[Grief as a psychological barrier.] A character that has lost someone they loved will likely believe that when they lost that person, they also lost their ability to love. Therefore, a new love interest must find a way to help the character overcome the idea that loving again is a betrayal, by dismantling the character's internal beliefs that prevent them from feeling. This is a primary driver of the slow burn: the pining isn't just about external separation but about a character who won't allow themselves to feel.
+
 
 #strong[Mourning as public performance.] In some cultures, grief must be visible: specific clothing, wailing rituals, professional mourners, public vigils. In others, grief must be hidden; stoicism is valued, and those who visibly show their grief are viewed as weak. Both create romantic tension, but in different ways. Public mourning makes the bereaved conspicuous and untouchable. Private mourning creates a secret emotional world that only someone very close would be allowed to witness.
 
+
 #strong[The taboo of loving again.] In worlds with soul bonds or fated mates, the tie is frequently described as a tie that transcends death and even reincarnation. If your culture views the bond as eternal, then loving someone new isn't just moving on. It would represent a metaphysical betrayal. The "widow's veil" (literal or metaphorical) becomes an obstacle to intimacy that could not be overcome through conversation alone.
+
 
 #strong[Shared mourning as a bond.] When two characters grieve together, following rituals, sitting vigil, performing rites for someone they both loved, the experience creates a connection that is qualitatively different from anything else in the story. They have witnessed each other in a completely raw state, with no pretences or social masks to hide behind. Like shared danger, shared grief can rapidly advance a relationship, because it forces individuals to present their true selves emotionally.
 
+
 #strong[What are the mourning customs in your culture?]
+
 
 #strong[What are your world's mourning customs? How long is the mourning period, what mourning dress or symbols are used, and what restrictions apply during mourning (social, romantic, business)?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[How does your culture treat the dead?]
 
+
 Burial, cremation, sky burial, magical dissolution? Is there a ritual that must be performed? What happens if the rites aren't completed — does it affect the dead, the living, or both?
+
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
-
-]
 
 
 #strong[What are the rules around loving again after loss?]
@@ -2774,16 +2660,9 @@ Their upbringing shaped who they are. What was childhood like for them?
 #strong[How were your protagonist and love interest each raised and educated? What skills did they gain, and what gaps does each have?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -2836,27 +2715,30 @@ Family tradition? Personal choice? Assignment? Class restrictions?
 == PART TWO: CULTURE & ROMANCE
 
 
-#block(breakable: false)[
-
 == Festivals, Holidays & Celebrations
+
 
 Special occasions have a way of shrinking time, bringing people close to one another, and heightening emotions. They're classic romance settings because the energy is different, rules may relax, and everyone is gathered in the same place.
 
+
 The environment created by festivals gives characters an excuse to be different than they normally would. A character's face hidden behind a mask, the need to touch while dancing, the tradition that pairs strangers together. You can use these as excuses for intimacy your characters couldn't otherwise justify. And at the end of the festival, the urgency kicks in too. This chance won't come again.
+
 
 #strong[What major festivals or celebrations exist in your world?]
 
+
 Describe 2-3 that matter for your story:
+
 
 #strong[Describe 1-3 important festivals in your world. For each, when does it happen, what does it celebrate, and what are the key traditions?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
 
-&nbsp;
+#block(breakable: false)[
 
 ==== Which festival provides a romantic opportunity for your characters, and why?
 
@@ -3007,58 +2889,56 @@ If your character is exiled, where do they go? Who takes them in? Does the roman
 #strong[If a character is exiled or becomes an outsider, what do they lose? Consider: home/territory, name/title/identity, family connections, access to magic or power, community, sense of self. What replaces what they've lost?]
 
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-#block(breakable: false)[
 
 == Social Hierarchy in Practice
 
+
 Even if there were no laws governing how people act in society, people would still find a way to create rules of conduct based on social hierarchy. We all learn the "rules" about how to act toward those higher up in the social order and those lower down. Who enters the room first? Who speaks, and when does the listener get to speak? Who may put a hand on whom? None of this is written into a law book, yet most people understand these unspoken codes and follow them.
+
 
 In cases where members of different social classes fall in love, all of these unwritten rules become critical. Will the noble acknowledge the servant's existence? Is it acceptable for the commoner to meet the noble's eye? All of the tension in such a relationship stems from the disconnect between the roles each partner feels obligated to follow and what they actually feel about one another.
 
+
 There's nothing quite like showing that a character has been completely invisible to the upper classes their entire life and now finds themselves truly seen by someone in a position of authority over them. That is electrifying.
+
 
 You can illustrate social hierarchy through automatic behaviours: who enters the room first, who remains seated while others stand, who speaks and who waits to be spoken to. Each time your characters break one of these automatic behaviours, it indicates a shift in the balance of power. It is at the moment a noble addresses a servant with equality, or a commoner responds to their lord in kind, that the reader feels the change.
 
+
 The separation of public and private behaviour can be very effective in showing hierarchy. When characters display perfect hierarchy in front of others but fall out of line once they are alone, they are essentially creating their own secret intimacy within that private space.
+
 
 Look for the "slip": when a character accidentally reaches for the other person's hand, uses their first name, or speaks before receiving permission, and then realises what they have done. That instant of "I forgot myself" reveals the true nature of the character beneath the social mask they wear.
 
+
 Additionally, allow secondary characters to reinforce the consequences of breaking those rules. A servant who observes too much, a rival who keeps track of every detail, a parent who cautions "people are starting to talk." The hierarchy feels authentic when someone else is paying attention.
+
 
 #strong[What are the unwritten rules of cross-class interaction?]
 
+
 #strong[What are the etiquette rules between different classes or ranks in your world? Address eye contact, forms of address, physical proximity, who speaks first, and what topics are appropriate.]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[What happens when someone violates these unwritten rules?]
 
+
 Social consequences — awkwardness, offense, whispers, retaliation:
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #strong[If your characters are from different classes, how do they navigate interaction?]
@@ -3094,16 +2974,9 @@ Markets? Festivals? Neutral territory? Magical spaces? Private chambers?
 #strong[Describe a moment when a character slips on etiquette — breaks a class or rank rule without meaning to. What is the slip, who makes it, who notices, and what does it reveal?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 ==== How do your characters behave differently in public versus private?
@@ -3115,16 +2988,9 @@ Markets? Festivals? Neutral territory? Magical spaces? Private chambers?
 #strong[How do your characters interact differently in public versus in private? What would happen if someone saw the private version?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == Language, Names & Forms of Address
@@ -3186,16 +3052,9 @@ This is often a pivotal intimacy moment:
 #strong[Describe the shift in how your characters address each other: What do they call each other at first, what do they shift to, and when and why does the change happen?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Is there significance to names in your world?]
@@ -3222,60 +3081,58 @@ True names with power? Secret names? Multiple names for different contexts?
 ]
 
 
-#block(breakable: false)[
-
 == Cultural Differences Between Characters
+
 
 #strong[Do your characters come from different cultural backgrounds?]
 
+
 If no, skip to Integration Check.
+
 
 If yes:
 
+
 #strong[What culture does each character come from?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[What are the key differences between their cultures?]
 
+
 #strong[Compare the two cultures your characters come from: How do their values, customs, and taboos differ?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[What does one culture do that the other finds shocking, rude, or confusing?]
 
+
 #strong[Describe 2-3 cultural misunderstandings that could arise between your characters because of their different backgrounds.]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[What romantic gesture from one culture means something different in the other?]
 
+
 This is prime territory for miscommunication and eventual understanding:
+
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
-
-]
 
 
 #strong[When do they realize they've been misunderstanding each other?]
@@ -3309,16 +3166,9 @@ The intimacy of sharing worlds:
 #strong[How does culture connect to other parts of your world? Consider: How does government enforce cultural norms? How does magic interact with cultural customs? What cultural norm conflicts with your magic system? How do economic realities constrain your characters? What customs have religious origins? How does your culture's attitude toward desire affect your romance's pacing?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #structured-table(

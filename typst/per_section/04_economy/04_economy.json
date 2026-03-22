@@ -69,20 +69,7 @@
       "text": "**Map the emotional debt between your characters. What has been given or received, who gave, who owes, and how does the debt feel?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -167,20 +154,7 @@
       "text": "**Which economic mechanisms drive your romance — imbalance (one has more), pressure (necessity forces choices), or transaction (resources pass between them)? How does each show up, and which scenes does it drive?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading3",
@@ -1088,20 +1062,7 @@
       "text": "**What is the most valuable resource in your world? Why is it valuable, and who controls it?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1320,20 +1281,7 @@
       "text": "**Describe 2-3 key occupations in your world. For each, what do they do, what is their social status, and who typically does this work?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1450,20 +1398,7 @@
       "text": "**Describe your protagonist's occupation: What do they do? What skills have they learned through work? How does the work show on their body? What do they notice that others don't because of their training?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1478,20 +1413,7 @@
       "text": "**Describe your love interest's occupation: What do they do? What skills have they learned through work? How does the work show on their body? What do they notice that others don't because of their training?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -1513,20 +1435,7 @@
       "text": "**Describe your protagonist's economic position: What is their economic status, source of income, economic security, and economic autonomy?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1541,20 +1450,7 @@
       "text": "**Describe your love interest's economic position: What is their economic status, source of income, economic security, and economic autonomy?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1648,20 +1544,7 @@
       "text": "**How does each character feel about the wealth gap between them, and how do they show it (or hide it)?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -1824,20 +1707,7 @@
       "text": "**Describe the economics of marriage in your world: Who negotiates? What does each side provide (dowry, bride price, alliance)? What happens financially if the marriage dissolves? Is consummation required? Can the contract be broken, and at what cost?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1889,20 +1759,7 @@
       "text": "**If your characters are bound by a contract, bargain, or magical bond: What kind of bond is it? Who initiated it and why? What are the exact terms? What happens if someone breaks it? Is consummation required? Can the bond be felt physically or mentally?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1925,20 +1782,7 @@
       "text": "**For each character: When does the contract or arrangement stop being the reason they stay, and how do they realise it?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading3",
@@ -1953,20 +1797,7 @@
       "text": "**What does each character stand to inherit — or what have they been denied?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2047,20 +1878,7 @@
       "text": "**If a character carries a debt: To whom is it owed? For what? What happens if they can't repay? Is it magically enforced? How does the debt affect their ability to say yes or no to the romance?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2156,20 +1974,7 @@
       "text": "**If your characters have an economic arrangement (marriage of convenience, etc.), describe: What is the arrangement? Why is it necessary? What does each party get?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2215,20 +2020,7 @@
       "text": "**How does each character respond to the economic arrangement — what do they feel about it?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -2254,20 +2046,7 @@
       "text": "**If one character employs the other: Who employs whom? What is the nature of the employment? Can the employee leave freely? What would they lose by refusing advances? What would they lose by accepting?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2472,20 +2251,7 @@
       "text": "**How economically independent is each character? Could they survive on their own?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2646,20 +2412,7 @@
       "text": "**What does each character tell themselves about the economic dimension of the relationship, and what are they afraid might actually be true?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2706,20 +2459,7 @@
       "text": "**What does each character sacrifice economically to be together?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2864,20 +2604,7 @@
       "text": "**After your characters choose each other over economic security: Where do they live? What do they eat every day? Who do they still have access to? Who has shut them out? What do they miss most? What surprised them about their new reality?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2892,20 +2619,7 @@
       "text": "**How do your characters' different financial backgrounds show up in daily life? For the one who grew up with less and the one with more: What do they spend freely on? What do they refuse to spend on? What purchase would start an argument? How do they feel about accepting help?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -3009,20 +2723,7 @@
       "text": "**How does survival-level economic pressure affect the romance? Describe a specific pressure, how it affects the relationship, and a scene where this is felt.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -3135,20 +2836,7 @@
       "text": "**Describe a moral fork your character faces — two options, both costly. What do they choose, what does it cost, and what does it reveal to their partner?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -3159,20 +2847,7 @@
       "text": "**If a character is involved in criminal activity: What illegal activity? What organisation? What code governs their criminal world? What would their lover lose by association? What moral line would they refuse to cross?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -3195,20 +2870,7 @@
       "text": "**Describe how the criminal character's walls come down across three stages (early, middle, turning point): What are they hiding, what do they reveal, and what does each revelation cost them?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -3231,20 +2893,7 @@
       "text": "**If your criminal character went legitimate, what would they lose and what would they gain?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"

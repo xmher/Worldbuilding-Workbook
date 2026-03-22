@@ -431,6 +431,30 @@ def generate_section(data: dict, standalone: bool = False) -> str:
     # Auto-generate section title page if intro is provided
     # and there's no explicit section_title_page in the content
     content = data.get("content", [])
+
+    # Pre-process: replace consecutive &nbsp; prose blocks with a writing_box.
+    # These appear in source markdown as blank lines for writing space but render
+    # as literal "&nbsp;" text. Convert them to proper writing_box elements.
+    cleaned = []
+    i = 0
+    while i < len(content):
+        item = content[i]
+        if (item.get("type") == "prose"
+                and item.get("text", "").strip() in ("&nbsp;", "&amp;nbsp;")):
+            # Count consecutive &nbsp; blocks
+            j = i
+            while (j < len(content)
+                   and content[j].get("type") == "prose"
+                   and content[j].get("text", "").strip() in ("&nbsp;", "&amp;nbsp;")):
+                j += 1
+            # Replace with a single writing_box
+            cleaned.append({"type": "writing_box", "height": "150pt"})
+            i = j
+        else:
+            cleaned.append(item)
+            i += 1
+    content = cleaned
+
     has_title_page = any(
         i.get("type") in ("section_title_page", "title_page")
         for i in content

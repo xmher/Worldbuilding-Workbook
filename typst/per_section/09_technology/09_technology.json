@@ -291,20 +291,7 @@
       "text": "**Is technology consistent across your world, or does it vary by region? Which regions are advanced, which are less advanced, and what causes the disparity?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -430,20 +417,7 @@
       "text": "**What's the fastest way to travel long distances in your world, and what limits it (cost, rarity, danger, who can use it)?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -458,20 +432,7 @@
       "text": "**How long does travel take between major cities, across your world's full span, and along the journey your characters take?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -486,20 +447,7 @@
       "text": "**What makes travel difficult or dangerous in your world? Consider weather and terrain, bandits or hostile creatures, cost and physical demands, and any other risks.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -514,20 +462,7 @@
       "text": "**What travel infrastructure exists in your world? Describe the quality of roads, bridges, ports and harbours, way stations or inns, and stables or animal care.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -637,20 +572,7 @@
       "text": "**How long does it take to send a message between major cities? Between your characters when they're separated?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -813,20 +735,7 @@
       "text": "**Design a stolen moment for your characters: Where does it happen? Who or what are they hiding from? What do they do or say? How do they cover their tracks? What would happen if they were caught?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading3",
@@ -889,20 +798,7 @@
       "text": "**Does your protagonist have servants or attendants? Does your love interest? How does their presence (or absence) affect the characters' ability to have private moments?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -944,20 +840,7 @@
       "text": "**How much time do ordinary people in your world spend on survival tasks like food preparation, water collection, heating, and cleaning? Who does this labour, and how does it affect your characters' available time for romance?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -984,20 +867,7 @@
       "text": "**How much leisure time exists for different classes in your world (wealthy, middle class, poor/working class)? What does the disparity in free time mean for your characters?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1048,20 +918,7 @@
       "text": "**What does nighttime look like in your world? Describe the lighting available in cities, in homes, and in the countryside.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1084,20 +941,7 @@
       "text": "**Think about a key romantic scene between your characters. Where does it take place, what lighting exists, and how does that lighting shape the mood and what the characters can see of each other?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading3",
@@ -1164,20 +1008,7 @@
       "text": "**What does bathing look like for your protagonist and your love interest? Is there a bathing or water scene in your story? Does it serve as safety/domestication or dangerous vulnerability? What makes it emotionally significant?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1264,20 +1095,7 @@
       "text": "**What does your world generally smell like? What does your love interest smell like against that background? What's the in-world justification for their scent, and how does it make your protagonist feel?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading3",
@@ -1328,20 +1146,7 @@
       "text": "**What food is available to different classes in your world (wealthy, common, poor)? How do these differences become visible when your characters share a meal?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1356,20 +1161,7 @@
       "text": "**What does your protagonist typically eat? What does your love interest typically eat? Is there a food gap between them, and what would a shared meal reveal about their dynamic? Could a meal become a turning point in their relationship?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading3",
@@ -1505,20 +1297,7 @@
       "text": "**Does magical healing exist in your world? How common is it, how effective, what can't it heal, and what does it cost?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1533,20 +1312,7 @@
       "text": "**What injuries or illnesses are easily treated in your world? What is survivable with care? What is usually fatal?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1923,20 +1689,7 @@
       "text": "**What weapons exist in your world? List examples of melee, ranged, siege, and magical weapons.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1987,20 +1740,7 @@
       "text": "**Is there a training or sparring dynamic between your characters? Who trains whom (or are they equals), what's being taught, what creates the tension, and how do they act once weapons are put down?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2091,20 +1831,7 @@
       "text": "**Does either character have knowledge the other lacks? Does one teach the other, and how does the knowledge gap affect their dynamic (dependency, shame, wonder, trust)?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -2174,20 +1901,7 @@
       "text": "**What magical solution does one character have that the other doesn't? How does the character without magic solve the same problem, and does the divide create dependency, resentment, wonder, or something else?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading3",
@@ -2206,20 +1920,7 @@
       "text": "**Did past civilisations have technology now lost? What was lost, why was it lost, and could it be rediscovered?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2234,20 +1935,7 @@
       "text": "**Is any technology restricted or forbidden in your world? What's restricted, who restricts it and why, and what are the consequences for using it?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -2273,20 +1961,7 @@
       "text": "**What technology does your protagonist have access to? What about your love interest? What does one take for granted that the other finds remarkable?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2321,20 +1996,7 @@
       "text": "**How do your characters communicate when separated? What method do they use, how long do messages take, and what risk exists in their communication?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2349,20 +2011,7 @@
       "text": "**Where can your characters be truly alone together? Who might observe or overhear them?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2385,20 +2034,7 @@
       "text": "**Does either character face medical issues? What condition, what treatment exists, and does one care for the other during illness or injury?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2413,20 +2049,7 @@
       "text": "**Is contraception available to your characters? Is it something they discuss or navigate?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2441,20 +2064,7 @@
       "text": "**Could your characters marry secretly with no record? What would be required, and what risks would exist?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"

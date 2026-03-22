@@ -105,16 +105,9 @@ Not every magical ability needs to directly advance the romance. Winnowing in #e
 #strong[Which romance-magic patterns from the list above apply to your story? For each one you're using, describe how it shows up between your characters.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 === Character Pairing Dynamics
@@ -142,16 +135,9 @@ Not every magical ability needs to directly advance the romance. Winnowing in #e
 #strong[What is the magical pairing dynamic between your leads (from the archetypes above), and how does it create specific tension in your story?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == A Note Before You Begin
@@ -378,16 +364,9 @@ Who holds more magical, political, or physical power? Power imbalances create te
 #strong[What is your protagonist's magical status? What is your love interest's magical status? What does the gap (or lack of one) between them mean for their dynamic?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[If there's a power gap, what does the less powerful person bring that the powerful one needs?]
@@ -1010,50 +989,50 @@ Limitations can protect or obstruct love. Can magic reveal truth, or does it for
 )
 
 
-#block(breakable: false)[
-
 == Scale, Power & Specialisations
+
 
 Not all magic users are created equal, and not all magic is the same flavour. Understanding the range of power and the types of magic helps you place your characters and set stakes appropriately.
 
+
 #strong[What's the range of magical power in your world?]
+
 
 #hint[Establishing the floor and ceiling of power helps you set stakes. If your protagonist is the most powerful being alive, tension has to come from somewhere other than "will they be strong enough?" If they're among the weakest, every magical encounter is dangerous.]
 
+
 #strong[What does the weakest magic user in your world look like? What about the strongest? Establishing the floor and ceiling of power helps you set stakes.]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[Where do your protagonist and love interest fall on this scale?]
 
+
 #hint[The gap (or lack of one) between your leads shapes their entire dynamic. Equally matched characters negotiate; imbalanced ones navigate trust, protection, and the risk of resentment.]
+
 
 #strong[Where do your protagonist and love interest fall on the power scale you just described? How does the gap (or lack of one) between them shape their dynamic?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[Is raw power the only measure of magical strength?]
 
+
 Or can skill, creativity, knowledge, or cleverness make a "weaker" user formidable?
+
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
-
-]
 
 
 #strong[What's the most impressive feat of magic in your world's history?]
@@ -1149,16 +1128,9 @@ In #emph[Gideon the Ninth], Harrow is a necromancer who works with bones and dea
 #strong[How might your leads' magic interact? Describe each character's magic, how their abilities might clash, how they might complement each other, and what this means for the romance.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == Magical Creatures, Familiars & Companions
@@ -3034,16 +3006,9 @@ Underground magic users, rebel factions, hidden communities, black markets?
 #strong[Where does your protagonist stand in relation to magical authority (hunted, enforcer, exempt, hidden)? Where does your love interest stand? What does each position cost them, and how might their positions create tension or force alliance?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How might their positions regarding magical authority create tension between them, or force them into alliance?]
@@ -3188,16 +3153,9 @@ How does your magic system connect to the rest of your world?
 #strong[How does your magic system connect to the rest of your world? For each relevant system (geography, government, religion, culture, economy, history), describe how magic integrates and how that integration affects your leads.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #structured-table(

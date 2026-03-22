@@ -107,16 +107,9 @@ Beyond the subtypes, forced proximity creates romantic tension through a set of 
 #strong[From the forced proximity patterns listed above, which three fit your story best? Rank them and explain why each suits your story.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == A Note Before You Begin
@@ -368,16 +361,9 @@ You've likely already identified your setting in Section 1 (Geography) or Sectio
 #strong[Map the specific constraints of your pressure cooker setting: What are the physical constraints (size, layout, barriers)? The temporal constraints (how long they're stuck)? The survival needs? The social pressure (who's watching)? And what happens if they try to escape?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What's the minimum physical distance they can maintain?]
@@ -1187,16 +1173,9 @@ Be honest. The answer might be different for each character, and it might not be
 #strong[What lingers after the pressure cooker period? Consider: secrets kept during confinement, habits formed together, sensory memories that ambush them, guilt about things said or done, knowledge of vulnerabilities seen, and private jokes or rituals.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What act of choice proves the connection is real?]
