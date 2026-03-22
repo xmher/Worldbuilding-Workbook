@@ -100,16 +100,9 @@ Different relationship dynamics interact with locations differently. Have a thin
 #strong[What is your pairing dynamic (e.g., enemies to lovers, forbidden love, slow burn), and which types of location pressure does your romance need most? Why does this combination serve your story?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == A Note Before You Begin
@@ -157,16 +150,9 @@ List three to five major romantic moments in your story. Think about the moments
 #strong[List three to five pivotal romantic moments in your story -- the scenes that shift the relationship, where walls come down, stakes become real, or everything changes.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 === Matching Moments to Locations
@@ -260,16 +246,9 @@ A good location will create both a need for a certain type of intimacy and also 
 #strong[For this location: What does the space force to happen (physical proximity, cooperation, vulnerability)? And what does it prevent (escape, privacy, honesty)?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What features define the space?]
@@ -454,36 +433,36 @@ Emotional (can they speak freely, show vulnerability):
 #divider()
 
 
-#block(breakable: false)[
-
 ==== Time, Atmosphere and Weather
+
 
 Locations are fluid. Time and weather alter them as well as the possibilities they create. A garden at noon is exposed; at midnight, it's a different world entirely. Rain forces characters under the same shelter. Snow isolates. Fog hides. The same location can serve entirely different scenes depending on when your characters arrive.
 
+
 Time of day also shapes the #emph[type] of romantic tension a space creates. At dawn, there's a sense of vulnerability because both partners were awake all night and the defences each has erected throughout the day have been lowered, and the coming daylight forces a reckoning with what happened in the dark. Midday is exposure, public, nowhere to hide. Dusk is transition, the moment the public person begins to shed their skin to become the private one, the moment the rules of the day start loosening. And midnight is transgression. Nothing good and proper happens at midnight, which is exactly why the best scenes do.
+
 
 #strong[How does this location change at different times?]
 
+
 #hint[The same space creates completely different romantic tension depending on when your characters arrive. Think about which version serves your scene best.]
+
 
 #strong[What time of day does your pivotal scene happen in this location? How does the space change at that hour, and what romantic tension does that timing create?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 What time does the pivotal scene happen, and why that time? Timing should feel deliberate, chosen because this version of the space creates the right pressure.
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 How might weather transform this space? Is weather significant in the scene that happens here?
@@ -632,38 +611,39 @@ Spatial irony gives the reader a sense of being complicit. When we know the secr
 )
 
 
-#block(breakable: false)[
-
 ==== Magical Properties
+
 
 #hint[(Skip if this location has no magical features. Reference Section 10 for your magic system.)]
 
+
 Some of the most compelling romantasy locations aren't just physical spaces. These settings are often "alive" with magic, responding to, constraining, or transforming the characters within them. In ACOTAR, the House of Wind is aware of Nesta's traumatic fear of fire, so it warms the floors instead of lighting a hearth. The wards in #emph[Fourth Wing] physically bind bonded riders to each other's proximity. The Sin Corridor in #emph[Kingdoms of the Wicked] has the ability to elicit specific emotions from every person that passes through it, bypassing conscious defences entirely.
+
 
 Why do magical location properties matter for romance? Because they can accomplish things that real-world locations can't: strip away masks, force emotional transparency, mandate proximity through metaphysical bonds, or create sanctuary so complete that even traumatised characters can begin to feel safe. They're not just cool worldbuilding details. They're mechanical tools that enable the intimate moments your story needs.
 
+
 Does this location have active magical properties? Wards, enchantments, sentience, shifting geography, emotion-responsiveness, truth-compelling features, magical barriers?
+
 
 Use the table below to identify how the magic of this space serves your scene:
 
+
 #strong[Does this location have active magical properties (wards, sentience, emotional influence, shifting geography, bonding/tethering)? For each that applies, describe how the magic works here and what it does for the romance.]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 Does the magic of this space bypass your characters' defences? Emotion-responsive environments, truth-compelling pools, sin-testing corridors. These spaces force a transparency that characters would never choose voluntarily. If your location has this property, it can accelerate intimacy in a way that feels earned because it's the space doing the work, not a convenient change of heart.
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 Does the magic create safety or danger, or both? The House of Wind provides sanctuary but also isolation. The wards of Navarre protect but also trap. The best magical locations offer something your characters desperately need while simultaneously taking something away.
@@ -1224,16 +1204,9 @@ Your key locations don't exist in isolation. They're shaped by every system you'
 #strong[Name your recurring location (the place that becomes 'theirs'), any location that becomes lost or inaccessible, and the location where the romantic climax happens.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == Final Thought

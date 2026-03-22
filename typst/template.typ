@@ -511,6 +511,31 @@
 }
 
 
+// --- Answer Box ---
+// A bordered box for free-form answers, with "YOUR ANSWER" label in green small caps
+#let answer-box(
+  height: 180pt,
+) = {
+  block(
+    width: 100%,
+    inset: (x: 20pt, y: 15pt),
+    stroke: 1pt + color-noir,
+    fill: white,
+    above: 1em,
+    below: 1.5em,
+    breakable: false,
+  )[
+    #text(
+      font: font-display,
+      size: 0.65em,
+      tracking: 2pt,
+      fill: color-theme,
+    )[YOUR ANSWER]
+    #v(height)
+  ]
+}
+
+
 // --- Checklist ---
 // R9: 12pt spacing between items for printability
 #let checklist(..items) = {

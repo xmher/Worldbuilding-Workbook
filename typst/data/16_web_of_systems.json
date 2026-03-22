@@ -481,20 +481,7 @@
       "text": "**Which other worldbuilding systems (politics, culture, religion, history, economy) does your magical bond collide with? For each relevant system, describe how it interacts with the bond and what tension that creates.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading3",
@@ -905,20 +892,7 @@
       "text": "**If your world distinguishes between 'sacred bonds' (arranged, ordained, prophesied) and 'chosen bonds' (personal love), describe both, why they conflict, and what breaking the sacred bond costs.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -959,20 +933,7 @@
       "text": "**How does your romance interact with your world's faith system? Does it violate a religious law, break a sacred vow, fulfil an unexpected prophecy, prove a doctrine wrong, or challenge a corrupt authority? What does this cost the character, and what does it reveal about the faith?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading3",
@@ -1134,20 +1095,7 @@
       "text": "**What is your biggest romantic obstacle? Trace it backward: which worldbuilding systems (politics, history, culture, magic, economy, religion) generate this obstacle, and how do they compound to make it feel earned?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1227,20 +1175,7 @@
       "text": "**Choose one major worldbuilding element and test its connections. How does it affect geography, economy, politics, culture, and your romance? If it doesn't connect to at least three of these, it might be decorative.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "hint",
@@ -1778,20 +1713,7 @@
       "text": "**For each major system you've built (magic, politics, economy, culture, religion, geography, history), does it connect to your romance? For any that don't, either strengthen the connection or acknowledge it exists for atmosphere.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",

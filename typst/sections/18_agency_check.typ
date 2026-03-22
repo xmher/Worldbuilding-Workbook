@@ -1292,16 +1292,9 @@ Some readers may enjoy the idea of a "safe harbour," the sense of knowing that t
 #strong[Where does your bond sit on the compulsion spectrum (full compulsion, choice within fate, or fate as conflict)? Based on that position, what does your story need most to preserve agency, and what is your specific plan to achieve it?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 === The Acceptance Ritual
@@ -1441,16 +1434,9 @@ If your removal tests or checklist revealed problems, here's where to fix them. 
 #strong[Look back at the systems you built in earlier sections (Religion/Prophecy, Magic, Magic & Intimacy, Pressure Cooker, Government/Law, Institutions, and your Obstacle Map from Section 16). For each one that touches your romance, does it support character agency? If any undermine agency, what needs to change?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == The Agency Checklist

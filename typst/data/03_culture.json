@@ -57,20 +57,7 @@
       "text": "**For both your protagonist and love interest: What cultural rule do they accept without question at the start? What moment makes the cage visible? What do they lose by seeing it, and what do they gain?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -204,20 +191,7 @@
       "text": "**Which cultural restriction patterns from the reference list apply to your world? For each, describe how it specifically works in your story.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -431,20 +405,7 @@
       "text": "**How does each character (protagonist and love interest) relate to their culture's dominant values? Where do they conform, and where do they chafe?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -491,20 +452,7 @@
       "text": "**What roles and behaviors does your culture expect based on gender? What is prohibited?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -515,20 +463,7 @@
       "text": "**How do gender expectations specifically affect your protagonist and love interest?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -597,20 +532,7 @@
       "text": "**Describe the daily rhythm of life in your world: When do people wake and what happens first? Is there a midday rest or main meal? When does work end? What is nightlife like?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -660,20 +582,7 @@
       "text": "**How does the protagonist's daily routine shift after the love interest enters their life? Pick a specific routine element and describe it before and after.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -703,20 +612,7 @@
       "text": "**What does home look like for the wealthy, the middle class, and the poor in your world?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -850,20 +746,7 @@
       "text": "**What is each character's family's stance on the relationship, and what power do they have to interfere?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -897,20 +780,7 @@
       "text": "**Describe the meals in your world: What do people eat for morning, midday, and evening meals, and how do they eat (alone, communally, formally)?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -1047,20 +917,7 @@
       "text": "**What are the distinctive architectural features of your world's key buildings — palaces, temples, merchant homes, common dwellings, and fortifications?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1075,20 +932,7 @@
       "text": "**Describe a specific architectural layout in your story and explain how its physical design affects the romantic dynamic (e.g., hidden alcoves, echoing corridors, shared walls).**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -1408,20 +1252,7 @@
       "text": "**Describe a moment where one character makes a cultural mistake in the other's world. What is the mistake, who makes it, and how does the other react?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -1650,20 +1481,7 @@
       "text": "**What social activity allows your characters to spend time together without arousing suspicion? What does it allow (touch, conversation, competition), and how obvious is it to others that they're there for each other?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -1802,20 +1620,7 @@
       "text": "**If a character has sworn an oath that conflicts with the romance, describe: What are the exact words? Who was it sworn to? What was it intended to mean vs. what could it literally mean (the loophole)? What does it cost to break outright?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -1841,20 +1646,7 @@
       "text": "**What behaviors are taboo in your world? Consider physical taboos (touch, proximity, eye contact), verbal taboos, social taboos, magical taboos, and sexual taboos.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -1869,20 +1661,7 @@
       "text": "**Pick your most important taboos and describe how each specifically affects the romance.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2154,20 +1933,7 @@
       "text": "**What would destroy the reputation of someone in the protagonist's position? What about the love interest's position?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2221,20 +1987,7 @@
       "text": "**What is the worst possible rumor that could circulate about your protagonist? About your love interest?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2294,20 +2047,7 @@
       "text": "**Where do your characters meet in secret, and what is the risk of discovery at each location?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2571,20 +2311,7 @@
       "text": "**What does clothing communicate in your world? Describe what markers indicate class, profession, marital status, and religion.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2625,20 +2352,7 @@
       "text": "**How does clothing differ between wealthy/noble and common/working people in your world? Describe what each group wears for daily life, formal events, work, religious occasions, mourning, and celebrations.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "hint",
@@ -2843,20 +2557,7 @@
       "text": "**How does the gradual removal of clothing or armor track the progression of intimacy in your story? Describe an early, middle, and late-stage moment where something is removed or revealed, and what it signifies.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -2992,20 +2693,7 @@
       "text": "**What signals does it send in your world when someone moves too fast in courtship, skips family involvement, or pursues someone above their station?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -3139,20 +2827,7 @@
       "text": "**Plan a significant gift-giving moment. What is the gift and why this gift specifically? Describe the giving (nervous or confident?), the receiving (recognition, confusion?), and the aftermath (where does the gift go, how often is it touched?).**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -3191,20 +2866,7 @@
       "text": "**Describe your world's marriage ceremony: Where does it happen? Who performs it? What are the key rituals or moments? What words or vows are spoken? What objects or symbols are used?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -3347,20 +3009,7 @@
       "text": "**What are your world's mourning customs? How long is the mourning period, what mourning dress or symbols are used, and what restrictions apply during mourning (social, romantic, business)?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -3618,20 +3267,7 @@
       "text": "**How were your protagonist and love interest each raised and educated? What skills did they gain, and what gaps does each have?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -3731,20 +3367,7 @@
       "text": "**Describe 1-3 important festivals in your world. For each, when does it happen, what does it celebrate, and what are the key traditions?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -3923,20 +3546,7 @@
       "text": "**If a character is exiled or becomes an outsider, what do they lose? Consider: home/territory, name/title/identity, family connections, access to magic or power, community, sense of self. What replaces what they've lost?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -3982,20 +3592,7 @@
       "text": "**What are the etiquette rules between different classes or ranks in your world? Address eye contact, forms of address, physical proximity, who speaks first, and what topics are appropriate.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -4049,20 +3646,7 @@
       "text": "**Describe a moment when a character slips on etiquette — breaks a class or rank rule without meaning to. What is the slip, who makes it, who notices, and what does it reveal?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -4077,20 +3661,7 @@
       "text": "**How do your characters interact differently in public versus in private? What would happen if someone saw the private version?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -4172,20 +3743,7 @@
       "text": "**Describe the shift in how your characters address each other: What do they call each other at first, what do they shift to, and when and why does the change happen?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -4233,20 +3791,7 @@
       "text": "**What culture does each character come from?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -4257,20 +3802,7 @@
       "text": "**Compare the two cultures your characters come from: How do their values, customs, and taboos differ?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -4281,20 +3813,7 @@
       "text": "**Describe 2-3 cultural misunderstandings that could arise between your characters because of their different backgrounds.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
@@ -4347,20 +3866,7 @@
       "text": "**How does culture connect to other parts of your world? Consider: How does government enforce cultural norms? How does magic interact with cultural customs? What cultural norm conflicts with your magic system? How do economic realities constrain your characters? What customs have religious origins? How does your culture's attitude toward desire affect your romance's pacing?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
