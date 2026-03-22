@@ -36,7 +36,7 @@
   set page(
     width: 8.5in,
     height: 11in,
-    margin: (top: 1in, bottom: 1.25in, left: 1.1in, right: 1.1in),
+    margin: (top: 0.75in, bottom: 0.9in, left: 0.85in, right: 0.85in),
     fill: white,
 
     // Double decorative border on every page
