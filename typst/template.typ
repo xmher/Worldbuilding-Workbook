@@ -138,8 +138,9 @@
       breakable: false,
     )[
       #set par(spacing: 0pt)
+      #set block(spacing: 0pt)
       #it.body
-      #v(-2pt)
+      #v(1pt)
       #line(length: 100%, stroke: 2pt + color-accent)
     ]
   }
