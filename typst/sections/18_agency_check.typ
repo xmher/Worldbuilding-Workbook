@@ -1425,18 +1425,19 @@ If your removal tests or checklist revealed problems, here's where to fix them. 
 )
 
 
-== Integration Check: Does Your Agency Hold Up?
+#block(breakable: false)[
 
+== Integration Check: Does Your Agency Hold Up?
 
 #hint[This section pulled from nearly every earlier section in the workbook. Use this table to verify your agency answers are consistent with what you've already built.]
 
-
 #strong[Look back at the systems you built in earlier sections (Religion/Prophecy, Magic, Magic & Intimacy, Pressure Cooker, Government/Law, Institutions, and your Obstacle Map from Section 16). For each one that touches your romance, does it support character agency? If any undermine agency, what needs to change?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 == The Agency Checklist

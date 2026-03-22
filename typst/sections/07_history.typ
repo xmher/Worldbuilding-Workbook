@@ -7,39 +7,33 @@
 )
 
 
-== The Sediment Principle
+#block(breakable: false)[
 
+== The Sediment Principle
 
 Think of your world's history as sediment. Every event, war, betrayal, legendary love affair -- these things don't disappear. They compress. One layer on top of another, century after century, they become the ground your characters stand on. Your characters don't see the layers. They just know the ground is solid, that "this is how things are," that certain truths feel as permanent as bedrock.
 
-
 But bedrock is just old catastrophe, compressed.
-
 
 It is because of this that history is such a valuable tool in the romantasy genre. Your characters aren't fighting a war. They're fighting the #emph[sediment] of a war that ended three hundred years ago, compressed into family names and border lines and the phrase "we don't trust their kind." They didn't choose to hate each other. They inherited so much hatred from three centuries back it feels like geology. And when they fall in love anyway, they're not just going against their families. They're cracking bedrock.
 
-
 The deeper the sediment is, the harder it will be to move. A grudge from last year can probably get talked out. But a grudge from five hundred years back has been compressed into identity; it's not something you believe, it's something you #emph[are]. That's why historical enemies-to-lovers is often a better read than personal enemies-to-lovers. The barrier is not something to be clarified or discussed. It's an entire worldview to dismantle.
-
 
 The Wall in #emph[ACOTAR] is sediment made literal: a physical ward erected after a five-hundred-year-old war, so old by now that Feyre grew up treating it as geography rather than politics. In #emph[Fourth Wing], the Tyrrish rebellion happened one generation ago, but it's already compressed into identity. Xaden is "a rebel's son" before he's anything else, and he carries the 107 scars that turned a political event into a bodily fact. And in #emph[Mistborn], the Lord Ruler's ascension happened a thousand years ago and has been compressed into religion, class structure, and the very biology of the skaa. That's the deepest sediment in romantasy; so old it feels like the laws of nature.
 
-
 You must decide what is underneath your characters' feet, and then let the cracks show.
-
 
 #strong[What sediment are your characters standing on?]
 
-
 The deeper the historical layer, the harder it is to crack. Identify the layers of compressed history beneath your characters' feet, from recent grudges to ancient bedrock.
 
-
 #strong[Identify three layers of compressed history beneath your characters' feet: a surface-level event (within living memory), a mid-level cultural memory, and a deep bedrock belief. For each, describe what happened, how compressed it has become, and how it affects your characters today.]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[How deep is the bedrock your characters need to crack?]
@@ -67,10 +61,13 @@ What would it take to crack sediment that deep?
 )
 
 
+#block(breakable: false)[
+
 == History in Romantasy
 
-
 History creates romantic obstacles through three mechanisms: inheritance, precedent, and weight. Your characters didn't choose the past, but they're bound by it.
+
+]
 
 
 #workbook-table(
@@ -942,19 +939,19 @@ Clandestine meeting places? Forbidden archives? Subversive art? Underground netw
 )
 
 
-== Historical Figures & Legendary Lovers
+#block(breakable: false)[
 
+== Historical Figures & Legendary Lovers
 
 Every history contains its share of legends, its share of demons, and its share of iconic names; your characters exist in those shadows. Heroes build the expectation that others will live up to it. Villains create the lesson for cautionary tales. Legendary lovers create the prototype that your characters are compared to. It's not only a matter of "who came before?" but rather "whose ghost is standing between them?"
 
-
 Your world's heroes and villains do more than simply fill in a timeline. They establish the standards and expectations your characters are judged against. A protagonist born into a family line of great heroes carries with them the burden of meeting that legacy, and thus the burden of whom they "should" fall in love with. A love interest whose ancestors were your world's greatest villain may carry with them some form of shame that influences all interactions that take place between the two characters. And when one character views another character's hero as a villain? That's not a disagreement. That is a fault line that exists in how each of them sees the world.
-
 
 #strong[Who are the great heroes everyone knows?]
 
-
 Is your protagonist compared to one? Does the love interest idolise someone your protagonist's people consider a villain?
+
+]
 
 
 #workbook-table(
@@ -1660,16 +1657,17 @@ Inherited guilt and rage ("I didn't do this, but my people did" and "you didn't 
 )
 
 
-== History as a Weapon
+#block(breakable: false)[
 
+== History as a Weapon
 
 All of the worldbuilding that has been done to this point occurs #emph[beneath] the surface of the story. But on the page, historical conflict shows up in one particular way: characters weaponise the past during arguments, betrayals, and emotional standoffs. They reduce each other to representatives of an oppressive regime or a biologically inferior species. They use "the sins of the father" as a trump card to shut down vulnerability. They retreat into inherited grievance because it's safer than admitting they feel something.
 
-
 That is where your historical worldbuilding earns its keep. If the history you've built doesn't give your characters ammunition to throw at each other during their worst moments, it's not doing enough.
 
-
 Characters don't just #emph[feel] historical enmity. They #emph[use] it. The past becomes a defensive mechanism: a means of maintaining psychological distance, a justification for betrayal, a method for ending an argument they're losing. When the present becomes too emotionally dangerous, the past gets thrown like a grenade.
+
+]
 
 
 #workbook-table(
@@ -1830,13 +1828,15 @@ A reveal that violates the listener's beliefs can only be survived if the story 
 )
 
 
-== Reconciling with History
+#block(breakable: false)[
 
+== Reconciling with History
 
 Building tension is one thing; resolving it is much harder. One of the most common failures of the historically-rooted enemies-to-lovers trope is the reconciliation that feels too simple: either a revelation that causes the feud to dissipate quickly, or a single conversation that ends hundreds of years of animosity. If you have created a historical conflict strong enough to keep your lovers apart for the majority of your book, then you need to create an equally powerful resolution.
 
-
 Earned reconciliations are the ones that create closure on many different levels: emotionally (the lovers get together), thematically (the meaning of the conflict shifts), and structurally (the world changes). Simply having the lovers reconcile personally -- they come together, but the war is still raging and nothing has changed about the structures of society -- will leave your readers feeling shortchanged. The heart and the world need to be transformed together.
+
+]
 
 
 #workbook-table(
@@ -1916,24 +1916,23 @@ A reconciliation that comes at no cost is unearned. The larger the historical we
 )
 
 
-== Living History: Long-Lived Beings
+#block(breakable: false)[
 
+== Living History: Long-Lived Beings
 
 The fact that immortals and ancient beings have a personal connection to the past, by way of having lived through the same time period, collapses the distance between past and present. An ancient character doesn't learn about the old war -- the character was there. They fought in it. And when they fall in love with someone mortal, the contrast between the two is extreme. The former has hundreds of years of background and context to draw upon, while the latter has only the single, short, vibrant experience of a mortal life.
 
-
 This "emotional stasis," or lack of emotional aging, is an almost defining characteristic of the fae court romantasy subgenre. Historical events can become traumatic experiences that remain intensely personal and therefore can be directly tied to the romantic arc. Rhysand is personally connected to the war that created the Wall, not simply as a participant, but as a fighter who suffered losses during the conflict. All decisions that he makes based on politics are fuelled by the same anger and sense of loss that he felt centuries ago. Edward Cullen's ability as a vampire to recall all of his moments since becoming a vampire is due to the clarity and perfection of his immortal memory, while his human memories are fading and indistinct. As a vampire that has been alive for over one hundred years, Edward is stuck in time. His relationship with Bella forces him to confront the stark difference between his crystalline immortal memory and her very brief, intense, mortal experience. And in #emph[Shadow and Bone], the Darkling has lived for centuries and has watched as Sun Summoners came and went. Alina Starkov is another Sun Summoner, and unlike the many others that came before her, she refuses to play out the role assigned to her.
-
 
 #strong[Is either of your characters a long-lived being?]
 
-
 #strong[Is either character a long-lived being? Who are they, how old are they, and what history have they personally lived through?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[If one character is ancient and one is mortal, how does this affect the relationship?]
@@ -1989,7 +1988,11 @@ Are they afraid to love again? Comparing the mortal to past loves? Keeping secre
 )
 
 
+#block(breakable: false)[
+
 == Integration Check
+
+]
 
 
 #workbook-table(
@@ -2004,7 +2007,11 @@ Are they afraid to love again? Comparing the mortal to past loves? Keeping secre
 )
 
 
+#block(breakable: false)[
+
 == Quick Reference
+
+]
 
 
 #workbook-table(

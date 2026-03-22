@@ -27,10 +27,13 @@ But the principle isn't just about physical confinement. It's about creating con
 This section will help you design how your setting functions as a pressure system. You'll build the container, fill it with the right people and constraints, and then determine how to turn up the heat until something has to give.
 
 
+#block(breakable: false)[
+
 == How to Think About Forced Proximity in Romantasy
 
-
 Not all pressure cookers work the same way. The type of confinement shapes the flavour of tension your romance produces. Here are the major subtypes you'll see in romantasy:
+
+]
 
 
 #workbook-table(
@@ -107,16 +110,9 @@ Beyond the subtypes, forced proximity creates romantic tension through a set of 
 #strong[From the forced proximity patterns listed above, which three fit your story best? Rank them and explain why each suits your story.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == A Note Before You Begin
@@ -344,40 +340,29 @@ What stops them: the physical constraints, or something deeper?
 \_\_\_
 
 
-== Your Pressure Cooker Setting
+#block(breakable: false)[
 
+== Your Pressure Cooker Setting
 
 You've likely already identified your setting in Section 1 (Geography) or Section 14 (Institutions). Now it's time to define how it functions as a pressure system.
 
-
 #strong[What is your primary pressure cooker setting?]
-
 
 #hint[Your setting isn't just a backdrop — it's the mechanism that creates and maintains the pressure. The best pressure cooker settings have built-in reasons characters can't leave, limited privacy, forced daily interaction, and at least one space where stolen moments become possible.]
 
-
 \_\_\_
-
 
 #strong[Map the constraints:]
 
-
 #hint[You've already identified your constraint types above. Now map how your specific setting enforces them — the practical details of how your pressure cooker actually works.]
-
 
 #strong[Map the specific constraints of your pressure cooker setting: What are the physical constraints (size, layout, barriers)? The temporal constraints (how long they're stuck)? The survival needs? The social pressure (who's watching)? And what happens if they try to escape?]
 
+#answer-box(
+  height: 180pt,
+)
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+]
 
 
 #strong[What's the minimum physical distance they can maintain?]
@@ -1187,16 +1172,9 @@ Be honest. The answer might be different for each character, and it might not be
 #strong[What lingers after the pressure cooker period? Consider: secrets kept during confinement, habits formed together, sensory memories that ambush them, guilt about things said or done, knowledge of vulnerabilities seen, and private jokes or rituals.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What act of choice proves the connection is real?]
@@ -1260,10 +1238,13 @@ The consequences should be severe enough that staying together isn't just conven
 \_\_\_
 
 
+#block(breakable: false)[
+
 == Integration Check
 
-
 Your pressure cooker doesn't exist in isolation. It's built from the worldbuilding you've already done. Check these connections:
+
+]
 
 
 #workbook-table(

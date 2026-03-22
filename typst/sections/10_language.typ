@@ -13,39 +13,38 @@
 Not every question below will apply to your story. If your characters share a language, skip the barrier sections and focus on voice, silence, and private communication. If literacy isn't relevant, skip it entirely. Start with what creates the most tension between your specific characters and build outward from there.
 
 
-== The Bridge & Barrier Principle
+#block(breakable: false)[
 
+== The Bridge & Barrier Principle
 
 Every word your characters learn in each other's language is a brick in a bridge. Every silence is a wall. Only language is a worldbuilding element that serves as both an obstacle between your characters and the tool that will allow them to conquer that obstacle.
 
-
 Most romantasy barriers are external. Political alliances, forbidden magic, rival courts. But language barriers are different because they live inside every interaction. Every conversation becomes an act of trust. Every misunderstanding is a small wound. Every time your character learns a new word in their partner's language it is an act of investment that says: #emph[your world matters enough for me to learn how you see it.]
-
 
 This is why language works so powerfully in romance. It doesn't just create a problem to be solved. It creates a gradient of intimacy. Your characters move from strangers who can't communicate, to halting exchanges, to fluency, to private words only they share, to silence that says everything. This progression of building intimacy parallels the process of falling in love. In #emph[ACOTAR], Feyre's willingness to lower her mental walls for Rhysand's daemati link is a stronger declaration of love than any verbal confession could be. To allow someone to enter your mind and thoughts is to give up the last vestige of control. That's the bridge, fully built.
 
-
 Build language that creates both barriers and bridges. Make your characters work to understand each other, and make that work meaningful.
-
 
 #strong[Where does your story sit on the barrier-to-bridge progression?]
 
-
 Language intimacy builds in stages. Where do your characters start, and where do they end? Mark the stages that appear in your story — these become scenes to write.
 
-
 #strong[Map the communication arc between your characters. Which of these stages are present in your story, and when does each happen: complete inability to communicate, halting exchanges, functional but nuance-missing conversation, real conversation (arguing, joking, confessing), private language only they share, and silence that says everything?]
-
 
 #answer-box(
   height: 180pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 == Language as a Romantic Toolkit
 
-
 Most writers think about language as a single tool: the language barrier. But language actually gives you a whole toolkit of romantic dynamics, each creating a different flavour of tension. The real craft is matching the right language pattern to the emotional beat you need.
+
+]
 
 
 #workbook-table(
@@ -210,24 +209,23 @@ Where languages mix, characters are most exposed. Markets, courts, border towns,
 )
 
 
-== Language Barriers Between Characters
+#block(breakable: false)[
 
+== Language Barriers Between Characters
 
 If your characters don't share a first language, you've got built-in tension, and one of the most effective slow-burn devices in romantasy. Every conversation requires effort. Every new word learned is a gift. Every misunderstanding is a small crisis that forces them closer or pushes them apart.
 
-
 === Protagonist's Languages
-
 
 How did they learn each one? What doors does their linguistic knowledge open or close?
 
-
 #strong[What is your protagonist's native language? What other languages do they speak and how fluently? How did they learn each one, and what doors do their languages open or close?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 === Love Interest's Languages
@@ -271,21 +269,21 @@ This is a power question as much as a practical one. Does one teach the other? D
 )
 
 
-== Translators & Interpreters
+#block(breakable: false)[
 
+== Translators & Interpreters
 
 When characters need translation, a third party enters their most intimate space. Someone else hears every word, controls meaning, and stands between two people trying to reach each other. That's vulnerability and story opportunity in one.
 
-
 #strong[Do your characters ever need a translator?]
 
-
 #strong[If your characters need a translator or intermediary, who fills that role and how trustworthy are they?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[What can't be said through a translator?]
@@ -384,28 +382,25 @@ What changes when they can finally understand each other fully, when the bridge 
 )
 
 
-== Multilingual Dialogue on the Page
+#block(breakable: false)[
 
+== Multilingual Dialogue on the Page
 
 If the characters in your writing speak multiple languages, you will have an immediate, practical writing problem: how do you actually represent that on the page? English-language fantasy has developed a reliable toolkit for this, and the key is choosing the technique that matches the emotional experience you want your reader to have.
 
-
 === The Translation Contract
-
 
 You need to establish your contract with the reader before you write a single line of multilingual dialogue. Will they be reading literal English? English that stands in for another language? A translated in-world document? If you make your decision early, you won't have to negotiate that with the reader every time you add a new language to the mix.
 
-
 Naomi Novik uses culturally specific terms and proper nouns ("the Staryk," "tsar") to give a sense of linguistic atmosphere in #emph[Spinning Silver], but she keeps the reader processing at the sentence level entirely in English. The reader feels a world shaped by other languages without having to decode the page. R.F. Kuang took a different approach in #emph[The Poppy War]. She provides a definition for unfamiliar terms when they appear for the first time ("Keju" is defined immediately after it appeared), then later uses can drop the explanation because the reader's already learned it.
-
 
 Both approaches work beautifully. Your only job is to determine which one works best for your story.
 
-
 === Your Toolkit
 
-
 You don't need to pick just one technique. Most successful multilingual fantasy combines several, but keeps each term on a consistent track: first occurrence handled one way, later occurrences another.
+
+]
 
 
 #workbook-table(
@@ -661,27 +656,25 @@ When the careful accent slips, when they speak unguarded:
 )
 
 
-== Silence, Lies & What Goes Unsaid
+#block(breakable: false)[
 
+== Silence, Lies & What Goes Unsaid
 
 The most significant form of communication is sometimes what isn't communicated. Silence, lies, and evasion are all forms of language, and in romance they carry enormous weight. In many cases, what your characters choose not to communicate may be more telling than anything they do say.
 
-
 === What Goes Unsaid
-
 
 #strong[What do your characters not say to each other?]
 
-
 What truths are they avoiding? What feelings go unexpressed?
 
-
 #strong[What does your protagonist never say to the love interest? What does the love interest never say to the protagonist?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[Why don't they say it?]
@@ -875,13 +868,15 @@ Defence of them to others? Confession of feelings? Criticism? Praise?
 )
 
 
-== Learning to Read Each Other
+#block(breakable: false)[
 
+== Learning to Read Each Other
 
 Beyond words, there's a deeper layer of communication: learning to interpret each other. This is where the real intimacy lives. When two people know each other well enough to speak without speaking, it signals a bond that goes beyond anything language can carry. If your protagonist can read the love interest's mood from across a crowded room, or catches a micro-expression no one else would notice, readers feel the depth of that connection.
 
-
 Nonverbal fluency develops slowly, though. At the start of their relationship, your characters will misread each other constantly. They'll project their own fears onto the love interest, miss signals, and assume silence is rejection when in fact it's just restraint. As the relationship deepens, they start catching the small things. That's the progression worth tracking.
+
+]
 
 
 #workbook-table(
@@ -1079,24 +1074,23 @@ Arguments can deepen understanding as much as gentle moments. What truths emerge
 )
 
 
-== Literacy & the Written Word
+#block(breakable: false)[
 
+== Literacy & the Written Word
 
 Literacy is power, and in romantasy, power imbalances create tension. Who can read and who can't, who writes letters and who can't reply, who controls information and who's shut out. These are romantic stakes disguised as worldbuilding.
 
-
 #strong[What does literacy look like in your world?]
-
 
 #hint[Who can read shapes who holds power — and who's shut out of it. A character who can't read a love letter, a treaty, or a warning is vulnerable in ways that go beyond the battlefield.]
 
-
 #strong[What writing systems exist in your world (alphabets, pictographs, magical scripts)? How common is literacy, who controls access to reading and writing, and what can't be communicated without literacy?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[Can your characters read and write?]
@@ -1170,16 +1164,17 @@ What truths emerge only in writing?
 )
 
 
-== Magical Communication
+#block(breakable: false)[
 
+== Magical Communication
 
 Magical communication offers an incredible advantage in terms of overcoming barriers; these include language, distance, privacy. But that shortcut comes with its own costs and complications. When your characters communicate directly to each other by means of their minds, it produces instant and overwhelming intimacy. This type of communication also brings with it the opportunity for eavesdropping: nothing is private if someone else can intercept your thoughts.
 
-
 Here's the design principle worth remembering: romantic tension rises when a channel is high-intimacy, partially uncontrollable, and imperfectly private. This combination forces writers into writing scenes that are more about establishing boundaries and less about providing information. A telepathic bond where one character can't control what bleeds through is more interesting than one with perfect on/off control. A journal that could be stolen is far more interesting than one that's perfectly secure. Choose the method that creates the most friction between closeness and safety.
 
-
 The choice of method will affect the overall romantic dynamic between your characters. Pick the one that serves the emotional arc you're building.
+
+]
 
 
 #workbook-table(
@@ -1248,24 +1243,23 @@ When magic provides a private channel, what becomes possible? Confessions in the
 )
 
 
-== Sacred, Secret & Forbidden Languages
+#block(breakable: false)[
 
+== Sacred, Secret & Forbidden Languages
 
 Restricted languages carry power. Knowing a forbidden tongue can mark someone as chosen, criminal, or dangerous. And in romance, sharing a language no one else speaks creates the ultimate private space. Teaching someone a forbidden language is an act of trust that can't be taken back.
 
-
 #strong[Are there languages that are sacred, secret, or forbidden?]
-
 
 #hint[A language no one else speaks is the ultimate private space. If your characters share access to a restricted tongue, they carry a secret that binds them — and that can endanger them both.]
 
-
 #strong[Is there a sacred or ancient language in your world? What is it called, who can speak it, and why is it special?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[Is there a magical language?]
@@ -1353,27 +1347,25 @@ This moment marks a turning point. Is it freely given or discovered? What change
 )
 
 
-== Names, Address & Private Language
+#block(breakable: false)[
 
+== Names, Address & Private Language
 
 The way characters address each other is a map of their relationship. Titles become first names become nicknames become private words only they use. Every shift in address marks a shift in intimacy, and readers feel it.
 
-
 === Forms of Address
-
 
 #strong[What forms of address exist?]
 
-
 Titles, honorifics, and familiar names create layers of intimacy. The shift from formal to informal often marks a relationship's evolution.
 
-
 #strong[What are the forms of address in your world? Describe the formal (titles, honorifics), informal (first names), and intimate (pet names, private names) levels.]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[What shift in how they address each other marks growing intimacy?]
@@ -1466,13 +1458,15 @@ Whose language and why that choice:
 )
 
 
-== Misunderstanding & Clarity
+#block(breakable: false)[
 
+== Misunderstanding & Clarity
 
 Misunderstanding is one of the oldest tools in romance, and one of the easiest to get wrong. A great misunderstanding has to feel inevitable based on the nature of the two characters. If a reader thinks that a misunderstanding could easily be resolved by a single honest statement, then it will appear contrived. But if the misunderstanding grows from a real language gap, a cultural difference, or a character flaw that makes them interpret things through the wrong lens, it becomes genuinely painful and satisfying to watch unfold.
 
-
 The best misunderstandings aren't just about getting the words wrong. They're about getting the #emph[meaning] wrong because of who the characters are.
+
+]
 
 
 #workbook-table(
@@ -1515,7 +1509,11 @@ Not just words, but meaning. This moment often lands near the emotional climax o
 )
 
 
+#block(breakable: false)[
+
 == Integration Check
+
+]
 
 
 #workbook-table(

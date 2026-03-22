@@ -431,6 +431,30 @@ def generate_section(data: dict, standalone: bool = False) -> str:
     # Auto-generate section title page if intro is provided
     # and there's no explicit section_title_page in the content
     content = data.get("content", [])
+
+    # Pre-process: replace consecutive &nbsp; prose blocks with a writing_box.
+    # These appear in source markdown as blank lines for writing space but render
+    # as literal "&nbsp;" text. Convert them to proper writing_box elements.
+    cleaned = []
+    i = 0
+    while i < len(content):
+        item = content[i]
+        if (item.get("type") == "prose"
+                and item.get("text", "").strip() in ("&nbsp;", "&amp;nbsp;")):
+            # Count consecutive &nbsp; blocks
+            j = i
+            while (j < len(content)
+                   and content[j].get("type") == "prose"
+                   and content[j].get("text", "").strip() in ("&nbsp;", "&amp;nbsp;")):
+                j += 1
+            # Replace with a single writing_box
+            cleaned.append({"type": "writing_box", "height": "150pt"})
+            i = j
+        else:
+            cleaned.append(item)
+            i += 1
+    content = cleaned
+
     has_title_page = any(
         i.get("type") in ("section_title_page", "title_page")
         for i in content
@@ -563,6 +587,23 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                     f"\n{''.join(preamble_parts)}\n]\n"
                 )
                 consumed.add(j)
+            elif next_type == "answer_box":
+                # Group heading2 preamble + answer_box together
+                ab_gen = GENERATORS.get("answer_box")
+                if ab_gen:
+                    preamble_parts.append(ab_gen(content[j]))
+                parts.append(
+                    f"\n#block(breakable: false)["
+                    f"\n{''.join(preamble_parts)}\n]\n"
+                )
+                consumed.add(j)
+            elif next_type == "data_table":
+                # Heading2 preamble + data_table: wrap heading in non-breakable block
+                # so headings don't get orphaned at bottom of page
+                parts.append(
+                    f"\n#block(breakable: false)["
+                    f"\n{''.join(preamble_parts)}\n]\n"
+                )
             else:
                 # No table/group/writing_box follows — output normally
                 for p in preamble_parts:
@@ -598,6 +639,16 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 wb_gen = GENERATORS.get("writing_box")
                 if wb_gen:
                     preamble_parts.append(wb_gen(content[j]))
+                parts.append(
+                    f"\n#block(breakable: false)["
+                    f"\n{''.join(preamble_parts)}\n]\n"
+                )
+                consumed.add(j)
+            elif next_type == "answer_box":
+                # Group heading4+hint+prose+answer_box together
+                ab_gen = GENERATORS.get("answer_box")
+                if ab_gen:
+                    preamble_parts.append(ab_gen(content[j]))
                 parts.append(
                     f"\n#block(breakable: false)["
                     f"\n{''.join(preamble_parts)}\n]\n"

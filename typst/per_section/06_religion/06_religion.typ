@@ -40,13 +40,15 @@ Create a religion that is important enough for your characters to fight for, aga
 ]
 
 
-== How to Think About Religion in Romantasy
+#block(breakable: false)[
 
+== How to Think About Religion in Romantasy
 
 Religion creates romantic tension through three channels, and each one operates at a different level:
 
-
 === The Three Channels of Religious Tension
+
+]
 
 
 #workbook-table(
@@ -114,19 +116,19 @@ If religion is background in your world, keep it simple. Not every romantasy nee
 ]
 
 
-== The Divine: Gods & Powers
+#block(breakable: false)[
 
+== The Divine: Gods & Powers
 
 The first thing you have to decide is if there are higher powers in your world and if they are true.
 
-
 The implications for your romance will be huge. If gods are confirmed and active, then "faith" isn't really faith anymore - it's recognition of fact. Characters will not be able to question whether miracles occur when miracles occur all the time. If gods are undetermined or absent, then characters may struggle with whether they believe at all, or if they just obey. And as far as the love story goes, this determines if defying the laws of the divine will result in the anger of a real being who may seek retaliation, or if breaking from tradition has no supernatural enforcement.
-
 
 How you define your theological structure creates the potential for various types of stories. With multiple gods available, characters can seek patronage from individual gods, use the deities against one another, or serve different masters. A world with one god provides clearer moral stakes but leaves less room for religious diversity.
 
-
 When you're writing devout characters, show faith through habit, not declaration. A devout character touches their holy symbol before danger, whispers a prayer when frightened, calls upon the name of their god while taking an oath. As a result of their faith, the way characters view events changes - that timely rescue did not occur by chance, it was providence. You don't need to explain the theology; let your characters live it. When writing characters of different faiths interacting, let their assumptions collide in small ways. Different words for good fortune. Different gestures of respect. Different things that feel sacred or profane. A person's faith will become evident in the things they're unwilling to do, what they're willing to sacrifice, and what comforts them when everything else fails.
+
+]
 
 
 #workbook-table(
@@ -238,58 +240,58 @@ Identify the gods or spiritual forces that exist in your world. Focus on those r
 
 #strong[Describe your world's primary deity: What is their name? What do they govern? What is their personality/nature? What do they demand from followers? What do they offer in return?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
 
-&nbsp;
+#block(breakable: false)[
 
 ==== Deity/Power 2:
 
 #strong[If your world has an opposing force or antagonist deity: What is their name? What do they govern? What is their nature? What do they demand? What do they offer?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
 
-&nbsp;
+#block(breakable: false)[
 
 ==== Deity/Power 3 (if applicable):
 
 #strong[Is there a deity specifically relevant to your romance — a god of love, forbidden things, or liminal spaces? Describe their name, domain, personality, demands, and offerings.]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[Describe any additional deity important to your story: Name, domain, personality, demands, and offerings.]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[How do the gods relate to each other?]
 
+
 Divine politics often mirrors mortal politics. Are they a harmonious pantheon? Competing rivals? Locked in cosmic war? Indifferent to each other? Gods in conflict can take different sides of your romance.
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 #block(breakable: false)[
@@ -360,46 +362,30 @@ Loss of power? Transformation? Curse? New and different magic? In systems where 
 #strong[How does religion relate to magic in your world? How does religion explain magic? Is your character's magic divine, heretical, or something else? What happens to their magic if they defy religious law? How does magic raise the romantic stakes?]
 
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
 
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
-
+#block(breakable: false)[
 
 == Religious Institutions & Authority
 
-
 Gods may exist, however, it is institutions that make religion have power. The temple, the church, the priesthood: these are human structures, with human politics, human corruption, and the potential to do either great good or harm. In terms of your romance, institutions are where divine law gets enforced, where vows are administered, where forbidden unions are discovered and punished.
-
 
 Religious authorities can be allies, enemies, or complex figures caught between doctrine and compassion. They represent the institution, but they're also human beings. The priest who has to enforce a law they privately question. The oracle who sees a prophecy they wish they could unsee. The inquisitor who genuinely believes they're saving souls.
 
-
 #strong[What religious institutions exist?]
-
 
 Focus on institutions that could affect your romance: those that might forbid, bless, or complicate your characters' relationship.
 
-
 #strong[What are the key religious institutions in your world? For each, describe their function, the power they hold, and how they interact with other power structures.]
 
+#answer-box(
+  height: 180pt,
+)
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+]
 
 
 #strong[Who leads religious institutions?]
@@ -490,16 +476,9 @@ Religious roles often carry vows and obligations that directly conflict with rom
 #strong[If a character holds a religious position: What is it? What vows or obligations bind them? What would they lose by leaving?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Does religious authority oppose or support the relationship?]
@@ -589,22 +568,21 @@ Which one, and why? What would it take for them to choose love over religious du
 )
 
 
-== The Heretic Love Interest
+#block(breakable: false)[
 
+== The Heretic Love Interest
 
 There is a big distinction in the way the audience experiences a religiously forbidden romantic involvement, versus a romantic involvement with someone who is specifically condemned by the religion. A behavioural taboo (breaking celibacy, marrying outside the faith, violating a vow) is where you're doing something wrong, but there's nothing wrong with the person you've done something wrong with. You have options such as making amends, finding a loophole, or redefining the relationship through marriage or dispensation.
 
-
 A heretic love interest romance, however, is a whole other ball game. The person you're in love with is the problem. Demon. Witch. Fae. "Dark One." Hated bloodline. The act of loving such a person does not simply jeopardise the individual's standing in society - it challenges their very moral identity, as well as the metaphysical order of the community in which they live. We are not dealing with behavioural prohibitions here, but rather ontological taboos, and the type of resolution required will be very different.
-
 
 One reason why this type of romance is so effective is that it creates an epistemological crisis for the protagonist. The idea that "they are monsters" that has been ingrained in them since birth is constantly challenged by the embodied intimacy of the romance ("yet I desire, I trust, I know this person"). The internal conflict is not simply one or two scenes of temptation. Instead, it is a continued debate within the protagonist about whose authority should be followed - the doctrine of their religion (the priests, the vows, the myths of the community) or their own first-person knowledge (their senses, thoughts, what they see with their own eyes).
 
-
 Feyre's fear of the Fae in ACOTAR acts as a displaced sacred order. When she sees the Other that she fears, she instinctually reaches for prayer, even though she believes that "mortals do not keep gods to worship anymore." Feyre's journey is one of "unlearning" as she moves from inherited certainty to situational judgement. Casteel, in #emph[From Blood and Ash], is the "Dark One" of Poppy's mythological universe; he is the personification of everything that Poppy's religion was created to fight against. Poppy's desire for him is portrayed as a problem of doctrine: she feels "unworthy by the gods." Reid, in #emph[Serpent & Dove], does not have a primary conflict of "I want sex but my rules forbid it." Rather, his primary conflict is "the woman I desire is defined by the system I identify with as nonhuman." The romance threatens collapse not of chastity but of ontology.
 
-
 === How It Differs from Rule-Breaking
+
+]
 
 
 #workbook-table(
@@ -674,40 +652,30 @@ The Redefinition Path: The doctrine itself is exposed as partial, weaponised, or
 #strong[If the love interest is condemned by their nature (not just their actions): What does the protagonist's faith say they are? What does experience reveal them to be? Does the story redeem the beloved or redefine the faith? What is the moment the protagonist's certainty fractures? What replaces the old moral categories?]
 
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
 
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
-
+#block(breakable: false)[
 
 == Personal Faith & Hidden Devotion
 
-
 There are many ways people believe in religion. They may have strong faith in their gods, but hate the way the priests run things. Others may just go through the motions to fit in. Which type of believer someone is can greatly impact how the romance develops. If the devout believer does something against the rules of the religion, they may lose the favour of their god. On the other hand, the cultural believer risks loss of connection to their community, and ultimately their sense of identity, but not their soul.
-
 
 But when a person has to keep their faith a secret, the dynamics of the romance take on a whole different light. The witch pretending to be a devoted member of the church. The priestess pretending to be a chambermaid. The heretic disguising their true feelings as orthodoxy. Both parties share the vulnerability of being truly known, the peril of being discovered, and the intensely intimate experience of sharing a secret which could cost one another their lives.
 
-
 This is why this plot device is so powerful - the positioning. In the most effective cases, the person with a hidden faith falls in love with someone working for the same group that would kill them if the truth came out. Reid is a Captain of the Chasseurs, witch-hunters whose motto is "thou shalt not suffer a witch to live." Ravyn Yew in #emph[One Dark Window] is Captain of the Destriers, tasked with hunting down those with magical abilities. Gaspar in #emph[The Wolf and the Woodsman] is a prince of a fanatical kingdom. The romance becomes a high-stakes game of cat and mouse. The closer two people get to each other, the greater the danger becomes, because closeness requires lowering the very shields that ensure survival.
-
 
 The emotional toll of living in fear of being discovered is a kind of soul ache: a state of perpetual hyper-vigilance where every moment of tenderness is shadowed by the knowledge that discovery means death. In #emph[Serpent & Dove], Lou's magic gives off a distinct scent that can warn sensitive observers of its presence. Proximity itself is a threat to the secret. In #emph[One Dark Window], Elspeth hides a spirit called the Nightmare in her mind, a monster that could emerge during moments of vulnerability or passion, making intimacy
 
-
 Here's the paradox, though: secrecy can deepen intimacy rather than hinder it. When the truth is finally shared, the act of revealing a forbidden faith becomes a shared ritual between the lovers, a moment of "shared sacrilege" that binds them. In #emph[The Jasmine Throne], the waterfall scene where Malini witnesses Priya's true nature transforms their dynamic from servant-princess to allies in rebellion. In #emph[Serpent & Dove], the revelation that Reid himself possesses magic (he's the first male witch) creates a new form of intimacy built on mutual exile rather than deception.
-
 
 ==== How Hidden Identity Is Concealed
 
-
 The mechanism of concealment shapes the texture of the romantic tension.
+
+]
 
 
 #workbook-table(
@@ -775,16 +743,9 @@ The gap between personal belief and institutional religion creates room for char
 #strong[For each character, where do they agree with their faith's doctrine and where do they disagree?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Does either character follow religious practice without genuine belief?]
@@ -832,16 +793,9 @@ Hidden faith creates unique romantic tension. The lover who discovers the secret
 #strong[If a character hides their faith or identity: What are they concealing? How do they conceal it? What would discovery cost? Is the love interest an agent of the persecuting institution? How is the truth revealed? Which revelation type plays out? How does it change the relationship?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 === Daily Practice & Devotion
@@ -1021,19 +975,19 @@ Is there a way to believe that doesn't require giving up the relationship? This 
 )
 
 
-== How Religious Obstacles Resolve
+#block(breakable: false)[
 
+== How Religious Obstacles Resolve
 
 Crisis is the setup. Resolution is the payoff. It's how your characters deal with the conflict between faith and love which will give you the sense of whether the ending has been earned or if it's come about by accident, and whether your characters' romance carries weight beyond the final page.
 
-
 In my experience the best resolutions are those where the characters have paid some sort of real cost. When the characters pay a price for their love - magic, community, self-identity - then the reconciliation of faith and love has value. Convenient resolutions are often the result of last-minute revelations, or shifts in power that remove all obstacles, as opposed to the characters having to work through them.
-
 
 A recurring distinction in published romantasy is the difference between rejecting the institution and rejecting the faith. In #emph[Serpent & Dove] and #emph[Priory of the Orange Tree], the characters don't become atheists. They reject leaders who twisted the faith for power. In #emph[From Blood and Ash] and #emph[The Jasmine Throne], the institution and the faith are so entangled that the only resolution is to burn the entire system down.
 
-
 === Resolution Patterns
+
+]
 
 
 #workbook-table(
@@ -1058,16 +1012,9 @@ Which pattern are you using? What does your character lose in the process? The c
 #strong[How does the religious conflict resolve? Which resolution pattern do you use? What does the character lose or sacrifice? Do they reject the institution, the faith, or both? What replaces the old belief system? Does it feel earned — and why?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Stress-test your resolution.]
@@ -1079,16 +1026,9 @@ Using the "earned vs. convenient" columns in the reference table above, honestly
 #strong[Test whether your resolution is earned: What does your character permanently lose? Could the obstacle have been removed without sacrifice? Does the resolution change who they are, or just what they're allowed to do?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -1134,16 +1074,9 @@ What specifically triggers the guilt: the act of loving, or the identity of the 
 #strong[Does either character feel sinful for their desire? Which character, why do they feel that way, and how (if ever) do they reconcile faith and desire?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Does religious shame affect how they behave in the relationship?]
@@ -1183,24 +1116,23 @@ Religion governs time. Holy days, sacred seasons, periods of fasting or celebrat
 
 #strong[Describe a key holy day or sacred time in your world: When is it? What does it celebrate? How is it observed? What is forbidden during this time? What romantic opportunity does it create?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[How do these timing restrictions affect your characters?]
 
+
 #hint[Must they wait for a specific time? Are they separated during a religious season? Do they violate sacred time to be together, and what does that cost?]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #strong[How do people mark sacred vs. ordinary time or space?]
@@ -1230,24 +1162,23 @@ Sacred spaces can serve as sanctuary, meeting place, or site of spiritual reckon
 
 #strong[What sacred spaces exist in your world — temples, shrines, natural sacred sites, pilgrimage destinations, forbidden holy places? Describe them and who is allowed to enter.]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[What makes a space sacred?]
 
+
 #hint[What makes a space sacred determines what it means when your characters enter — or defile — that space. A temple consecrated by divine presence carries different weight than a grove made holy by history.]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #strong[Does a sacred site play a role in your romance?]
@@ -1275,16 +1206,17 @@ Sacred ground where vows are binding? Temples where certain unions are forbidden
 )
 
 
-== Ritual & Ceremony
+#block(breakable: false)[
 
+== Ritual & Ceremony
 
 Religious rituals are among the most emotionally charged scenes in romantasy and the most structurally potent. Weddings, funerals, vow-taking ceremonies, initiation rites, fertility festivals. The most important thing to understand about religious rituals in romantasy is that they are NOT just pretty decorations. They're the sites where obligation and desire get twisted together, where a person's personal feelings are turned into public property, and where characters are forced across thresholds they can't uncross.
 
-
 There are three ways rituals work in romantic novels. Firstly, #strong[restraint as fuel]: the rigid formality of a ceremony produces tension through what hasn't been said or done. The slight touch of hands at a wedding altar has a greater impact on the couple's relationship than a kiss would have had under less formal circumstances. Second, #strong[ritual as transition]: ceremonies force characters across identity thresholds. The Ascension, the Great Rite, the taking of vows - these are all points of no return where the character leaves behind who they were and emerges as someone new. Third, #strong[public stakes]: rituals are performed publicly, and therefore they turn private struggles into public ones. The embarrassment of having a wedding fail or having a secret exposed to everyone present creates the illusion of impossibility for a happy ending. It is this sense of impossibility that causes the readers to want to continue reading.
 
-
 === Ritual Types & Romantic Function
+
+]
 
 
 #workbook-table(
@@ -1312,16 +1244,9 @@ Think about weddings, initiations, vow-taking ceremonies, funerals, fertility ri
 #strong[Describe a key ritual in your story: Which ritual is it? What is it supposed to accomplish? What actually happens? Is it completed or broken? How does it change the relationship?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Does a character undergo a transformation through ritual?]
@@ -1397,42 +1322,43 @@ Community is often what people lose first when they defy religious rules. What s
 
 #strong[What religious community does each character belong to, and what does it provide them (identity, safety, purpose, belonging)?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[What else does religious community provide that they'd lose?]
 
+
 #hint[Social support? Identity? Safety? Business connections? Marriage prospects? Meaning? Purpose? The more comprehensive the community, the more devastating the loss.]
+
 
 #strong[What would each character lose if cast out of their religious community?]
 
+
 Not just spiritual consequences. Social, practical, relational losses:
+
 
 #strong[What would each character lose by leaving their religious community?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[Is their family's acceptance tied to religious conformity?]
 
+
 Would religious violation mean losing family as well as faith community? This multiplies the stakes enormously.
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #strong[Are there people in their religious community who might support them despite doctrine?]
@@ -1460,24 +1386,23 @@ Afterlife beliefs shape how characters think about sacrifice, loss, and whether 
 
 #strong[What does your world's religion teach about the afterlife? What happens to the soul/spirit? Is there judgement, and based on what? What's the good outcome and bad outcome? Can the living affect the dead's fate?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[Are these beliefs literally true in your world?]
 
+
 If the afterlife is confirmed and knowable, dying for love becomes a different calculation. If it's uncertain, faith in reunion after death is poignant hope, not guaranteed promise.
+
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
-
-]
 
 
 #strong[How do afterlife beliefs affect behaviour?]
@@ -1574,16 +1499,9 @@ These stories create templates for how characters understand their own lives. Do
 #strong[What founding myths or sacred stories exist in your world? For the most important one, what is it about, what does it teach, and how does it parallel your romance?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Are there stories specifically about love, marriage, or relationships?]
@@ -1712,16 +1630,9 @@ Characters may embrace, resist, deny, or be torn about what prophecy means for t
 #strong[If there's a prophecy in your story, how does each character react to it?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 === The Prophecy Problem: Destiny vs. Choice
@@ -1799,16 +1710,9 @@ Being chosen creates obligations that compete with personal desire. What does de
 #strong[If your story has a 'chosen one': Which character is it? What marks them as chosen? What are they chosen to do?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How does divine purpose conflict with personal desire?]
@@ -1852,38 +1756,37 @@ If yes:
 
 #strong[What faith does each character follow?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[What does each faith teach about the other?]
 
+
 Mutual hostility between faiths raises the stakes considerably. Mutual respect makes blending easier but may reduce tension.
+
 
 #strong[What does each character's faith teach about the other character's faith or people?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[What practical conflicts arise from different faiths?]
 
+
 Different holy days? Conflicting dietary laws? Different marriage requirements? Children: which faith to raise them in?
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #strong[Would one need to convert for them to marry?]
@@ -1934,19 +1837,16 @@ Conversion for love raises questions about authenticity, sacrifice, and identity
 #strong[If conversion is part of your story: Who converts and to what? Is it genuine or performed? What do they lose? Does the other partner feel guilt? Is the conversion affirmed or regretted? Does either character refuse to convert, and is that refusal honoured?]
 
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
 
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
-
+#block(breakable: false)[
 
 == Integration Check
+
+]
 
 
 #workbook-table(
@@ -1962,7 +1862,11 @@ Conversion for love raises questions about authenticity, sacrifice, and identity
 )
 
 
+#block(breakable: false)[
+
 == Quick Reference: Religious Stakes
+
+]
 
 
 #workbook-table(

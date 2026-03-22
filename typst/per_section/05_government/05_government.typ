@@ -126,16 +126,9 @@ In the strongest romantasy, your characters are changed by both the romance and 
 #strong[How do the romance and the political conflict each force your protagonist to change? What does each catalyst make them face, and how do they grow?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 === Political Situations That Create Romance
@@ -200,16 +193,9 @@ In the strongest romantasy, your characters are changed by both the romance and 
 #strong[What is your macro political stake, and what micro romantic obstacle does it create?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == A Note Before You Begin
@@ -323,16 +309,9 @@ Be specific — name or title:
 #strong[Describe your world's ruler: What is their title/position and name? How did they gain power, and how long have they ruled?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How did they gain power?]
@@ -505,16 +484,9 @@ Birth? Achievement? Magical ability? Wealth? Military service? Marriage?
 #strong[Who holds power in your world? For each key position, describe what power they hold and who currently fills the role.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -562,16 +534,9 @@ Which dynamic exists, and how does it affect your characters?
 #strong[How does government relate to magic in your world? How is magic acquired? Who controls training/access? Can magical power be taken away?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What laws govern magic use?]
@@ -632,16 +597,9 @@ Royal guard? City watch? Magical enforcers? Religious authorities? Secret police
 #strong[What enforcement bodies exist in your world? What do they handle, and who controls them?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How effective is enforcement?]
@@ -680,16 +638,9 @@ Omnipresent (high risk)? Moderate? Weak or corrupt (easy to evade)? Selective (d
 #strong[Describe your world's justice system: Who judges? Are there trials? Do the accused have rights? Can verdicts be appealed? Who can afford good representation?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Is justice equal?]
@@ -902,16 +853,9 @@ When one character has the ability to imprison, exile, or kill another, how do y
 #strong[Describe the political power imbalance between your characters: Who holds more power? Does the more powerful character recognise the gap? How does the less powerful character exercise agency? What would it look like if they said no — would there be consequences?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 That last question is the most important one. If the less powerful character can't say no without facing punishment, exile, or death, you don't have a romance. You have coercion with good lighting. The reader has to believe that "no" is a real option, even if the character chooses "yes."
@@ -1039,16 +983,9 @@ The larger the gap, the greater the romantic tension. What does each person assu
 #strong[What is each character's class position in the social/political hierarchy?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How many ranks separate them?]
@@ -1324,16 +1261,9 @@ Ends a war? Unites rival houses? Fulfills prophecy? Secures resources?
 #strong[Who wants your characters together, and why? Who wants them apart, and why?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -1399,16 +1329,9 @@ All fake relationships begin with parameters: how much physical interaction can 
 #strong[If your characters must perform a public relationship (love, unity, hostility, indifference): What are the physical boundaries? When does the performance end? Is one secretly working against the other?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What's the first boundary violation?]
@@ -1456,36 +1379,34 @@ The moment of choosing love over loyalty is one of the most powerful beats in en
 
 #strong[Describe the key political factions in your world. For each, what do they want, who leads them, and what is their power base?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[Where do your characters fall?]
 
+
 #strong[Which political faction does each character belong to or align with?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[Are they on the same side, opposite sides, or unaligned?]
 
+
 #hint[Same side creates shared purpose; opposite sides creates enemies-to-lovers tension; unaligned means one or both will eventually be forced to choose. Each configuration generates different romantic pressure.]
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #block(breakable: false)[
@@ -1515,16 +1436,9 @@ Name specific antagonists. What do they stand to lose if your characters unite?
 #strong[Describe your story's political enemy/antagonist: Who are they? What position do they hold? What do they want? Why do they oppose the characters? What will they do?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #divider()
@@ -1542,16 +1456,9 @@ Allies provide hope and aid, but their support should cost them something too.
 #strong[Describe your story's key political ally: Who are they? What position do they hold? Why do they help, and what do they risk by doing so?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Is there current factional conflict that affects your story?]
@@ -1606,16 +1513,9 @@ When two characters share an adversarial environment at court as partners, that 
 #strong[What public mask does each character wear, and what does it hide?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What court ritual creates romantic pressure for your characters?]
@@ -1663,16 +1563,9 @@ When two characters share an adversarial environment at court as partners, that 
 #strong[Do your characters develop private signals — a look, a gesture, a code word? What do they mean?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -1687,24 +1580,23 @@ If yes:
 
 #strong[What are your characters hiding? Who are they hiding it from, and why? What happens if they're discovered, and how does the secret limit the intimacy they can share?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[How does the secret create a ceiling on intimacy?]
 
+
 #hint[A character hiding their identity can never be fully present with their partner. The secret sets a maximum depth the relationship can reach — and the reader should feel that ceiling. What moments of connection are cut short or made hollow because of what's being hidden?]
+
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
-
-]
 
 
 === Espionage as Proximity
@@ -1776,16 +1668,9 @@ After the big reveal, the heavy lifting begins. The cat's out of the bag. Now wh
 #strong[How is the secret revealed? What is it, when in the story does it happen, how is it revealed (confession, discovery, betrayal), and does it deepen or shatter the bond?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[If your secret unravels in layers, map the cascade:]
@@ -1939,16 +1824,9 @@ If yes:
 #strong[If a character serves in the military: Which character, what is their role/rank, why do they serve, and what have they seen or done?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[If one character is a soldier, how does this affect the relationship?]
@@ -1981,16 +1859,9 @@ If yes:
 #strong[If your characters are on opposing sides of a conflict: What is the conflict, and what side is each on?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What does each side believe about the other?]
@@ -2002,16 +1873,9 @@ Propaganda, stereotypes, justified grievances:
 #strong[What does each side believe about the enemy — what propaganda have they been taught?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What would each character's people say about them loving the enemy?]
@@ -2062,16 +1926,9 @@ If yes:
 #strong[Has either character experienced violence or combat? Describe the circumstances and how it affects them.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Has either character lost someone to the conflict?]
@@ -2080,16 +1937,9 @@ If yes:
 #strong[Has either character lost someone in the conflict? Who was lost, how, and how does it shape them?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Is there blood between their peoples that can't be easily forgiven?]
@@ -2495,16 +2345,9 @@ Do they feel personal guilt/grievance, or do they see it as "the past"?
 #strong[What is each character's relationship to a historical wrong between their peoples — are they inheritor, victim, bystander, or denier?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #divider()
@@ -2585,16 +2428,9 @@ Some things can't be — and pretending otherwise insults readers. If one killed
 #strong[What belief does each character hold that the other finds repugnant?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Why does each believe this?]
@@ -2606,16 +2442,9 @@ Not just "they were raised that way" — what experiences, evidence, or reasonin
 #strong[What reasoning lies behind each character's problematic belief — why does it make sense from their perspective?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Is either belief clearly wrong?]
@@ -2819,16 +2648,9 @@ At a certain point in the story, each of the characters will have to opt for the
 #strong[What does each character sacrifice to be together, and why does this cost them specifically?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Are these sacrifices roughly equal in weight?]
@@ -2876,16 +2698,9 @@ The one who was wronged? The one who caused harm? Does it happen naturally or ge
 #strong[What does each character need to say to the other for reconciliation to be possible?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What does each need to hear?]
@@ -2894,16 +2709,9 @@ The one who was wronged? The one who caused harm? Does it happen naturally or ge
 #strong[What does each character need to hear from the other?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -3035,16 +2843,9 @@ Symbol of peace? Proof that reconciliation is possible? Catalyst for change? Or 
 #strong[How does each side (protagonist's people and love interest's people) react to the couple being together?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #divider()
@@ -3114,24 +2915,23 @@ If your characters come from influential families, then succession will impact t
 
 #strong[What does each character inherit from the political resolution — new roles, responsibilities, or losses?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[How does their relationship affect inheritance?]
 
+
 Marrying wrong costs inheritance? They must marry to inherit? Their union combines inheritances?
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #strong[Is either expected to produce an heir?]
@@ -3140,16 +2940,9 @@ Marrying wrong costs inheritance? They must marry to inherit? Their union combin
 #strong[What is the political timeline or deadline, and what happens if your characters don't act?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -3243,22 +3036,17 @@ Revolution isn't clean. Lives lost? Stability destroyed? Becoming what they foug
 )
 
 
-== Integration Check
+#block(breakable: false)[
 
+== Integration Check
 
 #strong[How does government interact with magic in your world? What magical law most affects your characters? Could magic bypass political obstacles — and if so, why don't they use it? Does government have magical enforcement (truth spells, tracking, binding oaths)?]
 
+#answer-box(
+  height: 180pt,
+)
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+]
 
 
 #block(breakable: false)[

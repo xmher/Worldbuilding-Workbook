@@ -56,10 +56,13 @@ Design your magical system based off of one question -- what does it cost? The a
 )
 
 
+#block(breakable: false)[
+
 == How to Think About Magic in Romantasy
 
-
 Magic in romantasy serves three functions simultaneously. Understanding all three helps you build a system that does real work for your story.
+
+]
 
 
 #workbook-table(
@@ -105,16 +108,9 @@ Not every magical ability needs to directly advance the romance. Winnowing in #e
 #strong[Which romance-magic patterns from the list above apply to your story? For each one you're using, describe how it shows up between your characters.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 === Character Pairing Dynamics
@@ -142,16 +138,9 @@ Not every magical ability needs to directly advance the romance. Winnowing in #e
 #strong[What is the magical pairing dynamic between your leads (from the archetypes above), and how does it create specific tension in your story?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == A Note Before You Begin
@@ -193,10 +182,13 @@ The most important thing is that your magic feels consistent and has real conseq
 ]
 
 
+#block(breakable: false)[
+
 == Types of Magic Systems
 
-
 Magic doesn't have to mean spellcasting. Here are different approaches to inspire you, and you're welcome to mix, match, or invent your own.
+
+]
 
 
 #workbook-table(
@@ -378,16 +370,9 @@ Who holds more magical, political, or physical power? Power imbalances create te
 #strong[What is your protagonist's magical status? What is your love interest's magical status? What does the gap (or lack of one) between them mean for their dynamic?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[If there's a power gap, what does the less powerful person bring that the powerful one needs?]
@@ -1022,38 +1007,37 @@ Not all magic users are created equal, and not all magic is the same flavour. Un
 
 #strong[What does the weakest magic user in your world look like? What about the strongest? Establishing the floor and ceiling of power helps you set stakes.]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[Where do your protagonist and love interest fall on this scale?]
 
+
 #hint[The gap (or lack of one) between your leads shapes their entire dynamic. Equally matched characters negotiate; imbalanced ones navigate trust, protection, and the risk of resentment.]
+
 
 #strong[Where do your protagonist and love interest fall on the power scale you just described? How does the gap (or lack of one) between them shape their dynamic?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[Is raw power the only measure of magical strength?]
 
+
 Or can skill, creativity, knowledge, or cleverness make a "weaker" user formidable?
+
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
-
-]
 
 
 #strong[What's the most impressive feat of magic in your world's history?]
@@ -1149,34 +1133,26 @@ In #emph[Gideon the Ninth], Harrow is a necromancer who works with bones and dea
 #strong[How might your leads' magic interact? Describe each character's magic, how their abilities might clash, how they might complement each other, and what this means for the romance.]
 
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
 
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
-
+#block(breakable: false)[
 
 == Magical Creatures, Familiars & Companions
 
-
 If you have a magic system where creatures are bonded to individuals (dragons, familiars, spirit animals, daemons, shapeshifting) then your romance isn't just about two people. It's between two people and whatever magical beings are tethered to their souls. The creature bond often mirrors, facilitates, or complicates the romantic bond, and not using this relationship leaves a lot of the tension that makes the genre so great unexplored.
-
 
 In Fourth Wing, the mating bond between Tairn and Sgaeyl forces their riders, Violet and Xaden, into proximity they can't escape. The dragons physically can't stay apart for more than a week. In His Dark Materials, touching another person's daemon is the ultimate taboo: a violation of the soul when done without consent, the deepest possible intimacy when chosen. In ACOTAR, beast forms externalise a character's raw nature, with Tamlin's territorial protector instincts made literal in fur and antlers.
 
-
 This creature is not just decorative. It's an emotional truth-teller, a mirror of what the character is trying to hide, and very often the first being to realise that the lead characters are interested in each other before either of them is willing to admit it.
-
 
 Whether the character likes it or not, the bonded creature reacts to the romantic partner. In Fourth Wing, Tairn takes on a grumpy-father-figure role, scrutinising Xaden's worthiness, while Sgaeyl is fiercely protective of Xaden and initially sceptical of Violet. In the Inheritance Cycle, Saphira is openly jealous of Eragon's attraction to Arya, demeaning Arya's appearance and seeing any romantic attachment as a threat to the integrity of the rider-dragon bond.
 
-
 These actions add to the romance because they are a physical representation of how the protagonist feels but won't say. The creature growls when the protagonist is attracted, bristles when they're hurt, and softens when trust begins to form. It's a built-in lie detector that makes denial impossible.
+
+]
 
 
 #workbook-table(
@@ -1278,25 +1254,23 @@ A key aspect of accepting a partner's beast form is acceptance of all parts of w
 )
 
 
-== Magic & Identity
+#block(breakable: false)[
 
+== Magic & Identity
 
 Magical transformation is a significant part of how your characters grow within the romantasy genre. Your characters' sense of self, their position in the world, their greatest fears and desires are all wrapped up in how they use their magic. When magic changes, so does the person wielding it. And when the person changes, so does the relationship.
 
-
 This is why many of the most successful romantic arcs in the genre are built around magical transformation: gaining power, losing it, or discovering it was never what you thought. How your love interest responds to that transformation, whether they celebrate it, fear it, or try to contain it, is one of the clearest tests of whether a relationship will survive.
-
 
 In ACOTAR, Feyre returns from Under the Mountain transformed from a mortal huntress into a High Fae with the powers of all seven courts. Tamlin's response is to contain that transformation. He refuses to train her, refuses to let her explore her new abilities, and ultimately locks her in the manor. He treats her new magic as a threat to the stability he craves. Rhysand responds by insisting Feyre learn about her abilities, giving her the title of High Lady (breaking 15,000 years of tradition), and treating her power as something to be celebrated rather than managed.
 
-
 The same can be said throughout the genre. At first, Reid reacts to discovering Lou is a witch with horror; his entire identity is built on destroying her kind. Reid only allows their relationship to continue once he accepts that he himself is magically gifted and he chooses to join Lou in the realm of magic rather than asking her to abandon hers. In Throne of Glass, Rowan's bond with Aelin survives the loss of her fire because their partnership was built on character, not magical utility. He accepts her as a mortal queen, proving their love is deeper than what her power could do.
-
 
 #strong[How does your love interest respond to your protagonist's magic?]
 
-
 This is one of the most revealing questions you can ask about your romance. A partner who fears the transformation often represents a desire for control. A partner who embraces it facilitates the protagonist's growth.
+
+]
 
 
 #workbook-table(
@@ -3034,16 +3008,9 @@ Underground magic users, rebel factions, hidden communities, black markets?
 #strong[Where does your protagonist stand in relation to magical authority (hunted, enforcer, exempt, hidden)? Where does your love interest stand? What does each position cost them, and how might their positions create tension or force alliance?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How might their positions regarding magical authority create tension between them, or force them into alliance?]
@@ -3160,10 +3127,13 @@ Inherited enmity creates powerful tension when attraction crosses lines generati
 ]
 
 
+#block(breakable: false)[
+
 == Integration Check
 
-
 How does your magic system connect to the rest of your world?
+
+]
 
 
 #workbook-table(
@@ -3188,16 +3158,9 @@ How does your magic system connect to the rest of your world?
 #strong[How does your magic system connect to the rest of your world? For each relevant system (geography, government, religion, culture, economy, history), describe how magic integrates and how that integration affects your leads.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #structured-table(

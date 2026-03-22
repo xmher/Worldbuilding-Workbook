@@ -53,10 +53,13 @@ Could it happen elsewhere without losing anything? If yes, what constraint, dang
 )
 
 
+#block(breakable: false)[
+
 == Locations and Romantic Pressure
 
-
 Every location creates a specific kind of romantic pressure. Before you design your spaces, it helps to understand the five types of pressure a location can exert, and what each one gives your romance.
+
+]
 
 
 #workbook-table(
@@ -102,16 +105,9 @@ Different relationship dynamics interact with locations differently. Have a thin
 #strong[What is your pairing dynamic (e.g., enemies to lovers, forbidden love, slow burn), and which types of location pressure does your romance need most? Why does this combination serve your story?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == A Note Before You Begin
@@ -147,28 +143,21 @@ Not every question in this section will apply to every location. Some spaces are
 ]
 
 
-== Identifying Your Pivotal Moments
+#block(breakable: false)[
 
+== Identifying Your Pivotal Moments
 
 Before designing locations, identify the moments that need them. These are the scenes your readers will remember, the ones that deserve a stage built specifically for them.
 
-
 List three to five major romantic moments in your story. Think about the moments that shift the relationship: where walls come down, where stakes become real, where everything changes.
-
 
 #strong[List three to five pivotal romantic moments in your story -- the scenes that shift the relationship, where walls come down, stakes become real, or everything changes.]
 
+#answer-box(
+  height: 180pt,
+)
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+]
 
 
 === Matching Moments to Locations
@@ -262,16 +251,9 @@ A good location will create both a need for a certain type of intimacy and also 
 #strong[For this location: What does the space force to happen (physical proximity, cooperation, vulnerability)? And what does it prevent (escape, privacy, honesty)?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What features define the space?]
@@ -470,22 +452,20 @@ Time of day also shapes the #emph[type] of romantic tension a space creates. At 
 
 #strong[What time of day does your pivotal scene happen in this location? How does the space change at that hour, and what romantic tension does that timing create?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 What time does the pivotal scene happen, and why that time? Timing should feel deliberate, chosen because this version of the space creates the right pressure.
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 How might weather transform this space? Is weather significant in the scene that happens here?
@@ -650,22 +630,20 @@ Use the table below to identify how the magic of this space serves your scene:
 
 #strong[Does this location have active magical properties (wards, sentience, emotional influence, shifting geography, bonding/tethering)? For each that applies, describe how the magic works here and what it does for the romance.]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 Does the magic of this space bypass your characters' defences? Emotion-responsive environments, truth-compelling pools, sin-testing corridors. These spaces force a transparency that characters would never choose voluntarily. If your location has this property, it can accelerate intimacy in a way that feels earned because it's the space doing the work, not a convenient change of heart.
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 Does the magic create safety or danger, or both? The House of Wind provides sanctuary but also isolation. The wards of Navarre protect but also trap. The best magical locations offer something your characters desperately need while simultaneously taking something away.
@@ -1126,10 +1104,13 @@ A well-designed location does at least two of these:
 For each of your key locations, check at least two boxes. If a location doesn't manage at least two, revise it: add a constraint, raise the stakes, build in history, adjust the symbolism.
 
 
+#block(breakable: false)[
+
 == Integration Check
 
-
 Your key locations don't exist in isolation. They're shaped by every system you've built. Use this table to check that your locations are grounded in your world.
+
+]
 
 
 #workbook-table(
@@ -1220,22 +1201,17 @@ Your key locations don't exist in isolation. They're shaped by every system you'
 ]
 
 
-== Quick Reference: Your Key Locations
+#block(breakable: false)[
 
+== Quick Reference: Your Key Locations
 
 #strong[Name your recurring location (the place that becomes 'theirs'), any location that becomes lost or inaccessible, and the location where the romantic climax happens.]
 
+#answer-box(
+  height: 180pt,
+)
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+]
 
 
 == Final Thought

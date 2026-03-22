@@ -61,10 +61,13 @@ The test is simple: when your characters choose each other, does anything in the
 Not every system needs deep testing. If your story is set entirely in one city with no magic, you don't need to stress-test geographic impact or magical economics. Focus on the systems that touch your romance most directly, the ones creating the obstacles, forced proximity, and stakes that drive your love story. Skip what doesn't serve your story!
 
 
+#block(breakable: false)[
+
 == Systems in Romantasy
 
-
 Every worldbuilding element affects others. The table below maps the major systems and their connections. Use it to identify where your web has strong threads and where it might have gaps.
+
+]
 
 
 #workbook-table(

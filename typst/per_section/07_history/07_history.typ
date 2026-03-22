@@ -31,26 +31,26 @@ The deeper the historical layer, the harder it is to crack. Identify the layers 
 
 #strong[Identify three layers of compressed history beneath your characters' feet: a surface-level event (within living memory), a mid-level cultural memory, and a deep bedrock belief. For each, describe what happened, how compressed it has become, and how it affects your characters today.]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[How deep is the bedrock your characters need to crack?]
 
+
 #hint[The deeper the historical layer, the harder the resolution. A grudge from last year can be talked out. A grudge compressed into identity — "this is what we ARE" — requires dismantling a worldview. Understanding the depth of your central conflict tells you how much your resolution needs to cost.]
 
+
 Is your central historical conflict surface-level (recent, raw, could be resolved with new information), mid-level (cultural memory, woven into traditions and assumptions), or bedrock (so deep it feels like identity, biology, or the laws of nature)?
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 What would it take to crack sediment that deep?
@@ -63,10 +63,13 @@ What would it take to crack sediment that deep?
 )
 
 
+#block(breakable: false)[
+
 == History in Romantasy
 
-
 History creates romantic obstacles through three mechanisms: inheritance, precedent, and weight. Your characters didn't choose the past, but they're bound by it.
+
+]
 
 
 #workbook-table(
@@ -127,16 +130,9 @@ The essential takeaway here is that historical worldbuilding in romantasy must p
 #strong[Which romantasy subgenre pattern does your story follow most closely? Based on that, what historical worldbuilding is essential for your story, and what can you afford to leave vague?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == A Note Before You Begin
@@ -381,16 +377,9 @@ Do scholars know different things than farmers? If your characters come from dif
 #strong[How did your protagonist learn history (songs, propaganda, archives, family stories), and what version did they get? How did your love interest learn history, and what version did they get? Where do their versions clash?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 The way to incorporate history in your writing is by using bits and pieces. Some phrases you hear from everyone. Monuments that are simply walked past without being explained. Old songs with lyrics that no one can remember the words or meaning to. Make history emerge from the things that characters take for granted ("the wall has always been there"), as opposed to telling history as a series of expository statements. If your characters are going to discuss the history, provide them with their own perspectives on it: one calls it "the Great Liberation," another calls it "the Betrayal." And some of the most compelling historical moments occur when a character finds out that everything they were ever taught about something was a lie.
@@ -434,16 +423,9 @@ What kinds of knowledge, artifacts, or records have been destroyed or forgotten?
 #strong[What knowledge, artifacts, or records have been lost in your world, and why? Consider war/conquest, natural disaster, deliberate destruction, neglect, or magical sealing.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -479,16 +461,9 @@ If your characters discovered what was lost, how would it change things? Would i
 #strong[For each era of your world's past (recent memory, a few generations ago, centuries ago, and mythic past), how well known is the history and how accurate is what people believe? Where does history blur into myth?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Where does history blur into myth?]
@@ -530,16 +505,9 @@ What would change if your characters discovered the truth? Would it dissolve the
 #strong[Is there a historical truth in your world that's been suppressed or rewritten? What really happened, what are people taught instead, and who suppressed the truth and why?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Who knows the real history?]
@@ -660,16 +628,9 @@ The founding ideals shape what your world considers "natural" or "right" — inc
 #strong[Was there a golden age in your world? What was it called, what made it great, what caused its fall, and what was lost?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Does the fall relate to your characters' relationship?]
@@ -696,16 +657,9 @@ Could their union restore what was lost — or repeat the mistake that caused th
 #strong[What single historical event most shaped your current world? Describe what happened, when, who was involved, its immediate consequences, and the long-term effects still felt today.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 === Other Significant Events
@@ -773,16 +727,9 @@ Cold tensions, simmering resentments, truces that aren't really peace?
 #strong[What major historical conflict most directly affects your romance? Describe the conflict (name, when, participants, cause, outcome, consequences) and whether your characters' families/nations are on opposing sides.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -994,19 +941,19 @@ Clandestine meeting places? Forbidden archives? Subversive art? Underground netw
 )
 
 
-== Historical Figures & Legendary Lovers
+#block(breakable: false)[
 
+== Historical Figures & Legendary Lovers
 
 Every history contains its share of legends, its share of demons, and its share of iconic names; your characters exist in those shadows. Heroes build the expectation that others will live up to it. Villains create the lesson for cautionary tales. Legendary lovers create the prototype that your characters are compared to. It's not only a matter of "who came before?" but rather "whose ghost is standing between them?"
 
-
 Your world's heroes and villains do more than simply fill in a timeline. They establish the standards and expectations your characters are judged against. A protagonist born into a family line of great heroes carries with them the burden of meeting that legacy, and thus the burden of whom they "should" fall in love with. A love interest whose ancestors were your world's greatest villain may carry with them some form of shame that influences all interactions that take place between the two characters. And when one character views another character's hero as a villain? That's not a disagreement. That is a fault line that exists in how each of them sees the world.
-
 
 #strong[Who are the great heroes everyone knows?]
 
-
 Is your protagonist compared to one? Does the love interest idolise someone your protagonist's people consider a villain?
+
+]
 
 
 #workbook-table(
@@ -1093,16 +1040,9 @@ Does your culture celebrate doomed love or warn against it?
 #strong[Do people compare your characters to legendary lovers? Which couple, who makes the comparison, and is it meant as compliment, warning, or accusation?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How do your characters feel about being compared to this couple?]
@@ -1111,16 +1051,9 @@ Does your culture celebrate doomed love or warn against it?
 #strong[How does your protagonist feel about being compared to legendary lovers? How does your love interest feel about it?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Does the comparison create pressure or expectation?]
@@ -1171,16 +1104,9 @@ A previous pair of lovers from opposing sides? A past relationship that ended in
 #strong[Is there a historical parallel to your characters' situation -- a previous pair of lovers from opposing sides? What happened, and how did it end?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -1231,16 +1157,9 @@ Having famous ancestry can create expectations and obligations. Inheriting a leg
 #strong[Is either character descended from a famous historical figure? Which character, who was the ancestor, and what expectations does that legacy create?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Does either character hold a position once held by someone legendary?]
@@ -1252,16 +1171,9 @@ Did the predecessor succeed or fail? Love or lose?
 #strong[Does either character hold a position once held by someone legendary? What was the position, who held it before, what did they do, and what shadow does this cast on your character?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How does living in a legend's shadow affect your character?]
@@ -1317,16 +1229,9 @@ Their family stories may complement, contradict, or directly oppose your protago
 #strong[What did family stories teach your protagonist they should be? What did family stories teach your love interest they should be?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Are there family stories that contradict each other?]
@@ -1406,16 +1311,9 @@ Do they fight about it? Try to understand? Discover they were both taught incomp
 #strong[What major event happened within living memory (last 50-80 years)? What was it, when did it happen, who was affected, and how did it shape the current world?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How did this event affect your characters' families?]
@@ -1424,16 +1322,9 @@ Do they fight about it? Try to understand? Discover they were both taught incomp
 #strong[How did this recent historical event affect your protagonist's family? How did it affect your love interest's family? Were they on the same side or opposing sides?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -1475,16 +1366,9 @@ Objects of the past can hold many things -- weapons that killed, rings that boun
 #strong[What object from the past does your protagonist possess or know about? What is its history, and what does it mean to them?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What about your love interest?]
@@ -1493,16 +1377,9 @@ Objects of the past can hold many things -- weapons that killed, rings that boun
 #strong[What object from the past does your love interest possess or know about? What is its history, and what does it mean to them?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Is there an object that connects both their histories?]
@@ -1628,16 +1505,9 @@ Magically? Politically? Socially? Bloodline significance creates stakes for who 
 #strong[What does each character's bloodline or heritage mean in your world? What does it grant them, and what does it demand of them?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Is there something significant about combining their bloodlines?]
@@ -1745,16 +1615,9 @@ Atrocities create wounds that don't heal with time. They raise questions of guil
 #strong[Did either side in your world's historical conflicts commit atrocities? What happened, who committed them, and who suffered?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How is this remembered?]
@@ -1766,16 +1629,9 @@ Perpetrators and victims remember differently. Understanding both perspectives d
 #strong[How do the perpetrators remember the atrocity? How do the victims remember it?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Is this atrocity acknowledged, denied, justified, or forgotten?]
@@ -1803,16 +1659,17 @@ Inherited guilt and rage ("I didn't do this, but my people did" and "you didn't 
 )
 
 
-== History as a Weapon
+#block(breakable: false)[
 
+== History as a Weapon
 
 All of the worldbuilding that has been done to this point occurs #emph[beneath] the surface of the story. But on the page, historical conflict shows up in one particular way: characters weaponise the past during arguments, betrayals, and emotional standoffs. They reduce each other to representatives of an oppressive regime or a biologically inferior species. They use "the sins of the father" as a trump card to shut down vulnerability. They retreat into inherited grievance because it's safer than admitting they feel something.
 
-
 That is where your historical worldbuilding earns its keep. If the history you've built doesn't give your characters ammunition to throw at each other during their worst moments, it's not doing enough.
 
-
 Characters don't just #emph[feel] historical enmity. They #emph[use] it. The past becomes a defensive mechanism: a means of maintaining psychological distance, a justification for betrayal, a method for ending an argument they're losing. When the present becomes too emotionally dangerous, the past gets thrown like a grenade.
+
+]
 
 
 #workbook-table(
@@ -1868,16 +1725,9 @@ What can they throw at the love interest during their worst arguments? Their fam
 #strong[What historical ammunition does your protagonist carry? What can they throw at the love interest during their worst arguments, when do they use it, and what fear underlies it?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What historical ammunition does your love interest carry?]
@@ -1889,16 +1739,9 @@ What's their trump card? What historical fact can they invoke that the protagoni
 #strong[What historical ammunition does your love interest carry? What's their trump card, when do they use it, and what fear underlies it?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What happens when the weapons are drawn?]
@@ -1955,16 +1798,9 @@ The best scenes that show a history-reveal are all structured similarly: a trigg
 #strong[Plan your history-reveal scene: Which character reveals hidden history, and what do they share? What triggers the reveal (crisis, intimacy, accusation)? Where does it happen? How does the listener react? Does it bring them closer or drive them apart? Is it a repair confession or an identity rupture?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Map the structure of your history-reveal scene:]
@@ -1976,16 +1812,9 @@ The best scenes that show a history-reveal are all structured similarly: a trigg
 #strong[Map the architecture of your history-reveal scene: What forces the reveal? Where does it happen (a small, private space)? What does it cost the speaker to share? What does the listener observably do in response? How does their dynamic change afterward? Does the listener get space to process and choose to return?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[If the reveal backfires, what replacement frame must the text supply?]
@@ -2001,13 +1830,15 @@ A reveal that violates the listener's beliefs can only be survived if the story 
 )
 
 
-== Reconciling with History
+#block(breakable: false)[
 
+== Reconciling with History
 
 Building tension is one thing; resolving it is much harder. One of the most common failures of the historically-rooted enemies-to-lovers trope is the reconciliation that feels too simple: either a revelation that causes the feud to dissipate quickly, or a single conversation that ends hundreds of years of animosity. If you have created a historical conflict strong enough to keep your lovers apart for the majority of your book, then you need to create an equally powerful resolution.
 
-
 Earned reconciliations are the ones that create closure on many different levels: emotionally (the lovers get together), thematically (the meaning of the conflict shifts), and structurally (the world changes). Simply having the lovers reconcile personally -- they come together, but the war is still raging and nothing has changed about the structures of society -- will leave your readers feeling shortchanged. The heart and the world need to be transformed together.
+
+]
 
 
 #workbook-table(
@@ -2046,16 +1877,9 @@ The reconciliation between your characters needs to work on multiple levels. If 
 #strong[How does your romance earn its reconciliation? For each element -- reciprocal sacrifice, gradual pacing, a shared enemy or truth, both public and private resolution, and structural change in the world -- describe how your story delivers.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Map your slow-burn progression:]
@@ -2089,16 +1913,9 @@ A reconciliation that comes at no cost is unearned. The larger the historical we
 #strong[What does reconciliation cost your protagonist? What does it cost your love interest? The larger the historical weight, the larger the price.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -2113,52 +1930,51 @@ This "emotional stasis," or lack of emotional aging, is an almost defining chara
 
 #strong[Is either character a long-lived being? Who are they, how old are they, and what history have they personally lived through?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[If one character is ancient and one is mortal, how does this affect the relationship?]
 
+
 The ancient character has seen patterns repeat, loved and lost countless times, watched mortal lives flicker past. The mortal character is one brief moment in an endless existence, or perhaps they're something different, something that makes the ancient one feel again.
+
 
 #strong[The ancient character:]
 
+
 #strong[For your ancient character: What historical patterns have they seen repeat? What have they lost over centuries? What makes them cynical or gives them hope? Do they see the mortal partner as another loss waiting to happen?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[The mortal character:]
 
+
 #strong[For your mortal character: What does it mean to love someone who's seen centuries? Do they feel insignificant, or do they bring something the ancient one has lost? Are they aware of their own mortality in the relationship?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[What does the long-lived character carry from their past?]
 
+
 Lost loves? Dead friends? Guilt? Witnessed atrocities? Actions they regret?
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #strong[How does their personal history affect the relationship?]
@@ -2174,7 +1990,11 @@ Are they afraid to love again? Comparing the mortal to past loves? Keeping secre
 )
 
 
+#block(breakable: false)[
+
 == Integration Check
+
+]
 
 
 #workbook-table(
@@ -2189,7 +2009,11 @@ Are they afraid to love again? Comparing the mortal to past loves? Keeping secre
 )
 
 
+#block(breakable: false)[
+
 == Quick Reference
+
+]
 
 
 #workbook-table(

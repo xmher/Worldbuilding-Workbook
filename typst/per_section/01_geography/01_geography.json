@@ -120,20 +120,7 @@
       "text": "**What type of geographic friction does your romance use most — proximity, separation, or resource? How does it show up in your story, and what does it force your characters to do?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -489,20 +476,7 @@
       "text": "**List your primary and secondary locations. For each, give the name and a one-sentence description of what happens there and why it matters to the romance.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -520,40 +494,14 @@
       "text": "**Describe your primary kingdom/nation. What is it called, what is it known for, what is its main resource, and how does it create or complicate your love story? If you have a second kingdom, describe it too.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "prose",
       "text": "**If your world has additional kingdoms or nations, describe them here. What is each called, what distinguishes it, and how does it matter to the romance?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -588,20 +536,7 @@
       "text": "**For each major terrain type in your world, describe where it is, what it provides, what challenges it creates, and how it affects the romance.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -944,20 +879,7 @@
       "text": "**Create 3-5 naming elements (prefixes or suffixes) for your world's place names. For each, note the meaning and give an example of a location name that uses it.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -972,20 +894,7 @@
       "text": "**Name your key locations (protagonist's homeland, love interest's homeland, where they meet, the contested territory, their special place). For each, explain what the name means and which naming convention it follows.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -1034,10 +943,6 @@
     },
     {
       "type": "divider"
-    },
-    {
-      "type": "heading2",
-      "text": "Resources & Territorial Control"
     },
     {
       "type": "heading3",
@@ -1105,20 +1010,7 @@
       "text": "**What are the 2-3 most important natural resources in your world? For each, describe where it's found, who controls it, and how that control creates conflict or tension in your story.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -1174,10 +1066,6 @@
       "type": "divider"
     },
     {
-      "type": "heading2",
-      "text": "The Sensory World"
-    },
-    {
       "type": "heading4",
       "text": "What does your primary setting look, sound, smell, and feel like?"
     },
@@ -1190,20 +1078,7 @@
       "text": "**Close your eyes and walk through your primary setting. Describe what you see, hear, smell, and feel (temperature, humidity, wind).**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -1218,20 +1093,7 @@
       "text": "**How does your primary setting change throughout the day? Describe it at morning, midday, evening, and night — and note what kind of romantic scene would fit each time.**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -1282,10 +1144,6 @@
       "type": "divider"
     },
     {
-      "type": "heading2",
-      "text": "Climate, Weather & Seasons"
-    },
-    {
       "type": "heading4",
       "text": "What's the overall climate?"
     },
@@ -1324,20 +1182,7 @@
       "text": "**Pick the most story-relevant season in your world. What does this season make possible, and what does it make impossible?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -1352,20 +1197,7 @@
       "text": "**For each season (summer/warm, winter/cold, transitional), what becomes possible and what becomes impossible in your world?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -1403,10 +1235,6 @@
       "type": "divider"
     },
     {
-      "type": "heading2",
-      "text": "Dangerous Regions"
-    },
-    {
       "type": "heading4",
       "text": "What regions are dangerous or forbidden?"
     },
@@ -1419,20 +1247,7 @@
       "text": "**Describe the most dangerous region in your world. What makes it dangerous, and who goes there anyway (and why)?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -1447,20 +1262,7 @@
       "text": "**Plan a dangerous journey for your characters. Where do they go and why? What dangers do they face? What damage does the environment cause? What forces them to rely on each other, and what changes between them after surviving it?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -1483,10 +1285,6 @@
     },
     {
       "type": "divider"
-    },
-    {
-      "type": "heading2",
-      "text": "Borders & Boundaries"
     },
     {
       "type": "heading4",
@@ -1527,20 +1325,7 @@
       "text": "**What geographic or political border separates your characters? What does crossing it mean (legally, socially, personally), and is there any in-between space where they can meet?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -1555,20 +1340,7 @@
       "text": "**What does your protagonist assume about the love interest's people — and what moment shatters that assumption? What does the love interest assume about the protagonist's people, and when does that break?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -1595,10 +1367,6 @@
     },
     {
       "type": "divider"
-    },
-    {
-      "type": "heading2",
-      "text": "Home & Belonging"
     },
     {
       "type": "heading4",
@@ -1652,20 +1420,7 @@
       "text": "**Where does each of your main characters feel most out of place — alien, uncomfortable, or unwelcome? Why?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -1698,10 +1453,6 @@
       "type": "divider"
     },
     {
-      "type": "heading2",
-      "text": "Entering Each Other's Worlds"
-    },
-    {
       "type": "heading4",
       "text": "Does one character visit the other's home territory?"
     },
@@ -1714,20 +1465,7 @@
       "text": "**When one character visits the other's world, who visits whom? What does the visitor notice first? What is the host proud of — and what would they rather hide? What everyday moment creates unexpected intimacy?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -1799,10 +1537,6 @@
       "type": "divider"
     },
     {
-      "type": "heading2",
-      "text": "Travel & Distance"
-    },
-    {
       "type": "heading4",
       "text": "How do people typically travel in your world?"
     },
@@ -1815,20 +1549,7 @@
       "text": "**What is the primary mode of travel in your world? Who uses it, and what kind of physical proximity does it create between your characters?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -1896,20 +1617,7 @@
       "text": "**How long does it take to travel between your key locations — capital to border, one character's home to the other's, and across the dangerous region?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -1924,20 +1632,7 @@
       "text": "**Describe the most important journey in your story. Where does it go, how long does it take, and what happens between your characters during the journey?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -1966,10 +1661,6 @@
       "type": "divider"
     },
     {
-      "type": "heading2",
-      "text": "Isolated Locations"
-    },
-    {
       "type": "heading4",
       "text": "What isolated locations exist?"
     },
@@ -1982,20 +1673,7 @@
       "text": "**Describe an isolated or trapped location in your world. What kind of place is it, why do people end up there, and what makes leaving difficult?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "heading4",
@@ -2010,20 +1688,7 @@
       "text": "**In your trapped/isolated setting, what space must the characters share? What daily routine forces interaction? Where do they go after an argument when there's nowhere to go? At what point could they leave — and what does choosing to stay mean?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"
@@ -2106,20 +1771,7 @@
       "text": "**How does your geography connect to other aspects of your world? Consider: Does it create the friction type you identified? How does it explain cultural differences? How does it create power structures? How does it interact with magic? What resource or territory is contested?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"

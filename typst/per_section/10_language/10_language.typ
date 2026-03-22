@@ -15,46 +15,38 @@
 Not every question below will apply to your story. If your characters share a language, skip the barrier sections and focus on voice, silence, and private communication. If literacy isn't relevant, skip it entirely. Start with what creates the most tension between your specific characters and build outward from there.
 
 
-== The Bridge & Barrier Principle
+#block(breakable: false)[
 
+== The Bridge & Barrier Principle
 
 Every word your characters learn in each other's language is a brick in a bridge. Every silence is a wall. Only language is a worldbuilding element that serves as both an obstacle between your characters and the tool that will allow them to conquer that obstacle.
 
-
 Most romantasy barriers are external. Political alliances, forbidden magic, rival courts. But language barriers are different because they live inside every interaction. Every conversation becomes an act of trust. Every misunderstanding is a small wound. Every time your character learns a new word in their partner's language it is an act of investment that says: #emph[your world matters enough for me to learn how you see it.]
-
 
 This is why language works so powerfully in romance. It doesn't just create a problem to be solved. It creates a gradient of intimacy. Your characters move from strangers who can't communicate, to halting exchanges, to fluency, to private words only they share, to silence that says everything. This progression of building intimacy parallels the process of falling in love. In #emph[ACOTAR], Feyre's willingness to lower her mental walls for Rhysand's daemati link is a stronger declaration of love than any verbal confession could be. To allow someone to enter your mind and thoughts is to give up the last vestige of control. That's the bridge, fully built.
 
-
 Build language that creates both barriers and bridges. Make your characters work to understand each other, and make that work meaningful.
-
 
 #strong[Where does your story sit on the barrier-to-bridge progression?]
 
-
 Language intimacy builds in stages. Where do your characters start, and where do they end? Mark the stages that appear in your story — these become scenes to write.
-
 
 #strong[Map the communication arc between your characters. Which of these stages are present in your story, and when does each happen: complete inability to communicate, halting exchanges, functional but nuance-missing conversation, real conversation (arguing, joking, confessing), private language only they share, and silence that says everything?]
 
+#answer-box(
+  height: 180pt,
+)
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
+]
 
 
-&nbsp;
-
+#block(breakable: false)[
 
 == Language as a Romantic Toolkit
 
-
 Most writers think about language as a single tool: the language barrier. But language actually gives you a whole toolkit of romantic dynamics, each creating a different flavour of tension. The real craft is matching the right language pattern to the emotional beat you need.
+
+]
 
 
 #workbook-table(
@@ -99,16 +91,9 @@ Look at the toolkit table above. Pick the 2–3 patterns most relevant to your r
 #strong[Which language patterns from the list above are you using? For each, describe how it works between your characters and a specific scene it creates.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == Common Mistakes with Language
@@ -238,52 +223,52 @@ How did they learn each one? What doors does their linguistic knowledge open or 
 
 #strong[What is your protagonist's native language? What other languages do they speak and how fluently? How did they learn each one, and what doors do their languages open or close?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 === Love Interest's Languages
 
+
 Do they share a language with the protagonist, or will communication itself become part of their journey together?
+
 
 #strong[What is your love interest's native language? What other languages do they speak and how fluently? How did they learn each one, and what doors do their languages open or close?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[Do they share a common language when they first meet?]
 
+
 If not, how do they communicate initially? Gestures? A shared third language? Magic? And if they do share a language, is it native to both of them, or is one always slightly at a disadvantage?
+
 
 #strong[Do your characters share a language at first meeting? If yes, is one at a disadvantage in it? If no, how do they communicate initially? What's lost in this early communication?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[Who learns whose language?]
 
+
 This is a power question as much as a practical one. Does one teach the other? Do they meet in the middle? Does the love interest learn the protagonist's "lesser" language as an act of respect?
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
+  fill-page: true,
 )
-
-]
 
 
 #block(breakable: false)[
@@ -296,24 +281,23 @@ When characters need translation, a third party enters their most intimate space
 
 #strong[If your characters need a translator or intermediary, who fills that role and how trustworthy are they?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[What can't be said through a translator?]
 
+
 What's too private, too dangerous, or too intimate to say through a third party? The things they can't say with someone listening become the things they long to say alone.
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #strong[When can they finally communicate without help?]
@@ -368,16 +352,9 @@ First words carry weight. Is it practical, accidental, or something that reveals
 #strong[What's the first word your protagonist learns in the love interest's language? What does it mean, and what's the context in which they learn it?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 === The Love Interest's First Word
@@ -389,16 +366,9 @@ What does their choice to learn this particular word reveal about what they noti
 #strong[What's the first word your love interest learns in the protagonist's language? What does it mean, and what's the context in which they learn it?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[When can they first have a real conversation?]
@@ -414,28 +384,25 @@ What changes when they can finally understand each other fully, when the bridge 
 )
 
 
-== Multilingual Dialogue on the Page
+#block(breakable: false)[
 
+== Multilingual Dialogue on the Page
 
 If the characters in your writing speak multiple languages, you will have an immediate, practical writing problem: how do you actually represent that on the page? English-language fantasy has developed a reliable toolkit for this, and the key is choosing the technique that matches the emotional experience you want your reader to have.
 
-
 === The Translation Contract
-
 
 You need to establish your contract with the reader before you write a single line of multilingual dialogue. Will they be reading literal English? English that stands in for another language? A translated in-world document? If you make your decision early, you won't have to negotiate that with the reader every time you add a new language to the mix.
 
-
 Naomi Novik uses culturally specific terms and proper nouns ("the Staryk," "tsar") to give a sense of linguistic atmosphere in #emph[Spinning Silver], but she keeps the reader processing at the sentence level entirely in English. The reader feels a world shaped by other languages without having to decode the page. R.F. Kuang took a different approach in #emph[The Poppy War]. She provides a definition for unfamiliar terms when they appear for the first time ("Keju" is defined immediately after it appeared), then later uses can drop the explanation because the reader's already learned it.
-
 
 Both approaches work beautifully. Your only job is to determine which one works best for your story.
 
-
 === Your Toolkit
 
-
 You don't need to pick just one technique. Most successful multilingual fantasy combines several, but keeps each term on a consistent track: first occurrence handled one way, later occurrences another.
+
+]
 
 
 #workbook-table(
@@ -531,16 +498,9 @@ Perfect translation kills tension. Pick at least one constraint from the table a
 #strong[What translation constraint are you using, how does it fail at the worst possible moment, and what do your characters do instead?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 === Your Approach
@@ -555,16 +515,9 @@ Which technique (or combination) matches the experience you want readers to have
 #strong[What is your primary technique for representing language on the page? How are foreign words formatted (italics, roman, tags), and how much does the reader understand vs. the protagonist?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Does your world have magical translation?]
@@ -576,16 +529,9 @@ If so, what are its limits? What can't it translate? What happens when it fails?
 #strong[What translation method do your characters use? What can't it handle, and when does it fail (and what does failure cost)?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == Voice, Accent & How They Sound
@@ -661,16 +607,9 @@ Speech patterns reveal history. Does their accent betray origins they try to hid
 #strong[What accent or dialect does your protagonist speak with? What does it reveal about their background, and how does the love interest perceive it?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 === Love Interest's Speech
@@ -682,16 +621,9 @@ How does their speech mark them in your world, and what does the protagonist not
 #strong[What accent or dialect does your love interest speak with? What does it reveal about their background, and how does the protagonist perceive it?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Does either character code-switch — and what does the shift reveal?]
@@ -740,24 +672,23 @@ What truths are they avoiding? What feelings go unexpressed?
 
 #strong[What does your protagonist never say to the love interest? What does the love interest never say to the protagonist?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[Why don't they say it?]
 
+
 Fear? Pride? Protection? Timing? Not having the words?
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #strong[What does their silence communicate?]
@@ -825,16 +756,9 @@ Deflection, omission, confident falsehood, nervous tells:
 #strong[How does your protagonist lie (omission, misdirection, performance, blunt falsehood)? How does your love interest lie?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How can they tell when the other is lying?]
@@ -846,16 +770,9 @@ What tells give them away? Learning someone's tells is its own form of intimacy.
 #strong[What are your protagonist's tells when they're lying? What are your love interest's tells?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[When does one catch the other in a lie?]
@@ -867,16 +784,9 @@ The moment of discovering a lie is significant. How much does the discovery cost
 #strong[What is the lie that matters most between your characters? What was the lie, how did the other person know, and what happened as a result?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What truths are hard to say?]
@@ -918,16 +828,9 @@ Colin tells his brothers in #emph[Bridgerton] that he would never marry Penelope
 #strong[Is there an overheard conversation that changes everything? Who overhears, what do they hear, and who was speaking (and to whom)?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How does what they overhear change things?]
@@ -967,13 +870,15 @@ Defence of them to others? Confession of feelings? Criticism? Praise?
 )
 
 
-== Learning to Read Each Other
+#block(breakable: false)[
 
+== Learning to Read Each Other
 
 Beyond words, there's a deeper layer of communication: learning to interpret each other. This is where the real intimacy lives. When two people know each other well enough to speak without speaking, it signals a bond that goes beyond anything language can carry. If your protagonist can read the love interest's mood from across a crowded room, or catches a micro-expression no one else would notice, readers feel the depth of that connection.
 
-
 Nonverbal fluency develops slowly, though. At the start of their relationship, your characters will misread each other constantly. They'll project their own fears onto the love interest, miss signals, and assume silence is rejection when in fact it's just restraint. As the relationship deepens, they start catching the small things. That's the progression worth tracking.
+
+]
 
 
 #workbook-table(
@@ -1104,16 +1009,9 @@ Do they yell? Go cold? Talk in circles? Walk away? Get cutting? Cry?
 #strong[In conflict, what does your protagonist do (attack, withdraw, deflect, freeze)? What does your love interest do?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What words wound?]
@@ -1125,16 +1023,9 @@ What can one say that truly hurts the other? Knowing what wounds someone is inti
 #strong[What words would wound your protagonist most deeply? What words would wound your love interest?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 === A Fight They Have
@@ -1146,16 +1037,9 @@ Real conflict reveals character. What triggers it, what gets said that can't be 
 #strong[Plan a key argument between your characters: What is it about on the surface? What is it really about (the subtext)? What gets said that can't be unsaid? How does it end?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[How do they repair after conflict?]
@@ -1204,38 +1088,37 @@ Literacy is power, and in romantasy, power imbalances create tension. Who can re
 
 #strong[What writing systems exist in your world (alphabets, pictographs, magical scripts)? How common is literacy, who controls access to reading and writing, and what can't be communicated without literacy?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[Can your characters read and write?]
 
+
 Literacy can be a source of power, shame, or connection. How does each character's relationship to written language shape their world?
+
 
 #strong[What is your protagonist's literacy level? What is your love interest's literacy level?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[If one is literate and one isn't, how does this affect them?]
 
+
 Does the literate one teach? Is there a power imbalance? Shame? Practical problems? Teaching someone to read is as intimate as teaching them your language.
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 === Letters & Written Communication
@@ -1265,16 +1148,9 @@ In #emph[Romancing Mister Bridgerton], Penelope's secret life as Lady Whistledow
 #strong[Do your characters communicate in writing? What do they write, what can they say on paper that they can't say aloud, how does it reach the other person, what risk exists in it being written, and how does the recipient react?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[What do they write that they couldn't say?]
@@ -1290,16 +1166,17 @@ What truths emerge only in writing?
 )
 
 
-== Magical Communication
+#block(breakable: false)[
 
+== Magical Communication
 
 Magical communication offers an incredible advantage in terms of overcoming barriers; these include language, distance, privacy. But that shortcut comes with its own costs and complications. When your characters communicate directly to each other by means of their minds, it produces instant and overwhelming intimacy. This type of communication also brings with it the opportunity for eavesdropping: nothing is private if someone else can intercept your thoughts.
 
-
 Here's the design principle worth remembering: romantic tension rises when a channel is high-intimacy, partially uncontrollable, and imperfectly private. This combination forces writers into writing scenes that are more about establishing boundaries and less about providing information. A telepathic bond where one character can't control what bleeds through is more interesting than one with perfect on/off control. A journal that could be stolen is far more interesting than one that's perfectly secure. Choose the method that creates the most friction between closeness and safety.
 
-
 The choice of method will affect the overall romantic dynamic between your characters. Pick the one that serves the emotional arc you're building.
+
+]
 
 
 #workbook-table(
@@ -1324,16 +1201,9 @@ Telepathy? Sending spells? Magical mirrors? Dream-walking? Enchanted objects?
 #strong[If your characters use magical communication, describe the method, how it works, its limitations, who has access, and what romantic tension it creates.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Do your characters use magical communication?]
@@ -1345,16 +1215,9 @@ Magical methods can create instant connection or bypass barriers, but they may a
 #strong[Which magical communication method do your characters use, and when do they use it (the specific moment that matters most)?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[Is magical communication private, or can it be intercepted?]
@@ -1394,24 +1257,23 @@ Restricted languages carry power. Knowing a forbidden tongue can mark someone as
 
 #strong[Is there a sacred or ancient language in your world? What is it called, who can speak it, and why is it special?]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[Is there a magical language?]
 
+
 Required for spells? A language of power? A language belonging to a particular species or order?
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #strong[Does either character teach the other a sacred or forbidden language?]
@@ -1468,16 +1330,9 @@ What would it mean for your protagonist to share, or withhold, this from their l
 #strong[Do true names hold power in your world? What is your protagonist's true name and what does it mean? What is your love interest's true name and why does it matter?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[When does one learn the other's true name?]
@@ -1489,16 +1344,9 @@ This moment marks a turning point. Is it freely given or discovered? What change
 #strong[When and how is a true name revealed between your characters? What does the revelation mean for their relationship?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #block(breakable: false)[
@@ -1515,72 +1363,74 @@ Titles, honorifics, and familiar names create layers of intimacy. The shift from
 
 #strong[What are the forms of address in your world? Describe the formal (titles, honorifics), informal (first names), and intimate (pet names, private names) levels.]
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
+]
 
-&nbsp;
-
-&nbsp;
 
 #strong[What shift in how they address each other marks growing intimacy?]
 
+
 From title to name? Formal to informal? Surname to given name? A private nickname? In #emph[From Blood and Ash], the progression from "Hawke" to "Casteel" to "Cas" tracks Poppy's journey from loving a persona, to confronting a stranger, to accepting the real man. Each name marks a different stage of the relationship, and the moment she chooses "Cas" is the moment the deception stops mattering more than the person beneath it.
+
 
 #strong[How do your characters initially address each other? What do they shift to? When does the shift happen, and what triggers it?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 === Code, Cipher & Private Language
 
+
 The inside joke, the glance that holds meaning, the word or phrase that only one person will get. Private language marks a unique bond. This is essentially the verbal equivalent of a locked door: all others remain outside.
+
 
 In #emph[The Cruel Prince], Jude and Cardan's shared cruelty functions as a private code. The insults they give one another serve as a language of fixation that only they understand; when Cardan says to Queen Orlagh that he will have Jude, it may appear to be a political statement for those around them, but Jude understands this to be a desperate expression of his personal desire. The daemati link in #emph[ACOTAR] serves the same function: a channel that excludes the entire world and belongs only to Feyre and Rhysand.
 
+
 #strong[Do your characters develop a code or private language?]
+
 
 #strong[Do your characters develop a private code or shared language? What form does it take, what can they say in code that they can't say openly, and when do they first use it?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 === Words for Love
 
+
 Endearments carry cultural weight. Are they common or reserved? What does using, or avoiding, such words reveal about your characters and their world?
+
 
 #strong[What words express love or affection in your world's languages?]
 
+
 #strong[What are the common terms of endearment in your world? What more intimate or private words exist between your characters specifically?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[Are there words for love in one language that don't exist in another?]
 
+
 Concepts that can't quite be translated. These untranslatable words become story in themselves.
+
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
-
-]
 
 
 #strong[What's the first affectionate thing one says in the other's language?]
@@ -1592,16 +1442,9 @@ Learning to say something tender in someone else's tongue is an act of reaching 
 #strong[What is the first term of endearment one character uses for the other? How does the other react?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[If they say "I love you," in what language?]
@@ -1617,13 +1460,15 @@ Whose language and why that choice:
 )
 
 
-== Misunderstanding & Clarity
+#block(breakable: false)[
 
+== Misunderstanding & Clarity
 
 Misunderstanding is one of the oldest tools in romance, and one of the easiest to get wrong. A great misunderstanding has to feel inevitable based on the nature of the two characters. If a reader thinks that a misunderstanding could easily be resolved by a single honest statement, then it will appear contrived. But if the misunderstanding grows from a real language gap, a cultural difference, or a character flaw that makes them interpret things through the wrong lens, it becomes genuinely painful and satisfying to watch unfold.
 
-
 The best misunderstandings aren't just about getting the words wrong. They're about getting the #emph[meaning] wrong because of who the characters are.
+
+]
 
 
 #workbook-table(
@@ -1648,16 +1493,9 @@ Language gaps create room for confusion, comedy, or heartbreak. What gets lost i
 #strong[Plan a key miscommunication between your characters: What is the miscommunication, why is it inevitable given who they are, what does each character believe happened, and how is it resolved?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #strong[When do they finally understand each other completely?]
@@ -1673,7 +1511,11 @@ Not just words, but meaning. This moment often lands near the emotional climax o
 )
 
 
+#block(breakable: false)[
+
 == Integration Check
+
+]
 
 
 #workbook-table(
