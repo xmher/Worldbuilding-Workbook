@@ -174,31 +174,24 @@
       "text": "Use the tables above to identify which types of pressure your romance needs. You don't have to limit yourself to one — the strongest locations combine two or more."
     },
     {
-      "type": "open_table",
-      "headers": [
-        "Your Pairing Dynamic",
-        "Primary Pressure Type Needed",
-        "Secondary Pressure Type",
-        "Why This Combination Serves Your Romance"
-      ],
-      "example_rows": [
-        [
-          "Enemies to lovers (example)",
-          "Forced connection",
-          "Creates risk",
-          "They need to be stuck together AND have consequences if feelings show"
-        ]
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      "type": "prose",
+      "text": "**What is your pairing dynamic (e.g., enemies to lovers, forbidden love, slow burn), and which types of location pressure does your romance need most? Why does this combination serve your story?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -252,34 +245,24 @@
       "text": "List three to five major romantic moments in your story. Think about the moments that shift the relationship: where walls come down, where stakes become real, where everything changes."
     },
     {
-      "type": "open_table",
-      "headers": [
-        "Your Pivotal Romantic Moments"
-      ],
-      "example_rows": [
-        [
-          "First kiss / the moment she sees his true self / the betrayal that breaks everything (example)"
-        ]
-      ],
-      "rows": [
-        [
-          "**Moment 1:**"
-        ],
-        [
-          "**Moment 2:**"
-        ],
-        [
-          "**Moment 3:**"
-        ],
-        [
-          "**Moment 4:**"
-        ],
-        [
-          "**Moment 5:**"
-        ]
-      ],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      "type": "prose",
+      "text": "**List three to five pivotal romantic moments in your story -- the scenes that shift the relationship, where walls come down, stakes become real, or everything changes.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -416,33 +399,24 @@
       "text": "**What does this space force or prevent?**"
     },
     {
-      "type": "open_table",
-      "headers": [
-        "Force (what must happen)",
-        "Prevent (what can't happen)"
-      ],
-      "example_rows": [
-        [
-          "Must stand close enough to whisper (narrow corridor)",
-          "Can't leave without being seen (single guarded exit)"
-        ]
-      ],
-      "rows": [
-        [
-          "",
-          ""
-        ],
-        [
-          "",
-          ""
-        ],
-        [
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      "type": "prose",
+      "text": "**For this location: What does the space force to happen (physical proximity, cooperation, vulnerability)? And what does it prevent (escape, privacy, honesty)?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -654,42 +628,24 @@
       "text": "The same space creates completely different romantic tension depending on when your characters arrive. Think about which version serves your scene best."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Time",
-        "How the Space Changes",
-        "What Romantic Tension It Creates"
-      ],
-      "example_rows": [
-        [
-          "Dawn (example)",
-          "Grey light, cold stone, the night's fire reduced to ash",
-          "Vulnerability — defences lowered from sleeplessness; the coming daylight forces a reckoning with what happened in the dark"
-        ]
-      ],
-      "rows": [
-        [
-          "**Dawn**",
-          "",
-          ""
-        ],
-        [
-          "**Midday**",
-          "",
-          ""
-        ],
-        [
-          "**Dusk**",
-          "",
-          ""
-        ],
-        [
-          "**Night**",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What time of day does your pivotal scene happen in this location? How does the space change at that hour, and what romantic tension does that timing create?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -892,40 +848,24 @@
       "text": "Use the table below to identify how the magic of this space serves your scene:"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Magical Property Type",
-        "How It Works in This Location",
-        "What It Does for the Romance"
-      ],
-      "rows": [
-        [
-          "**Wards / Barriers** *(blocks surveillance, prevents entry/exit, shields from tracking)*",
-          "",
-          ""
-        ],
-        [
-          "**Sentience / Responsiveness** *(the space reacts to emotions, adjusts to needs, manifests resources)*",
-          "",
-          ""
-        ],
-        [
-          "**Emotional Influence** *(induces feelings, compels honesty, amplifies desires, tests character)*",
-          "",
-          ""
-        ],
-        [
-          "**Shifting / Unstable** *(geography changes, paths rearrange, doorways appear or vanish)*",
-          "",
-          ""
-        ],
-        [
-          "**Bonding / Tethering** *(magical connections that mandate proximity or create emotional bleed)*",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Does this location have active magical properties (wards, sentience, emotional influence, shifting geography, bonding/tethering)? For each that applies, describe how the magic works here and what it does for the romance.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1597,62 +1537,24 @@
       "text": "Quick Reference: Your Key Locations"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Location",
-        "Moment That Happens There",
-        "What It Forces/Enables"
-      ],
-      "rows": [
-        [
-          "**Location 1:**",
-          "",
-          ""
-        ],
-        [
-          "**Location 2:**",
-          "",
-          ""
-        ],
-        [
-          "**Location 3:**",
-          "",
-          ""
-        ],
-        [
-          "**Location 4:**",
-          "",
-          ""
-        ],
-        [
-          "**Location 5:**",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Name your recurring location (the place that becomes 'theirs'), any location that becomes lost or inaccessible, and the location where the romantic climax happens.**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "",
-        ""
-      ],
-      "rows": [
-        [
-          "**Recurring location (\"theirs\"):**",
-          ""
-        ],
-        [
-          "**Lost location (if any):**",
-          ""
-        ],
-        [
-          "**Final/climax location:**",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"

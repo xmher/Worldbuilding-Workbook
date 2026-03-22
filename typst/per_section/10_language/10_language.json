@@ -43,47 +43,24 @@
       "text": "Language intimacy builds in stages. Where do your characters start, and where do they end? Mark the stages that appear in your story — these become scenes to write."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Stage",
-        "Present in Your Story?",
-        "When It Happens"
-      ],
-      "example_rows": [
-        [
-          "Can't communicate at all — gestures, frustration, misreading",
-          "Yes — Chapters 1–4, when Feyre first arrives in Prythian and can't read the Fae language on signs or documents",
-          "Early meetings, before any trust is built"
-        ]
-      ],
-      "rows": [
-        [
-          "Halting exchanges — single words, pointing, stumbling",
-          "",
-          ""
-        ],
-        [
-          "Functional communication — can get through a conversation but miss nuance",
-          "",
-          ""
-        ],
-        [
-          "Real conversation — can argue, joke, confess",
-          "",
-          ""
-        ],
-        [
-          "Private language — words, signals, or codes only they share",
-          "",
-          ""
-        ],
-        [
-          "Silence that says everything — words no longer needed",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Map the communication arc between your characters. Which of these stages are present in your story, and when does each happen: complete inability to communicate, halting exchanges, functional but nuance-missing conversation, real conversation (arguing, joking, confessing), private language only they share, and silence that says everything?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -198,33 +175,24 @@
       "text": "Look at the toolkit table above. Pick the 2–3 patterns most relevant to your romance. For each one, note the specific scene or dynamic it creates."
     },
     {
-      "type": "open_table",
-      "headers": [
-        "Language Pattern",
-        "How It Works Between Your Characters",
-        "A Scene It Creates"
-      ],
-      "example_rows": [
-        [
-          "Language barrier",
-          "Feyre can't read — Rhysand teaches her, creating private tutoring sessions that become intimate",
-          "The reading lessons in ACOTAR where proximity + patience = attraction"
-        ]
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      "type": "prose",
+      "text": "**Which language patterns from the list above are you using? For each, describe how it works between your characters and a specific scene it creates.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -409,30 +377,24 @@
       "text": "How did they learn each one? What doors does their linguistic knowledge open or close?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Native language",
-          ""
-        ],
-        [
-          "Other languages and fluency",
-          ""
-        ],
-        [
-          "How they learned each one",
-          ""
-        ],
-        [
-          "What doors their languages open or close",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What is your protagonist's native language? What other languages do they speak and how fluently? How did they learn each one, and what doors do their languages open or close?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -443,30 +405,24 @@
       "text": "Do they share a language with the protagonist, or will communication itself become part of their journey together?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Native language",
-          ""
-        ],
-        [
-          "Other languages and fluency",
-          ""
-        ],
-        [
-          "How they learned each one",
-          ""
-        ],
-        [
-          "What doors their languages open or close",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What is your love interest's native language? What other languages do they speak and how fluently? How did they learn each one, and what doors do their languages open or close?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -477,30 +433,24 @@
       "text": "If not, how do they communicate initially? Gestures? A shared third language? Magic? And if they do share a language, is it native to both of them, or is one always slightly at a disadvantage?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Do they share a language at first meeting?",
-          ""
-        ],
-        [
-          "If yes — is one at a disadvantage in it?",
-          ""
-        ],
-        [
-          "If no — how do they communicate initially?",
-          ""
-        ],
-        [
-          "What's lost in this early communication?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Do your characters share a language at first meeting? If yes, is one at a disadvantage in it? If no, how do they communicate initially? What's lost in this early communication?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -531,22 +481,24 @@
       "text": "**Do your characters ever need a translator?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Who translates",
-          ""
-        ],
-        [
-          "How trustworthy are they",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**If your characters need a translator or intermediary, who fills that role and how trustworthy are they?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -620,26 +572,24 @@
       "text": "First words carry weight. Is it practical, accidental, or something that reveals character?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "The word",
-          ""
-        ],
-        [
-          "What it means",
-          ""
-        ],
-        [
-          "Context of learning it",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What's the first word your protagonist learns in the love interest's language? What does it mean, and what's the context in which they learn it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -650,26 +600,24 @@
       "text": "What does their choice to learn this particular word reveal about what they notice or value?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "The word",
-          ""
-        ],
-        [
-          "What it means",
-          ""
-        ],
-        [
-          "Context of learning it",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What's the first word your love interest learns in the protagonist's language? What does it mean, and what's the context in which they learn it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -892,28 +840,24 @@
       "text": "Perfect translation kills tension. Pick at least one constraint from the table above and describe how it affects your characters' communication."
     },
     {
-      "type": "open_table",
-      "headers": [
-        "Constraint You're Using",
-        "How It Fails at the Worst Moment",
-        "What Your Characters Do Instead"
-      ],
-      "example_rows": [
-        [
-          "Register loss — the daemati bond can't transmit humour or sarcasm",
-          "Feyre sends a sarcastic thought; Rhysand receives it as flat hostility and pulls away",
-          "She has to explain she was joking — vulnerability through having to narrate her own tone"
-        ]
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      "type": "prose",
+      "text": "**What translation constraint are you using, how does it fail at the worst possible moment, and what do your characters do instead?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -928,26 +872,24 @@
       "text": "Which technique (or combination) matches the experience you want readers to have?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Primary technique",
-          ""
-        ],
-        [
-          "How foreign words are formatted (italics, roman, tags)",
-          ""
-        ],
-        [
-          "How much the reader understands vs. the protagonist",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What is your primary technique for representing language on the page? How are foreign words formatted (italics, roman, tags), and how much does the reader understand vs. the protagonist?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -958,26 +900,24 @@
       "text": "If so, what are its limits? What can't it translate? What happens when it fails?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Translation method",
-          ""
-        ],
-        [
-          "What it can't handle",
-          ""
-        ],
-        [
-          "When it fails (and what that costs)",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What translation method do your characters use? What can't it handle, and when does it fail (and what does failure cost)?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -1086,26 +1026,24 @@
       "text": "Speech patterns reveal history. Does their accent betray origins they try to hide, or signal status they want others to recognise?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Accent/dialect",
-          ""
-        ],
-        [
-          "What it reveals about their background",
-          ""
-        ],
-        [
-          "How the love interest perceives it (attraction, suspicion, fascination)",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What accent or dialect does your protagonist speak with? What does it reveal about their background, and how does the love interest perceive it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -1116,26 +1054,24 @@
       "text": "How does their speech mark them in your world, and what does the protagonist notice about it that others might miss?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Accent/dialect",
-          ""
-        ],
-        [
-          "What it reveals about their background",
-          ""
-        ],
-        [
-          "How the protagonist perceives it (attraction, suspicion, fascination)",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What accent or dialect does your love interest speak with? What does it reveal about their background, and how does the protagonist perceive it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1218,22 +1154,24 @@
       "text": "What truths are they avoiding? What feelings go unexpressed?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "What They Don't Say"
-      ],
-      "rows": [
-        [
-          "Protagonist doesn't say",
-          ""
-        ],
-        [
-          "Love interest doesn't say",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What does your protagonist never say to the love interest? What does the love interest never say to the protagonist?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1333,22 +1271,24 @@
       "text": "Deflection, omission, confident falsehood, nervous tells:"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "How They Lie"
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How does your protagonist lie (omission, misdirection, performance, blunt falsehood)? How does your love interest lie?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1359,22 +1299,24 @@
       "text": "What tells give them away? Learning someone's tells is its own form of intimacy."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "Their Tells"
-      ],
-      "rows": [
-        [
-          "Protagonist's tells",
-          ""
-        ],
-        [
-          "Love interest's tells",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What are your protagonist's tells when they're lying? What are your love interest's tells?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1385,26 +1327,24 @@
       "text": "The moment of discovering a lie is significant. How much does the discovery cost the relationship, and what does the decision to either confront or not confront it reveal about each of them? In *The Wicked King*, Cardan sends Jude away with a decree that sounds like betrayal but contains a hidden loophole: as High Queen, she has the power to pardon herself. The romantic tension survives because decoding the literalism of his speech becomes Jude's act of faith in a man who communicates love through legal technicalities."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What was the lie",
-          ""
-        ],
-        [
-          "How they knew",
-          ""
-        ],
-        [
-          "What happened",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What is the lie that matters most between your characters? What was the lie, how did the other person know, and what happened as a result?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1449,26 +1389,24 @@
       "text": "**Does either character overhear something significant?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Who overhears",
-          ""
-        ],
-        [
-          "What they hear",
-          ""
-        ],
-        [
-          "Who was speaking (and to whom)",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Is there an overheard conversation that changes everything? Who overhears, what do they hear, and who was speaking (and to whom)?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1722,22 +1660,24 @@
       "text": "Do they yell? Go cold? Talk in circles? Walk away? Get cutting? Cry?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "In Conflict They..."
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**In conflict, what does your protagonist do (attack, withdraw, deflect, freeze)? What does your love interest do?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1748,22 +1688,24 @@
       "text": "What can one say that truly hurts the other? Knowing what wounds someone is intimate knowledge, and using it is a betrayal of that intimacy. The strongest unsayable lines attack identity (\"born to die\"), belonging (\"you are nothing\"), or agency (\"we decided for you\"). Which of these would hurt your characters most?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "Words That Wound Them"
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What words would wound your protagonist most deeply? What words would wound your love interest?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -1774,30 +1716,24 @@
       "text": "Real conflict reveals character. What triggers it, what gets said that can't be unsaid, and how does the aftermath shape them?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What it's about (the surface)",
-          ""
-        ],
-        [
-          "What it's really about (the subtext)",
-          ""
-        ],
-        [
-          "What gets said that can't be unsaid",
-          ""
-        ],
-        [
-          "How it ends",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Plan a key argument between your characters: What is it about on the surface? What is it really about (the subtext)? What gets said that can't be unsaid? How does it end?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1871,30 +1807,24 @@
       "text": "Who can read shapes who holds power — and who's shut out of it. A character who can't read a love letter, a treaty, or a warning is vulnerable in ways that go beyond the battlefield."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Writing systems (alphabets, pictographs, magical scripts)",
-          ""
-        ],
-        [
-          "How common is literacy",
-          ""
-        ],
-        [
-          "Who controls access to reading and writing",
-          ""
-        ],
-        [
-          "What can't be communicated without literacy",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What writing systems exist in your world (alphabets, pictographs, magical scripts)? How common is literacy, who controls access to reading and writing, and what can't be communicated without literacy?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1905,22 +1835,24 @@
       "text": "Literacy can be a source of power, shame, or connection. How does each character's relationship to written language shape their world?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "Literacy Level"
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What is your protagonist's literacy level? What is your love interest's literacy level?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1965,34 +1897,24 @@
       "text": "**Map a letter or written exchange between your characters.**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What they write",
-          ""
-        ],
-        [
-          "What they can say in writing that they can't say aloud",
-          ""
-        ],
-        [
-          "How it reaches the other person",
-          ""
-        ],
-        [
-          "What risk exists in this being written down",
-          ""
-        ],
-        [
-          "How the recipient reacts",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Do your characters communicate in writing? What do they write, what can they say on paper that they can't say aloud, how does it reach the other person, what risk exists in it being written, and how does the recipient react?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2075,34 +1997,24 @@
       "text": "Telepathy? Sending spells? Magical mirrors? Dream-walking? Enchanted objects?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Method",
-          ""
-        ],
-        [
-          "How it works",
-          ""
-        ],
-        [
-          "Limitations",
-          ""
-        ],
-        [
-          "Who has access",
-          ""
-        ],
-        [
-          "What romantic tension it creates",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**If your characters use magical communication, describe the method, how it works, its limitations, who has access, and what romantic tension it creates.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2113,22 +2025,24 @@
       "text": "Magical methods can create instant connection or bypass barriers, but they may also be monitored, traced, or come with their own costs."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Which method",
-          ""
-        ],
-        [
-          "When they use it",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Which magical communication method do your characters use, and when do they use it (the specific moment that matters most)?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2176,26 +2090,24 @@
       "text": "A language no one else speaks is the ultimate private space. If your characters share access to a restricted tongue, they carry a secret that binds them — and that can endanger them both."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Name/type",
-          ""
-        ],
-        [
-          "Who can speak it",
-          ""
-        ],
-        [
-          "Why it's special",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Is there a sacred or ancient language in your world? What is it called, who can speak it, and why is it special?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2270,25 +2182,24 @@
       "text": "What would it mean for your protagonist to share, or withhold, this from their love interest?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "True Name",
-        "What It Means/Why It Matters"
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          "",
-          ""
-        ],
-        [
-          "Love interest",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Do true names hold power in your world? What is your protagonist's true name and what does it mean? What is your love interest's true name and why does it matter?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2299,22 +2210,24 @@
       "text": "This moment marks a turning point. Is it freely given or discovered? What changes when this knowledge passes between them?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "The moment of revelation",
-          ""
-        ],
-        [
-          "What it means for their relationship",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**When and how is a true name revealed between your characters? What does the revelation mean for their relationship?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -2340,26 +2253,24 @@
       "text": "Titles, honorifics, and familiar names create layers of intimacy. The shift from formal to informal often marks a relationship's evolution."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Type",
-        "Examples"
-      ],
-      "rows": [
-        [
-          "Formal (titles, honorifics)",
-          ""
-        ],
-        [
-          "Informal (first names, common address)",
-          ""
-        ],
-        [
-          "Intimate (pet names, private names)",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What are the forms of address in your world? Describe the formal (titles, honorifics), informal (first names), and intimate (pet names, private names) levels.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2370,26 +2281,24 @@
       "text": "From title to name? Formal to informal? Surname to given name? A private nickname? In *From Blood and Ash*, the progression from \"Hawke\" to \"Casteel\" to \"Cas\" tracks Poppy's journey from loving a persona, to confronting a stranger, to accepting the real man. Each name marks a different stage of the relationship, and the moment she chooses \"Cas\" is the moment the deception stops mattering more than the person beneath it."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Initial address",
-          ""
-        ],
-        [
-          "Intimate address",
-          ""
-        ],
-        [
-          "When the shift happens",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How do your characters initially address each other? What do they shift to? When does the shift happen, and what triggers it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -2408,40 +2317,24 @@
       "text": "**Do your characters develop a code or private language?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "example_rows": [
-        [
-          "What form it takes",
-          "Insults that are actually terms of endearment — Jude and Cardan's mutual cruelty functions as a private love language only they decode"
-        ],
-        [
-          "What they can say in code that they can't say openly",
-          "\"I hate you\" means \"I can't stop thinking about you\" — the cruelty is the only safe container for obsession"
-        ],
-        [
-          "When they first use it",
-          "Their first real verbal sparring match, when Jude realises Cardan's hostility is fixation, not indifference"
-        ]
-      ],
-      "rows": [
-        [
-          "What form it takes",
-          ""
-        ],
-        [
-          "What they can say in code that they can't say openly",
-          ""
-        ],
-        [
-          "When they first use it",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Do your characters develop a private code or shared language? What form does it take, what can they say in code that they can't say openly, and when do they first use it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -2456,32 +2349,24 @@
       "text": "**What words express love or affection in your world's languages?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Type",
-        "Examples"
-      ],
-      "example_rows": [
-        [
-          "Common terms of endearment",
-          "\"Darling\" in ACOTAR — used broadly among the Fae, but Rhysand's use of it for Feyre shifts from teasing to genuine across the series"
-        ],
-        [
-          "More intimate or private words",
-          "\"Mate\" — a word that carries biological, magical, and emotional weight; not used casually"
-        ]
-      ],
-      "rows": [
-        [
-          "Common terms of endearment",
-          ""
-        ],
-        [
-          "More intimate or private words",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What are the common terms of endearment in your world? What more intimate or private words exist between your characters specifically?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2505,22 +2390,24 @@
       "text": "Learning to say something tender in someone else's tongue is an act of reaching across distance."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "The word/phrase",
-          ""
-        ],
-        [
-          "How the other reacts",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What is the first term of endearment one character uses for the other? How does the other react?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2599,30 +2486,24 @@
       "text": "Language gaps create room for confusion, comedy, or heartbreak. What gets lost in translation between your characters, and is the misunderstanding rooted in language, culture, or character?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "The miscommunication",
-          ""
-        ],
-        [
-          "Why it's inevitable given who these characters are",
-          ""
-        ],
-        [
-          "What each character believes happened",
-          ""
-        ],
-        [
-          "How it's resolved",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Plan a key miscommunication between your characters: What is the miscommunication, why is it inevitable given who they are, what does each character believe happened, and how is it resolved?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",

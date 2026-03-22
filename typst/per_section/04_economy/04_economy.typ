@@ -54,19 +54,19 @@ What's the single biggest entry on your characters' Invisible Ledger: the one de
 #strong[What's on your characters' Invisible Ledger?]
 
 
-#open-table(
-  headers: ("What's Been Given or Received", "Who Gave", "Who Owes", "How It Feels"),
-  example-rows: (
-    ([Healed her arm Under the Mountain — saved her life], [Rhysand], [Feyre], [She's grateful but uneasy; she can't repay a life, and every gift after this one adds to a debt she didn't choose]),
-  ),
-  rows: (
-    ([], [], [], []),
-    ([], [], [], []),
-    ([], [], [], []),
-  ),
-  row-height: 90pt,
-  fill-strategy: "wider_rows",
-)
+#strong[Map the emotional debt between your characters. What has been given or received, who gave, who owes, and how does the debt feel?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[When does the ledger stop mattering?]
@@ -123,18 +123,19 @@ When money or resources pass between lovers:
 #hint[Imbalance, pressure, and transaction often overlap, but one usually dominates. Naming it helps you write it with intention rather than accidentally.]
 
 
-#structured-table(
-  headers: ("Mechanism", "How It Shows Up in Your Story", "Which Scenes Does It Drive?"),
-  example-rows: (
+#strong[Which economic mechanisms drive your romance — imbalance (one has more), pressure (necessity forces choices), or transaction (resources pass between them)? How does each show up, and which scenes does it drive?]
 
-  ),
-  rows: (
-    ([Economic Imbalance (one has more)], [], []),
-    ([Economic Pressure (necessity forces choices)], [], []),
-    ([Economic Transaction (resources pass between them)], [], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 === Common Patterns: Economics in Romantasy
@@ -752,18 +753,19 @@ Food, water, shelter, fuel, medicine — what do people need to live?
 #strong[What resources are scarce or valuable?]
 
 
-#open-table(
-  headers: ("Resource", "Why It's Valuable", "Who Controls It"),
-  example-rows: (
-    ([Starlight ore (magical metal)], [Only material that holds enchantments; weapons and wards require it], [The Fae courts control the only known mines — humans must trade or steal]),
-  ),
-  rows: (
-    ([], [], []),
-    ([], [], []),
-  ),
-  row-height: 65pt,
-  fill-strategy: "wider_rows",
-)
+#strong[What is the most valuable resource in your world? Why is it valuable, and who controls it?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[How do your world's primary resources shape the romantic landscape?]
@@ -869,20 +871,19 @@ In an agrarian society, most people farm. In a trade economy, many are merchants
 List occupations that appear or matter in your story:
 
 
-#open-table(
-  headers: ("Occupation", "What They Do", "Social Status", "Who Does This Work"),
-  example-rows: (
-    ([Healer/herbalist], [Treats illness and injury using herbs, poultices, and minor magic], [Respected but feared — people need them but don't trust them], [Usually women; often solitary or marginalised]),
-  ),
-  rows: (
-    ([], [], [], []),
-    ([], [], [], []),
-    ([], [], [], []),
-    ([], [], [], []),
-  ),
-  row-height: 65pt,
-  fill-strategy: "wider_rows",
-)
+#strong[Describe 2-3 key occupations in your world. For each, what do they do, what is their social status, and who typically does this work?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What dangerous or unpleasant work exists?]
@@ -947,19 +948,19 @@ Is mobility possible, or are you locked into your work for life?
 Work shapes who we become. What skills, knowledge, and worldview has their occupation given them?
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Describe your protagonist's occupation: What do they do? What skills have they learned through work? How does the work show on their body? What do they notice that others don't because of their training?]
 
-  ),
-  rows: (
-    ([Occupation], []),
-    ([Skills learned through work], []),
-    ([How the work shows on their body (calluses, scars, ink-stained fingers)], []),
-    ([What they notice that others don't (because of their training)], []),
-  ),
-  row-height: 65pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What does your love interest do to survive?]
@@ -968,77 +969,63 @@ Work shapes who we become. What skills, knowledge, and worldview has their occup
 How does their work connect to or conflict with your protagonist's world? Do their occupations create proximity or distance?
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Describe your love interest's occupation: What do they do? What skills have they learned through work? How does the work show on their body? What do they notice that others don't because of their training?]
 
-  ),
-  rows: (
-    ([Occupation], []),
-    ([Skills learned through work], []),
-    ([How the work shows on their body (calluses, scars, ink-stained fingers)], []),
-    ([What they notice that others don't (because of their training)], []),
-  ),
-  row-height: 65pt,
-)
 
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+#block(breakable: false)[
 
 == Your Characters' Economic Positions
 
-
 #strong[Where does your protagonist fall economically?]
-
 
 Their economic position shapes what they worry about, what they dream of, and what they would sacrifice for security or freedom.
 
+#strong[Describe your protagonist's economic position: What is their economic status, source of income, economic security, and economic autonomy?]
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([Economic status (wealthy, comfortable, struggling, poor)], [Struggling — earns enough to eat but one bad month from disaster]),
-  ),
-  rows: (
-    ([Economic status (wealthy, comfortable, struggling, poor)], []),
-    ([Source of income/survival], []),
-    ([Economic security (stable, precarious, desperate)], []),
-    ([Economic autonomy (independent, dependent, controlled)], []),
-  ),
-  row-height: 60pt,
-)
+#hint[(Write your answer below)]
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #strong[Where does your love interest fall economically?]
 
-
 How does their economic reality differ from your protagonist's? What assumptions do they make about money that might clash or align?
 
+#strong[Describe your love interest's economic position: What is their economic status, source of income, economic security, and economic autonomy?]
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([Economic status], [Wealthy — heir to an estate, never worried about money a day in his life]),
-  ),
-  rows: (
-    ([Economic status], []),
-    ([Source of income/survival], []),
-    ([Economic security], []),
-    ([Economic autonomy], []),
-  ),
-  row-height: 60pt,
-)
+#hint[(Write your answer below)]
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #strong[If there's a gap, how significant is it?]
 
-
 Minor difference? Significant gap? Extreme disparity?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
-  fill-page: true,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -1097,17 +1084,19 @@ Does one depend on the other? Is there resentment? Does the wealthy one use mone
 Shame? Guilt? Obliviousness? Resentment? These feelings may never be spoken aloud, but they shape every interaction.
 
 
-#structured-table(
-  headers: ("Character", "How They Feel About the Gap", "How They Show It (or Hide It)"),
-  example-rows: (
-    ([Wealthier character], [Guilty — knows the gap is unfair but doesn't know how to close it without being patronising], [Offers help indirectly; pretends things cost less than they do]),
-  ),
-  rows: (
-    ([Wealthier character], [], []),
-    ([Less wealthy character], [], []),
-  ),
-  row-height: 60pt,
-)
+#strong[How does each character feel about the wealth gap between them, and how do they show it (or hide it)?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #block(breakable: false)[
@@ -1235,21 +1224,19 @@ Jude has taken the complete opposite approach. She refuses to view marriage as a
 How is marriage negotiated? What does each party bring to the arrangement, and what do they stand to lose?
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Describe the economics of marriage in your world: Who negotiates? What does each side provide (dowry, bride price, alliance)? What happens financially if the marriage dissolves? Is consummation required? Can the contract be broken, and at what cost?]
 
-  ),
-  rows: (
-    ([Who negotiates the marriage? (families, rulers, the couple themselves)], []),
-    ([What does the bride's side provide? (dowry, land, political alliance, magical ability)], []),
-    ([What does the groom's side provide? (bride price, protection, title, territory)], []),
-    ([What happens financially if the marriage dissolves?], []),
-    ([Is consummation required to make the contract binding?], []),
-    ([Can the contract be broken, and what is the cost?], []),
-  ),
-  row-height: 75pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[Is your protagonist's marriage being negotiated for economic reasons?]
@@ -1277,21 +1264,19 @@ Does she submit to it, subvert it, or use it as a tool for her own goals? The an
 #strong[If your world uses magical contracts or bonds, define the terms:]
 
 
-#structured-table(
-  headers: ("Contract Element", "Details"),
-  example-rows: (
+#strong[If your characters are bound by a contract, bargain, or magical bond: What kind of bond is it? Who initiated it and why? What are the exact terms? What happens if someone breaks it? Is consummation required? Can the bond be felt physically or mentally?]
 
-  ),
-  rows: (
-    ([What kind of bond or contract binds them? (bargain, mating bond, oath, soul contract, political alliance)], []),
-    ([Who initiated it, and why?], []),
-    ([What are the exact terms?], []),
-    ([What happens if someone breaks it? (magical backlash, death, loss of power, political fallout)], []),
-    ([Is consummation required? What changes if they consummate?], []),
-    ([Can the bond be felt physically or mentally? How?], []),
-  ),
-  row-height: 75pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What does the contract force them to do that they wouldn't choose freely?]
@@ -1306,17 +1291,19 @@ Forced proximity only creates tension if it's genuinely forced. What specific ob
 This is the romantic turning point. The obligation hasn't changed, but the motivation has. When does "I have to be here" become "I want to be here"? How does each character recognise that shift, in themselves or in the other?
 
 
-#structured-table(
-  headers: ("Character", "When Does the Contract Stop Being the Reason?", "How Do They Realise It?"),
-  example-rows: (
+#strong[For each character: When does the contract or arrangement stop being the reason they stay, and how do they realise it?]
 
-  ),
-  rows: (
-    ([Protagonist], [], []),
-    ([Love Interest], [], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 === Inheritance & Economic Marriage
@@ -1325,17 +1312,19 @@ This is the romantic turning point. The obligation hasn't changed, but the motiv
 #strong[What does each character stand to inherit?]
 
 
-#structured-table(
-  headers: ("Character", "Inheritance"),
-  example-rows: (
-    ([Protagonist], [Nothing — youngest daughter of a disgraced family, written out of the will]),
-  ),
-  rows: (
-    ([Protagonist], []),
-    ([Love Interest], []),
-  ),
-  row-height: 60pt,
-)
+#strong[What does each character stand to inherit — or what have they been denied?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[Does marrying the "right" or "wrong" person affect inheritance?]
@@ -1375,56 +1364,44 @@ By whom? What would they lose by refusing?
 )
 
 
-== Debt, Obligation & Economic Coercion
+#block(breakable: false)[
 
+== Debt, Obligation & Economic Coercion
 
 Debt has a way of establishing a relationship long before there is a relationship. The problem with debt in romance is that it muddies the waters regarding consent. Every time one character owes another, whether that's money, a life debt, magical service, or years of bonded labour, every interaction is shadowed by the question: are they choosing this freely, or because they have to?
 
-
 Many times in romantasy, debt is both literal and magical. A bargain tattoo that enforces compliance. A life saved that creates a supernatural obligation. A soul signed over as collateral. This allows the coercive element to be shown clearly and physically, which is exactly what makes these elements so useful for romantic tension.
-
 
 Some of the best debt romances allow the reader to wonder, like the characters. If a character owes their love interest a life debt, and then falls in love with them, is that true love or is it gratitude dressed up as love? Don't answer this too quickly. Let the indebted character wrestle with it. Let the creditor worry about it. As soon as one of them says "forget the debt," is that generosity or manipulation? Is that liberating or just another form of bondage? Debt is only as effective as the awareness of its existence among both characters, and when neither party knows how to get around it.
 
-
 In #emph[ACOTAR], Feyre's bargain with Rhysand is enforced by a tattoo on her hand and by the magic itself. She must spend one week per month at the Night Court. She didn't enter into the contract voluntarily (she was dying), and the creditor is also the love interest. Every moment of developing intimacy between them is shrouded by the question: would she still be here if she weren't contractually required?
-
 
 In #emph[Kingdom of the Wicked], the debt is even more extreme. Emilia accidentally soul-binds herself to the demon prince Wrath through a mistranslated spell, then intentionally signs a blood contract with Pride, staking her very soul as collateral. Both contracts vie for control. Consummating one bond would void the other. Her body, her choices, even the act of physical intimacy become legal manoeuvres in a system of demonic debt management. That's debt working to its fullest potential within a romance.
 
-
 #strong[Is either character in debt?]
-
 
 Debt creates obligation, and obligation clouds consent. Does debt to the love interest (or a third party) complicate the romance?
 
+#strong[If a character carries a debt: To whom is it owed? For what? What happens if they can't repay? Is it magically enforced? How does the debt affect their ability to say yes or no to the romance?]
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([To whom], [The merchant guild — her mother borrowed to open a shop and died before repaying]),
-  ),
-  rows: (
-    ([To whom], []),
-    ([For what (money, life saved, magical service)], []),
-    ([What happens if they can't repay], []),
-    ([Is the debt magically enforced? How?], []),
-    ([How does the debt affect their ability to say no, or yes, to the romance?], []),
-  ),
-  row-height: 65pt,
-)
+#hint[(Write your answer below)]
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #strong[How does this debt affect the romance?]
 
-
 Does it force them together? Keep them apart? Create shame or obligation between them?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #strong[Life Debts & Magical Obligations]
@@ -1464,39 +1441,34 @@ Does it force them together? Keep them apart? Create shame or obligation between
 )
 
 
-== Economic Arrangements
+#block(breakable: false)[
 
+== Economic Arrangements
 
 #strong[Could economic necessity force your characters into an arrangement?]
 
-
 Marriage for money? Employment? Alliance for mutual benefit?
 
+#strong[If your characters have an economic arrangement (marriage of convenience, etc.), describe: What is the arrangement? Why is it necessary? What does each party get?]
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([The arrangement], [Marriage of convenience — she needs his title, he needs her family's trade connections]),
-  ),
-  rows: (
-    ([The arrangement], []),
-    ([Why it's necessary], []),
-    ([What each party gets], []),
-  ),
-  row-height: 60pt,
-)
+#hint[(Write your answer below)]
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #strong[How do they navigate the economic coercion?]
 
-
 Do they resent it? Accept it? Try to escape it? Fall in love despite it — or struggle to trust their feelings because of it?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #strong[The "Buying" Problem]
@@ -1523,17 +1495,19 @@ Could someone try to buy one of your characters — offer money to leave, marry 
 #strong[If offered money to abandon the relationship, what would each character do?]
 
 
-#structured-table(
-  headers: ("Character", "Response"),
-  example-rows: (
+#strong[How does each character respond to the economic arrangement — what do they feel about it?]
 
-  ),
-  rows: (
-    ([Protagonist], []),
-    ([Love Interest], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == The Employer & The Employed
@@ -1548,20 +1522,19 @@ Work allows for proximity, and proximity leads to potential romance, yet work al
 #strong[Does one character employ the other?]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[If one character employs the other: Who employs whom? What is the nature of the employment? Can the employee leave freely? What would they lose by refusing advances? What would they lose by accepting?]
 
-  ),
-  rows: (
-    ([Who employs whom?], []),
-    ([What is the nature of the employment? (hired, bonded, indentured, appointed)], []),
-    ([Can the employee leave freely?], []),
-    ([What would the employee lose by refusing the employer's advances?], []),
-    ([What would the employee lose by accepting?], []),
-  ),
-  row-height: 65pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 The issue of consent will always come to the fore in employer/employee romance. The reader will need to perceive that the less powerful party is making their own decisions, and there is no better method to demonstrate that than to provide them with a genuine opportunity to say no without consequence. If the employee can walk away and chooses to stay, the romance is earned. If they can't walk away, you're writing a different, darker story, which can work, but the power imbalance needs to be acknowledged, not glossed over. Show the employee pushing back, setting boundaries, asserting agency within the power structure. Show the employer recognising the imbalance and actively trying to level it. When the employer states "you don't have to" and truly means it? That's when the romance can begin.
@@ -1663,35 +1636,32 @@ And what would it cost them to stay? Map both sides. The answer reveals whether 
 )
 
 
-== Economic Independence & Dependence
+#block(breakable: false)[
 
+== Economic Independence & Dependence
 
 #strong[Before the relationship, how economically independent is each character?]
 
+#strong[How economically independent is each character? Could they survive on their own?]
 
-#structured-table(
-  headers: ("Character", "Economic Independence"),
-  example-rows: (
+#hint[(Write your answer below)]
 
-  ),
-  rows: (
-    ([Protagonist], []),
-    ([Love Interest], []),
-  ),
-  row-height: 60pt,
-)
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 #strong[How does the relationship change their economic situation?]
 
-
 Does one gain security? Does one lose independence? Does partnership create new opportunities or new vulnerabilities?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #strong[If one becomes economically dependent on the other, how do they feel about it?]
@@ -1811,14 +1781,19 @@ Does it compete for time and attention? Does the relationship help or hinder the
 How would each character answer the question "Is this love or is this a good deal?"
 
 
-#open-table(
-  headers: ("Character", "What They Tell Themselves", "What They're Afraid Might Be True"),
-  example-rows: (
+#strong[What does each character tell themselves about the economic dimension of the relationship, and what are they afraid might actually be true?]
 
-  ),
-  row-height: 60pt,
-  fill-strategy: "wider_rows",
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What would they sacrifice — the relationship or the ambition — if forced to choose?]
@@ -1834,50 +1809,42 @@ How would each character answer the question "Is this love or is this a good dea
 )
 
 
-== Economic Sacrifice
+#block(breakable: false)[
 
+== Economic Sacrifice
 
 One of romance's most powerful beats is the moment a character gives up material security for love. Economic sacrifice proves love is real in a way words simply cannot.
 
-
 Make the sacrifice concrete and visible. Not just "gave up the inheritance" but: the smaller apartment, the mended clothes, the dinner that's mostly bread. Show what daily life looks like after the sacrifice, the moments of regret and the moments of fierce certainty that it was worth it. The witness to this sacrifice matters too. When the love interest realises what their partner gave up, or when the sacrificer reveals it (or carefully doesn't reveal it, and the other discovers it anyway), that's a scene with serious emotional weight. Economic sacrifice is most powerful when it's ongoing, not a one-time grand gesture. It's choosing, every day, to live with less because what you gained matters more.
-
 
 In #emph[Bridgerton], the tension between love and advantageous marriage runs through nearly every storyline. Characters face the choice between a match that secures their family's future and a match that makes them happy, and the consequences of choosing wrong are real. Financial ruin, social exile, a family left unprotected. That's what makes the sacrifice land: it costs something concrete, and the cost doesn't disappear after the wedding.
 
-
 #strong[What economic security does each character sacrifice to be together?]
-
 
 What inheritance, income, protection, or opportunity do they lose by choosing each other? The sacrifice should cost enough to prove the love is real.
 
+#strong[What does each character sacrifice economically to be together?]
 
-#structured-table(
-  headers: ("Character", "What They Sacrifice"),
-  example-rows: (
-    ([Protagonist], [Her position at the academy — expelled for the relationship, losing her only path out of poverty]),
-  ),
-  rows: (
-    ([Protagonist], []),
-    ([Love Interest], []),
-  ),
-  row-height: 60pt,
-)
+#hint[(Write your answer below)]
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #strong[Is the sacrifice permanent or temporary?]
 
-
 #hint[A temporary sacrifice is a dramatic gesture. A permanent one is a life sentence. The permanence determines whether the sacrifice is a plot beat or the foundation of their entire future together.]
 
-
 Can they recover economically?
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #strong[How do they survive after the sacrifice?]
@@ -1961,21 +1928,19 @@ A counterexample is Nesta, whose excessive spending on wine and gambling are see
 Don't skip this. The most powerful romantic endings show the cost in concrete, daily terms. Map what changes for each character.
 
 
-#structured-table(
-  headers: ("After the Choice", "Protagonist", "Love Interest"),
-  example-rows: (
+#strong[After your characters choose each other over economic security: Where do they live? What do they eat every day? Who do they still have access to? Who has shut them out? What do they miss most? What surprised them about their new reality?]
 
-  ),
-  rows: (
-    ([Where do they live?], [], []),
-    ([What do they eat? (Every day, not at feasts)], [], []),
-    ([Who do they still have access to? (Friends, family, allies)], [], []),
-    ([Who has shut them out?], [], []),
-    ([What do they miss most from their former life?], [], []),
-    ([What surprised them about their new reality?], [], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[How do they handle money differently?]
@@ -1984,19 +1949,19 @@ Don't skip this. The most powerful romantic endings show the cost in concrete, d
 Partners from different backgrounds will clash over spending. This isn't a flaw to fix. It's a source of ongoing, realistic tension that makes the relationship feel lived-in.
 
 
-#structured-table(
-  headers: ("Money Question", "Character Who Grew Up With Less", "Character Who Grew Up With More"),
-  example-rows: (
+#strong[How do your characters' different financial backgrounds show up in daily life? For the one who grew up with less and the one with more: What do they spend freely on? What do they refuse to spend on? What purchase would start an argument? How do they feel about accepting help?]
 
-  ),
-  rows: (
-    ([What do they spend freely on?], [], []),
-    ([What do they refuse to spend on?], [], []),
-    ([What purchase would start an argument?], [], []),
-    ([How do they feel about accepting help from others?], [], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What moment makes the sacrifice feel worth it?]
@@ -2090,18 +2055,19 @@ If yes, does this complicate the romance? Create doubt about true feelings?
 #hint[Desperation doesn't just create backstory — it creates present-tense romantic tension. A character who can't eat tomorrow makes different choices about love than one who's comfortable. Map how survival needs warp the romantic dynamic.]
 
 
-#open-table(
-  headers: ("Survival Pressure", "How It Affects the Romance", "Scene Where This Is Felt"),
-  example-rows: (
-    ([Can't afford medicine → accepts help from love interest], [Gratitude that feels dangerously close to obligation; she resents needing him], [He pays the healer without asking; she finds out and they fight — not about money, but about what accepting means]),
-  ),
-  rows: (
-    ([], [], []),
-    ([], [], []),
-  ),
-  row-height: 90pt,
-  fill-strategy: "wider_rows",
-)
+#strong[How does survival-level economic pressure affect the romance? Describe a specific pressure, how it affects the relationship, and a scene where this is felt.]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Smuggling, Black Markets & Underground Economies
@@ -2167,37 +2133,37 @@ In #emph[Hunt on Dark Waters], the pirate crew operates under a vow system that 
 #hint["Morally grey" isn't a personality trait — it's a decision in a specific moment. The best criminal romances put the character at a fork where both paths cost something real. What's the fork for your character, and what does their choice reveal about what they value more than profit?]
 
 
-#open-table(
-  headers: ("Character", "The Moral Fork (two options, both costly)", "What They Choose", "What It Costs", "What It Reveals to Their Partner"),
-  example-rows: (
-    ([Kaz Brekker], [Use Inej as bait to complete the heist vs. protect her and risk the job], [Protects her — abandons the optimal plan], [Weakened negotiating position; crew sees his vulnerability], [Inej learns she matters more than the job — but also that he made a tactical calculation about it first]),
-  ),
-  rows: (
-    ([], [], [], [], []),
-    ([], [], [], [], []),
-  ),
-  row-height: 90pt,
-  fill-strategy: "wider_rows",
-)
+#strong[Describe a moral fork your character faces — two options, both costly. What do they choose, what does it cost, and what does it reveal to their partner?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[Does either character operate outside the law?]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[If a character is involved in criminal activity: What illegal activity? What organisation? What code governs their criminal world? What would their lover lose by association? What moral line would they refuse to cross?]
 
-  ),
-  rows: (
-    ([What illegal activity are they involved in?], []),
-    ([What organisation do they belong to? (gang, guild, crew, solo)], []),
-    ([What code or rules govern their criminal world?], []),
-    ([What would their lover lose by being associated with them?], []),
-    ([What moral line would they refuse to cross, even for profit?], []),
-  ),
-  row-height: 65pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What is the chokepoint in your criminal world?]
@@ -2212,18 +2178,19 @@ Every convincing underground economy has a bottleneck: a port, a tunnel, a borde
 If one character operates outside the law, they're keeping secrets. Map the disclosure arc: what do they withhold, what do they reveal, and when does revealing a secret become the romantic turning point?
 
 
-#structured-table(
-  headers: ("Stage", "What They're Hiding", "What They Reveal", "What It Costs Them to Reveal It"),
-  example-rows: (
+#strong[Describe how the criminal character's walls come down across three stages (early, middle, turning point): What are they hiding, what do they reveal, and what does each revelation cost them?]
 
-  ),
-  rows: (
-    ([Early (walls up)], [], [], []),
-    ([Middle (cracks forming)], [], [], []),
-    ([Turning point (full vulnerability)], [], [], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What does the non-criminal partner discover, and how do they react?]
@@ -2238,19 +2205,19 @@ If your love interest isn't part of the criminal world, the moment they find out
 Some criminal romances end with the characters leaving the life. But leaving has a price: lost allies, lost income, lost identity. If your characters went straight, what would they lose?
 
 
-#open-table(
-  headers: ("What They'd Lose by Going Legitimate", "What They'd Gain"),
-  example-rows: (
-    ([Kaz: his network, his reputation, his leverage over half the Barrel, his identity as Dirtyhands], [The possibility of touching Inej without armour — emotional and literal]),
-  ),
-  rows: (
-    ([], []),
-    ([], []),
-    ([], []),
-  ),
-  row-height: 75pt,
-  fill-strategy: "wider_rows",
-)
+#strong[If your criminal character went legitimate, what would they lose and what would they gain?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Integration Check

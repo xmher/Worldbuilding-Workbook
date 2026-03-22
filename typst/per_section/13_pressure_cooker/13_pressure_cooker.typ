@@ -104,18 +104,19 @@ Beyond the subtypes, forced proximity creates romantic tension through a set of 
 #hint[Rank your top three. This will help you prioritise which later exercises to dig deepest into.]
 
 
-#structured-table(
-  headers: ("Rank", "Pattern", "Why It Fits Your Story"),
-  example-rows: (
-    ([1], [Performance Under Surveillance], [Violet and Xaden are surrounded by people who'd exploit any sign of connection]),
-  ),
-  rows: (
-    ([1], [], []),
-    ([2], [], []),
-    ([3], [], []),
-  ),
-  row-height: 60pt,
-)
+#strong[From the forced proximity patterns listed above, which three fit your story best? Rank them and explain why each suits your story.]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == A Note Before You Begin
@@ -364,22 +365,19 @@ You've likely already identified your setting in Section 1 (Geography) or Sectio
 #hint[You've already identified your constraint types above. Now map how your specific setting enforces them — the practical details of how your pressure cooker actually works.]
 
 
-#structured-table(
-  headers: ("Constraint Type", "Specific Details"),
-  example-rows: (
+#strong[Map the specific constraints of your pressure cooker setting: What are the physical constraints (size, layout, barriers)? The temporal constraints (how long they're stuck)? The survival needs? The social pressure (who's watching)? And what happens if they try to escape?]
 
-  ),
-  rows: (
-    ([Time pressure #emph[(example)]], [#emph[Must complete the bonding ritual before the spring equinox or lose claim to the throne; only 6 weeks remain]]),
-    ([External threat #emph[(example)]], [#emph[Enemy army three months away; alliance marriage to the rival kingdom's prince is the only way to secure reinforcements]]),
-    ([Physical (size, layout, barriers)], []),
-    ([Temporal (how long they're stuck)], []),
-    ([Survival (needs that must be met)], []),
-    ([Social (who's watching, what's expected)], []),
-    ([Escape (what happens if they try to leave)], []),
-  ),
-  row-height: 75pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What's the minimum physical distance they can maintain?]
@@ -1186,21 +1184,19 @@ Be honest. The answer might be different for each character, and it might not be
 #hint[Confinement leaves traces. Check which of these resonate for your story and fill in the specifics.]
 
 
-#structured-table(
-  headers: ("What Lingers", "Specifics for Your Story"),
-  example-rows: (
+#strong[What lingers after the pressure cooker period? Consider: secrets kept during confinement, habits formed together, sensory memories that ambush them, guilt about things said or done, knowledge of vulnerabilities seen, and private jokes or rituals.]
 
-  ),
-  rows: (
-    ([Secrets kept during confinement], []),
-    ([Habits formed together], []),
-    ([Sensory memories that ambush them], []),
-    ([Guilt about things said or done], []),
-    ([Knowledge of vulnerabilities seen], []),
-    ([Private jokes or rituals], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What act of choice proves the connection is real?]

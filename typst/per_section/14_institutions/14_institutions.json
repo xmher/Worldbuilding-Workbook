@@ -430,35 +430,24 @@
       "text": "**Your academy's ranking structure:**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Rank/Level",
-        "What They Get or Lose",
-        "How This Affects the Romance"
-      ],
-      "rows": [
-        [
-          "Privileges at the top:",
-          "",
-          ""
-        ],
-        [
-          "Consequences at the bottom:",
-          "",
-          ""
-        ],
-        [
-          "Where your protagonist sits:",
-          "",
-          ""
-        ],
-        [
-          "Where your love interest sits:",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**In your academy's ranking system, what do those at the top get and what happens to those at the bottom? Where does your protagonist sit in the hierarchy, and where does your love interest sit? How does the gap between them create tension?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -614,31 +603,24 @@
       "text": "(Reference Section 5 for class structures)"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Position",
-        "Description"
-      ],
-      "example_rows": [],
-      "rows": [
-        [
-          "Queen's Inner Circle (example)",
-          "Twelve advisors with private audience rights; love interest is the youngest member ever appointed, causing resentment"
-        ],
-        [
-          "Lady-in-Waiting (example)",
-          "Protagonist's cover position; grants access to royal quarters but no political voice; must attend the princess constantly"
-        ],
-        [
-          "Protagonist's position:",
-          ""
-        ],
-        [
-          "Love interest's position:",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Where does each character rank in the court hierarchy? What is your protagonist's position (title, access, limitations) and your love interest's position?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading4",
@@ -794,27 +776,24 @@
       "text": "Soldier, commander, medic, strategist, prisoner, spy, conscript, mercenary, support staff?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "---",
-        "---"
-      ],
-      "example_rows": [],
-      "rows": [
-        [
-          "War Mage (example)",
-          "Love interest is assigned to protagonist's unit as magical support; outranks her in magic but answers to her in battle"
-        ],
-        [
-          "Protagonist:",
-          ""
-        ],
-        [
-          "Love interest:",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What is your protagonist's military role (rank, unit, how they earned it)? What is your love interest's military role? How do their roles create power dynamics or romantic obstacles?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1625,30 +1604,24 @@
       "text": "This is the essential question. In every successful captivity romance, the captive must gain some form of leverage, whether through discovering her own power (Feyre gaining High Lord abilities, Poppy discovering her Atlantian heritage, Emilia realising she's a Star Witch), through acquiring information the captor needs, or through the captor's own transformation from seeing the captive as a tool to seeing her as a person. By the time the story ends, both parties must be able to see each other as equals. If they don't, you've got a control story, not a love story."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "",
-        ""
-      ],
-      "rows": [
-        [
-          "Who holds power at the start:",
-          ""
-        ],
-        [
-          "What shifts the balance:",
-          ""
-        ],
-        [
-          "When do they become equals:",
-          ""
-        ],
-        [
-          "What proves the shift is real (not just the captor being \"nicer\"):",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**In your captivity dynamic, who holds power at the start? What shifts the balance? When do they become equals? What proves the shift is real (not just the captor being 'nicer')?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -1990,22 +1963,24 @@
       "text": "Are they idealists who believe in the mission? Cynics who see the truth? One of each? Do their views change?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "",
-        ""
-      ],
-      "rows": [
-        [
-          "Protagonist:",
-          ""
-        ],
-        [
-          "Love interest:",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Does your protagonist believe in the institution's stated purpose, or do they see the reality beneath? What about your love interest? Are they idealists, cynics, or one of each?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",

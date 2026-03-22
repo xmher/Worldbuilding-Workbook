@@ -50,24 +50,25 @@ The natural world in your story serves the romance in three ways: as #strong[bac
 #divider()
 
 
-#open-table(
-  headers: ("Function", "The wilderness element in your story", "What it forces, reveals, or creates between your characters"),
-  example-rows: (
-    ([Pressure], [The Gauntlet — an exposed mountain crossing where two riders must rope together or fall], [Violet and Xaden can't maintain emotional distance when they're literally tied to each other at 10,000 feet]),
-  ),
-  rows: (
-    ([], [], []),
-    ([], [], []),
-    ([], [], []),
-  ),
-  row-height: 90pt,
-  fill-strategy: "wider_rows",
-  preamble: [
 ==== How does wilderness function in your romance?
 
+
 #hint[The natural world can pressure characters together, reveal who they really are, or connect them through shared experience. Which of these does your story use — and what specific wilderness element creates it?]
-],
-)
+
+
+#strong[How does wilderness create pressure, revelation, or connection between your characters? For each function that applies, describe the specific wilderness element and what it forces, reveals, or creates.]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #divider()
@@ -229,23 +230,25 @@ Inhabitants of your world do not encounter a neutral environment. Instead, the e
 ]
 
 
-#open-table(
-  headers: ("Climate Element", "What It Makes Scarce or Intimate", "How It Could Affect Your Romance"),
-  example-rows: (
-    ([Endless winter], [Exposed skin — removing a glove is an act of trust; shared warmth is survival and intimacy at once], [The first time she doesn't flinch when he touches her bare hand in the cold is the turning point]),
-  ),
-  rows: (
-    ([], [], []),
-    ([], [], []),
-  ),
-  row-height: 90pt,
-  fill-strategy: "wider_rows",
-  preamble: [
 ==== How does your climate shape intimacy and romance?
 
+
 #hint[What's scarce in your world is valuable. What's hidden is intimate. A glove removed in a freezing world means something different from bare skin in a tropical one. How does your world's climate affect what counts as a romantic gesture, a show of trust, or a moment of vulnerability?]
-],
-)
+
+
+#strong[How does your world's climate make something scarce or intimate? What specific climate element affects your romance, and how?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Food Chains & Natural Balance
@@ -272,27 +275,21 @@ If the magic in your world is dependent upon the land (as it is in ACOTAR, where
 #hint[If your world uses Earth-like wildlife, skip most of this — just note magical creatures or significant deviations.]
 
 
-#structured-table(
-  headers: ("Environment", "Apex Predator", "How It Could Create Danger or Proximity for Your Characters"),
-  example-rows: (
-    ([Dense forests], [Thornwolves], [Hunt in packs; force travellers to shelter together overnight]),
-  ),
-  rows: (
-    ([Forests], [], []),
-    ([Plains/grasslands], [], []),
-    ([Mountains], [], []),
-    ([Water (rivers, lakes, ocean)], [], []),
-  ),
-  row-height: 60pt,
-  preamble: [
+#block(breakable: false)[
+
 ==== What's at the top of the food chain in various environments?
 
 #hint[These predators shape what your characters fear in the wild. Could any of them create danger or forced proximity in your story?]
-],
-)
 
+#strong[What apex predator inhabits your world's most important environment? How could it create danger or forced proximity between your characters?]
 
-#block(breakable: false)[
+#hint[(Write your answer below)]
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ==== Does the health of your ecosystem connect to your romance?
 
@@ -306,27 +303,25 @@ If the magic in your world is dependent upon the land (as it is in ACOTAR, where
 ]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([The magical creature], [War dragons at Basgiath — each eats a full steer every few days]),
-    ([What they consume and how much], [Hundreds of cattle per week, plus wild game from surrounding mountains]),
-    ([Who provides it (and at what cost)], [Valley farming towns supply the meat; one bad season and dragons starve or raid villages]),
-    ([Could this dependency create tension between your characters?], [Protagonist is from a farming family whose livestock was requisitioned. Love interest is a rider who's never considered where the food comes from.]),
-  ),
-  rows: (
-    ([The magical creature], []),
-    ([What they consume and how much], []),
-    ([Who provides it (and at what cost)], []),
-    ([Could this dependency create tension between your characters?], []),
-  ),
-  row-height: 65pt,
-  preamble: [
 ==== If your world has large magical creatures, what do they eat — and who provides it?
 
+
 #hint[A hundred dragons at one military base require tonnes of meat per week. Someone raises that livestock. The dragon-riding nobility may never have given a second thought to the farming class that sustains them — and your protagonist might be from that class. What hidden dependency exists in your world, and could it create tension between your characters?]
-],
-)
+
+
+#strong[If your world has magical creatures, what do they consume and how much? Who provides it, at what cost, and could this dependency create tension between your characters?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Domesticated Animals & Animal Companions
@@ -362,30 +357,21 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
 #divider()
 
 
-#structured-table(
-  headers: ("Purpose", "Animal", "Who Keeps Them"),
-  example-rows: (
-    ([Transportation], [Nightmares (shadow horses)], [Only the fae nobility; protagonist's love interest has one named Ember]),
-  ),
-  rows: (
-    ([Meat/food], [], []),
-    ([Transportation], [], []),
-    ([Labor/draft work], [], []),
-    ([Companionship], [], []),
-    ([], [], []),
-    ([], [], []),
-    ([], [], []),
-  ),
-  row-height: 60pt,
-  preamble: [
+#block(breakable: false)[
+
 ==== What animals have been domesticated in your world?
 
 #hint[Think about what your protagonist interacts with daily. Which animals reveal character through how people treat them?]
-],
-)
 
+#strong[What domesticated animals exist in your world? For the 2-3 most important, describe their purpose, what they are, and who keeps them.]
 
-#block(breakable: false)[
+#hint[(Write your answer below)]
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ==== Are there domesticated magical creatures?
 
@@ -402,108 +388,115 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
 #divider()
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([Animal], [A half-wild cat who only tolerates her — hisses at everyone else]),
-    ([Name], [Smoke]),
-    ([What the animal means to them], [The only creature that stayed through the lean winters; proof she can be gentle when she chooses]),
-  ),
-  rows: (
-    ([Animal], []),
-    ([Name], []),
-    ([What the animal means to them], []),
-  ),
-  row-height: 60pt,
-  preamble: [
 ==== Does your protagonist have an animal companion?
 
+
 #hint[How someone treats their animal reveals character. What does this companion show readers about your protagonist?]
-],
-)
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([Animal], [A massive warhorse that throws anyone who isn't him]),
-    ([Name], [Tempest]),
-    ([What the animal means to them], [The horse chose him when no one else did. Tempest letting her scratch his nose is the first sign that the love interest's walls are coming down.]),
-  ),
-  rows: (
-    ([Animal], []),
-    ([Name], []),
-    ([What the animal means to them], []),
-  ),
-  row-height: 60pt,
-  preamble: [
+#strong[Does your protagonist have an animal companion? If so, what is it, what is its name, and what does the animal mean to them?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
 ==== Does your love interest have an animal companion?
 
+
 #hint[Does the animal accept your protagonist? That small moment of acceptance can mark relationship progression.]
-],
-)
+
+
+#strong[Does your love interest have an animal companion? If so, what is it, what is its name, and what does the animal mean to them?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #divider()
 
 
-#open-table(
-  headers: ("Scenario", "How It Could Play Out"),
-  example-rows: (
-    ([Shared saddle — one horse, two riders], [She has to ride behind him; arms around his waist, her cheek against his back when she's too tired to hold herself upright. Neither mentions it afterwards.]),
-  ),
-  rows: (
-    ([], []),
-    ([], []),
-  ),
-  row-height: 75pt,
-  fill-strategy: "wider_rows",
-  preamble: [
 ==== Could a stable, shared ride, or animal-care scene create intimacy in your story?
 
+
 #hint[Stables are private, physical, domestic — two people grooming a horse side by side strips away social performance. Sharing a saddle forces contact that neither character can avoid. Where could this kind of animal-adjacent intimacy show up in your story?]
-],
-)
+
+
+#strong[Describe a scene where an animal creates physical proximity or emotional intimacy between your characters. What's the scenario and how does it play out?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #divider()
 
 
-#open-table(
-  headers: ("What They Encounter", "How the Protagonist Reacts", "How the Love Interest Reacts", "What This Reveals"),
-  example-rows: (
-    ([A wounded deer caught in a snare], [Wants to free it immediately — acts on instinct], [Checks the surroundings first, identifies the hunter's trail — acts on strategy], [She leads with compassion, he leads with caution. Both are right. Neither understands the other yet.]),
-  ),
-  rows: (
-    ([], [], [], []),
-    ([], [], [], []),
-  ),
-  row-height: 90pt,
-  fill-strategy: "wider_rows",
-  preamble: [
 ==== Do your characters encounter wildlife together?
 
+
 #hint[Shared encounters reveal who each person truly is. What might show your protagonist a new side of the love interest?]
-],
-)
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Describe a wildlife encounter your characters share. How does each react differently, and what does the contrast reveal about them?]
 
-  ),
-  rows: (
-    ([What creature and why it needs care], []),
-    ([What this creates between them], []),
-  ),
-  row-height: 60pt,
-  preamble: [
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
 ==== Do your characters care for an animal together?
 
+
 #hint[Shared caregiving builds domestic intimacy and reveals nurturing instincts. What creature might bring them together?]
-],
-)
+
+
+#strong[Could your characters care for a creature together? What creature and why does it need care, and what does the experience create between them?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Agriculture, Wild Plants & Foraging
@@ -553,42 +546,46 @@ Agriculture creates the daily rhythms, class structures, and resource pressures 
 ]
 
 
-#structured-table(
-  headers: ("Crop Type", "Specific Plant", "What It's Used For"),
-  example-rows: (
-
-  ),
-  rows: (
-    ([Fiber (for cloth)], [], []),
-    ([Medicinal herbs], [], []),
-    ([Intoxicants], [], []),
-  ),
-  row-height: 60pt,
-  preamble: [
 ==== What non-food crops are important?
 
+
 #hint[Cloth, medicine, and intoxicants shape daily life. What might your characters wear, use for healing, or drink?]
-],
-)
 
 
-#open-table(
-  headers: ("Agricultural Element", "How It Affects Your Romance"),
-  example-rows: (
-    ([The harvest festival — one night where class boundaries dissolve], [It's the only night the lord's daughter could dance with a commoner without scandal. By morning, the rules return — but the memory doesn't.]),
-  ),
-  rows: (
-    ([], []),
-    ([], []),
-  ),
-  row-height: 75pt,
-  fill-strategy: "wider_rows",
-  preamble: [
+#strong[Beyond staple food, what fiber, medicinal, and intoxicant plants exist in your world? What are they used for?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
 ==== How does food, land, or agriculture create tension in your romance?
 
+
 #hint[Land is power. Scarcity forces alliances. Harvest festivals blur social boundaries. A character who splits their last loaf of bread with a stranger has earned the right to fall in love. What agricultural reality puts pressure on your characters' relationship?]
-],
-)
+
+
+#strong[How does agriculture or the harvest cycle create a romantic opportunity or obstacle in your story?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #divider()
@@ -618,22 +615,21 @@ At its core, foraging is domestic intimacy transplanted to the wilderness. Two p
 #divider()
 
 
-#open-table(
-  headers: ("Plant", "Safe or Dangerous", "Who Would Know This (and Who Wouldn't)"),
-  example-rows: (
+#block(breakable: false)[
 
-  ),
-  row-height: 60pt,
-  fill-strategy: "wider_rows",
-  preamble: [
 ==== What can be gathered from the wild — and what's dangerous?
 
 #hint[What your characters know about wild plants reveals where they've been and how they've survived. A gap in knowledge between your characters is a gap in experience — and that's where romantic tension lives.]
-],
-)
 
+#strong[What plants in your world are safe to eat and which are dangerous? Who would know the difference, and who wouldn't — and how could this knowledge gap matter in your story?]
 
-#block(breakable: false)[
+#hint[(Write your answer below)]
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ==== Who knows foraging skills?
 
@@ -647,26 +643,25 @@ At its core, foraging is domestic intimacy transplanted to the wilderness. Two p
 ]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([Which character knows plants?], [Sorcha — she's been foraging alone in the forest for years; it's the thing that keeps her alive]),
-    ([Which character is out of their depth?], [The warrior prince who's never had to find his own food]),
-    ([What does this knowledge gap reveal about each of them?], [Her competence is a quiet form of power he's never encountered. His helplessness without a kitchen makes him human to her.]),
-  ),
-  rows: (
-    ([Which character knows plants?], []),
-    ([Which character is out of their depth?], []),
-    ([What does this knowledge gap reveal about each of them?], []),
-    ([What intimate moment could foraging create?], []),
-  ),
-  row-height: 60pt,
-  preamble: [
 ==== Could a foraging or plant-knowledge scene build your romance?
 
+
 #hint[One character teaching the other to find food. Fingers brushing over leaves. The "powerful" one suddenly dependent on the "ordinary" one who knows which mushrooms won't kill them. Could this reversal or intimacy work in your story?]
-],
-)
+
+
+#strong[Which character knows about plants and which is out of their depth? What does this knowledge gap reveal about each of them, and what intimate moment could foraging create?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Medicine & Healing
@@ -684,65 +679,67 @@ In #emph[From Blood and Ash], Poppy's empathic healing abilities create physical
 #divider()
 
 
-#structured-table(
-  headers: ("Ailment", "Remedy"),
-  example-rows: (
-
-  ),
-  rows: (
-    ([Pain], []),
-    ([Fever], []),
-    ([Infection/wounds], []),
-  ),
-  row-height: 60pt,
-  preamble: [
 ==== What natural remedies exist?
 
+
 #hint[Healing scenes create intimacy. What would one character use to tend the other's wounds or illness?]
-],
-)
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([Who's injured or ill?], [Violet — wyvern acid burn across her ribs, can't reach it herself]),
-    ([Who does the healing?], [Xaden — the only one she'll let close enough to see the wound]),
-    ([Why is this moment intimate (what walls come down)?], [She has to remove her armour and let him see her at her most physically vulnerable. He has to be gentle when the world only sees him as dangerous.]),
-  ),
-  rows: (
-    ([Who's injured or ill?], []),
-    ([Who does the healing?], []),
-    ([Why is this moment intimate (what walls come down)?], []),
-    ([What's the small physical detail that carries the emotion?], []),
-  ),
-  row-height: 60pt,
-  preamble: [
+#strong[What natural remedies exist in your world for pain, fever, and infection/wounds?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
 ==== Can you picture a healing scene in your story?
 
+
 #hint[Healing scenes are about trust, vulnerability, and physical closeness. One character can't move away. The other has to stay close. What situation might create this moment between your characters?]
-],
-)
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Plan a healing scene. Who's injured or ill, who does the healing, why is this moment intimate (what walls come down), and what small physical detail carries the emotion?]
 
-  ),
-  rows: (
-    ([The plant], []),
-    ([What it does], []),
-    ([Where it's found], []),
-    ([Why it's hard to obtain], []),
-  ),
-  row-height: 60pt,
-  preamble: [
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
 ==== Is there a plant that's crucial to your plot?
 
+
 #hint[A cure for a curse? The only antidote to a poison? A rare ingredient for a necessary spell?]
-],
-)
+
+
+#strong[Is there a crucial plant in your story? What is it, what does it do, where is it found, and why is it hard to obtain?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Dangerous Creatures
@@ -760,26 +757,25 @@ Shared dangerous encounters bond characters because they've seen each other in s
 #divider()
 
 
-#open-table(
-  headers: ("Creature", "Where Found", "Why Dangerous"),
-  example-rows: (
-    ([Thornwolves], [Dense forests between the kingdoms], [Hunt in packs, venomous spines, force travelers to seek shelter — creates forced proximity scenes]),
-  ),
-  rows: (
-    ([], [], []),
-    ([], [], []),
-    ([], [], []),
-    ([], [], []),
-    ([], [], []),
-  ),
-  row-height: 90pt,
-  fill-strategy: "wider_rows",
-  preamble: [
 ==== What are the most dangerous creatures in your world?
 
+
 #hint[Danger forces characters together. What creature might your protagonist and love interest need to survive together?]
-],
-)
+
+
+#strong[What dangerous creatures inhabit your world? For each, describe where they're found and why they're dangerous to your characters.]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Magical Creatures & Creature Bonds
@@ -823,30 +819,21 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 )
 
 
-#open-table(
-  headers: ("Creature", "Intelligence", "Magical Abilities", "Relationship with Humans"),
-  example-rows: (
-    ([Phoenix], [High — can communicate through emotion/images], [Fire magic, rebirth from ashes, healing tears], [Bond with fire mages; protagonist bonds with one, linking her to love interest's court]),
-  ),
-  rows: (
-    ([], [], [], []),
-    ([], [], [], []),
-    ([], [], [], []),
-    ([], [], [], []),
-    ([], [], [], []),
-    ([], [], [], []),
-  ),
-  row-height: 75pt,
-  fill-strategy: "wider_rows",
-  preamble: [
+#block(breakable: false)[
+
 ==== What magical creatures exist in your world?
 
 #hint[Consider creatures that might bond with characters, serve as obstacles, or hold symbolic meaning in your story.]
-],
-)
 
+#strong[Describe your world's most important magical creatures. For each, what is their intelligence level, what magical abilities do they have, and what is their relationship with humans?]
 
-#block(breakable: false)[
+#hint[(Write your answer below)]
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ==== How common or rare are magical creatures?
 
@@ -891,28 +878,21 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 ]
 
 
-#structured-table(
-  headers: ("Stage", "What Happens in Your Story"),
-  example-rows: (
-    ([The crisis], [Violet is cornered on the Parapet with no weapon and a dying classmate]),
-    ([The choice that reveals character], [She shields the weaker dragon with her own body — moral courage, not combat skill]),
-    ([The bond forms because…], [Tairn responds to who she is, not what she can do]),
-  ),
-  rows: (
-    ([The crisis], []),
-    ([The choice that reveals character], []),
-    ([The bond forms because…], []),
-  ),
-  row-height: 60pt,
-  preamble: [
+#block(breakable: false)[
+
 ==== How does the bond form?
 
 #hint[The strongest bonding scenes share a structure: crisis, then choice, then fusion. Tairn bonds with Violet because she risks her life to defend a weaker dragon. Manon chooses the battered "bait beast" everyone dismissed. What crisis and choice could trigger the bond in your story?]
-],
-)
 
+#strong[If your characters bond with creatures, describe the bonding process: What crisis triggers it? What choice reveals character? Why does the bond form?]
 
-#block(breakable: false)[
+#hint[(Write your answer below)]
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ==== What does the bond provide?
 
@@ -940,26 +920,21 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 ]
 
 
-#structured-table(
-  headers: ("Aspect", "Protagonist", "Love Interest"),
-  example-rows: (
+#block(breakable: false)[
 
-  ),
-  rows: (
-    ([Creature type], [], []),
-    ([Name], [], []),
-    ([Nature of bond], [], []),
-  ),
-  row-height: 60pt,
-  preamble: [
 ==== Do your characters have bonded creatures?
 
 #hint[Bonded creatures create shared responsibility and parallel romantic bonds. How might these relationships mirror or contrast with the romance?]
-],
-)
 
+#strong[If both characters have bonded creatures, describe each: What type of creature, what is its name, and what is the nature of the bond?]
 
-#block(breakable: false)[
+#hint[(Write your answer below)]
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ==== If both characters have bonded creatures, how do the creatures relate to each other?
 
@@ -1014,25 +989,25 @@ Seasonal festivals create social pressure that characters can't avoid. Calanmai 
 )
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([The weather event or season], [Starfall — a night when the stars fall like rain over the Night Court]),
-    ([Where your characters are when it hits], [Standing on a balcony together, the first time she's been outdoors since her trauma]),
-    ([What it forces them to do or feel], [She laughs for the first time. He watches. Neither of them names what's happening.]),
-  ),
-  rows: (
-    ([The weather event or season], []),
-    ([Where your characters are when it hits], []),
-    ([What it forces them to do or feel], []),
-  ),
-  row-height: 60pt,
-  preamble: [
 ==== What seasonal or weather event matters most to your romance?
 
+
 #hint[A blizzard that removes every option except shared warmth. A festival where desire quietly complicates everything. A spring thaw that mirrors messy healing. What weather or seasonal moment will your romance hinge on?]
-],
-)
+
+
+#strong[Describe a weather event or seasonal moment that matters to your romance. Where are your characters when it hits, and what does it force them to do or feel?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Symbolism & Cultural Meaning
@@ -1082,85 +1057,88 @@ And don't announce the connection. "The rain matched her sadness" kills the effe
 #divider()
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([The emotional moment], [Feyre learns the truth about Tamlin's bargain — hope dying in a single instant]),
-    ([What the environment is doing], [The Spring Court, which had been blooming as she healed, goes still. Petals stop falling mid-air.]),
-    ([Why this works (what it makes the reader feel)], [The reader sees the relationship's death made visible in the landscape before either character says a word]),
-  ),
-  rows: (
-    ([The emotional moment], []),
-    ([What the environment is doing], []),
-    ([Why this works (what it makes the reader feel)], []),
-  ),
-  row-height: 60pt,
-  preamble: [
 ==== Could the natural world mirror a key emotional moment in your romance?
 
+
 #hint[The best environmental mirroring feels inevitable, not forced. Pick your story's most emotionally intense moment and consider what the natural world could be doing around your characters — not to explain the emotion, but to make the reader feel it in their body.]
-],
-)
+
+
+#strong[Describe a key emotional moment in your story. What is the environment doing at that moment, and why does the combination work (what does it make the reader feel)?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #divider()
 
 
-#structured-table(
-  headers: ("Association", "Creature", "How You Could Use It in a Scene"),
-  example-rows: (
-    ([Death], [Ravens], [A raven lands on the windowsill the morning of the duel. Neither character mentions it. The reader feels the chill.]),
-  ),
-  rows: (
-    ([Love], [], []),
-    ([Death], [], []),
-    ([Royalty/power], [], []),
-    ([Luck (good or bad)], [], []),
-  ),
-  row-height: 60pt,
-  preamble: [
 ==== What creatures have symbolic meaning in your culture?
 
+
 #hint[Symbols add layers to scenes without a word of dialogue. A raven landing on the windowsill the morning of the duel. A white stag appearing the night before a proposal. What creature might appear at a significant romantic moment, and what would it mean?]
-],
-)
 
 
-#open-table(
-  headers: ("Plant", "What It Symbolises", "How You Could Use It in a Scene"),
-  example-rows: (
-    ([Nightbloom (a flower that opens only in darkness)], [Love that thrives in secret, hidden desire], [He leaves one on her pillow the night before she's betrothed to someone else. She presses it in a book. Neither of them mentions it.]),
-  ),
-  rows: (
-    ([], [], []),
-    ([], [], []),
-  ),
-  row-height: 90pt,
-  fill-strategy: "wider_rows",
-  preamble: [
+#strong[What creatures carry symbolic meaning in your world (love, death, power, luck)? How could you use one in a scene to create subtext?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
 ==== What plants have symbolic meaning?
 
+
 #hint[Symbols add layers to scenes without a word of dialogue. A flower given as a gift, a tree that blooms out of season, a herb burnt at a funeral. What plants carry meaning in your world, and how might you use them in a scene?]
-],
-)
 
 
-#structured-table(
-  headers: ("Question", "Your Answer"),
-  example-rows: (
+#strong[Is there a plant in your world with symbolic meaning? What does it represent, and how could you use it in a scene?]
 
-  ),
-  rows: (
-    ([How do plants and animals enable or restrict magic? #emph[(Reference: Section 8)]], []),
-    ([Does control of creatures or natural resources create political or economic power? #emph[(Reference: Sections 4-5)]], []),
-    ([How have creatures or environmental factors shaped history? #emph[(Reference: Section 7)]], []),
-    ([Do weather patterns or seasonal cycles create festivals, deadlines, or forced proximity that affects the romance? #emph[(Reference: Section 6)]], []),
-  ),
-  row-height: 75pt,
-  preamble: [
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
+
+
 == Integration Check
-],
-)
+
+
+#strong[How do plants and animals connect to other aspects of your world? Consider: How do they enable or restrict magic? Does control of creatures or resources create political power? How have creatures shaped history? Do seasonal cycles create festivals or forced proximity?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #structured-table(
@@ -1269,27 +1247,21 @@ The best inter-species romances let the human partner discover these differences
 #divider()
 
 
-#structured-table(
-  headers: ("Aspect", "Protagonist", "Love Interest", "How This Difference Affects the Relationship"),
-  example-rows: (
-    ([Body temperature], [Warm — 37°C], [Fae-cold — barely above room temperature], [Every time they touch, she flinches. He starts warming his hands before reaching for her.]),
-  ),
-  rows: (
-    ([Physical abilities], [], [], []),
-    ([Senses], [], [], []),
-    ([Diet / sleep], [], [], []),
-    ([Aging / healing], [], [], []),
-  ),
-  row-height: 60pt,
-  preamble: [
+#block(breakable: false)[
+
 ==== What biological differences exist between your species?
 
 #hint[Consider: strength, speed, senses, temperature, diet, sleep patterns, healing, aging, reproduction. These should feel visceral and constant — not mentioned once and then forgotten.]
-],
-)
 
+#strong[What physical differences exist between your protagonist and love interest (body temperature, physical abilities, senses, diet/sleep, aging/healing)? For the most significant differences, how do they affect the relationship?]
 
-#block(breakable: false)[
+#hint[(Write your answer below)]
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ==== Are there biological incompatibilities?
 
@@ -1361,26 +1333,21 @@ Aragorn and Arwen's relationship in The Lord of the Rings establishes the preced
 #divider()
 
 
-#structured-table(
-  headers: ("Character", "Species Lifespan"),
-  example-rows: (
-    ([Protagonist], [Human — 70-80 years, already 23]),
-    ([Love Interest], [Fae — immortal unless killed, currently 847 years old]),
-  ),
-  rows: (
-    ([Protagonist], []),
-    ([Love Interest], []),
-  ),
-  row-height: 60pt,
-  preamble: [
+#block(breakable: false)[
+
 ==== How long does each species typically live?
 
 #hint[Lifespan disparity creates profound romantic stakes. How does knowing one will outlive the other shape the relationship?]
-],
-)
 
+#strong[What is each character's species and expected lifespan? How does any disparity affect the relationship?]
 
-#block(breakable: false)[
+#hint[(Write your answer below)]
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ==== How does the longer-lived character feel about loving someone who will die?
 
@@ -1485,25 +1452,25 @@ Keep in mind the fine line between "instinct creates tension" and "instinct elim
 ]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([The physical tells of control], [Edward stops breathing around Bella. His hands fist at his sides. He steps back mid-conversation for no apparent reason.]),
-    ([What the human partner notices (and what they understand about it)], [Bella sees the golden eyes darken to black and learns this means hunger, not anger — and that she's the cause.]),
-    ([What happens when control slips], [A grip too tight on her arm. A flash of something inhuman when someone else touches her. The room he destroys after she leaves.]),
-  ),
-  rows: (
-    ([The physical tells of control], []),
-    ([What the human partner notices (and what they understand about it)], []),
-    ([What happens when control slips], []),
-  ),
-  row-height: 65pt,
-  preamble: [
 ==== What does restraint look like in the body?
 
+
 #hint[The romance lives in the gap between what your non-human character could do and what they choose not to. That gap needs to be visible. What physical tells show your character is holding back — and what happens in the moments when control slips?]
-],
-)
+
+
+#strong[If one character has dangerous instincts, describe: What are the physical tells of control? What does the human partner notice (and what do they understand about it)? What happens when control slips?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Mate Bonds & Biological Destiny
@@ -1571,22 +1538,25 @@ The most satisfying mate bond romances do one or more of these:
 ]
 
 
-#open-table(
-  headers: ("Aspect", "Your Bond"),
-  example-rows: (
-    ([Does the bond create feelings or just proximity/awareness?], []),
-    ([Can it be rejected — and at what cost?], []),
-    ([Does recognition happen before or after they fall in love?], []),
-    ([Does either character fight the bond — and why?], []),
-  ),
-  row-height: 60pt,
-  fill-strategy: "wider_rows",
-  preamble: [
 ==== Design your mate bond
 
+
 #hint[The best mate bonds create circumstances, not feelings. How does yours work — and where does it leave room for the characters to build the actual relationship?]
-],
-)
+
+
+#strong[If your story uses a mate bond or fated bond: Does the bond create feelings or just proximity/awareness? Can it be rejected, and at what cost? Does recognition happen before or after they fall in love? Does either character fight the bond, and why?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == The Monster Question
@@ -1715,26 +1685,21 @@ Show the exhaustion of navigating hostile spaces, and the relief of spaces where
 ]
 
 
-#structured-table(
-  headers: ("Character", "Family/Community Reaction"),
-  example-rows: (
-    ([Human], [Family horrified — fae killed her brother in the war; they see this as ultimate betrayal]),
-    ([Non-human], [Fae court sees humans as pets at best; his interest in a mortal is considered degrading]),
-  ),
-  rows: (
-    ([Human], []),
-    ([Non-human], []),
-  ),
-  row-height: 60pt,
-  preamble: [
+#block(breakable: false)[
+
 ==== What do each character's families/communities think of the relationship?
 
 #hint[External opposition raises stakes. Whose disapproval hurts most, and what would each character sacrifice to be together?]
-],
-)
 
+#strong[How do each character's family and community react to their cross-species relationship?]
 
-#block(breakable: false)[
+#hint[(Write your answer below)]
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ==== Does either character have to choose between their partner and their people?
 
@@ -1748,23 +1713,25 @@ Show the exhaustion of navigating hostile spaces, and the relief of spaces where
 ]
 
 
-#open-table(
-  headers: ("The Small Friction", "Who Experiences It", "Does the Other Partner Notice?"),
-  example-rows: (
-    ([The shopkeeper's smile freezes when she walks in with her fae partner], [Both — but he doesn't register it as hostile because he's never had to], [No. She doesn't mention it. He buys the bread and doesn't understand why she's quiet afterwards.]),
-  ),
-  rows: (
-    ([], [], []),
-    ([], [], []),
-  ),
-  row-height: 90pt,
-  fill-strategy: "wider_rows",
-  preamble: [
 ==== What does daily friction look like for your couple?
 
+
 #hint[The tension of living between worlds isn't one big confrontation — it's the accumulation of small moments. The conversation that stops when they enter. The friend who "forgets" to invite them. What small, recurring frictions would your couple face — and does the "insider" partner always notice?]
-],
-)
+
+
+#strong[What small, daily friction does the cross-species relationship create? Who experiences it, and does the other partner even notice?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Transformation & Change
@@ -1825,23 +1792,25 @@ Bella's transformation in the Twilight saga is the structural element upon which
 ]
 
 
-#structured-table(
-  headers: ("Character", "Do They Want Transformation?", "Why?", "What Are They Afraid of Losing?"),
-  example-rows: (
-    ([Bella], [Yes — desperately], [Can't bear aging while Edward stays 17; wants to be his equal], [Charlie, her human life, the possibility of children]),
-    ([Edward], [No — refuses to allow it], [Believes he'd be damning her soul; can't bear being responsible for her death], [Her humanity, which is the thing he loves most about her]),
-  ),
-  rows: (
-    ([Human], [], [], []),
-    ([Non-human], [], [], []),
-  ),
-  row-height: 60pt,
-  preamble: [
 ==== Who wants transformation — and who doesn't?
 
+
 #hint[Disagreement about transformation creates tension. Does one want to change and the other resist it? Why? And what are they each afraid of losing?]
-],
-)
+
+
+#strong[If species transformation is possible in your world: Does each character want it? Why or why not? What are they afraid of losing?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #divider()

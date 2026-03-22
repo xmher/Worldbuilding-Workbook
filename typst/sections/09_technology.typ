@@ -160,18 +160,19 @@ Reference points: Stone Age, Bronze/Iron Age, Medieval, Renaissance, Early Moder
 Technological disparity creates power imbalances and dramatic opportunities when characters cross from one level to another. A character moving from a village with no running water to a city with enchanted plumbing experiences culture shock that reveals character and creates vulnerability.
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Is technology consistent across your world, or does it vary by region? Which regions are advanced, which are less advanced, and what causes the disparity?]
 
-  ),
-  rows: (
-    ([Advanced regions], []),
-    ([Less advanced regions], []),
-    ([Why the disparity], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[How does magic affect technology?]
@@ -233,17 +234,19 @@ But forced proximity doesn't always require a road. In #emph[The Cruel Prince], 
 The fastest method is often the most expensive or dangerous. What would your protagonist sacrifice for speed?
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[What's the fastest way to travel long distances in your world, and what limits it (cost, rarity, danger, who can use it)?]
 
-  ),
-  rows: (
-    ([Method], []),
-    ([Limitations (cost, rarity, danger, who can use it)], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[How long does travel take between important locations?]
@@ -252,18 +255,19 @@ The fastest method is often the most expensive or dangerous. What would your pro
 Travel time shapes the emotional weight of journeys, but don't overlook short-distance containment: a carriage ride across town can be just as powerful as a week-long journey. In #emph[Bridgerton] Season 3, a single carriage scene becomes the friends-to-lovers turning point. The enclosed space, the rhythmic movement, the inability to walk away mid-conversation. The carriage functions as a sealed room on wheels. What transport in your world creates that kind of pressurised intimacy?
 
 
-#structured-table(
-  headers: ("Route", "Time Required"),
-  example-rows: (
+#strong[How long does travel take between major cities, across your world's full span, and along the journey your characters take?]
 
-  ),
-  rows: (
-    ([Between major cities], []),
-    ([Across your world's span], []),
-    ([The journey your characters take], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What makes travel difficult or dangerous?]
@@ -272,19 +276,19 @@ Travel time shapes the emotional weight of journeys, but don't overlook short-di
 #hint[Danger on the road is one of romantasy's most reliable engines for intimacy. When characters face threats together, protection becomes care, and shared survival builds trust faster than any conversation.]
 
 
-#structured-table(
-  headers: ("Danger", "Details"),
-  example-rows: (
+#strong[What makes travel difficult or dangerous in your world? Consider weather and terrain, bandits or hostile creatures, cost and physical demands, and any other risks.]
 
-  ),
-  rows: (
-    ([Weather and terrain], []),
-    ([Bandits, creatures, hostile forces], []),
-    ([Cost and physical demands], []),
-    ([Other risks], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What travel infrastructure exists?]
@@ -293,20 +297,19 @@ Travel time shapes the emotional weight of journeys, but don't overlook short-di
 Roads, inns, and rest stops determine whether journeys are manageable or desperate. Where does infrastructure fail, and where might your characters find themselves alone, off the map, beyond observation?
 
 
-#structured-table(
-  headers: ("Infrastructure", "Details"),
-  example-rows: (
+#strong[What travel infrastructure exists in your world? Describe the quality of roads, bridges, ports and harbours, way stations or inns, and stables or animal care.]
 
-  ),
-  rows: (
-    ([Roads (quality, where they go)], []),
-    ([Bridges], []),
-    ([Ports and harbours], []),
-    ([Way stations, inns, caravanserais], []),
-    ([Stables and animal care], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[Who maintains infrastructure?]
@@ -371,17 +374,19 @@ Can your characters reach each other across distance, and at what cost?
 Delayed messages create dramatic irony and miscommunication. What might change before a letter arrives?
 
 
-#structured-table(
-  headers: ("Route", "Time"),
-  example-rows: (
+#strong[How long does it take to send a message between major cities? Between your characters when they're separated?]
 
-  ),
-  rows: (
-    ([Between major cities], []),
-    ([Between your characters when separated], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[How reliable is communication?]
@@ -491,20 +496,19 @@ Magical scrying? Spy networks? Informants? Nothing systematic?
 #hint[In worlds where privacy is scarce, every stolen moment carries the weight of an entire scene. Think about how your characters would navigate surveillance to create a private interaction — and what the consequences would be if they were caught.]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Design a stolen moment for your characters: Where does it happen? Who or what are they hiding from? What do they do or say? How do they cover their tracks? What would happen if they were caught?]
 
-  ),
-  rows: (
-    ([Where does the moment happen?], []),
-    ([Who or what are they hiding from?], []),
-    ([What do they do or say?], []),
-    ([How do they cover their tracks?], []),
-    ([What would happen if they were caught?], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 === Servants & Attendants
@@ -549,17 +553,19 @@ What motivates their loyalty or disloyalty?
 #hint[Think about how servants affect your characters' ability to have private moments, and whether any servants become confidants or threats.]
 
 
-#structured-table(
-  headers: ("Character", "Servants?", "How This Affects Privacy"),
-  example-rows: (
+#strong[Does your protagonist have servants or attendants? Does your love interest? How does their presence (or absence) affect the characters' ability to have private moments?]
 
-  ),
-  rows: (
-    ([Protagonist], [], []),
-    ([Love interest], [], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[How do servants affect what your characters can do privately?]
@@ -568,212 +574,150 @@ What motivates their loyalty or disloyalty?
 #hint[The constant presence of others shapes intimacy. What strategies do your characters use to find moments alone — and what happens when those strategies fail?]
 
 
-== Daily Life & the Texture of Time
+#block(breakable: false)[
 
+== Daily Life & the Texture of Time
 
 The rhythm of day-to-day living will determine how much time people have for all the things that aren't work, including romance, education, and ambition. These details also shape the sensory world of your story: the quality of light, the temperature of rooms, the smell of a city, what meals look and taste like. If you get these correct, it helps make the world of your story feel lived-in. Get them wrong (or ignore them) and readers will pick up on something missing, even if they can't say why.
 
-
 Lighting shapes the emotional tone of every scene. Candlelight is soft, warm, and creates shadows and feelings of closeness. Faces half-lit, features rendered gentle. Torchlight is much harsher, flickering, creates drama and unease. Daylight reveals everything; characters can't hide in full sun. Dim lighting requires proximity to one another: leaning closer to see, speaking softer because darkness feels private. When characters are together in the dark, let the other senses become heightened. Sound, touch, the awareness of warmth from another body. The practical realities matter too. Candles burn out and go out, someone must tend the fire, darkness comes whether you're ready or not.
-
 
 === Time & Labour
 
-
 #strong[How much time do ordinary people spend on survival tasks?]
-
 
 #hint[Time spent on survival is time unavailable for romance, education, or ambition. If your protagonist spends half the day hauling water, that shapes what kind of relationship is even possible.]
 
+#strong[How much time do ordinary people in your world spend on survival tasks like food preparation, water collection, heating, and cleaning? Who does this labour, and how does it affect your characters' available time for romance?]
 
-#structured-table(
-  headers: ("Task", "Time Required"),
-  example-rows: (
+#hint[(Write your answer below)]
 
-  ),
-  rows: (
-    ([Food preparation], []),
-    ([Water collection], []),
-    ([Heating/fuel], []),
-    ([Cleaning/maintenance], []),
-  ),
-  row-height: 60pt,
-)
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 #strong[Who does this labour?]
 
-
 #hint[Who does the work shapes who has time for anything else, including romance. If your protagonist spends hours on survival tasks while your love interest has servants handling everything, that gap in daily reality affects how they understand each other.]
-
 
 Servants? Women? Lower classes? Everyone? Magical solutions?
 
-
 #strong[How much leisure time exists, and for whom?]
-
 
 #hint[Leisure is unequally distributed. If your characters come from different classes, their relationship to time differs — and that difference shapes what "spending time together" even means.]
 
+#strong[How much leisure time exists for different classes in your world (wealthy, middle class, poor/working class)? What does the disparity in free time mean for your characters?]
 
-#structured-table(
-  headers: ("Class", "Leisure Time"),
-  example-rows: (
+#hint[(Write your answer below)]
 
-  ),
-  rows: (
-    ([Wealthy], []),
-    ([Middle class], []),
-    ([Poor/working class], []),
-  ),
-  row-height: 60pt,
-)
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 #strong[What does the disparity in free time mean for your characters?]
 
-
 #hint[If one character has leisure and one doesn't, the imbalance shapes every interaction. The character who works all day experiences an evening visit very differently from the one who was free all afternoon. How does this gap affect their relationship?]
-
 
 === Lighting & Darkness
 
-
 #strong[How do people light their spaces?]
-
 
 #hint[Lighting technology shapes the emotional palette of every scene you write. Candlelight softens; torchlight unsettles; darkness heightens every other sense. What your characters see by determines what they feel.]
 
-
 Candles, oil lamps, torches, magical light, gas, electricity:
-
 
 #strong[How expensive is lighting?]
 
-
 #hint[If staying up after dark is a luxury, then a character who can afford candlelight lives in a different world from one who goes to bed at sunset. An evening invitation that requires lighting becomes a marker of class — and a character who's never seen a well-lit room will react to one.]
-
 
 Can everyone afford to stay up after dark, or is darkness the norm for the poor?
 
-
 #strong[What does nighttime look like?]
-
 
 #hint[Darkness creates different moods in different settings. Danger in unlighted streets, intimacy in candlelit rooms, isolation in rural darkness. Where your characters are when the sun goes down shapes what's possible between them.]
 
+#strong[What does nighttime look like in your world? Describe the lighting available in cities, in homes, and in the countryside.]
 
-#structured-table(
-  headers: ("Location", "Lighting at Night"),
-  example-rows: (
+#hint[(Write your answer below)]
 
-  ),
-  rows: (
-    ([In cities], []),
-    ([In homes], []),
-    ([In the countryside], []),
-  ),
-  row-height: 60pt,
-)
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 #strong[What can and can't be done after dark?]
 
-
 #hint[Darkness limits and enables. Some activities become impossible; others — secret meetings, escapes, confessions — become easier. What does nightfall make possible for your characters that daylight forbids?]
-
 
 #strong[How does lighting shape a key romantic scene?]
 
-
 #hint[Candlelight softens features and creates intimacy. Torchlight flickers and unsettles. Darkness heightens every other sense — sound, touch, the awareness of warmth from another body. Think about a scene where lighting shapes the emotional tone of an interaction between your characters.]
 
+#strong[Think about a key romantic scene between your characters. Where does it take place, what lighting exists, and how does that lighting shape the mood and what the characters can see of each other?]
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#hint[(Write your answer below)]
 
-  ),
-  rows: (
-    ([The scene], []),
-    ([What lighting exists], []),
-    ([How the lighting affects mood and what characters can see], []),
-  ),
-  row-height: 60pt,
-)
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 === Heating, Cooling & Shelter
 
-
 #strong[How do people stay warm?]
-
 
 #hint[Extreme cold is one of romantasy's most reliable forced-proximity engines. Shared body heat turns survival into intimacy, and the snowbound inn works precisely because the shared bed is a survival decision rather than a romantic one — at first.]
 
-
 Fireplaces, central heating, braziers, body heat, magical warmth:
-
 
 #strong[How do people stay cool?]
 
-
 #hint[Heat creates its own brand of vulnerability — lighter clothing, bare skin, seeking shade or water together. How your characters manage heat shapes the sensory texture of warm-weather scenes.]
-
 
 Fans, shade, water, magical cooling, architectural solutions:
 
-
 #strong[What's the danger from extreme temperatures?]
-
 
 Can cold or heat kill? What do people do to survive extremes? Extreme cold is a classic forced-proximity engine, because sharing warmth becomes necessity, then intimacy. The snowbound inn in #emph[ACOMAF] works precisely because the cold outside makes the shared bed inside a survival decision rather than a romantic one (at first). What temperature extremes exist in your world, and how might they push your characters together?
 
-
 === Water, Sanitation & Bathing
-
 
 How and when people bathe is much more important than it would seem. Romantasy has no shortage of bathing scenes for their own brand of intimacy, and how those bathing scenes work are almost completely dependent on what sort of technology level you've established for your world. There's vulnerability in water; there's exposure in undressing; there's atmosphere in the place (river, bathhouse, private chamber with a copper tub). But the type of tension created by bathing in a public bathhouse is very different from the type of tension created by bathing in a private tub. A river provides a very different type of exposure from a screened-off tub in a room being shared with someone else.
 
-
 Historically speaking, people didn't bathe as frequently as they do today. They would wash their linens, use dry-heat baths and perfume themselves. If your world is pre-industrial then a true bath can be considered a luxury item that signifies wealth, caring for oneself, or a significant event, which means the act of bathing, or being bathed, can have even greater significance.
-
 
 Water scenes can serve two distinctly different romantic purposes in romantasy. The first is #strong[safety and domestication]: in order for a couple to experience a bath together it must mean they're willing to share a domestic future and spend time together in a private space. This is evident in the bath scene in #emph[Bridgerton] between Benedict and Sophie, signifying a shared future where both can engage in private bodily care. Similarly, the bathtub scene in #emph[ACOMAF] is a way to decompress after being in danger and represents intimacy earned through survival. The second function is #strong[dangerous vulnerability]: in #emph[From Blood and Ash], Poppy falls asleep in the tub and is discovered, with the bathing process staged as exposure to her loss of autonomy. In #emph[The Cruel Prince], water serves as a symbol of dangerous sovereignty (Undersea politics) instead of a place of relaxation. Determine which purpose of water you want to use. Will water provide a safe haven for your characters or will it represent a place of danger?
 
-
 #strong[What role does water/bathing play in your romance?]
-
 
 #hint[Water scenes can serve two very different romantic purposes: safety and domestication (intimacy earned through shared vulnerability in a private space) or dangerous vulnerability (exposure, loss of autonomy, sovereignty). Knowing which function you want helps you design the scene's emotional architecture.]
 
+#strong[What does bathing look like for your protagonist and your love interest? Is there a bathing or water scene in your story? Does it serve as safety/domestication or dangerous vulnerability? What makes it emotionally significant?]
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#hint[(Write your answer below)]
 
-  ),
-  rows: (
-    ([What bathing looks like for your protagonist], []),
-    ([What bathing looks like for your love interest], []),
-    ([Is there a bathing/water scene in your story?], []),
-    ([Which function does it serve: safety or danger?], []),
-    ([What makes this moment emotionally significant?], []),
-  ),
-  row-height: 60pt,
-)
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 #strong[How do people get clean water?]
 
-
 Wells, rivers, aqueducts, pumps, magical purification:
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #strong[How do people bathe?]
@@ -833,19 +777,19 @@ The key to using this technique is selective realism. Identify the general odour
 #hint[Scent is one of romantasy's most powerful sensory tools. Identify the baseline smells of your world, then layer your love interest's distinctive scent on top. The contrast between the ordinary and the intoxicating is what makes it land on the page.]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[What does your world generally smell like? What does your love interest smell like against that background? What's the in-world justification for their scent, and how does it make your protagonist feel?]
 
-  ),
-  rows: (
-    ([What does your world generally smell like? (Woodsmoke, horse, river mud, tallow, herbs)], []),
-    ([What does your love interest smell like?], []),
-    ([What's the in-world justification for their scent? (Herbal wash, oils, magic, or just the narrator falling in love)], []),
-    ([How does their scent make your protagonist #emph[feel]?], []),
-  ),
-  row-height: 75pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 === Food & Drink
@@ -881,18 +825,19 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 #hint[Food marks class in visible ways. A shared meal across class lines reveals everything: the character who's never eaten anything sweet reacts differently to a feast than the one who takes it for granted.]
 
 
-#structured-table(
-  headers: ("Class", "Food Available"),
-  example-rows: (
+#strong[What food is available to different classes in your world (wealthy, common, poor)? How do these differences become visible when your characters share a meal?]
 
-  ),
-  rows: (
-    ([Wealthy], []),
-    ([Common], []),
-    ([Poor], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[How does food reveal the dynamic between your characters?]
@@ -901,20 +846,19 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 #hint[Shared meals are power negotiations. Who hosts, who serves, who speaks, who may leave — all of this communicates status, care, and vulnerability. A character who has never eaten anything sweet reacts differently to a feast than the character who takes it for granted.]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[What does your protagonist typically eat? What does your love interest typically eat? Is there a food gap between them, and what would a shared meal reveal about their dynamic? Could a meal become a turning point in their relationship?]
 
-  ),
-  rows: (
-    ([What does your protagonist typically eat?], []),
-    ([What does your love interest typically eat?], []),
-    ([Is there a food gap between them?], []),
-    ([What would a shared meal between them reveal?], []),
-    ([Could a meal become a turning point in their relationship? How?], []),
-  ),
-  row-height: 65pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 === Timekeeping
@@ -1003,19 +947,19 @@ Cost? Location? Class? Connections?
 #hint[Magical healing can remove stakes from injuries — unless it has limits, costs, or is inaccessible to your characters. The most effective romantasy healing systems give with one hand and take with the other.]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Does magical healing exist in your world? How common is it, how effective, what can't it heal, and what does it cost?]
 
-  ),
-  rows: (
-    ([How common], []),
-    ([How effective], []),
-    ([What it can't heal], []),
-    ([Cost/limitations], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What injuries or illnesses are survivable vs. fatal?]
@@ -1024,18 +968,19 @@ Cost? Location? Class? Connections?
 #hint[Understanding what can and can't be healed helps you write realistic stakes. If everything is survivable, danger loses its weight. If too much is fatal, you lose the caretaking scenes where romance deepens.]
 
 
-#structured-table(
-  headers: ("Category", "Examples"),
-  example-rows: (
+#strong[What injuries or illnesses are easily treated in your world? What is survivable with care? What is usually fatal?]
 
-  ),
-  rows: (
-    ([Easily treated], []),
-    ([Survivable with care], []),
-    ([Usually fatal], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What chronic conditions exist, and how are they managed?]
@@ -1287,19 +1232,19 @@ The biggest difference between the two is that #emph[sparring] is a consensual a
 #hint[Available weapons shape both conflict and protection. What your protagonist can fight with — or against — determines the physical stakes of every dangerous scene and how much they depend on the person beside them.]
 
 
-#structured-table(
-  headers: ("Type", "Examples"),
-  example-rows: (
+#strong[What weapons exist in your world? List examples of melee, ranged, siege, and magical weapons.]
 
-  ),
-  rows: (
-    ([Melee weapons], []),
-    ([Ranged weapons], []),
-    ([Siege weapons], []),
-    ([Magical weapons], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What armour exists?]
@@ -1335,19 +1280,19 @@ Training scenes are some of romantasy's most effective tension-builders. Physica
 #hint[Training scenes work because they disguise intimacy as necessity: physical proximity, physical contact, one person in authority over another's body, all under the cover of "practice." If your characters train together or one teaches the other, map the romantic potential.]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Is there a training or sparring dynamic between your characters? Who trains whom (or are they equals), what's being taught, what creates the tension, and how do they act once weapons are put down?]
 
-  ),
-  rows: (
-    ([Who trains whom (or do they spar as equals)?], []),
-    ([What weapon or skill is being taught?], []),
-    ([What creates the tension (proximity, authority, vulnerability)?], []),
-    ([What happens in the aftermath — how do they act once weapons are put down?], []),
-  ),
-  row-height: 65pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[Does your story use sparring, actual combat, or both to develop the romance?]
@@ -1410,18 +1355,19 @@ Universal? Class-restricted? Gender-restricted? If your characters come from dif
 #hint[When one character can read and the other can't, when one has access to information the other is denied, the knowledge gap becomes a source of dependency, shame, or intimacy. Teaching someone is an act of trust. Withholding knowledge is an act of control.]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Does either character have knowledge the other lacks? Does one teach the other, and how does the knowledge gap affect their dynamic (dependency, shame, wonder, trust)?]
 
-  ),
-  rows: (
-    ([Does either character have knowledge the other lacks?], []),
-    ([Does one teach the other anything? What?], []),
-    ([How does the knowledge gap affect their dynamic (dependency, shame, wonder, trust)?], []),
-  ),
-  row-height: 75pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Magic & Technology Integration
@@ -1469,18 +1415,19 @@ Does magic interfere with technology or vice versa?
 #hint[When one character has access to magical solutions and the other relies on slower, harder alternatives, the gap creates dependency, resentment, or wonder. This asymmetry is fuel for romantic tension.]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[What magical solution does one character have that the other doesn't? How does the character without magic solve the same problem, and does the divide create dependency, resentment, wonder, or something else?]
 
-  ),
-  rows: (
-    ([What magical solution does one character have that the other doesn't?], []),
-    ([How does the character without magic solve the same problem?], []),
-    ([Does this create dependency, resentment, wonder, or something else?], []),
-  ),
-  row-height: 65pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 === Lost or Forbidden Technology
@@ -1492,18 +1439,19 @@ Does magic interfere with technology or vice versa?
 #hint[Lost technology creates mystery and possibility. What ancient wonders might your characters discover or seek — and could the quest to find them bring your characters together or drive them apart?]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Did past civilisations have technology now lost? What was lost, why was it lost, and could it be rediscovered?]
 
-  ),
-  rows: (
-    ([What was lost], []),
-    ([Why it was lost], []),
-    ([Could it be rediscovered], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[Is any technology restricted or forbidden?]
@@ -1512,18 +1460,19 @@ Does magic interfere with technology or vice versa?
 #hint[Forbidden technology creates temptation and danger. A character willing to risk punishment to access forbidden knowledge or tools reveals how much they're willing to sacrifice — and a shared secret about forbidden technology binds characters together.]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Is any technology restricted or forbidden in your world? What's restricted, who restricts it and why, and what are the consequences for using it?]
 
-  ),
-  rows: (
-    ([What's restricted], []),
-    ([Who restricts it and why], []),
-    ([Consequences for using it], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Technology & Your Characters
@@ -1538,17 +1487,19 @@ Now that you've established your world's technology level, think about how it sp
 #hint[Differing access creates imbalance. What does each character take for granted that the other finds remarkable or impossible?]
 
 
-#structured-table(
-  headers: ("Character", "Technology Access"),
-  example-rows: (
+#strong[What technology does your protagonist have access to? What about your love interest? What does one take for granted that the other finds remarkable?]
 
-  ),
-  rows: (
-    ([Protagonist], []),
-    ([Love interest], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[Is there a technology gap between them?]
@@ -1572,18 +1523,19 @@ What does one have that the other doesn't?
 #hint[Distance communication shapes the texture of separation. Letters reread until worn, messages that might never arrive, or instant magical contact. Each creates a different emotional reality.]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[How do your characters communicate when separated? What method do they use, how long do messages take, and what risk exists in their communication?]
 
-  ),
-  rows: (
-    ([Method], []),
-    ([How long messages take], []),
-    ([What risk exists in their communication], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What privacy do they have?]
@@ -1592,17 +1544,19 @@ What does one have that the other doesn't?
 #hint[Privacy determines where intimacy is possible. Where and when can your characters be truly alone together — and what changes when they finally are?]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Where can your characters be truly alone together? Who might observe or overhear them?]
 
-  ),
-  rows: (
-    ([Where can they be alone], []),
-    ([Who might observe or overhear them], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[If one character has servants/attendants, how does that affect privacy?]
@@ -1617,18 +1571,19 @@ What does one have that the other doesn't?
 #hint[Illness and injury create vulnerability. Caring for someone sick is intimacy of a different kind — it proves love in ways that words cannot. What might that reveal between your characters?]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Does either character face medical issues? What condition, what treatment exists, and does one care for the other during illness or injury?]
 
-  ),
-  rows: (
-    ([What condition], []),
-    ([What treatment exists], []),
-    ([Does one care for the other during illness/injury], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[How does contraception (or lack thereof) affect them?]
@@ -1637,17 +1592,19 @@ What does one have that the other doesn't?
 #hint[The availability and reliability of contraception shapes what intimacy means and what consequences your characters might face. This is where worldbuilding meets the most personal moments of your romance.]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Is contraception available to your characters? Is it something they discuss or navigate?]
 
-  ),
-  rows: (
-    ([Is it available to them], []),
-    ([Is it something they discuss or navigate], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[Could they marry secretly with no record?]
@@ -1656,17 +1613,19 @@ What does one have that the other doesn't?
 #hint[Secret marriage is a classic romantasy option, but documentation requirements determine whether it can stay secret and what risks exist. A union no one can prove is also a union no one can disprove.]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
+#strong[Could your characters marry secretly with no record? What would be required, and what risks would exist?]
 
-  ),
-  rows: (
-    ([What would be required], []),
-    ([What risks would exist], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Integration Check

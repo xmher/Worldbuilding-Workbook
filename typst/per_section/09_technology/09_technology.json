@@ -287,26 +287,24 @@
       "text": "Technological disparity creates power imbalances and dramatic opportunities when characters cross from one level to another. A character moving from a village with no running water to a city with enchanted plumbing experiences culture shock that reveals character and creates vulnerability."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Advanced regions",
-          ""
-        ],
-        [
-          "Less advanced regions",
-          ""
-        ],
-        [
-          "Why the disparity",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Is technology consistent across your world, or does it vary by region? Which regions are advanced, which are less advanced, and what causes the disparity?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -428,22 +426,24 @@
       "text": "The fastest method is often the most expensive or dangerous. What would your protagonist sacrifice for speed?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Method",
-          ""
-        ],
-        [
-          "Limitations (cost, rarity, danger, who can use it)",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What's the fastest way to travel long distances in your world, and what limits it (cost, rarity, danger, who can use it)?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -454,26 +454,24 @@
       "text": "Travel time shapes the emotional weight of journeys, but don't overlook short-distance containment: a carriage ride across town can be just as powerful as a week-long journey. In *Bridgerton* Season 3, a single carriage scene becomes the friends-to-lovers turning point. The enclosed space, the rhythmic movement, the inability to walk away mid-conversation. The carriage functions as a sealed room on wheels. What transport in your world creates that kind of pressurised intimacy?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Route",
-        "Time Required"
-      ],
-      "rows": [
-        [
-          "Between major cities",
-          ""
-        ],
-        [
-          "Across your world's span",
-          ""
-        ],
-        [
-          "The journey your characters take",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How long does travel take between major cities, across your world's full span, and along the journey your characters take?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -484,30 +482,24 @@
       "text": "Danger on the road is one of romantasy's most reliable engines for intimacy. When characters face threats together, protection becomes care, and shared survival builds trust faster than any conversation."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Danger",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Weather and terrain",
-          ""
-        ],
-        [
-          "Bandits, creatures, hostile forces",
-          ""
-        ],
-        [
-          "Cost and physical demands",
-          ""
-        ],
-        [
-          "Other risks",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What makes travel difficult or dangerous in your world? Consider weather and terrain, bandits or hostile creatures, cost and physical demands, and any other risks.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -518,34 +510,24 @@
       "text": "Roads, inns, and rest stops determine whether journeys are manageable or desperate. Where does infrastructure fail, and where might your characters find themselves alone, off the map, beyond observation?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Infrastructure",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Roads (quality, where they go)",
-          ""
-        ],
-        [
-          "Bridges",
-          ""
-        ],
-        [
-          "Ports and harbours",
-          ""
-        ],
-        [
-          "Way stations, inns, caravanserais",
-          ""
-        ],
-        [
-          "Stables and animal care",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What travel infrastructure exists in your world? Describe the quality of roads, bridges, ports and harbours, way stations or inns, and stables or animal care.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -651,22 +633,24 @@
       "text": "Delayed messages create dramatic irony and miscommunication. What might change before a letter arrives?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Route",
-        "Time"
-      ],
-      "rows": [
-        [
-          "Between major cities",
-          ""
-        ],
-        [
-          "Between your characters when separated",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How long does it take to send a message between major cities? Between your characters when they're separated?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -825,34 +809,24 @@
       "text": "In worlds where privacy is scarce, every stolen moment carries the weight of an entire scene. Think about how your characters would navigate surveillance to create a private interaction — and what the consequences would be if they were caught."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Where does the moment happen?",
-          ""
-        ],
-        [
-          "Who or what are they hiding from?",
-          ""
-        ],
-        [
-          "What do they do or say?",
-          ""
-        ],
-        [
-          "How do they cover their tracks?",
-          ""
-        ],
-        [
-          "What would happen if they were caught?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Design a stolen moment for your characters: Where does it happen? Who or what are they hiding from? What do they do or say? How do they cover their tracks? What would happen if they were caught?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -911,25 +885,24 @@
       "text": "Think about how servants affect your characters' ability to have private moments, and whether any servants become confidants or threats."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "Servants?",
-        "How This Affects Privacy"
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          "",
-          ""
-        ],
-        [
-          "Love interest",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Does your protagonist have servants or attendants? Does your love interest? How does their presence (or absence) affect the characters' ability to have private moments?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -967,30 +940,24 @@
       "text": "Time spent on survival is time unavailable for romance, education, or ambition. If your protagonist spends half the day hauling water, that shapes what kind of relationship is even possible."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Task",
-        "Time Required"
-      ],
-      "rows": [
-        [
-          "Food preparation",
-          ""
-        ],
-        [
-          "Water collection",
-          ""
-        ],
-        [
-          "Heating/fuel",
-          ""
-        ],
-        [
-          "Cleaning/maintenance",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How much time do ordinary people in your world spend on survival tasks like food preparation, water collection, heating, and cleaning? Who does this labour, and how does it affect your characters' available time for romance?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1013,26 +980,24 @@
       "text": "Leisure is unequally distributed. If your characters come from different classes, their relationship to time differs — and that difference shapes what \"spending time together\" even means."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Class",
-        "Leisure Time"
-      ],
-      "rows": [
-        [
-          "Wealthy",
-          ""
-        ],
-        [
-          "Middle class",
-          ""
-        ],
-        [
-          "Poor/working class",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How much leisure time exists for different classes in your world (wealthy, middle class, poor/working class)? What does the disparity in free time mean for your characters?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1079,26 +1044,24 @@
       "text": "Darkness creates different moods in different settings. Danger in unlighted streets, intimacy in candlelit rooms, isolation in rural darkness. Where your characters are when the sun goes down shapes what's possible between them."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Location",
-        "Lighting at Night"
-      ],
-      "rows": [
-        [
-          "In cities",
-          ""
-        ],
-        [
-          "In homes",
-          ""
-        ],
-        [
-          "In the countryside",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What does nighttime look like in your world? Describe the lighting available in cities, in homes, and in the countryside.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1117,26 +1080,24 @@
       "text": "Candlelight softens features and creates intimacy. Torchlight flickers and unsettles. Darkness heightens every other sense — sound, touch, the awareness of warmth from another body. Think about a scene where lighting shapes the emotional tone of an interaction between your characters."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "The scene",
-          ""
-        ],
-        [
-          "What lighting exists",
-          ""
-        ],
-        [
-          "How the lighting affects mood and what characters can see",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Think about a key romantic scene between your characters. Where does it take place, what lighting exists, and how does that lighting shape the mood and what the characters can see of each other?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -1199,34 +1160,24 @@
       "text": "Water scenes can serve two very different romantic purposes: safety and domestication (intimacy earned through shared vulnerability in a private space) or dangerous vulnerability (exposure, loss of autonomy, sovereignty). Knowing which function you want helps you design the scene's emotional architecture."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What bathing looks like for your protagonist",
-          ""
-        ],
-        [
-          "What bathing looks like for your love interest",
-          ""
-        ],
-        [
-          "Is there a bathing/water scene in your story?",
-          ""
-        ],
-        [
-          "Which function does it serve: safety or danger?",
-          ""
-        ],
-        [
-          "What makes this moment emotionally significant?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What does bathing look like for your protagonist and your love interest? Is there a bathing or water scene in your story? Does it serve as safety/domestication or dangerous vulnerability? What makes it emotionally significant?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1309,30 +1260,24 @@
       "text": "Scent is one of romantasy's most powerful sensory tools. Identify the baseline smells of your world, then layer your love interest's distinctive scent on top. The contrast between the ordinary and the intoxicating is what makes it land on the page."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What does your world generally smell like? (Woodsmoke, horse, river mud, tallow, herbs)",
-          ""
-        ],
-        [
-          "What does your love interest smell like?",
-          ""
-        ],
-        [
-          "What's the in-world justification for their scent? (Herbal wash, oils, magic, or just the narrator falling in love)",
-          ""
-        ],
-        [
-          "How does their scent make your protagonist *feel*?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What does your world generally smell like? What does your love interest smell like against that background? What's the in-world justification for their scent, and how does it make your protagonist feel?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -1379,26 +1324,24 @@
       "text": "Food marks class in visible ways. A shared meal across class lines reveals everything: the character who's never eaten anything sweet reacts differently to a feast than the one who takes it for granted."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Class",
-        "Food Available"
-      ],
-      "rows": [
-        [
-          "Wealthy",
-          ""
-        ],
-        [
-          "Common",
-          ""
-        ],
-        [
-          "Poor",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What food is available to different classes in your world (wealthy, common, poor)? How do these differences become visible when your characters share a meal?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1409,34 +1352,24 @@
       "text": "Shared meals are power negotiations. Who hosts, who serves, who speaks, who may leave — all of this communicates status, care, and vulnerability. A character who has never eaten anything sweet reacts differently to a feast than the character who takes it for granted."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What does your protagonist typically eat?",
-          ""
-        ],
-        [
-          "What does your love interest typically eat?",
-          ""
-        ],
-        [
-          "Is there a food gap between them?",
-          ""
-        ],
-        [
-          "What would a shared meal between them reveal?",
-          ""
-        ],
-        [
-          "Could a meal become a turning point in their relationship? How?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What does your protagonist typically eat? What does your love interest typically eat? Is there a food gap between them, and what would a shared meal reveal about their dynamic? Could a meal become a turning point in their relationship?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -1568,30 +1501,24 @@
       "text": "Magical healing can remove stakes from injuries — unless it has limits, costs, or is inaccessible to your characters. The most effective romantasy healing systems give with one hand and take with the other."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "How common",
-          ""
-        ],
-        [
-          "How effective",
-          ""
-        ],
-        [
-          "What it can't heal",
-          ""
-        ],
-        [
-          "Cost/limitations",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Does magical healing exist in your world? How common is it, how effective, what can't it heal, and what does it cost?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1602,26 +1529,24 @@
       "text": "Understanding what can and can't be healed helps you write realistic stakes. If everything is survivable, danger loses its weight. If too much is fatal, you lose the caretaking scenes where romance deepens."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Category",
-        "Examples"
-      ],
-      "rows": [
-        [
-          "Easily treated",
-          ""
-        ],
-        [
-          "Survivable with care",
-          ""
-        ],
-        [
-          "Usually fatal",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What injuries or illnesses are easily treated in your world? What is survivable with care? What is usually fatal?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1994,30 +1919,24 @@
       "text": "Available weapons shape both conflict and protection. What your protagonist can fight with — or against — determines the physical stakes of every dangerous scene and how much they depend on the person beside them."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Type",
-        "Examples"
-      ],
-      "rows": [
-        [
-          "Melee weapons",
-          ""
-        ],
-        [
-          "Ranged weapons",
-          ""
-        ],
-        [
-          "Siege weapons",
-          ""
-        ],
-        [
-          "Magical weapons",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What weapons exist in your world? List examples of melee, ranged, siege, and magical weapons.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2064,30 +1983,24 @@
       "text": "Training scenes work because they disguise intimacy as necessity: physical proximity, physical contact, one person in authority over another's body, all under the cover of \"practice.\" If your characters train together or one teaches the other, map the romantic potential."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Who trains whom (or do they spar as equals)?",
-          ""
-        ],
-        [
-          "What weapon or skill is being taught?",
-          ""
-        ],
-        [
-          "What creates the tension (proximity, authority, vulnerability)?",
-          ""
-        ],
-        [
-          "What happens in the aftermath — how do they act once weapons are put down?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Is there a training or sparring dynamic between your characters? Who trains whom (or are they equals), what's being taught, what creates the tension, and how do they act once weapons are put down?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2174,26 +2087,24 @@
       "text": "When one character can read and the other can't, when one has access to information the other is denied, the knowledge gap becomes a source of dependency, shame, or intimacy. Teaching someone is an act of trust. Withholding knowledge is an act of control."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Does either character have knowledge the other lacks?",
-          ""
-        ],
-        [
-          "Does one teach the other anything? What?",
-          ""
-        ],
-        [
-          "How does the knowledge gap affect their dynamic (dependency, shame, wonder, trust)?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Does either character have knowledge the other lacks? Does one teach the other, and how does the knowledge gap affect their dynamic (dependency, shame, wonder, trust)?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -2259,26 +2170,24 @@
       "text": "When one character has access to magical solutions and the other relies on slower, harder alternatives, the gap creates dependency, resentment, or wonder. This asymmetry is fuel for romantic tension."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What magical solution does one character have that the other doesn't?",
-          ""
-        ],
-        [
-          "How does the character without magic solve the same problem?",
-          ""
-        ],
-        [
-          "Does this create dependency, resentment, wonder, or something else?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What magical solution does one character have that the other doesn't? How does the character without magic solve the same problem, and does the divide create dependency, resentment, wonder, or something else?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -2293,26 +2202,24 @@
       "text": "Lost technology creates mystery and possibility. What ancient wonders might your characters discover or seek — and could the quest to find them bring your characters together or drive them apart?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What was lost",
-          ""
-        ],
-        [
-          "Why it was lost",
-          ""
-        ],
-        [
-          "Could it be rediscovered",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Did past civilisations have technology now lost? What was lost, why was it lost, and could it be rediscovered?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2323,26 +2230,24 @@
       "text": "Forbidden technology creates temptation and danger. A character willing to risk punishment to access forbidden knowledge or tools reveals how much they're willing to sacrifice — and a shared secret about forbidden technology binds characters together."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What's restricted",
-          ""
-        ],
-        [
-          "Who restricts it and why",
-          ""
-        ],
-        [
-          "Consequences for using it",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Is any technology restricted or forbidden in your world? What's restricted, who restricts it and why, and what are the consequences for using it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -2364,22 +2269,24 @@
       "text": "Differing access creates imbalance. What does each character take for granted that the other finds remarkable or impossible?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "Technology Access"
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What technology does your protagonist have access to? What about your love interest? What does one take for granted that the other finds remarkable?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2410,26 +2317,24 @@
       "text": "Distance communication shapes the texture of separation. Letters reread until worn, messages that might never arrive, or instant magical contact. Each creates a different emotional reality."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Method",
-          ""
-        ],
-        [
-          "How long messages take",
-          ""
-        ],
-        [
-          "What risk exists in their communication",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How do your characters communicate when separated? What method do they use, how long do messages take, and what risk exists in their communication?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2440,22 +2345,24 @@
       "text": "Privacy determines where intimacy is possible. Where and when can your characters be truly alone together — and what changes when they finally are?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Where can they be alone",
-          ""
-        ],
-        [
-          "Who might observe or overhear them",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Where can your characters be truly alone together? Who might observe or overhear them?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2474,26 +2381,24 @@
       "text": "Illness and injury create vulnerability. Caring for someone sick is intimacy of a different kind — it proves love in ways that words cannot. What might that reveal between your characters?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What condition",
-          ""
-        ],
-        [
-          "What treatment exists",
-          ""
-        ],
-        [
-          "Does one care for the other during illness/injury",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Does either character face medical issues? What condition, what treatment exists, and does one care for the other during illness or injury?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2504,22 +2409,24 @@
       "text": "The availability and reliability of contraception shapes what intimacy means and what consequences your characters might face. This is where worldbuilding meets the most personal moments of your romance."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Is it available to them",
-          ""
-        ],
-        [
-          "Is it something they discuss or navigate",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Is contraception available to your characters? Is it something they discuss or navigate?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2530,22 +2437,24 @@
       "text": "Secret marriage is a classic romantasy option, but documentation requirements determine whether it can stay secret and what risks exist. A union no one can prove is also a union no one can disprove."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What would be required",
-          ""
-        ],
-        [
-          "What risks would exist",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Could your characters marry secretly with no record? What would be required, and what risks would exist?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
