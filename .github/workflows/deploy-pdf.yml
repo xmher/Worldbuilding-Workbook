@@ -5,6 +5,7 @@ on:
     branches: [main, master]
     paths:
       - 'typst/output/workbook.pdf'
+      - 'typst/per_section/**'
       - 'docs/**'
       - '.github/workflows/deploy-pdf.yml'
 
@@ -33,6 +34,7 @@ jobs:
           mkdir -p _site
           cp docs/index.html _site/
           cp typst/output/workbook.pdf _site/
+          cp typst/per_section/01_geography/01_geography.pdf _site/01_geography.pdf
 
       - uses: actions/upload-pages-artifact@v3
 

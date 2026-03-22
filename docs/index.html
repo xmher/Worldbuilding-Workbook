@@ -56,17 +56,17 @@
 </head>
 <body>
   <header>
-    <h1>Worldbuilding Workbook</h1>
+    <h1>Worldbuilding Workbook — Section 1: Geography</h1>
     <div class="header-actions">
       <button onclick="refreshPdf()">Refresh PDF</button>
-      <a href="workbook.pdf" download>Download PDF</a>
+      <a href="01_geography.pdf" download>Download PDF</a>
     </div>
   </header>
-  <embed id="pdf-viewer" src="workbook.pdf" type="application/pdf">
+  <embed id="pdf-viewer" src="01_geography.pdf" type="application/pdf">
   <script>
     function refreshPdf() {
       var viewer = document.getElementById('pdf-viewer');
-      viewer.src = 'workbook.pdf?v=' + Date.now();
+      viewer.src = '01_geography.pdf?v=' + Date.now();
     }
   </script>
 </body>
