@@ -138,7 +138,7 @@
       breakable: false,
     )[
       #it.body
-      #v(0.5em)
+      #v(0.15em)
       #line(length: 100%, stroke: 2pt + color-accent)
     ]
   }
