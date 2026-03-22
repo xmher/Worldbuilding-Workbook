@@ -40,42 +40,24 @@
       "text": "The deeper the historical layer, the harder it is to crack. Identify the layers of compressed history beneath your characters' feet, from recent grudges to ancient bedrock."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Layer",
-        "The Event",
-        "How Compressed It Is",
-        "How It Affects Your Characters"
-      ],
-      "example_rows": [
-        [
-          "Surface (recent memory)",
-          "e.g., Fourth Wing: The Tyrrish rebellion, one generation ago",
-          "Still raw — people who fought in it are alive",
-          "Xaden is marked by it; Violet's mother ordered it"
-        ]
-      ],
-      "rows": [
-        [
-          "Surface (recent memory)",
-          "",
-          "",
-          ""
-        ],
-        [
-          "Middle (cultural memory)",
-          "",
-          "",
-          ""
-        ],
-        [
-          "Deep (identity/bedrock)",
-          "",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Identify three layers of compressed history beneath your characters' feet: a surface-level event (within living memory), a mid-level cultural memory, and a deep bedrock belief. For each, describe what happened, how compressed it has become, and how it affects your characters today.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -238,26 +220,24 @@
       "text": "Use the table above to identify your closest match. This tells you where to invest your historical worldbuilding energy — and what you can afford to leave vague. Not every story fits one subgenre neatly; if yours blends two, note both and focus on the \"Essential\" column for each."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Your Story"
-      ],
-      "rows": [
-        [
-          "Closest subgenre(s)",
-          ""
-        ],
-        [
-          "What's essential for your historical worldbuilding",
-          ""
-        ],
-        [
-          "What you can leave vague or skip",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Which romantasy subgenre pattern does your story follow most closely? Based on that, what historical worldbuilding is essential for your story, and what can you afford to leave vague?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -582,32 +562,24 @@
       "text": "A character who learned history through bardic songs knows a romanticised version. A character who read court archives knows a politicised version. When they compare what they \"know,\" the clash isn't about facts — it's about whose truth counts. This is a rich source of early-relationship conflict."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "How They Learned History",
-        "What Version They Got"
-      ],
-      "example_rows": [
-        [
-          "Protagonist",
-          "e.g., Fourth Wing: Violet learned through military academy propaganda and her mother's accounts",
-          "The rebellion was treason; the loyalists were heroes"
-        ]
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          "",
-          ""
-        ],
-        [
-          "Love Interest",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How did your protagonist learn history (songs, propaganda, archives, family stories), and what version did they get? How did your love interest learn history, and what version did they get? Where do their versions clash?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -659,40 +631,24 @@
       "text": "**Why was it lost?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Cause",
-        "What Was Lost"
-      ],
-      "example_rows": [
-        [
-          "War/conquest",
-          "e.g., ACOTAR: Human knowledge of fae culture and the truth of the war was lost when the Wall severed contact between the realms"
-        ]
-      ],
-      "rows": [
-        [
-          "War/conquest",
-          ""
-        ],
-        [
-          "Natural disaster",
-          ""
-        ],
-        [
-          "Deliberate destruction",
-          ""
-        ],
-        [
-          "Simple neglect/time",
-          ""
-        ],
-        [
-          "Magic (curse, sealing, etc.)",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What knowledge, artifacts, or records have been lost in your world, and why? Consider war/conquest, natural disaster, deliberate destruction, neglect, or magical sealing.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading4",
@@ -724,47 +680,24 @@
       "text": "**How much does your world actually know about its past?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Era",
-        "How Well Known",
-        "How Accurate"
-      ],
-      "example_rows": [
-        [
-          "Last 50 years",
-          "e.g., Fourth Wing: Well known — veterans are still alive",
-          "Heavily biased by government propaganda"
-        ]
-      ],
-      "rows": [
-        [
-          "Last 50 years",
-          "",
-          ""
-        ],
-        [
-          "50-200 years ago",
-          "",
-          ""
-        ],
-        [
-          "200-500 years ago",
-          "",
-          ""
-        ],
-        [
-          "500+ years ago",
-          "",
-          ""
-        ],
-        [
-          "Mythic past",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**For each era of your world's past (recent memory, a few generations ago, centuries ago, and mythic past), how well known is the history and how accurate is what people believe? Where does history blur into myth?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -804,26 +737,24 @@
       "text": "What would change if your characters discovered the truth? Would it dissolve the obstacle between them, or make it worse?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What really happened",
-          ""
-        ],
-        [
-          "What people are taught",
-          ""
-        ],
-        [
-          "Who suppressed it and why",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Is there a historical truth in your world that's been suppressed or rewritten? What really happened, what are people taught instead, and who suppressed the truth and why?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -955,30 +886,24 @@
       "text": "**Was there a golden age that fell?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What it was called",
-          ""
-        ],
-        [
-          "What made it great",
-          ""
-        ],
-        [
-          "What caused its fall",
-          ""
-        ],
-        [
-          "What was lost",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Was there a golden age in your world? What was it called, what made it great, what caused its fall, and what was lost?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1005,56 +930,24 @@
       "text": "**What single historical event most shaped the current world?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "example_rows": [
-        [
-          "What happened",
-          "e.g., ACOTAR: The ancient war between fae and humans"
-        ],
-        [
-          "When",
-          "Roughly 500 years before the story begins"
-        ],
-        [
-          "Who was involved",
-          "All fae courts vs. human armies"
-        ],
-        [
-          "Immediate consequences",
-          "The Treaty; the Wall erected; separation of the realms"
-        ],
-        [
-          "Long-term effects still felt today",
-          "Humans fear and hate fae; Feyre grows up in poverty partly because the Wall cut off trade; the Treaty's terms still govern fae-human relations"
-        ]
-      ],
-      "rows": [
-        [
-          "What happened",
-          ""
-        ],
-        [
-          "When",
-          ""
-        ],
-        [
-          "Who was involved",
-          ""
-        ],
-        [
-          "Immediate consequences",
-          ""
-        ],
-        [
-          "Long-term effects still felt today",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What single historical event most shaped your current world? Describe what happened, when, who was involved, its immediate consequences, and the long-term effects still felt today.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -1172,38 +1065,24 @@
       "text": "**What major conflict most directly affects your romance?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Name",
-          ""
-        ],
-        [
-          "When",
-          ""
-        ],
-        [
-          "Who fought",
-          ""
-        ],
-        [
-          "Why",
-          ""
-        ],
-        [
-          "Who won",
-          ""
-        ],
-        [
-          "Consequences",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What major historical conflict most directly affects your romance? Describe the conflict (name, when, participants, cause, outcome, consequences) and whether your characters' families/nations are on opposing sides.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading4",
@@ -1653,48 +1532,48 @@
       "text": "**Do people compare your characters to legendary lovers?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Which couple",
-          ""
-        ],
-        [
-          "Who makes the comparison",
-          ""
-        ],
-        [
-          "Is it meant as compliment, warning, or accusation",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Do people compare your characters to legendary lovers? Which couple, who makes the comparison, and is it meant as compliment, warning, or accusation?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
       "text": "**How do your characters feel about being compared to this couple?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "How They Feel About the Comparison"
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love Interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How does your protagonist feel about being compared to legendary lovers? How does your love interest feel about it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1747,22 +1626,24 @@
       "text": "A previous pair of lovers from opposing sides? A past relationship that ended in tragedy?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What happened before",
-          ""
-        ],
-        [
-          "How it ended",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Is there a historical parallel to your characters' situation -- a previous pair of lovers from opposing sides? What happened, and how did it end?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading4",
@@ -1803,26 +1684,24 @@
       "text": "**Is either character descended from a famous historical figure?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Which character",
-          ""
-        ],
-        [
-          "Descended from",
-          ""
-        ],
-        [
-          "What's expected of them",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Is either character descended from a famous historical figure? Which character, who was the ancestor, and what expectations does that legacy create?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1833,30 +1712,24 @@
       "text": "Did the predecessor succeed or fail? Love or lose?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "The position",
-          ""
-        ],
-        [
-          "Who held it before",
-          ""
-        ],
-        [
-          "What that predecessor did",
-          ""
-        ],
-        [
-          "The shadow this casts",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Does either character hold a position once held by someone legendary? What was the position, who held it before, what did they do, and what shadow does this cast on your character?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1921,22 +1794,24 @@
       "text": "**How do these family stories shape who each character believes they should be?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "What Family Stories Taught Them to Be"
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love Interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What did family stories teach your protagonist they should be? What did family stories teach your love interest they should be?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2030,52 +1905,48 @@
       "text": "**What major event happened within living memory (last 50-80 years)?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "The event",
-          ""
-        ],
-        [
-          "When",
-          ""
-        ],
-        [
-          "Who fought/suffered/benefited",
-          ""
-        ],
-        [
-          "How it shaped the current world",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What major event happened within living memory (last 50-80 years)? What was it, when did it happen, who was affected, and how did it shape the current world?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
       "text": "**How did this event affect your characters' families?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "How Their Family Was Affected"
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love Interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How did this recent historical event affect your protagonist's family? How did it affect your love interest's family? Were they on the same side or opposing sides?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading4",
@@ -2115,52 +1986,48 @@
       "text": "**What object from the past does your protagonist possess or know about?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Object",
-          ""
-        ],
-        [
-          "Its history",
-          ""
-        ],
-        [
-          "What it means to them",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What object from the past does your protagonist possess or know about? What is its history, and what does it mean to them?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
       "text": "**What about your love interest?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Object",
-          ""
-        ],
-        [
-          "Its history",
-          ""
-        ],
-        [
-          "What it means to them",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What object from the past does your love interest possess or know about? What is its history, and what does it mean to them?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2282,22 +2149,24 @@
       "text": "**What does each character's bloodline mean?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "Heritage and What It Grants or Demands"
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love Interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What does each character's bloodline or heritage mean in your world? What does it grant them, and what does it demand of them?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2413,26 +2282,24 @@
       "text": "Atrocities create wounds that don't heal with time. They raise questions of guilt, responsibility, and whether forgiveness is possible."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What happened",
-          ""
-        ],
-        [
-          "Who committed them",
-          ""
-        ],
-        [
-          "Who suffered",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Did either side in your world's historical conflicts commit atrocities? What happened, who committed them, and who suffered?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2443,22 +2310,24 @@
       "text": "Perpetrators and victims remember differently. Understanding both perspectives deepens your enemies-to-lovers tension."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Group",
-        "How They Remember"
-      ],
-      "rows": [
-        [
-          "By the perpetrators",
-          ""
-        ],
-        [
-          "By the victims",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How do the perpetrators remember the atrocity? How do the victims remember it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2610,26 +2479,24 @@
       "text": "What can they throw at the love interest during their worst arguments? Their family name? Their people's crimes? Their species' history of oppression?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "The weapon",
-          ""
-        ],
-        [
-          "When they use it",
-          ""
-        ],
-        [
-          "What it's really about (the fear underneath)",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What historical ammunition does your protagonist carry? What can they throw at the love interest during their worst arguments, when do they use it, and what fear underlies it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2640,26 +2507,24 @@
       "text": "What's their trump card? What historical fact can they invoke that the protagonist has no answer for?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "The weapon",
-          ""
-        ],
-        [
-          "When they use it",
-          ""
-        ],
-        [
-          "What it's really about (the fear underneath)",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What historical ammunition does your love interest carry? What's their trump card, when do they use it, and what fear underlies it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2723,42 +2588,24 @@
       "text": "**Does your story include a history-reveal scene?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Which character reveals?",
-          ""
-        ],
-        [
-          "What history do they share?",
-          ""
-        ],
-        [
-          "What triggers the reveal? (crisis, intimacy, accusation, discovery)",
-          ""
-        ],
-        [
-          "Where does it happen? (the \"confessional container\")",
-          ""
-        ],
-        [
-          "How does the listener react? (touch, withdrawal, anger, reassessment)",
-          ""
-        ],
-        [
-          "Does it bring them closer or drive them apart?",
-          ""
-        ],
-        [
-          "Is it a repair confession or an identity rupture?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Plan your history-reveal scene: Which character reveals hidden history, and what do they share? What triggers the reveal (crisis, intimacy, accusation)? Where does it happen? How does the listener react? Does it bring them closer or drive them apart? Is it a repair confession or an identity rupture?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2769,45 +2616,24 @@
       "text": "The best reveals follow a specific architecture. Use the prose above to check that your reveal has all the structural elements that make it land."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Element",
-        "Your Scene",
-        "Check"
-      ],
-      "rows": [
-        [
-          "The trigger (what forces the reveal)",
-          "",
-          ""
-        ],
-        [
-          "The confessional container (where it happens — small, private, public performance eliminated)",
-          "",
-          ""
-        ],
-        [
-          "The cost to the speaker (what it costs them to share this)",
-          "",
-          ""
-        ],
-        [
-          "The listener's observable response (not just internal — what do they DO?)",
-          "",
-          ""
-        ],
-        [
-          "The changed dynamic (how do they relate differently after?)",
-          "",
-          ""
-        ],
-        [
-          "Space to process (does the listener get to withdraw and choose to return?)",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Map the architecture of your history-reveal scene: What forces the reveal? Where does it happen (a small, private space)? What does it cost the speaker to share? What does the listener observably do in response? How does their dynamic change afterward? Does the listener get space to process and choose to return?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2901,40 +2727,24 @@
       "text": "The reconciliation between your characters needs to work on multiple levels. If they get together personally but the world doesn't change, readers feel cheated. Map how you're planning to earn it."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Requirement",
-        "How Your Story Meets It"
-      ],
-      "example_rows": [
-        [
-          "Reciprocal sacrifice",
-          "e.g., ACOTAR: Feyre gives up her human life; Rhysand gives up his secrecy and isolation"
-        ]
-      ],
-      "rows": [
-        [
-          "Reciprocal sacrifice",
-          ""
-        ],
-        [
-          "Time and pacing",
-          ""
-        ],
-        [
-          "A shared enemy or shared truth",
-          ""
-        ],
-        [
-          "Public and private resolution",
-          ""
-        ],
-        [
-          "Structural change",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How does your romance earn its reconciliation? For each element -- reciprocal sacrifice, gradual pacing, a shared enemy or truth, both public and private resolution, and structural change in the world -- describe how your story delivers.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2996,28 +2806,24 @@
       "text": "A reconciliation that comes at no cost is unearned. The larger the historical weight, the larger the price tag. What do your characters lose, sacrifice, or fundamentally change about themselves in order to be together?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "What They Sacrifice or Lose"
-      ],
-      "example_rows": [
-        [
-          "Protagonist",
-          "e.g., The Bridge Kingdom: Lara loses her family's trust and her identity as a spy; she must fight to free the kingdom she helped destroy"
-        ]
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love Interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What does reconciliation cost your protagonist? What does it cost your love interest? The larger the historical weight, the larger the price.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -3039,26 +2845,24 @@
       "text": "**Is either of your characters a long-lived being?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Which character",
-          ""
-        ],
-        [
-          "How old",
-          ""
-        ],
-        [
-          "What history they've lived through",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Is either character a long-lived being? Who are they, how old are they, and what history have they personally lived through?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -3073,56 +2877,48 @@
       "text": "**The ancient character:**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Question",
-        "Answer"
-      ],
-      "rows": [
-        [
-          "What historical patterns have they seen repeat?",
-          ""
-        ],
-        [
-          "What have they lost over centuries?",
-          ""
-        ],
-        [
-          "What makes them cynical, or gives them hope?",
-          ""
-        ],
-        [
-          "Do they see the mortal as another loss waiting to happen?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**For your ancient character: What historical patterns have they seen repeat? What have they lost over centuries? What makes them cynical or gives them hope? Do they see the mortal partner as another loss waiting to happen?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
       "text": "**The mortal character:**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Question",
-        "Answer"
-      ],
-      "rows": [
-        [
-          "What does it mean to love someone who's seen centuries?",
-          ""
-        ],
-        [
-          "Do they feel insignificant? Or do they bring something the ancient one has lost?",
-          ""
-        ],
-        [
-          "Are they aware of their own mortality in the relationship?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**For your mortal character: What does it mean to love someone who's seen centuries? Do they feel insignificant, or do they bring something the ancient one has lost? Are they aware of their own mortality in the relationship?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",

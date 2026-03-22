@@ -102,19 +102,19 @@ Not every magical ability needs to directly advance the romance. Winnowing in #e
 #hint[Most romances use two or three patterns simultaneously. Identifying yours now helps you write scenes where the tension is specific and earned rather than generic. If you're not sure yet, pick the one that excites you most.]
 
 
-#open-table(
-  headers: ("Pattern", "How It Shows Up in Your Story"),
-  example-rows: (
-    ([Example: Dangerous Power], [Violet's lightning could kill Xaden — he's the only person who trusts her enough to stand beside her when she's fully charged]),
-  ),
-  rows: (
-    ([], []),
-    ([], []),
-    ([], []),
-  ),
-  row-height: 75pt,
-  fill-strategy: "wider_rows",
-)
+#strong[Which romance-magic patterns from the list above apply to your story? For each one you're using, describe how it shows up between your characters.]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 === Character Pairing Dynamics
@@ -139,17 +139,19 @@ Not every magical ability needs to directly advance the romance. Winnowing in #e
 #hint[If none of these fit exactly, describe your own. The important thing is naming the built-in tension your pairing creates, because that tension will drive scenes before you've written a single line of dialogue.]
 
 
-#open-table(
-  headers: ("Your Pairing Dynamic", "How It Creates Tension in Your Story"),
-  example-rows: (
-    ([Example: Powerful + Powerless], [He could destroy her with a thought — and she's the only person brave enough to tell him he's wrong]),
-  ),
-  rows: (
-    ([], []),
-  ),
-  row-height: 75pt,
-  fill-strategy: "wider_rows",
-)
+#strong[What is the magical pairing dynamic between your leads (from the archetypes above), and how does it create specific tension in your story?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == A Note Before You Begin
@@ -373,19 +375,19 @@ If it's learned, who controls access to that knowledge, and who's excluded? Cont
 Who holds more magical, political, or physical power? Power imbalances create tension, so show it through interaction dynamics. Who waits for whom? Who has to ask permission? Whose comfort is automatically prioritised?
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([Protagonist's magical status], [Example: Newly Made Fae with unpredictable, untrained powers from all seven courts]),
-    ([Love Interest's magical status], [Example: Most powerful High Lord in history with centuries of control]),
-  ),
-  rows: (
-    ([Protagonist's magical status], []),
-    ([Love Interest's magical status], []),
-    ([What this means for their dynamic], []),
-  ),
-  row-height: 60pt,
-)
+#strong[What is your protagonist's magical status? What is your love interest's magical status? What does the gap (or lack of one) between them mean for their dynamic?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[If there's a power gap, what does the less powerful person bring that the powerful one needs?]
@@ -1008,62 +1010,50 @@ Limitations can protect or obstruct love. Can magic reveal truth, or does it for
 )
 
 
-== Scale, Power & Specialisations
+#block(breakable: false)[
 
+== Scale, Power & Specialisations
 
 Not all magic users are created equal, and not all magic is the same flavour. Understanding the range of power and the types of magic helps you place your characters and set stakes appropriately.
 
-
 #strong[What's the range of magical power in your world?]
-
 
 #hint[Establishing the floor and ceiling of power helps you set stakes. If your protagonist is the most powerful being alive, tension has to come from somewhere other than "will they be strong enough?" If they're among the weakest, every magical encounter is dangerous.]
 
+#strong[What does the weakest magic user in your world look like? What about the strongest? Establishing the floor and ceiling of power helps you set stakes.]
 
-#structured-table(
-  headers: ("Level", "Description"),
-  example-rows: (
-    ([Weakest magic user], [A hedge witch who can coax plants to grow faster — useful but not feared]),
-    ([Strongest magic user], [The High Lord of the Night Court, who can crush minds and winnow between worlds]),
-  ),
-  rows: (
-    ([Weakest magic user], []),
-    ([Strongest magic user], []),
-  ),
-  row-height: 60pt,
-)
+#hint[(Write your answer below)]
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #strong[Where do your protagonist and love interest fall on this scale?]
 
-
 #hint[The gap (or lack of one) between your leads shapes their entire dynamic. Equally matched characters negotiate; imbalanced ones navigate trust, protection, and the risk of resentment.]
 
+#strong[Where do your protagonist and love interest fall on the power scale you just described? How does the gap (or lack of one) between them shape their dynamic?]
 
-#structured-table(
-  headers: ("Character", "Power Level"),
-  example-rows: (
-    ([Protagonist], [Example: Mid-range but growing — untrained potential that frightens established powers]),
-    ([Love Interest], [Example: At the ceiling — the strongest in a generation, but the power isolates him]),
-  ),
-  rows: (
-    ([Protagonist], []),
-    ([Love Interest], []),
-  ),
-  row-height: 60pt,
-)
+#hint[(Write your answer below)]
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 #strong[Is raw power the only measure of magical strength?]
 
-
 Or can skill, creativity, knowledge, or cleverness make a "weaker" user formidable?
-
 
 #writing-box(
   label: "Your Answer",
   height: 145pt,
 )
+
+]
 
 
 #strong[What's the most impressive feat of magic in your world's history?]
@@ -1156,24 +1146,19 @@ In #emph[Gideon the Ninth], Harrow is a necromancer who works with bones and dea
 #hint[This is a first sketch — we'll explore opposition and incompatibility in depth later. For now, map the basics of how your characters' magic relates.]
 
 
-#structured-table(
-  headers: ("Aspect", "Details"),
-  example-rows: (
-    ([Protagonist's magic], [Example: Necromancy — works with bones, death, and spirit manipulation]),
-    ([Love Interest's magic], [Example: No magic at all — a cavalier whose role is physical protection]),
-    ([How they might clash], [Example: The magic demands partnership, but their history demands distance]),
-    ([How they might complement], [Example: Her magical power needs his physical protection; his loyalty needs her strategic mind]),
-    ([What this means for the romance], [Example: They're designed to work together but can't trust each other — every moment of cooperation feels like surrender]),
-  ),
-  rows: (
-    ([Protagonist's magic], []),
-    ([Love Interest's magic], []),
-    ([How they might clash], []),
-    ([How they might complement], []),
-    ([What this means for the romance], []),
-  ),
-  row-height: 60pt,
-)
+#strong[How might your leads' magic interact? Describe each character's magic, how their abilities might clash, how they might complement each other, and what this means for the romance.]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Magical Creatures, Familiars & Companions
@@ -3046,18 +3031,19 @@ Underground magic users, rebel factions, hidden communities, black markets?
 #strong[Where do your characters stand in relation to magical authority?]
 
 
-#structured-table(
-  headers: ("Character", "Position on Magical Authority", "What This Costs Them"),
-  example-rows: (
-    ([Protagonist], [Example: Hunted — her magic is illegal under current law], [Must hide her abilities from everyone, including the man she's falling for]),
-    ([Love Interest], [Example: Enforcer — he's sworn to capture people like her], [His duty directly conflicts with his growing attachment]),
-  ),
-  rows: (
-    ([Protagonist], [], []),
-    ([Love Interest], [], []),
-  ),
-  row-height: 60pt,
-)
+#strong[Where does your protagonist stand in relation to magical authority (hunted, enforcer, exempt, hidden)? Where does your love interest stand? What does each position cost them, and how might their positions create tension or force alliance?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[How might their positions regarding magical authority create tension between them, or force them into alliance?]
@@ -3199,21 +3185,19 @@ How does your magic system connect to the rest of your world?
 #hint[Your magic doesn't exist in isolation. Use the reference table above for inspiration, then fill in how your magic connects to each element. Skip any that don't apply.]
 
 
-#structured-table(
-  headers: ("System", "How Magic Connects in Your World", "How This Affects Your Leads"),
-  example-rows: (
-    ([Geography], [Example: Power is strongest near the mountain shrines — which are in enemy territory], [They can only train together in dangerous locations]),
-  ),
-  rows: (
-    ([Geography], [], []),
-    ([Government & Law], [], []),
-    ([Religion & Belief], [], []),
-    ([Culture & Custom], [], []),
-    ([Economy & Trade], [], []),
-    ([History], [], []),
-  ),
-  row-height: 60pt,
-)
+#strong[How does your magic system connect to the rest of your world? For each relevant system (geography, government, religion, culture, economy, history), describe how magic integrates and how that integration affects your leads.]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #structured-table(

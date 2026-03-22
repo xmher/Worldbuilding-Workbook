@@ -299,19 +299,19 @@ Physical prowess, magical power, test scores, combat victories, political connec
 #strong[Your academy's ranking structure:]
 
 
-#structured-table(
-  headers: ("Rank/Level", "What They Get or Lose", "How This Affects the Romance"),
-  example-rows: (
+#strong[In your academy's ranking system, what do those at the top get and what happens to those at the bottom? Where does your protagonist sit in the hierarchy, and where does your love interest sit? How does the gap between them create tension?]
 
-  ),
-  rows: (
-    ([Privileges at the top:], [], []),
-    ([Consequences at the bottom:], [], []),
-    ([Where your protagonist sits:], [], []),
-    ([Where your love interest sits:], [], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[How does ranking create tension between your characters?]
@@ -460,19 +460,19 @@ What defines "inappropriate" in your court? Private conversation? Touching? Bein
 #hint[(Reference Section 5 for class structures)]
 
 
-#structured-table(
-  headers: ("Position", "Description"),
-  example-rows: (
+#strong[Where does each character rank in the court hierarchy? What is your protagonist's position (title, access, limitations) and your love interest's position?]
 
-  ),
-  rows: (
-    ([Queen's Inner Circle (example)], [Twelve advisors with private audience rights; love interest is the youngest member ever appointed, causing resentment]),
-    ([Lady-in-Waiting (example)], [Protagonist's cover position; grants access to royal quarters but no political voice; must attend the princess constantly]),
-    ([Protagonist's position:], []),
-    ([Love interest's position:], []),
-  ),
-  row-height: 75pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #block(breakable: false)[
@@ -624,18 +624,19 @@ Is death a real possibility they face? How does this urgency affect what they're
 Soldier, commander, medic, strategist, prisoner, spy, conscript, mercenary, support staff?
 
 
-#structured-table(
-  headers: ("---", "---"),
-  example-rows: (
+#strong[What is your protagonist's military role (rank, unit, how they earned it)? What is your love interest's military role? How do their roles create power dynamics or romantic obstacles?]
 
-  ),
-  rows: (
-    ([War Mage (example)], [Love interest is assigned to protagonist's unit as magical support; outranks her in magic but answers to her in battle]),
-    ([Protagonist:], []),
-    ([Love interest:], []),
-  ),
-  row-height: 75pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What rules govern relationships between ranks?]
@@ -1361,19 +1362,19 @@ The balance of power in a captivity romance is what determines if the story live
 This is the essential question. In every successful captivity romance, the captive must gain some form of leverage, whether through discovering her own power (Feyre gaining High Lord abilities, Poppy discovering her Atlantian heritage, Emilia realising she's a Star Witch), through acquiring information the captor needs, or through the captor's own transformation from seeing the captive as a tool to seeing her as a person. By the time the story ends, both parties must be able to see each other as equals. If they don't, you've got a control story, not a love story.
 
 
-#structured-table(
-  headers: ("", ""),
-  example-rows: (
+#strong[In your captivity dynamic, who holds power at the start? What shifts the balance? When do they become equals? What proves the shift is real (not just the captor being 'nicer')?]
 
-  ),
-  rows: (
-    ([Who holds power at the start:], []),
-    ([What shifts the balance:], []),
-    ([When do they become equals:], []),
-    ([What proves the shift is real (not just the captor being "nicer"):], []),
-  ),
-  row-height: 65pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 === Forced Proximity in Captivity
@@ -1663,17 +1664,19 @@ The reality beneath the ideal: control, exploitation, preservation of power, som
 Are they idealists who believe in the mission? Cynics who see the truth? One of each? Do their views change?
 
 
-#structured-table(
-  headers: ("", ""),
-  example-rows: (
+#strong[Does your protagonist believe in the institution's stated purpose, or do they see the reality beneath? What about your love interest? Are they idealists, cynics, or one of each?]
 
-  ),
-  rows: (
-    ([Protagonist:], []),
-    ([Love interest:], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[What happens when they see behind the curtain?]

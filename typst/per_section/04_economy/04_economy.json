@@ -65,43 +65,24 @@
       "text": "**What's on your characters' Invisible Ledger?**"
     },
     {
-      "type": "open_table",
-      "headers": [
-        "What's Been Given or Received",
-        "Who Gave",
-        "Who Owes",
-        "How It Feels"
-      ],
-      "example_rows": [
-        [
-          "Healed her arm Under the Mountain — saved her life",
-          "Rhysand",
-          "Feyre",
-          "She's grateful but uneasy; she can't repay a life, and every gift after this one adds to a debt she didn't choose"
-        ]
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      "type": "prose",
+      "text": "**Map the emotional debt between your characters. What has been given or received, who gave, who owes, and how does the debt feel?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -182,30 +163,24 @@
       "text": "Imbalance, pressure, and transaction often overlap, but one usually dominates. Naming it helps you write it with intention rather than accidentally."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Mechanism",
-        "How It Shows Up in Your Story",
-        "Which Scenes Does It Drive?"
-      ],
-      "rows": [
-        [
-          "Economic Imbalance (one has more)",
-          "",
-          ""
-        ],
-        [
-          "Economic Pressure (necessity forces choices)",
-          "",
-          ""
-        ],
-        [
-          "Economic Transaction (resources pass between them)",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Which economic mechanisms drive your romance — imbalance (one has more), pressure (necessity forces choices), or transaction (resources pass between them)? How does each show up, and which scenes does it drive?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -1109,33 +1084,24 @@
       "text": "**What resources are scarce or valuable?**"
     },
     {
-      "type": "open_table",
-      "headers": [
-        "Resource",
-        "Why It's Valuable",
-        "Who Controls It"
-      ],
-      "example_rows": [
-        [
-          "Starlight ore (magical metal)",
-          "Only material that holds enchantments; weapons and wards require it",
-          "The Fae courts control the only known mines — humans must trade or steal"
-        ]
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      "type": "prose",
+      "text": "**What is the most valuable resource in your world? Why is it valuable, and who controls it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1350,49 +1316,24 @@
       "text": "List occupations that appear or matter in your story:"
     },
     {
-      "type": "open_table",
-      "headers": [
-        "Occupation",
-        "What They Do",
-        "Social Status",
-        "Who Does This Work"
-      ],
-      "example_rows": [
-        [
-          "Healer/herbalist",
-          "Treats illness and injury using herbs, poultices, and minor magic",
-          "Respected but feared — people need them but don't trust them",
-          "Usually women; often solitary or marginalised"
-        ]
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      "type": "prose",
+      "text": "**Describe 2-3 key occupations in your world. For each, what do they do, what is their social status, and who typically does this work?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1505,30 +1446,24 @@
       "text": "Work shapes who we become. What skills, knowledge, and worldview has their occupation given them?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Occupation",
-          ""
-        ],
-        [
-          "Skills learned through work",
-          ""
-        ],
-        [
-          "How the work shows on their body (calluses, scars, ink-stained fingers)",
-          ""
-        ],
-        [
-          "What they notice that others don't (because of their training)",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Describe your protagonist's occupation: What do they do? What skills have they learned through work? How does the work show on their body? What do they notice that others don't because of their training?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1539,30 +1474,24 @@
       "text": "How does their work connect to or conflict with your protagonist's world? Do their occupations create proximity or distance?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Occupation",
-          ""
-        ],
-        [
-          "Skills learned through work",
-          ""
-        ],
-        [
-          "How the work shows on their body (calluses, scars, ink-stained fingers)",
-          ""
-        ],
-        [
-          "What they notice that others don't (because of their training)",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Describe your love interest's occupation: What do they do? What skills have they learned through work? How does the work show on their body? What do they notice that others don't because of their training?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -1580,36 +1509,24 @@
       "text": "Their economic position shapes what they worry about, what they dream of, and what they would sacrifice for security or freedom."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "example_rows": [
-        [
-          "Economic status (wealthy, comfortable, struggling, poor)",
-          "Struggling — earns enough to eat but one bad month from disaster"
-        ]
-      ],
-      "rows": [
-        [
-          "Economic status (wealthy, comfortable, struggling, poor)",
-          ""
-        ],
-        [
-          "Source of income/survival",
-          ""
-        ],
-        [
-          "Economic security (stable, precarious, desperate)",
-          ""
-        ],
-        [
-          "Economic autonomy (independent, dependent, controlled)",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Describe your protagonist's economic position: What is their economic status, source of income, economic security, and economic autonomy?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1620,36 +1537,24 @@
       "text": "How does their economic reality differ from your protagonist's? What assumptions do they make about money that might clash or align?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "example_rows": [
-        [
-          "Economic status",
-          "Wealthy — heir to an estate, never worried about money a day in his life"
-        ]
-      ],
-      "rows": [
-        [
-          "Economic status",
-          ""
-        ],
-        [
-          "Source of income/survival",
-          ""
-        ],
-        [
-          "Economic security",
-          ""
-        ],
-        [
-          "Economic autonomy",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Describe your love interest's economic position: What is their economic status, source of income, economic security, and economic autonomy?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1739,32 +1644,24 @@
       "text": "Shame? Guilt? Obliviousness? Resentment? These feelings may never be spoken aloud, but they shape every interaction."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "How They Feel About the Gap",
-        "How They Show It (or Hide It)"
-      ],
-      "example_rows": [
-        [
-          "Wealthier character",
-          "Guilty — knows the gap is unfair but doesn't know how to close it without being patronising",
-          "Offers help indirectly; pretends things cost less than they do"
-        ]
-      ],
-      "rows": [
-        [
-          "Wealthier character",
-          "",
-          ""
-        ],
-        [
-          "Less wealthy character",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How does each character feel about the wealth gap between them, and how do they show it (or hide it)?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -1923,38 +1820,24 @@
       "text": "How is marriage negotiated? What does each party bring to the arrangement, and what do they stand to lose?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Who negotiates the marriage? (families, rulers, the couple themselves)",
-          ""
-        ],
-        [
-          "What does the bride's side provide? (dowry, land, political alliance, magical ability)",
-          ""
-        ],
-        [
-          "What does the groom's side provide? (bride price, protection, title, territory)",
-          ""
-        ],
-        [
-          "What happens financially if the marriage dissolves?",
-          ""
-        ],
-        [
-          "Is consummation required to make the contract binding?",
-          ""
-        ],
-        [
-          "Can the contract be broken, and what is the cost?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Describe the economics of marriage in your world: Who negotiates? What does each side provide (dowry, bride price, alliance)? What happens financially if the marriage dissolves? Is consummation required? Can the contract be broken, and at what cost?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2002,38 +1885,24 @@
       "text": "**If your world uses magical contracts or bonds, define the terms:**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Contract Element",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What kind of bond or contract binds them? (bargain, mating bond, oath, soul contract, political alliance)",
-          ""
-        ],
-        [
-          "Who initiated it, and why?",
-          ""
-        ],
-        [
-          "What are the exact terms?",
-          ""
-        ],
-        [
-          "What happens if someone breaks it? (magical backlash, death, loss of power, political fallout)",
-          ""
-        ],
-        [
-          "Is consummation required? What changes if they consummate?",
-          ""
-        ],
-        [
-          "Can the bond be felt physically or mentally? How?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**If your characters are bound by a contract, bargain, or magical bond: What kind of bond is it? Who initiated it and why? What are the exact terms? What happens if someone breaks it? Is consummation required? Can the bond be felt physically or mentally?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2052,25 +1921,24 @@
       "text": "This is the romantic turning point. The obligation hasn't changed, but the motivation has. When does \"I have to be here\" become \"I want to be here\"? How does each character recognise that shift, in themselves or in the other?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "When Does the Contract Stop Being the Reason?",
-        "How Do They Realise It?"
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          "",
-          ""
-        ],
-        [
-          "Love Interest",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**For each character: When does the contract or arrangement stop being the reason they stay, and how do they realise it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -2081,28 +1949,24 @@
       "text": "**What does each character stand to inherit?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "Inheritance"
-      ],
-      "example_rows": [
-        [
-          "Protagonist",
-          "Nothing — youngest daughter of a disgraced family, written out of the will"
-        ]
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love Interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What does each character stand to inherit — or what have they been denied?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2179,40 +2043,24 @@
       "text": "Debt creates obligation, and obligation clouds consent. Does debt to the love interest (or a third party) complicate the romance?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "example_rows": [
-        [
-          "To whom",
-          "The merchant guild — her mother borrowed to open a shop and died before repaying"
-        ]
-      ],
-      "rows": [
-        [
-          "To whom",
-          ""
-        ],
-        [
-          "For what (money, life saved, magical service)",
-          ""
-        ],
-        [
-          "What happens if they can't repay",
-          ""
-        ],
-        [
-          "Is the debt magically enforced? How?",
-          ""
-        ],
-        [
-          "How does the debt affect their ability to say no, or yes, to the romance?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**If a character carries a debt: To whom is it owed? For what? What happens if they can't repay? Is it magically enforced? How does the debt affect their ability to say yes or no to the romance?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2304,32 +2152,24 @@
       "text": "Marriage for money? Employment? Alliance for mutual benefit?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "example_rows": [
-        [
-          "The arrangement",
-          "Marriage of convenience — she needs his title, he needs her family's trade connections"
-        ]
-      ],
-      "rows": [
-        [
-          "The arrangement",
-          ""
-        ],
-        [
-          "Why it's necessary",
-          ""
-        ],
-        [
-          "What each party gets",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**If your characters have an economic arrangement (marriage of convenience, etc.), describe: What is the arrangement? Why is it necessary? What does each party get?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2371,22 +2211,24 @@
       "text": "**If offered money to abandon the relationship, what would each character do?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "Response"
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love Interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How does each character respond to the economic arrangement — what do they feel about it?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -2408,34 +2250,24 @@
       "text": "**Does one character employ the other?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "Who employs whom?",
-          ""
-        ],
-        [
-          "What is the nature of the employment? (hired, bonded, indentured, appointed)",
-          ""
-        ],
-        [
-          "Can the employee leave freely?",
-          ""
-        ],
-        [
-          "What would the employee lose by refusing the employer's advances?",
-          ""
-        ],
-        [
-          "What would the employee lose by accepting?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**If one character employs the other: Who employs whom? What is the nature of the employment? Can the employee leave freely? What would they lose by refusing advances? What would they lose by accepting?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2636,22 +2468,24 @@
       "text": "**Before the relationship, how economically independent is each character?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "Economic Independence"
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love Interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How economically independent is each character? Could they survive on their own?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2808,16 +2642,24 @@
       "text": "How would each character answer the question \"Is this love or is this a good deal?\""
     },
     {
-      "type": "open_table",
-      "headers": [
-        "Character",
-        "What They Tell Themselves",
-        "What They're Afraid Might Be True"
-      ],
-      "example_rows": [],
-      "rows": [],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      "type": "prose",
+      "text": "**What does each character tell themselves about the economic dimension of the relationship, and what are they afraid might actually be true?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2860,28 +2702,24 @@
       "text": "What inheritance, income, protection, or opportunity do they lose by choosing each other? The sacrifice should cost enough to prove the love is real."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Character",
-        "What They Sacrifice"
-      ],
-      "example_rows": [
-        [
-          "Protagonist",
-          "Her position at the academy — expelled for the relationship, losing her only path out of poverty"
-        ]
-      ],
-      "rows": [
-        [
-          "Protagonist",
-          ""
-        ],
-        [
-          "Love Interest",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**What does each character sacrifice economically to be together?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -3022,45 +2860,24 @@
       "text": "Don't skip this. The most powerful romantic endings show the cost in concrete, daily terms. Map what changes for each character."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "After the Choice",
-        "Protagonist",
-        "Love Interest"
-      ],
-      "rows": [
-        [
-          "Where do they live?",
-          "",
-          ""
-        ],
-        [
-          "What do they eat? (Every day, not at feasts)",
-          "",
-          ""
-        ],
-        [
-          "Who do they still have access to? (Friends, family, allies)",
-          "",
-          ""
-        ],
-        [
-          "Who has shut them out?",
-          "",
-          ""
-        ],
-        [
-          "What do they miss most from their former life?",
-          "",
-          ""
-        ],
-        [
-          "What surprised them about their new reality?",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**After your characters choose each other over economic security: Where do they live? What do they eat every day? Who do they still have access to? Who has shut them out? What do they miss most? What surprised them about their new reality?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -3071,35 +2888,24 @@
       "text": "Partners from different backgrounds will clash over spending. This isn't a flaw to fix. It's a source of ongoing, realistic tension that makes the relationship feel lived-in."
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Money Question",
-        "Character Who Grew Up With Less",
-        "Character Who Grew Up With More"
-      ],
-      "rows": [
-        [
-          "What do they spend freely on?",
-          "",
-          ""
-        ],
-        [
-          "What do they refuse to spend on?",
-          "",
-          ""
-        ],
-        [
-          "What purchase would start an argument?",
-          "",
-          ""
-        ],
-        [
-          "How do they feel about accepting help from others?",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**How do your characters' different financial backgrounds show up in daily life? For the one who grew up with less and the one with more: What do they spend freely on? What do they refuse to spend on? What purchase would start an argument? How do they feel about accepting help?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -3199,33 +3005,24 @@
       "text": "Desperation doesn't just create backstory — it creates present-tense romantic tension. A character who can't eat tomorrow makes different choices about love than one who's comfortable. Map how survival needs warp the romantic dynamic."
     },
     {
-      "type": "open_table",
-      "headers": [
-        "Survival Pressure",
-        "How It Affects the Romance",
-        "Scene Where This Is Felt"
-      ],
-      "example_rows": [
-        [
-          "Can't afford medicine → accepts help from love interest",
-          "Gratitude that feels dangerously close to obligation; she resents needing him",
-          "He pays the healer without asking; she finds out and they fight — not about money, but about what accepting means"
-        ]
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      "type": "prose",
+      "text": "**How does survival-level economic pressure affect the romance? Describe a specific pressure, how it affects the relationship, and a scene where this is felt.**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -3334,75 +3131,48 @@
       "text": "\"Morally grey\" isn't a personality trait — it's a decision in a specific moment. The best criminal romances put the character at a fork where both paths cost something real. What's the fork for your character, and what does their choice reveal about what they value more than profit?"
     },
     {
-      "type": "open_table",
-      "headers": [
-        "Character",
-        "The Moral Fork (two options, both costly)",
-        "What They Choose",
-        "What It Costs",
-        "What It Reveals to Their Partner"
-      ],
-      "example_rows": [
-        [
-          "Kaz Brekker",
-          "Use Inej as bait to complete the heist vs. protect her and risk the job",
-          "Protects her — abandons the optimal plan",
-          "Weakened negotiating position; crew sees his vulnerability",
-          "Inej learns she matters more than the job — but also that he made a tactical calculation about it first"
-        ]
-      ],
-      "rows": [
-        [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      "type": "prose",
+      "text": "**Describe a moral fork your character faces — two options, both costly. What do they choose, what does it cost, and what does it reveal to their partner?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
       "text": "**Does either character operate outside the law?**"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Aspect",
-        "Details"
-      ],
-      "rows": [
-        [
-          "What illegal activity are they involved in?",
-          ""
-        ],
-        [
-          "What organisation do they belong to? (gang, guild, crew, solo)",
-          ""
-        ],
-        [
-          "What code or rules govern their criminal world?",
-          ""
-        ],
-        [
-          "What would their lover lose by being associated with them?",
-          ""
-        ],
-        [
-          "What moral line would they refuse to cross, even for profit?",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**If a character is involved in criminal activity: What illegal activity? What organisation? What code governs their criminal world? What would their lover lose by association? What moral line would they refuse to cross?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -3421,34 +3191,24 @@
       "text": "If one character operates outside the law, they're keeping secrets. Map the disclosure arc: what do they withhold, what do they reveal, and when does revealing a secret become the romantic turning point?"
     },
     {
-      "type": "structured_table",
-      "headers": [
-        "Stage",
-        "What They're Hiding",
-        "What They Reveal",
-        "What It Costs Them to Reveal It"
-      ],
-      "rows": [
-        [
-          "Early (walls up)",
-          "",
-          "",
-          ""
-        ],
-        [
-          "Middle (cracks forming)",
-          "",
-          "",
-          ""
-        ],
-        [
-          "Turning point (full vulnerability)",
-          "",
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt"
+      "type": "prose",
+      "text": "**Describe how the criminal character's walls come down across three stages (early, middle, turning point): What are they hiding, what do they reveal, and what does each revelation cost them?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -3467,33 +3227,24 @@
       "text": "Some criminal romances end with the characters leaving the life. But leaving has a price: lost allies, lost income, lost identity. If your characters went straight, what would they lose?"
     },
     {
-      "type": "open_table",
-      "headers": [
-        "What They'd Lose by Going Legitimate",
-        "What They'd Gain"
-      ],
-      "example_rows": [
-        [
-          "Kaz: his network, his reputation, his leverage over half the Barrel, his identity as Dirtyhands",
-          "The possibility of touching Inej without armour — emotional and literal"
-        ]
-      ],
-      "rows": [
-        [
-          "",
-          ""
-        ],
-        [
-          "",
-          ""
-        ],
-        [
-          "",
-          ""
-        ]
-      ],
-      "row_height": "55pt",
-      "fill_strategy": "wider_rows"
+      "type": "prose",
+      "text": "**If your criminal character went legitimate, what would they lose and what would they gain?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"

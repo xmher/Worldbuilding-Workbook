@@ -307,18 +307,19 @@ When using any magical romantic mechanism, the key craft question is this: #stro
 #hint[A bond that's politically inconvenient, culturally taboo, or historically feared creates far richer tension than one that exists in isolation. The more systems your bond touches, the more it costs to accept.]
 
 
-#open-table(
-  headers: ("System", "How It Interacts with the Bond", "Tension It Creates"),
-  example-rows: (
-    ([Politics (Section 5)], [Rhysand and Feyre's bond threatens the power balance between courts], [Accepting the bond means choosing an enemy's court]),
-  ),
-  rows: (
-    ([], [], []),
-    ([], [], []),
-  ),
-  row-height: 65pt,
-  fill-strategy: "wider_rows",
-)
+#strong[Which other worldbuilding systems (politics, culture, religion, history, economy) does your magical bond collide with? For each relevant system, describe how it interacts with the bond and what tension that creates.]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 === Testing Magic's Economic Impact
@@ -668,17 +669,19 @@ Poppy's role as the Maiden in #emph[From Blood and Ash] is defined by religious 
 #hint[This is one of the richest conflicts in romantasy. The strongest versions make both bonds feel legitimate — so breaking the sacred one costs something real.]
 
 
-#open-table(
-  headers: ("Sacred Bond", "Chosen Bond", "Why They Conflict", "What Breaking the Sacred Bond Costs"),
-  example-rows: (
-    ([Poppy's Maidenship (divine duty)], [Her love for Hawke], [Choosing Hawke is blasphemy, not just disobedience], [Her identity, her safety, the protection of her people]),
-  ),
-  rows: (
-    ([], [], [], []),
-  ),
-  row-height: 60pt,
-  fill-strategy: "wider_rows",
-)
+#strong[If your world distinguishes between 'sacred bonds' (arranged, ordained, prophesied) and 'chosen bonds' (personal love), describe both, why they conflict, and what breaking the sacred bond costs.]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[Are there religious authority figures who enforce these restrictions?]
@@ -711,19 +714,19 @@ Poppy's role as the Maiden in #emph[From Blood and Ash] is defined by religious 
 #hint[The best faith-based romantic obstacles are ones where choosing love requires the character to redefine what's sacred — not abandon faith entirely, but find a deeper truth within it.]
 
 
-#structured-table(
-  headers: ("How Love Interacts with Faith", "What It Costs the Character", "What It Reveals"),
-  example-rows: (
-    ([Violates a religious law (Poppy in FBAA)], [Loss of Maiden status; divine punishment; the identity she built her life around], [That the doctrine was about control, not protection — love reveals the system's true purpose]),
-  ),
-  rows: (
-    ([Breaks a sacred vow], [], []),
-    ([Fulfils an unexpected prophecy], [], []),
-    ([Proves a doctrine wrong], [], []),
-    ([Challenges a corrupt authority], [], []),
-  ),
-  row-height: 60pt,
-)
+#strong[How does your romance interact with your world's faith system? Does it violate a religious law, break a sacred vow, fulfil an unexpected prophecy, prove a doctrine wrong, or challenge a corrupt authority? What does this cost the character, and what does it reveal about the faith?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 === Daily Life and Difference
@@ -843,17 +846,19 @@ If a system isn't connected, don't panic. Don't leave it alone either. Below are
 #hint[Trace backward from the obstacle. The more systems you can connect to it, the more earned it feels.]
 
 
-#open-table(
-  headers: ("Your Biggest Romantic Obstacle", "System 1 That Generates It", "System 2", "System 3", "How They Compound"),
-  example-rows: (
-    ([Feyre and Rhys can't be seen together], [Politics — rival courts], [History — old war between Night and Spring], [Culture — fae mating customs are public], [Their bond is simultaneously a political threat, a historical betrayal, and a cultural spectacle]),
-  ),
-  rows: (
-    ([], [], [], [], []),
-  ),
-  row-height: 90pt,
-  fill-strategy: "wider_rows",
-)
+#strong[What is your biggest romantic obstacle? Trace it backward: which worldbuilding systems (politics, history, culture, magic, economy, religion) generate this obstacle, and how do they compound to make it feel earned?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #strong[Cascade:] Pick one worldbuilding decision and follow the ripple effects through at least three systems.
@@ -901,20 +906,19 @@ Choose one major worldbuilding element to test its connections:
 )
 
 
-#structured-table(
-  headers: ("System", "How Your Element Affects It", "Romantic Implications"),
-  example-rows: (
+#strong[Choose one major worldbuilding element and test its connections. How does it affect geography, economy, politics, culture, and your romance? If it doesn't connect to at least three of these, it might be decorative.]
 
-  ),
-  rows: (
-    ([Geography/Environment], [], []),
-    ([Economy], [], []),
-    ([Politics/Power], [], []),
-    ([Culture/Daily Life], [], []),
-    ([Your Romance], [], []),
-  ),
-  row-height: 60pt,
-)
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 #hint[If this element doesn't connect to at least three rows, it might be decorative. Deepen its integration or consider whether you need it.]
@@ -1391,23 +1395,19 @@ If no → Good. Worldbuilding is doing essential work.
 #strong[Does every major system connect to the romance?] Systems that don't connect may need reworking to serve the story, or might exist primarily for atmosphere rather than plot.
 
 
-#open-table(
-  headers: ("System", "Connects to Romance?", "How?", "Example"),
-  example-rows: (
-    ([Example: Politics (ACOTAR)], [☐ yes], [Court allegiances make Feyre and Rhys's bond a political threat], [Their union reshapes alliances between all seven courts]),
-  ),
-  rows: (
-    ([Magic (Section 10)], [☐ yes ☐ no], [], []),
-    ([Politics (Section 5)], [☐ yes ☐ no], [], []),
-    ([Economy (Section 4)], [☐ yes ☐ no], [], []),
-    ([Culture (Section 3)], [☐ yes ☐ no], [], []),
-    ([Religion (Section 6)], [☐ yes ☐ no], [], []),
-    ([Geography (Section 1)], [☐ yes ☐ no], [], []),
-    ([History (Section 7)], [☐ yes ☐ no], [], []),
-  ),
-  row-height: 65pt,
-  fill-strategy: "wider_rows",
-)
+#strong[For each major system you've built (magic, politics, economy, culture, religion, geography, history), does it connect to your romance? For any that don't, either strengthen the connection or acknowledge it exists for atmosphere.]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 If you answered "no" to any major system, that system might need reworking to serve the story, or it might be worldbuilding that exists for atmosphere rather than plot.

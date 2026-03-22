@@ -1291,17 +1291,19 @@ Some readers may enjoy the idea of a "safe harbour," the sense of knowing that t
 #hint[Based on where your bond sits on the spectrum, identify the specific agency work your story needs. Different positions require different solutions.]
 
 
-#open-table(
-  headers: ("Your spectrum position", "What your story needs most", "Your specific plan"),
-  example-rows: (
-    ([Example: Choice within fate], [A clear acceptance moment where the character consciously chooses the bond], [A food-offering scene in Chapter 18 where she decides after hearing his explanation — modelled on the ACOMAF soup scene]),
-  ),
-  rows: (
-    ([], [], []),
-  ),
-  row-height: 90pt,
-  fill-strategy: "wider_rows",
-)
+#strong[Where does your bond sit on the compulsion spectrum (full compulsion, choice within fate, or fate as conflict)? Based on that position, what does your story need most to preserve agency, and what is your specific plan to achieve it?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 === The Acceptance Ritual
@@ -1432,27 +1434,25 @@ If your removal tests or checklist revealed problems, here's where to fix them. 
 )
 
 
-#structured-table(
-  headers: ("Earlier Section", "What you built there", "Does it support agency here?", "If not, what needs to change?"),
-  example-rows: (
-    ([Example: Section 6 — Prophecy], [A prophecy that the "star-born heir" would unite two kingdoms through love], [Partially — it confirms but also creates pressure], [Make the prophecy vaguer so it's not a matchmaking decree]),
-  ),
-  rows: (
-    ([Section 6 — Religion, Myth & Prophecy], [], [], []),
-    ([Section 10 — Magic System], [], [], []),
-    ([Section 11 — Magic & Intimacy], [], [], []),
-    ([Section 13 — Pressure Cooker], [], [], []),
-    ([Section 5 — Government, Power & Law], [], [], []),
-    ([Section 14 — Institutions], [], [], []),
-    ([Section 16 — Obstacle Map], [], [], []),
-  ),
-  row-height: 60pt,
-  preamble: [
 == Integration Check: Does Your Agency Hold Up?
 
+
 #hint[This section pulled from nearly every earlier section in the workbook. Use this table to verify your agency answers are consistent with what you've already built.]
-],
-)
+
+
+#strong[Look back at the systems you built in earlier sections (Religion/Prophecy, Magic, Magic & Intimacy, Pressure Cooker, Government/Law, Institutions, and your Obstacle Map from Section 16). For each one that touches your romance, does it support character agency? If any undermine agency, what needs to change?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == The Agency Checklist

@@ -734,18 +734,19 @@ The story you're telling needs to run two clocks: one for the fantasy plot, one 
 #hint[Most romantasy deadlines can be fused by making the romantic choice necessary for the fantasy resolution, or vice versa. Look for the point where what the character must do for the world requires them to confront what they feel for each other.]
 
 
-#open-table(
-  headers: ("Fantasy Deadline", "Romance Deadline", "Possible Convergence Point", "What Choice Would Serve Both?"),
-  example-rows: (
-    ([War reaches Basgiath (Fourth Wing)], [Violet must decide whether to trust Xaden], [Battle where trusting him is the only way to survive], [She chooses to fly with him, which is both a military and emotional commitment]),
-  ),
-  rows: (
-    ([], [], [], []),
-    ([], [], [], []),
-  ),
-  row-height: 65pt,
-  fill-strategy: "wider_rows",
-)
+#strong[What is your fantasy plot deadline and your romantic plot deadline? Do they converge? If not, what point could fuse them -- where would the romantic choice and the fantasy choice become the same choice?]
+
+
+#hint[(Write your answer below)]
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+&nbsp;
 
 
 == Part Four: Character Knowledge and Information
