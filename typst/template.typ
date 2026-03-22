@@ -134,11 +134,12 @@
     )
     block(
       above: 2.5em,
-      below: 1.2em,
+      below: 0.6em,
       breakable: false,
     )[
+      #set par(spacing: 0pt)
       #it.body
-      #v(0.15em)
+      #v(2pt)
       #line(length: 100%, stroke: 2pt + color-accent)
     ]
   }
