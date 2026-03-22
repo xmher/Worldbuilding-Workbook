@@ -40,13 +40,15 @@ Create a religion that is important enough for your characters to fight for, aga
 ]
 
 
-== How to Think About Religion in Romantasy
+#block(breakable: false)[
 
+== How to Think About Religion in Romantasy
 
 Religion creates romantic tension through three channels, and each one operates at a different level:
 
-
 === The Three Channels of Religious Tension
+
+]
 
 
 #workbook-table(
@@ -114,19 +116,19 @@ If religion is background in your world, keep it simple. Not every romantasy nee
 ]
 
 
-== The Divine: Gods & Powers
+#block(breakable: false)[
 
+== The Divine: Gods & Powers
 
 The first thing you have to decide is if there are higher powers in your world and if they are true.
 
-
 The implications for your romance will be huge. If gods are confirmed and active, then "faith" isn't really faith anymore - it's recognition of fact. Characters will not be able to question whether miracles occur when miracles occur all the time. If gods are undetermined or absent, then characters may struggle with whether they believe at all, or if they just obey. And as far as the love story goes, this determines if defying the laws of the divine will result in the anger of a real being who may seek retaliation, or if breaking from tradition has no supernatural enforcement.
-
 
 How you define your theological structure creates the potential for various types of stories. With multiple gods available, characters can seek patronage from individual gods, use the deities against one another, or serve different masters. A world with one god provides clearer moral stakes but leaves less room for religious diversity.
 
-
 When you're writing devout characters, show faith through habit, not declaration. A devout character touches their holy symbol before danger, whispers a prayer when frightened, calls upon the name of their god while taking an oath. As a result of their faith, the way characters view events changes - that timely rescue did not occur by chance, it was providence. You don't need to explain the theology; let your characters live it. When writing characters of different faiths interacting, let their assumptions collide in small ways. Different words for good fortune. Different gestures of respect. Different things that feel sacred or profane. A person's faith will become evident in the things they're unwilling to do, what they're willing to sacrifice, and what comforts them when everything else fails.
+
+]
 
 
 #workbook-table(
@@ -232,37 +234,43 @@ Gods with overlapping domains create pantheon politics. A god of war and a god o
 Identify the gods or spiritual forces that exist in your world. Focus on those relevant to your story, because you don't need a complete pantheon, just the ones who matter. Think especially about which god's laws the romance violates, and which god might bless it.
 
 
-==== Deity/Power 1:
+#block(breakable: false)[
 
+==== Deity/Power 1:
 
 #strong[Describe your world's primary deity: What is their name? What do they govern? What is their personality/nature? What do they demand from followers? What do they offer in return?]
 
-
 #answer-box(
   height: 180pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 ==== Deity/Power 2:
 
-
 #strong[If your world has an opposing force or antagonist deity: What is their name? What do they govern? What is their nature? What do they demand? What do they offer?]
-
 
 #answer-box(
   height: 180pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 ==== Deity/Power 3 (if applicable):
 
-
 #strong[Is there a deity specifically relevant to your romance — a god of love, forbidden things, or liminal spaces? Describe their name, domain, personality, demands, and offerings.]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[Describe any additional deity important to your story: Name, domain, personality, demands, and offerings.]
@@ -359,27 +367,25 @@ Loss of power? Transformation? Curse? New and different magic? In systems where 
 )
 
 
-== Religious Institutions & Authority
+#block(breakable: false)[
 
+== Religious Institutions & Authority
 
 Gods may exist, however, it is institutions that make religion have power. The temple, the church, the priesthood: these are human structures, with human politics, human corruption, and the potential to do either great good or harm. In terms of your romance, institutions are where divine law gets enforced, where vows are administered, where forbidden unions are discovered and punished.
 
-
 Religious authorities can be allies, enemies, or complex figures caught between doctrine and compassion. They represent the institution, but they're also human beings. The priest who has to enforce a law they privately question. The oracle who sees a prophecy they wish they could unsee. The inquisitor who genuinely believes they're saving souls.
-
 
 #strong[What religious institutions exist?]
 
-
 Focus on institutions that could affect your romance: those that might forbid, bless, or complicate your characters' relationship.
 
-
 #strong[What are the key religious institutions in your world? For each, describe their function, the power they hold, and how they interact with other power structures.]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[Who leads religious institutions?]
@@ -562,22 +568,21 @@ Which one, and why? What would it take for them to choose love over religious du
 )
 
 
-== The Heretic Love Interest
+#block(breakable: false)[
 
+== The Heretic Love Interest
 
 There is a big distinction in the way the audience experiences a religiously forbidden romantic involvement, versus a romantic involvement with someone who is specifically condemned by the religion. A behavioural taboo (breaking celibacy, marrying outside the faith, violating a vow) is where you're doing something wrong, but there's nothing wrong with the person you've done something wrong with. You have options such as making amends, finding a loophole, or redefining the relationship through marriage or dispensation.
 
-
 A heretic love interest romance, however, is a whole other ball game. The person you're in love with is the problem. Demon. Witch. Fae. "Dark One." Hated bloodline. The act of loving such a person does not simply jeopardise the individual's standing in society - it challenges their very moral identity, as well as the metaphysical order of the community in which they live. We are not dealing with behavioural prohibitions here, but rather ontological taboos, and the type of resolution required will be very different.
-
 
 One reason why this type of romance is so effective is that it creates an epistemological crisis for the protagonist. The idea that "they are monsters" that has been ingrained in them since birth is constantly challenged by the embodied intimacy of the romance ("yet I desire, I trust, I know this person"). The internal conflict is not simply one or two scenes of temptation. Instead, it is a continued debate within the protagonist about whose authority should be followed - the doctrine of their religion (the priests, the vows, the myths of the community) or their own first-person knowledge (their senses, thoughts, what they see with their own eyes).
 
-
 Feyre's fear of the Fae in ACOTAR acts as a displaced sacred order. When she sees the Other that she fears, she instinctually reaches for prayer, even though she believes that "mortals do not keep gods to worship anymore." Feyre's journey is one of "unlearning" as she moves from inherited certainty to situational judgement. Casteel, in #emph[From Blood and Ash], is the "Dark One" of Poppy's mythological universe; he is the personification of everything that Poppy's religion was created to fight against. Poppy's desire for him is portrayed as a problem of doctrine: she feels "unworthy by the gods." Reid, in #emph[Serpent & Dove], does not have a primary conflict of "I want sex but my rules forbid it." Rather, his primary conflict is "the woman I desire is defined by the system I identify with as nonhuman." The romance threatens collapse not of chastity but of ontology.
 
-
 === How It Differs from Rule-Breaking
+
+]
 
 
 #workbook-table(
@@ -652,28 +657,25 @@ The Redefinition Path: The doctrine itself is exposed as partial, weaponised, or
 )
 
 
-== Personal Faith & Hidden Devotion
+#block(breakable: false)[
 
+== Personal Faith & Hidden Devotion
 
 There are many ways people believe in religion. They may have strong faith in their gods, but hate the way the priests run things. Others may just go through the motions to fit in. Which type of believer someone is can greatly impact how the romance develops. If the devout believer does something against the rules of the religion, they may lose the favour of their god. On the other hand, the cultural believer risks loss of connection to their community, and ultimately their sense of identity, but not their soul.
 
-
 But when a person has to keep their faith a secret, the dynamics of the romance take on a whole different light. The witch pretending to be a devoted member of the church. The priestess pretending to be a chambermaid. The heretic disguising their true feelings as orthodoxy. Both parties share the vulnerability of being truly known, the peril of being discovered, and the intensely intimate experience of sharing a secret which could cost one another their lives.
-
 
 This is why this plot device is so powerful - the positioning. In the most effective cases, the person with a hidden faith falls in love with someone working for the same group that would kill them if the truth came out. Reid is a Captain of the Chasseurs, witch-hunters whose motto is "thou shalt not suffer a witch to live." Ravyn Yew in #emph[One Dark Window] is Captain of the Destriers, tasked with hunting down those with magical abilities. Gaspar in #emph[The Wolf and the Woodsman] is a prince of a fanatical kingdom. The romance becomes a high-stakes game of cat and mouse. The closer two people get to each other, the greater the danger becomes, because closeness requires lowering the very shields that ensure survival.
 
-
 The emotional toll of living in fear of being discovered is a kind of soul ache: a state of perpetual hyper-vigilance where every moment of tenderness is shadowed by the knowledge that discovery means death. In #emph[Serpent & Dove], Lou's magic gives off a distinct scent that can warn sensitive observers of its presence. Proximity itself is a threat to the secret. In #emph[One Dark Window], Elspeth hides a spirit called the Nightmare in her mind, a monster that could emerge during moments of vulnerability or passion, making intimacy
-
 
 Here's the paradox, though: secrecy can deepen intimacy rather than hinder it. When the truth is finally shared, the act of revealing a forbidden faith becomes a shared ritual between the lovers, a moment of "shared sacrilege" that binds them. In #emph[The Jasmine Throne], the waterfall scene where Malini witnesses Priya's true nature transforms their dynamic from servant-princess to allies in rebellion. In #emph[Serpent & Dove], the revelation that Reid himself possesses magic (he's the first male witch) creates a new form of intimacy built on mutual exile rather than deception.
 
-
 ==== How Hidden Identity Is Concealed
 
-
 The mechanism of concealment shapes the texture of the romantic tension.
+
+]
 
 
 #workbook-table(
@@ -973,19 +975,19 @@ Is there a way to believe that doesn't require giving up the relationship? This 
 )
 
 
-== How Religious Obstacles Resolve
+#block(breakable: false)[
 
+== How Religious Obstacles Resolve
 
 Crisis is the setup. Resolution is the payoff. It's how your characters deal with the conflict between faith and love which will give you the sense of whether the ending has been earned or if it's come about by accident, and whether your characters' romance carries weight beyond the final page.
 
-
 In my experience the best resolutions are those where the characters have paid some sort of real cost. When the characters pay a price for their love - magic, community, self-identity - then the reconciliation of faith and love has value. Convenient resolutions are often the result of last-minute revelations, or shifts in power that remove all obstacles, as opposed to the characters having to work through them.
-
 
 A recurring distinction in published romantasy is the difference between rejecting the institution and rejecting the faith. In #emph[Serpent & Dove] and #emph[Priory of the Orange Tree], the characters don't become atheists. They reject leaders who twisted the faith for power. In #emph[From Blood and Ash] and #emph[The Jasmine Throne], the institution and the faith are so entangled that the only resolution is to burn the entire system down.
 
-
 === Resolution Patterns
+
+]
 
 
 #workbook-table(
@@ -1102,24 +1104,23 @@ Reinterpretation? Leaving the faith? Divine reassurance? Accepting love isn't si
 )
 
 
-== Sacred Time & Calendar
+#block(breakable: false)[
 
+== Sacred Time & Calendar
 
 Religion governs time. Holy days, sacred seasons, periods of fasting or celebration: these rhythms structure the year and create occasions where religious expectations are heightened. For romance, sacred time can both separate lovers (forbidden times) and bring them together (festivals that relax normal rules).
 
-
 #strong[What major holy days and sacred seasons exist?]
-
 
 #hint[Holy days and sacred seasons create story opportunities: festivals where rules relax, sacred days when forbidden love feels more transgressive, forbidden times that separate lovers, and rituals that bring characters together. Focus on the ones that could affect your romance.]
 
-
 #strong[Describe a key holy day or sacred time in your world: When is it? What does it celebrate? How is it observed? What is forbidden during this time? What romantic opportunity does it create?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[How do these timing restrictions affect your characters?]
@@ -1147,27 +1148,25 @@ Thresholds between sacred and ordinary create charged moments. What changes when
 )
 
 
-== Sacred Spaces
+#block(breakable: false)[
 
+== Sacred Spaces
 
 Sacred spaces have a unique sense of authority in the world of love. They're places where the transcendent and the taboo converge. Meeting in a temple. Finding time for each other in a sanctuary. Getting blessed at a shrine.
 
-
 You should write your sacred space to be distinguishable from the moment of entry. The stillness. The scent of incense or old stone. How sound acts in a different way than anywhere else. Show how your characters adjust their behaviour unconsciously: speak softer, take slower steps, become physically smaller or more cautious. Let the space dictate rules without either of the characters stating them; the devout character will know to genuflect, the outsider watches and walks a step behind. Allow the physical aspects of the space (candlelight, echoes of footsteps, cold stone) to build an atmosphere that emphasises the emotional rhythm of the scene. Speaking a confession in a temple where lying becomes impossible. Touching in a space where the act feels even more transgressive. A sanctuary where both characters are under the watchful eye of the god.
-
 
 #strong[What sacred locations exist?]
 
-
 Sacred spaces can serve as sanctuary, meeting place, or site of spiritual reckoning for your characters.
 
-
 #strong[What sacred spaces exist in your world — temples, shrines, natural sacred sites, pilgrimage destinations, forbidden holy places? Describe them and who is allowed to enter.]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[What makes a space sacred?]
@@ -1207,16 +1206,17 @@ Sacred ground where vows are binding? Temples where certain unions are forbidden
 )
 
 
-== Ritual & Ceremony
+#block(breakable: false)[
 
+== Ritual & Ceremony
 
 Religious rituals are among the most emotionally charged scenes in romantasy and the most structurally potent. Weddings, funerals, vow-taking ceremonies, initiation rites, fertility festivals. The most important thing to understand about religious rituals in romantasy is that they are NOT just pretty decorations. They're the sites where obligation and desire get twisted together, where a person's personal feelings are turned into public property, and where characters are forced across thresholds they can't uncross.
 
-
 There are three ways rituals work in romantic novels. Firstly, #strong[restraint as fuel]: the rigid formality of a ceremony produces tension through what hasn't been said or done. The slight touch of hands at a wedding altar has a greater impact on the couple's relationship than a kiss would have had under less formal circumstances. Second, #strong[ritual as transition]: ceremonies force characters across identity thresholds. The Ascension, the Great Rite, the taking of vows - these are all points of no return where the character leaves behind who they were and emerges as someone new. Third, #strong[public stakes]: rituals are performed publicly, and therefore they turn private struggles into public ones. The embarrassment of having a wedding fail or having a secret exposed to everyone present creates the illusion of impossibility for a happy ending. It is this sense of impossibility that causes the readers to want to continue reading.
 
-
 === Ritual Types & Romantic Function
+
+]
 
 
 #workbook-table(
@@ -1306,30 +1306,27 @@ The most charged ritual scenes are those where an audience is watching. What hap
 )
 
 
-== Religious Community & Belonging
+#block(breakable: false)[
 
+== Religious Community & Belonging
 
 Religious communities give individuals their sense of belonging, their identity as members of a group, their source of support from others, and a social structure to organise their lives. When someone leaves or is rejected by a religious group, they lose every single one of those things.
 
-
 What distinguishes religious communities from other types of social networks is how comprehensive many of them are. They are the people you celebrate holidays with, the people who help you when your parent dies, the people where you make your close friends. So when someone leaves or is rejected by this community, they don't just lose the opportunity to participate in social activities - they lose an entire way of life.
-
 
 So instead of asking "what does their religion forbid?" ask "what would they lose if they left?" In many cases, it is not simply a matter of losing their faith.
 
-
 #strong[What religious community do your characters belong to?]
-
 
 Community is often what people lose first when they defy religious rules. What support, identity, and belonging would they sacrifice?
 
-
 #strong[What religious community does each character belong to, and what does it provide them (identity, safety, purpose, belonging)?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[What else does religious community provide that they'd lose?]
@@ -1377,24 +1374,23 @@ The secret ally who believes love matters more than rules? The reformer who thin
 )
 
 
-== The Afterlife & Sacrifice
+#block(breakable: false)[
 
+== The Afterlife & Sacrifice
 
 The way we think about death affects every part of our lives; it shapes our fears, and it can lead us to do things we would never have done before. Characters who believe in reunion after death approach sacrifice differently than those who believe death is final. And for romance, afterlife beliefs determine whether dying for love feels like ending or beginning, and whether loving the wrong person means eternal damnation or eternal separation.
 
-
 #strong[What do people believe happens after death?]
-
 
 Afterlife beliefs shape how characters think about sacrifice, loss, and whether lovers can be reunited after death.
 
-
 #strong[What does your world's religion teach about the afterlife? What happens to the soul/spirit? Is there judgement, and based on what? What's the good outcome and bad outcome? Can the living affect the dead's fate?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[Are these beliefs literally true in your world?]
@@ -1744,30 +1740,27 @@ What are the stakes of saying no to the gods?
 )
 
 
-== Religious Difference & Interfaith Love
+#block(breakable: false)[
 
+== Religious Difference & Interfaith Love
 
 When people from different faiths fall in love, they must navigate not just their own beliefs but each other's, and often, the mutual hostility between their religious communities.
 
-
 Interfaith love creates challenges woven into daily life. Whose holidays do you celebrate? Which faith do you raise children in? When someone dies, whose death rituals bring comfort?
-
 
 #strong[Do your characters practise different religions?]
 
-
 Interfaith love creates daily challenges beyond the initial obstacle: whose traditions, whose holidays, whose gods?
-
 
 If yes:
 
-
 #strong[What faith does each character follow?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[What does each faith teach about the other?]
@@ -1849,7 +1842,11 @@ Conversion for love raises questions about authenticity, sacrifice, and identity
 )
 
 
+#block(breakable: false)[
+
 == Integration Check
+
+]
 
 
 #workbook-table(
@@ -1865,7 +1862,11 @@ Conversion for love raises questions about authenticity, sacrifice, and identity
 )
 
 
+#block(breakable: false)[
+
 == Quick Reference: Religious Stakes
+
+]
 
 
 #workbook-table(
