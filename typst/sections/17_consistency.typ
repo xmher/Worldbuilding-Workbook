@@ -735,16 +735,9 @@ The story you're telling needs to run two clocks: one for the fantasy plot, one 
 #strong[What is your fantasy plot deadline and your romantic plot deadline? Do they converge? If not, what point could fuse them -- where would the romantic choice and the fantasy choice become the same choice?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == Part Four: Character Knowledge and Information

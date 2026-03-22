@@ -1077,20 +1077,7 @@
       "text": "**What is your fantasy plot deadline and your romantic plot deadline? Do they converge? If not, what point could fuse them -- where would the romantic choice and the fantasy choice become the same choice?**"
     },
     {
-      "type": "hint",
-      "text": "(Write your answer below)"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
-    },
-    {
-      "type": "prose",
-      "text": "&nbsp;"
+      "type": "answer_box"
     },
     {
       "type": "divider"

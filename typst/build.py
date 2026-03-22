@@ -204,6 +204,11 @@ def gen_writing_box(item: dict) -> str:
 '''
 
 
+def gen_answer_box(item: dict) -> str:
+    height_str = item.get("height", "180pt")
+    return f"\n#answer-box(\n  height: {height_str},\n)\n"
+
+
 def gen_writing_lines(item: dict) -> str:
     count = item.get("count", 3)
     return f"\n#writing-lines(count: {count})\n"
@@ -394,6 +399,7 @@ GENERATORS = {
     "framework_box": gen_framework_box,
     "mistake_box": gen_mistake_box,
     "writing_box": gen_writing_box,
+    "answer_box": gen_answer_box,
     "writing_lines": gen_writing_lines,
     "checklist": gen_checklist,
     "data_table": gen_data_table,

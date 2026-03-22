@@ -91,22 +91,9 @@ You may feel that if your geography does not cause friction for your characters 
 #strong[What type of geographic friction does your romance use most — proximity, separation, or resource? How does it show up in your story, and what does it force your characters to do?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-==== What seals the pressure cooker in your world?
-
-
-#hint[Check the trapping types that apply and describe how they work in your story. The strongest setups use more than one.]
+#answer-box(
+  height: 180pt,
+)
 
 
 #structured-table(
@@ -121,6 +108,11 @@ You may feel that if your geography does not cause friction for your characters 
     ([Social/political (obligations, hostage, arranged marriage)], [], []),
   ),
   row-height: 60pt,
+  preamble: [
+==== What seals the pressure cooker in your world?
+
+#hint[Check the trapping types that apply and describe how they work in your story. The strongest setups use more than one.]
+],
 )
 
 
@@ -276,43 +268,34 @@ You may feel that if your geography does not cause friction for your characters 
 #strong[List your primary and secondary locations. For each, give the name and a one-sentence description of what happens there and why it matters to the romance.]
 
 
-#hint[(Write your answer below)]
+#answer-box(
+  height: 180pt,
+)
 
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-#block(breakable: false)[
 
 == Kingdoms & Nations Overview
 
+
 #hint[This is reference material. Fill in what you know now; come back as your world develops.]
+
 
 #strong[Describe your primary kingdom/nation. What is it called, what is it known for, what is its main resource, and how does it create or complicate your love story? If you have a second kingdom, describe it too.]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 #strong[If your world has additional kingdoms or nations, describe them here. What is each called, what distinguishes it, and how does it matter to the romance?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
 
-&nbsp;
+#block(breakable: false)[
 
 ==== How does the relationship between these kingdoms/nations affect your romance?
 
@@ -338,16 +321,9 @@ You may feel that if your geography does not cause friction for your characters 
 #strong[For each major terrain type in your world, describe where it is, what it provides, what challenges it creates, and how it affects the romance.]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == Naming Places
@@ -470,35 +446,35 @@ For deeper language work, see #emph[Section 11: Language & Communication].
 )
 
 
-#block(breakable: false)[
-
 == Your World's Place Name Patterns
+
 
 #hint[Create prefixes and suffixes that fit your world's languages. What sounds right for this culture?]
 
+
 #strong[Create 3-5 naming elements (prefixes or suffixes) for your world's place names. For each, note the meaning and give an example of a location name that uses it.]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 ==== Name your key locations
 
+
 #hint[Use the patterns above (or your own) to name the places that matter most. If you already have names, write them here and note what they mean or evoke.]
+
 
 #strong[Name your key locations (protagonist's homeland, love interest's homeland, where they meet, the contested territory, their special place). For each, explain what the name means and which naming convention it follows.]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
 
-&nbsp;
+#block(breakable: false)[
 
 ==== Do your characters' naming conventions signal cultural distance?
 
@@ -563,21 +539,21 @@ The most effective way to demonstrate resource control on the page is to show wh
 )
 
 
-#block(breakable: false)[
-
 ==== What natural resources are geographically concentrated?
+
 
 #hint[Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?]
 
+
 #strong[What are the 2-3 most important natural resources in your world? For each, describe where it's found, who controls it, and how that control creates conflict or tension in your story.]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
 
-&nbsp;
+#block(breakable: false)[
 
 ==== What geographic resource creates tension or conflict in your world?
 
@@ -623,37 +599,38 @@ You want to filter the sensory details you are including through your POV charac
 Something to be aware of is the "weather report" style of beginning a scene. This is when you describe your setting using neutral language before anything has happened. By incorporating the sensory elements into the action and emotions of your characters, you will create a stronger scene. Instead of saying "The room was cold," say "She tightened her cloak around her body, breath misting in the unheated chamber." As a character interacts with the world, the way they interact with it creates both the setting of the scene and the feelings of the character simultaneously.
 
 
-#block(breakable: false)[
-
 == The Sensory World
+
 
 ==== What does your primary setting look, sound, smell, and feel like?
 
+
 #hint[Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?]
+
 
 #strong[Close your eyes and walk through your primary setting. Describe what you see, hear, smell, and feel (temperature, humidity, wind).]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 ==== How does the environment change at different times of day?
 
+
 #hint[Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?]
+
 
 #strong[How does your primary setting change throughout the day? Describe it at morning, midday, evening, and night — and note what kind of romantic scene would fit each time.]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
 
-&nbsp;
+#block(breakable: false)[
 
 ==== What's beautiful about this place?
 
@@ -723,35 +700,35 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
 ]
 
 
-#block(breakable: false)[
-
 ==== What season is your story set in?
+
 
 #hint[Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent?]
 
+
 #strong[Pick the most story-relevant season in your world. What does this season make possible, and what does it make impossible?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
-
-&nbsp;
 
 ==== How do seasons affect life in your world?
 
+
 #hint[When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors?]
+
 
 #strong[For each season (summer/warm, winter/cold, transitional), what becomes possible and what becomes impossible in your world?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
 
-&nbsp;
+#block(breakable: false)[
 
 ==== Does the season create pressure or opportunity in your story?
 
@@ -789,16 +766,9 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
 #strong[Describe the most dangerous region in your world. What makes it dangerous, and who goes there anyway (and why)?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 ==== Do your characters travel through dangerous territory?
@@ -810,16 +780,9 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
 #strong[Plan a dangerous journey for your characters. Where do they go and why? What dangers do they face? What damage does the environment cause? What forces them to rely on each other, and what changes between them after surviving it?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == Borders & Boundaries
@@ -873,16 +836,9 @@ Also consider the cost of crossing a border for each character. Is crossing cons
 #strong[What geographic or political border separates your characters? What does crossing it mean (legally, socially, personally), and is there any in-between space where they can meet?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 ==== What assumptions does each character carry about the other side?
@@ -894,16 +850,9 @@ Also consider the cost of crossing a border for each character. Is crossing cons
 #strong[What does your protagonist assume about the love interest's people — and what moment shatters that assumption? What does the love interest assume about the protagonist's people, and when does that break?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == Home & Belonging
@@ -974,16 +923,9 @@ This idea is central to the entire arc of the ACOTAR series. The Spring Court is
 #strong[Where does each of your main characters feel most out of place — alien, uncomfortable, or unwelcome? Why?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == Entering Each Other's Worlds
@@ -1004,23 +946,24 @@ In #emph[ACOMAF], when Rhysand takes Feyre to Velaris, he is revealing to her fa
 This can happen on a much smaller level. In #emph[Bridgerton] (Season 2 / #emph[The Viscount Who Loved Me]), a thunderstorm sends Kate Sharma into the library at Aubrey Hall, Anthony's family estate. She is petrified, cowering under a desk, and Anthony discovers her in his own domain but at a time when the power dynamics of their relationship have entirely broken down. The ancestral library, full of Bridgerton history, becomes a sanctuary where Anthony provides Kate with the quiet comfort of holding her hand and waiting patiently with her until the storm passes. A public area would have required a sense of propriety. A bedroom would have created scandal. At nighttime in the library, they can find a private area without crossing boundaries, and the vulnerability of that moment forever changes the course of their contentious interactions.
 
 
-#block(breakable: false)[
-
 == Entering Each Other's Worlds
+
 
 ==== Does one character visit the other's home territory?
 
+
 #hint[Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?]
+
 
 #strong[When one character visits the other's world, who visits whom? What does the visitor notice first? What is the host proud of — and what would they rather hide? What everyday moment creates unexpected intimacy?]
 
-#hint[(Write your answer below)]
 
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
-&nbsp;
 
-&nbsp;
+#block(breakable: false)[
 
 ==== What's the sensory experience of entering unfamiliar territory?
 
@@ -1092,16 +1035,9 @@ In #emph[From Blood and Ash], the trip through the Blood Forest is where Poppy a
 #strong[What is the primary mode of travel in your world? Who uses it, and what kind of physical proximity does it create between your characters?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 ==== Travel Time Reference
@@ -1133,16 +1069,9 @@ In #emph[From Blood and Ash], the trip through the Blood Forest is where Poppy a
 #strong[How long does it take to travel between your key locations — capital to border, one character's home to the other's, and across the dangerous region?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 ==== Do your characters undertake a significant journey?
@@ -1154,16 +1083,9 @@ In #emph[From Blood and Ash], the trip through the Blood Forest is where Poppy a
 #strong[Describe the most important journey in your story. Where does it go, how long does it take, and what happens between your characters during the journey?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == Isolated Locations
@@ -1193,16 +1115,9 @@ And remember: when characters finally #emph[could] leave but choose to stay, tha
 #strong[Describe an isolated or trapped location in your world. What kind of place is it, why do people end up there, and what makes leaving difficult?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 ==== How does the isolation generate romantic pressure?
@@ -1214,16 +1129,9 @@ And remember: when characters finally #emph[could] leave but choose to stay, tha
 #strong[In your trapped/isolated setting, what space must the characters share? What daily routine forces interaction? Where do they go after an argument when there's nowhere to go? At what point could they leave — and what does choosing to stay mean?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 == Geography as Emotional Landscape
@@ -1295,16 +1203,9 @@ In #emph[Fourth Wing], the use of emotional geography is taken further. Violet's
 #strong[How does your geography connect to other aspects of your world? Consider: Does it create the friction type you identified? How does it explain cultural differences? How does it create power structures? How does it interact with magic? What resource or territory is contested?]
 
 
-#hint[(Write your answer below)]
-
-
-&nbsp;
-
-
-&nbsp;
-
-
-&nbsp;
+#answer-box(
+  height: 180pt,
+)
 
 
 #structured-table(
