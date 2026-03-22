@@ -1357,36 +1357,31 @@ All fake relationships begin with parameters: how much physical interaction can 
 )
 
 
-== Factions & Opposition
+#block(breakable: false)[
 
+== Factions & Opposition
 
 Your couple doesn't exist in a vacuum. Political factions may support or oppose them based on how the relationship affects larger power struggles. Factions turn a love story into a political event. The moment your characters' relationship becomes known, every faction recalculates. Some see opportunity: this union could tip the balance their way. Others see a threat that must be eliminated. Your characters stop being just two people in love. They become pieces on a board, and factions will try to play them whether they like it or not.
 
-
 Focus on factions that would care about your characters' relationship, either to support or destroy it.
-
 
 Court intrigue? Elections? Military power? Economic pressure? Magical conflict?
 
-
 Factional loyalty creates another layer of obligation and potential betrayal in the romance.
-
 
 Being on the same side creates shared purpose; being on opposite sides creates the richest enemies-to-lovers tension.
 
-
 The moment of choosing love over loyalty is one of the most powerful beats in enemies-to-lovers. What would push them to it?
-
 
 #strong[What major factions exist?]
 
-
 #strong[Describe the key political factions in your world. For each, what do they want, who leads them, and what is their power base?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[Where do your characters fall?]
@@ -1571,24 +1566,23 @@ When two characters share an adversarial environment at court as partners, that 
 )
 
 
-== Secrets & Espionage
+#block(breakable: false)[
 
+== Secrets & Espionage
 
 Secrets in romantasy aren't side stories; they're obstacles to intimacy. Each time your character holds back some information from their romantic partner, it's an additional wall between them, and each time they reveal a secret it opens a doorway that can't be closed. The core tension is this: your characters require deception to survive politically and honesty to feel intimate. They can't have both. That's the engine. When a character is keeping their true identity from their love, the relationship is built upon a false foundation. The romantic partner loves the version of a person the other has presented to them, not the entire person. The individual keeping the secret is also the person least capable of experiencing true intimacy, because their authentic self is never fully present in the same space as their partner. In #emph[Serpent & Dove], Lou has kept her identity as a witch a secret from Reid, a Chasseur that's been trained to kill her people. Both Lou and Reid enter into a marriage based on strategy, but as genuine feelings begin to develop, Lou's secret starts to poison their relationship. Reid's love grows stronger than Lou's because she's always keeping something guarded. She can never be fully in the same room with him. Each intimate moment is tainted by the reality that he'd set fire to her at the stake if he were to discover what she really is. In #emph[Fourth Wing], Xaden only shares with Violet "what you need to know." Violet is forced to question Xaden to obtain additional information. He can't share everything with her because of her close proximity to the state, exemplified by her mother's position and her friend Dain's ability to read memories. Their relationship relies heavily on physical attraction to provide a release, since their intellectual and emotional communication is consistently interrupted by the political implications of their connection.
 
-
 #strong[Is either of your characters hiding their identity?]
-
 
 If yes:
 
-
 #strong[What are your characters hiding? Who are they hiding it from, and why? What happens if they're discovered, and how does the secret limit the intimacy they can share?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[How does the secret create a ceiling on intimacy?]
@@ -2909,21 +2903,21 @@ Use this to pressure-test your enmity:
 ]
 
 
-== Succession & Heirs
+#block(breakable: false)[
 
+== Succession & Heirs
 
 If your characters come from influential families, then succession will impact the romantic elements of your story. Who they marry, whether they produce heirs, and which bloodlines those children will carry all have significant political implications. The pressure of succession can affect how your characters view their relationship. Each kiss weighs heavily as an heirloom of a dynasty. Each disagreement has the potential for a diplomatic incident. And whether or not your characters decide to have children is no longer just a personal choice; it's being debated in council chambers by individuals that will never hold the child. That loss of humanity is something you should be writing about. When your character finally understands that their body has been turned into a political resource and no longer a private possession, that's a moment that should weigh heavily. Inheritance adds layers beyond the personal. The choices your characters make today may impact the next generation. Can they lose inheritance due to marrying the wrong person? Must they marry to inherit? Does their union combine two inheritances? Expectations surrounding producing an heir can create significant pressure and conflict in relationships where producing an heir would be either impossible or difficult. Biological complications can be particularly damaging when certain family lines are deemed politically important. High-stakes inheritance and family drama increase the pressure significantly on their relationship.
 
-
 #strong[What does each character stand to inherit?]
 
-
 #strong[What does each character inherit from the political resolution — new roles, responsibilities, or losses?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[How does their relationship affect inheritance?]
@@ -3040,15 +3034,17 @@ Revolution isn't clean. Lives lost? Stability destroyed? Becoming what they foug
 )
 
 
+#block(breakable: false)[
+
 == Integration Check
 
-
 #strong[How does government interact with magic in your world? What magical law most affects your characters? Could magic bypass political obstacles — and if so, why don't they use it? Does government have magical enforcement (truth spells, tracking, binding oaths)?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #block(breakable: false)[

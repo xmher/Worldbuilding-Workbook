@@ -52,10 +52,13 @@ Your most powerful romantic technology choices will also create asymmetry: one c
 )
 
 
+#block(breakable: false)[
+
 == How to Think About Technology in Romantasy
 
-
 Technology affects romance through five key channels. When you're building your world's tech level, think about what each choice creates:
+
+]
 
 
 #workbook-table(
@@ -142,30 +145,27 @@ Not every question in this section will apply to your world. A futuristic settin
 ]
 
 
-== Overall Technology Level
+#block(breakable: false)[
 
+== Overall Technology Level
 
 Before diving into specifics, establish the broad strokes. Your approximate technology level sets the baseline for everything that follows, and knowing where it's uneven is where the interesting story possibilities live. When your characters come from regions with different technology levels, that gap becomes a source of wonder, discomfort, and misunderstanding that fuels romantic tension.
 
-
 #strong[What's the approximate technology level?]
-
 
 Reference points: Stone Age, Bronze/Iron Age, Medieval, Renaissance, Early Modern, Industrial, Modern, Futuristic, Mixed/Uneven
 
-
 #strong[Is technology consistent across your world, or does it vary?]
-
 
 Technological disparity creates power imbalances and dramatic opportunities when characters cross from one level to another. A character moving from a village with no running water to a city with enchanted plumbing experiences culture shock that reveals character and creates vulnerability.
 
-
 #strong[Is technology consistent across your world, or does it vary by region? Which regions are advanced, which are less advanced, and what causes the disparity?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[How does magic affect technology?]
@@ -388,78 +388,59 @@ Can messages be lost? Delayed? Intercepted? Altered?
 )
 
 
-== Privacy & Observation
+#block(breakable: false)[
 
+== Privacy & Observation
 
 Privacy scarcity allows the most minor actions to have major significance, which means that as long as characters can't talk, touch, or linger around one another, every single action becomes a gesture. Show us characters that are extremely attentive to those who may overhear, watch, or come upon them at any second. Constantly waiting to hear the sound of someone walking up to their door. Whispering things that will still be heard. That sense of relief from having finally, #emph[finally,] been able to achieve some level of privacy, but then the uncertainty as to what to do with the longed-for privacy.
 
-
 Because of the court environment in #emph[The Cruel Prince], and the many layers of hierarchy and punishment associated with vulnerability, there are very few places in which true desires can be expressed authentically, except in secret or at the edge of secrecy. When Jude and Cardan finally kiss, Jude is taken aback by her reaction and immediately goes back into negotiating terms. Desire, even when private, has to be contained quickly, since exposure is too great a risk. In ACOTAR Under the Mountain, the concept of privacy doesn't exist literally: Rhysand has Feyre painted and clothed to allow him to recognise if anyone has touched her, making her entire body a space to be monitored. When Tamlin is able to touch her fingers and signal her to follow him to a private area, Rhysand is forced to use magic to remove all evidence (Tamlin's clothing is smeared with paint), in order to maintain plausible denial. This is what a character experiencing privacy scarcity looks like on paper: moments stolen, and quickly covered up, where even a single fingerprint may be lethal.
-
 
 Illustrate how your characters create privacy when it's not available to them. A coded look. The conversation had in plain sight, but one that implies something much different than the actual words. A quick moment in a crowd, or behind a column. And when privacy is suddenly accessible, that shift should mean something. The door that closes, the vacant room, the space where they can finally speak freely without fear of reprisal. Privacy is more than the absence of witnesses; it's the mental shift that occurs when characters no longer have to perform.
 
-
 In many historical and fantasy settings, the biggest privacy issue isn't surveillance technology. It's people. Servants, attendants, family members, and household staff see and hear everything. Their presence shapes what can be said and done, and who knows the household's secrets.
-
 
 #strong[How private are domestic spaces?]
 
-
 #hint[The thickness of walls and the layout of rooms determine whether whispered words stay between two people or become public knowledge. Privacy at home — or the lack of it — shapes every intimate moment.]
-
 
 Wall thickness, separate rooms, who shares space:
 
-
 #strong[Do locks exist? Who has them?]
-
 
 #hint[The ability to lock a door is the ability to create private space. A locked door means choosing vulnerability; an unlocked one means performing for an audience that could arrive at any moment. Who in your world has that power, and who doesn't?]
 
-
 #strong[Who has access to private spaces?]
-
 
 #hint[A private space is only as private as the people who can enter it. If servants have keys, if family can walk in, if landlords can inspect, then "alone" is always conditional.]
 
-
 Servants, family members, landlords, officials:
-
 
 #strong[What surveillance exists?]
 
-
 #hint[Surveillance determines how carefully your characters must perform in public. Magical scrying, spy networks, and informants all create different levels of pressure — and different risks if your characters are caught together.]
-
 
 Magical scrying? Spy networks? Informants? Nothing systematic?
 
-
 #strong[Where can people have truly private conversations?]
-
 
 #hint[In a world where privacy is scarce, the locations where characters can speak freely become sacred. These are the places where masks drop, truths emerge, and the relationship can advance beyond what public performance allows.]
 
-
 #strong[What are the consequences of being overheard?]
-
 
 #hint[The stakes of privacy shape how carefully characters speak and act. If the wrong person hearing the wrong thing means execution, exile, or scandal, then every whispered word carries enormous weight — and every private moment becomes an act of courage.]
 
-
 #strong[Design a stolen moment for your characters.]
-
 
 #hint[In worlds where privacy is scarce, every stolen moment carries the weight of an entire scene. Think about how your characters would navigate surveillance to create a private interaction — and what the consequences would be if they were caught.]
 
-
 #strong[Design a stolen moment for your characters: Where does it happen? Who or what are they hiding from? What do they do or say? How do they cover their tracks? What would happen if they were caught?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 === Servants & Attendants
@@ -518,30 +499,27 @@ What motivates their loyalty or disloyalty?
 #hint[The constant presence of others shapes intimacy. What strategies do your characters use to find moments alone — and what happens when those strategies fail?]
 
 
-== Daily Life & the Texture of Time
+#block(breakable: false)[
 
+== Daily Life & the Texture of Time
 
 The rhythm of day-to-day living will determine how much time people have for all the things that aren't work, including romance, education, and ambition. These details also shape the sensory world of your story: the quality of light, the temperature of rooms, the smell of a city, what meals look and taste like. If you get these correct, it helps make the world of your story feel lived-in. Get them wrong (or ignore them) and readers will pick up on something missing, even if they can't say why.
 
-
 Lighting shapes the emotional tone of every scene. Candlelight is soft, warm, and creates shadows and feelings of closeness. Faces half-lit, features rendered gentle. Torchlight is much harsher, flickering, creates drama and unease. Daylight reveals everything; characters can't hide in full sun. Dim lighting requires proximity to one another: leaning closer to see, speaking softer because darkness feels private. When characters are together in the dark, let the other senses become heightened. Sound, touch, the awareness of warmth from another body. The practical realities matter too. Candles burn out and go out, someone must tend the fire, darkness comes whether you're ready or not.
-
 
 === Time & Labour
 
-
 #strong[How much time do ordinary people spend on survival tasks?]
-
 
 #hint[Time spent on survival is time unavailable for romance, education, or ambition. If your protagonist spends half the day hauling water, that shapes what kind of relationship is even possible.]
 
-
 #strong[How much time do ordinary people in your world spend on survival tasks like food preparation, water collection, heating, and cleaning? Who does this labour, and how does it affect your characters' available time for romance?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[Who does this labour?]
@@ -1152,30 +1130,27 @@ Musical instruments, game equipment, performance spaces:
 #hint[Inaccessible technology creates invisible barriers. What would a poor character simply never encounter in their normal life — and how would they react when they first experienced it alongside a love interest who takes it for granted?]
 
 
-== Weapons & Conflict
+#block(breakable: false)[
 
+== Weapons & Conflict
 
 In romantasy, weapons are used as much for creating a scene around the fight as they are to create the actual battle. Combat doesn't always have to be about the action; it can also be about the moments that occur before or after the actual fighting takes place. Training sequences where one character teaches another how to fight. Sparring matches that become charged with tension. The simple gesture of handing a weapon to another person, which is a gesture of trust. That feeling of being vulnerable and disarmed, when everyone else has the ability to arm themselves. In addition to creating a sense of who has the upper hand physically, this theme bleeds into all interactions of characters in a novel.
 
-
 Both romantic scenes and combat scenes follow the same basic structure: they begin to build tension, lead up to some sort of physical contact, and ultimately require the characters involved to be vulnerable. In #emph[Fourth Wing], Violet is attracted to Xaden because he's shirtless while sparring. The two eventually train together with daggers, creating a sense of intimacy as each parry and counter builds on the trust already established. For #emph[A Court of Mist and Fury], Cassian trains Feyre in hand-to-hand combat. She hits Cassian's sparring pads so hard and for so long that her rage literally burns away from her body, and the training session serves as both a form of catharsis and a way for Feyre to prove herself as a worthy partner. The court tournament in #emph[The Cruel Prince] takes the same concept, but turns the dynamic of violence and desire darker. Cardan's physical domination of Jude in combat is charged with humiliation and sexual tension and the author does this intentionally to blur the lines of violence and desire.
-
 
 The biggest difference between the two is that #emph[sparring] is a consensual and eroticised form of intimacy that occurs within the safety of the practice session. But #emph[actual combat] is non-consensual and dangerous. You can use either as a means to develop a romantic relationship, but you'll use them very differently.
 
-
 #strong[What weapons exist?]
-
 
 #hint[Available weapons shape both conflict and protection. What your protagonist can fight with — or against — determines the physical stakes of every dangerous scene and how much they depend on the person beside them.]
 
-
 #strong[What weapons exist in your world? List examples of melee, ranged, siege, and magical weapons.]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[What armour exists?]
@@ -1287,57 +1262,45 @@ Universal? Class-restricted? Gender-restricted? If your characters come from dif
 )
 
 
-== Magic & Technology Integration
+#block(breakable: false)[
 
+== Magic & Technology Integration
 
 If your world has magic, it doesn't exist in a vacuum. It interacts with technology, replaces it, enhances it, or conflicts with it. The key question for romance isn't "how does magic work?" but "who has access to magical solutions and who doesn't?" That asymmetry drives character dynamics.
 
-
 #strong[Does magic replace certain technologies?]
-
 
 #hint[When magic fills a need that technology would otherwise serve, it changes who has access to solutions. If magical heating replaces fireplaces, then characters without magic are left in the cold — literally and figuratively.]
 
-
 What technology doesn't exist because magic fills the need:
-
 
 #strong[Does magic enhance technology?]
 
-
 #hint[Enchanted items and magitech create a world where some tools are more powerful than they should be — and access to those enhanced tools becomes another axis of inequality between your characters.]
-
 
 Enchanted items, magitech:
 
-
 #strong[Do magic and technology conflict?]
-
 
 #hint[If magic interferes with technology or vice versa, your characters may have to choose between magical and technological solutions — and that choice reveals what they value and who they trust.]
 
-
 Does magic interfere with technology or vice versa?
-
 
 #strong[Who has access to magical vs. technological solutions?]
 
-
 #hint[Magic and technology may solve similar problems differently. Which solution is available to your protagonist, and which is beyond reach? The gap between magical and mundane solutions is often the gap between your characters' worlds.]
-
 
 #strong[How does the magic/technology divide affect your characters' relationship?]
 
-
 #hint[When one character has access to magical solutions and the other relies on slower, harder alternatives, the gap creates dependency, resentment, or wonder. This asymmetry is fuel for romantic tension.]
 
-
 #strong[What magical solution does one character have that the other doesn't? How does the character without magic solve the same problem, and does the divide create dependency, resentment, wonder, or something else?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 === Lost or Forbidden Technology
@@ -1371,24 +1334,23 @@ Does magic interfere with technology or vice versa?
 )
 
 
-== Technology & Your Characters
+#block(breakable: false)[
 
+== Technology & Your Characters
 
 Now that you've established your world's technology level, think about how it specifically affects your characters. This is where the worldbuilding becomes personal, where abstract rules about communication speed and medical access become the concrete reality of your romance. Some of these questions may echo earlier ones — that's intentional. Earlier, you were building the world's systems. Now you're asking: what do those systems mean for these two people specifically?
 
-
 #strong[What technology does each character have access to?]
-
 
 #hint[Differing access creates imbalance. What does each character take for granted that the other finds remarkable or impossible?]
 
-
 #strong[What technology does your protagonist have access to? What about your love interest? What does one take for granted that the other finds remarkable?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #strong[Is there a technology gap between them?]
@@ -1482,7 +1444,11 @@ What does one have that the other doesn't?
 )
 
 
+#block(breakable: false)[
+
 == Integration Check
+
+]
 
 
 #workbook-table(
@@ -1497,7 +1463,11 @@ What does one have that the other doesn't?
 )
 
 
+#block(breakable: false)[
+
 == Quick Reference: Technology Stakes
+
+]
 
 
 #workbook-table(

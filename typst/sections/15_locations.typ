@@ -51,10 +51,13 @@ Could it happen elsewhere without losing anything? If yes, what constraint, dang
 )
 
 
+#block(breakable: false)[
+
 == Locations and Romantic Pressure
 
-
 Every location creates a specific kind of romantic pressure. Before you design your spaces, it helps to understand the five types of pressure a location can exert, and what each one gives your romance.
+
+]
 
 
 #workbook-table(
@@ -138,21 +141,21 @@ Not every question in this section will apply to every location. Some spaces are
 ]
 
 
-== Identifying Your Pivotal Moments
+#block(breakable: false)[
 
+== Identifying Your Pivotal Moments
 
 Before designing locations, identify the moments that need them. These are the scenes your readers will remember, the ones that deserve a stage built specifically for them.
 
-
 List three to five major romantic moments in your story. Think about the moments that shift the relationship: where walls come down, where stakes become real, where everything changes.
 
-
 #strong[List three to five pivotal romantic moments in your story -- the scenes that shift the relationship, where walls come down, stakes become real, or everything changes.]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 === Matching Moments to Locations
@@ -433,27 +436,25 @@ Emotional (can they speak freely, show vulnerability):
 #divider()
 
 
-==== Time, Atmosphere and Weather
+#block(breakable: false)[
 
+==== Time, Atmosphere and Weather
 
 Locations are fluid. Time and weather alter them as well as the possibilities they create. A garden at noon is exposed; at midnight, it's a different world entirely. Rain forces characters under the same shelter. Snow isolates. Fog hides. The same location can serve entirely different scenes depending on when your characters arrive.
 
-
 Time of day also shapes the #emph[type] of romantic tension a space creates. At dawn, there's a sense of vulnerability because both partners were awake all night and the defences each has erected throughout the day have been lowered, and the coming daylight forces a reckoning with what happened in the dark. Midday is exposure, public, nowhere to hide. Dusk is transition, the moment the public person begins to shed their skin to become the private one, the moment the rules of the day start loosening. And midnight is transgression. Nothing good and proper happens at midnight, which is exactly why the best scenes do.
-
 
 #strong[How does this location change at different times?]
 
-
 #hint[The same space creates completely different romantic tension depending on when your characters arrive. Think about which version serves your scene best.]
 
-
 #strong[What time of day does your pivotal scene happen in this location? How does the space change at that hour, and what romantic tension does that timing create?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 What time does the pivotal scene happen, and why that time? Timing should feel deliberate, chosen because this version of the space creates the right pressure.
@@ -611,30 +612,27 @@ Spatial irony gives the reader a sense of being complicit. When we know the secr
 )
 
 
-==== Magical Properties
+#block(breakable: false)[
 
+==== Magical Properties
 
 #hint[(Skip if this location has no magical features. Reference Section 10 for your magic system.)]
 
-
 Some of the most compelling romantasy locations aren't just physical spaces. These settings are often "alive" with magic, responding to, constraining, or transforming the characters within them. In ACOTAR, the House of Wind is aware of Nesta's traumatic fear of fire, so it warms the floors instead of lighting a hearth. The wards in #emph[Fourth Wing] physically bind bonded riders to each other's proximity. The Sin Corridor in #emph[Kingdoms of the Wicked] has the ability to elicit specific emotions from every person that passes through it, bypassing conscious defences entirely.
-
 
 Why do magical location properties matter for romance? Because they can accomplish things that real-world locations can't: strip away masks, force emotional transparency, mandate proximity through metaphysical bonds, or create sanctuary so complete that even traumatised characters can begin to feel safe. They're not just cool worldbuilding details. They're mechanical tools that enable the intimate moments your story needs.
 
-
 Does this location have active magical properties? Wards, enchantments, sentience, shifting geography, emotion-responsiveness, truth-compelling features, magical barriers?
-
 
 Use the table below to identify how the magic of this space serves your scene:
 
-
 #strong[Does this location have active magical properties (wards, sentience, emotional influence, shifting geography, bonding/tethering)? For each that applies, describe how the magic works here and what it does for the romance.]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 Does the magic of this space bypass your characters' defences? Emotion-responsive environments, truth-compelling pools, sin-testing corridors. These spaces force a transparency that characters would never choose voluntarily. If your location has this property, it can accelerate intimacy in a way that feels earned because it's the space doing the work, not a convenient change of heart.
@@ -1104,10 +1102,13 @@ A well-designed location does at least two of these:
 For each of your key locations, check at least two boxes. If a location doesn't manage at least two, revise it: add a constraint, raise the stakes, build in history, adjust the symbolism.
 
 
+#block(breakable: false)[
+
 == Integration Check
 
-
 Your key locations don't exist in isolation. They're shaped by every system you've built. Use this table to check that your locations are grounded in your world.
+
+]
 
 
 #workbook-table(
@@ -1198,15 +1199,17 @@ Your key locations don't exist in isolation. They're shaped by every system you'
 ]
 
 
+#block(breakable: false)[
+
 == Quick Reference: Your Key Locations
 
-
 #strong[Name your recurring location (the place that becomes 'theirs'), any location that becomes lost or inaccessible, and the location where the romantic climax happens.]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 == Final Thought

@@ -587,6 +587,23 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                     f"\n{''.join(preamble_parts)}\n]\n"
                 )
                 consumed.add(j)
+            elif next_type == "answer_box":
+                # Group heading2 preamble + answer_box together
+                ab_gen = GENERATORS.get("answer_box")
+                if ab_gen:
+                    preamble_parts.append(ab_gen(content[j]))
+                parts.append(
+                    f"\n#block(breakable: false)["
+                    f"\n{''.join(preamble_parts)}\n]\n"
+                )
+                consumed.add(j)
+            elif next_type == "data_table":
+                # Heading2 preamble + data_table: wrap heading in non-breakable block
+                # so headings don't get orphaned at bottom of page
+                parts.append(
+                    f"\n#block(breakable: false)["
+                    f"\n{''.join(preamble_parts)}\n]\n"
+                )
             else:
                 # No table/group/writing_box follows — output normally
                 for p in preamble_parts:
@@ -622,6 +639,16 @@ def generate_section(data: dict, standalone: bool = False) -> str:
                 wb_gen = GENERATORS.get("writing_box")
                 if wb_gen:
                     preamble_parts.append(wb_gen(content[j]))
+                parts.append(
+                    f"\n#block(breakable: false)["
+                    f"\n{''.join(preamble_parts)}\n]\n"
+                )
+                consumed.add(j)
+            elif next_type == "answer_box":
+                # Group heading4+hint+prose+answer_box together
+                ab_gen = GENERATORS.get("answer_box")
+                if ab_gen:
+                    preamble_parts.append(ab_gen(content[j]))
                 parts.append(
                     f"\n#block(breakable: false)["
                     f"\n{''.join(preamble_parts)}\n]\n"

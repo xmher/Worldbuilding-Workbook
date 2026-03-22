@@ -28,13 +28,15 @@ In #emph[A Court of Silver Flames], Cassian forces Nesta into a punishment hike 
 Build the ecosystem first. The story will grow from what you've built.
 
 
-== Flora & Fauna in Romantasy
+#block(breakable: false)[
 
+== Flora & Fauna in Romantasy
 
 The natural world in your story serves the romance in three ways: as #strong[backdrop] (atmosphere and texture), as #strong[obstacle] (danger, scarcity, survival pressure), or as #strong[connector] (shared experiences, creature bonds, caring for animals together).
 
-
 === Nature's Romantic Functions
+
+]
 
 
 #workbook-table(
@@ -50,18 +52,19 @@ The natural world in your story serves the romance in three ways: as #strong[bac
 #divider()
 
 
-==== How does wilderness function in your romance?
+#block(breakable: false)[
 
+==== How does wilderness function in your romance?
 
 #hint[The natural world can pressure characters together, reveal who they really are, or connect them through shared experience. Which of these does your story use — and what specific wilderness element creates it?]
 
-
 #strong[How does wilderness create pressure, revelation, or connection between your characters? For each function that applies, describe the specific wilderness element and what it forces, reveals, or creates.]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #divider()
@@ -223,18 +226,19 @@ Inhabitants of your world do not encounter a neutral environment. Instead, the e
 ]
 
 
-==== How does your climate shape intimacy and romance?
+#block(breakable: false)[
 
+==== How does your climate shape intimacy and romance?
 
 #hint[What's scarce in your world is valuable. What's hidden is intimate. A glove removed in a freezing world means something different from bare skin in a tropical one. How does your world's climate affect what counts as a romantic gesture, a show of trust, or a moment of vulnerability?]
 
-
 #strong[How does your world's climate make something scarce or intimate? What specific climate element affects your romance, and how?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 == Food Chains & Natural Balance
@@ -261,18 +265,19 @@ If the magic in your world is dependent upon the land (as it is in ACOTAR, where
 #hint[If your world uses Earth-like wildlife, skip most of this — just note magical creatures or significant deviations.]
 
 
-==== What's at the top of the food chain in various environments?
+#block(breakable: false)[
 
+==== What's at the top of the food chain in various environments?
 
 #hint[These predators shape what your characters fear in the wild. Could any of them create danger or forced proximity in your story?]
 
-
 #strong[What apex predator inhabits your world's most important environment? How could it create danger or forced proximity between your characters?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -289,18 +294,19 @@ If the magic in your world is dependent upon the land (as it is in ACOTAR, where
 ]
 
 
-==== If your world has large magical creatures, what do they eat — and who provides it?
+#block(breakable: false)[
 
+==== If your world has large magical creatures, what do they eat — and who provides it?
 
 #hint[A hundred dragons at one military base require tonnes of meat per week. Someone raises that livestock. The dragon-riding nobility may never have given a second thought to the farming class that sustains them — and your protagonist might be from that class. What hidden dependency exists in your world, and could it create tension between your characters?]
 
-
 #strong[If your world has magical creatures, what do they consume and how much? Who provides it, at what cost, and could this dependency create tension between your characters?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 == Domesticated Animals & Animal Companions
@@ -336,18 +342,19 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
 #divider()
 
 
-==== What animals have been domesticated in your world?
+#block(breakable: false)[
 
+==== What animals have been domesticated in your world?
 
 #hint[Think about what your protagonist interacts with daily. Which animals reveal character through how people treat them?]
 
-
 #strong[What domesticated animals exist in your world? For the 2-3 most important, describe their purpose, what they are, and who keeps them.]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -367,80 +374,85 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
 #divider()
 
 
-==== Does your protagonist have an animal companion?
+#block(breakable: false)[
 
+==== Does your protagonist have an animal companion?
 
 #hint[How someone treats their animal reveals character. What does this companion show readers about your protagonist?]
 
-
 #strong[Does your protagonist have an animal companion? If so, what is it, what is its name, and what does the animal mean to them?]
-
 
 #answer-box(
   height: 180pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 ==== Does your love interest have an animal companion?
 
-
 #hint[Does the animal accept your protagonist? That small moment of acceptance can mark relationship progression.]
-
 
 #strong[Does your love interest have an animal companion? If so, what is it, what is its name, and what does the animal mean to them?]
 
-
 #answer-box(
   height: 180pt,
 )
 
+]
+
 
 #divider()
 
+
+#block(breakable: false)[
 
 ==== Could a stable, shared ride, or animal-care scene create intimacy in your story?
 
-
 #hint[Stables are private, physical, domestic — two people grooming a horse side by side strips away social performance. Sharing a saddle forces contact that neither character can avoid. Where could this kind of animal-adjacent intimacy show up in your story?]
 
-
 #strong[Describe a scene where an animal creates physical proximity or emotional intimacy between your characters. What's the scenario and how does it play out?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #divider()
 
 
-==== Do your characters encounter wildlife together?
+#block(breakable: false)[
 
+==== Do your characters encounter wildlife together?
 
 #hint[Shared encounters reveal who each person truly is. What might show your protagonist a new side of the love interest?]
 
-
 #strong[Describe a wildlife encounter your characters share. How does each react differently, and what does the contrast reveal about them?]
-
 
 #answer-box(
   height: 180pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 ==== Do your characters care for an animal together?
 
-
 #hint[Shared caregiving builds domestic intimacy and reveals nurturing instincts. What creature might bring them together?]
 
-
 #strong[Could your characters care for a creature together? What creature and why does it need care, and what does the experience create between them?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 == Agriculture, Wild Plants & Foraging
@@ -490,32 +502,34 @@ Agriculture creates the daily rhythms, class structures, and resource pressures 
 ]
 
 
-==== What non-food crops are important?
+#block(breakable: false)[
 
+==== What non-food crops are important?
 
 #hint[Cloth, medicine, and intoxicants shape daily life. What might your characters wear, use for healing, or drink?]
 
-
 #strong[Beyond staple food, what fiber, medicinal, and intoxicant plants exist in your world? What are they used for?]
-
 
 #answer-box(
   height: 180pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 ==== How does food, land, or agriculture create tension in your romance?
 
-
 #hint[Land is power. Scarcity forces alliances. Harvest festivals blur social boundaries. A character who splits their last loaf of bread with a stranger has earned the right to fall in love. What agricultural reality puts pressure on your characters' relationship?]
 
-
 #strong[How does agriculture or the harvest cycle create a romantic opportunity or obstacle in your story?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #divider()
@@ -545,18 +559,19 @@ At its core, foraging is domestic intimacy transplanted to the wilderness. Two p
 #divider()
 
 
-==== What can be gathered from the wild — and what's dangerous?
+#block(breakable: false)[
 
+==== What can be gathered from the wild — and what's dangerous?
 
 #hint[What your characters know about wild plants reveals where they've been and how they've survived. A gap in knowledge between your characters is a gap in experience — and that's where romantic tension lives.]
 
-
 #strong[What plants in your world are safe to eat and which are dangerous? Who would know the difference, and who wouldn't — and how could this knowledge gap matter in your story?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -573,18 +588,19 @@ At its core, foraging is domestic intimacy transplanted to the wilderness. Two p
 ]
 
 
-==== Could a foraging or plant-knowledge scene build your romance?
+#block(breakable: false)[
 
+==== Could a foraging or plant-knowledge scene build your romance?
 
 #hint[One character teaching the other to find food. Fingers brushing over leaves. The "powerful" one suddenly dependent on the "ordinary" one who knows which mushrooms won't kill them. Could this reversal or intimacy work in your story?]
 
-
 #strong[Which character knows about plants and which is out of their depth? What does this knowledge gap reveal about each of them, and what intimate moment could foraging create?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 == Medicine & Healing
@@ -602,46 +618,49 @@ In #emph[From Blood and Ash], Poppy's empathic healing abilities create physical
 #divider()
 
 
-==== What natural remedies exist?
+#block(breakable: false)[
 
+==== What natural remedies exist?
 
 #hint[Healing scenes create intimacy. What would one character use to tend the other's wounds or illness?]
 
-
 #strong[What natural remedies exist in your world for pain, fever, and infection/wounds?]
-
 
 #answer-box(
   height: 180pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 ==== Can you picture a healing scene in your story?
 
-
 #hint[Healing scenes are about trust, vulnerability, and physical closeness. One character can't move away. The other has to stay close. What situation might create this moment between your characters?]
-
 
 #strong[Plan a healing scene. Who's injured or ill, who does the healing, why is this moment intimate (what walls come down), and what small physical detail carries the emotion?]
 
-
 #answer-box(
   height: 180pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 ==== Is there a plant that's crucial to your plot?
 
-
 #hint[A cure for a curse? The only antidote to a poison? A rare ingredient for a necessary spell?]
 
-
 #strong[Is there a crucial plant in your story? What is it, what does it do, where is it found, and why is it hard to obtain?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 == Dangerous Creatures
@@ -659,18 +678,19 @@ Shared dangerous encounters bond characters because they've seen each other in s
 #divider()
 
 
-==== What are the most dangerous creatures in your world?
+#block(breakable: false)[
 
+==== What are the most dangerous creatures in your world?
 
 #hint[Danger forces characters together. What creature might your protagonist and love interest need to survive together?]
 
-
 #strong[What dangerous creatures inhabit your world? For each, describe where they're found and why they're dangerous to your characters.]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 == Magical Creatures & Creature Bonds
@@ -714,18 +734,19 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 )
 
 
-==== What magical creatures exist in your world?
+#block(breakable: false)[
 
+==== What magical creatures exist in your world?
 
 #hint[Consider creatures that might bond with characters, serve as obstacles, or hold symbolic meaning in your story.]
 
-
 #strong[Describe your world's most important magical creatures. For each, what is their intelligence level, what magical abilities do they have, and what is their relationship with humans?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -773,18 +794,19 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 ]
 
 
-==== How does the bond form?
+#block(breakable: false)[
 
+==== How does the bond form?
 
 #hint[The strongest bonding scenes share a structure: crisis, then choice, then fusion. Tairn bonds with Violet because she risks her life to defend a weaker dragon. Manon chooses the battered "bait beast" everyone dismissed. What crisis and choice could trigger the bond in your story?]
 
-
 #strong[If your characters bond with creatures, describe the bonding process: What crisis triggers it? What choice reveals character? Why does the bond form?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -815,18 +837,19 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 ]
 
 
-==== Do your characters have bonded creatures?
+#block(breakable: false)[
 
+==== Do your characters have bonded creatures?
 
 #hint[Bonded creatures create shared responsibility and parallel romantic bonds. How might these relationships mirror or contrast with the romance?]
 
-
 #strong[If both characters have bonded creatures, describe each: What type of creature, what is its name, and what is the nature of the bond?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -857,19 +880,19 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 ]
 
 
-== Weather, Seasons & Environmental Pressure
+#block(breakable: false)[
 
+== Weather, Seasons & Environmental Pressure
 
 Weather and seasons aren't just atmosphere. They're engines. A blizzard doesn't just look dramatic; it removes every option except shared warmth. A harvest festival doesn't just provide a pretty backdrop; it creates a social deadline where vows carry weight and secrets surface. The best romantasy authors treat weather as a character in its own right, something that acts on the protagonists and forces choices they wouldn't otherwise make.
 
-
 Winter is the classic crucible. Resource scarcity demands communal warmth, and shared shelter strips away titles and duties. The snowed-in cabin, the shared cloak, the single fire. These tropes work because the environment leaves no polite alternative to intimacy. In #emph[Fourth Wing], the brutal winter training at Basgiath intensifies the physical and psychic connection between Violet and Xaden. When their dragons mate during a snowstorm, the referred sensations drive them into the freezing night, where the only way to manage the psychic bleed-through is to share their most private mental landscapes.
-
 
 Spring works differently. Where winter compresses, spring reveals. It shows the damage that was hidden beneath the frozen surface. Characters emerging from trauma don't snap back to who they were; they become something new, and that becoming is messy and nonlinear. In #emph[ACOTAR], Feyre's healing after Under the Mountain mirrors the return of the seasons themselves. Learning to paint again during Starfall. Growing into power she didn't ask for.
 
-
 Seasonal festivals create social pressure that characters can't avoid. Calanmai in the Spring Court is a fertility ritual that forces Feyre to confront her attraction to Tamlin. Starfall in the Night Court becomes the moment Feyre laughs for the first time since her trauma, while Rhysand watches. These aren't background events. They're pivot points where desire quietly complicates everything.
+
+]
 
 
 #workbook-table(
@@ -884,36 +907,36 @@ Seasonal festivals create social pressure that characters can't avoid. Calanmai 
 )
 
 
-==== What seasonal or weather event matters most to your romance?
+#block(breakable: false)[
 
+==== What seasonal or weather event matters most to your romance?
 
 #hint[A blizzard that removes every option except shared warmth. A festival where desire quietly complicates everything. A spring thaw that mirrors messy healing. What weather or seasonal moment will your romance hinge on?]
 
-
 #strong[Describe a weather event or seasonal moment that matters to your romance. Where are your characters when it hits, and what does it force them to do or feel?]
-
 
 #answer-box(
   height: 180pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 == Symbolism & Cultural Meaning
 
-
 Cultures attach meaning to plants and animals. Symbols, omens, sacred creatures. A flower given as a gift means more when readers know what it symbolises. But symbolism works best when it's woven in, not announced. Don't have a character explain that ravens mean death. Instead, show a raven landing on the windowsill the morning of the duel, and let the reader feel the chill.
-
 
 === Nature as a Mirror
 
-
 The natural world can track the emotional arc of your romance if you let it. Barren landscapes during emotional distance. Blooming during vulnerability. Storms during conflict. This technique, sometimes called pathetic fallacy, works because readers instinctively connect weather and mood. But it only lands when the emotion is strong enough to justify it. A gentle disagreement doesn't need a thunderstorm. A soul-shattering betrayal earns one.
-
 
 In #emph[ACOTAR], the Spring Court literally blooms as Feyre heals, and decays into winter-like blight when the relationship with Tamlin collapses. The land's health #emph[is] the emotional stakes, made visible. In #emph[Jane Eyre], Brontë has Jane imagine a December storm in the middle of June when Rochester's secret is revealed. The seasonal reversal mirrors the shock of hope dying in a single moment. These aren't decorative choices. They're structural ones that make the reader feel the emotional shift in their body.
 
-
 The seasons map naturally onto a relationship arc:
+
+]
 
 
 #workbook-table(
@@ -945,60 +968,65 @@ And don't announce the connection. "The rain matched her sadness" kills the effe
 #divider()
 
 
-==== Could the natural world mirror a key emotional moment in your romance?
+#block(breakable: false)[
 
+==== Could the natural world mirror a key emotional moment in your romance?
 
 #hint[The best environmental mirroring feels inevitable, not forced. Pick your story's most emotionally intense moment and consider what the natural world could be doing around your characters — not to explain the emotion, but to make the reader feel it in their body.]
 
-
 #strong[Describe a key emotional moment in your story. What is the environment doing at that moment, and why does the combination work (what does it make the reader feel)?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #divider()
 
 
-==== What creatures have symbolic meaning in your culture?
+#block(breakable: false)[
 
+==== What creatures have symbolic meaning in your culture?
 
 #hint[Symbols add layers to scenes without a word of dialogue. A raven landing on the windowsill the morning of the duel. A white stag appearing the night before a proposal. What creature might appear at a significant romantic moment, and what would it mean?]
 
-
 #strong[What creatures carry symbolic meaning in your world (love, death, power, luck)? How could you use one in a scene to create subtext?]
-
 
 #answer-box(
   height: 180pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 ==== What plants have symbolic meaning?
 
-
 #hint[Symbols add layers to scenes without a word of dialogue. A flower given as a gift, a tree that blooms out of season, a herb burnt at a funeral. What plants carry meaning in your world, and how might you use them in a scene?]
-
 
 #strong[Is there a plant in your world with symbolic meaning? What does it represent, and how could you use it in a scene?]
 
-
 #answer-box(
   height: 180pt,
 )
 
+]
+
+
+#block(breakable: false)[
 
 == Integration Check
 
-
 #strong[How do plants and animals connect to other aspects of your world? Consider: How do they enable or restrict magic? Does control of creatures or resources create political power? How have creatures shaped history? Do seasonal cycles create festivals or forced proximity?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #structured-table(
@@ -1107,18 +1135,19 @@ The best inter-species romances let the human partner discover these differences
 #divider()
 
 
-==== What biological differences exist between your species?
+#block(breakable: false)[
 
+==== What biological differences exist between your species?
 
 #hint[Consider: strength, speed, senses, temperature, diet, sleep patterns, healing, aging, reproduction. These should feel visceral and constant — not mentioned once and then forgotten.]
 
-
 #strong[What physical differences exist between your protagonist and love interest (body temperature, physical abilities, senses, diet/sleep, aging/healing)? For the most significant differences, how do they affect the relationship?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -1193,18 +1222,19 @@ Aragorn and Arwen's relationship in The Lord of the Rings establishes the preced
 #divider()
 
 
-==== How long does each species typically live?
+#block(breakable: false)[
 
+==== How long does each species typically live?
 
 #hint[Lifespan disparity creates profound romantic stakes. How does knowing one will outlive the other shape the relationship?]
 
-
 #strong[What is each character's species and expected lifespan? How does any disparity affect the relationship?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -1312,18 +1342,19 @@ Keep in mind the fine line between "instinct creates tension" and "instinct elim
 ]
 
 
-==== What does restraint look like in the body?
+#block(breakable: false)[
 
+==== What does restraint look like in the body?
 
 #hint[The romance lives in the gap between what your non-human character could do and what they choose not to. That gap needs to be visible. What physical tells show your character is holding back — and what happens in the moments when control slips?]
 
-
 #strong[If one character has dangerous instincts, describe: What are the physical tells of control? What does the human partner notice (and what do they understand about it)? What happens when control slips?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 == Mate Bonds & Biological Destiny
@@ -1391,18 +1422,19 @@ The most satisfying mate bond romances do one or more of these:
 ]
 
 
-==== Design your mate bond
+#block(breakable: false)[
 
+==== Design your mate bond
 
 #hint[The best mate bonds create circumstances, not feelings. How does yours work — and where does it leave room for the characters to build the actual relationship?]
 
-
 #strong[If your story uses a mate bond or fated bond: Does the bond create feelings or just proximity/awareness? Can it be rejected, and at what cost? Does recognition happen before or after they fall in love? Does either character fight the bond, and why?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 == The Monster Question
@@ -1531,18 +1563,19 @@ Show the exhaustion of navigating hostile spaces, and the relief of spaces where
 ]
 
 
-==== What do each character's families/communities think of the relationship?
+#block(breakable: false)[
 
+==== What do each character's families/communities think of the relationship?
 
 #hint[External opposition raises stakes. Whose disapproval hurts most, and what would each character sacrifice to be together?]
 
-
 #strong[How do each character's family and community react to their cross-species relationship?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #block(breakable: false)[
@@ -1559,18 +1592,19 @@ Show the exhaustion of navigating hostile spaces, and the relief of spaces where
 ]
 
 
-==== What does daily friction look like for your couple?
+#block(breakable: false)[
 
+==== What does daily friction look like for your couple?
 
 #hint[The tension of living between worlds isn't one big confrontation — it's the accumulation of small moments. The conversation that stops when they enter. The friend who "forgets" to invite them. What small, recurring frictions would your couple face — and does the "insider" partner always notice?]
 
-
 #strong[What small, daily friction does the cross-species relationship create? Who experiences it, and does the other partner even notice?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 == Transformation & Change
@@ -1631,18 +1665,19 @@ Bella's transformation in the Twilight saga is the structural element upon which
 ]
 
 
-==== Who wants transformation — and who doesn't?
+#block(breakable: false)[
 
+==== Who wants transformation — and who doesn't?
 
 #hint[Disagreement about transformation creates tension. Does one want to change and the other resist it? Why? And what are they each afraid of losing?]
 
-
 #strong[If species transformation is possible in your world: Does each character want it? Why or why not? What are they afraid of losing?]
-
 
 #answer-box(
   height: 180pt,
 )
+
+]
 
 
 #divider()

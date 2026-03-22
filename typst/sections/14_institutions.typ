@@ -1303,19 +1303,19 @@ Sharing a bedroom, seeing each other sick, navigating servants who report everyt
 )
 
 
-== Prison & Captivity
+#block(breakable: false)[
 
+== Prison & Captivity
 
 Captivity is one of romantasy's most potent institutional settings because it strips everything else away. There are no social niceties, no schedules, no institutional hierarchy to navigate. There's just two people, a locked door, and whatever power imbalance exists between them. This creates the ultimate setting for both intense proximity and vulnerability that other institutions take chapters to build; captivity gets there in a single scene.
 
-
 This setting has deep roots. Gothic literature built entire genres around heroines confined in towers, manors, and dungeons, but modern romantasy has transformed the dynamic completely. The captive is no longer a passive victim waiting for rescue. Instead she's an active agent, using her confinement as a catalyst for growth, information-gathering, and eventually overthrowing the systems that caged her. Think of Feyre Under the Mountain, Poppy as the veiled Maiden in From Blood and Ash, or Lara infiltrating Ithicana as a bride-spy in The Bridge Kingdom. Each of these women were forged inside the cage.
-
 
 === Types of Captivity
 
-
 Not all confinement looks the same, and the type you choose shapes the romance differently.
+
+]
 
 
 #workbook-table(

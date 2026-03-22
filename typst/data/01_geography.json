@@ -945,10 +945,6 @@
       "type": "divider"
     },
     {
-      "type": "heading2",
-      "text": "Resources & Territorial Control"
-    },
-    {
       "type": "heading3",
       "text": "Reference: Natural Resource Ideas"
     },
@@ -1070,10 +1066,6 @@
       "type": "divider"
     },
     {
-      "type": "heading2",
-      "text": "The Sensory World"
-    },
-    {
       "type": "heading4",
       "text": "What does your primary setting look, sound, smell, and feel like?"
     },
@@ -1150,10 +1142,6 @@
     },
     {
       "type": "divider"
-    },
-    {
-      "type": "heading2",
-      "text": "Climate, Weather & Seasons"
     },
     {
       "type": "heading4",
@@ -1247,10 +1235,6 @@
       "type": "divider"
     },
     {
-      "type": "heading2",
-      "text": "Dangerous Regions"
-    },
-    {
       "type": "heading4",
       "text": "What regions are dangerous or forbidden?"
     },
@@ -1301,10 +1285,6 @@
     },
     {
       "type": "divider"
-    },
-    {
-      "type": "heading2",
-      "text": "Borders & Boundaries"
     },
     {
       "type": "heading4",
@@ -1387,10 +1367,6 @@
     },
     {
       "type": "divider"
-    },
-    {
-      "type": "heading2",
-      "text": "Home & Belonging"
     },
     {
       "type": "heading4",
@@ -1477,10 +1453,6 @@
       "type": "divider"
     },
     {
-      "type": "heading2",
-      "text": "Entering Each Other's Worlds"
-    },
-    {
       "type": "heading4",
       "text": "Does one character visit the other's home territory?"
     },
@@ -1563,10 +1535,6 @@
     },
     {
       "type": "divider"
-    },
-    {
-      "type": "heading2",
-      "text": "Travel & Distance"
     },
     {
       "type": "heading4",
@@ -1691,10 +1659,6 @@
     },
     {
       "type": "divider"
-    },
-    {
-      "type": "heading2",
-      "text": "Isolated Locations"
     },
     {
       "type": "heading4",
