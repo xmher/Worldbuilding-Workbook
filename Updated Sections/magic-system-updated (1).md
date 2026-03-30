@@ -2042,7 +2042,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What does the more powerful character have that the other wants or needs? What could they give — or withhold?**
+**What does the more powerful character have that the other wants or needs?**
+
+*Think about what they could give freely -- and what they could withhold.*
 
 _______________________________________________________________
 
@@ -2050,7 +2052,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Now flip it: what does the "weaker" character have that the powerful one lacks? Knowledge, skills, connections, immunity, moral clarity, the ability to say no?**
+**What does the less powerful character have that the powerful one lacks?**
+
+*Knowledge, skills, connections, immunity, moral clarity, the ability to say no -- power isn't just magic.*
 
 _______________________________________________________________
 

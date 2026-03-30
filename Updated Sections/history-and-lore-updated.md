@@ -974,8 +974,6 @@ _______________________________________________________________
 ---
 
 **What major event happened within living memory (last 50-80 years)?**
-
-**What happened, and how did it shape the world your characters grew up in?**
 *Name the event, when it occurred, and the marks it left -- on borders, families, laws, or daily life.*
 
 *(Write your answer below)*
@@ -985,8 +983,6 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
-
-**How did this event affect your characters' families?**
 
 **How did this event affect each character's family?**
 *What did the protagonist's family gain or lose? What about the love interest's family? Were they on the same side, or opposing sides?*
