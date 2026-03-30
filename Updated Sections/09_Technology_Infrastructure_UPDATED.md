@@ -627,7 +627,16 @@ The key to using this technique is selective realism. Identify the general odour
 **What does your world smell like, and what does your love interest smell like against that background?**
 *Scent is one of romantasy's most powerful sensory tools. Identify the baseline smells of your world, then layer your love interest's distinctive scent on top. The contrast between the ordinary and the intoxicating is what makes it land on the page.*
 
-**What does your world generally smell like? What does your love interest smell like against that background? What's the in-world justification for their scent, and how does it make your protagonist feel?**
+**What does your world generally smell like?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+**What does your love interest smell like against that background?**
+*Think about the in-world justification for their scent (herbal wash, scented oils, magical essence, or just the poetic focus of a narrator falling in love) and how it makes your protagonist feel.*
 
 *(Write your answer below)*
 
@@ -663,7 +672,17 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 **What food is available to different classes?**
 *Food marks class in visible ways. A shared meal across class lines reveals everything: the character who's never eaten anything sweet reacts differently to a feast than the one who takes it for granted.*
 
-**What food is available to different classes in your world (wealthy, common, poor)? How do these differences become visible when your characters share a meal?**
+**What food is available to the wealthy, to ordinary people, and to the poor?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**What does your protagonist typically eat? What does your love interest typically eat?**
 
 *(Write your answer below)*
 
@@ -674,10 +693,7 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 &nbsp;
 
 **What would a shared meal reveal about the gap between your characters?**
-*Shared meals are power negotiations. Who hosts, who serves, who speaks, who may leave — all of this communicates status, care, and vulnerability. A character who has never eaten anything sweet reacts differently to a feast than the character who takes it for granted.*
-
-**What does your protagonist typically eat? What does your love interest typically eat? What would a shared meal reveal about their dynamic?**
-*Hint: Think about who would feel out of place — and whether a meal could become a turning point in their relationship.*
+*Shared meals are power negotiations. Who hosts, who serves, who speaks, who may leave — all of this communicates status, care, and vulnerability. Think about who would feel out of place, and whether a meal could become a turning point in their relationship.*
 
 *(Write your answer below)*
 
@@ -686,6 +702,11 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 &nbsp;
 
 &nbsp;
+
+**How does food reach people in your world?**
+*Markets, trade caravans, local farms, foraging — the supply chain determines what happens when it breaks. A city that depends on grain shipments is vulnerable to siege; a village that grows its own food is self-sufficient but limited.*
+
+_______________________________________________________________
 
 ### Timekeeping
 
@@ -917,7 +938,8 @@ The biggest difference between the two is that *sparring* is a consensual and er
 **What weapons exist?**
 *Available weapons shape both conflict and protection. What your protagonist can fight with — or against — determines the physical stakes of every dangerous scene and how much they depend on the person beside them.*
 
-**What weapons exist in your world? List examples of melee, ranged, siege, and magical weapons.**
+**What weapons exist in your world?**
+*List examples of melee, ranged, siege, and magical weapons.*
 
 *(Write your answer below)*
 
@@ -944,15 +966,12 @@ Training scenes are some of romantasy's most effective tension-builders. Physica
 **Is there a training or sparring dynamic between your characters?**
 *Training scenes work because they disguise intimacy as necessity: physical proximity, physical contact, one person in authority over another's body, all under the cover of "practice." If your characters train together or one teaches the other, map the romantic potential.*
 
-**Is there a training or sparring dynamic between your characters? Who trains whom (or are they equals), what's being taught, what creates the tension, and how do they act once weapons are put down?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+| Question | Your Answer |
+|---|---|
+| Who trains whom, or are they equals? | |
+| What skill is being taught? | |
+| What creates the tension? | |
+| How do they act once weapons are put down? | |
 
 **Does your story use sparring, actual combat, or both to develop the romance?**
 *Sparring and combat serve different romantic functions. Sparring is consensual intimacy disguised as practice — it builds trust, creates sanctioned touch, and lets characters attribute their physical awareness to necessity. Actual combat is dangerous vulnerability under real threat — it bonds through shared survival and reveals who your characters are when stakes are lethal. Knowing which you're using, and when, helps you control the tone.*
@@ -989,7 +1008,8 @@ Universal? Class-restricted? Gender-restricted? If your characters come from dif
 **Does knowledge create a power dynamic between your characters?**
 *When one character can read and the other can't, when one has access to information the other is denied, the knowledge gap becomes a source of dependency, shame, or intimacy. Teaching someone is an act of trust. Withholding knowledge is an act of control.*
 
-**Does either character have knowledge the other lacks? Does one teach the other, and how does the knowledge gap affect their dynamic (dependency, shame, wonder, trust)?**
+**Does either character have knowledge the other lacks? How does the gap affect their dynamic?**
+*Think about whether one teaches the other, and whether the gap creates dependency, shame, wonder, or trust.*
 
 *(Write your answer below)*
 
@@ -1026,7 +1046,8 @@ Does magic interfere with technology or vice versa?
 **How does the magic/technology divide affect your characters' relationship?**
 *When one character has access to magical solutions and the other relies on slower, harder alternatives, the gap creates dependency, resentment, or wonder. This asymmetry is fuel for romantic tension.*
 
-**What magical solution does one character have that the other doesn't? How does the character without magic solve the same problem, and does the divide create dependency, resentment, wonder, or something else?**
+**What magical solution does one character have that the other doesn't?**
+*Think about how the character without magic solves the same problem, and whether the divide creates dependency, resentment, wonder, or something else.*
 
 *(Write your answer below)*
 
@@ -1041,7 +1062,7 @@ Does magic interfere with technology or vice versa?
 **Did past civilisations have technology now lost?**
 *Lost technology creates mystery and possibility. What ancient wonders might your characters discover or seek — and could the quest to find them bring your characters together or drive them apart?*
 
-**Did past civilisations have technology now lost? What was lost, why was it lost, and could it be rediscovered?**
+**What was lost, why, and could it be rediscovered?**
 
 *(Write your answer below)*
 
@@ -1054,7 +1075,7 @@ Does magic interfere with technology or vice versa?
 **Is any technology restricted or forbidden?**
 *Forbidden technology creates temptation and danger. A character willing to risk punishment to access forbidden knowledge or tools reveals how much they're willing to sacrifice — and a shared secret about forbidden technology binds characters together.*
 
-**Is any technology restricted or forbidden in your world? What's restricted, who restricts it and why, and what are the consequences for using it?**
+**What technology is restricted or forbidden? Who restricts it, and what happens if someone uses it anyway?**
 
 *(Write your answer below)*
 
@@ -1073,7 +1094,8 @@ Now that you've established your world's technology level, think about how it sp
 **What technology does each character have access to?**
 *Differing access creates imbalance. What does each character take for granted that the other finds remarkable or impossible?*
 
-**What technology does your protagonist have access to? What about your love interest? What does one take for granted that the other finds remarkable?**
+**What technology does your protagonist have access to? What about your love interest?**
+*Think about what one takes for granted that the other finds remarkable or impossible.*
 
 *(Write your answer below)*
 
@@ -1094,7 +1116,7 @@ What does one have that the other doesn't?
 **How do they communicate when separated?**
 *Distance communication shapes the texture of separation. Letters reread until worn, messages that might never arrive, or instant magical contact. Each creates a different emotional reality.*
 
-**How do your characters communicate when separated? What method do they use, how long do messages take, and what risk exists in their communication?**
+**What method do your characters use, how long do messages take, and what risk exists?**
 
 *(Write your answer below)*
 
@@ -1107,7 +1129,7 @@ What does one have that the other doesn't?
 **What privacy do they have?**
 *Privacy determines where intimacy is possible. Where and when can your characters be truly alone together — and what changes when they finally are?*
 
-**Where can your characters be truly alone together? Who might observe or overhear them?**
+**Where and when can your characters be truly alone together? Who might observe or overhear them?**
 
 *(Write your answer below)*
 

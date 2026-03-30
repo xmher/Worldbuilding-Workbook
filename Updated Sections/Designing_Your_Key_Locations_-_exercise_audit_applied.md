@@ -64,10 +64,6 @@ Different relationship dynamics interact with locations differently. Have a thin
 | Second chance | Enables intimacy + history/memory | They need a space that echoes what they had and shows what's changed |
 | Fated mates / bonded pairs | Active magical spaces + forced connection | The magic of the space (or the bond) mandates proximity and emotional bleed; they can't run from what they feel |
 
-**Map your pairing to the location pressure it needs most.**
-
-*Use the tables above to identify which types of pressure your romance needs. You don't have to limit yourself to one — the strongest locations combine two or more.*
-
 **What is your pairing dynamic, and which one or two types of location pressure does it need most?**
 
 *For example, enemies to lovers typically needs forced connection + risk. Refer to the tables above. You can combine more than one pressure type.*
@@ -79,6 +75,14 @@ Different relationship dynamics interact with locations differently. Have a thin
 &nbsp;
 
 &nbsp;
+
+**Which of your planned locations already creates this pressure -- and which ones don't?**
+
+*Check your existing locations against the pressure type you identified above. If a location doesn't create the right kind of pressure for your pairing, it may need redesigning or a different scene.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 
@@ -307,7 +311,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What intimacy does the space allow?**
+**What kinds of closeness does this space make possible?**
 
 Physical (can they touch, stand close, be comfortable):
 
@@ -317,7 +321,9 @@ Emotional (can they speak freely, show vulnerability):
 
 _______________________________________________________________
 
-**What intimacy is impossible here — and why?**
+**What kinds of closeness are impossible here -- and why?**
+
+*The gap between what the space allows and what it prevents is where romantic tension lives. A space that allows physical closeness but prevents honest conversation creates a very different scene than one that does the opposite.*
 
 _______________________________________________________________
 
@@ -357,7 +363,17 @@ Time of day also shapes the *type* of romantic tension a space creates. At dawn,
 
 _______________________________________________________________
 
-How might weather transform this space? Is weather significant in the scene that happens here?
+**How does weather change what's possible in this space?**
+
+*Rain forces characters under the same shelter. Snow isolates. Fog hides. Wind makes whispered conversation impossible unless they lean close. Think about whether weather plays a role in the scene that happens here.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How does this location change across seasons?**
+
+*A frozen lake is a road in winter and a barrier in summer. A garden is lush in spring and skeletal in autumn. If your story spans time, the season shapes what the location offers and what it denies.*
 
 _______________________________________________________________
 
@@ -397,25 +413,25 @@ _______________________________________________________________
 
 ---
 
-**Does your location seem to have a will or character of its own?**
+**Does this location feel like it has a will of its own?**
 
-A house that feels welcoming or hostile, a forest that seems to lead them somewhere, a room that holds secrets:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How does the location "respond" to the characters?**
-
-Does it seem to help them (convenient shelter, paths that lead where they need)? Resist them (doors that stick, paths that mislead)? Reveal things to them (hidden rooms, unexpected views)?
+*A house that feels welcoming or hostile, a forest that seems to lead them somewhere, a room that holds secrets. Even non-magical locations can feel alive to the characters moving through them.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What personality would you give this location if it were a character?**
+**How does the location seem to respond to the characters?**
 
-Protective, threatening, indifferent, playful, melancholy, ancient, patient?
+*Does it help them -- convenient shelter, paths that lead where they need? Resist them -- doors that stick, paths that mislead? Reveal things to them -- hidden rooms, unexpected views? Think about whether the space feels cooperative, obstructive, or indifferent.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**If this location were a character, what would its personality be?**
+
+*Protective, threatening, indifferent, playful, melancholy, ancient, patient? A location's "personality" shapes how characters feel within it -- and a space that feels hostile creates very different scenes than one that feels welcoming.*
 
 _______________________________________________________________
 
@@ -477,19 +493,25 @@ Use the table below to identify how the magic of this space serves your scene:
 
 &nbsp;
 
-Does the magic of this space bypass your characters' defences? Emotion-responsive environments, truth-compelling pools, sin-testing corridors. These spaces force a transparency that characters would never choose voluntarily. If your location has this property, it can accelerate intimacy in a way that feels earned because it's the space doing the work, not a convenient change of heart.
+**Does the magic here bypass your characters' defences?**
+
+*Emotion-responsive environments, truth-compelling pools, sin-testing corridors -- these spaces force a transparency that characters would never choose voluntarily. If your location has this property, it can accelerate intimacy in a way that feels earned because the space is doing the work, not a convenient change of heart.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-Does the magic create safety or danger, or both? The House of Wind provides sanctuary but also isolation. The wards of Navarre protect but also trap. The best magical locations offer something your characters desperately need while simultaneously taking something away.
+**Does the magic here create safety, danger, or both?**
+
+*The best magical locations offer something your characters desperately need while simultaneously taking something away. The House of Wind provides sanctuary but also isolation. The wards of Navarre protect but also trap.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-Could this location's magical properties change over the course of the story? Wards that weaken, sentient spaces that grow hostile, enchantments that fade or intensify. Shifting magical properties can mirror the shifting relationship.
+**How might this location's magical properties change over the course of the story?**
+
+*Wards that weaken, sentient spaces that grow hostile, enchantments that fade or intensify. Shifting magical properties can mirror the shifting relationship.*
 
 _______________________________________________________________
 

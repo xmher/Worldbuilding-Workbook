@@ -53,8 +53,8 @@ Primary subtype: _______________________________________________________________
 
 Secondary subtype(s): _______________________________________________________________
 
-**How do your subtypes stack on top of each other?**
-*The combination matters more than either type alone. In* Fourth Wing, *institutional confinement (can't leave the academy) meets magical binding (the dragon bond), so even within the institution, Violet can't avoid Xaden specifically.*
+**Where do your subtypes overlap to tighten the trap?**
+*The combination matters more than either type alone. In* Fourth Wing, *institutional confinement (can't leave the academy) meets magical binding (the dragon bond), so even within the institution, Violet can't avoid Xaden specifically. Look for the point where your layers intersect — that's where avoidance becomes truly impossible.*
 
 _______________________________________________________________
 
@@ -286,7 +286,7 @@ Allies, rivals, authority figures, servants? Others shape what your leads can sa
 
 ___
 
-**What rules or expectations do other people create for how the protagonists behave?**
+**What can't your protagonists do because other people are watching?**
 *Must they hide their feelings? Maintain appearances? Compete for attention? Perform a relationship that isn't real (yet)?*
 
 ___
@@ -389,6 +389,11 @@ What do they have to do together every single day?
 
 ___
 
+**How do ordinary people in the setting cope with the same confinement?**
+*Your leads aren't the only ones trapped. Servants, lower-ranking members, civilians — how do people with less power or fewer choices handle the same daily pressures? Their experience can ground the pressure cooker in your world rather than making it feel like it exists only for the romance.*
+
+___
+
 ---
 
 ## The Body in the Room
@@ -488,7 +493,7 @@ _______________________________________________________________
 | Protagonist | | | |
 | Love interest | | | |
 
-**How does each character's inner voice change from the start of confinement to the end?**
+**What does each character's inner voice sound like at the start versus the end?**
 *Early on, the other person might barely register — or register as a threat, an annoyance, an obligation. Track how that framing shifts as proximity does its work.*
 
 ___
@@ -555,7 +560,7 @@ Seek solitude? Seek each other? Process what's happening? Avoid thinking about i
 
 ___
 
-**How does relief feel different as the relationship develops?**
+**What does relief look like early on versus later?**
 Early on, relief might mean escaping each other. Later, it might mean finding each other.
 
 - At first, relief means: _______________________________________________
@@ -588,8 +593,8 @@ A confession? A kiss? A fight that turns into something else? Magic that escapes
 
 ___
 
-**How does your worldbuilding externalise the internal tension?**
-Does magic respond to their emotions? Does the environment shift? Does something physical happen that makes the invisible visible?
+**How does your world make the invisible tension visible?**
+*Does magic respond to their emotions? Does the environment shift? Does something physical happen that shows what the characters are feeling inside?*
 
 ___
 
@@ -627,6 +632,11 @@ ___
 | Medium (building/location) | | | |
 | Small (room/space) | | | |
 
+**Where inside the pressure cooker is conflict most likely to erupt?**
+*Specific locations, specific moments. The mess hall after a bad day, the training yard when ranks are announced, the shared quarters at night. Identify the flashpoints where tension is hardest to contain.*
+
+___
+
 **The peak pressure moment:**
 When proximity is most intense, most inescapable:
 
@@ -641,6 +651,13 @@ ___
 *Supply lines fail. Authority figures lose control. Rules stop being enforced. Alliances fracture. When the structure that held the pressure cooker together starts to crack, the characters lose their routines, their safety nets, and their excuses for maintaining distance. What breaks first in your setting, and how does that breakdown force your characters closer together — or threaten to tear them apart?*
 
 ___
+
+**What does each character stand to lose personally if the pressure cooker fails?**
+*Not the plot stakes — the personal ones. A shot at redemption, a family member's safety, their reputation, their sense of identity. The higher the personal cost of failure, the more the confinement weighs on them — and the more they need the other person, whether they admit it or not.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 

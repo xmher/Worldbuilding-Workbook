@@ -539,8 +539,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What would it mean for the love interest to see them in that state?**
-Is this something they'd normally hide?
+**How would the love interest react to seeing them at their most vulnerable?**
+
+*Is this something your character would normally hide? What changes if someone they care about witnesses it?*
 
 _______________________________________________________________
 
@@ -602,6 +603,16 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
+**What does your character struggle with most in their training?**
+
+*The thing your character finds hardest to master tells you something about who they are. A character who can't control their power has a different arc than one who can't access it. What specific skill, technique, or threshold is their biggest obstacle?*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
 **Does the training require physical proximity or contact?**
 
 *Combat training, shared rituals, mental shielding, guided meditation, channelling through touch — any of these create a functional excuse for closeness that can become charged. The question isn't just whether they have to be near each other, but what that nearness forces them to feel.*
@@ -650,9 +661,9 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**Does surpassing the teacher change the romantic dynamic?**
+**How does the relationship change once the student no longer needs the teacher?**
 
-*It should. The relationship that began as "I'll teach you" needs to become "we teach each other" or "you don't need me anymore, but you still want me." The shift from need to choice is where the romance deepens.*
+*The dynamic that began as "I'll teach you" needs to become "we teach each other" or "you don't need me anymore, but you still want me." The shift from need to choice is where the romance deepens.*
 
 _______________________________________________________________________________
 
@@ -763,9 +774,9 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**How might the cost of magic create stakes in the relationship?**
+**What would your protagonist pay, magically, to protect someone they love?**
 
-*When magic demands sacrifice, what would one character pay to protect the other — and what would the other feel about that price? The most devastating romantic moments in the genre come from one character paying a cost the other didn't ask for and can't repay.*
+*When magic demands sacrifice, the most devastating moments come from one character paying a cost the other didn't ask for and can't repay. What price would your protagonist be willing to pay -- and what would the person they paid it for feel about that choice?*
 
 _______________________________________________________________________________
 
@@ -1793,7 +1804,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Can two people in your world be emotionally intimate without any magical component? What does purely human closeness look like against the backdrop of your magical world?**
+**What does closeness look like without magic in your world?**
+
+*Can two people be emotionally intimate without any magical component? In a world full of bonds, telepathy, and magical sensation, what does purely human connection look like -- and is it valued or seen as lesser?*
 
 _______________________________________________________________
 
@@ -1827,8 +1840,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Can this danger be managed with training, or is it inherent to the magic itself?**
-What does "control" look like, and what does losing control look like?
+**Can this danger be managed with training, or is it built into the magic itself?**
+
+*What does "control" look like on a good day, and what does losing control look like on a bad one?*
 
 _______________________________________________________________
 
@@ -1934,7 +1948,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What magical violation exists in your world that your characters fear most — from others, or from themselves?**
+**What is the worst thing magic can do to a person in your world?**
+
+*Mind control, soul theft, forced transformation, memory erasure -- what does your character fear most, whether it's being done to them or something they could do to someone else?*
 
 _______________________________________________________________
 
@@ -2261,7 +2277,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Are there active conflicts — wars, trade disputes, political maneuvering — over magical resources? How do these affect ordinary people?**
+**Are there active conflicts over magical resources -- wars, trade disputes, political manoeuvring?**
+
+*How do these affect ordinary people who have no magic of their own?*
 
 _______________________________________________________________
 
@@ -2269,8 +2287,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How might resource scarcity or control put pressure on your leads' relationship?**
-Consider: They're on opposite sides of a resource conflict. One of them controls something the other desperately needs. Their relationship threatens existing power structures. Staying together requires resources they can't access.
+**How might resource scarcity put pressure on your leads?**
+
+*Consider: they're on opposite sides of a resource conflict, one of them controls something the other desperately needs, their relationship threatens existing power structures, or staying together requires resources they can't access.*
 
 _______________________________________________________________
 
@@ -2343,8 +2362,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How might magical militarization put pressure on the relationship?**
-Consider: One or both characters are seen as assets rather than people. Their abilities make them valuable to factions who won't let them go. Falling in love creates a vulnerability enemies can exploit. Their duties put them on opposite sides.
+**How does the magical arms race affect your characters personally?**
+
+*Consider: one or both are seen as weapons rather than people, their abilities make them too valuable for factions to release, falling in love creates a vulnerability enemies can exploit, or their duties put them on opposite sides.*
 
 _______________________________________________________________
 

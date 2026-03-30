@@ -34,6 +34,28 @@ Each time you build a significant piece of your world (magic, politics, culture)
 
 Go back to your worldbuilding and add friction. Your magic system should create at least one major obstacle. Your political structure should forbid something the characters want to do. Your cultural customs should make their relationship taboo, dangerous, or complicated. The world should be actively making their lives difficult, and that difficulty should be specific to *this* world, not generic obstacles that could exist anywhere.
 
+### Apply It to Your World
+
+**Pick one major worldbuilding element (magic, politics, geography, culture). What obstacle does it create for your romance?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What opportunity for intimacy does that same element create?**
+
+*Hint: The best worldbuilding elements do both -- the same magic that separates them also creates a moment only they can share.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Could your romance happen in a generic fantasy castle with none of your specific worldbuilding? If yes, what world-specific detail could you add to make it impossible anywhere else?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## Mistake #2: Forgetting the Non-Romantic Story
@@ -51,6 +73,26 @@ If you want to make your fantasy conflict interesting enough to stand alone, you
 One of the key words to remember here is *integrate*, not subordinate. Don't subordinate the romance to the fantasy elements. Don't subordinate the fantasy elements to the romance. The romance and fantasy conflict lines should be so intertwined that you cannot see them separately.
 
 A good litmus test: would you still read this book if the romance was taken out of the story? If the answer is no, then your fantasy conflict line needs more development. You're writing romantasy. Both conflict lines need to carry the weight of the story.
+
+### Apply It to Your World
+
+**What does your antagonist want, and why should readers care about stopping them -- even without the romance?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What goal does your protagonist have that has nothing to do with the love interest?**
+
+_______________________________________________________________
+
+**If you removed the romance entirely, would the fantasy plot still hold a reader's attention? What would be missing?**
+
+*Hint: If the answer is "not much," your fantasy conflict line needs its own stakes, surprises, and consequences.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 

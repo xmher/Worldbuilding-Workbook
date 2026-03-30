@@ -1783,9 +1783,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Describe a traditional wedding ceremony in your world:**
+**Describe a traditional wedding ceremony in your world.**
 
-**Describe your world's marriage ceremony: Where does it happen? Who performs it? What are the key rituals or moments? What words or vows are spoken? What objects or symbols are used?**
+*Where does it happen? Who performs it? What are the key rituals? What vows are spoken? What objects or symbols are used?*
 
 *(Write your answer below)*
 
@@ -1810,6 +1810,14 @@ _______________________________________________________________
 If so, what are the key differences?
 
 _______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Can marriages be dissolved? How?**
+
+*Divorce, annulment, magical unbinding? What does it cost, and who suffers more -- socially, financially, spiritually?*
 
 _______________________________________________________________
 
@@ -1878,9 +1886,9 @@ When developing mourning traditions for your world, there are several dynamics w
 
 **Shared mourning as a bond.** When two characters grieve together, following rituals, sitting vigil, performing rites for someone they both loved, the experience creates a connection that is qualitatively different from anything else in the story. They have witnessed each other in a completely raw state, with no pretences or social masks to hide behind. Like shared danger, shared grief can rapidly advance a relationship, because it forces individuals to present their true selves emotionally.
 
-**What are the mourning customs in your culture?**
+**What are the mourning customs in your world?**
 
-**What are your world's mourning customs? How long is the mourning period, what mourning dress or symbols are used, and what restrictions apply during mourning (social, romantic, business)?**
+*How long is the mourning period? What mourning dress or symbols are used? What restrictions apply -- social, romantic, business?*
 
 *(Write your answer below)*
 
@@ -1975,9 +1983,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Does a coming-of-age transition trigger the romantic plot?**
+**Does a life transition trigger the romantic plot?**
 
-*Does your character become eligible for courtship, gain new powers, or enter a new social context because of a life transition? How does this change what's possible between them and the love interest?*
+*Does your character become eligible for courtship, gain new powers, or enter a new social context? How does this change what's possible between them and the love interest?*
 
 _______________________________________________________________
 
@@ -2031,11 +2039,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How were your main characters raised?**
+**How were your protagonist and love interest raised?**
 
-Their upbringing shaped who they are. What was childhood like for them?
-
-**How were your protagonist and love interest each raised and educated? What skills did they gain, and what gaps does each have?**
+*What was childhood like for each of them? What skills did they gain, and what gaps does each have?*
 
 *(Write your answer below)*
 
@@ -2073,6 +2079,16 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**What do your protagonist and love interest do for a living?**
+
+*How do they spend their working hours? Does their work bring them together or keep them apart?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 # PART TWO: CULTURE & ROMANCE
@@ -2086,9 +2102,7 @@ The environment created by festivals gives characters an excuse to be different 
 
 **What major festivals or celebrations exist in your world?**
 
-Describe 2-3 that matter for your story:
-
-**Describe 1-3 important festivals in your world. For each, when does it happen, what does it celebrate, and what are the key traditions?**
+*Describe 1-3 that matter for your story. For each, when does it happen, what does it celebrate, and what are the key traditions?*
 
 *(Write your answer below)*
 
@@ -2198,9 +2212,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Map your character's exile (actual or threatened):**
+**Map your character's exile (actual or threatened).**
 
-**If a character is exiled or becomes an outsider, what do they lose? Consider: home/territory, name/title/identity, family connections, access to magic or power, community, sense of self. What replaces what they've lost?**
+*What do they lose? Think about home, name, family connections, access to magic or power, community, sense of self. What replaces what they've lost?*
 
 *(Write your answer below)*
 
@@ -2228,9 +2242,9 @@ Look for the "slip": when a character accidentally reaches for the other person'
 
 Additionally, allow secondary characters to reinforce the consequences of breaking those rules. A servant who observes too much, a rival who keeps track of every detail, a parent who cautions "people are starting to talk." The hierarchy feels authentic when someone else is paying attention.
 
-**What are the unwritten rules of cross-class interaction?**
+**What are the unwritten rules between different classes or ranks?**
 
-**What are the etiquette rules between different classes or ranks in your world? Address eye contact, forms of address, physical proximity, who speaks first, and what topics are appropriate.**
+*Think about eye contact, forms of address, physical proximity, who speaks first, and what topics are off-limits.*
 
 *(Write your answer below)*
 

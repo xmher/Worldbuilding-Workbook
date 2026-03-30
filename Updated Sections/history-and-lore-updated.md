@@ -843,7 +843,8 @@ Having famous ancestry can create expectations and obligations. Inheriting a leg
 
 **Is either character descended from a famous historical figure?**
 
-**Is either character descended from a famous historical figure? Which character, who was the ancestor, and what expectations does that legacy create?**
+**Who was the ancestor, and what expectations does that legacy create?**
+*Name the character, their famous forebear, and the weight that connection carries.*
 
 *(Write your answer below)*
 
@@ -856,7 +857,8 @@ Having famous ancestry can create expectations and obligations. Inheriting a leg
 **Does either character hold a position once held by someone legendary?**
 Did the predecessor succeed or fail? Love or lose?
 
-**Does either character hold a position once held by someone legendary? What was the position, who held it before, what did they do, and what shadow does this cast on your character?**
+**What is the position, who held it before, and what shadow does that cast?**
+*Did the predecessor succeed or fail? Love wisely or lose everything?*
 
 *(Write your answer below)*
 
@@ -903,7 +905,8 @@ _______________________________________________________________
 
 **How do these family stories shape who each character believes they should be?**
 
-**What did family stories teach your protagonist they should be? What did family stories teach your love interest they should be?**
+**What kind of person did family stories teach each character they should be?**
+*The protagonist's family stories may have shaped a very different ideal than the love interest's. Name what each character was raised to believe about who they should become.*
 
 *(Write your answer below)*
 
@@ -955,7 +958,8 @@ _______________________________________________________________
 
 **What major event happened within living memory (last 50-80 years)?**
 
-**What major event happened within living memory (last 50-80 years)? What was it, when did it happen, who was affected, and how did it shape the current world?**
+**What happened, and how did it shape the world your characters grew up in?**
+*Name the event, when it occurred, and the marks it left -- on borders, families, laws, or daily life.*
 
 *(Write your answer below)*
 
@@ -967,7 +971,8 @@ _______________________________________________________________
 
 **How did this event affect your characters' families?**
 
-**How did this recent historical event affect your protagonist's family? How did it affect your love interest's family? Were they on the same side or opposing sides?**
+**How did this event affect each character's family?**
+*What did the protagonist's family gain or lose? What about the love interest's family? Were they on the same side, or opposing sides?*
 
 *(Write your answer below)*
 
@@ -1089,7 +1094,8 @@ _______________________________________________________________
 
 **What does each character's bloodline mean?**
 
-**What does each character's bloodline or heritage mean in your world? What does it grant them, and what does it demand of them?**
+**What does each character's bloodline grant them, and what does it demand?**
+*Think about privileges, powers, obligations, and restrictions that come with their heritage.*
 
 *(Write your answer below)*
 
@@ -1163,7 +1169,8 @@ _______________________________________________________________
 **Did either side in historical conflicts commit atrocities?**
 Atrocities create wounds that don't heal with time. They raise questions of guilt, responsibility, and whether forgiveness is possible.
 
-**Did either side in your world's historical conflicts commit atrocities? What happened, who committed them, and who suffered?**
+**What happened, who did it, and who suffered?**
+*Be specific. Abstract villainy creates less tension than a named act with named victims.*
 
 *(Write your answer below)*
 
@@ -1176,7 +1183,8 @@ Atrocities create wounds that don't heal with time. They raise questions of guil
 **How is this remembered?**
 Perpetrators and victims remember differently. Understanding both perspectives deepens your enemies-to-lovers tension.
 
-**How do the perpetrators remember the atrocity? How do the victims remember it?**
+**How does each side remember what happened?**
+*Perpetrators and victims rarely tell the same story. One side may minimise, justify, or forget entirely what the other side can never stop remembering.*
 
 *(Write your answer below)*
 
@@ -1239,7 +1247,8 @@ The best history-as-weapon scenes occur when a character uses the past to throw 
 **What historical ammunition does your protagonist carry?**
 What can they throw at the love interest during their worst arguments? Their family name? Their people's crimes? Their species' history of oppression?
 
-**What historical ammunition does your protagonist carry? What can they throw at the love interest during their worst arguments, when do they use it, and what fear underlies it?**
+**What can they throw at the love interest during their worst arguments?**
+*Name the accusation, when they reach for it, and what fear drives them to use it.*
 
 *(Write your answer below)*
 
@@ -1252,7 +1261,8 @@ What can they throw at the love interest during their worst arguments? Their fam
 **What historical ammunition does your love interest carry?**
 What's their trump card? What historical fact can they invoke that the protagonist has no answer for?
 
-**What historical ammunition does your love interest carry? What's their trump card, when do they use it, and what fear underlies it?**
+**What is the love interest's trump card?**
+*What historical fact can they invoke that the protagonist has no answer for? When do they reach for it, and what are they really afraid of?*
 
 *(Write your answer below)*
 
@@ -1294,7 +1304,8 @@ The best scenes that show a history-reveal are all structured similarly: a trigg
 
 **Does your story include a history-reveal scene?**
 
-**Plan your history-reveal scene: Which character reveals hidden history, and what do they share? What triggers the reveal (crisis, intimacy, accusation)? Where does it happen? How does the listener react? Does it bring them closer or drive them apart? Is it a repair confession or an identity rupture?**
+**Who reveals hidden history, and what do they share?**
+*Sketch the basics: what triggers the reveal, where it happens, how the listener reacts, and whether it draws them closer or drives them apart. Is it a repair confession or an identity rupture (see above)?*
 
 *(Write your answer below)*
 
@@ -1307,7 +1318,8 @@ The best scenes that show a history-reveal are all structured similarly: a trigg
 **Map the structure of your history-reveal scene:**
 *The best reveals follow a specific architecture. Use the prose above to check that your reveal has all the structural elements that make it land.*
 
-**Map the architecture of your history-reveal scene: What forces the reveal? Where does it happen (a small, private space)? What does it cost the speaker to share? What does the listener observably do in response? How does their dynamic change afterward? Does the listener get space to process and choose to return?**
+**What does the reveal cost the speaker, and how does the listener visibly respond?**
+*Check each structural element: What forces the reveal? Where does it happen? What does the speaker risk by sharing? What does the listener do (not just feel -- do)? How does their relationship change? Does the listener get space to process before choosing to return?*
 
 *(Write your answer below)*
 

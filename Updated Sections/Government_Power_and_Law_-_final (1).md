@@ -130,15 +130,13 @@ _______________________________________________________________
 
 *Take the biggest political pressure in your story and translate it to the personal level. What does this political reality feel like in an intimate moment between your characters?*
 
-**What is your macro political stake, and what micro romantic obstacle does it create?**
+**What is the biggest political pressure in your story, and what does it feel like during an intimate moment?**
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 ---
 
@@ -1082,17 +1080,17 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Who benefits from their union? Who's threatened by it?**
+**Who benefits from their union, and why?**
 
-**Who wants your characters together, and why? Who wants them apart, and why?**
+_______________________________________________________________
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+**Who is threatened by their union, and why?**
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
 **What happens if they refuse the political obligation?**
 
@@ -1125,16 +1123,11 @@ In *Radiance*, Brishen and Ildiko were both used as pawns in a marriage of conve
 **Are your characters performing a relationship for political purposes?**
 If yes:
 
-**What are the ground rules?**
 All fake relationships begin with parameters: how much physical interaction can take place, what story they're going to tell the public, and when the pretence will stop. Establishing these boundaries is important because it's the violations of them that create the tension. The first time one character touches the other outside the established limits, or when one character defends the other more intensely than required by the scene, or when one character can't stop thinking about the performance when they're by themselves, the facade of their pretend begins to crumble. Affection? Unity? Hostility? Indifference? Which behaviours will the political situation require? Are the characters complete strangers? Enemies? Already attracted to one another, but pretending not to be? Is one character secretly working against the other? The instant the veil falls is your romantic turning point. At which point during the public display will the characters cross the line from acting strategically to feeling genuinely? A protective instinct that occurs too quickly to be calculated? A compliment intended for the court that the other character recognises as being true? A touch that lingers longer than the audience expects? Once the political goals of the situation are met or abandoned, and there's no longer a need for the characters to maintain the performance, will they continue to choose each other? The movement from "we have to" to "we want to" is the emotional core of this dynamic. Many of the most memorable romantic moments arise from the moment one character realises they're continuing to reach for the other's hand even though no one is watching.
-
-**What are the rules of the performance?**
-
-*All fake relationships start with boundaries. The romantic tension comes from violating them.*
 
 **What are the ground rules of the performance?**
 
-*How much physical contact is allowed? What story do they tell the public? When does the act end? Is one secretly working against the other?*
+*All fake relationships start with boundaries. The romantic tension comes from violating them. How much physical contact is allowed? What story do they tell the public? When does the act end? Is one secretly working against the other?*
 
 _______________________________________________________________
 
