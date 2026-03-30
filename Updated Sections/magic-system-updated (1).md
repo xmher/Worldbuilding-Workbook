@@ -1790,8 +1790,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**When your characters connect through magic, is it because the magic compels it, or because they're choosing to use their magic to reach each other?**
-Compelled connection may feel intense, but chosen connection reveals character.
+**When your characters connect through magic, is the magic compelling it or are they choosing it?**
+
+*Compelled connection may feel intense, but chosen connection reveals character.*
 
 _______________________________________________________________
 
@@ -1812,7 +1813,9 @@ _______________________________________________________________
 
 ## Magical vs. Emotional Intimacy
 
-**What does magic give your characters access to in each other? What do they still have to earn the hard way through time, honesty, and choice?**
+**What does magic give your characters access to in each other -- and what do they still have to earn?**
+
+*Magic might grant awareness, attraction, or even trust. But what can only come through time, honesty, and choice?*
 
 _______________________________________________________________
 

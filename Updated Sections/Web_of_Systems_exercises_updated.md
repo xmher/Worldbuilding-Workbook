@@ -223,7 +223,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does resource control create inequality, tension, or power imbalance?**
+**How does resource control create inequality, tension, or power imbalance between your characters?**
 
 _______________________________________________________________
 
@@ -897,9 +897,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Does their relationship model something new?**
+**What new possibility does their relationship show the world?**
 
-A new kind of alliance? Proof that old prejudices were wrong? A magical possibility no one knew existed? A path others might follow?
+*Hint: A new kind of alliance? Proof that old prejudices were wrong? A magical possibility no one knew existed? A path others might follow?*
 
 _______________________________________________________________
 
@@ -911,7 +911,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What work remains after their personal story ends?**
+**What does the world look like one year after their story ends? What has changed, and what still needs changing?**
 
 If systems need changing, does their union start that work? Continue it? Complete it? Or is their victory just the beginning of larger change?
 

@@ -491,9 +491,7 @@ Some of the most compelling romantasy locations aren't just physical spaces. The
 
 Why do magical location properties matter for romance? Because they can accomplish things that real-world locations can't: strip away masks, force emotional transparency, mandate proximity through metaphysical bonds, or create sanctuary so complete that even traumatised characters can begin to feel safe. They're not just cool worldbuilding details. They're mechanical tools that enable the intimate moments your story needs.
 
-Does this location have active magical properties? Wards, enchantments, sentience, shifting geography, emotion-responsiveness, truth-compelling features, magical barriers?
-
-Use the table below to identify how the magic of this space serves your scene:
+Does this location have active magical properties -- wards, enchantments, sentience, shifting geography, emotion-responsiveness, truth-compelling features, magical barriers?
 
 **What magical properties does this location have, and how do they affect the characters?**
 
