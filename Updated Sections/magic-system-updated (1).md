@@ -2234,19 +2234,19 @@ _______________________________________________________________________________
 
 You've spent this section building the mechanics of your magic — now let's make sure you've connected those mechanics to the heart of your story. These questions are about the *personal* uses of magic: not what it does in battle, but what it means between two people.
 
-**What would it mean for your protagonist to use their magic *for* their love interest — not in battle, but in a personal, private way?**
+**How would your protagonist use their magic for the love interest in a quiet, personal way?**
 
-*The most memorable romantic gestures in the genre aren't grand displays. They're quiet, costly, and specific to the magic your character already has. A fire mage keeping a candle burning. A healer absorbing pain they could avoid. What would your protagonist's version look like?*
-
-_______________________________________________________________________________
+*Not in battle -- in private. The most memorable romantic gestures in the genre aren't grand displays. They're quiet, costly, and specific to the magic your character already has. A fire mage keeping a candle burning. A healer absorbing pain they could avoid. What would your protagonist's version look like?*
 
 _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**What would it mean for your protagonist to use their magic *in front of* their love interest in a way they don't show others — revealing their full power, their vulnerability, or a secret aspect of their abilities?**
+_______________________________________________________________________________
 
-*Letting someone see your magic at its most raw is one of the genre's deepest forms of intimacy. It's not about impressing them. It's about trusting them with the parts of yourself you normally keep hidden.*
+**What would it mean for your protagonist to show the love interest a side of their magic no one else sees?**
+
+*Full power, raw vulnerability, a secret ability -- letting someone see your magic unguarded is one of the genre's deepest forms of intimacy. It's not about impressing them. It's about trusting them with the parts of yourself you normally keep hidden.*
 
 _______________________________________________________________________________
 

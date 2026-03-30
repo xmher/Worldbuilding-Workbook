@@ -789,8 +789,6 @@ _______________________________________________________________
 
 &nbsp;
 
-**How do your characters feel about being compared to this couple?**
-
 **How does each character feel about the comparison?**
 *One might embrace it while the other resists it. Do they find it flattering, suffocating, or ominous?*
 
@@ -1022,8 +1020,7 @@ _______________________________________________________________
 Objects of the past can hold many things -- weapons that killed, rings that bound, letters that told the truth. Objects can turn history into reality and force characters to have to deal with their past in a physical sense, and not just an emotional one.
 
 **What object from the past does your protagonist possess or know about?**
-
-**What object from the past does your protagonist possess or know about? What is its history, and what does it mean to them?**
+*What is its history, and what does it mean to them?*
 
 *(Write your answer below)*
 
@@ -1033,9 +1030,8 @@ Objects of the past can hold many things -- weapons that killed, rings that boun
 
 &nbsp;
 
-**What about your love interest?**
-
-**What object from the past does your love interest possess or know about? What is its history, and what does it mean to them?**
+**What object from the past does your love interest possess or know about?**
+*What is its history, and what does it mean to them?*
 
 *(Write your answer below)*
 

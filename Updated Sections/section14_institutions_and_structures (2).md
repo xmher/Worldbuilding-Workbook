@@ -998,6 +998,8 @@ This is the essential question. In every successful captivity romance, the capti
 
 **Who holds power at the start of the captivity?**
 
+_______________________________________________________________
+
 *Think about what changes the balance — does the captive discover hidden strength, gain leverage, or earn respect? And how do you show they've become equals, not just that the captor started being kinder?*
 
 **What shifts the power balance between them?**

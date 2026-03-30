@@ -739,6 +739,14 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**How does your antagonist's existence make the romance harder -- not just the plot harder?**
+
+*Hint: The best antagonists don't just threaten the characters' lives. They threaten the relationship itself -- by representing the worldview the characters would have to share to stay safe, or by embodying the cost of the characters' defiance.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## System Trade-Offs
@@ -950,11 +958,21 @@ _______________________________________________________________
 
 Productive tension gives difficult choices and interesting conflict. Plot holes make readers stop trusting the world.
 
+| Contradiction | Productive Tension or Plot Hole? | Your Fix (if plot hole) |
+| --- | --- | --- |
+| | | |
+| | | |
+| | | |
+
 If it's a plot hole, you need to:
 
 - Remove one contradictory element
 - Add a limitation explaining why both can exist
 - Make the contradiction itself part of the plot (why doesn't anyone notice this doesn't make sense?)
+
+**Which contradiction, if left unfixed, would most damage your reader's trust in your romance's stakes?**
+
+_______________________________________________________________
 
 ---
 
