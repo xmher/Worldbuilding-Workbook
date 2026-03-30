@@ -19,8 +19,8 @@ This is why language works so powerfully in romance. It doesn't just create a pr
 
 Build language that creates both barriers and bridges. Make your characters work to understand each other, and make that work meaningful.
 
-**What languages exist in your world, and what barriers do they create?**
-*Before diving into how language works between your characters, get the big picture down. How many languages are there? Is there a common tongue? What's the first barrier your protagonist encounters?*
+**What's the first thing that comes to mind when you think about language in your world?**
+*Don't overthink this. Just get your initial vision down — a phrase, an image, a feeling, a scene where communication matters. You'll build on it throughout this section.*
 
 *(Write your answer below)*
 
@@ -30,8 +30,8 @@ Build language that creates both barriers and bridges. Make your characters work
 
 &nbsp;
 
-**What role does language play in your story's central relationship?**
-*Is there a language barrier between your characters? Do they share a tongue but speak it differently? Is communication itself part of the tension, or is it something else — silence, lies, private codes?*
+**Is there anything about how your characters communicate that already excites you?**
+*A language barrier, a private code, a moment of silence that says everything? Jot it down so you don't lose it. We'll come back to all of this once your world's languages are in place.*
 
 *(Write your answer below)*
 
@@ -1170,6 +1170,28 @@ The key question isn't *what languages exist in your world*. It's this: what lan
 
 **Which 2--3 language patterns from the table above are you using?**
 *For each one, note how it works between your characters and what specific scene or dynamic it creates.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**What languages exist in your world, and what barriers do they create?**
+*Now that you've built your linguistic landscape, step back and look at the full picture. How many languages are there? Is there a common tongue? What's the first barrier your protagonist encounters?*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**What role does language play in your story's central relationship?**
+*Is there a language barrier between your characters? Do they share a tongue but speak it differently? Is communication itself part of the tension, or is it something else — silence, lies, private codes?*
 
 *(Write your answer below)*
 
