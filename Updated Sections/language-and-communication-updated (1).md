@@ -290,7 +290,8 @@ _______________________________________________________________
 
 First words carry weight. Is it practical, accidental, or something that reveals character?
 
-**What's the first word your protagonist learns in the love interest's language? What does it mean, and what's the context in which they learn it?**
+**What's the first word your protagonist learns in the love interest's language?**
+*What does it mean, and what's the context in which they learn it?*
 
 *(Write your answer below)*
 
@@ -304,7 +305,8 @@ First words carry weight. Is it practical, accidental, or something that reveals
 
 What does their choice to learn this particular word reveal about what they notice or value?
 
-**What's the first word your love interest learns in the protagonist's language? What does it mean, and what's the context in which they learn it?**
+**What's the first word your love interest learns in the protagonist's language?**
+*What does it mean, and what's the context in which they learn it?*
 
 *(Write your answer below)*
 
@@ -1029,8 +1031,8 @@ _______________________________________________________________
 
 The way characters address each other is a map of their relationship. Titles become first names become nicknames become private words only they use. Every shift in address marks a shift in intimacy, and readers feel it.
 
-**How do names work in your world?**
-*How do people get their personal names -- are they chosen at birth, earned, inherited, or given by a ritual? Do people have family names, clan names, or patronymics? How are places named? Naming conventions reveal what a culture values most.*
+**How do people get their personal names in your world?**
+*Are names chosen at birth, earned, inherited, or given by a ritual? Do people have family names, clan names, or patronymics? Naming conventions reveal what a culture values most.*
 
 *(Write your answer below)*
 
@@ -1039,6 +1041,13 @@ The way characters address each other is a map of their relationship. Titles bec
 &nbsp;
 
 &nbsp;
+
+**How are places named in your world?**
+*After founders, battles, geographical features, gods? Do conquered places get renamed? Place names can carry history, pride, or resentment.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ### Forms of Address
 

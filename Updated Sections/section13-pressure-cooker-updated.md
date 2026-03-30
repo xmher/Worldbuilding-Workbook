@@ -566,8 +566,8 @@ Early on, relief might mean escaping each other. Later, it might mean finding ea
 - At first, relief means: _______________________________________________
 - Later, relief means: _______________________________________________
 
-**Is there a moment when one seeks out the other during a relief period, when they didn't have to?**
-The choice to be together when they could be apart:
+**When does one of them choose the other person's company over solitude?**
+*This is a turning point — the first time they seek each other out when they could be alone instead.*
 
 ___
 
@@ -694,8 +694,8 @@ What has proximity taught them about themselves and each other?
 
 ___
 
-**Map the belief shift that proximity forces.**
-*What does each character believe about the other at the start of confinement? What do they believe by the end? The gap between these two beliefs is the arc that proximity creates.*
+**What does each character believe about the other at the start versus the end?**
+*The gap between these two beliefs is the arc that proximity creates. Track the shift and the specific moment that breaks the old assumption.*
 
 | | Start of Confinement | End of Confinement | The Moment That Forces the Shift |
 | --- | --- | --- | --- |
@@ -787,10 +787,8 @@ ___
 
 ___
 
-**What lingers from the pressure cooker period?**
-*Confinement leaves traces. Check which of these resonate for your story and fill in the specifics.*
-
-**What lingers after the pressure cooker period? Consider: secrets kept during confinement, habits formed together, sensory memories that ambush them, guilt about things said or done, knowledge of vulnerabilities seen, and private jokes or rituals.**
+**What lingers after the pressure cooker period?**
+*Confinement leaves traces. Consider: secrets kept during confinement, habits formed together, sensory memories that ambush them, guilt about things said or done, knowledge of vulnerabilities seen, and private jokes or rituals.*
 
 *(Write your answer below)*
 

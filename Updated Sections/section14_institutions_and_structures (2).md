@@ -367,9 +367,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How could they use customs to steal intimacy while appearing to follow rules?**
+**What customs give them an excuse to be close while looking like they're following the rules?**
 
-The dance that allows touch, the ceremony that requires standing close, the negotiation that puts them in the same room.
+*The dance that allows touch, the ceremony that requires standing close, the negotiation that puts them in the same room. The best stolen moments hide inside the institution's own rituals.*
 
 _______________________________________________________________
 
@@ -638,7 +638,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How do they reconcile (or fail to reconcile) devotion and desire?**
+**How do they try to make their faith and their feelings fit together?**
+
+*Some characters reinterpret their beliefs; others compartmentalise; others break under the contradiction. There's no wrong answer, but there should be a struggle.*
 
 _______________________________________________________________
 
@@ -952,6 +954,22 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**What other institutions enforce or complicate this marriage?**
+
+*Courts that require heirs, religious orders that bless (or curse) the union, families with competing agendas. The marriage doesn't exist in a vacuum — other institutions press on it from the outside.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How common are arranged marriages in your world, and how have attitudes toward them changed?**
+
+*If arranged marriage is normal, your characters may not question the institution itself — only their specific match. If it's fallen out of favour, they may feel like relics of an older age. Either way, the cultural context shapes how they feel about being bound.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## Prison & Captivity
@@ -1014,9 +1032,13 @@ Shared sleeping space, being seen at your worst (injured, ill, grieving, afraid)
 
 _______________________________________________________________
 
-**What does the captive observe about the captor that she wouldn't see in any other context?**
+**What does the captive see about the captor that no one else gets to see?**
 
-It's these private moments that dissolve the "villain" archetype. A captor who is publicly ruthless but privately kind, or exhausted, or conflicted, becomes a person rather than a monster. Lara watching Aren govern Ithicana with genuine care for his people. Poppy seeing Hawke's tender side beneath the flirtation. Feyre witnessing Rhysand's burden behind his mask of cruelty. All of these things only come into existence because the characters are confined together, and they're what make the reader believe the romantic connection is real.
+*It's these private moments that dissolve the "villain" archetype. A captor who is publicly ruthless but privately kind, or exhausted, or conflicted, becomes a person rather than a monster. These glimpses only exist because the characters are confined together — and they're what make the reader believe the connection is real.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ### The Betrayal Beat
 

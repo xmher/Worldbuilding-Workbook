@@ -708,11 +708,6 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 
 &nbsp;
 
-**How does food reach people in your world?**
-*Markets, trade caravans, local farms, foraging — the supply chain determines what happens when it breaks. A city that depends on grain shipments is vulnerable to siege; a village that grows its own food is self-sufficient but limited.*
-
-_______________________________________________________________
-
 ### Timekeeping
 
 **How do people tell time, and how precise is it?**
@@ -877,6 +872,10 @@ Can people dress themselves, or do they need help? Clothing that requires assist
 **What does clothing signal about class and status?**
 *Clothing can be a disguise, a mark of belonging, or an insurmountable barrier. When your characters cross class lines, what they're wearing is the first thing that betrays or protects them — and the first thing a love interest notices.*
 
+**What does your protagonist typically wear? What does your love interest wear? What would each notice first about the other's clothing?**
+
+_______________________________________________________________
+
 ### Construction & Architecture
 
 Architecture shapes where intimacy is possible. Thick stone walls muffle sound; timber partitions don't. A tower room isolates; an open longhouse exposes. Whether your characters live in a sprawling palace or a single-room dwelling determines what privacy looks like and what "alone together" actually means.
@@ -913,8 +912,10 @@ _______________________________________________________________
 
 Entertainment creates the settings where characters interact outside of duty, danger, or obligation. Dances, performances, feasts, and games are where romantic tension plays out in public. Characters can touch under the guise of a dance, watch each other across a crowded room, or compete in ways that become charged with something more than sport.
 
-**What entertainment exists?**
-*Entertainment creates the settings where characters interact outside of duty, danger, or obligation. Dances allow sanctioned touch, performances allow shared emotional experience, and competitions channel desire into something publicly acceptable. Which of these create opportunities for your characters to interact in ways their normal lives wouldn't allow?*
+**What entertainment exists in your world?**
+*Dances allow sanctioned touch, performances allow shared emotional experience, and competitions channel desire into something publicly acceptable. Which of these create opportunities for your characters to interact in ways their normal lives wouldn't allow?*
+
+_______________________________________________________________
 
 **What technology enables entertainment?**
 *The instruments, spaces, and equipment that make entertainment possible also shape where characters gather and what they do together. A ballroom requires musicians; a tournament requires a field. What does your world's entertainment infrastructure look like?*

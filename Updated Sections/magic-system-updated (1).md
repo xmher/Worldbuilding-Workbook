@@ -23,9 +23,9 @@ If your magic only provides benefits then it's uninteresting. Magic that helps a
 
 Design your magical system based off of one question -- what does it cost? The answer to that will help you design the rest of the world around it.
 
-**What's the most personal price your protagonist has paid (or will pay) for using their magic — not in terms of physical exhaustion, but in terms of what it cost them emotionally, relationally, or morally?**
+**What is the most personal price your protagonist has paid for their magic?**
 
-*The costs that matter most in romantasy aren't about energy. They're about what magic takes from who you are or how you connect with others. Rhysand's price for protecting his people was fifty years of abuse. Poppy's gift means absorbing others' pain into her own body. What has your protagonist's magic cost them beyond tiredness?*
+*Not physical exhaustion -- the costs that matter most are emotional, relational, or moral. Rhysand's price for protecting his people was fifty years of abuse. Poppy's gift means absorbing others' pain into her own body. What has your protagonist's magic cost them beyond tiredness?*
 
 _______________________________________________________________________________
 
@@ -70,19 +70,15 @@ Not every magical ability needs to directly advance the romance. Winnowing in *A
 | **Bonds & Marks** | Magic itself declares connection | Destiny vs. choice, compulsion vs. desire, the work the bond can't do |
 | **Revealing Magic** | Power use exposes who someone truly is | Seeing what others miss, vulnerability during casting, private knowledge |
 
-**Which romantic tension pattern(s) from the table above best describe your leads' dynamic?**
+**Which romantic tension patterns from the table above apply to your story?**
 
-*Most romances use two or three patterns simultaneously. Identifying yours now helps you write scenes where the tension is specific and earned rather than generic. If you're not sure yet, pick the one that excites you most.*
+*Most romances use two or three simultaneously. For each one you're using, describe how it shows up between your characters. If you're not sure yet, pick the one that excites you most.*
 
-**Which romance-magic patterns from the list above apply to your story? For each one you're using, describe how it shows up between your characters.**
+_______________________________________________________________________________
 
-*(Write your answer below)*
+_______________________________________________________________________________
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________________________
 
 ### Character Pairing Dynamics
 
@@ -95,19 +91,15 @@ Not every magical ability needs to directly advance the romance. Winnowing in *A
 | Equally Matched | Neither can overpower the other; must negotiate | Rivals-to-lovers with matched abilities |
 | Hidden Power | One conceals abilities the other would fear or covet | Secret identity + slow reveal |
 
-**Which pairing dynamic best describes your leads — and how does it show up?**
+**Which pairing dynamic best describes your leads?**
 
 *If none of these fit exactly, describe your own. The important thing is naming the built-in tension your pairing creates, because that tension will drive scenes before you've written a single line of dialogue.*
 
-**What is the magical pairing dynamic between your leads (from the archetypes above), and how does it create specific tension in your story?**
+_______________________________________________________________________________
 
-*(Write your answer below)*
+_______________________________________________________________________________
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________________________
 
 ---
 
@@ -991,13 +983,9 @@ _______________________________________________________________________________
 
 In *Gideon the Ninth*, Harrow is a necromancer who works with bones and death. Gideon is her cavalier, a swordswoman with no magic. The magic demands partnership; their history demands distance. The tension is about two people who are magically designed to be partners but emotionally unable to trust each other.
 
-**How might your leads' types of magic interact, for good or ill?**
-
-*This is a first sketch — we'll explore opposition and incompatibility in depth later. For now, map the basics of how your characters' magic relates.*
-
 **How might your leads' magic interact -- where does it clash, and where does it complement?**
 
-*Describe each character's abilities, then think about what happens when those abilities meet. Do they amplify each other, cancel each other out, or create something unpredictable? The way their magic relates often mirrors the relationship itself.*
+*This is a first sketch -- we'll explore opposition and incompatibility in depth later. Describe each character's abilities, then think about what happens when those abilities meet. Do they amplify each other, cancel each other out, or create something unpredictable?*
 
 _______________________________________________________________________________
 
@@ -1239,7 +1227,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Is there something one character's magic could do for the other that would be difficult, costly, or unusual for them — making the gesture more meaningful?**
+**What magical gesture would cost your character something -- making it more meaningful?**
+
+*The gesture matters more when it's difficult, costly, or unusual for the person doing it. A fire mage creating a gentle warmth. A warrior using their power to heal instead of destroy.*
 
 _______________________________________________________________
 
@@ -1717,7 +1707,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Can a bond be hidden? What would your characters have to do to conceal it, and what happens if they're discovered?**
+**Can the bond be hidden, and what happens if it's discovered?**
+
+*What would your characters have to do to conceal the connection -- and who would be most threatened by finding out?*
 
 _______________________________________________________________
 
@@ -1744,7 +1736,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What would it mean for one character to "close off" or "shut down" their end of the bond? Is this possible? What would it feel like to the other?**
+**Can one character shut down their end of the bond? What would the other feel?**
+
+*Closing the bond -- if it's possible -- can be an act of self-protection or a weapon. Either way, the silence where connection used to be tells its own story.*
 
 _______________________________________________________________
 

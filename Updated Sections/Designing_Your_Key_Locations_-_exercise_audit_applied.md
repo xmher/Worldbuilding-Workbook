@@ -226,6 +226,14 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**How do people get to this location from the nearest settlement or key location?**
+
+*A location that takes three days on horseback through hostile territory creates very different story possibilities than one connected by a busy road. The journey to a location is often where anticipation builds.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 **What does this space force characters to do? What does it prevent them from doing?**
@@ -268,7 +276,7 @@ _______________________________________________________________
 
 Ultimately, the amount of privacy in a specific location will affect the type of romantic tension created by that location. In a totally private setting, a couple has the opportunity to be vulnerable, but this takes away the thrill of transgressing boundaries. Total exposure makes every glance electric but prevents real honesty. Many romantasy scenes take place in semi-private settings. Private enough to be real, risky enough to be dangerous.
 
-How private is this location?
+**How private is this location?**
 
 - ☐ Completely private: no chance of interruption
 - ☐ Semi-private: could be interrupted but unlikely
@@ -467,9 +475,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Is there a "geographic lie" operating in your story?**
+**Does your story have a "geographic lie" -- a place that isn't what characters believe it to be?**
 
-*A place presented as safe that's actually compromised, a place feared that's actually sanctuary, a place believed destroyed that still exists. Geographic lies create some of the most powerful romantic tension because resolving them — sharing the truth of the map — is an act of ultimate trust.*
+*A place presented as safe that's actually compromised, a place feared that's actually sanctuary, a place believed destroyed that still exists. Geographic lies create powerful tension because revealing the truth about a place is an act of trust.*
 
 _______________________________________________________________
 
@@ -670,7 +678,7 @@ Some significant places are lost. Destroyed, changed, or closed forever. Because
 
 **Is there a location that becomes inaccessible to your characters?**
 
-Destroyed, transformed, forbidden, too dangerous, claimed by enemies, sealed by magic?
+*Destroyed, transformed, forbidden, too dangerous, claimed by enemies, sealed by magic? Lost locations carry enormous emotional weight because they represent possibility that's gone.*
 
 _______________________________________________________________
 
@@ -678,29 +686,31 @@ _______________________________________________________________
 
 **What did this location mean to them?**
 
-What happened there? What did it represent? What possibility did it hold?
+*What happened there? What did it represent? What possibility did it hold? The weight of a lost location comes from what it meant, not just what it was.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How does losing access to this place affect them?**
+**How does losing this place affect them?**
 
-Grief? Loss of sanctuary? Loss of possibility? Motivation for action?
-
-_______________________________________________________________
+*Grief, loss of sanctuary, loss of possibility, motivation for action? The loss of a meaningful place can drive a character forward or hold them back.*
 
 _______________________________________________________________
 
-**Is there something they wish they'd done there — but now can't?**
+_______________________________________________________________
 
-A conversation never had, a moment never taken, a chance lost:
+**What do they wish they'd done there -- but now can't?**
+
+*A conversation never had, a moment never taken, a chance lost. Regret tied to a specific place is one of the most powerful emotional anchors in a story.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **Does the lost location exist only in memory by the end?**
+
+*A place that lives on only in memory becomes a different kind of location -- one that can never change, only be reinterpreted. This can be a source of comfort or pain.*
 
 _______________________________________________________________
 
@@ -752,7 +762,7 @@ Look at your key locations. Do you have a mix of:
 
 ☐ Their territory vs. neutral ground vs. enemy territory
 
-**If several locations feel similar, how could you change one for more contrast?**
+**If several of your locations feel similar, what could you change about one to create more contrast?**
 
 _______________________________________________________________
 
@@ -788,7 +798,7 @@ _______________________________________________________________
 
 **How do your locations progress through the story?**
 
-Do they move from public to private? Safe to dangerous? Familiar to unknown? Constraint to freedom?
+*Do they move from public to private? Safe to dangerous? Familiar to unknown? Constraint to freedom? The arc of locations should mirror the arc of the relationship.*
 
 Beginning locations: ______________________________________________
 
@@ -900,7 +910,7 @@ _______________________________________________________________
 
 ## Quick Reference: Your Key Locations
 
-**Name your recurring location (the place that becomes 'theirs'), any location that becomes lost or inaccessible, and the location where the romantic climax happens.**
+**List your three most important locations: the place that becomes "theirs," any location that is lost or becomes inaccessible, and the location where the romantic climax happens.**
 
 *(Write your answer below)*
 

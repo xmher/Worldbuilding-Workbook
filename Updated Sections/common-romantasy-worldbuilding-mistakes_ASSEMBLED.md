@@ -288,6 +288,28 @@ If you need to bend a rule, add an in-world reason. Why *is* this journey faster
 
 Here's why this matters for the romance: when your world's rules can be bent at the whim of the author, readers stop trusting the obstacles keeping your couple apart. That forbidden relationship? Not so forbidden if there is no enforcement of the rule that prohibits it. That dangerous secret? Not so dangerous if consequences only occur when the plot calls for them. Consistency is what lends credibility to the romantic stakes, because the reader will believe that your world intends to follow through on its promises.
 
+### Apply It to Your World
+
+**What are the three rules your romance depends on most? (A magic cost, a law, a travel time, a limitation.)**
+
+1. ____________________________________________________________
+
+2. ____________________________________________________________
+
+3. ____________________________________________________________
+
+**Have you broken any of these for convenience? If so, what in-world reason could explain the exception?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What is one rule you could let be inconvenient instead of breaking?**
+
+*Hint: Letting a rule create problems often makes for a better scene than bending it out of the way.*
+
+_______________________________________________________________
+
 ---
 
 # Power and Agency
@@ -314,6 +336,24 @@ If the captor wishes to have the captive's love they need to earn it. And they'l
 
 And be honest with yourself about the story you wish to tell. Captivity romance *can* be told well, but it is something you must intend to do. If you are unwilling to look into the ways of power, consent, and the complexities of developing feelings under duress, this may not be the correct scenario for your story.
 
+### Apply It to Your World
+
+**Does either character hold power over the other? (Captor, employer, ruler, magical superior.) What kind?**
+
+_______________________________________________________________
+
+**When does the less powerful character gain a genuine ability to leave?**
+
+_______________________________________________________________
+
+**What scene shows the less powerful character making a real choice -- not just accepting what's happening to them?**
+
+*Hint: If you can't point to a specific moment, write one. Even a small refusal that gets respected proves the character has agency.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## Mistake #9: Fated Mates That Remove All Agency
@@ -335,6 +375,26 @@ If they had no trouble accepting the bond, there's no tension. Make acceptance r
 And ask yourself this: if the bond didn't exist, would these two people have anything? Do they like each other? Do they have chemistry? Do they *see* each other? The bond should confirm a connection that's built on the page, not replace it.
 
 This is also where world rule consistency matters (see Mistake #7). If the rules of your bond change to meet the demands of the story, stronger when you need drama, weaker when you need conflict, readers will notice.
+
+### Apply It to Your World
+
+**If your story has a magical bond, fated mates, or prophecy: can you explain why your characters choose each other without mentioning it?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What do your characters disagree about, struggle with, or have to work through despite the bond?**
+
+*Hint: If the bond makes everything easy, there's no story. Friction within a fated pairing is what makes it feel real.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**If the bond disappeared tomorrow, what would keep them together?**
+
+_______________________________________________________________
 
 ---
 
@@ -377,6 +437,28 @@ If information must be shared through dialogue, have it shared with someone who 
 *Fourth Wing* presents a controversial but highly effective method of doing this. Violet is a scribe by training, therefore her ability to recall facts under duress has a basis in her character. Lore reveals itself during combat, during flights, during crises, as opposed to during long, exposition-filled sections of the book. This is a polarising method, but it allows the pace of the story to remain relentless because the worldbuilding is never allowed its own separate section. While you may not choose to implement the same method, the underlying principle is valid: readers are more willing to deduce the nature of the world around them from context than to have the details spelled out for them in some sort of guide.
 
 And above all, front-load character, not world. The first few chapters of your story should make the reader fall in love with your protagonist and invested in the romantic tension. The world can be shown to the reader slowly *through* the characters' experiences of it. Readers will tolerate confusion about how the magic system works if they're desperate to know whether these two people will get together. They will *not* tolerate a clear understanding of the magic system if they don't yet care about anyone in the story.
+
+### Apply It to Your World
+
+**What worldbuilding does your reader need to know in the first chapter? (Only what's required to understand the opening scene.)**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What worldbuilding can wait until the reader cares enough to want it?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Pick one piece of lore you currently explain through narration. How could you reveal it through action, conflict, or sensory detail instead?**
+
+*Hint: "She flinched when the temple bells rang" tells us more about her relationship with religion than a paragraph of explanation.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 

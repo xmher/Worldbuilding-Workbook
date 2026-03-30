@@ -383,6 +383,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**What do people believe about the time before recorded history?**
+*Creation stories, mythic ages, legendary founders -- what do people "know" about the very oldest past? These beliefs often shape what your world considers natural or sacred, even if the beliefs are wrong.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **What stories do people tell about the past that are wrong?**
 *"Everyone knows" the old king was a hero, or that the elves started the war, or that the magic died on its own. But what if the accepted version is incomplete, distorted, or an outright lie? Wrong history believed as fact is one of the richest sources of conflict in storytelling.*
 
@@ -412,6 +419,13 @@ What would change if your characters discovered the truth? Would it dissolve the
 
 **Who knows the real history?**
 Everyone but pretends not to? Secret societies? Ancient beings? No one alive?
+
+_______________________________________________________________
+
+**What would happen if the hidden truth became public?**
+*Not just for your characters -- for the whole world. Would it topple a government? Start a war? Free an oppressed group? Some truths are hidden because revealing them would change everything.*
+
+_______________________________________________________________
 
 _______________________________________________________________
 
@@ -1336,8 +1350,8 @@ The best scenes that show a history-reveal are all structured similarly: a trigg
 
 &nbsp;
 
-**If the reveal backfires, what replacement frame must the text supply?**
-A reveal that violates the listener's beliefs can only be survived if the story provides a new ethical frame: a reason the speaker hid truth (safety, coercion, wartime necessity) and a path for the listener to regain agency (the choice to stay, fight, or forgive). Without this, the romance feels coercive rather than earned.
+**If the reveal backfires, how does the story recover?**
+*When a reveal shatters trust, the story needs to supply two things: a reason the speaker hid the truth (safety, coercion, wartime necessity) and a path for the listener to regain agency (the choice to stay, fight, or forgive). Without both, the romance feels coercive rather than earned.*
 
 _______________________________________________________________
 

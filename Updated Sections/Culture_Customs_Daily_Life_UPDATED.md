@@ -96,6 +96,14 @@ How characters interact with cultural expectations shows who they are:
 
 Some of the most interesting romantic tension comes from pairing characters who relate to their culture differently. One who embodies its values, one who challenges them.
 
+**How does each character relate to their culture's rules?**
+
+*Do they follow the rules because they believe, or because they fear? Do they break rules on impulse or on purpose? Pairing characters who relate to culture differently creates natural tension.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ### Common Patterns: Culture in Romantasy
 
 | Pattern | How It Works | What It Creates |
