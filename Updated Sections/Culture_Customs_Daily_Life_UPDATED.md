@@ -1084,6 +1084,16 @@ Forbidden love has its excitement in the risk involved. Ensure that your reader 
 
 &nbsp;
 
+**What happens when someone breaks a taboo?**
+
+Consequences should escalate with severity:
+
+| Severity | Consequence |
+|----------|-------------|
+| Minor taboo broken | |
+| Moderate taboo broken | |
+| Major taboo broken | |
+
 **Which taboos directly affect your romance?**
 
 *Pick 2-3 that create real obstacles and describe how each one gets in the way.*
@@ -1095,16 +1105,6 @@ Forbidden love has its excitement in the risk involved. Ensure that your reader 
 &nbsp;
 
 &nbsp;
-
-**What happens when someone breaks a taboo?**
-
-Consequences should escalate with severity:
-
-| Severity | Consequence |
-|----------|-------------|
-| Minor taboo broken | |
-| Moderate taboo broken | |
-| Major taboo broken | |
 
 **What taboo do your characters break first?**
 

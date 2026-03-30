@@ -192,15 +192,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**How might the source of magic affect your leads' relationship?**
-Magic's origin can unite or divide. In *ACOTAR*, Feyre is human and Tamlin is High Fae. That's the obvious gap: she's mortal and powerless in his world. Or perhaps magic runs through noble bloodlines and she's aristocracy while he's common-born, except he's developing abilities that shouldn't exist in someone like him. Do your characters share the same source, or does their magic come from opposing places?
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
 ---
 
 ## Who Can Use Magic
@@ -257,22 +248,7 @@ _______________________________________________________________________________
 
 **Is there a significant power gap between your characters?**
 
-*We'll dig deeper into power dynamics in the Power Imbalance section later. For now, sketch the basics — the gap between your leads will shape every interaction they have.*
-
-Who holds more magical, political, or physical power? Power imbalances create tension, so show it through interaction dynamics. Who waits for whom? Who has to ask permission? Whose comfort is automatically prioritised?
-
-**What is your protagonist's magical status, and what is your love interest's?**
-
-*Are they equally matched, or is one far more powerful? The gap between them -- or the absence of one -- will shape every interaction they have.*
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-**If there's a power gap, what does the less powerful person bring that the powerful one needs?**
-In later *ACOTAR* books, Rhysand is the most powerful High Lord in history. But Feyre sees through his masks and challenges his decisions. Power isn't just magic. It's also who's willing to call you on your bullshit. Balanced relationships require more than magical equality, so what does each character offer that the other can't provide for themselves?
+*We'll dig deeper into power dynamics in the Power Imbalance section later. For now, sketch the basics — who holds more magical, political, or physical power?*
 
 _______________________________________________________________________________
 
