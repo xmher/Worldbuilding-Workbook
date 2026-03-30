@@ -1365,7 +1365,8 @@ A reconciliation that comes at no cost is unearned. The cost could include exile
 **How does your romance resolve the historical conflict?**
 The reconciliation between your characters needs to work on multiple levels. If they get together personally but the world doesn't change, readers feel cheated. Map how you're planning to earn it.
 
-**How does your romance earn its reconciliation? For each element -- reciprocal sacrifice, gradual pacing, a shared enemy or truth, both public and private resolution, and structural change in the world -- describe how your story delivers.**
+**How does your story earn its resolution?**
+*Check each element from the table above: reciprocal sacrifice, gradual pacing, a shared enemy or truth, both public and private resolution, and structural change. Which ones does your story deliver, and which need work?*
 
 *(Write your answer below)*
 
@@ -1390,7 +1391,8 @@ The reconciliation between your characters needs to work on multiple levels. If 
 **What does reconciliation cost your characters?**
 A reconciliation that comes at no cost is unearned. The larger the historical weight, the larger the price tag. What do your characters lose, sacrifice, or fundamentally change about themselves in order to be together?
 
-**What does reconciliation cost your protagonist? What does it cost your love interest? The larger the historical weight, the larger the price.**
+**What does each character lose, sacrifice, or fundamentally change to be together?**
+*The larger the historical weight you have built, the larger the price tag needs to be.*
 
 *(Write your answer below)*
 
@@ -1410,7 +1412,8 @@ This "emotional stasis," or lack of emotional aging, is an almost defining chara
 
 **Is either of your characters a long-lived being?**
 
-**Is either character a long-lived being? Who are they, how old are they, and what history have they personally lived through?**
+**Who are they, how old are they, and what history have they personally lived through?**
+*If one of your characters is immortal or long-lived, name the events they witnessed firsthand -- not from books, but from being there.*
 
 *(Write your answer below)*
 
@@ -1425,7 +1428,8 @@ The ancient character has seen patterns repeat, loved and lost countless times, 
 
 **The ancient character:**
 
-**For your ancient character: What historical patterns have they seen repeat? What have they lost over centuries? What makes them cynical or gives them hope? Do they see the mortal partner as another loss waiting to happen?**
+**What patterns has the ancient character seen repeat, and what have they lost along the way?**
+*Think about what makes them cynical or gives them hope. Do they see their mortal partner as another loss waiting to happen?*
 
 *(Write your answer below)*
 
@@ -1437,7 +1441,8 @@ The ancient character has seen patterns repeat, loved and lost countless times, 
 
 **The mortal character:**
 
-**For your mortal character: What does it mean to love someone who's seen centuries? Do they feel insignificant, or do they bring something the ancient one has lost? Are they aware of their own mortality in the relationship?**
+**What does the mortal character bring to someone who has seen centuries?**
+*Do they feel insignificant next to all that history, or do they offer something the ancient one has lost -- urgency, freshness, a reason to care again? How aware are they of their own mortality in this relationship?*
 
 *(Write your answer below)*
 

@@ -112,6 +112,26 @@ You should have secondary characters with their own interests. You should have h
 
 The world doesn't care about your protagonists' romance. People are shopping at the marketplace whether they're in love or not. The war continues regardless of their feelings. Let the world feel like it exists independent of them. Other people are living their lives, other romances exist, other concerns matter. Your protagonists' story is *one* story, not *the* story.
 
+### Apply It to Your World
+
+**Name one secondary character who has their own problems that have nothing to do with your protagonists.**
+
+_______________________________________________________________
+
+**What is happening in your world right now that your protagonists don't know or care about?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Does every custom, law, or historical event in your world exist to serve the romance? Name one that exists just because your world is a real place.**
+
+*Hint: If you can't think of one, add a detail that makes the world feel lived-in -- a local holiday, a trade dispute, a neighbourhood rivalry.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 # Tone and Authenticity
@@ -142,6 +162,28 @@ The third option is to acknowledge the tension openly. Your protagonist can have
 
 This is significant because when social constraints are believable, forbidden love becomes truly *forbidden*. There is a difference between having the rules of the society *bend* for a couple when they need it to, versus having rules that are so consistently real, that a couple running counter to them puts them in real danger of being discovered. The excitement of the act of defiance, the danger of getting caught: all of that depends upon the world having real rules that can be broken by someone who cares enough to take the risk.
 
+### Apply It to Your World
+
+**Which approach are you using: historically grounded world, world where modern values make sense, or tension between character and society?**
+
+_______________________________________________________________
+
+**If your world looks pre-modern but your characters have modern attitudes, what in your worldbuilding explains why?**
+
+*Hint: A history of revolution, a culture shaped by magic-driven equality, or a religion that teaches individual worth can all justify modern attitudes -- but the reason needs to exist on the page.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What is one social rule in your world that your characters cannot bend or ignore without real consequences?**
+
+_______________________________________________________________
+
+**What happens when they break it?**
+
+_______________________________________________________________
+
 ---
 
 # Stakes and Consistency
@@ -167,6 +209,24 @@ Rather than pausing the danger for romance, let the romance happen *during* the 
 If you need lower-tension scenes, build them into the worldbuilding. Safe houses that actually make sense. Travel time between locations. Recovery periods after battles. Make the "safe" moments feel earned and temporary.
 
 And even during romantic scenes, keep the reader reminded of the danger that awaits. A deadline they're aware of. The sound of armies marching in the distance. The knowledge that they'll have to return to the danger soon. Intimacy under pressure is more intense, not less.
+
+### Apply It to Your World
+
+**Pick one romantic scene in your story. What external danger is active during that moment?**
+
+_______________________________________________________________
+
+**If the danger conveniently pauses for that scene, what could you add to keep it pressing in?**
+
+*Hint: A sound in the distance, a deadline they're watching, a lookout who could fail, a bruise that still hurts.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Where in your story could a romantic moment happen during danger rather than between dangers?**
+
+_______________________________________________________________
 
 ---
 

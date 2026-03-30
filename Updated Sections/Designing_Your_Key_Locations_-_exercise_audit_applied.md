@@ -519,13 +519,17 @@ _______________________________________________________________
 
 #### The Moment
 
-What pivotal moment happens here?
+**What pivotal moment happens at this location?**
+
+*Name the scene -- first kiss, major confession, betrayal, breaking point, reunion. Be specific about what shifts between the characters.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-Why must it happen HERE specifically? This is the ultimate test of your location design. What about this space makes the moment possible, inevitable, or more meaningful?
+**Why can this moment only happen here?**
+
+*This is the ultimate test of your location design. What about this specific space -- its constraints, its danger, its history, its privacy -- makes this moment possible, inevitable, or more meaningful? If you can't answer this, the location needs more work.*
 
 _______________________________________________________________
 
@@ -602,17 +606,17 @@ If characters return to a location, what changes between visits? Track how the s
 | Third visit | | |
 | Final visit | | |
 
-What do they notice on return that they missed before?
+**What do they notice on return that they missed before?**
 
-*Returning characters see spaces differently because they've changed. A detail that meant nothing on the first visit — a second chair, a view of the sunrise, the way sound carries — suddenly matters. These shifts tell the reader the relationship has moved without a word of exposition.*
-
-_______________________________________________________________
+*Returning characters see spaces differently because they've changed. A detail that meant nothing on the first visit -- a second chair, a view of the sunrise, the way sound carries -- suddenly matters. These shifts tell the reader the relationship has moved without a word of exposition.*
 
 _______________________________________________________________
 
-How does their behaviour in this space change?
+_______________________________________________________________
 
-*Physical behaviour in a shared space is one of the clearest ways to show relationship progression without a single word of dialogue. Where they stand, how close they get, what they're comfortable doing — track these shifts and the reader will feel the relationship evolving.*
+**How does their behaviour in this space change between visits?**
+
+*Physical behaviour in a shared space is one of the clearest ways to show relationship progression without a single word of dialogue. Where they stand, how close they get, what they're comfortable doing -- track these shifts and the reader will feel the relationship evolving.*
 
 _______________________________________________________________
 
@@ -640,13 +644,15 @@ _______________________________________________________________
 
 **How does it become theirs?**
 
-Through repetition? A significant first moment there? A private ritual they develop?
+*Through repetition? A significant first moment? A private ritual they develop? The best "their place" locations aren't claimed by declaration -- they accumulate meaning through what happens there.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **What would it mean to lose access to this place?**
+
+*If losing a location wouldn't hurt, it's not doing enough emotional work. The potential loss of "their place" should feel like losing a piece of the relationship itself.*
 
 _______________________________________________________________
 

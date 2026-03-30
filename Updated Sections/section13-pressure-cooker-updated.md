@@ -782,6 +782,11 @@ Be honest. The answer might be different for each character, and it might not be
 
 ___
 
+**How has the world outside the pressure cooker changed while they were inside?**
+*The world doesn't pause while your characters are confined. Alliances shift, wars progress, seasons turn. What do they walk out into — and how does the changed world create new pressures or remove old ones?*
+
+___
+
 **What lingers from the pressure cooker period?**
 *Confinement leaves traces. Check which of these resonate for your story and fill in the specifics.*
 

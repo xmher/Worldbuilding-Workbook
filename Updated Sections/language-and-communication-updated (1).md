@@ -134,6 +134,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**How do ordinary people communicate across language barriers?**
+*Gestures, interpreters, trade phrases, drawn pictures? Think about what a merchant, a traveller, or a soldier does when they can't speak the local language.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **What slang, idioms, or curse words do people use?**
 *Everyday speech reveals culture. What people joke about, what insults sting, and what phrases everyone knows tell the reader more about your world than any history lesson. Think about what your characters say when they stub their toe, insult an enemy, or joke with friends.*
 
@@ -150,6 +157,13 @@ _______________________________________________________________
 
 **How do people communicate over long distances without magic?**
 *Messengers, signal fires, carrier birds, coded drums, postal systems? The speed and reliability of non-magical communication shapes how fast news travels, how isolated communities feel, and how hard it is to stay in contact with someone far away.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How does news and information spread in your world?**
+*Town criers, broadsheets, tavern gossip, official proclamations? Think about how quickly rumour travels compared to official news, and who controls what people hear.*
 
 _______________________________________________________________
 
@@ -755,7 +769,8 @@ You don't need to write full dialogue yet. Map how the rhythm changes. Start wit
 
 Real conflict reveals character. What triggers it, what gets said that can't be unsaid, and how does the aftermath shape them?
 
-**Plan a key argument between your characters: What is it about on the surface? What is it really about (the subtext)? What gets said that can't be unsaid? How does it end?**
+**Plan a key argument between your characters.**
+*What is it about on the surface? What is it really about underneath? What gets said that can't be unsaid? How does it end?*
 
 *(Write your answer below)*
 
@@ -1108,10 +1123,8 @@ The best misunderstandings aren't just about getting the words wrong. They're ab
 | Deliberate misdirection | A third party translates or explains incorrectly on purpose | The truth comes out and the manipulator is exposed |
 | Silence read as rejection | One character's inability to speak is taken as unwillingness | The moment when they finally find the words, or find another way |
 
-**What misunderstanding occurs because of language barriers?**
-Language gaps create room for confusion, comedy, or heartbreak. What gets lost in translation between your characters, and is the misunderstanding rooted in language, culture, or character?
-
-**Plan a key miscommunication between your characters: What is the miscommunication, why is it inevitable given who they are, what does each character believe happened, and how is it resolved?**
+**Plan a key miscommunication between your characters.**
+*What is the miscommunication, and why is it inevitable given who they are? What does each character believe happened? How is it resolved? The best misunderstandings are rooted in language, culture, or character -- not in a conversation that could be cleared up in five seconds.*
 
 *(Write your answer below)*
 

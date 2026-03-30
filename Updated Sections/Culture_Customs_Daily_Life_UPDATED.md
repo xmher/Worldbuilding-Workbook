@@ -2282,9 +2282,7 @@ _______________________________________________________________
 
 #### What does the "slip" look like between your characters?
 
-*The most revealing moments in cross-class romance are the accidental ones — a first name used without thinking, a hand reached for instinctively, eye contact held a beat too long. What moment of "I forgot myself" reveals the truth beneath the social performance?*
-
-**Describe a moment when a character slips on etiquette — breaks a class or rank rule without meaning to. What is the slip, who makes it, who notices, and what does it reveal?**
+*Describe a moment when a character breaks a class or rank rule without meaning to -- a first name used without thinking, a hand reached for instinctively. What is the slip, who makes it, who notices, and what does it reveal?*
 
 *(Write your answer below)*
 
@@ -2296,9 +2294,7 @@ _______________________________________________________________
 
 #### How do your characters behave differently in public versus private?
 
-*When characters maintain perfect hierarchy in front of others but drop it behind closed doors, they create a secret world. What does the shift look like between your characters — and what would happen if someone saw the private version?*
-
-**How do your characters interact differently in public versus in private? What would happen if someone saw the private version?**
+*What does the shift look like when the door closes? What would happen if someone saw the private version?*
 
 *(Write your answer below)*
 
@@ -2341,9 +2337,7 @@ _______________________________________________________________
 
 **When do your characters shift how they address each other?**
 
-This is often a pivotal intimacy moment:
-
-**Describe the shift in how your characters address each other: What do they call each other at first, what do they shift to, and when and why does the change happen?**
+*What do they call each other at first, what do they shift to, and what triggers the change?*
 
 *(Write your answer below)*
 
@@ -2386,9 +2380,7 @@ If yes:
 
 &nbsp;
 
-**What are the key differences between their cultures?**
-
-**Compare the two cultures your characters come from: How do their values, customs, and taboos differ?**
+**How do their cultures differ in values, customs, and taboos?**
 
 *(Write your answer below)*
 
@@ -2400,7 +2392,7 @@ If yes:
 
 **What does one culture do that the other finds shocking, rude, or confusing?**
 
-**Describe 2-3 cultural misunderstandings that could arise between your characters because of their different backgrounds.**
+*Describe 2-3 cultural misunderstandings that could arise between your characters.*
 
 *(Write your answer below)*
 

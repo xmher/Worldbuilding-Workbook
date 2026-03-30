@@ -756,7 +756,8 @@ Cost? Location? Class? Connections?
 **Does magical healing exist?**
 *Magical healing can remove stakes from injuries — unless it has limits, costs, or is inaccessible to your characters. The most effective romantasy healing systems give with one hand and take with the other.*
 
-**Does magical healing exist in your world? How common is it, how effective, what can't it heal, and what does it cost?**
+**Does magical healing exist? How common is it, and what can't it heal?**
+*Think about effectiveness, availability, and cost. The most effective romantasy healing systems give with one hand and take with the other.*
 
 *(Write your answer below)*
 
@@ -769,15 +770,11 @@ Cost? Location? Class? Connections?
 **What injuries or illnesses are survivable vs. fatal?**
 *Understanding what can and can't be healed helps you write realistic stakes. If everything is survivable, danger loses its weight. If too much is fatal, you lose the caretaking scenes where romance deepens.*
 
-**What injuries or illnesses are easily treated in your world? What is survivable with care? What is usually fatal?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+| Category | Examples in Your World |
+|---|---|
+| Easily treated | |
+| Survivable with care | |
+| Usually fatal | |
 
 **What chronic conditions exist, and how are they managed?**
 *Chronic illness shapes daily life in ways acute injury doesn't. A character who lives with ongoing health concerns experiences vulnerability differently — it's not a single dramatic moment but a constant reality that the love interest must understand and accommodate.*
@@ -880,7 +877,11 @@ Can people dress themselves, or do they need help? Clothing that requires assist
 Architecture shapes where intimacy is possible. Thick stone walls muffle sound; timber partitions don't. A tower room isolates; an open longhouse exposes. Whether your characters live in a sprawling palace or a single-room dwelling determines what privacy looks like and what "alone together" actually means.
 
 **What are buildings made from, and what does that mean for privacy?**
-Stone castles, timber halls, mud-brick dwellings. Each creates different atmospheres and different levels of sound isolation. Can your characters be heard through the walls?
+*Stone castles, timber halls, mud-brick dwellings. Each creates different atmospheres and different levels of sound isolation.*
+
+**What are the most common building materials in your world? Can your characters be heard through the walls?**
+
+_______________________________________________________________
 
 **How tall can buildings be?**
 Height limits shape cityscapes and the symbolic power of towers. What does it mean when someone lives in the highest room, and who has to climb all those stairs to reach them?
@@ -1145,7 +1146,7 @@ What does one have that the other doesn't?
 **Does either character face medical issues?**
 *Illness and injury create vulnerability. Caring for someone sick is intimacy of a different kind — it proves love in ways that words cannot. What might that reveal between your characters?*
 
-**Does either character face medical issues? What condition, what treatment exists, and does one care for the other during illness or injury?**
+**Does either character face illness or injury? What treatment exists, and does one care for the other?**
 
 *(Write your answer below)*
 
@@ -1171,7 +1172,7 @@ What does one have that the other doesn't?
 **Could they marry secretly with no record?**
 *Secret marriage is a classic romantasy option, but documentation requirements determine whether it can stay secret and what risks exist. A union no one can prove is also a union no one can disprove.*
 
-**Could your characters marry secretly with no record? What would be required, and what risks would exist?**
+**What would a secret marriage require, and what risks would it carry?**
 
 *(Write your answer below)*
 

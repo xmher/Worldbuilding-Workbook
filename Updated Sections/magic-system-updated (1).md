@@ -1958,8 +1958,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**If one character used magic on the other in a morally grey moment (for protection, for information, in desperation) could the relationship survive it?**
-What would repair require?
+**What happens if one character uses magic on the other without permission?**
+
+*Maybe it was for protection, or in desperation, or to get information they needed. Could the relationship survive it? What would repair require?*
 
 _______________________________________________________________
 
@@ -1980,7 +1981,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Is this opposition a permanent state or something that can be overcome with practice, trust, or sacrifice? What would it take?**
+**Can this magical opposition be overcome, or is it permanent?**
+
+*If it can be overcome, what would it take -- practice, trust, sacrifice, or something else entirely?*
 
 _______________________________________________________________
 
@@ -2044,7 +2047,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What would an outsider see when watching their dynamic? Would they be concerned? Are they right to be?**
+**What would an outsider see when watching your characters together?**
+
+*Would they be concerned? Would they be right to be? Sometimes a power imbalance looks worse from the outside than it is -- and sometimes it looks better.*
 
 _______________________________________________________________
 

@@ -812,11 +812,11 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does the power imbalance of caregiver/patient affect the relationship?**
+**What does the caregiver/patient power gap look like in your story, and how does it shift?**
 
 This is perhaps the most difficult dynamic to write well, because readers can identify the imbalance regardless of whether or not the characters recognise it. The caregiver has access to the patient's body and vulnerability in ways that wouldn't normally be permitted; the patient may develop feelings rooted in gratitude and dependence rather than genuine connection. The craft challenge is making sure the relationship earns its ground. The best versions of this trope build in moments where the vulnerable character shows strength despite their condition (sharp wit, fierce independence, refusing pity) and moments where the caregiver becomes vulnerable too (exhaustion, fear of loss, accidentally revealing too much of themselves during a long vigil). If the dynamic doesn't have a two-way emotional connection, then it's weak.
 
-Can genuine connection form when one person is so vulnerable? Does the dynamic shift when recovery happens?
+*Think about when and how the vulnerable character shows strength, and when the caregiver lets their own walls down. The relationship needs to become two-way before it can feel earned.*
 
 _______________________________________________________________
 
@@ -978,7 +978,17 @@ The balance of power in a captivity romance is what determines if the story live
 
 This is the essential question. In every successful captivity romance, the captive must gain some form of leverage, whether through discovering her own power (Feyre gaining High Lord abilities, Poppy discovering her Atlantian heritage, Emilia realising she's a Star Witch), through acquiring information the captor needs, or through the captor's own transformation from seeing the captive as a tool to seeing her as a person. By the time the story ends, both parties must be able to see each other as equals. If they don't, you've got a control story, not a love story.
 
-**In your captivity dynamic, who holds power at the start? What shifts the balance? When do they become equals? What proves the shift is real (not just the captor being 'nicer')?**
+**Who holds power at the start of the captivity?**
+
+*Think about what changes the balance — does the captive discover hidden strength, gain leverage, or earn respect? And how do you show they've become equals, not just that the captor started being kinder?*
+
+**What shifts the power balance between them?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What proves they've become equals?**
 
 *(Write your answer below)*
 
@@ -1148,9 +1158,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does maintaining the double life affect their ability to be honest with each other?**
+**Where does the habit of lying bleed into their relationship with each other?**
 
-*Characters who spend their days performing a lie often struggle to stop performing, even with someone they trust. The habit of secrecy can become a barrier to genuine intimacy.*
+*Characters who spend their days performing a lie often struggle to stop performing, even with someone they trust. The habit of secrecy can become a barrier to genuine intimacy — the mask doesn't always come off just because you want it to.*
 
 _______________________________________________________________
 
