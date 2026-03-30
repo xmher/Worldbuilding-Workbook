@@ -536,7 +536,7 @@ _______________________________________________________________
 
 ## Law Enforcement & Justice
 
-Enforcement gives force to laws. If the criminal aspect of your story has no real penalty, then there are no stakes. While the question "what's against the law?" is important, the greater question is "what happens if they're caught?" These are the individuals your characters will have to avoid, pay off, or confront. Royal guard? City watch? Magical enforcers? Religious authorities? Secret police? Self-enforcing magical contracts? Is enforcement ubiquitous (high risk)? Moderate? Weak or corrupt (easy to get away from)? Selective (depends who you are)? The degree to which the law is enforced provides much of the texture of your romance. In an omnipresent environment where everyone watches each other, the very act of stealing glances is a risk. Each whispered conversation could be overheard by someone who will report it. This creates a game of tradecraft: coded messages, secret meeting places, plausible deniability. When enforcement is weak, the danger occurs in fits and starts. Your characters may act with complete disregard for weeks and then one single misstep sends their world into chaos. If your characters are apprehended by the authorities, what will happen to them? Does class, wealth, species, or magical status affect how the law treats them? Be as detailed as possible regarding who receives special treatment. Make the consequences of your characters' actions very tangible and escalating. How does punishment escalate with a first offence compared to subsequent offences?
+The greater question isn't "what's against the law?" but "what happens if they're caught?" The degree to which law is enforced shapes the texture of your romance. Omnipresent enforcement turns every stolen glance into a risk; weak enforcement means danger comes in sudden, devastating bursts after weeks of false safety.
 
 **Who enforces the law?**
 
@@ -1924,33 +1924,11 @@ _______________________________________________________________
 
 **The Crack in the Armor**
 
-**What does the love interest do that surprises the protagonist?**
+**What does each character do that surprises the other — and how do they explain it away?**
 
-An act of kindness, mercy, honor, or vulnerability they weren't expecting:
-
-_______________________________________________________________
+*An act of kindness, mercy, or vulnerability they weren't expecting. Do they rationalize it, distrust it, or assume ulterior motive?*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**How does the protagonist explain this to themselves initially?**
-
-Rationalize it? Distrust it? Assume ulterior motive?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does the protagonist do that surprises the love interest?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How does the love interest initially explain this?**
 
 _______________________________________________________________
 
@@ -1960,33 +1938,11 @@ _______________________________________________________________
 
 **Seeing Through Their Eyes**
 
-**What does the protagonist learn about why the love interest is the way they are?**
+**What does each character learn about why the other is the way they are — and does understanding change anything?**
 
-Not excuses — context. The experiences, pressures, or reasoning behind their position.
-
-_______________________________________________________________
+*Not excuses — context. They don't have to agree, but do they understand?*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**How does this knowledge change the protagonist's view?**
-
-They don't have to agree. But do they understand?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does the love interest learn about the protagonist's perspective?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How does this change them?**
 
 _______________________________________________________________
 
@@ -1996,27 +1952,11 @@ _______________________________________________________________
 
 **The Point of No Return**
 
-**What does the protagonist do that their side would consider betrayal?**
+**What does each character do that their side would consider betrayal, and what does it cost them?**
 
-Not just "has feelings" — an action that crosses a line.
-
-_______________________________________________________________
+*Not just "has feelings" — an action that crosses a line.*
 
 _______________________________________________________________
-
-**What does this cost them?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does the love interest do that their side would consider betrayal?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does this cost them?**
 
 _______________________________________________________________
 

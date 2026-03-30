@@ -534,26 +534,116 @@ Resources don't just create cultures. They create the conditions for love storie
 
 ---
 
+## Taxation & Government Revenue
+
+**How does the government fund itself?**
+
+*Taxes, tribute, tariffs, and tithes all take from ordinary people. What your characters pay — and to whom — shapes how they feel about the powers that govern them.*
+
+What do ordinary people pay? (Land tax, head tax, harvest tithe, labour conscription, magical tribute?) Who collects it, and how fairly?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What happens when people can't pay?**
+
+*Seizure of property? Debtor's prison? Forced labour? The consequences of failing to pay reveal how harsh or merciful the system really is — and can drive characters into desperate choices.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Are there taxes or tariffs that specifically affect your characters or their community?**
+
+*A border tariff might strangle a merchant's livelihood. A magic-user levy might make gifted people into targets. Name the specific tax pressure your characters feel.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
+## Banking & Credit
+
+**How does lending work in your world?**
+
+*Can people borrow money? From whom — a guild, a temple, a moneylender, a noble patron? What are the terms, and what happens to those who default? Debt is one of the most powerful drivers of romantic tension, and it starts here.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Do formal financial institutions exist?**
+
+*Banks, lending houses, temples that hold deposits, merchant exchanges — or is everything informal? The presence or absence of financial institutions determines whether debt is regulated or lawless.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
+## Economic History
+
+**How did the current economy develop?**
+
+*Was there a golden age that's now fading? A recent war that reshuffled who has what? A magical discovery that created new industries? The economy your characters live in was shaped by what came before.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Is the economy in transition?**
+
+*Economies rarely sit still. Is an old order collapsing? Is new wealth displacing old power? Are people nostalgic for how things used to be? Economic transition creates winners and losers — and characters on opposite sides of that shift.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
+## Informal & Subsistence Economies
+
+**Who doesn't participate in the formal economy, and how do they survive?**
+
+*Not everyone uses coins or trades in markets. Subsistence farmers, nomadic groups, isolated communities, refugees, the very poor — they may barter, forage, or rely on mutual aid. If your characters come from or encounter these communities, their economic assumptions will clash.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What does the formal economy fail to provide, and how do people fill the gap?**
+
+*Mutual aid networks, communal farming, barter circles, scavenging, charity from temples — the gaps in the official economy tell you where the system breaks down and where different forms of community take over.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
 ## Work & Occupations
 
 ### Reference: Fantasy Professions & Jobs
 
-Use this list for inspiration. What work shapes your characters' daily lives, and what romantic friction does it create?
+Use this list for inspiration. What does each profession contribute to your world, and what romantic friction does it create?
 
-| Category | Examples | Romantic Tension |
-|---|---|---|
-| Nobility & Governance | Lord/lady, steward, ambassador, tax collector, court advisor | Duty vs. desire; political marriages; "I can't be seen with you" |
-| Military & Combat | Knight, soldier, guard, mercenary, assassin | Protector/protected dynamic; deployment and separation; violence as barrier to intimacy |
-| Skilled Trades | Blacksmith, carpenter, tailor, jeweller, glassblower | Working-class pride vs. noble expectations; craft as love language |
-| Merchants & Trade | Shopkeeper, trader, caravan master, innkeeper | Travel and distance; merchant wealth without status; "you're buying me" |
-| Service & Household | Servant, maid, butler, cook, lady's maid | Power imbalance; secret relationships; "I serve you but I want you" |
-| Healing & Medicine | Healer, midwife, herbalist, apothecary | Caretaker intimacy; touching bodies professionally; "I healed you, now I can't stop caring" |
-| Religious & Spiritual | Priest, priestess, monk, oracle, shrine maiden | Forbidden desire; vows of celibacy; divine duty vs. mortal love |
-| Magical Professions | Court mage, hedge witch, enchanter, potion-maker, ward-smith | Magic as class marker; bonded service; "my power is the only thing you value" |
-| Scholarly & Learned | Scribe, scholar, tutor, librarian, alchemist | Intellectual equals from different worlds; tutor/student tension |
-| Underworld & Shadows | Thief, smuggler, spy, bounty hunter, poisoner | Secret lives; moral conflict; "if you knew what I really do" |
+| Category | Examples | Worldbuilding Role | Romantic Tension |
+|---|---|---|---|
+| Nobility & Governance | Lord/lady, steward, ambassador, tax collector, court advisor | Political administration, lawmaking, land management, tax collection | Duty vs. desire; political marriages; "I can't be seen with you" |
+| Military & Combat | Knight, soldier, guard, mercenary, assassin | Defence, territorial control, enforcement of law and order | Protector/protected dynamic; deployment and separation; violence as barrier to intimacy |
+| Skilled Trades | Blacksmith, carpenter, tailor, jeweller, glassblower | Manufacturing goods, maintaining infrastructure, supplying armies and households | Working-class pride vs. noble expectations; craft as love language |
+| Merchants & Trade | Shopkeeper, trader, caravan master, innkeeper | Moving goods between regions, setting prices, connecting communities | Travel and distance; merchant wealth without status; "you're buying me" |
+| Service & Household | Servant, maid, butler, cook, lady's maid | Maintaining elite households, enabling the leisure class to function | Power imbalance; secret relationships; "I serve you but I want you" |
+| Healing & Medicine | Healer, midwife, herbalist, apothecary | Public health, treating injuries and disease, childbirth, epidemic response | Caretaker intimacy; touching bodies professionally; "I healed you, now I can't stop caring" |
+| Religious & Spiritual | Priest, priestess, monk, oracle, shrine maiden | Spiritual guidance, record-keeping, education, moral authority | Forbidden desire; vows of celibacy; divine duty vs. mortal love |
+| Magical Professions | Court mage, hedge witch, enchanter, potion-maker, ward-smith | Magical infrastructure, wards, enchanted goods, divination, military applications | Magic as class marker; bonded service; "my power is the only thing you value" |
+| Scholarly & Learned | Scribe, scholar, tutor, librarian, alchemist | Preserving knowledge, educating the next generation, research and innovation | Intellectual equals from different worlds; tutor/student tension |
+| Underworld & Shadows | Thief, smuggler, spy, bounty hunter, poisoner | Moving contraband, gathering intelligence, filling gaps the legal economy won't | Secret lives; moral conflict; "if you knew what I really do" |
 
-Work is a physical part of people as well as their thoughts. It can be shown through how your body looks (the calluses on your hands or the ink on your fingers), what you know (your ability to see things that are invisible to others) and the routines you go through (actions you've developed over time because they have become reflexive). A blacksmith knows whether metal has been worked well or poorly. A merchant will calculate the worth of an item with little effort. A soldier will assess a potential threat in less than one second upon entering a room. When characters from different work worlds meet, let them discover each other through these competencies. There's real intimacy in watching someone do what they're good at, and in being seen doing what you're good at by someone who appreciates it.
+Work shows on the body and shapes the mind. A blacksmith knows whether metal has been worked well or poorly. A merchant will calculate worth with little effort. A soldier will assess a threat in less than a second. When characters from different work worlds meet, let them discover each other through these competencies.
 
 **What professions are respected? Looked down upon?**
 Occupational status shapes how people are treated and what doors open or close. If your characters have different occupations, how might society view their pairing?
