@@ -19,6 +19,8 @@ The Wall in *ACOTAR* is sediment made literal: a physical ward erected after a f
 
 You must decide what is underneath your characters' feet, and then let the cracks show.
 
+## Brain Dump
+
 **What are the major events in your world's history?**
 *You don't need a full timeline yet -- just the big moments that still echo. Wars, disasters, revolutions, betrayals, golden ages, falls from grace. List whatever comes to mind; you'll refine later.*
 
@@ -28,25 +30,20 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What sediment are your characters standing on?**
-The deeper the historical layer, the harder it is to crack. Identify the layers of compressed history beneath your characters' feet, from recent grudges to ancient bedrock.
+**What do you already know about your world's past?**
+*Jot down any images, fragments, or ideas you have -- a ruined city, a legendary battle, a forbidden name. Don't worry about order or detail. This is raw material you'll shape as you work through the section.*
 
-**What are three layers of history beneath your characters' feet?**
-*Name one event within living memory (surface), one older cultural memory (mid-level), and one ancient belief so deep it feels like fact (bedrock). For each, note what happened, how compressed it has become, and how it touches your characters today.*
+_______________________________________________________________
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 ---
 
 ## A Note Before You Begin
 
-Not every question here will matter for your story. History can stay vague; sometimes "the old war" is enough. Focus on what creates present tension. The question isn't "what happened?" but "what happened that makes their relationship impossible?" If a section doesn't apply to you, skip it.
+Not every question here will matter for your story. History can stay vague; sometimes "the old war" is enough. Focus on what creates present tension. If a section doesn't apply to you, skip it.
 
 **Quick guide to what you need:**
 
