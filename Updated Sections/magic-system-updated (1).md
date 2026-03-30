@@ -2082,6 +2082,124 @@ _______________________________________________________________________________
 
 You've spent this section building the mechanics of your magic — now let's make sure you've connected those mechanics to the heart of your story. These questions are about the *personal* uses of magic: not what it does in battle, but what it means between two people.
 
+**How might the source of magic affect your leads' relationship?**
+Magic's origin can unite or divide. In *ACOTAR*, Feyre is human and Tamlin is High Fae. That's the obvious gap: she's mortal and powerless in his world. Or perhaps magic runs through noble bloodlines and she's aristocracy while he's common-born, except he's developing abilities that shouldn't exist in someone like him. Do your characters share the same source, or does their magic come from opposing places?
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+**What is your protagonist's magical status, and what is your love interest's?**
+
+*Are they equally matched, or is one far more powerful? The gap between them -- or the absence of one -- will shape every interaction they have.*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+**If there's a power gap, what does the less powerful person bring that the powerful one needs?**
+In later *ACOTAR* books, Rhysand is the most powerful High Lord in history. But Feyre sees through his masks and challenges his decisions. Power isn't just magic. It's also who's willing to call you on your bullshit. Balanced relationships require more than magical equality, so what does each character offer that the other can't provide for themselves?
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+**How might the process of using magic create vulnerable or intimate moments between your leads?**
+
+*Think about what using magic requires: concentration that leaves you exposed, physical contact that could become charged, emotional openness that drops your guard. Any of these could turn a practical moment into a personal one.*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+### How Magic Reveals Character
+
+The way someone uses magic shows who they are. In romance, this becomes a way for characters to see each other, to notice things about how the other person wields power that others miss entirely.
+
+**What does the way your protagonist uses magic reveal about them that most people don't notice?**
+Are they more gentle than they appear? More precise? More reckless? More afraid?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What does the love interest notice about the protagonist's magic that others overlook?**
+Seeing what others miss is a form of intimacy. What do they perceive that reveals how closely they watch?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What does each character understand about the other from watching them use magic?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Is there a moment where one character sees the other use magic and realises something important?**
+About their power, their control, their fear, their care:
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+### Vulnerability Through Magic
+
+Magic can strip away defences. Not because it's designed to, but because using it requires something from the person wielding it. In *Fourth Wing*, Violet and Xaden can speak mind-to-mind, which means he knows when she's scared, when she's lying, when she's thinking about him. There's nowhere to hide.
+
+**When is your character most vulnerable while using magic?**
+During casting, after exhaustion, when emotions run high, when they're at their limits?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How would the love interest react to seeing them at their most vulnerable?**
+
+*Is this something your character would normally hide? What changes if someone they care about witnesses it?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Has your character ever had to use magic in front of the love interest when they would have preferred to hide?**
+What happened?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Flip it: has your character ever seen the love interest vulnerable through magic?**
+What did they learn?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **How would your protagonist use their magic for the love interest in a quiet, personal way?**
 
 *Not in battle -- in private. The most memorable romantic gestures in the genre aren't grand displays. They're quiet, costly, and specific to the magic your character already has. A fire mage keeping a candle burning. A healer absorbing pain they could avoid. What would your protagonist's version look like?*
