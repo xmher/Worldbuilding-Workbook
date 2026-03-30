@@ -359,16 +359,6 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**How might the process of using magic create vulnerable or intimate moments between your leads?**
-
-*Think about what using magic requires: concentration that leaves you exposed, physical contact that could become charged, emotional openness that drops your guard. Any of these could turn a practical moment into a personal one.*
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
 ### Magic Through the Body
 
 This is how you bring your magic system to life -- by letting readers experience it through your character's body. The heat in their veins, the pressure behind their eyes, the way their skin prickles when someone else's power brushes against theirs. If you can't describe what magic physically feels like to the person wielding it, your magic will read like stage directions rather than lived experience.
