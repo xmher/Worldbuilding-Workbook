@@ -1091,8 +1091,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What does each character's bloodline mean?**
-
 **What does each character's bloodline grant them, and what does it demand?**
 *Think about privileges, powers, obligations, and restrictions that come with their heritage.*
 
@@ -1166,7 +1164,7 @@ _______________________________________________________________
 ---
 
 **Did either side in historical conflicts commit atrocities?**
-Atrocities create wounds that don't heal with time. They raise questions of guilt, responsibility, and whether forgiveness is possible.
+*Atrocities create wounds that don't heal with time. They raise questions of guilt, responsibility, and whether forgiveness is possible.*
 
 **What happened, who did it, and who suffered?**
 *Be specific. Abstract villainy creates less tension than a named act with named victims.*
