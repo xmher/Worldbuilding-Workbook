@@ -68,7 +68,9 @@ Different relationship dynamics interact with locations differently. Have a thin
 
 *Use the tables above to identify which types of pressure your romance needs. You don't have to limit yourself to one — the strongest locations combine two or more.*
 
-**What is your pairing dynamic (e.g., enemies to lovers, forbidden love, slow burn), and which types of location pressure does your romance need most? Why does this combination serve your story?**
+**What is your pairing dynamic, and which one or two types of location pressure does it need most?**
+
+*For example, enemies to lovers typically needs forced connection + risk. Refer to the tables above. You can combine more than one pressure type.*
 
 *(Write your answer below)*
 
@@ -198,11 +200,33 @@ What they smell: ________________________________________________
 
 What they feel (temperature, texture, air): ___________________________
 
+**How big is this location, and how long does it take to cross?**
+
+*Scale shapes everything. A location you can cross in thirty seconds creates different tension than one that takes an hour to traverse. A single room forces intimacy; a sprawling estate lets characters avoid each other -- or seek each other out.*
+
+_______________________________________________________________
+
+**Who lives or works here? Where within this location do people actually sleep, eat, and gather?**
+
+*Knowing where everyday life happens tells you where characters will run into each other -- and where they can hide. A barracks with shared sleeping quarters creates very different possibilities than a palace with private wings.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What threats or dangers exist at this location?**
+
+*Think beyond dramatic combat. Dangerous wildlife, unstable structures, poisonous plants, treacherous weather, hostile locals, magical hazards. Everyday dangers shape how characters move through a space and what risks they take to be together.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
-**What does this space force or prevent?**
+**What does this space force characters to do? What does it prevent them from doing?**
 
-**For this location: What does the space force to happen (physical proximity, cooperation, vulnerability)? And what does it prevent (escape, privacy, honesty)?**
+*Think about physical proximity, cooperation, vulnerability on the "force" side -- and escape, privacy, honesty on the "prevent" side. The best locations do both at once.*
 
 *(Write your answer below)*
 
@@ -317,7 +341,9 @@ Time of day also shapes the *type* of romantic tension a space creates. At dawn,
 
 *The same space creates completely different romantic tension depending on when your characters arrive. Think about which version serves your scene best.*
 
-**What time of day does your pivotal scene happen in this location? How does the space change at that hour, and what romantic tension does that timing create?**
+**What time of day does your pivotal scene happen here, and how does the space look and feel at that hour?**
+
+*Timing should feel deliberate -- chosen because this version of the space creates the right pressure. Dawn lowers defences. Midday exposes. Dusk loosens rules. Midnight invites transgression.*
 
 *(Write your answer below)*
 
@@ -327,7 +353,7 @@ Time of day also shapes the *type* of romantic tension a space creates. At dawn,
 
 &nbsp;
 
-What time does the pivotal scene happen, and why that time? Timing should feel deliberate, chosen because this version of the space creates the right pressure.
+**Why is this the right time for what happens between your characters?**
 
 _______________________________________________________________
 
@@ -439,7 +465,9 @@ Does this location have active magical properties? Wards, enchantments, sentienc
 
 Use the table below to identify how the magic of this space serves your scene:
 
-**Does this location have active magical properties (wards, sentience, emotional influence, shifting geography, bonding/tethering)? For each that applies, describe how the magic works here and what it does for the romance.**
+**What magical properties does this location have, and how do they affect the characters?**
+
+*Consider wards, sentience, emotional influence, shifting geography, bonding or tethering magic. For each that applies, describe how the magic works here.*
 
 *(Write your answer below)*
 
@@ -648,6 +676,22 @@ _______________________________________________________________
 
 The transition from one significant location to another is often where the most charged moments happen. The walk from the ballroom to the garden is where hands almost touch. The journey from the city to the wilderness is where the masks of civilisation start slipping. The climb from the base of the tower to the top is where the silence between them says everything. Don't skip transitions just because "nothing happens". The transition between locations is where anticipation builds, where characters are between roles, where the rules of one space have ended but the rules of the next haven't started yet.
 
+**What does the landscape look like between your key locations?**
+
+*Readers need to feel the world between destinations -- not just the destinations themselves. Dense forest, open plains, crowded streets, underground tunnels? The terrain between locations shapes travel time, danger, and how exposed or hidden characters are on the journey.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How do your locations physically connect to each other -- roads, paths, waterways, portals?**
+
+*The route between locations matters as much as the locations themselves. A single narrow road means characters can be tracked or ambushed. A secret tunnel means they can meet unseen. A river means they share a boat. The connection shapes the story.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **Pick one transition between two of your key locations. What happens emotionally during the journey?**
 
 *The space between locations is where characters are between roles — the rules of one space have ended but the rules of the next haven't started yet. This liminal zone is where hands almost touch, where silence says everything, where masks start slipping. Don't skip it.*
@@ -658,7 +702,7 @@ _______________________________________________________________
 
 ### Variety Check
 
-**Do your locations offer different types of pressure and intimacy?**
+**Do your key locations feel different from each other?**
 
 Look at your key locations. Do you have a mix of:
 
@@ -680,23 +724,27 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**What one detail makes each key location instantly recognisable?**
+
+*Every location needs a signature -- something a reader could identify in a single sentence. The constant wind, the smell of sulfur, the way sound echoes. If you can't name it, the location may not be distinct enough yet.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ### Movement Between Locations
 
-**How do characters move between locations?**
+**How do your characters travel between key locations -- and do they travel together or apart?**
 
-*Whether they travel together or apart changes the emotional charge of arriving. A shared journey builds anticipation. Arriving separately creates the electric moment of seeing each other in a new context.*
-
-Travel together or separately? Is the journey itself significant?
+*A shared journey builds anticipation. Arriving separately creates the electric moment of seeing each other in a new context. Think about the mode of travel too: horseback, carriage, on foot, by portal. Each shapes the journey differently.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Does the transition between locations matter?**
+**What happens between your characters during the journey from one key location to the next?**
 
 *Transitions aren't dead space — they're the moments where the rules of one space have ended and the rules of the next haven't started yet. Characters are between roles, and that's when the most honest moments slip through.*
-
-The walk from the ballroom to the garden, the journey from the city to the wilderness, the climb from the base of the tower to the top:
 
 _______________________________________________________________
 

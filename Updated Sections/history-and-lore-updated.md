@@ -19,10 +19,20 @@ The Wall in *ACOTAR* is sediment made literal: a physical ward erected after a f
 
 You must decide what is underneath your characters' feet, and then let the cracks show.
 
+**What are the major events in your world's history?**
+*You don't need a full timeline yet -- just the big moments that still echo. Wars, disasters, revolutions, betrayals, golden ages, falls from grace. List whatever comes to mind; you'll refine later.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **What sediment are your characters standing on?**
 The deeper the historical layer, the harder it is to crack. Identify the layers of compressed history beneath your characters' feet, from recent grudges to ancient bedrock.
 
-**Identify three layers of compressed history beneath your characters' feet: a surface-level event (within living memory), a mid-level cultural memory, and a deep bedrock belief. For each, describe what happened, how compressed it has become, and how it affects your characters today.**
+**What are three layers of history beneath your characters' feet?**
+*Name one event within living memory (surface), one older cultural memory (mid-level), and one ancient belief so deep it feels like fact (bedrock). For each, note what happened, how compressed it has become, and how it touches your characters today.*
 
 *(Write your answer below)*
 
@@ -35,7 +45,7 @@ The deeper the historical layer, the harder it is to crack. Identify the layers 
 **How deep is the bedrock your characters need to crack?**
 *The deeper the historical layer, the harder the resolution. A grudge from last year can be talked out. A grudge compressed into identity — "this is what we ARE" — requires dismantling a worldview. Understanding the depth of your central conflict tells you how much your resolution needs to cost.*
 
-Is your central historical conflict surface-level (recent, raw, could be resolved with new information), mid-level (cultural memory, woven into traditions and assumptions), or bedrock (so deep it feels like identity, biology, or the laws of nature)?
+How deep is the conflict at the heart of your story -- surface (recent, could be talked out), mid-level (woven into culture and tradition), or bedrock (feels like identity itself)?
 
 _______________________________________________________________
 
@@ -54,6 +64,13 @@ History creates romantic obstacles through three mechanisms: inheritance, preced
 | Inheritance | Family feuds, ancestral crimes, old alliances passed down | "My people and your people have unfinished business" |
 | Precedent | Legendary lovers, previous forbidden romances, prophecies | "Everyone knows how this story ends" |
 | Weight | Breaking from tradition, ending ancient feuds, choosing love over ancestral loyalty | "Choosing you means betraying everything I was raised to be" |
+
+**Which of these mechanisms drives your story's central obstacle?**
+*Inheritance (old grievances passed down), precedent (a legendary story everyone expects to repeat), or weight (the cost of breaking from tradition)? Most stories lean on one more than the others. Name the mechanism and the specific history behind it.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 **The Legendary Lovers Dynamic**
 
@@ -84,7 +101,8 @@ The essential takeaway here is that historical worldbuilding in romantasy must p
 **Which subgenre pattern does your story follow?**
 *Use the table above to identify your closest match. This tells you where to invest your historical worldbuilding energy — and what you can afford to leave vague. Not every story fits one subgenre neatly; if yours blends two, note both and focus on the "Essential" column for each.*
 
-**Which romantasy subgenre pattern does your story follow most closely? Based on that, what historical worldbuilding is essential for your story, and what can you afford to leave vague?**
+**What historical worldbuilding is essential for your story, and what can you leave vague?**
+*Use the subgenre table above to identify your closest match, then check its "Essential" and "Optional" columns. If your story blends subgenres, note both.*
 
 *(Write your answer below)*
 
@@ -175,6 +193,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**Who controls the historical records, and what do they leave out?**
+*The person who writes the history decides what counts. Think about what the official record-keepers would never include -- defeated peoples' accounts, inconvenient truths, evidence that the powerful were wrong.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **What institutions preserve the past?**
 Institutions that hold history can become plot elements in their own right: libraries to break into, forbidden archives, restricted knowledge that could change everything about what your characters believe.
 
@@ -239,17 +264,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Is there a gap between elite and common historical knowledge?**
-Do scholars know different things than farmers? If your characters come from different classes, they may have been taught fundamentally different histories of the same events.
+**What do scholars know that ordinary people don't?**
+*If your characters come from different classes, they may have been taught fundamentally different histories of the same events. A farmer's version of "the great war" might be completely different from what a court historian recorded.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Did your protagonist and love interest learn history through different channels?**
-*A character who learned history through bardic songs knows a romanticised version. A character who read court archives knows a politicised version. When they compare what they "know," the clash isn't about facts — it's about whose truth counts. This is a rich source of early-relationship conflict.*
-
-**How did your protagonist learn history (songs, propaganda, archives, family stories), and what version did they get? How did your love interest learn history, and what version did they get? Where do their versions clash?**
+**How did your protagonist learn about the past, and how did your love interest?**
+*Songs, propaganda, archives, family stories, temple teachings -- the channel shapes the version. A character raised on bardic ballads knows a romanticised history; one who read court archives knows a politicised one. When they compare notes, the clash is not about facts but about whose truth counts.*
 
 *(Write your answer below)*
 
@@ -260,6 +283,27 @@ _______________________________________________________________
 &nbsp;
 
 The way to incorporate history in your writing is by using bits and pieces. Some phrases you hear from everyone. Monuments that are simply walked past without being explained. Old songs with lyrics that no one can remember the words or meaning to. Make history emerge from the things that characters take for granted ("the wall has always been there"), as opposed to telling history as a series of expository statements. If your characters are going to discuss the history, provide them with their own perspectives on it: one calls it "the Great Liberation," another calls it "the Betrayal." And some of the most compelling historical moments occur when a character finds out that everything they were ever taught about something was a lie.
+
+**How does history show up in everyday life in your world?**
+*Think about the small, taken-for-granted ways the past is present: common sayings, street names, monuments people walk past without noticing, old songs, superstitions, holidays nobody remembers the origin of. These details make your world feel lived-in.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What phrases or sayings reference historical events?**
+*For example, people might say "cold as the Breach" without knowing what the Breach was, or curse using a long-dead tyrant's name. These fragments of history embedded in speech reveal what stuck in cultural memory.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What do your characters take for granted as "just the way things are" that is actually a product of history?**
+*Borders, social rules, who lives where, what's forbidden -- these often feel permanent and natural, but they were created by specific events. The Wall in ACOTAR feels like geography, but it's politics. What in your world feels like bedrock but was actually built?*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 
@@ -285,25 +329,36 @@ _______________________________________________________________
 _______________________________________________________________
 
 **Why was it lost?**
-
-**What knowledge, artifacts, or records have been lost in your world, and why? Consider war/conquest, natural disaster, deliberate destruction, neglect, or magical sealing.**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Are there ruins, artifacts, or fragments that hint at what's lost?**
+*War, conquest, natural disaster, deliberate destruction, neglect, or magical sealing -- the reason something was lost often matters as much as what disappeared.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Does this lost knowledge matter for your story?**
-If your characters discovered what was lost, how would it change things? Would it dissolve their obstacle, deepen it, or reveal that the obstacle was built on a lie? Lost knowledge matters most when finding it has consequences for the romance.
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**What ruins or remnants of the past are still visible in your world?**
+*Crumbling towers, old battlefields, abandoned cities, overgrown roads, magical scars on the landscape. These physical traces tell your characters (and readers) that the world wasn't always the way it is now.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What do people believe about these ruins?**
+*Do they avoid them out of superstition? Mine them for building materials? Treat them as sacred? The stories people tell about old places are often as revealing as the places themselves -- and sometimes those stories are wrong.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What would change if your characters found what was lost?**
+*Would it dissolve the obstacle between them, deepen it, or reveal that the obstacle was built on a lie? Lost knowledge matters most when finding it has consequences.*
 
 _______________________________________________________________
 
@@ -312,16 +367,13 @@ _______________________________________________________________
 ---
 
 **How much does your world actually know about its past?**
+*Think about different time periods: recent memory, a few generations back, centuries ago, and the mythic past. How accurate is what people believe about each?*
 
-**For each era of your world's past (recent memory, a few generations ago, centuries ago, and mythic past), how well known is the history and how accurate is what people believe? Where does history blur into myth?**
+_______________________________________________________________
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 **Where does history blur into myth?**
 
@@ -331,7 +383,10 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Are there historical "facts" everyone believes that might be wrong?**
+**What stories do people tell about the past that are wrong?**
+*"Everyone knows" the old king was a hero, or that the elves started the war, or that the magic died on its own. But what if the accepted version is incomplete, distorted, or an outright lie? Wrong history believed as fact is one of the richest sources of conflict in storytelling.*
+
+_______________________________________________________________
 
 _______________________________________________________________
 
@@ -344,7 +399,8 @@ Sometimes the most critical information lies hidden. And when we talk about "hid
 **Is there a historical truth that's been suppressed or rewritten?**
 What would change if your characters discovered the truth? Would it dissolve the obstacle between them, or make it worse?
 
-**Is there a historical truth in your world that's been suppressed or rewritten? What really happened, what are people taught instead, and who suppressed the truth and why?**
+**What really happened, and what are people taught instead?**
+*Name the real event, the official version, and who rewrote the story and why.*
 
 *(Write your answer below)*
 
@@ -388,6 +444,15 @@ _______________________________________________________________
 
 ---
 
+**What happened before the current era?**
+*What was the world like before the current order took hold? Was there a different ruling power, a different way of life, a lost civilization? Understanding what came before helps you understand what your characters inherited -- and what was taken from them.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **What's the overall arc of your world's history?**
 Is your world in decline from a golden age? Rising from ruin? Locked in cycles? Stable but stagnant? The shape of your world's history determines whether your characters' love feels like hope, rebellion, or doom.
 
@@ -424,7 +489,8 @@ _______________________________________________________________
 
 **Was there a golden age that fell?**
 
-**Was there a golden age in your world? What was it called, what made it great, what caused its fall, and what was lost?**
+**What was the golden age called, what made it great, and what ended it?**
+*If your world has a lost golden age, describe what people remember about it and what was lost when it fell.*
 
 *(Write your answer below)*
 
@@ -448,7 +514,8 @@ _______________________________________________________________
 
 **What single historical event most shaped the current world?**
 
-**What single historical event most shaped your current world? Describe what happened, when, who was involved, its immediate consequences, and the long-term effects still felt today.**
+**What happened, when, and what lasting mark did it leave?**
+*Name the event, sketch what took place, and describe the consequences your characters still live with today.*
 
 *(Write your answer below)*
 
@@ -489,11 +556,19 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**How did these conflicts change the world?**
+*Wars don't just end -- they reshape borders, destroy cities, create refugees, change who holds power. What lasting marks did your world's conflicts leave on the map, the population, or the social order?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 **What major conflict most directly affects your romance?**
 
-**What major historical conflict most directly affects your romance? Describe the conflict (name, when, participants, cause, outcome, consequences) and whether your characters' families/nations are on opposing sides.**
+**What is the conflict, and how does it still shape things today?**
+*Name it, sketch what happened and who was involved, and describe the consequences that press on your characters now.*
 
 *(Write your answer below)*
 
@@ -608,8 +683,8 @@ Using the table above as a guide, identify what forms of historical propaganda e
 | | | |
 | | | |
 
-**Does the propaganda landscape intrude on your characters' intimate moments?**
-Propaganda landscapes are strongest when they enter into the private realm of a character. When Feyre and Rhysand act out their relationship in the Court of Nightmares in *ACOMAF*, it's not just that they're being forced to perform their love for each other; the court itself is a monument to the violence done to them, and their intimacy becomes political theatre. In *Mistborn*, Vin's first experiences of romance occur at noble balls, where the grey ashfalls outside contrast with the lavish gowns inside. It creates a moral dissonance she can't ignore.
+**How does the built environment intrude on your characters' private moments?**
+*Monuments, barriers, and public symbols are strongest when they follow characters into personal spaces.* When Feyre and Rhysand act out their relationship in the Court of Nightmares in *ACOMAF*, it's not just that they're being forced to perform their love for each other; the court itself is a monument to the violence done to them, and their intimacy becomes political theatre. In *Mistborn*, Vin's first experiences of romance occur at noble balls, where the grey ashfalls outside contrast with the lavish gowns inside. It creates a moral dissonance she can't ignore.
 
 _______________________________________________________________
 
@@ -682,7 +757,8 @@ _______________________________________________________________
 
 **Do people compare your characters to legendary lovers?**
 
-**Do people compare your characters to legendary lovers? Which couple, who makes the comparison, and is it meant as compliment, warning, or accusation?**
+**Which legendary couple are they compared to, and is it meant as a compliment, a warning, or an accusation?**
+*Think about who makes the comparison and why.*
 
 *(Write your answer below)*
 
@@ -694,7 +770,8 @@ _______________________________________________________________
 
 **How do your characters feel about being compared to this couple?**
 
-**How does your protagonist feel about being compared to legendary lovers? How does your love interest feel about it?**
+**How does each character feel about the comparison?**
+*One might embrace it while the other resists it. Do they find it flattering, suffocating, or ominous?*
 
 *(Write your answer below)*
 
@@ -733,7 +810,8 @@ _______________________________________________________________
 
 A previous pair of lovers from opposing sides? A past relationship that ended in tragedy?
 
-**Is there a historical parallel to your characters' situation -- a previous pair of lovers from opposing sides? What happened, and how did it end?**
+**What previous love story mirrors your characters' situation, and how did it end?**
+*A past pair of lovers from opposing sides, a forbidden romance that was crushed or triumphed -- whatever precedent people might point to.*
 
 *(Write your answer below)*
 

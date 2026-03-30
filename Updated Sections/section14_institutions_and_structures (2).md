@@ -21,9 +21,9 @@ However, the most easily overlooked element is this: the institution shouldn't j
 
 This is the grip. The institution's rules become the grammar of the love story. When those rules break down, or when your characters figure out how to live outside of them, it means something to the reader, because the reader felt the weight of every rule leading up to it.
 
-**How does your institution shape the way your characters express love?**
+**How do your characters show they care without getting caught?**
 
-*The institution doesn't just forbid the relationship — it determines what the relationship looks like. Court characters love in coded glances; military characters love through orders and obedience; academy characters love through competition and grudging admiration. What specific behaviours, rituals, or workarounds does your institution force your characters to adopt?*
+*The institution doesn't just forbid the relationship — it determines what the relationship looks like. Court characters love in coded glances; military characters love through orders and obedience; academy characters love through competition and grudging admiration. Think about what specific behaviours, rituals, or workarounds your institution forces them to adopt.*
 
 The way they communicate feelings (coded, stolen, indirect):
 
@@ -102,9 +102,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Are you leaning into that, or deliberately subverting it? If subverting, what are you replacing it with?**
+**Are you leaning into that trope, or working against it?**
 
-*There's nothing wrong with working against the grain, but make sure you're doing it on purpose and replacing the lost tension with something equally strong.*
+*There's nothing wrong with working against the grain, but make sure you're doing it on purpose and replacing the lost tension with something equally strong. If you're subverting the expected trope, name what you're replacing it with.*
 
 _______________________________________________________________
 
@@ -193,19 +193,25 @@ _______________________________________________________________
 
 **Your academy's ranking structure:**
 
-**In your academy's ranking system, what do those at the top get and what happens to those at the bottom? Where does your protagonist sit in the hierarchy, and where does your love interest sit? How does the gap between them create tension?**
+**What do top-ranked students get, and what happens to those at the bottom?**
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**Where does your protagonist sit in the ranking? Where does the love interest sit?**
 
-&nbsp;
+*The gap between their ranks is where tension lives. Are they competing for the same spot? Is one at the top while the other struggles? Do they have to choose between winning and helping each other?*
 
-**How does ranking create tension between your characters?**
+_______________________________________________________________
 
-Competing for the same spot? One at top, one struggling? Must choose between winning and helping each other? Assigned as partners despite rivalry?
+_______________________________________________________________
+
+**What happens to students who wash out or fail?**
+
+*This is part of the institution's grip. If failure means death, exile, or disgrace, the stakes of every test and trial feed directly into the romance — your characters can't afford to be distracted by each other, and yet they are.*
+
+_______________________________________________________________
 
 _______________________________________________________________
 
@@ -251,6 +257,22 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**How did the people in charge get their positions?**
+
+*Merit, bloodline, political appointment, magical ability? This shapes whether the academy's authority feels earned or imposed — and whether your characters respect or resent it.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How do ordinary students interact with the academy on a typical day?**
+
+*Map out the daily rhythm: classes, meals, free time, curfew. The schedule is the skeleton of your characters' lives — and the gaps in the schedule are where stolen moments happen.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## Courts & Palaces
@@ -285,19 +307,21 @@ _______________________________________________________________
 
 ### Court Hierarchy
 
-**Where does each character rank in the court hierarchy?**
+**Who actually runs the court day-to-day?**
 
-*(Reference Section 5 for class structures)*
+*The monarch may hold power in name, but stewards, advisors, spymasters, and favoured nobles often control access, information, and influence. Who are the gatekeepers your characters have to navigate?*
 
-**Where does each character rank in the court hierarchy? What is your protagonist's position (title, access, limitations) and your love interest's position?**
+_______________________________________________________________
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+**What is your protagonist's position at court (title, access, limitations)?**
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**What is your love interest's position at court?**
+
+_______________________________________________________________
 
 **What spaces can each access? Where would they naturally encounter each other?**
 
@@ -345,6 +369,14 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**What happens to someone who falls out of favour at court?**
+
+*Exile, poverty, imprisonment, social death? The worse the fall, the higher the stakes for your characters. This is what keeps them playing the game even when they want to stop.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## Military & War Settings
@@ -383,15 +415,19 @@ _______________________________________________________________
 
 Soldier, commander, medic, strategist, prisoner, spy, conscript, mercenary, support staff?
 
-**What is your protagonist's military role (rank, unit, how they earned it)? What is your love interest's military role? How do their roles create power dynamics or romantic obstacles?**
+**What is your protagonist's military role?**
 
-*(Write your answer below)*
+*Rank, unit, and how they earned it.*
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**What is your love interest's military role?**
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 **What rules govern relationships between ranks?**
 
@@ -400,6 +436,22 @@ Forbidden between officers and enlisted? Required to report relationships? Subje
 _______________________________________________________________
 
 **What if their relationship interfered with the mission?**
+
+_______________________________________________________________
+
+**Who commands this military, and how did they get that authority?**
+
+*Hereditary generals, elected war leaders, magical champions? The command structure shapes whether orders feel legitimate or resented — and whether defying them feels heroic or reckless.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What happens to soldiers who can no longer fight?**
+
+*Injured, traumatised, magically spent — where do they go? This reveals whether the military values people or just uses them, and it's a real fear your characters carry into every battle.*
+
+_______________________________________________________________
 
 _______________________________________________________________
 
@@ -470,6 +522,22 @@ _______________________________________________________________
 **What vows or commitments does the institution require?**
 
 Celibacy, obedience, poverty, silence, service, separation from family, renunciation of former identity?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Who leads this institution, and how did they rise to power?**
+
+*Chosen by the god directly, elected by peers, inherited the role, seized it? The nature of the leadership shapes whether the institution feels sacred or corrupt — and whether defying it feels like rebellion or heresy.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How has this religious institution changed over time?**
+
+*Was it once more lenient, or more strict? Has it gained or lost political influence? Institutions that have shifted reveal cracks your characters can exploit — or traditions they're expected to restore.*
 
 _______________________________________________________________
 
@@ -562,11 +630,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**If there's a power imbalance, how does it affect the relationship?**
+**Who has more economic power, and what does that do to trust?**
 
-Economic dependency creates a specific kind of romantic tension that's different from physical danger or social pressure. It's the "Do they want me or do they just need me?" dynamic. The more powerful person carries guilt about whether genuine feeling can exist when they hold someone's livelihood. The less powerful person carries pride, resentment, and the nagging question of whether their own feelings are real or survival instinct. As long as the imbalance exists neither can fully trust the connection, which means the relationship can't truly deepen until the power dynamic shifts, or until both characters find a way to be honest about it.
-
-Can they be equals, or does one have power over the other's livelihood? *(Reference Section 4 for economic power dynamics)*
+*Economic dependency creates a specific "Do they want me or do they just need me?" tension. The more powerful person worries about whether genuine feeling can exist when they hold someone's livelihood. The less powerful person carries pride, resentment, and the nagging question of whether their own feelings are real or survival instinct. The relationship can't truly deepen until the power dynamic shifts or both characters confront it honestly. (Reference Section 4 for economic power dynamics.)*
 
 _______________________________________________________________
 

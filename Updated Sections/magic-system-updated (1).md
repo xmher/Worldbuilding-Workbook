@@ -55,7 +55,7 @@ Magic in romantasy serves three functions simultaneously. Understanding all thre
 
 Not every magical ability needs to directly advance the romance. Winnowing in *ACOTAR* is transportation magic. There's nothing inherently romantic about it. But Rhysand uses it to send Feyre notes, appearing and disappearing paper and pen so they can have a private conversation across distance. The intimacy isn't built into the magic. It comes from the choice to use his power that way.
 
-**This is the real question: Given the magic your characters already have, how might they use it to reach each other?**
+**How might your characters use the magic they already have to reach each other?**
 
 ### How Magic Creates Romantic Tension
 
@@ -236,6 +236,16 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
+**What traces does magic leave on the land, the air, or the people who live near it?**
+
+*Magic rarely exists without side effects. Ley lines might hum, corrupted zones might kill crops, magical forges might change the colour of the sky. Think about what a traveller would notice when they enter a place where magic is heavily used -- or a place where it went wrong.*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
 **How might the source of magic affect your leads' relationship?**
 Magic's origin can unite or divide. In *ACOTAR*, Feyre is human and Tamlin is High Fae. That's the obvious gap: she's mortal and powerless in his world. Or perhaps magic runs through noble bloodlines and she's aristocracy while he's common-born, except he's developing abilities that shouldn't exist in someone like him. Do your characters share the same source, or does their magic come from opposing places?
 
@@ -269,8 +279,9 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**Can magical ability be gained if you weren't born with it? Can it be lost or taken away?**
-The permanence of magical ability affects what characters fear and hope for. Could your protagonist gain power, or lose everything?
+**Can magical ability be gained, lost, or taken away?**
+
+*The permanence of magical ability affects what characters fear and hope for. Could your protagonist gain power they don't have yet, or lose everything they rely on?*
 
 _______________________________________________________________________________
 
@@ -287,24 +298,44 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
+**What happens to someone who has magic but refuses or is unable to use it?**
+
+*Does suppressed magic fester, leak out in uncontrolled ways, cause illness, or simply fade? The consequences of not using magic matter as much as the consequences of using it -- especially if your character is hiding their abilities or has been forbidden from practising.*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
 **Is there a significant power gap between your characters?**
 
 *We'll dig deeper into power dynamics in the Power Imbalance section later. For now, sketch the basics — the gap between your leads will shape every interaction they have.*
 
 Who holds more magical, political, or physical power? Power imbalances create tension, so show it through interaction dynamics. Who waits for whom? Who has to ask permission? Whose comfort is automatically prioritised?
 
-**What is your protagonist's magical status? What is your love interest's magical status? What does the gap (or lack of one) between them mean for their dynamic?**
+**What is your protagonist's magical status, and what is your love interest's?**
 
-*(Write your answer below)*
+*Are they equally matched, or is one far more powerful? The gap between them -- or the absence of one -- will shape every interaction they have.*
 
-&nbsp;
+_______________________________________________________________________________
 
-&nbsp;
+_______________________________________________________________________________
 
-&nbsp;
+_______________________________________________________________________________
 
 **If there's a power gap, what does the less powerful person bring that the powerful one needs?**
 In later *ACOTAR* books, Rhysand is the most powerful High Lord in history. But Feyre sees through his masks and challenges his decisions. Power isn't just magic. It's also who's willing to call you on your bullshit. Balanced relationships require more than magical equality, so what does each character offer that the other can't provide for themselves?
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+**How does magic change daily life for people who can't use it?**
+
+*Non-magical people still live in a magical world. Do they rely on enchanted tools, buy potions at market, avoid cursed areas, or resent the mages who control resources they can't access? The ordinary person's experience of magic shapes your world's texture and social tensions.*
 
 _______________________________________________________________________________
 
@@ -328,7 +359,17 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 **What does magic look like when it happens?**
-What do bystanders see, hear, or feel?
+What do bystanders see, hear, or feel? Think about light, sound, temperature, smell, or a shift in the air.
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+**What does magic feel like to the person using it?**
+
+*Heat in the veins, pressure behind the eyes, a hum in the bones, a taste on the tongue? The internal sensation of casting is what makes magic feel real on the page. You'll build on this in the "Magic Through the Body" section below, but sketch the basics now.*
 
 _______________________________________________________________________________
 
@@ -355,7 +396,27 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**Where does your magic fall between precise and unpredictable — and does that change based on the user's emotional state?**
+**What happens when magic goes wrong -- misfires, backfires, or unintended effects?**
+
+*A miscast spell that scars the landscape, a healing that transfers the wound to someone else, a shield that traps the wrong person inside. Magical accidents reveal what your system does when it breaks, and that tells readers more about how it works than any successful casting.*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+**What magical hazards exist in the environment?**
+
+*Cursed zones, wild magic pockets, residue from old spells, corrupted ley lines, magical creatures that wander into settled areas. What dangers does magic create in the landscape that ordinary people have to navigate or avoid?*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+**How predictable is your magic -- and does the caster's emotional state change that?**
 
 *Magic that becomes volatile when the user is emotional is a romance goldmine. If your character's control slips when they're angry, frightened, or attracted, every charged moment becomes a potential magical incident.*
 
@@ -448,7 +509,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What do they see in each other's magic that makes them understand each other differently?**
+**What does each character understand about the other from watching them use magic?**
 
 _______________________________________________________________
 
@@ -643,6 +704,16 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
+**What does paying the cost look like from the outside?**
+
+*Don't just know the cost -- know how it shows. Does the caster's nose bleed? Do their hands shake? Does their hair go white at the temples? Do they age visibly? The physical evidence of magical cost is what makes it real for readers and for other characters watching.*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
 **Are there situational or plot-driven costs, times when magic can't be used safely?**
 In *ACOTAR*, Rhysand limits his magic use because the enemy can track it. Can magic be traced? Would using it alert enemies or violate a treaty? Does magic leave evidence?
 
@@ -779,8 +850,9 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**How might your magic's limitations affect the relationship?**
-Limitations can protect or obstruct love. Can magic reveal truth, or does it force lies? Does it prevent harm, or make protection impossible?
+**What can't your characters do for each other because of magic's limits?**
+
+*Think about what your leads would want to use magic for -- protecting each other, healing each other, communicating across distance -- and where the limits stop them. The things magic can't fix are often where the real emotional stakes live.*
 
 _______________________________________________________________________________
 
@@ -794,33 +866,25 @@ _______________________________________________________________________________
 
 Not all magic users are created equal, and not all magic is the same flavour. Understanding the range of power and the types of magic helps you place your characters and set stakes appropriately.
 
-**What's the range of magical power in your world?**
+**What does the weakest magic user in your world look like? What about the strongest?**
 
 *Establishing the floor and ceiling of power helps you set stakes. If your protagonist is the most powerful being alive, tension has to come from somewhere other than "will they be strong enough?" If they're among the weakest, every magical encounter is dangerous.*
 
-**What does the weakest magic user in your world look like? What about the strongest? Establishing the floor and ceiling of power helps you set stakes.**
+_______________________________________________________________________________
 
-*(Write your answer below)*
+_______________________________________________________________________________
 
-&nbsp;
+_______________________________________________________________________________
 
-&nbsp;
-
-&nbsp;
-
-**Where do your protagonist and love interest fall on this scale?**
+**Where do your protagonist and love interest fall on this power scale?**
 
 *The gap (or lack of one) between your leads shapes their entire dynamic. Equally matched characters negotiate; imbalanced ones navigate trust, protection, and the risk of resentment.*
 
-**Where do your protagonist and love interest fall on the power scale you just described? How does the gap (or lack of one) between them shape their dynamic?**
+_______________________________________________________________________________
 
-*(Write your answer below)*
+_______________________________________________________________________________
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________________________
 
 **Is raw power the only measure of magical strength?**
 Or can skill, creativity, knowledge, or cleverness make a "weaker" user formidable?
@@ -898,15 +962,15 @@ In *Gideon the Ninth*, Harrow is a necromancer who works with bones and death. G
 
 *This is a first sketch — we'll explore opposition and incompatibility in depth later. For now, map the basics of how your characters' magic relates.*
 
-**How might your leads' magic interact? Describe each character's magic, how their abilities might clash, how they might complement each other, and what this means for the romance.**
+**How might your leads' magic interact -- where does it clash, and where does it complement?**
 
-*(Write your answer below)*
+*Describe each character's abilities, then think about what happens when those abilities meet. Do they amplify each other, cancel each other out, or create something unpredictable? The way their magic relates often mirrors the relationship itself.*
 
-&nbsp;
+_______________________________________________________________________________
 
-&nbsp;
+_______________________________________________________________________________
 
-&nbsp;
+_______________________________________________________________________________
 
 ---
 
@@ -1628,9 +1692,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Does the bond give one character more access, information, or control than the other? If so, how does the character with less power assert agency?**
+**Does the bond give one character more power than the other?**
 
-*Asymmetrical bonds create power dynamics that mirror the broader relationship. If one character can sense the other's emotions but not vice versa, or if one can close the bond while the other can't, that imbalance needs to be addressed — or it becomes a form of control.*
+*Maybe one can sense the other's emotions but not vice versa, or one can close the bond while the other can't. Asymmetrical bonds create power dynamics that mirror the broader relationship -- and that imbalance needs to be addressed, or it becomes a form of control. How does the character with less access push back?*
 
 _______________________________________________________________
 
@@ -1908,7 +1972,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does magical incompatibility mirror or contrast with their personal dynamic? Are they opposites in temperament too, or is the magical conflict at odds with their emotional compatibility?**
+**Does their magical conflict match their personal dynamic, or contradict it?**
+
+*Sometimes characters whose magic clashes are also opposites in temperament -- fire and ice, in every sense. Other times, the magical conflict is at odds with how well they actually get along. Which version creates more interesting tension for your story?*
 
 _______________________________________________________________
 
@@ -2314,21 +2380,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Where do your characters stand in relation to magical authority?**
+**Where does your protagonist stand in relation to magical authority -- hunted, enforcer, exempt, hidden?**
 
-**Where does your protagonist stand in relation to magical authority (hunted, enforcer, exempt, hidden)? Where does your love interest stand? What does each position cost them, and how might their positions create tension or force alliance?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**How might their positions regarding magical authority create tension between them, or force them into alliance?**
-
-*If one character enforces the rules and the other breaks them, every interaction carries risk. If both are on the same side, what would it take to push them apart?*
+*And where does the love interest stand? If one enforces the rules and the other breaks them, every interaction carries risk. If both are on the same side, what would it take to push them apart?*
 
 _______________________________________________________________
 
@@ -2434,15 +2488,21 @@ How does your magic system connect to the rest of your world?
 
 *Your magic doesn't exist in isolation. Use the reference table above for inspiration, then fill in how your magic connects to each element. Skip any that don't apply.*
 
-**How does your magic system connect to the rest of your world? For each relevant system (geography, government, religion, culture, economy, history), describe how magic integrates and how that integration affects your leads.**
+**How does your magic system connect to each part of your world?**
 
-*(Write your answer below)*
+*Use the reference table above. For each system that applies (geography, government, religion, culture, economy, history), write a sentence or two about how magic integrates -- and note where that integration puts pressure on your leads.*
 
-&nbsp;
+_______________________________________________________________________________
 
-&nbsp;
+_______________________________________________________________________________
 
-&nbsp;
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
 
 ---
 

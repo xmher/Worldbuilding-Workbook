@@ -229,6 +229,14 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**What happens to ordinary people when this resource runs short?**
+
+*Scarcity at the ground level — empty markets, rationed water, families choosing which child to feed — gives your world texture and gives your romance real stakes. If resource conflict only exists at the political level, it feels abstract.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **Romantasy Connection:** Does resource scarcity or control affect your characters' relationship?
 
 Does one control something the other needs? Does fighting over resources force proximity? Does an economic alliance require their union?
@@ -263,7 +271,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Does the bond raise consent or agency concerns — and how do your characters grapple with that?**
+**What consent problems does the bond create, and how do your characters deal with them?**
 
 *If magic compels attraction, forces proximity, or reveals private feelings without permission, the characters should acknowledge the tension. The best romantasy doesn't gloss over this.*
 
@@ -341,6 +349,14 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**What does magic look, sound, smell, or feel like when someone uses it?**
+
+*Sensory details make magic real to your reader. If magic has a visible glow, a distinctive scent, or a physical sensation, it also becomes something that can give your characters away, create intimacy through shared experience, or mark them as different.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **Romantasy Connection:** How does the magic economy affect your romance?
 
 Does one profit from magic while the other suffers? Economic inequality between magical and non-magical? Does magical ability determine social class and therefore marriageability?
@@ -394,6 +410,14 @@ _______________________________________________________________
 _______________________________________________________________
 
 **Who benefits from these laws? Who is oppressed?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How are laws enforced in your world? Who does the enforcing?**
+
+*Guards, magistrates, magical wards, religious police, community shaming? The enforcement mechanism determines how easy or hard it is for your characters to break a rule — and how intimate the risk of getting caught feels.*
 
 _______________________________________________________________
 
@@ -455,7 +479,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Romantasy Connection:** How does your romance violate or challenge cultural values?
+**Romantasy Connection:** What cultural value does your romance threaten?
 
 Does their relationship represent something the culture fears? Does choosing love mean rejecting cultural identity?
 
@@ -745,7 +769,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Do they face the same trade-off differently, or different trade-offs entirely?**
+**Do they face the same trade-off from opposite sides, or completely different ones?**
 
 *When protagonists face the same dilemma from opposite sides, every conversation becomes charged. When they face different dilemmas, they struggle to understand each other's stakes. Both create tension — but the romantic dynamics differ.*
 

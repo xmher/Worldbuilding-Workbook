@@ -17,6 +17,18 @@ But the principle isn't just about physical confinement. It's about creating con
 
 This section will help you design how your setting functions as a pressure system. You'll build the container, fill it with the right people and constraints, and then determine how to turn up the heat until something has to give.
 
+**What are the biggest sources of tension in your world right now?**
+*Think beyond the romance. War, scarcity, political instability, class conflict, magical imbalance — the pressure cooker works best when the world itself is already under strain. Your characters aren't just trapped together; they're trapped together while everything around them is combustible.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Where in your world is conflict most likely to erupt?**
+*Borders, disputed territories, unstable courts, overtaxed communities. Pressure cookers are most powerful when they sit on top of a fault line — when the external world's tension mirrors and amplifies the interpersonal tension inside the container.*
+
+_______________________________________________________________
+
 ---
 
 ## How to Think About Forced Proximity in Romantasy
@@ -41,7 +53,7 @@ Primary subtype: _______________________________________________________________
 
 Secondary subtype(s): _______________________________________________________________
 
-**How do your subtypes interact to create layered pressure?**
+**How do your subtypes stack on top of each other?**
 *The combination matters more than either type alone. In* Fourth Wing, *institutional confinement (can't leave the academy) meets magical binding (the dragon bond), so even within the institution, Violet can't avoid Xaden specifically.*
 
 _______________________________________________________________
@@ -61,18 +73,14 @@ Beyond the subtypes, forced proximity creates romantic tension through a set of 
 | **Obligation Becoming Choice** | What starts as duty gradually becomes something wanted | The slow-burn shift from "I have to" to "I want to" |
 | **Escalating Stakes** | The longer they're together, the more they have to lose | Emotional investment that makes separation devastating |
 
-**Which romantic tension patterns will be strongest in your story?**
-*Rank your top three. This will help you prioritise which later exercises to dig deepest into.*
+**Which three romantic tension patterns fit your story best?**
+*Rank them below. This will help you prioritise which later exercises to dig deepest into.*
 
-**From the forced proximity patterns listed above, which three fit your story best? Rank them and explain why each suits your story.**
+1. _______________________________________________________________
 
-*(Write your answer below)*
+2. _______________________________________________________________
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+3. _______________________________________________________________
 
 ---
 
@@ -217,6 +225,13 @@ What stops them: the physical constraints, or something deeper?
 
 ___
 
+**What personal stakes does each character carry into the pressure cooker?**
+*Not what's keeping them physically trapped — what they personally stand to win or lose. A shot at redemption, a last chance to prove themselves, a family member's safety, their own survival. The higher the personal stakes, the more the confinement costs them emotionally.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## Your Pressure Cooker Setting
@@ -231,15 +246,25 @@ ___
 **Map the constraints:**
 *You've already identified your constraint types above. Now map how your specific setting enforces them — the practical details of how your pressure cooker actually works.*
 
-**Map the specific constraints of your pressure cooker setting: What are the physical constraints (size, layout, barriers)? The temporal constraints (how long they're stuck)? The survival needs? The social pressure (who's watching)? And what happens if they try to escape?**
+**What are the physical constraints** (size, layout, barriers)?
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+**How long are they stuck there?**
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**What do they need to survive** (food, shelter, protection)?
+
+_______________________________________________________________
+
+**Who's watching them?**
+
+_______________________________________________________________
+
+**What happens if they try to escape?**
+
+_______________________________________________________________
 
 **What's the minimum physical distance they can maintain?**
 *This determines the baseline tension level. If they can stay in separate buildings, the pressure is social — they choose to avoid each other. If they're sharing a room, the pressure is physical — avoidance is a fantasy. The smaller the minimum distance, the faster the body awareness builds.*
@@ -261,8 +286,8 @@ Allies, rivals, authority figures, servants? Others shape what your leads can sa
 
 ___
 
-**How do others affect how the protagonists can interact?**
-Must they hide their feelings? Maintain appearances? Compete for attention? Perform a relationship that isn't real (yet)?
+**What rules or expectations do other people create for how the protagonists behave?**
+*Must they hide their feelings? Maintain appearances? Compete for attention? Perform a relationship that isn't real (yet)?*
 
 ___
 
@@ -283,6 +308,11 @@ ___
 
 **What can't they say or do because others are present?**
 The words they swallow and the touches they deny create tension that demands eventual release.
+
+___
+
+**How do the societal pressures in your world affect ordinary people inside the pressure cooker?**
+*Your leads aren't the only ones feeling the squeeze. Servants, bystanders, lower-ranking members — how does the same confinement land on people with less power or fewer choices? Their situation can mirror or contrast the protagonists' experience, and it grounds the pressure cooker in worldbuilding rather than making it feel like it exists only for the romance.*
 
 ___
 
@@ -400,13 +430,13 @@ Narrow hallways, small rooms, shared equipment, crowded meals. Where does the sp
 
 ___
 
-**When does physical awareness shift into something they can't dismiss as neutral?**
-The moment when noticing becomes wanting, even if they won't admit it yet:
+**When does noticing become wanting?**
+*The shift from "I'm aware of them" to "I can't stop thinking about them" — even if they won't admit it yet:*
 
 ___
 
-**What sensory details will trigger memory and longing after the proximity ends?**
-A scent encountered in a market. A sound heard through a wall. The echo of warmth where someone used to stand:
+**What sensory detail will haunt them after the proximity ends?**
+*A scent encountered in a market. A sound heard through a wall. The echo of warmth where someone used to stand:*
 
 ___
 
@@ -422,8 +452,8 @@ When you write forced proximity effectively, there should be an obvious gap betw
 
 Holly Black does this brilliantly in *The Cruel Prince*. Jude's internal monologue gives her reason to be hyperaware of Cardan as a survival mechanism. She's paying attention to him because he's a threat, studying his actions because he's a danger, noting the way he looks at her because she needs to stay ahead of his cruel intentions. The reader sees through this justification long before Jude does. Her hatred is also a form of obsession, and because the present-tense narrative allows the reader to experience the story alongside Jude, they remain trapped within her perspective and can't step back far enough to see the subtext clearly. When Jude thinks "Most of all, I hate you because I think of you. Often," the reader understands what Jude hasn't yet allowed herself to realise. That's the power of internal monologue in forced proximity: it lets you build romantic tension through the denial of romance.
 
-**What does each character tell themselves about the other that the reader can see through?**
-*"I'm watching him because he's dangerous." "She's nothing to me." "This doesn't mean anything." The lies your characters tell themselves are the engine of slow-burn tension — the reader sees the truth before the character does.*
+**What lie does each character tell themselves about the other?**
+*"I'm watching him because he's dangerous." "She's nothing to me." "This doesn't mean anything." The reader should see through these lies long before the character does — that gap is what powers slow-burn tension.*
 
 ___
 
@@ -458,13 +488,13 @@ _______________________________________________________________
 | Protagonist | | | |
 | Love interest | | | |
 
-**How does the internal monologue change over the course of the confinement?**
-*Early on, the other person might barely register. Or they might register as a threat, an annoyance, an obligation. How does the internal framing shift as proximity does its work?*
+**How does each character's inner voice change from the start of confinement to the end?**
+*Early on, the other person might barely register — or register as a threat, an annoyance, an obligation. Track how that framing shifts as proximity does its work.*
 
 ___
 
-**Is there a moment of internal honesty, when the character admits to themselves what they actually feel?**
-*This beat is often the emotional climax of the forced proximity arc, even if nothing external changes. It's the moment when the character stops lying to themselves — and the reader finally exhales.*
+**When does each character stop lying to themselves about what they feel?**
+*This beat is often the emotional climax of the forced proximity arc, even if nothing external changes. It's the moment the self-deception cracks — and the reader finally exhales.*
 
 ___
 
@@ -604,6 +634,11 @@ ___
 
 **What finally releases the pressure?**
 Do they escape? Complete the mission? Confess feelings? Get external rescue? Does the pressure cooker end, or do they transform within it?
+
+___
+
+**What happens when the systems inside the pressure cooker break down?**
+*Supply lines fail. Authority figures lose control. Rules stop being enforced. Alliances fracture. When the structure that held the pressure cooker together starts to crack, the characters lose their routines, their safety nets, and their excuses for maintaining distance. What breaks first in your setting, and how does that breakdown force your characters closer together — or threaten to tear them apart?*
 
 ___
 

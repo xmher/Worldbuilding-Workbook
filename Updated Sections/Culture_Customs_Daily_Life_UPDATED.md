@@ -24,13 +24,13 @@ The invisible cage works because culture creates identity. Disobeying the law is
 
 ### The Key Question
 
-What cultural assumption does your character accept without question at the start of the story? And what will loving this person force them to confront about their own world?
+What does your character believe is "just how things are" at the start of the story? What will falling for this person force them to see differently?
 
 **Map your character's invisible cage:**
 
 *The invisible cage only becomes visible when your character wants something on the other side of the bars. This is the moment when culture stops being background and becomes the central obstacle of your romance.*
 
-**For both your protagonist and love interest: What cultural rule do they accept without question at the start? What moment makes the cage visible? What do they lose by seeing it, and what do they gain?**
+**For each character: What rule do they follow without thinking? What moment makes them see the cage? What do they lose by seeing it, and what do they gain?**
 
 *(Write your answer below)*
 
@@ -70,6 +70,14 @@ The customs that create romantic moments:
 - Ceremonies that force proximity
 - Traditions that create meaningful gestures
 
+**What cultural traditions in your world create opportunities for closeness?**
+
+*Think about festivals, dances, ceremonies, or gift-giving customs that give characters an excuse to be near each other.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ### Culture as Revelation
 
 How characters interact with cultural expectations shows who they are:
@@ -91,11 +99,9 @@ Some of the most interesting romantic tension comes from pairing characters who 
 | The festival exception | One night when rules relax | Pivotal scenes; masks and anonymity |
 | The cultural mistranslation | Gesture means different things in different cultures | Misunderstanding; revelation when explained |
 
-**Which cultural patterns does your world use?**
+**Which 2-3 patterns from the table above show up in your world?**
 
-*Pick 2-3 patterns from the reference table above that fit your romance. For each, note how it shows up in your story.*
-
-**Which cultural restriction patterns from the reference list apply to your world? For each, describe how it specifically works in your story.**
+*For each one you pick, describe how it works in your story.*
 
 *(Write your answer below)*
 
@@ -193,7 +199,7 @@ List 3-5 core values in order of importance:
 
 **How do these values create tension for your characters?**
 
-*Values create tension when two characters' cultures prize different things, or when the same culture's values conflict with what love demands. A culture that values duty above all makes choosing love feel like choosing selfishness.*
+*Think about where your characters' values clash -- with each other's, or with what love demands.*
 
 _______________________________________________________________
 
@@ -211,9 +217,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does one character embody the cultural ideal while the other challenges it?**
+**Where does each character fit with these values, and where do they push back?**
 
-**How does each character (protagonist and love interest) relate to their culture's dominant values? Where do they conform, and where do they chafe?**
+*Think about your protagonist and love interest separately. Which cultural values feel natural to them, and which ones chafe?*
 
 *(Write your answer below)*
 
@@ -223,7 +229,7 @@ _______________________________________________________________
 
 &nbsp;
 
-**What cultural value must one or both characters sacrifice to be together?**
+**What value must your characters give up to be together?**
 
 What virtue do they have to abandon, or what shame must they accept?
 
@@ -242,11 +248,9 @@ Showing constraint of gender through big dramatic confrontations doesn't necessa
 
 Don't overlook the costs associated with conformity, either. There may be mental fatigue, emotional exhaustion due to self-censorship, and personal sorrow for choices not made. When two people that have been socially constructed in differing manners fall in love with one another, allow them to perceive one another differently than others do. The space between how society views them and how their lover views them is precisely where the romance is located.
 
-**What are the general expectations for different genders in your culture?**
+**What roles and behaviors does your culture expect based on gender?**
 
-Focus on what affects your story:
-
-**What roles and behaviors does your culture expect based on gender? What is prohibited?**
+*What are people supposed to do, and what are they forbidden from doing? Focus on what affects your story.*
 
 *(Write your answer below)*
 
@@ -256,9 +260,9 @@ Focus on what affects your story:
 
 &nbsp;
 
-**How do these expectations affect your characters?**
+**How do gender expectations limit your protagonist? Your love interest?**
 
-**How do gender expectations specifically affect your protagonist and love interest?**
+*What can't they do, say, or want because of their gender?*
 
 *(Write your answer below)*
 
@@ -268,9 +272,9 @@ Focus on what affects your story:
 
 &nbsp;
 
-**Does either character violate gender expectations?**
+**How does either character break gender expectations?**
 
-How? What consequences do they face — social, legal, or personal?
+What do they do, and what consequences do they face?
 
 _______________________________________________________________
 
@@ -288,7 +292,15 @@ _______________________________________________________________
 
 **What happens when the "wrong" person takes the lead in courtship?**
 
-*When someone breaks the expected courtship dynamic — the woman proposing, the lower-status person initiating — the social reaction reveals how rigid or flexible your culture truly is, and how much your characters risk by defying expectations.*
+*What happens when someone defies the expected courtship dynamic -- the woman proposing, the lower-status person initiating? The reaction shows how rigid your culture really is.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How can you tell someone's social class just by looking at them?**
+
+*Think about clothing, posture, speech patterns, where they walk, what they carry. What signals status at a glance?*
 
 _______________________________________________________________
 
@@ -303,9 +315,9 @@ The number of routines you choose to depict isn't as important as establishing a
 
 As soon as romance enters into a character's routine, the reader will be able to sense the difference due to the prior knowledge of what was considered "normal." Their character begins to wake up thinking of someone. The regular walk back home has new feelings because there could be this person. These little changes resonate with the reader because the reader understands the context from before.
 
-**What's the rhythm of a typical day?**
+**What does a typical day look like from morning to night?**
 
-**Describe the daily rhythm of life in your world: When do people wake and what happens first? Is there a midday rest or main meal? When does work end? What is nightlife like?**
+*When do people wake? What happens first? Is there a midday rest or main meal? When does work end? What fills the evening?*
 
 *(Write your answer below)*
 
@@ -316,6 +328,16 @@ As soon as romance enters into a character's routine, the reader will be able to
 &nbsp;
 
 **How does this rhythm differ by class or profession?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What does your world sound, smell, and feel like during a typical day?**
+
+*Think about the morning market, the midday heat, the evening fires. What would a stranger notice first?*
+
+_______________________________________________________________
 
 _______________________________________________________________
 
@@ -337,11 +359,25 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does the love interest disrupt your protagonist's routine?**
+**What do ordinary people worry about day to day?**
 
-*Romance changes the texture of daily life. What shifts when your protagonist starts thinking about this person?*
+*Money? Safety? Harvest? Their children's futures? A character's everyday concerns ground them in the world and tell the reader what kind of life they lead.*
 
-**How does the protagonist's daily routine shift after the love interest enters their life? Pick a specific routine element and describe it before and after.**
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How do people treat strangers or newcomers?**
+
+*Are outsiders welcomed, tolerated, or feared? What does a newcomer have to do to be accepted?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How does the love interest change your protagonist's daily routine?**
+
+*Pick one specific routine element and describe it before and after. What shifts when your protagonist starts thinking about this person?*
 
 *(Write your answer below)*
 
@@ -360,9 +396,7 @@ How your point-of-view character reacts (or doesn't react) to what they see upon
 
 As your character first enters their love interest's home, take some time to allow them to understand who this person is based upon where they live. That is a type of intimacy in itself.
 
-**What does a typical home look like for different classes?**
-
-**What does home look like for the wealthy, the middle class, and the poor in your world?**
+**What does home look like for the wealthy, the middle class, and the poor?**
 
 *(Write your answer below)*
 
@@ -447,7 +481,7 @@ _______________________________________________________________
 
 **How does family affect your characters' romance?**
 
-*Family is often the first and most personal obstacle to love. Whose approval matters? Who will try to interfere? What power does a parent or elder hold over the match?*
+*Whose approval matters? Who will try to interfere? What power does a parent or elder hold over the match?*
 
 **What is each character's family's stance on the relationship, and what power do they have to interfere?**
 
@@ -468,11 +502,9 @@ Don't have to invent a whole cuisine. Just focus on those aspects of food which 
 
 Eating together is one of the most simple ways to develop intimacy. When characters first begin to eat together, pay close attention to what they notice about each other's habits. Is she picking at her food? Is he eating as if he has no idea when his next meal will come? Cooking for someone is an act of caring. Use this in your writing. Refusing to eat with someone, or eating by yourself when you can be sharing a meal, also means something. To create a food scene that works well, you should slow down on the detail of the senses: the smell of the food, the warmth of a shared cup, the way a character tears apart their bread. Let the physical action of eating together do all the emotional work.
 
-**What's a typical meal like?**
+**What do people eat, and how do they eat it?**
 
-*Meals are where your characters will share space, reveal habits, and build domestic intimacy. Knowing what people eat and how they eat it gives you the raw material for food scenes that do emotional heavy lifting.*
-
-**Describe the meals in your world: What do people eat for morning, midday, and evening meals, and how do they eat (alone, communally, formally)?**
+*Describe morning, midday, and evening meals. Do people eat alone, communally, or formally? Meals give you the raw material for scenes that do emotional heavy lifting.*
 
 *(Write your answer below)*
 
@@ -559,11 +591,17 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What do different types of buildings look like?**
+**What are buildings made from, and why?**
 
-How can your protagonist tell a temple from a tavern at a glance?
+*Building materials tell readers about the landscape and climate. Stone in a quarry region, wood where forests are thick, adobe in dry heat. What's available, and what does it say about the environment?*
 
-**What are the distinctive architectural features of your world's key buildings — palaces, temples, merchant homes, common dwellings, and fortifications?**
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What makes different buildings recognizable at a glance?**
+
+*How can your protagonist tell a temple from a tavern? Think about palaces, temples, merchant homes, common dwellings, and fortifications.*
 
 *(Write your answer below)*
 
@@ -573,11 +611,9 @@ How can your protagonist tell a temple from a tavern at a glance?
 
 &nbsp;
 
-**How does a specific building's layout shape a romantic scene?**
+**How does a specific building's layout shape a scene between your characters?**
 
-*Narrow corridors force proximity. Great halls create distance. Hidden passages give one character power over another. Pick a key setting and map how its layout affects the dynamic between your characters.*
-
-**Describe a specific architectural layout in your story and explain how its physical design affects the romantic dynamic (e.g., hidden alcoves, echoing corridors, shared walls).**
+*Narrow corridors force proximity. Great halls create distance. Hidden passages give one character power over another. Pick a key setting and describe how its layout affects the dynamic.*
 
 *(Write your answer below)*
 
@@ -631,9 +667,17 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**How religious is an ordinary person compared to a devout one?**
+
+*What's the difference between someone who goes through the motions and someone who truly believes? Where do your characters fall on that spectrum?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **How does religion create tension or intimacy between your characters?**
 
-*Do they pray to different gods? Does one character's faith demand something the other can't give? Is there a moment when one character quietly participates in the other's spiritual practice out of respect?*
+*Do they pray to different gods? Does one character's faith demand something the other can't give? Is there a moment when one character quietly joins in the other's practice out of respect?*
 
 _______________________________________________________________
 
@@ -746,9 +790,7 @@ _______________________________________________________________
 
 **What social mistake does one character make that the other notices?**
 
-*Etiquette violations reveal where someone comes from and create charged moments between characters. What faux pas creates a scene between your protagonists?*
-
-**Describe a moment where one character makes a cultural mistake in the other's world. What is the mistake, who makes it, and how does the other react?**
+*What faux pas creates a charged moment between them? Describe the mistake, who makes it, and how the other reacts.*
 
 *(Write your answer below)*
 
@@ -875,9 +917,7 @@ _______________________________________________________________
 
 **What leisure activity brings your characters together?**
 
-*Dances require touch. Games reveal personality. Shared stories create inside jokes. What activity gives your characters an excuse to spend time together — and does everyone else see through the excuse?*
-
-**What social activity allows your characters to spend time together without arousing suspicion? What does it allow (touch, conversation, competition), and how obvious is it to others that they're there for each other?**
+*What activity gives them an excuse to spend time together? What does it allow -- touch, conversation, competition? Does everyone else see through the excuse?*
 
 *(Write your answer below)*
 
@@ -948,9 +988,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What oath conflicts with your characters' romance?**
+**What oath stands between your characters?**
 
-Which promise must be broken, or creatively reinterpreted, for them to be together? Did the character know what they were giving up when they made the oath, or did love change the equation?
+Which promise must be broken or bent for them to be together? Did the character know what they were giving up when they made it?
 
 _______________________________________________________________
 
@@ -958,9 +998,7 @@ _______________________________________________________________
 
 **Write the oath.**
 
-If precise wording matters in your world, draft the actual words of the promise that binds your character. Then look for the loophole. What could those words mean that the speaker didn't intend?
-
-**If a character has sworn an oath that conflicts with the romance, describe: What are the exact words? Who was it sworn to? What was it intended to mean vs. what could it literally mean (the loophole)? What does it cost to break outright?**
+*Draft the actual words of the promise. Who was it sworn to? What was it supposed to mean? Now look for the loophole -- what could those words literally mean that the speaker didn't intend?*
 
 *(Write your answer below)*
 
@@ -978,9 +1016,9 @@ The forbidden shows what the culture fears. In romantasy, taboos are the "forbid
 
 Forbidden love has its excitement in the risk involved. Ensure that your reader understands the consequences of breaking the taboo for each character before they do so. The first transgression must feel dangerous. Subsequent transgressions may increase the risk, or they may make the previously forbidden become acceptable. Both options can be used; however, having an idea of which you plan to use is helpful.
 
-**What actions, topics, or behaviors are taboo in your culture?**
+**What behaviors are taboo in your world?**
 
-**What behaviors are taboo in your world? Consider physical taboos (touch, proximity, eye contact), verbal taboos, social taboos, magical taboos, and sexual taboos.**
+*Consider physical taboos (touch, proximity, eye contact), verbal taboos, social taboos, magical taboos, and sexual taboos.*
 
 *(Write your answer below)*
 
@@ -992,9 +1030,7 @@ Forbidden love has its excitement in the risk involved. Ensure that your reader 
 
 **Which taboos directly affect your romance?**
 
-Pick 2-3 that create real obstacles:
-
-**Pick your most important taboos and describe how each specifically affects the romance.**
+*Pick 2-3 that create real obstacles and describe how each one gets in the way.*
 
 *(Write your answer below)*
 
@@ -1083,9 +1119,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does your protagonist's relationship with desire affect their romance?**
+**How does your protagonist feel about wanting someone?**
 
-Do they feel shame? Freedom? Confusion? Curiosity they've been taught to suppress? How does their love interest challenge or affirm their sense of self?
+Do they feel shame? Freedom? Confusion? Curiosity they've been taught to suppress?
 
 _______________________________________________________________
 
@@ -1102,6 +1138,16 @@ _______________________________________________________________
 | Being seen alone with someone | | |
 | Sexual experience/history | | |
 | Expressing desire openly | | |
+
+**What moment makes your protagonist see these norms differently?**
+
+*Who or what shows them that wanting isn't something to be ashamed of? Is it a conversation, an experience, or seeing how someone else's culture handles desire?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 #### Map the architecture of restriction — and the sequence of dismantling
 
@@ -1134,9 +1180,7 @@ _______________________________________________________________
 
 **What destroys a reputation?**
 
-What's the kind of scandal that follows someone forever? Is it the same for all classes and genders?
-
-**What would destroy the reputation of someone in the protagonist's position? What about the love interest's position?**
+*What scandal follows someone forever? What would destroy someone in the protagonist's position? The love interest's position? Is it the same for all classes and genders?*
 
 *(Write your answer below)*
 
@@ -1174,11 +1218,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What's the worst thing that could be said about either character?**
+**What's the worst rumor that could circulate about each character?**
 
-The rumor that would destroy them — true or not:
-
-**What is the worst possible rumor that could circulate about your protagonist? About your love interest?**
+*The thing that would destroy them -- true or not.*
 
 *(Write your answer below)*
 
@@ -1219,9 +1261,7 @@ _______________________________________________________________
 
 **Where can your characters be alone together?**
 
-List the spaces where privacy is possible — and what risks each location carries:
-
-**Where do your characters meet in secret, and what is the risk of discovery at each location?**
+*List the spaces where privacy is possible and the risk of discovery at each location.*
 
 *(Write your answer below)*
 
@@ -1299,9 +1339,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What touch is considered particularly intimate — perhaps more so than a kiss?**
+**What touch feels more intimate than a kiss in your world?**
 
-What's YOUR culture's unexpected intimacy?
+*Every culture has its own unexpected intimacy. What's yours?*
 
 _______________________________________________________________
 
@@ -1378,9 +1418,9 @@ Transitions in wardrobe also serve well as indicators of how intimate the relati
 
 ### What Clothing Signals
 
-**What does clothing communicate in your culture?**
+**What does clothing tell you about a person?**
 
-**What does clothing communicate in your world? Describe what markers indicate class, profession, marital status, and religion.**
+*What markers indicate class, profession, marital status, and religion?*
 
 *(Write your answer below)*
 
@@ -1406,11 +1446,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Fashion by Class & Context**
+**What do people actually wear?**
 
-What do people actually wear? You don't need to describe every stitch, just know enough to make your descriptions feel true when they matter to the scene.
-
-**How does clothing differ between wealthy/noble and common/working people in your world? Describe what each group wears for daily life, formal events, work, religious occasions, mourning, and celebrations.**
+*You don't need every stitch -- just know enough to make descriptions feel true. How does clothing differ between wealthy and common people for daily life, formal events, work, and celebrations?*
 
 *(Write your answer below)*
 
@@ -1542,9 +1580,7 @@ _______________________________________________________________
 
 #### What layers come off over the course of the relationship?
 
-*Each layer removed is a layer of distance dissolved. Map the progression — from the first small reveal to the moment when they're fully unguarded around each other.*
-
-**How does the gradual removal of clothing or armor track the progression of intimacy in your story? Describe an early, middle, and late-stage moment where something is removed or revealed, and what it signifies.**
+*Map the progression from the first small reveal to the moment when they're fully unguarded. Describe an early, middle, and late-stage moment where something is removed or revealed.*
 
 *(Write your answer below)*
 
@@ -1633,9 +1669,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What does it mean if someone violates the expected progression?**
+**What happens when someone skips steps or moves too fast?**
 
-**What signals does it send in your world when someone moves too fast in courtship, skips family involvement, or pursues someone above their station?**
+*What signals does it send when someone rushes courtship, skips family involvement, or pursues someone above their station?*
 
 *(Write your answer below)*
 
@@ -1718,11 +1754,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Plan a gift scene using the three components.**
+**Plan a gift scene.**
 
-*The most powerful gift scenes slow down through all three stages: giving, receiving, and aftermath. A gift that shows the giver noticed something specific about the receiver always lands harder than one that merely demonstrates wealth.*
-
-**Plan a significant gift-giving moment. What is the gift and why this gift specifically? Describe the giving (nervous or confident?), the receiving (recognition, confusion?), and the aftermath (where does the gift go, how often is it touched?).**
+*Slow down through all three stages: the giving (nervous or confident?), the receiving (recognition or confusion?), and the aftermath (where does the gift go, how often is it touched?). What is the gift, and why this gift specifically?*
 
 *(Write your answer below)*
 

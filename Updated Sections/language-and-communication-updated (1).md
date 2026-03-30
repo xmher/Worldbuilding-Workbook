@@ -19,10 +19,8 @@ This is why language works so powerfully in romance. It doesn't just create a pr
 
 Build language that creates both barriers and bridges. Make your characters work to understand each other, and make that work meaningful.
 
-**Where does your story sit on the barrier-to-bridge progression?**
-Language intimacy builds in stages. Where do your characters start, and where do they end? Mark the stages that appear in your story — these become scenes to write.
-
-**Map the communication arc between your characters. Which of these stages are present in your story, and when does each happen: complete inability to communicate, halting exchanges, functional but nuance-missing conversation, real conversation (arguing, joking, confessing), private language only they share, and silence that says everything?**
+**Where do your characters start and end on this progression?**
+*Language intimacy builds in stages. Mark the ones present in your story and note when each happens — these become scenes to write. Stages might include: complete inability to communicate, halting exchanges, functional but nuance-missing conversation, real conversation (arguing, joking, confessing), private language only they share, and silence that says everything.*
 
 *(Write your answer below)*
 
@@ -61,10 +59,8 @@ The key question isn't *what languages exist in your world*. It's this: what lan
 | Scholar / illiterate | Power imbalance in written communication; teaching becomes intimate or condescending | Penelope in *Romancing Mister Bridgerton*, whose secret writing life as Whistledown gives her power Colin never suspected |
 | Spy / mark | Language as weapon; fluency is deception, and the truth of accent or mother tongue slips out under pressure | Casteel in *From Blood and Ash*, who poses as "Hawke" so convincingly that Poppy falls in love with a persona |
 
-**Which language patterns create the most tension between your characters?**
-Look at the toolkit table above. Pick the 2–3 patterns most relevant to your romance. For each one, note the specific scene or dynamic it creates.
-
-**Which language patterns from the list above are you using? For each, describe how it works between your characters and a specific scene it creates.**
+**Which 2--3 language patterns from the table above are you using?**
+*For each one, note how it works between your characters and what specific scene or dynamic it creates.*
 
 *(Write your answer below)*
 
@@ -138,12 +134,33 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**What slang, idioms, or curse words do people use?**
+*Everyday speech reveals culture. What people joke about, what insults sting, and what phrases everyone knows tell the reader more about your world than any history lesson. Think about what your characters say when they stub their toe, insult an enemy, or joke with friends.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What's considered rude or polite in conversation?**
+*Does eye contact show respect or aggression? Is interrupting normal or offensive? Are there topics no one discusses openly? Conversational norms vary between cultures, classes, and species -- and breaking them can start a fight or spark attraction.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How do people communicate over long distances without magic?**
+*Messengers, signal fires, carrier birds, coded drums, postal systems? The speed and reliability of non-magical communication shapes how fast news travels, how isolated communities feel, and how hard it is to stay in contact with someone far away.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ### Multilingual Spaces
 
 Where languages mix, characters are most exposed. Markets, courts, border towns, and ports are pressure cookers where communication is constant negotiation. Code-switching? Sticking to trade language? Relying on translators? How your characters handle multilingual environments reveals confidence, adaptability, and social intelligence, all of which are attractive qualities on the page. A character who moves fluently between languages carries a different kind of appeal than one who struggles.
 
-**Where do your characters encounter multilingual environments, and how do they navigate them?**
-*Multilingual spaces — markets, courts, border towns — force characters to negotiate communication in real time. How your character handles that reveals confidence, vulnerability, and adaptability, all of which the other character will notice.*
+**Where do your characters encounter multilingual spaces, and how do they handle them?**
+*Markets, courts, border towns -- these force characters to negotiate communication in real time. How your character handles that reveals confidence, vulnerability, and adaptability.*
 
 | Location | Languages Present | How Your Protagonist Navigates | How Your Love Interest Navigates | What the Other Notices |
 |---|---|---|---|---|
@@ -161,7 +178,8 @@ If your characters don't share a first language, you've got built-in tension, an
 
 How did they learn each one? What doors does their linguistic knowledge open or close?
 
-**What is your protagonist's native language? What other languages do they speak and how fluently? How did they learn each one, and what doors do their languages open or close?**
+**What languages does your protagonist speak, and how fluently?**
+*Include their native language and any others. How did they learn each one? What doors do their languages open or close?*
 
 *(Write your answer below)*
 
@@ -175,7 +193,8 @@ How did they learn each one? What doors does their linguistic knowledge open or 
 
 Do they share a language with the protagonist, or will communication itself become part of their journey together?
 
-**What is your love interest's native language? What other languages do they speak and how fluently? How did they learn each one, and what doors do their languages open or close?**
+**What languages does your love interest speak, and how fluently?**
+*Include their native language and any others. How did they learn each one? What doors do their languages open or close?*
 
 *(Write your answer below)*
 
@@ -185,10 +204,8 @@ Do they share a language with the protagonist, or will communication itself beco
 
 &nbsp;
 
-**Do they share a common language when they first meet?**
-If not, how do they communicate initially? Gestures? A shared third language? Magic? And if they do share a language, is it native to both of them, or is one always slightly at a disadvantage?
-
-**Do your characters share a language at first meeting? If yes, is one at a disadvantage in it? If no, how do they communicate initially? What's lost in this early communication?**
+**Do your characters share a language when they first meet?**
+*If yes, is one at a disadvantage in it? If no, how do they communicate initially -- gestures, a shared third language, magic? What's lost in this early communication?*
 
 *(Write your answer below)*
 
@@ -211,9 +228,7 @@ _______________________________________________________________
 
 When characters need translation, a third party enters their most intimate space. Someone else hears every word, controls meaning, and stands between two people trying to reach each other. That's vulnerability and story opportunity in one.
 
-**Do your characters ever need a translator?**
-
-**If your characters need a translator or intermediary, who fills that role and how trustworthy are they?**
+**If your characters need a translator, who fills that role and how trustworthy are they?**
 
 *(Write your answer below)*
 
@@ -250,8 +265,8 @@ _______________________________________________________________
 
 Teaching someone your language is one of the most intimate things you can do. You're giving them access to your world, your thoughts, the way you name things. And learning someone's language is an act of surrender. You sound foolish, you make mistakes, you become vulnerable. Both of these are gold for romance.
 
-**What does teaching or learning language reveal about them?**
-Patience? Intelligence? Cultural values? Playfulness? Frustration? How someone teaches, and how someone learns, reveals character as clearly as any action scene.
+**What does teaching or learning language reveal about each character?**
+*Patience? Intelligence? Cultural values? Playfulness? Frustration? How someone teaches and how someone learns reveals character as clearly as any action scene.*
 
 _______________________________________________________________
 
@@ -340,8 +355,8 @@ Pick a word or phrase from the love interest's language that will become signifi
 | Full — the word is translated at an emotional peak | | |
 | Echo — the word returns in a new context, meaning transformed | | |
 
-**How does the full meaning of this word change the relationship?**
-*The best staged comprehension moments don't just deliver a translation — they reframe everything the character thought they understood. The word hasn't changed; the character has.*
+**How does learning this word's full meaning change the relationship?**
+*The best staged comprehension moments don't just deliver a translation -- they reframe everything the character thought they understood. The word hasn't changed; the character has.*
 
 _______________________________________________________________
 
@@ -362,10 +377,8 @@ One way to avoid this is to add at least one constraint.
 | Power asymmetry (one side controls the translator) | Translation becomes political, not neutral |
 | Intimacy gating (only bonded lovers can "hear" thoughts) | The translation itself becomes a marker of relationship depth |
 
-**If your world has magical translation, what breaks it?**
-Perfect translation kills tension. Pick at least one constraint from the table above and describe how it affects your characters' communication.
-
-**What translation constraint are you using, how does it fail at the worst possible moment, and what do your characters do instead?**
+**What breaks your world's magical translation?**
+*Perfect translation kills tension. Pick at least one constraint from the table above and describe how it affects your characters' communication. How does it fail at the worst possible moment, and what do your characters do instead?*
 
 *(Write your answer below)*
 
@@ -378,9 +391,7 @@ Perfect translation kills tension. Pick at least one constraint from the table a
 ### Your Approach
 
 **How do you represent other languages on the page?**
-Which technique (or combination) matches the experience you want readers to have?
-
-**What is your primary technique for representing language on the page? How are foreign words formatted (italics, roman, tags), and how much does the reader understand vs. the protagonist?**
+*Which technique (or combination) from the table above are you using? How are foreign words formatted (italics, roman, tags), and how much does the reader understand vs. the protagonist?*
 
 *(Write your answer below)*
 
@@ -390,10 +401,8 @@ Which technique (or combination) matches the experience you want readers to have
 
 &nbsp;
 
-**Does your world have magical translation?**
-If so, what are its limits? What can't it translate? What happens when it fails?
-
-**What translation method do your characters use? What can't it handle, and when does it fail (and what does failure cost)?**
+**What translation method do your characters use?**
+*What can't it handle? When does it fail, and what does failure cost them?*
 
 *(Write your answer below)*
 
@@ -446,7 +455,8 @@ In *An Offer from a Gentleman*, Benedict Bridgerton is fascinated by Sophie's re
 
 Speech patterns reveal history. Does their accent betray origins they try to hide, or signal status they want others to recognise?
 
-**What accent or dialect does your protagonist speak with? What does it reveal about their background, and how does the love interest perceive it?**
+**What accent or dialect does your protagonist speak with?**
+*What does it reveal about their background? How does the love interest perceive it?*
 
 *(Write your answer below)*
 
@@ -460,7 +470,8 @@ Speech patterns reveal history. Does their accent betray origins they try to hid
 
 How does their speech mark them in your world, and what does the protagonist notice about it that others might miss?
 
-**What accent or dialect does your love interest speak with? What does it reveal about their background, and how does the protagonist perceive it?**
+**What accent or dialect does your love interest speak with?**
+*What does it reveal about their background? How does the protagonist perceive it?*
 
 *(Write your answer below)*
 
@@ -470,8 +481,8 @@ How does their speech mark them in your world, and what does the protagonist not
 
 &nbsp;
 
-**Does either character code-switch — and what does the shift reveal?**
-*Code-switching — changing how you speak depending on context — reveals which version of themselves a character shows to whom. The moment your love interest hears the "real" voice, the one reserved for home or for unguarded moments, is an intimacy milestone.*
+**Does either character code-switch?**
+*Code-switching -- changing how you speak depending on context -- reveals which version of themselves a character shows to whom. The moment your love interest hears the "real" voice, the one reserved for home or for unguarded moments, is an intimacy milestone.*
 
 | Character | "Public" Voice (formal, guarded) | "Private" Voice (unguarded, real) | What Triggers the Switch | When the Other First Hears the Real Voice |
 |---|---|---|---|---|
@@ -494,10 +505,8 @@ The most significant form of communication is sometimes what isn't communicated.
 
 ### What Goes Unsaid
 
-**What do your characters not say to each other?**
-What truths are they avoiding? What feelings go unexpressed?
-
 **What does your protagonist never say to the love interest? What does the love interest never say to the protagonist?**
+*What truths are they avoiding? What feelings go unexpressed?*
 
 *(Write your answer below)*
 
@@ -545,10 +554,8 @@ Everyone lies in their own way, and in romance, how someone lies reveals as much
 
 In *The Cruel Prince*, the Fae can't technically lie, therefore Cardan learns to use truth as a tool of war. When he tells Jude he thinks of her "often" and finds it "disgusting," every word is technically honest, but the way he frames those words disguises his vulnerability from being exposed in his hostility. Casteel's complete deception in *From Blood and Ash* is that he creates an entirely new identity as "Hawke" to get close to Poppy. The romance isn't ruined by the lie. It's complicated by the fact that all of the feelings he had were genuine, even though he was lying about who he claimed to be.
 
-**How does each character lie?**
-Deflection, omission, confident falsehood, nervous tells:
-
-**How does your protagonist lie (omission, misdirection, performance, blunt falsehood)? How does your love interest lie?**
+**How does your protagonist lie? How does your love interest lie?**
+*Omission, misdirection, performance, blunt falsehood? Think about what each style reveals about them.*
 
 *(Write your answer below)*
 
@@ -558,10 +565,8 @@ Deflection, omission, confident falsehood, nervous tells:
 
 &nbsp;
 
-**How can they tell when the other is lying?**
-What tells give them away? Learning someone's tells is its own form of intimacy.
-
 **What are your protagonist's tells when they're lying? What are your love interest's tells?**
+*Learning someone's tells is its own form of intimacy.*
 
 *(Write your answer below)*
 
@@ -574,7 +579,8 @@ What tells give them away? Learning someone's tells is its own form of intimacy.
 **When does one catch the other in a lie?**
 The moment of discovering a lie is significant. How much does the discovery cost the relationship, and what does the decision to either confront or not confront it reveal about each of them? In *The Wicked King*, Cardan sends Jude away with a decree that sounds like betrayal but contains a hidden loophole: as High Queen, she has the power to pardon herself. The romantic tension survives because decoding the literalism of his speech becomes Jude's act of faith in a man who communicates love through legal technicalities.
 
-**What is the lie that matters most between your characters? What was the lie, how did the other person know, and what happened as a result?**
+**What is the lie that matters most between your characters?**
+*What was the lie, how did the other person discover it, and what happened as a result?*
 
 *(Write your answer below)*
 
@@ -604,9 +610,8 @@ Sometimes we gain insight into others' worlds through overheard words. Words hea
 
 Colin tells his brothers in *Bridgerton* that he would never marry Penelope, a revelation she discovers by accident, one which influences how she will perceive herself for years to come and further adds to the pining and resentment that exists in their later relationship. Poppy's eavesdropping at the Red Pearl leads directly to her first encounter with Hawke in *From Blood and Ash*, creating a romantic relationship that will forever be tied to her pursuit of truth about the world she has been sheltered from.
 
-**Does either character overhear something significant?**
-
-**Is there an overheard conversation that changes everything? Who overhears, what do they hear, and who was speaking (and to whom)?**
+**Is there an overheard conversation that changes everything?**
+*Who overhears, what do they hear, and who was speaking (and to whom)?*
 
 *(Write your answer below)*
 
@@ -652,6 +657,13 @@ Nonverbal fluency develops slowly, though. At the start of their relationship, y
 | Smile that doesn't reach the eyes | Performance, hiding pain | When one character sees through the mask |
 | Unconscious mirroring | Growing connection they haven't admitted | Subtle sign for the reader before the characters catch on |
 | Touch that lingers a beat too long | Wanting more than they'll say | The space between friendship and something else |
+
+**What do common gestures mean in your world?**
+*Bowing, handshakes, eye contact, personal space -- these vary between cultures. What gestures show respect, affection, hostility, or submission? Are there gestures that mean different things to different groups? A gesture of greeting in one culture might be an insult in another.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 **What expressions or gestures does the protagonist learn to read in the love interest?**
 The small signs of their moods, needs, feelings. What do they notice first, and what takes months to decode?
@@ -780,10 +792,15 @@ _______________________________________________________________
 
 Literacy is power, and in romantasy, power imbalances create tension. Who can read and who can't, who writes letters and who can't reply, who controls information and who's shut out. These are romantic stakes disguised as worldbuilding.
 
-**What does literacy look like in your world?**
-*Who can read shapes who holds power — and who's shut out of it. A character who can't read a love letter, a treaty, or a warning is vulnerable in ways that go beyond the battlefield.*
+**What writing systems exist in your world?**
+*Alphabets, pictographs, magical scripts? Who can read shapes who holds power -- and who's shut out of it.*
 
-**What writing systems exist in your world (alphabets, pictographs, magical scripts)? How common is literacy, who controls access to reading and writing, and what can't be communicated without literacy?**
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How common is literacy, and who controls access to reading and writing?**
+*A character who can't read a love letter, a treaty, or a warning is vulnerable in ways that go beyond the battlefield. Think about whether literacy is universal, class-restricted, or controlled by institutions.*
 
 *(Write your answer below)*
 
@@ -792,11 +809,9 @@ Literacy is power, and in romantasy, power imbalances create tension. Who can re
 &nbsp;
 
 &nbsp;
-
-**Can your characters read and write?**
-Literacy can be a source of power, shame, or connection. How does each character's relationship to written language shape their world?
 
 **What is your protagonist's literacy level? What is your love interest's literacy level?**
+*Literacy can be a source of power, shame, or connection. How does each character's relationship to written language shape their options?*
 
 *(Write your answer below)*
 
@@ -806,7 +821,14 @@ Literacy can be a source of power, shame, or connection. How does each character
 
 &nbsp;
 
-**If one is literate and one isn't, how does this affect them?**
+**Who teaches reading and writing in your world?**
+*Schools, tutors, temples, parents, masters? How someone learns to read says a lot about their background. A character taught by temple priests has a different relationship to literacy than one taught by a parent or a lover.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**If one character is literate and the other isn't, how does this affect them?**
 Does the literate one teach? Is there a power imbalance? Shame? Practical problems? Teaching someone to read is as intimate as teaching them your language.
 
 _______________________________________________________________
@@ -819,16 +841,15 @@ Written words can be read and re-read; they can be hidden or rediscovered. A sep
 
 In *Romancing Mister Bridgerton*, Penelope's secret life as Lady Whistledown gives her a written voice that is sharp, biting, and powerful, everything her public wallflower persona is not. When Colin finds her journals and eventually learns it was her who wrote them, the tension shifts from romantic pursuit to a clash of egos: he realises he never truly knew the woman he'd spent years overlooking. A written self can be braver than a spoken self, and the space between the page and the person is nothing but fuel for the fire of romance.
 
-**Do your characters exchange letters or written messages?**
-*Written words can be reread, hidden, and discovered. A letter allows for confessions that spoken conversation can't — and creates physical evidence of feeling that can be found by the wrong person.*
+**Do your characters communicate in writing?**
+*Written words can be reread, hidden, and discovered. A letter allows for confessions that spoken conversation can't -- and creates physical evidence of feeling that can be found by the wrong person.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Map a letter or written exchange between your characters.**
-
-**Do your characters communicate in writing? What do they write, what can they say on paper that they can't say aloud, how does it reach the other person, what risk exists in it being written, and how does the recipient react?**
+**What do they write, and what can they say on paper that they can't say aloud?**
+*How does the message reach the other person? What risk exists in it being written down? How does the recipient react?*
 
 *(Write your answer below)*
 
@@ -988,6 +1009,17 @@ This moment marks a turning point. Is it freely given or discovered? What change
 ## Names, Address & Private Language
 
 The way characters address each other is a map of their relationship. Titles become first names become nicknames become private words only they use. Every shift in address marks a shift in intimacy, and readers feel it.
+
+**How do names work in your world?**
+*How do people get their personal names -- are they chosen at birth, earned, inherited, or given by a ritual? Do people have family names, clan names, or patronymics? How are places named? Naming conventions reveal what a culture values most.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ### Forms of Address
 
