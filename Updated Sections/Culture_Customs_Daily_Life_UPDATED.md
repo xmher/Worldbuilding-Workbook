@@ -60,6 +60,14 @@ The rules your characters must navigate or break:
 - Reputation systems where being seen together causes damage
 - Family involvement that creates external opposition
 
+**Which of these obstacles exist in your world?**
+
+*Pick the ones that apply and note how they show up in your story.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ### Culture as Opportunity
 
 The customs that create romantic moments:
@@ -156,6 +164,16 @@ If your world mirrors a real culture, focus on what's different. You don't need 
 | **Inconsistent Culture:** Rules apply when convenient and disappear when inconvenient | | |
 | **Paper-Thin Taboo:** Something is supposedly forbidden, but no one seems to actually care and there are no real consequences | | |
 | **Monolithic Culture:** Everyone in the society thinks the same way with no internal variation, rebels, or regional differences | | |
+
+**Who in your world disagrees with the mainstream culture?**
+
+*Every society has dissenters -- older generations vs. younger, city vs. rural, reformers vs. traditionalists. Who pushes back against the dominant culture, and how?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 

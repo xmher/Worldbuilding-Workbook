@@ -248,6 +248,24 @@ If the only obstacles your characters face are temporary and can be easily overc
 
 So go ahead and hurt your protagonists. Make sure they fail sometimes at things that matter. Allow them to lose something they cannot replace. Allow the antagonist to win at least once. Struggling that leads to ultimate victory is uninteresting; struggling where the costs are real is interesting.
 
+### Apply It to Your World
+
+**What is one permanent loss your protagonist suffers that cannot be undone?**
+
+_______________________________________________________________
+
+**What consequence have you threatened but never followed through on?**
+
+*Hint: If the answer is "most of them," pick the one your story most needs to deliver on.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Does your antagonist win at least once in a way that actually sticks?**
+
+_______________________________________________________________
+
 ---
 
 ## Mistake #7: Inconsistent World Rules

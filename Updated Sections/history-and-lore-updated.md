@@ -658,6 +658,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**What do ordinary people argue about when it comes to the past?**
+*Not scholars -- regular people. Bar arguments, family dinner debates, neighbourhood grudges. "My grandfather says..." or "Everyone knows that was really about..." These everyday disagreements reveal what history is still alive and contested in your world.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 Your characters can't merely think of history in terms of stories and memories. Many histories are embedded in the very fabric of the land: monuments, walls, streets named after wars, required rituals, altered texts, even the climate itself. When the government has control over the physical world, the history of the culture becomes indistinguishable from the world itself. Your characters may stroll through the market place, pass by a statue honouring the war which prohibits their love; this is propaganda in its purest form and provides some of the most intense scene-level tension in romantasy.
@@ -1472,11 +1479,13 @@ _______________________________________________________________
 
 | Question | Answer | Example |
 |---|---|---|
-| How does history justify current government? | | *ACOTAR*: The Wall and Treaty, born from the ancient war, justify the separation of fae and human territories and the High Lords' authority |
+| How does history justify the current government? | | *ACOTAR*: The Wall and Treaty, born from the ancient war, justify the separation of fae and human territories and the High Lords' authority |
 | How does history explain religious beliefs? | | *Mistborn*: The Lord Ruler's ascension became the basis of the Steel Ministry's religious authority |
 | How does history create cultural attitudes and taboos? | | *The Priory of the Orange Tree*: Ancient dragonrider history shapes which cultures revere vs. fear dragons |
-| How did magic change history? | | *Shadow and Bone*: The creation of the Shadow Fold reshaped Ravkan politics and borders for centuries |
+| How did magic change history (or vice versa)? | | *Shadow and Bone*: The creation of the Shadow Fold reshaped Ravkan politics and borders for centuries |
 | Could understanding history change how people view your characters' relationship? | | *Romeo and Juliet*: If the feud's origin were revealed as trivial, it would reframe the tragedy |
+
+**Fill in the "Answer" column above for each row that applies to your story.** Any row you leave blank is worth a second look -- it may reveal a connection between your history and your world systems that you haven't explored yet.
 
 ---
 

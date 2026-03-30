@@ -311,8 +311,8 @@ The words they swallow and the touches they deny create tension that demands eve
 
 ___
 
-**How do the societal pressures in your world affect ordinary people inside the pressure cooker?**
-*Your leads aren't the only ones feeling the squeeze. Servants, bystanders, lower-ranking members — how does the same confinement land on people with less power or fewer choices? Their situation can mirror or contrast the protagonists' experience, and it grounds the pressure cooker in worldbuilding rather than making it feel like it exists only for the romance.*
+**How does the confinement land differently on people with less power?**
+*Servants, bystanders, lower-ranking members — the same pressure cooker squeezes everyone, but people with fewer choices feel it differently. Their experience can mirror or contrast the protagonists' situation and ground the setting in worldbuilding.*
 
 ___
 

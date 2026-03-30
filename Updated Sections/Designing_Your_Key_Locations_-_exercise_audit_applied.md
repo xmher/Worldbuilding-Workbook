@@ -258,6 +258,12 @@ Dangerous elements: _____________________________________________
 
 _______________________________________________________________
 
+**What makes this location immediately distinct from your other key locations?**
+
+*Every location needs a signature -- the constant wind, the smell of sulfur, the way sound echoes, the colour of the stone. If a reader couldn't tell your locations apart from a single sensory detail, they may be too similar.*
+
+_______________________________________________________________
+
 ---
 
 Ultimately, the amount of privacy in a specific location will affect the type of romantic tension created by that location. In a totally private setting, a couple has the opportunity to be vulnerable, but this takes away the thrill of transgressing boundaries. Total exposure makes every glance electric but prevents real honesty. Many romantasy scenes take place in semi-private settings. Private enough to be real, risky enough to be dangerous.
@@ -854,27 +860,39 @@ Your key locations don't exist in isolation. They're shaped by every system you'
 
 *Locations that are grounded in your existing world feel real — and real places create more powerful romantic moments than invented-on-the-spot ones. These connections also ensure your locations don't contradict what you've already established.*
 
-**How do your key locations connect to your geography (Section 1)?**
+**How do terrain, climate, and natural features shape your key locations (Section 1)?**
+
+*Think about how the physical geography constrains or enables what happens in each space -- a mountain pass is narrow and exposed, a coastal cave floods at high tide.*
 
 _______________________________________________________________
 
-**Do any locations have significant flora/fauna (Section 2)?**
+**What plants, creatures, or natural elements appear at your locations (Section 2)?**
+
+*Flora and fauna create atmosphere, danger, and sensory detail. Bioluminescent moss provides eerie light. Predators limit when characters can travel. Medicinal herbs give a reason to visit.*
 
 _______________________________________________________________
 
-**What cultural significance do locations carry (Section 3)?**
+**What cultural meaning do any of your locations carry (Section 3)?**
+
+*Sacred sites, forbidden zones, traditional gathering places -- cultural significance adds weight to any scene set there, especially if characters are breaking taboos.*
 
 _______________________________________________________________
 
-**What historical weight do locations hold (Section 7)?**
+**What historical events happened at or near your locations (Section 7)?**
+
+*Battlefields, ruins, sites of tragedy or triumph. Historical weight gives a location gravity that pure description cannot.*
 
 _______________________________________________________________
 
-**How does technology affect these spaces (Section 9)?**
+**How do your world's technology and infrastructure shape these spaces (Section 9)?**
+
+*Lighting, heating, construction, and tools shape what's possible. No magical lighting means firelight only -- which means closeness, shadows, and intimacy.*
 
 _______________________________________________________________
 
-**Do any locations exist within institutions (Section 14)?**
+**Do any of your locations sit within institutional spaces (Section 14)?**
+
+*Academies, courts, military camps, temples. Institutional locations carry built-in rules and consequences -- a stolen moment in the academy risks expulsion, not just embarrassment.*
 
 _______________________________________________________________
 

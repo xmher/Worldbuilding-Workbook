@@ -873,8 +873,9 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**Can magic be resisted or defended against?**
-How do non-magical people protect themselves?
+**How do non-magical people protect themselves from magic?**
+
+*Wards, talismans, iron, salt, prayer, sheer willpower, hired mages, staying out of the way? The defences available to ordinary people shape how they feel about magic users -- and whether your non-magical character has any real agency in a magical world.*
 
 _______________________________________________________________________________
 

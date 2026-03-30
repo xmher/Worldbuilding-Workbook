@@ -463,7 +463,11 @@ The space between how two people talk can have just as much tension as the space
 In *An Offer from a Gentleman*, Benedict Bridgerton is fascinated by Sophie's refined accent because it doesn't match her role as a housemaid. The fact that her way of speaking identifies her as being out of place is what keeps him interested enough to continue studying her. The tension only resolves when he stops listening to the marker of her class and starts listening to her.
 
 **Do different regions or social classes have distinct ways of speaking?**
-"Proper" vs. "common" speech, court language vs. street language, regional dialect vs. capital standard. What does the way someone speaks reveal about where they're from and where they stand?
+*"Proper" vs. "common" speech, court language vs. street language, regional dialect vs. capital standard. What does the way someone speaks reveal about where they're from and where they stand?*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ### Protagonist's Speech
 

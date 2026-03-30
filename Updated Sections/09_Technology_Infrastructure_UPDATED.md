@@ -927,6 +927,12 @@ Musical instruments, game equipment, performance spaces:
 **What technologies are available to everyone, and what is completely out of reach for the poor?**
 *Inaccessible technology creates invisible barriers. What would a poor character simply never encounter in their normal life — and how would they react when they first experienced it alongside a love interest who takes it for granted?*
 
+| Category | Examples in Your World |
+|---|---|
+| Available to everyone | |
+| Affordable for middle class only | |
+| Exclusive to the wealthy or powerful | |
+
 ---
 
 ## Weapons & Conflict

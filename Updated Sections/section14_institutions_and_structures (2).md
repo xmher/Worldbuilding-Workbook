@@ -1339,28 +1339,28 @@ _______________________________________________________________
 
 ## Integration Check
 
-**How does your institution reflect or enforce government structures (from Section 5)?**
+**What is the relationship between your institution and the government (from Section 5)?**
 Does the institution serve the ruling power, challenge it, or operate in its shadow?
 
 _______________________________________________________________
 
-**How does your institution reflect cultural values (from Section 3)?**
-What beliefs about honour, duty, family, or success does this institution embody or exploit?
+**What cultural values does your institution enforce or exploit (from Section 3)?**
+What beliefs about honour, duty, family, or success does it lean on?
 
 _______________________________________________________________
 
-**How does economic power shape your institution (from Section 4)?**
-Who funds it, who profits from it, and who pays the price of its existence?
+**Who funds your institution, and who profits from it (from Section 4)?**
+Follow the money — it reveals who really holds power.
 
 _______________________________________________________________
 
-**How does religion intersect with your institution (from Section 6)?**
-Does faith legitimise, condemn, or operate parallel to this institution's authority?
+**Where does religion support or clash with your institution (from Section 6)?**
+Does faith back up the institution's authority, condemn it, or run alongside it?
 
 _______________________________________________________________
 
-**How does magic affect how the institution functions (from Section 10)?**
-Does magic enable control, create hierarchy, or offer paths to subvert the institution's rules?
+**What role does magic play in how your institution works (from Section 10)?**
+Does magic help the institution control people, create rankings, or give your characters ways to break the rules?
 
 _______________________________________________________________
 
