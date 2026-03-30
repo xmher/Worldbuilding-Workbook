@@ -18,44 +18,17 @@ The problem lies in making religion an obstacle to be overcome, a wall to climb,
 
 Create a religion that is important enough for your characters to fight for, against, or to redefine entirely. Then force your characters to the altar.
 
-**What is your character's altar — the thing they're forced to lay down?**
-*The altar is the sacrifice your religion demands. In* Serpent & Dove, *Lou is literally the sacrifice the Church demands. In* Priory, *Ead must lay down her sisterhood and sacred purpose. What does your character have to give up — and is love the offering (what they place on the altar willingly) or the sacrifice (what the altar takes from them)?*
+Before you can answer the altar question, you need to know what religion exists in your world. Start with the basics:
+
+**What role does religion play in your world?**
+*Is it the dominant force in society, a fading tradition, one voice among many, or something else entirely? How present is it in the daily lives of ordinary people?*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
----
-
-## How to Think About Religion in Romantasy
-
-Religion creates romantic tension through three channels, and each one operates at a different level:
-
-### The Three Channels of Religious Tension
-
-| Channel | How It Works | What It Creates |
-|---------|-------------|----------------|
-| **Divine Law** | Religious doctrine that prohibits or requires: forbidden marriages, required unions, celibacy vows, purity requirements | Consequences that aren't just social but spiritual, including damnation, loss of divine favour, cosmic transgression |
-| **Sacred Duty** | Religious obligations that compete with love: vows that bind, chosen one status, priestly duties, divine purpose | The agonising choice between what the gods demand and what the heart wants |
-| **Faith Itself** | The internal spiritual dimension: genuine belief that makes violation feel like sin, the crisis when love conflicts with doctrine | The most profound conflict: not "should I break this rule?" but "is everything I believed a lie?" |
-
-### Religious Situations That Create Romance Tension
-
-| Pattern | How It Works | What It Creates |
-|---------|-------------|----------------|
-| The forbidden union | Religious law prohibits their marriage | Sin, damnation stakes, crisis of faith |
-| The vow of celibacy | One has sworn to the gods not to love | Temptation, breaking vows, questioning calling |
-| The interfaith lovers | Different religions that oppose each other | Conversion pressure, family opposition, whose god wins |
-| The chosen one | Divine destiny that love interferes with | Duty vs. desire, sacrifice, questioning prophecy |
-| The priest and the profane | Holy figure loves someone "beneath" their calling | Scandal, fall from grace, redefining holiness |
-| The prophesied union | Fated to be together by divine decree | Is it real love or just destiny? Agency questions |
-| The divine punishment | Their love angers the gods | Curses, divine intervention, appeasing deity |
-| The sacred veil | One character hides a forbidden faith or magical nature from the other | Near-miss tension, the charged revelation moment, intimacy through shared sacrilege |
-| The heretic beloved | The love interest IS what the religion condemns, not rule-breaking but ontological taboo | Epistemic crisis, moral identity collapse, forced reclassification of "evil" |
-
-**Which of these patterns fits your romance?**
-*Pick one or two from the table above. You don't need to use them all — just the ones that create the most tension for your specific characters. You can combine patterns (e.g., "the sacred veil" plus "the heretic beloved").*
-
+**In one or two sentences, what do most people in your world believe about the divine?**
+*Don't overthink this — just get the broad shape down. You'll refine it in the exercises that follow.*
 
 _______________________________________________________________
 
@@ -1436,6 +1409,53 @@ Conversion for love raises questions about authenticity, sacrifice, and identity
 &nbsp;
 
 &nbsp;
+
+---
+
+## Apply the Principle: The Altar and Your Romance
+
+Now that you've built your world's religion — its gods, institutions, laws, rituals, communities, and myths — return to the Altar Principle from the opening of this section. You now have the foundation to answer these questions with real weight behind them.
+
+### How Religion Creates Romantic Tension
+
+Religion creates romantic tension through three channels, and each one operates at a different level:
+
+#### The Three Channels of Religious Tension
+
+| Channel | How It Works | What It Creates |
+|---------|-------------|----------------|
+| **Divine Law** | Religious doctrine that prohibits or requires: forbidden marriages, required unions, celibacy vows, purity requirements | Consequences that aren't just social but spiritual, including damnation, loss of divine favour, cosmic transgression |
+| **Sacred Duty** | Religious obligations that compete with love: vows that bind, chosen one status, priestly duties, divine purpose | The agonising choice between what the gods demand and what the heart wants |
+| **Faith Itself** | The internal spiritual dimension: genuine belief that makes violation feel like sin, the crisis when love conflicts with doctrine | The most profound conflict: not "should I break this rule?" but "is everything I believed a lie?" |
+
+#### Religious Situations That Create Romance Tension
+
+| Pattern | How It Works | What It Creates |
+|---------|-------------|----------------|
+| The forbidden union | Religious law prohibits their marriage | Sin, damnation stakes, crisis of faith |
+| The vow of celibacy | One has sworn to the gods not to love | Temptation, breaking vows, questioning calling |
+| The interfaith lovers | Different religions that oppose each other | Conversion pressure, family opposition, whose god wins |
+| The chosen one | Divine destiny that love interferes with | Duty vs. desire, sacrifice, questioning prophecy |
+| The priest and the profane | Holy figure loves someone "beneath" their calling | Scandal, fall from grace, redefining holiness |
+| The prophesied union | Fated to be together by divine decree | Is it real love or just destiny? Agency questions |
+| The divine punishment | Their love angers the gods | Curses, divine intervention, appeasing deity |
+| The sacred veil | One character hides a forbidden faith or magical nature from the other | Near-miss tension, the charged revelation moment, intimacy through shared sacrilege |
+| The heretic beloved | The love interest IS what the religion condemns, not rule-breaking but ontological taboo | Epistemic crisis, moral identity collapse, forced reclassification of "evil" |
+
+**Which of these patterns fits your romance?**
+*Pick one or two from the table above. You don't need to use them all — just the ones that create the most tension for your specific characters. You can combine patterns (e.g., "the sacred veil" plus "the heretic beloved").*
+
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What is your character's altar — the thing they're forced to lay down?**
+*The altar is the sacrifice your religion demands. In* Serpent & Dove, *Lou is literally the sacrifice the Church demands. In* Priory, *Ead must lay down her sisterhood and sacred purpose. What does your character have to give up — and is love the offering (what they place on the altar willingly) or the sacrifice (what the altar takes from them)?*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 

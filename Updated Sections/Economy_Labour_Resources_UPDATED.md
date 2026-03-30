@@ -19,24 +19,15 @@ In *The Cruel Prince*, the ledger is turned upside down. Jude has absolutely not
 
 It doesn't have to be money. The ledger can be based on magical power, social status, physical safety, or some form of political protection. What matters is that there is an inequality, and both parties are tracking it, even when they pretend they are not.
 
-Consider what the Invisible Ledger reveals in your romance:
-
-- **Who owes more?** At the start of your story, which character has received more than they can repay? How does that debt change their behaviour — are they more guarded, more eager to prove themselves, more resentful?
-- **What can't be repaid with money?** A life saved, a secret kept, a reputation protected. These are debts that money can't settle, and that's where the tension lives.
-- **Where does helping start to feel like owning?** There is a tipping point where "I'm helping you" starts to feel like "I own you." The recipient may not be able to define the difference, but they sense it. Where is that line for your characters?
-- **What would balance the ledger?** What could the less powerful character offer or risk so their partner sees them as an equal? Sometimes it's competence. Sometimes it's emotional honesty. Sometimes it's the willingness to walk away, proving they're staying by choice.
-
 Your responsibility as a writer is to show the ledger. Show what is being added. Show how each side of the ledger feels. And then find the moment, the real romantic turning point, where one or both characters decide to stop counting.
 
 That's when the love becomes real. Not when the debt is paid, but when it stops mattering.
 
-### The Key Question
+Keep this principle in mind as you work through the exercises below. First, you'll build the economic foundation of your world. Then, once you know how your economy works, you'll return to the Invisible Ledger and map how it applies to your specific characters and romance.
 
-What's the single biggest entry on your characters' Invisible Ledger: the one debt, gift, or sacrifice that neither of them can forget? And what will it take for them to stop letting it define the relationship?
+**Before you dive into the details, get the big picture down. What does the economic landscape of your world look like?**
 
-**What's on your characters' Invisible Ledger?**
-
-**Map the emotional debt between your characters. What has been given or received, who gave, who owes, and how does the debt feel?**
+*Don't overthink this. Just describe the general feel: is it a world of abundance or scarcity? Are there vast wealth gaps or relative equality? Is trade thriving or stagnant? Are people mostly farmers, merchants, soldiers, artisans? You'll refine all of this in the exercises that follow — for now, capture your instinct.*
 
 *(Write your answer below)*
 
@@ -46,47 +37,9 @@ What's the single biggest entry on your characters' Invisible Ledger: the one de
 
 &nbsp;
 
-**When does the ledger stop mattering?**
-What moment, scene, or choice makes one or both characters decide they're done keeping score? This is your romantic turning point. Make it earn its weight.
+**What is the single biggest economic pressure shaping daily life in your world right now?**
 
----
-
-## How Economics Works in Romantasy
-
-Economics in romantasy typically creates tension through imbalance, pressure, and transaction. Money isn't just money. It's power, security, freedom, and control.
-
-### Economic Imbalance
-
-When one character has significantly more wealth than the other:
-
-- Power dynamics shift. Who depends on whom?
-- Generosity can feel like control
-- Pride and shame enter the relationship
-- The question "do they love me or my money?" haunts the wealthy
-
-### Economic Pressure
-
-When financial necessity forces choices:
-
-- Arranged marriages for money or alliance
-- Accepting employment from a love interest
-- Choosing security over love (or love over security)
-- Debt creating obligation
-
-### Economic Transaction
-
-When money or resources pass between lovers:
-
-- Gifts carry meaning beyond their value
-- Help can feel like charity
-- Refusal can feel like rejection
-- "I owe you" creates imbalance
-
-**Which economic force hits your romance hardest — imbalance, pressure, or transaction?**
-
-*Imbalance, pressure, and transaction often overlap, but one usually dominates. Naming it helps you write it with intention rather than accidentally.*
-
-**Which one dominates your story, and what specific scene does it drive?**
+*War taxes? Famine? A trade embargo? A magical resource drying up? Name the pressure that ordinary people feel, because that pressure will also press on your characters and their relationship.*
 
 *(Write your answer below)*
 
@@ -95,34 +48,6 @@ When money or resources pass between lovers:
 &nbsp;
 
 &nbsp;
-
-### Common Patterns: Economics in Romantasy
-
-| Pattern | How It Works | What It Creates |
-|---|---|---|
-| The wealth gap | One character rich, one poor | Power imbalance; questions about motives |
-| The economic rescue | Wealthy character can solve poor character's problems | Gratitude vs. obligation; "am I being bought?" |
-| The arrangement | Financial necessity forces proximity | Forced proximity; "is this real?" |
-| The debt | One owes the other (money, life, service) | Obligation; when is the debt paid? |
-| The sacrifice | One gives up wealth/security for love | High stakes; proving love isn't about money |
-| The inheritance threat | Being together means losing fortune | External pressure; choosing love or security |
-
-**Which economic pattern(s) drive your romance?**
-
-*Most romances use one or two of these as primary engines and touch on others as secondary tension. Naming your pattern helps you build the right exercises and avoid the common mistake of having economic tension that's stated but never shown.*
-
-| Pattern | Primary or Secondary? | How It Appears in Your Story |
-|---|---|---|
-| The wealth gap | | |
-| The economic rescue | | |
-| The arrangement | | |
-| The debt | | |
-| The sacrifice | | |
-| The inheritance threat | | |
-
-These common themes show up consistently in commercially successful romantasy. The wealth gap provides the main conflict in *The Cruel Prince*, where Jude is a powerless mortal in a world of wealthy, powerful Fae, and her only capital is her ability to lie and her willingness to fight. Debt is also central to *ACOTAR*, where Feyre's bargain with Rhysand creates obligation that blurs into something else entirely. The arrangement appears in *From Blood and Ash*, where Poppy's role as the Maiden makes her a political and economic asset to be traded. And the sacrifice runs through *Bridgerton*, where characters repeatedly face the choice between advantageous matches and the people they actually want.
-
-It's interesting to note how many of these romances conclude. The romantic arc often acts as the vehicle for the subversion of class structures. Feyre is literally brought back to life by the High Lords, and her transition from a starving human to a High Lady represents a true "rags-to-riches" story fueled by her romantic entanglement within the upper echelon of society. Jude and Cardan's relationship subverts the hierarchical structure of the Fae by creating a mutually beneficial and equally politicised relationship that ultimately rejects the master-servant dynamic of Elfhame. Violet and Xaden's relationship in *Fourth Wing* bridges the gaps created by the various military factions, while Vin's relationship with Elend in *Mistborn* elevates her from being a street urchin to being the leader of a revolution through their shared Allomantic abilities. While the specific pattern is less important than what you do with it, how far you allow the economic factors to complicate the emotional factors involved in the romance and if the romance supports the status quo of the economy or if it disrupts it is really your main issue.
 
 ---
 
@@ -1583,6 +1508,113 @@ Some criminal romances end with the characters leaving the life. But leaving has
 &nbsp;
 
 &nbsp;
+
+---
+
+## Apply the Principle: The Invisible Ledger & Your Romance
+
+You've now built the economic foundation of your world — the systems, currency, class structures, occupations, and pressures that shape daily life. With that foundation in place, it's time to return to the Invisible Ledger principle from the opening of this section and apply it directly to your characters and their romance.
+
+Consider what the Invisible Ledger reveals in your romance:
+
+- **Who owes more?** At the start of your story, which character has received more than they can repay? How does that debt change their behaviour — are they more guarded, more eager to prove themselves, more resentful?
+- **What can't be repaid with money?** A life saved, a secret kept, a reputation protected. These are debts that money can't settle, and that's where the tension lives.
+- **Where does helping start to feel like owning?** There is a tipping point where "I'm helping you" starts to feel like "I own you." The recipient may not be able to define the difference, but they sense it. Where is that line for your characters?
+- **What would balance the ledger?** What could the less powerful character offer or risk so their partner sees them as an equal? Sometimes it's competence. Sometimes it's emotional honesty. Sometimes it's the willingness to walk away, proving they're staying by choice.
+
+### The Key Question
+
+What's the single biggest entry on your characters' Invisible Ledger: the one debt, gift, or sacrifice that neither of them can forget? And what will it take for them to stop letting it define the relationship?
+
+**What's on your characters' Invisible Ledger?**
+
+**Map the emotional debt between your characters. What has been given or received, who gave, who owes, and how does the debt feel?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**When does the ledger stop mattering?**
+What moment, scene, or choice makes one or both characters decide they're done keeping score? This is your romantic turning point. Make it earn its weight.
+
+---
+
+### How Economics Works in Romantasy
+
+Economics in romantasy typically creates tension through imbalance, pressure, and transaction. Money isn't just money. It's power, security, freedom, and control.
+
+#### Economic Imbalance
+
+When one character has significantly more wealth than the other:
+
+- Power dynamics shift. Who depends on whom?
+- Generosity can feel like control
+- Pride and shame enter the relationship
+- The question "do they love me or my money?" haunts the wealthy
+
+#### Economic Pressure
+
+When financial necessity forces choices:
+
+- Arranged marriages for money or alliance
+- Accepting employment from a love interest
+- Choosing security over love (or love over security)
+- Debt creating obligation
+
+#### Economic Transaction
+
+When money or resources pass between lovers:
+
+- Gifts carry meaning beyond their value
+- Help can feel like charity
+- Refusal can feel like rejection
+- "I owe you" creates imbalance
+
+**Which economic force hits your romance hardest — imbalance, pressure, or transaction?**
+
+*Imbalance, pressure, and transaction often overlap, but one usually dominates. Naming it helps you write it with intention rather than accidentally.*
+
+**Which one dominates your story, and what specific scene does it drive?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### Common Patterns: Economics in Romantasy
+
+| Pattern | How It Works | What It Creates |
+|---|---|---|
+| The wealth gap | One character rich, one poor | Power imbalance; questions about motives |
+| The economic rescue | Wealthy character can solve poor character's problems | Gratitude vs. obligation; "am I being bought?" |
+| The arrangement | Financial necessity forces proximity | Forced proximity; "is this real?" |
+| The debt | One owes the other (money, life, service) | Obligation; when is the debt paid? |
+| The sacrifice | One gives up wealth/security for love | High stakes; proving love isn't about money |
+| The inheritance threat | Being together means losing fortune | External pressure; choosing love or security |
+
+**Which economic pattern(s) drive your romance?**
+
+*Most romances use one or two of these as primary engines and touch on others as secondary tension. Naming your pattern helps you build the right exercises and avoid the common mistake of having economic tension that's stated but never shown.*
+
+| Pattern | Primary or Secondary? | How It Appears in Your Story |
+|---|---|---|
+| The wealth gap | | |
+| The economic rescue | | |
+| The arrangement | | |
+| The debt | | |
+| The sacrifice | | |
+| The inheritance threat | | |
+
+These common themes show up consistently in commercially successful romantasy. The wealth gap provides the main conflict in *The Cruel Prince*, where Jude is a powerless mortal in a world of wealthy, powerful Fae, and her only capital is her ability to lie and her willingness to fight. Debt is also central to *ACOTAR*, where Feyre's bargain with Rhysand creates obligation that blurs into something else entirely. The arrangement appears in *From Blood and Ash*, where Poppy's role as the Maiden makes her a political and economic asset to be traded. And the sacrifice runs through *Bridgerton*, where characters repeatedly face the choice between advantageous matches and the people they actually want.
+
+It's interesting to note how many of these romances conclude. The romantic arc often acts as the vehicle for the subversion of class structures. Feyre is literally brought back to life by the High Lords, and her transition from a starving human to a High Lady represents a true "rags-to-riches" story fueled by her romantic entanglement within the upper echelon of society. Jude and Cardan's relationship subverts the hierarchical structure of the Fae by creating a mutually beneficial and equally politicised relationship that ultimately rejects the master-servant dynamic of Elfhame. Violet and Xaden's relationship in *Fourth Wing* bridges the gaps created by the various military factions, while Vin's relationship with Elend in *Mistborn* elevates her from being a street urchin to being the leader of a revolution through their shared Allomantic abilities. While the specific pattern is less important than what you do with it, how far you allow the economic factors to complicate the emotional factors involved in the romance and if the romance supports the status quo of the economy or if it disrupts it is really your main issue.
 
 ---
 

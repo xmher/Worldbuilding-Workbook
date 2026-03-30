@@ -15,9 +15,25 @@ The greatest romantasy stories use the cage to accomplish two things simultaneou
 
 Every decision in this section should serve the cage. When you choose a government type, you're choosing what the bars are made of. When you define your laws, you're deciding how strong those bars are. When you build your court, you're designing the space inside the cage where your characters must find each other while the world watches.
 
-**What is the iron cage around your romance?**
+---
 
-*The cage is the structural force that keeps your characters apart — not a personal flaw or misunderstanding, but a system, law, or political reality that doesn't care about their feelings. Name it specifically.*
+## A Note Before You Begin
+
+Not every question in this section will apply to your story. Skip what doesn't serve you.
+
+If politics is background in your book, keep it simple. Not every romantasy needs complex political intrigue. Develop just enough to make the world feel real.
+
+And politics can stay vague! Some stories work better with political structures that are felt rather than detailed. That's completely fine.
+
+---
+
+## Brain Dump: Your Political World
+
+Before diving into specifics, get your initial vision down. Don't overthink this — just write what you already see.
+
+**What do you already know about the political world of your story?**
+
+*Jot down anything — a throne, a war, a forbidden law, a court, rival nations, an uprising. Whatever is already in your head, no matter how vague.*
 
 _______________________________________________________________
 
@@ -25,9 +41,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Why can't your characters simply walk away from the cage?**
+_______________________________________________________________
 
-*An iron cage only works if leaving it would break something bigger than the relationship. What's at stake beyond the two of them?*
+_______________________________________________________________
+
+**What kind of political pressure does your romance need?**
+
+*Think about the story you want to tell. Does your romance need a law that forbids it? A war that divides the lovers? A court that watches their every move? A class system that makes their love scandalous? Name the pressure, even if you don't yet know the details.*
+
+_______________________________________________________________
 
 _______________________________________________________________
 
@@ -78,20 +100,6 @@ The trick to making politics serve your romance is understanding that every big 
 
 In the strongest romantasy, your characters are changed by both the romance and the political conflict working together. The love interest provides the emotional safety or vulnerability needed for the protagonist to face their internal wound, while the political conflict provides the impossible challenge that forces them to find their strength. These two catalysts work in tandem. If your character only grows through love, the political plot feels decorative. If they only grow through political conflict, the romance feels bolted on.
 
-**What does the romance force your protagonist to face emotionally?**
-
-*Your protagonist should grow through both the romance and the political conflict — not just one. If you can only fill in one of these, the other plotline may be decorative.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does the political conflict force your protagonist to face?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ### Political Situations That Create Romance
 
 | Pattern | How It Works | What It Creates |
@@ -114,39 +122,6 @@ _______________________________________________________________
 | Political rivals | Competing goals, zero-sum game | What would they sacrifice to win, or to love? |
 | Arranged spouses | Obligation without choice | When does duty become desire? |
 | Guard + Protected | Professional boundary, power difference | Can duty and love coexist? |
-
-**Which type of political pressure operates in your story?**
-
-*Most stories use more than one. Identify which apply and note the specifics.*
-
-| Pressure Type | Does It Apply? | How Specifically? |
-|---------------|---------------|-------------------|
-| *Prohibition (law forbids the relationship)* | *Yes — species law criminalises Fae/mortal unions* | *Marriage is void under Elfhame law; mortal has no legal standing* |
-| Prohibition (law forbids the relationship) | | |
-| Compulsion (political forces push them together) | | |
-| Stakes (what they risk by being together) | | |
-
-**Map your political stake to a romantic obstacle:**
-
-*Take the biggest political pressure in your story and translate it to the personal level. What does this political reality feel like in an intimate moment between your characters?*
-
-**What is the biggest political pressure in your story, and what does it feel like during an intimate moment?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-## A Note Before You Begin
-
-Not every question in this section will apply to your story. Skip what doesn't serve you.
-
-If politics is background in your book, keep it simple. Not every romantasy needs complex political intrigue. Develop just enough to make the world feel real.
-
-And politics can stay vague! Some stories work better with political structures that are felt rather than detailed. That's completely fine.
 
 ---
 
@@ -2304,6 +2279,67 @@ _______________________________________________________________
 **What's lost even if they win?**
 
 Revolution isn't clean. Lives lost? Stability destroyed? Becoming what they fought?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
+## Apply the Iron Cage Principle
+
+Now that you've built your political world — government, laws, rulers, factions, courts, and conflicts — return to the Iron Cage. Everything you've developed in this section should serve the cage around your romance. Use what you've built to answer these questions with specificity.
+
+**What is the iron cage around your romance?**
+
+*The cage is the structural force that keeps your characters apart — not a personal flaw or misunderstanding, but a system, law, or political reality that doesn't care about their feelings. Name it specifically.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Why can't your characters simply walk away from the cage?**
+
+*An iron cage only works if leaving it would break something bigger than the relationship. What's at stake beyond the two of them?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Which type of political pressure operates in your story?**
+
+*Most stories use more than one. Identify which apply and note the specifics.*
+
+| Pressure Type | Does It Apply? | How Specifically? |
+|---------------|---------------|-------------------|
+| *Prohibition (law forbids the relationship)* | *Yes — species law criminalises Fae/mortal unions* | *Marriage is void under Elfhame law; mortal has no legal standing* |
+| Prohibition (law forbids the relationship) | | |
+| Compulsion (political forces push them together) | | |
+| Stakes (what they risk by being together) | | |
+
+**Map your political stake to a romantic obstacle:**
+
+*Take the biggest political pressure in your story and translate it to the personal level. What does this political reality feel like in an intimate moment between your characters?*
+
+**What is the biggest political pressure in your story, and what does it feel like during an intimate moment?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What does the romance force your protagonist to face emotionally?**
+
+*Your protagonist should grow through both the romance and the political conflict — not just one. If you can only fill in one of these, the other plotline may be decorative.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What does the political conflict force your protagonist to face?**
 
 _______________________________________________________________
 

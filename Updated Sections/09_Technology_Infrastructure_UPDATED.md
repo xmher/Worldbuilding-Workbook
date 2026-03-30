@@ -21,15 +21,29 @@ Effective romantasy technology choices do both simultaneously. The snowbound inn
 
 Your most powerful romantic technology choices will also create asymmetry: one character has some advantage over the other in terms of access to information or resources. She can send messages through enchanted mirrors; he has to wait for a letter that takes three weeks. He lives in a palace with locked doors; she sleeps in a crowded room with four other people. Think of Feyre arriving in Prythian in *A Court of Thorns and Roses*, suddenly immersed in a world of Fae magic, wealth, and technology she's never encountered, unable to read the simplest sign. This disparity between what Tamlin views as normal and what overwhelms Feyre drives their early dynamic. His world is alien, and her disorientation creates both vulnerability and resentment. The disparity between worlds creates friction, dependency, and curiosity; all the raw material romance is built from.
 
-**What are the key technology constraints in your world?**
-*The Constraint Engine principle says every technology choice either adds or removes an obstacle between your characters. The most powerful choices do both: they force proximity (containment) while creating emotional intensity (conversion). Map your world's biggest technology constraints and identify what each one does to your romance.*
+As you work through this section, keep the Constraint Engine principle in mind. Before you can map your world's romantic constraints, though, you need to know what technology actually exists. The questions that follow will help you establish that foundation, starting with the big picture and working toward the specific, personal, and emotional.
 
-| Technology Constraint | Containment (how it forces proximity) | Conversion (how proximity becomes emotional) | Asymmetry (does one character have an advantage?) |
-|---|---|---|---|
-| *Dragon bond requires physical proximity (Fourth Wing)* | *Riders must stay within range of each other's dragons* | *Forced closeness lets suspicion become reluctant trust* | *Xaden understands the bond; Violet is learning* |
-| | | | |
-| | | | |
-| | | | |
+**What's on your mind right now?**
+*Before diving into the detailed questions, take a moment to jot down your initial instincts about technology in your world. What do you already know or sense about how things work? Don't worry about being precise — just get the vision down.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**What feels easy in your world, and what feels hard?**
+*Think about the basics: getting from one place to another, sending a message, staying warm, staying safe. Which of these come easily to your characters, and which require effort, sacrifice, or luck?*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -45,17 +59,6 @@ Technology affects romance through five key channels. When you're building your 
 | **Vulnerability** | What can hurt or kill them | High stakes, caretaking intimacy, real danger | Different stakes needed, emotional vulnerability |
 | **Identity** | What can be proven or hidden | Fluid identity, secret marriages, reinvention | Accountability, inescapable pasts |
 
-**How does your world rate on each of these five channels?**
-*For each channel, note whether your world leans low-tech or high-tech and what that creates for your characters.*
-
-| Channel | Low or High in Your World? | What It Creates for Your Romance |
-|---|---|---|
-| Distance | | |
-| Communication | | |
-| Privacy | | |
-| Vulnerability | | |
-| Identity | | |
-
 Here's what these patterns look like on the page.
 
 The strongest romantic technology constraints produce what you might call *micro-intimacy with interruption*: touch that must be hidden, words that must be delayed, care that must be given without claiming ownership. The interruption keeps the barrier intact while still feeding the relationship, which is why stolen moments under surveillance land harder than leisurely conversations in safety. If you can only touch for three seconds before someone rounds the corner, those three seconds carry the weight of an entire scene.
@@ -69,14 +72,7 @@ The strongest romantic technology constraints produce what you might call *micro
 | Weak documentation | Secret marriages, hidden identities | A union no one can prove, or disprove |
 | Technology gap between characters | Dependency, wonder, shame, teaching moments | A character who's never seen running water arriving in a palace with enchanted plumbing, culture shock as romantic vulnerability |
 
-**What does micro-intimacy look like for your characters?**
-*The strongest romantic technology constraints produce touch that must be hidden, words that must be delayed, and care that must be given without claiming ownership. The interruption keeps the barrier intact while feeding the relationship. If your characters can only touch for three seconds before someone rounds the corner, those three seconds carry the weight of an entire scene.*
-
-| Moment | What the micro-intimacy looks like | What interrupts it | What it reveals about the relationship |
-|---|---|---|---|
-| *Jude and Cardan's kiss (The Cruel Prince)* | *A single kiss, immediately re-contained* | *Exposure is too dangerous at court* | *Desire exists but must be suppressed* |
-| | | | |
-| | | | |
+Keep these channels and patterns in mind as you work through the sections ahead. You'll return to apply them directly to your world once you've established what technology actually exists.
 
 ---
 
@@ -1189,6 +1185,42 @@ What does one have that the other doesn't?
 &nbsp;
 
 &nbsp;
+
+---
+
+## The Emotional Layer: Apply the Constraint Engine
+
+Now that you've built the physical, social, and technological reality of your world, it's time to return to the Constraint Engine principle from the opening of this section. You now know what technology exists, who has access to it, and how it shapes daily life. That means you can map the romantic consequences with specificity rather than guessing.
+
+**What are the key technology constraints in your world?**
+*The Constraint Engine principle says every technology choice either adds or removes an obstacle between your characters. The most powerful choices do both: they force proximity (containment) while creating emotional intensity (conversion). Map your world's biggest technology constraints and identify what each one does to your romance.*
+
+| Technology Constraint | Containment (how it forces proximity) | Conversion (how proximity becomes emotional) | Asymmetry (does one character have an advantage?) |
+|---|---|---|---|
+| *Dragon bond requires physical proximity (Fourth Wing)* | *Riders must stay within range of each other's dragons* | *Forced closeness lets suspicion become reluctant trust* | *Xaden understands the bond; Violet is learning* |
+| | | | |
+| | | | |
+| | | | |
+
+**How does your world rate on each of the five romantic channels?**
+*For each channel, note whether your world leans low-tech or high-tech and what that creates for your characters.*
+
+| Channel | Low or High in Your World? | What It Creates for Your Romance |
+|---|---|---|
+| Distance | | |
+| Communication | | |
+| Privacy | | |
+| Vulnerability | | |
+| Identity | | |
+
+**What does micro-intimacy look like for your characters?**
+*The strongest romantic technology constraints produce touch that must be hidden, words that must be delayed, and care that must be given without claiming ownership. The interruption keeps the barrier intact while feeding the relationship. If your characters can only touch for three seconds before someone rounds the corner, those three seconds carry the weight of an entire scene.*
+
+| Moment | What the micro-intimacy looks like | What interrupts it | What it reveals about the relationship |
+|---|---|---|---|
+| *Jude and Cardan's kiss (The Cruel Prince)* | *A single kiss, immediately re-contained* | *Exposure is too dangerous at court* | *Desire exists but must be suppressed* |
+| | | | |
+| | | | |
 
 ---
 

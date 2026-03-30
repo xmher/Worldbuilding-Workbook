@@ -19,8 +19,8 @@ This is why language works so powerfully in romance. It doesn't just create a pr
 
 Build language that creates both barriers and bridges. Make your characters work to understand each other, and make that work meaningful.
 
-**Where do your characters start and end on this progression?**
-*Language intimacy builds in stages. Mark the ones present in your story and note when each happens — these become scenes to write. Stages might include: complete inability to communicate, halting exchanges, functional but nuance-missing conversation, real conversation (arguing, joking, confessing), private language only they share, and silence that says everything.*
+**What languages exist in your world, and what barriers do they create?**
+*Before diving into how language works between your characters, get the big picture down. How many languages are there? Is there a common tongue? What's the first barrier your protagonist encounters?*
 
 *(Write your answer below)*
 
@@ -30,37 +30,8 @@ Build language that creates both barriers and bridges. Make your characters work
 
 &nbsp;
 
----
-
-## Language as a Romantic Toolkit
-
-Most writers think about language as a single tool: the language barrier. But language actually gives you a whole toolkit of romantic dynamics, each creating a different flavour of tension. The real craft is matching the right language pattern to the emotional beat you need.
-
-| Language Pattern | How It Works | What It Creates for Romance |
-|---|---|---|
-| Language barrier | Characters can't communicate freely | Vulnerability, forced trust, slow-burn intimacy through learning |
-| Private language | Words, codes, or signals only they share | Exclusivity, a world that belongs to just them |
-| Code-switching | Characters speak differently in different contexts | Hidden selves revealed; hearing their "real" voice becomes intimate |
-| Silence | What goes unsaid between them | Tension, longing, the weight of unspoken feeling |
-| Language learning | One teaches, one learns | Investment, patience, power dynamics, care made visible |
-| Translation | A third party mediates their words | Vulnerability, potential manipulation, longing to speak directly |
-| Accent/dialect | How they sound marks who they are | Class tension, belonging vs. outsider status, attraction to difference |
-| True names | Names that carry power or vulnerability | Ultimate trust, giving someone power over you |
-
-The key question isn't *what languages exist in your world*. It's this: what language barriers exist between your characters? What private communication methods do they develop? And what does learning each other's language mean for intimacy?
-
-### Character Pairings with Built-In Linguistic Tension
-
-| Pairing Dynamic | Language Creates... | Example |
-|---|---|---|
-| Conqueror / conquered | The dominant language erases the other's; learning the "lesser" tongue is an act of respect or rebellion | Jude in *The Cruel Prince*, a human raised speaking Fae, fluent in a tongue that belongs to her captors |
-| Court noble / commoner | "Proper" vs. "common" speech; code-switching reveals which world they belong in | Sophie in *An Offer from a Gentleman*, whose refined accent makes Benedict suspicious she's not really a maid |
-| Different species/realms | Fundamentally different communication; magic, gesture, or empathy bridges the gap | Feyre and Rhysand in *ACOTAR*, where the daemati mind-link bypasses spoken language entirely |
-| Scholar / illiterate | Power imbalance in written communication; teaching becomes intimate or condescending | Penelope in *Romancing Mister Bridgerton*, whose secret writing life as Whistledown gives her power Colin never suspected |
-| Spy / mark | Language as weapon; fluency is deception, and the truth of accent or mother tongue slips out under pressure | Casteel in *From Blood and Ash*, who poses as "Hawke" so convincingly that Poppy falls in love with a persona |
-
-**Which 2--3 language patterns from the table above are you using?**
-*For each one, note how it works between your characters and what specific scene or dynamic it creates.*
+**What role does language play in your story's central relationship?**
+*Is there a language barrier between your characters? Do they share a tongue but speak it differently? Is communication itself part of the tension, or is it something else — silence, lies, private codes?*
 
 *(Write your answer below)*
 
@@ -1167,6 +1138,61 @@ Not just words, but meaning. This moment often lands near the emotional climax o
 _______________________________________________________________
 
 _______________________________________________________________
+
+---
+
+## Language as a Romantic Toolkit
+
+Most writers think about language as a single tool: the language barrier. But language actually gives you a whole toolkit of romantic dynamics, each creating a different flavour of tension. The real craft is matching the right language pattern to the emotional beat you need.
+
+| Language Pattern | How It Works | What It Creates for Romance |
+|---|---|---|
+| Language barrier | Characters can't communicate freely | Vulnerability, forced trust, slow-burn intimacy through learning |
+| Private language | Words, codes, or signals only they share | Exclusivity, a world that belongs to just them |
+| Code-switching | Characters speak differently in different contexts | Hidden selves revealed; hearing their "real" voice becomes intimate |
+| Silence | What goes unsaid between them | Tension, longing, the weight of unspoken feeling |
+| Language learning | One teaches, one learns | Investment, patience, power dynamics, care made visible |
+| Translation | A third party mediates their words | Vulnerability, potential manipulation, longing to speak directly |
+| Accent/dialect | How they sound marks who they are | Class tension, belonging vs. outsider status, attraction to difference |
+| True names | Names that carry power or vulnerability | Ultimate trust, giving someone power over you |
+
+The key question isn't *what languages exist in your world*. It's this: what language barriers exist between your characters? What private communication methods do they develop? And what does learning each other's language mean for intimacy?
+
+### Character Pairings with Built-In Linguistic Tension
+
+| Pairing Dynamic | Language Creates... | Example |
+|---|---|---|
+| Conqueror / conquered | The dominant language erases the other's; learning the "lesser" tongue is an act of respect or rebellion | Jude in *The Cruel Prince*, a human raised speaking Fae, fluent in a tongue that belongs to her captors |
+| Court noble / commoner | "Proper" vs. "common" speech; code-switching reveals which world they belong in | Sophie in *An Offer from a Gentleman*, whose refined accent makes Benedict suspicious she's not really a maid |
+| Different species/realms | Fundamentally different communication; magic, gesture, or empathy bridges the gap | Feyre and Rhysand in *ACOTAR*, where the daemati mind-link bypasses spoken language entirely |
+| Scholar / illiterate | Power imbalance in written communication; teaching becomes intimate or condescending | Penelope in *Romancing Mister Bridgerton*, whose secret writing life as Whistledown gives her power Colin never suspected |
+| Spy / mark | Language as weapon; fluency is deception, and the truth of accent or mother tongue slips out under pressure | Casteel in *From Blood and Ash*, who poses as "Hawke" so convincingly that Poppy falls in love with a persona |
+
+**Which 2--3 language patterns from the table above are you using?**
+*For each one, note how it works between your characters and what specific scene or dynamic it creates.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### The Bridge & Barrier Progression
+
+Now that you've built your world's languages, communication systems, and the emotional landscape between your characters, return to the Bridge & Barrier Principle from the opening of this section. Map where your characters start and where they end.
+
+**Where do your characters start and end on this progression?**
+*Language intimacy builds in stages. Mark the ones present in your story and note when each happens — these become scenes to write. Stages might include: complete inability to communicate, halting exchanges, functional but nuance-missing conversation, real conversation (arguing, joking, confessing), private language only they share, and silence that says everything.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ---
 

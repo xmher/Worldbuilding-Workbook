@@ -22,15 +22,13 @@ What does your character take for granted that love will make them realise?
 
 The invisible cage works because culture creates identity. Disobeying the law is an action. Defying your culture is an identity crisis. When your characters choose to follow their heart rather than their traditions, they are not merely breaking rules. They're creating an entirely new identity for themselves, and that *is* the story.
 
-### The Key Question
+### Brain Dump: What Does Your Culture Look Like?
 
-What does your character believe is "just how things are" at the start of the story? What will falling for this person force them to see differently?
+Before mapping how culture creates romantic tension, get your initial vision down. What kind of society are your characters living in?
 
-**Map your character's invisible cage:**
+**Describe your world's culture in broad strokes.**
 
-*The invisible cage only becomes visible when your character wants something on the other side of the bars. This is the moment when culture stops being background and becomes the central obstacle of your romance.*
-
-**For each character: What rule do they follow without thinking? What moment makes them see the cage? What do they lose by seeing it, and what do they gain?**
+*What kind of society is this? What are the big rules everyone follows? What does daily life feel like? Don't worry about details yet — just get the general picture on the page.*
 
 *(Write your answer below)*
 
@@ -39,6 +37,16 @@ What does your character believe is "just how things are" at the start of the st
 &nbsp;
 
 &nbsp;
+
+**What are the most important social rules people follow without questioning them?**
+
+*Think about hierarchy, gender, class, religion, family — what do people accept as "just the way things are"?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 
@@ -60,14 +68,6 @@ The rules your characters must navigate or break:
 - Reputation systems where being seen together causes damage
 - Family involvement that creates external opposition
 
-**Which of these obstacles exist in your world?**
-
-*Pick the ones that apply and note how they show up in your story.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ### Culture as Opportunity
 
 The customs that create romantic moments:
@@ -77,14 +77,6 @@ The customs that create romantic moments:
 - Gift-giving traditions that let characters express interest
 - Ceremonies that force proximity
 - Traditions that create meaningful gestures
-
-**What cultural traditions in your world create opportunities for closeness?**
-
-*Think about festivals, dances, ceremonies, or gift-giving customs that give characters an excuse to be near each other.*
-
-_______________________________________________________________
-
-_______________________________________________________________
 
 ### Culture as Revelation
 
@@ -96,14 +88,6 @@ How characters interact with cultural expectations shows who they are:
 
 Some of the most interesting romantic tension comes from pairing characters who relate to their culture differently. One who embodies its values, one who challenges them.
 
-**How does each character relate to their culture's rules?**
-
-*Do they follow the rules because they believe, or because they fear? Do they break rules on impulse or on purpose? Pairing characters who relate to culture differently creates natural tension.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ### Common Patterns: Culture in Romantasy
 
 | Pattern | How It Works | What It Creates |
@@ -114,6 +98,52 @@ _______________________________________________________________
 | The chaperoned dance | Must interact under watchful eyes | Stolen glances; coded communication |
 | The festival exception | One night when rules relax | Pivotal scenes; masks and anonymity |
 | The cultural mistranslation | Gesture means different things in different cultures | Misunderstanding; revelation when explained |
+
+**Which of these obstacles exist in your world?**
+
+*Pick the ones that apply from the lists and table above, and note how they show up.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What cultural traditions in your world create opportunities for closeness?**
+
+*Think about festivals, dances, ceremonies, or gift-giving customs that give characters an excuse to be near each other.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+### Applying the Principle: The Invisible Cage
+
+Now that you've established what your culture looks like, return to the Invisible Cage principle from above.
+
+### The Key Question
+
+What does your character believe is "just how things are" at the start of the story? What will falling for this person force them to see differently?
+
+**Map your character's invisible cage:**
+
+*The invisible cage only becomes visible when your character wants something on the other side of the bars. This is the moment when culture stops being background and becomes the central obstacle of your romance.*
+
+**For each character: What rule do they follow without thinking? What moment makes them see the cage? What do they lose by seeing it, and what do they gain?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**How does each character relate to their culture's rules?**
+
+*Do they follow the rules because they believe, or because they fear? Do they break rules on impulse or on purpose? Pairing characters who relate to culture differently creates natural tension.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 **Which 2-3 patterns from the table above show up in your world?**
 
@@ -223,16 +253,6 @@ List 3-5 core values in order of importance:
 
 5. _______________________________________________________________
 
-**How do these values create tension for your characters?**
-
-*Think about where your characters' values clash -- with each other's, or with what love demands.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 **What does your culture consider shameful or dishonorable?**
 
 The flip side of values — what brings disgrace:
@@ -254,6 +274,16 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
+
+**How do these values create tension for your characters?**
+
+*Think about where your characters' values clash -- with each other's, or with what love demands.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 **What value must your characters give up to be together?**
 
@@ -285,6 +315,14 @@ Don't overlook the costs associated with conformity, either. There may be mental
 &nbsp;
 
 &nbsp;
+
+**How can you tell someone's social class just by looking at them?**
+
+*Think about clothing, posture, speech patterns, where they walk, what they carry. What signals status at a glance?*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 **How do gender expectations limit your protagonist? Your love interest?**
 
@@ -319,14 +357,6 @@ _______________________________________________________________
 **What happens when the "wrong" person takes the lead in courtship?**
 
 *What happens when someone defies the expected courtship dynamic -- the woman proposing, the lower-status person initiating? The reaction shows how rigid your culture really is.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How can you tell someone's social class just by looking at them?**
-
-*Think about clothing, posture, speech patterns, where they walk, what they carry. What signals status at a glance?*
 
 _______________________________________________________________
 
@@ -867,6 +897,14 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**What threshold rituals exist in your world?**
+
+*The more elaborate the welcoming ritual, the greater the weight when it's violated. What must happen when a guest arrives — and what does it mean when someone skips a step?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **How does your protagonist's guest status affect the romance?**
 
 Are they a willing guest, a reluctant one, or a prisoner in all but name? How does the power imbalance of guest and host shape the early dynamic between your characters?
@@ -884,14 +922,6 @@ _______________________________________________________________
 | The gilded cage (luxury without autonomy) | | |
 | The host's exposure (home reveals truth) | | |
 | The violation (broken contract, deeper betrayal) | | |
-
-**What threshold rituals exist in your world?**
-
-*The more elaborate the welcoming ritual, the greater the weight when it's violated. What must happen when a guest arrives — and what does it mean when someone skips a step?*
-
-_______________________________________________________________
-
-_______________________________________________________________
 
 ---
 
@@ -2138,6 +2168,14 @@ The environment created by festivals gives characters an excuse to be different 
 
 &nbsp;
 
+**Do festivals allow any relaxation of normal rules?**
+
+Masquerades where identity is hidden? Festivals where class mingles? Nights when normal rules are suspended?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **Which festival provides a romantic opportunity for your characters, and why?**
 
 _______________________________________________________________
@@ -2151,14 +2189,6 @@ _______________________________________________________________
 Describe the scene:
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Do festivals allow any relaxation of normal rules?**
-
-Masquerades where identity is hidden? Festivals where class mingles? Nights when normal rules are suspended?
 
 _______________________________________________________________
 

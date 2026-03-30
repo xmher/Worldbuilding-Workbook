@@ -23,19 +23,19 @@ If your magic only provides benefits then it's uninteresting. Magic that helps a
 
 Design your magical system based off of one question -- what does it cost? The answer to that will help you design the rest of the world around it.
 
-**What is the most personal price your protagonist has paid for their magic?**
+**What can magic do in your world? In a few sentences, describe the big picture.**
 
-*Not physical exhaustion -- the costs that matter most are emotional, relational, or moral. Rhysand's price for protecting his people was fifty years of abuse. Poppy's gift means absorbing others' pain into her own body. What has your protagonist's magic cost them beyond tiredness?*
-
-_______________________________________________________________________________
+*Don't worry about rules yet -- just get the vision down. What does magic look like in your world? Is it flashy and elemental, subtle and psychological, biological and inherited? What's the first image that comes to mind when you think of magic in your story?*
 
 _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**How does that personal cost affect the way your protagonist approaches closeness?**
+_______________________________________________________________________________
 
-*A character who's been burned by what magic demands will have specific fears about letting someone in. Do they keep people at arm's length to protect them? Do they hide what they've sacrificed? Does the cost make them reluctant to use their power for someone they care about — or desperate to use it despite the price?*
+**Who has access to magic? How common is it?**
+
+*Is nearly everyone magical, or is it rare and feared? Is it inherited, learned, granted, or stolen? A quick sketch here will anchor everything that follows.*
 
 _______________________________________________________________________________
 
@@ -54,52 +54,6 @@ Magic in romantasy serves three functions simultaneously. Understanding all thre
 | **Romance Catalyst** | Creates intimacy, obstacles, vulnerability, and private connection | Rhysand using winnowing to send Feyre private notes, turning transportation magic into intimacy |
 
 Not every magical ability needs to directly advance the romance. Winnowing in *ACOTAR* is transportation magic. There's nothing inherently romantic about it. But Rhysand uses it to send Feyre notes, appearing and disappearing paper and pen so they can have a private conversation across distance. The intimacy isn't built into the magic. It comes from the choice to use his power that way.
-
-**How might your characters use the magic they already have to reach each other?**
-
-### How Magic Creates Romantic Tension
-
-| Pattern | How It Works | What It Creates |
-|---|---|---|
-| **Dangerous Power** | One character's magic could hurt the other | Fear of closeness, protective distance, trust as turning point |
-| **Forbidden Magic** | One character's abilities are illegal or condemned | Secrets, risk of discovery, confession as intimacy |
-| **Power Imbalance** | One character is vastly more powerful | Protection vs. agency, the choice to hold back, vulnerability from the powerful one |
-| **Complementary Magic** | Their abilities work together | Partnership, needing each other, combined power as metaphor for relationship |
-| **Opposing Magic** | Their abilities clash or cancel each other | Literal incompatibility they must overcome, danger when close |
-| **Costly Magic** | Using power demands sacrifice | Choosing to pay the price for someone, hidden suffering, protective secrecy |
-| **Bonds & Marks** | Magic itself declares connection | Destiny vs. choice, compulsion vs. desire, the work the bond can't do |
-| **Revealing Magic** | Power use exposes who someone truly is | Seeing what others miss, vulnerability during casting, private knowledge |
-
-**Which romantic tension patterns from the table above apply to your story?**
-
-*Most romances use two or three simultaneously. For each one you're using, describe how it shows up between your characters. If you're not sure yet, pick the one that excites you most.*
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-### Character Pairing Dynamics
-
-| Dynamic | Built-In Tension | Example |
-|---|---|---|
-| Powerful + Powerless | Who protects whom? Does the powerful one hold back or overwhelm? | *ACOTAR*: Rhysand's power vs. early Feyre's mortality |
-| Forbidden + Hunter | His identity is built on destroying what she is | *Serpent & Dove*: Lou the witch, Reid the witch hunter |
-| Bonded Enemies | The magic says together; everything else says apart | Enemies-to-lovers with fated bonds |
-| Complementary Opposites | Magically designed to be partners, emotionally unable to trust | *Gideon the Ninth*: necromancer + cavalier |
-| Equally Matched | Neither can overpower the other; must negotiate | Rivals-to-lovers with matched abilities |
-| Hidden Power | One conceals abilities the other would fear or covet | Secret identity + slow reveal |
-
-**Which pairing dynamic best describes your leads?**
-
-*If none of these fit exactly, describe your own. The important thing is naming the built-in tension your pairing creates, because that tension will drive scenes before you've written a single line of dialogue.*
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
 
 ---
 
