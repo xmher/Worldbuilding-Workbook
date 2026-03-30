@@ -1307,9 +1307,6 @@ The best scenes that show a history-reveal are all structured similarly: a trigg
 
 &nbsp;
 
-**Map the structure of your history-reveal scene:**
-*The best reveals follow a specific architecture. Use the prose above to check that your reveal has all the structural elements that make it land.*
-
 **What does the reveal cost the speaker, and how does the listener visibly respond?**
 *Check each structural element: What forces the reveal? Where does it happen? What does the speaker risk by sharing? What does the listener do (not just feel -- do)? How does their relationship change? Does the listener get space to process before choosing to return?*
 
@@ -1424,8 +1421,6 @@ The ancient character has seen patterns repeat, loved and lost countless times, 
 &nbsp;
 
 &nbsp;
-
-**The mortal character:**
 
 **What does the mortal character bring to someone who has seen centuries?**
 *Do they feel insignificant next to all that history, or do they offer something the ancient one has lost -- urgency, freshness, a reason to care again? How aware are they of their own mortality in this relationship?*

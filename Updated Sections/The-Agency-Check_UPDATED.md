@@ -150,9 +150,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Is their bond only about survival, or does it include genuine emotional intimacy?**
+**What do your characters share when no one is trying to kill them?**
 
-*Danger bonds are real, but they need more than shared adrenaline to sustain a romance past the threat. If your characters only connect when someone is trying to kill them, the relationship may feel thin once the threat passes. What emotional intimacy exists between the action beats?*
+*Danger bonds are real, but they need more than shared adrenaline to sustain a romance past the threat. If your characters only connect during action scenes, the relationship may feel thin once the threat passes. What quiet emotional intimacy exists between the action beats?*
 
 _______________________________________________________________
 
@@ -550,9 +550,9 @@ Power imbalances are simply a part of the romantic genre, and can create some of
 
 *Add more rows as needed — most romances have at least 4–5 types of power in play.*
 
-**Does the power dynamic shift during the story?**
+**How does the power balance change over the course of the story?**
 
-*A static power imbalance where the powerful character stays on top and the less powerful character never gains ground makes the romance feel like a benevolent dictatorship, not a partnership. Describe how the balance changes.*
+*A static power imbalance where the powerful character stays on top and the less powerful character never gains ground makes the romance feel like a benevolent dictatorship, not a partnership. Describe how the balance shifts.*
 
 The best power-imbalanced romances don't stay static. The dynamic should shift, complicate, even reverse over the course of the story. If the powerful character starts on top and stays there, the less powerful character's agency is going to be in question.
 
