@@ -1405,6 +1405,24 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**Are unmarried people allowed to be alone together?**
+
+If no — who must be present? Under what circumstances can they be unchaperoned?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**If they ARE alone together, what does that imply?**
+
+Does it automatically suggest impropriety? Is their reputation ruined? Are they now obligated to marry?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
 **When do your characters first break the touch barrier?**
 
 Describe the scene — what boundary do they cross? Was it intentional or accidental? How do they react?
@@ -1427,16 +1445,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
----
-
-**Are unmarried people allowed to be alone together?**
-
-If no — who must be present? Under what circumstances can they be unchaperoned?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 **Who acts as chaperone for your characters?**
 
 Is this person sympathetic, oblivious, or hostile to the romance?
@@ -1450,14 +1458,6 @@ _______________________________________________________________
 What excuses, distractions, or locations allow them to be alone?
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**If they ARE alone together, what does that imply?**
-
-Does it automatically suggest impropriety? Is their reputation ruined? Are they now obligated to marry?
 
 _______________________________________________________________
 
