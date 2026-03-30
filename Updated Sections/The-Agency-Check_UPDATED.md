@@ -757,11 +757,9 @@ Small choices in oppressive worlds can be as powerful as dramatic choices in fre
 
 _______________________________________________________________
 
-**Do readers from our world need context to understand why their choices matter?**
+**Would a modern reader understand why this choice is dangerous without you explaining it?**
 
-*If your world restricts choice in ways that modern readers might not immediately understand, you'll need to show the consequences for others who've defied the system. Readers need to see what's at stake before the protagonist risks it.*
-
-If choice is rare in your world, make sure readers understand what choosing costs. You can't assume they'll automatically grasp the weight of a small rebellion unless you've shown them what the consequences look like for people who defy the system.
+*If your world restricts choice in ways that modern readers might not immediately grasp, you'll need to show the consequences for others who've defied the system. Readers need to see what's at stake before the protagonist risks it.*
 
 _______________________________________________________________
 
@@ -792,6 +790,14 @@ Your romantic bond will fall somewhere along this spectrum:
 **Where does your bond sit on this spectrum?**
 
 *Knowing your position helps you calibrate how much agency work your story needs. Full compulsion requires the most; choice within fate requires moderate work; fate as conflict builds agency into the premise.*
+
+_______________________________________________________________
+
+**What does the bond feel like to your characters -- physically, emotionally?**
+
+*Hint: A warmth in the chest, a tug behind the ribs, a voice they can't shut out? Sensory details make bonds real on the page and help readers feel the pull your characters are choosing to follow or resist.*
+
+_______________________________________________________________
 
 _______________________________________________________________
 

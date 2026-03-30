@@ -1239,7 +1239,6 @@ The best history-as-weapon scenes occur when a character uses the past to throw 
 ### Your Characters' Arsenal
 
 **What historical ammunition does your protagonist carry?**
-What can they throw at the love interest during their worst arguments? Their family name? Their people's crimes? Their species' history of oppression?
 
 **What can they throw at the love interest during their worst arguments?**
 *Name the accusation, when they reach for it, and what fear drives them to use it.*
@@ -1253,7 +1252,6 @@ What can they throw at the love interest during their worst arguments? Their fam
 &nbsp;
 
 **What historical ammunition does your love interest carry?**
-What's their trump card? What historical fact can they invoke that the protagonist has no answer for?
 
 **What is the love interest's trump card?**
 *What historical fact can they invoke that the protagonist has no answer for? When do they reach for it, and what are they really afraid of?*
@@ -1357,7 +1355,7 @@ Feyre's role as the new High Lady of Prythian is used to symbolise the end of th
 A reconciliation that comes at no cost is unearned. The cost could include exile, losing a family member, changing who you once were or realising your people were wrong. The larger the historical weight, the larger the price tag should be.
 
 **How does your romance resolve the historical conflict?**
-The reconciliation between your characters needs to work on multiple levels. If they get together personally but the world doesn't change, readers feel cheated. Map how you're planning to earn it.
+*The reconciliation needs to work on multiple levels. If they get together personally but the world doesn't change, readers feel cheated.*
 
 **How does your story earn its resolution?**
 *Check each element from the table above: reciprocal sacrifice, gradual pacing, a shared enemy or truth, both public and private resolution, and structural change. Which ones does your story deliver, and which need work?*
