@@ -707,6 +707,14 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**How does their choice ripple outward -- who else is affected by what they decide?**
+
+*Hint: The best romantasy endings don't just resolve the couple's story. Their choice to be together (or to sacrifice) changes something for other people too.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **What does this final choice cost them, and how do readers see it?**
 
 *The cost is what makes the earned ending feel earned. What do they sacrifice, risk, or give up in this final moment? If the cost happens offscreen or is never mentioned again, it doesn't register as real.*
