@@ -2436,7 +2436,9 @@ _______________________________________________________________
 
 ## Integration Check
 
-**How does culture connect to other parts of your world? Consider: How does government enforce cultural norms? How does magic interact with cultural customs? What cultural norm conflicts with your magic system? How do economic realities constrain your characters? What customs have religious origins? How does your culture's attitude toward desire affect your romance's pacing?**
+**How does culture connect to the rest of your world?**
+
+*Pick the connections that matter most for your story: How does government enforce cultural norms? How does magic interact with customs? How do economic realities shape what people can do? What customs have religious origins?*
 
 *(Write your answer below)*
 

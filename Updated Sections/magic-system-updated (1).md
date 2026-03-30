@@ -426,6 +426,16 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
+**Does using magic leave any lasting marks on the body -- scars, changes in appearance, physical signs of power?**
+
+*Glowing eyes, silver-streaked hair, branded palms, veins that darken during casting. Physical marks of magic make power visible and can become symbols of identity, stigma, or beauty depending on who's looking.*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
 **How might the process of using magic create vulnerable or intimate moments between your leads?**
 
 *Think about what using magic requires: concentration that leaves you exposed, physical contact that could become charged, emotional openness that drops your guard. Any of these could turn a practical moment into a personal one.*
@@ -843,8 +853,19 @@ Every limitation creates story opportunities. Which constraints will force your 
 
 ☐ Consent/Will: _____________________________________________________________
 
+**What everyday problems does magic not solve?**
+
+*Even in a magical world, some things remain hard. Does magic heal wounds but not grief? Grow crops but not end drought? Build walls but not trust? The gaps where magic falls short reveal what your characters and society still struggle with.*
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
+_______________________________________________________________________________
+
 **Are there things magic can technically do, but nobody attempts because the cost or risk is too high?**
-Forbidden-but-possible magic creates temptation. What might your protagonist be desperate enough to try?
+
+*Forbidden-but-possible magic creates temptation. What might your protagonist be desperate enough to try?*
 
 _______________________________________________________________________________
 

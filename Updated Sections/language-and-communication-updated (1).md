@@ -679,6 +679,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**How do people use body language and physical space in your world?**
+*How close do people stand when talking? Is touch between strangers normal or taboo? Do different cultures or species have different body language norms that could cause misunderstandings?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **What expressions or gestures does the protagonist learn to read in the love interest?**
 The small signs of their moods, needs, feelings. What do they notice first, and what takes months to decode?
 
@@ -839,8 +846,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**Are there things that can't or shouldn't be written down?**
+*Forbidden texts, censored ideas, sacred words that lose power when written, or secrets too dangerous to put on paper? What happens to someone caught writing or possessing them?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **If one character is literate and the other isn't, how does this affect them?**
-Does the literate one teach? Is there a power imbalance? Shame? Practical problems? Teaching someone to read is as intimate as teaching them your language.
+*Does the literate one teach? Is there a power imbalance? Shame? Practical problems? Teaching someone to read is as intimate as teaching them your language.*
 
 _______________________________________________________________
 

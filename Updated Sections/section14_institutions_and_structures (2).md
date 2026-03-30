@@ -1188,18 +1188,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Do your characters believe in the institution's stated purpose?**
-Are they idealists who believe in the mission? Cynics who see the truth? One of each? Do their views change?
+**Does your protagonist buy into the institution's mission, or see through it? What about the love interest?**
 
-**Does your protagonist believe in the institution's stated purpose, or do they see the reality beneath? What about your love interest? Are they idealists, cynics, or one of each?**
+*An idealist paired with a cynic creates instant friction — and a reason to keep talking. Two idealists who discover the truth together share a bond of shared betrayal. Think about where each character starts and how their view shifts.*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 **What happens when they see behind the curtain?**
 When the gap between ideal and reality becomes undeniable:
@@ -1208,8 +1205,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Does disillusionment bring them together or create conflict?**
-Do they bond over shared revelation? Or does one still believe while the other has lost faith?
+**When they see the truth, does it pull them together or push them apart?**
+
+*Do they bond over the shared revelation? Or does one cling to belief while the other has lost faith?*
 
 _______________________________________________________________
 

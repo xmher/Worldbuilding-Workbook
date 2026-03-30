@@ -558,6 +558,11 @@ Fireplaces, central heating, braziers, body heat, magical warmth:
 
 Fans, shade, water, magical cooling, architectural solutions:
 
+**Where does fuel for heating come from, and who controls it?**
+*Wood, coal, peat, magical fuel — whoever controls the fuel supply controls warmth itself. When fuel is scarce or expensive, sharing warmth becomes a necessity that can force intimacy.*
+
+_______________________________________________________________
+
 **What's the danger from extreme temperatures?**
 Can cold or heat kill? What do people do to survive extremes? Extreme cold is a classic forced-proximity engine, because sharing warmth becomes necessity, then intimacy. The snowbound inn in *ACOMAF* works precisely because the cold outside makes the shared bed inside a survival decision rather than a romantic one (at first). What temperature extremes exist in your world, and how might they push your characters together?
 
@@ -898,15 +903,11 @@ _______________________________________________________________
 **What does a typical home look like for different classes?**
 *Housing shapes daily intimacy. A single-room dwelling where a whole family sleeps means no privacy at all; a sprawling estate means characters can avoid each other for days. What your characters live in determines what "alone together" actually means.*
 
-**What does a typical home look like for the wealthy, for ordinary people, and for the poor in your world? How many rooms, who shares space, and where is privacy possible?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+| Class | Rooms / Layout | Who Shares Space | Where Is Privacy Possible? |
+|---|---|---|---|
+| Wealthy | | | |
+| Ordinary | | | |
+| Poor | | | |
 
 ### Entertainment & Leisure
 
