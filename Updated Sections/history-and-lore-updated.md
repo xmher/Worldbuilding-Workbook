@@ -502,8 +502,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **Was there a golden age that fell?**
-
-**What was the golden age called, what made it great, and what ended it?**
+*What was it called, what made it great, and what ended it?*
 *If your world has a lost golden age, describe what people remember about it and what was lost when it fell.*
 
 *(Write your answer below)*
@@ -527,8 +526,6 @@ _______________________________________________________________
 ### The Defining Event
 
 **What single historical event most shaped the current world?**
-
-**What happened, when, and what lasting mark did it leave?**
 *Name the event, sketch what took place, and describe the consequences your characters still live with today.*
 
 *(Write your answer below)*
@@ -580,8 +577,6 @@ _______________________________________________________________
 ---
 
 **What major conflict most directly affects your romance?**
-
-**What is the conflict, and how does it still shape things today?**
 *Name it, sketch what happened and who was involved, and describe the consequences that press on your characters now.*
 
 *(Write your answer below)*

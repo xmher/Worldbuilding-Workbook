@@ -1462,8 +1462,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What is the bond's relationship to your broader magic system?**
-Same rules, costs, limitations? Or does it operate outside normal magical laws?
+**Does the bond follow the same rules as the rest of your magic?**
+
+*Same costs, same limitations -- or does it operate outside normal magical laws? A bond that breaks the rules of your system needs a reason, or it risks feeling bolted on.*
 
 _______________________________________________________________
 
@@ -1480,8 +1481,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What form does direct intimate magic take in your world?**
-Mating bonds, soul marks, fated mate recognition through scent/sight/sensation, telepathic links, shared sensory experiences, dream-walking, magical contracts:
+**What kinds of magical connection exist between people in your world?**
+
+*Mating bonds, soul marks, fated mate recognition through scent or sight, telepathic links, shared sensory experiences, dream-walking, magical contracts -- list whatever applies.*
 
 _______________________________________________________________
 
@@ -2459,7 +2461,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What would it take to truly resolve the old conflict — and is that resolution possible within your story, or is it the wound your world carries?**
+**What would it take to truly resolve the old conflict?**
+
+*Is resolution possible within your story, or is this the wound your world carries? Some conflicts can be healed; others can only be survived.*
 
 _______________________________________________________________
 

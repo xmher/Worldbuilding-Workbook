@@ -21,6 +21,16 @@ When Rhysand explains to Feyre in *A Court of Mist and Fury* the limits of winno
 
 Romantasy authors who know how to create romance understand that it's the constraint that creates romance. The rule that states they can't be together is the same rule that gives their being together value. Your task isn't to remove the obstacle for your characters, it's to make the obstacle so real that their ability to overcome it is believable.
 
+**What is the single most important promise your world makes to the reader?**
+
+*Hint: The rule your entire romance depends on. "Magic costs blood." "The bond cannot be broken." "Crossing the border means death."*
+
+_______________________________________________________________
+
+**Have you kept that promise every time it mattered?**
+
+_______________________________________________________________
+
 ---
 
 ## Common Mistakes
@@ -88,13 +98,25 @@ Check if you've done any of these:
 
 ### Fixing Vibes-Over-Logic Problems
 
-**Issue:** _____________________________________________________
-
-**Which fix:** __________________________________________________
+*For each item you checked above, describe the specific scene and how you'll fix it. Use the three options from "Fixing Consistency Problems" later in this section: add an in-world explanation, let the consequence happen, or change the rule from the start.*
 
 **Issue:** _____________________________________________________
 
-**Which fix:** __________________________________________________
+**Scene/Chapter:** _____________________________________________
+
+**Your fix:** ___________________________________________________
+
+**Issue:** _____________________________________________________
+
+**Scene/Chapter:** _____________________________________________
+
+**Your fix:** ___________________________________________________
+
+**Issue:** _____________________________________________________
+
+**Scene/Chapter:** _____________________________________________
+
+**Your fix:** ___________________________________________________
 
 ---
 
@@ -699,6 +721,12 @@ Readers forgive inconsistencies that serve emotion *if you've earned their trust
 
 _______________________________________________________________
 
+**What is one consequence you've been avoiding writing? What would happen to the story if you let it land?**
+
+*Hint: Often the consequence you're avoiding is the scene your story most needs.*
+
+_______________________________________________________________
+
 _______________________________________________________________
 
 **Categorise your known inconsistencies:**
@@ -961,9 +989,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Will you need a series bible?**
+**Are you writing more than one book in this world? If yes, start your series bible now.**
 
-*If you're writing more than one book in this world, the answer is almost certainly yes. Even if you think you'll remember everything, you won't. Start it now, while this workbook's answers are fresh.*
+*You won't remember everything. Start while this workbook's answers are fresh. Even a simple document with rules, dates, and character details will save you from contradicting yourself three books later.*
 
 _______________________________________________________________
 
