@@ -1315,19 +1315,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Where can your characters be alone together?**
-
-*List the spaces where privacy is possible and the risk of discovery at each location.*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Where are they always watched?**
+**Where are people always watched?**
 
 Courts, public spaces, family homes, workplaces — where is privacy impossible?
 
@@ -1342,6 +1330,18 @@ Servants, guards, family members, rivals, magical surveillance, spies:
 _______________________________________________________________
 
 _______________________________________________________________
+
+**Where can your characters be alone together?**
+
+*List the spaces where privacy is possible and the risk of discovery at each location.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **What would happen if they were seen together?**
 

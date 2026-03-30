@@ -79,6 +79,137 @@ Not every question here will matter for your story. History can stay vague; some
 
 ---
 
+## Building Your Timeline
+
+You don't need a full timeline of everything that has occurred in your world. You need the events that matter -- the ones that created the pressures, divisions, and beliefs your characters live with today. Start with the big picture and fill in details as they become relevant.
+
+**What's the overall arc of your world's history?**
+Is your world in decline from a golden age? Rising from ruin? Locked in cycles? Stable but stagnant? The shape of your world's history determines the emotional tone of the present.
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What happened before the current era?**
+*What was the world like before the current order took hold? Was there a different ruling power, a different way of life, a lost civilization? Understanding what came before helps you understand what your characters inherited -- and what was taken from them.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
+Events from long ago can become legend. They set "the way things have always been," and they usually give an explanation as to how the current balance of power came to be. Foundational myths and fallen golden ages will influence the beliefs of your characters regarding what is possible, and what is forbidden.
+
+**How was your world/nation/society founded?**
+
+The origin story as people believe it:
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Who were the founders?**
+
+Heroes? Gods? Conquerors? Survivors?
+
+_______________________________________________________________
+
+**What ideals did they establish? Are those ideals still honored or corrupted?**
+The founding ideals shape what your world considers "natural" or "right." If the founders established separation between peoples, that separation may feel like an immovable law of nature rather than a political decision.
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Was there a golden age that fell?**
+*What was it called, what made it great, and what ended it?*
+*If your world has a lost golden age, describe what people remember about it and what was lost when it fell.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+---
+
+### The Defining Event
+
+**What single historical event most shaped the current world?**
+*Name the event, sketch what took place, and describe the consequences that people still live with today.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+### Other Significant Events
+
+**List 2-4 other events that matter for your story:**
+
+| Event | When | What Happened | Current Relevance |
+|-------|------|---------------|-------------------|
+| *e.g., The Rite of Culling (ACOTAR)* | *Centuries ago* | *Fae courts ritually sacrificed humans to renew the seasonal magic* | *Humans still fear fae because of ancestral memory of being hunted; Feyre's prejudice is rooted here* |
+| | | | |
+| | | | |
+| | | | |
+
+---
+
+### Historical Conflicts
+
+Wars and conflicts create deep divisions that will be remembered for centuries to come. People will grow up knowing which side their ancestors fought on, and they may define their allegiance based on family history, geography, or the culture in which they were raised.
+
+**What major conflicts shaped your world?**
+
+| Conflict | Who vs. Who | Why | Who Won | Lasting Effects |
+|----------|-------------|-----|---------|-----------------|
+| *e.g., The War (ACOTAR)* | *Fae vs. Humans* | *Territory and dominance* | *Fae (enforced the Treaty)* | *The Wall; human fear of fae; Feyre's inherited prejudice* |
+| | | | | |
+| | | | | |
+
+**Are any historical conflicts still unresolved?**
+
+Cold tensions, simmering resentments, truces that aren't really peace?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How did these conflicts change the world?**
+*Wars don't just end -- they reshape borders, destroy cities, create refugees, change who holds power. What lasting marks did your world's conflicts leave on the map, the population, or the social order?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
+### Historical Places
+
+Places that have historical significance carry the weight of the past into the present. A battlefield. A throne room where a treaty was signed. The bridge where legendary lovers met. When someone stands in those places, the past pushes its way up through their feet.
+
+**What historical places matter in your world?**
+
+| Place | What Happened There | What It Means Now |
+|---|---|---|
+| *e.g., The bridge at Ramiel (ACOTAR)* | *Ancient rite of passage for Illyrian warriors* | *Sacred, forbidden to outsiders* |
+| | | |
+| | | |
+| | | |
+
+---
+
 ## How History Works in Your World
 
 What way your world documents, protects, and shares its history will determine what your characters understand and what they're being lied to about. Whoever manages the documentation of the history will be able to manage the story line and consequently will be able to decide what your characters think of one another's people. A protagonist raised on bardic songs knows a different history than a love interest who read the court archives. This could create an interesting situation when they get together and share their views of history, especially if it is not the romantic type. At least initially.
