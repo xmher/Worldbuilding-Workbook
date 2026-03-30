@@ -1500,8 +1500,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What doesn't the bond do? What's still missing even with this connection?**
-The bond might create attraction but not trust. Recognition but not compatibility. Awareness but not understanding. What gaps remain?
+**What is the bond unable to do?**
+
+*It might create attraction but not trust. Recognition but not compatibility. Awareness but not understanding. What gaps remain even with this connection?*
 
 _______________________________________________________________
 

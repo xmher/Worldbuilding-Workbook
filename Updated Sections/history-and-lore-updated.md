@@ -404,10 +404,7 @@ _______________________________________________________________
 Sometimes the most critical information lies hidden. And when we talk about "hidden history," that is like having a loaded gun pointed at your characters' assumptions. Within nearly every romantasy subgenre except for Regency, there exists a fundamental lie that the characters must unmask. In *From Blood and Ash*, the entire kingdom of Solis is based on the myth of the Ascension, and when the protagonists learn that the Ascended are actually predatory vampyric creatures, it destroys all of the assumptions that Poppy ever held. In *Fourth Wing*, the "official history" taught at Basgiath War College is essentially government propaganda intended to keep its own cadets from discovering the true enemy (venin).
 
 **Is there a historical truth that's been suppressed or rewritten?**
-What would change if your characters discovered the truth? Would it dissolve the obstacle between them, or make it worse?
-
-**What really happened, and what are people taught instead?**
-*Name the real event, the official version, and who rewrote the story and why.*
+*Name the real event, the official version, and who rewrote the story and why. What would change if your characters discovered the truth -- would it dissolve the obstacle between them, or make it worse?*
 
 *(Write your answer below)*
 
