@@ -1319,6 +1319,81 @@ _______________________________________________________________
 
 ---
 
+## Applying History to Your Romance
+
+You've built the history. Now connect it to your characters. The questions in this section ask you to take the worldbuilding you've done above and apply it directly to the romantic arc -- the obstacles, the emotional weight, and the stakes that history creates between your specific characters.
+
+**What sediment are your characters standing on?**
+The deeper the historical layer, the harder it is to crack. Identify the layers of compressed history beneath your characters' feet, from recent grudges to ancient bedrock.
+
+**What are three layers of history beneath your characters' feet?**
+*Name one event within living memory (surface), one older cultural memory (mid-level), and one ancient belief so deep it feels like fact (bedrock). For each, note what happened, how compressed it has become, and how it touches your characters today.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**Which layers of history create the most pressure on your romance?**
+Think about the sediment beneath your characters' feet. Which historical periods -- recent memory, cultural memory, deep ancient past -- make your characters' relationship feel impossible? You don't need all of them. Focus on the layers that matter most.
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
+**Does a fallen golden age relate to your characters' relationship?**
+
+Could their union restore what was lost -- or repeat the mistake that caused the fall?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What major conflict most directly affects your romance?**
+*Name it, sketch what happened and who was involved, and describe the consequences that press on your characters now.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**Are their families/nations/species on opposing sides of this conflict?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Are there still active hostilities, or is this a cold peace?**
+
+_______________________________________________________________
+
+**What would it mean for them to be together despite this history?**
+
+Betrayal? Healing? Repeating forbidden history?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
+**Do your characters visit a place where history happened?**
+Why do they go? What do they find? Standing where history happened can force characters to confront what they've been avoiding, or reveal a truth they didn't expect.
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
 ## Integration Check
 
 | Question | Answer | Example |
