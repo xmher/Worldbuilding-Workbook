@@ -535,6 +535,16 @@ Mishandled information is probably the fastest way to break consistency. Charact
 
 *Information asymmetry is romantic fuel. Secrets, hidden identities, concealed feelings, knowledge that would change everything if shared. But it only works if the reason for keeping quiet is solid.*
 
+**What is the one secret that, if shared right now, would change everything between your characters?**
+
+_______________________________________________________________
+
+**Why hasn't the character holding that secret shared it yet?**
+
+*Hint: The reason needs to be rooted in your world or their character -- fear, cultural taboo, magical constraint, protecting someone. "The plot needs them not to know" isn't enough.*
+
+_______________________________________________________________
+
 ### The Reveal Check
 
 **Your major revelation or secret:**
@@ -625,11 +635,11 @@ The Court of Nightmares scene in *A Court of Mist and Fury* shows this beautiful
 
 *You don't need all four. One or two, used consistently, is enough. The key is that the technique shows up more than once before the reveal, so readers can look back and see the pattern.*
 
-**The Recontextualisation Test**
+**The "Read It Again" Test**
 
 When your narrator's understanding shifts (they learn the truth about a character, a system, or a history), earlier scenes should gain new meaning without losing their original logic.
 
-**Your major reveal or shift in understanding:**
+**What is the biggest truth your narrator discovers?**
 
 _______________________________________________________________
 
