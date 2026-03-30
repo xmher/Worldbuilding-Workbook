@@ -281,8 +281,9 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**If magic is inherited, how does that affect families, dynasties, and marriages?**
-If it's learned, who controls access to that knowledge, and who's excluded? Control over magical training is a form of political power that can separate lovers by class, status, or allegiance.
+**How does access to magic shape families, marriages, and social class?**
+
+*If magic is inherited, bloodlines become political. If it's learned, whoever controls the training controls the power. Either way, magical access creates hierarchies -- and those hierarchies can separate lovers by class, status, or allegiance.*
 
 _______________________________________________________________________________
 

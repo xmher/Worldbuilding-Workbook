@@ -1177,9 +1177,6 @@ _______________________________________________________________
 
 &nbsp;
 
-**How is this remembered?**
-Perpetrators and victims remember differently. Understanding both perspectives deepens your enemies-to-lovers tension.
-
 **How does each side remember what happened?**
 *Perpetrators and victims rarely tell the same story. One side may minimise, justify, or forget entirely what the other side can never stop remembering.*
 
