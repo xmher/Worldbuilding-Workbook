@@ -853,8 +853,7 @@ _______________________________________________________________
 Having famous ancestry can create expectations and obligations. Inheriting a legendary role means living in someone's shadow, and that shadow falls over the relationship too. If the last person who held your character's position loved unwisely and caused a catastrophe, everyone will be watching to see if your character makes the same mistake. If their ancestor was the one who ended the last forbidden romance, there's a grim irony in your character falling into one. The legend doesn't have to be about love to distort a love story, either. A military hero's descendant may feel obligated to put duty first, and a traitor's descendant may feel they don't deserve love at all.
 
 **Is either character descended from a famous historical figure?**
-
-**Who was the ancestor, and what expectations does that legacy create?**
+*Who was the ancestor, and what expectations does that legacy create?*
 *Name the character, their famous forebear, and the weight that connection carries.*
 
 *(Write your answer below)*
@@ -866,10 +865,7 @@ Having famous ancestry can create expectations and obligations. Inheriting a leg
 &nbsp;
 
 **Does either character hold a position once held by someone legendary?**
-Did the predecessor succeed or fail? Love or lose?
-
-**What is the position, who held it before, and what shadow does that cast?**
-*Did the predecessor succeed or fail? Love wisely or lose everything?*
+*What is the position, who held it before, and what shadow does that cast? Did the predecessor succeed or fail?*
 
 *(Write your answer below)*
 

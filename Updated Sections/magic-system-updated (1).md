@@ -2569,8 +2569,10 @@ _______________________________________________________________________________
 | Source | |
 | Who can use it | |
 | How it's performed | |
+| What it looks/feels like | |
 | Main cost | |
 | Biggest limitation | |
+| Environmental hazards | |
 | Protagonist's abilities | |
 | Love Interest's abilities | |
 | Bond/connection (if any) | |

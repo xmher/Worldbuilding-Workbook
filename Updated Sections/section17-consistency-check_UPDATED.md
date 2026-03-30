@@ -989,6 +989,12 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**What is the one detail readers would notice first if you contradicted it in a sequel?**
+
+*Hint: Usually it's a magic rule, a bond mechanic, or a character's established power level.*
+
+_______________________________________________________________
+
 **Are you writing more than one book in this world? If yes, start your series bible now.**
 
 *You won't remember everything. Start while this workbook's answers are fresh. Even a simple document with rules, dates, and character details will save you from contradicting yourself three books later.*
