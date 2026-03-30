@@ -237,9 +237,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Romantasy Connection:** Does resource scarcity or control affect your characters' relationship?
+**How does resource scarcity or control affect your characters' relationship?**
 
-Does one control something the other needs? Does fighting over resources force proximity? Does an economic alliance require their union?
+*Hint: Does one character control something the other needs? Does fighting over resources force proximity? Does an economic alliance require their union?*
 
 _______________________________________________________________
 
@@ -357,9 +357,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Romantasy Connection:** How does the magic economy affect your romance?
+**How does the magic economy affect your romance?**
 
-Does one profit from magic while the other suffers? Economic inequality between magical and non-magical? Does magical ability determine social class and therefore marriageability?
+*Hint: Does one character profit from magic while the other suffers? Does magical ability determine social class and therefore marriageability?*
 
 _______________________________________________________________
 
@@ -423,9 +423,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Romantasy Connection:** Which law creates the biggest obstacle for your romance?
+**Which law creates the biggest obstacle for your romance?**
 
-Is their relationship illegal, politically inconvenient, or magically dangerous?
+*Hint: Is their relationship illegal, politically inconvenient, or magically dangerous?*
 
 _______________________________________________________________
 
@@ -479,9 +479,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Romantasy Connection:** What cultural value does your romance threaten?
+**What cultural value does your romance threaten?**
 
-Does their relationship represent something the culture fears? Does choosing love mean rejecting cultural identity?
+*Hint: Does their relationship represent something the culture fears? Does choosing love mean rejecting cultural identity?*
 
 _______________________________________________________________
 
@@ -597,9 +597,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Romantasy Connection:** What daily life difference creates friction?
+**What daily life difference creates friction between your characters?**
 
-Different social classes? One takes for granted what the other struggles for? What misunderstanding arises from different lived experiences?
+*Hint: Different social classes? One takes for granted what the other struggles for? What misunderstanding arises from different lived experiences?*
 
 _______________________________________________________________
 
