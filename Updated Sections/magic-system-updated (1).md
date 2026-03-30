@@ -1620,7 +1620,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What are they fighting against when they resist — the bond itself, or what accepting it would mean for their lives?**
+**Are they resisting the bond itself, or what accepting it would mean for their lives?**
 
 _______________________________________________________________
 
@@ -1833,7 +1833,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What would your characters have if you stripped away all magical connection — would there still be something between them?**
+**If you stripped away every magical connection, would there still be something between them?**
 
 _______________________________________________________________
 

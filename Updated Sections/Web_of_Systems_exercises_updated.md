@@ -616,6 +616,14 @@ _______________________________________________________________
 | | | | |
 | | | | |
 
+**What is one small, sensory detail from your protagonist's daily life that the love interest would find strange or fascinating?**
+
+*Hint: Think about food, sleep, hygiene, greetings, personal space. The most memorable romantic moments in fantasy often come from these small collisions.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 When you build a world with decorative elements, you get decorated obstacles, and your reader will be able to tell the difference. If an element only connects to one system, it's sitting on top of your world. An element woven through three or more systems has roots that go back far enough to create real stakes for your romance.

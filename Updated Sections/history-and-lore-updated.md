@@ -922,8 +922,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How do these family stories shape who each character believes they should be?**
-
 **What kind of person did family stories teach each character they should be?**
 *The protagonist's family stories may have shaped a very different ideal than the love interest's. Name what each character was raised to believe about who they should become.*
 
