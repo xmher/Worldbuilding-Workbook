@@ -768,9 +768,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Do people compare your characters to legendary lovers?**
-
-**Which legendary couple are they compared to, and is it meant as a compliment, a warning, or an accusation?**
+**Which legendary couple are your characters compared to, and is it meant as a compliment, a warning, or an accusation?**
 *Think about who makes the comparison and why.*
 
 *(Write your answer below)*
@@ -816,10 +814,6 @@ Cyclical history creates a specific kind of romantic dread: the sense that your 
 _______________________________________________________________
 
 _______________________________________________________________
-
-**Is there a historical parallel to your characters' situation?**
-
-A previous pair of lovers from opposing sides? A past relationship that ended in tragedy?
 
 **What previous love story mirrors your characters' situation, and how did it end?**
 *A past pair of lovers from opposing sides, a forbidden romance that was crushed or triumphed -- whatever precedent people might point to.*

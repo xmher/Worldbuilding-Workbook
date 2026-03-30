@@ -757,11 +757,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Are your characters' acts of agency appropriately weighted for your world?**
+**Does the scale of their defiance match the scale of your world's restrictions?**
 
-*A grand public declaration in an oppressive world might get them killed. A quiet private choice in a free world might go unnoticed. Make sure the scale of their defiance matches the scale of their world's restrictions.*
-
-Small choices in oppressive worlds can be as powerful as dramatic choices in free ones.
+*A grand public declaration in an oppressive world might get them killed. A quiet private choice in a free world might go unnoticed. Make sure their acts of rebellion fit what your world would actually punish.*
 
 _______________________________________________________________
 
