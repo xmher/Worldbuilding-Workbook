@@ -379,6 +379,42 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+### Schisms & Reformation
+
+Religions rarely stay unified forever. Splits over doctrine, practice, or leadership create factions that characters can belong to, flee from, or exploit. A reformed branch might accept what the orthodox branch condemns — giving your characters an alternative that comes with its own costs.
+
+**Has the religion ever split, and if so, over what?**
+*A doctrinal disagreement? A disputed succession? A revelation that some accepted and others rejected? The cause of the split shapes what each faction cares about most — and which side your characters fall on.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Are there competing interpretations of doctrine that your characters could appeal to?**
+*A stricter reading that condemns them, and a more lenient one that might offer shelter? Competing interpretations give characters options — but choosing the "wrong" faction carries its own risks.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+### Religious Education
+
+How faith is transmitted to the next generation determines how deeply it takes root — and how hard it is to question later.
+
+**How do people in your world learn their faith?**
+*Formal temple schools? Oral tradition passed from parent to child? Apprenticeship with a priest or elder? Sacred texts studied independently? The method of transmission shapes how flexible or rigid belief becomes. A faith learned through storytelling may be more adaptable than one drilled through catechism.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What happens to someone who was never properly educated in the faith — or who was educated in the "wrong" version?**
+*Are they pitied, distrusted, or seen as a blank slate? This matters for characters who cross religious boundaries: a love interest from outside the faith may be seen as ignorant rather than heretical, which creates different obstacles.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## Religious Law, Doctrine & Forbidden Love
