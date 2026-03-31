@@ -1609,3 +1609,15 @@ _______________________________________________________________
 ### Faith Must Feel Real
 
 Your characters may be religious whether you are or not. Their faith should feel genuine, not just an obstacle you created. Religious worldbuilding at its most effective allows readers to see why a person would give up their faith for someone they love, and why giving up faith would be a true loss for them. Faith gives a person comfort, community, identity, and purpose in life. So when a character risks giving all of those things up for love, it should hurt. Create a religion that is worthy of fighting for, or against, or to redefine entirely.
+
+---
+
+## What's Next
+
+You've built the spiritual foundation of your world — gods, institutions, laws, myths, and the personal faith of your characters. Here's where to take it from here:
+
+- **History & Lore (Section 7):** Your religion has a past. How did it rise, reform, or fracture over time? The historical events you build there should be consistent with the myths and schisms you defined here.
+- **Magic System (Section 8):** If magic and religion overlap in your world, Section 8 is where you'll define the mechanics. Make sure what you established about divine gifts, heresy, and magical consequences holds up under a systematic framework.
+- **Government, Power & Law (Section 5):** Religious authority and political authority almost always interact. Whether your world is a theocracy or keeps church and state firmly separate, those power dynamics need to be consistent across both sections.
+- **Culture, Customs & Daily Life (Section 3):** The daily practices, taboos, and rituals you built here should show up in the texture of everyday life. Section 3 is where you'll flesh out how faith looks when nobody is at the altar.
+- **The Pressure Cooker (Section 13):** When you're ready to stress-test your religion against your romance, the Pressure Cooker will force your characters into the hardest choices. Bring your altar question with you.
