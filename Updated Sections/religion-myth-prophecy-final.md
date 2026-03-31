@@ -642,6 +642,20 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**What folk practices do ordinary people follow that the official religion doesn't endorse?**
+*Lucky charms the priests call superstition, prayers to old gods the temple pretends don't exist, harvest rituals that predate the current faith, fortune-telling methods the clergy condemn. The gap between folk religion and organised religion is where characters find flexibility — and where forbidden lovers might find a tradition that blesses what the temple forbids.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Does either character follow folk practices that the other finds strange, heretical, or charming?**
+*Small religious differences in daily life — the "wrong" prayer before a meal, an unfamiliar protective gesture, an offering the other character's faith would consider pagan — create moments of friction and intimacy that make interfaith tension feel lived-in rather than abstract.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **What religious objects or symbols do people wear or keep?**
 *Amulets? Sacred texts? Prayer beads? Holy symbols? These details make faith tangible, and they create charged moments when a character removes them, hides them, or clutches them during temptation.*
 

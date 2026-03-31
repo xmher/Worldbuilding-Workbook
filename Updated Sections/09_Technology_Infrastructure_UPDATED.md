@@ -827,10 +827,8 @@ _______________________________________________________________
 
 ### Entertainment & Leisure
 
-Entertainment creates the settings where characters interact outside of duty, danger, or obligation. Dances, performances, feasts, and games are where romantic tension plays out in public. Characters can touch under the guise of a dance, watch each other across a crowded room, or compete in ways that become charged with something more than sport.
-
 **What entertainment exists in your world?**
-*Dances allow sanctioned touch, performances allow shared emotional experience, and competitions channel desire into something publicly acceptable. Which of these create opportunities for your characters to interact in ways their normal lives wouldn't allow?*
+*Dances, performances, feasts, games, competitions — these are settings where characters interact outside of duty or danger.*
 
 _______________________________________________________________
 
@@ -850,6 +848,46 @@ Musical instruments, game equipment, performance spaces:
 | Available to everyone | |
 | Affordable for middle class only | |
 | Exclusive to the wealthy or powerful | |
+
+### Manufacturing & Production
+
+**How are goods made in your world?**
+*Individual artisans, guild workshops, magical fabrication, and early factories all produce very different economies and daily lives. How things are made determines what's available, what's scarce, and what counts as valuable.*
+
+Artisan craftwork? Guild workshops? Magical fabrication? Proto-industrial methods?
+
+_______________________________________________________________
+
+**What is the most important thing your world manufactures, and who controls its production?**
+
+_______________________________________________________________
+
+**Can magical or technological means mass-produce anything?**
+*Mass production changes scarcity. If enchanted looms can weave faster than human hands, what happens to the weavers? If magical forges produce weapons at scale, who controls the output?*
+
+_______________________________________________________________
+
+### Energy Sources
+
+**What powers your world?**
+*The energy sources available — and who controls them — shape daily life, industry, and the balance of power.*
+
+| Energy Source | What It Powers | Who Controls It |
+|---|---|---|
+| Human/animal labour | | |
+| Water (mills, aqueducts) | | |
+| Wind (mills, sailing) | | |
+| Fire/fuel (wood, coal, peat) | | |
+| Magical energy | | |
+| Other | | |
+
+**What happens when the primary energy source fails or is cut off?**
+
+_______________________________________________________________
+
+**Is energy access equal, or does it follow class and geographic lines?**
+
+_______________________________________________________________
 
 ---
 
