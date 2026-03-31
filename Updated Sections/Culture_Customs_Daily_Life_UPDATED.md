@@ -295,6 +295,36 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+### Cultural Change
+
+Every culture is in motion. Older generations cling to tradition while younger ones push for something different. Identifying what's shifting in your world right now gives your romance a sense of momentum and makes characters feel like they exist within a living society rather than a static one.
+
+**What's changing in your culture right now?**
+
+*What custom or belief is losing its grip? What new idea is gaining ground? How does this shift affect your characters' options?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What do older people complain about? What do younger people want?**
+
+*The generational divide tells readers where the culture has been and where it's headed. Which side of the divide are your characters on?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Is the change your characters want already happening in the wider culture, or are they ahead of it?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 ## Gender Roles & Expectations
 
@@ -971,6 +1001,44 @@ _______________________________________________________________
 
 &nbsp;
 
+### Humor & Social Play
+
+What makes people laugh reveals what they value, what they fear, and where the social fault lines run. Humor can bond characters instantly (a shared joke no one else gets) or divide them (a joke that lands as an insult across cultural lines). In romantasy, banter is often the first form of intimacy -- it's how characters test each other's intelligence and boundaries before anything physical happens.
+
+**What makes people laugh in your world? What kind of humor is prized?**
+
+*Wordplay and wit? Physical comedy? Dark humor? Sarcasm? Irreverence toward authority? What does "clever" look like here?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What jokes are told, and what do they reveal about the culture's anxieties?**
+
+*People joke about what they fear or resent. What topics show up in popular humor -- class, magic, outsiders, the powerful?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What humor is off-limits or dangerous?**
+
+*Mocking the gods? Joking about the monarch? Making light of death? What joke could get someone in real trouble?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How do your characters use humor with each other?**
+
+*Is banter their first language of intimacy? Does one character's humor disarm the other? Does a joke ever land wrong between them?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 ## Oaths, Promises & Honour
 
@@ -1377,21 +1445,13 @@ _______________________________________________________________
 
 **What gestures signal romantic interest, and what crosses the line?**
 
+*This is your culture's romantic body language. For the full courtship progression (who initiates, expected steps, family involvement), see Courtship Customs below. For courtship gifts and tokens, see Tokens, Gifts & Symbols.*
+
 | Gesture Type | Examples in Your World |
 |---|---|
 | Acceptable signals of interest | |
 | Borderline — could be read as too forward | |
 | Clearly transgressive — would cause scandal | |
-
-**Are there clothing items or tokens exchanged in courtship?**
-
-Rings, pins, sashes, cloaks, veils — items that mark someone as courting or claimed? What does giving, receiving, or rejecting such a token mean?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
 
 **Who acts as chaperone for your characters?**
 
@@ -1493,6 +1553,40 @@ _______________________________________________________________
 **What are your world's distinctive garments?**
 
 What clothing exists in your world that doesn't exist in ours? Magical garments? Cultural specifics?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+### Beauty & Attractiveness
+
+Every culture has its own definition of beauty, and those standards shape how your characters see themselves and each other. What's considered attractive often reflects deeper values: a warrior culture may prize scars and strength; a court culture may prize pale skin and delicate hands. When your protagonist finds someone beautiful in a way their culture wouldn't endorse, it reveals something about who they really are.
+
+**What does your culture consider physically beautiful?**
+
+*Think about body type, skin, hair, features, bearing. How do beauty standards differ between genders?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How do beauty standards differ by class, region, or species?**
+
+*Does the court ideal differ from the rural ideal? Do different peoples prize different traits? Is there a "look" associated with power or wealth?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What physical trait does your protagonist find attractive in the love interest that surprises them or defies the cultural standard?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What does your culture consider ugly, flawed, or undesirable -- and how does that affect someone's romantic prospects?**
 
 _______________________________________________________________
 
@@ -2120,6 +2214,44 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
+
+### Attitudes Toward Outsiders
+
+How a culture treats people who are "other" -- different species, races, magical traditions, nationalities -- shapes some of the most powerful romantic conflicts in the genre. Forbidden love across cultural or species lines draws its tension from prejudice, fear, and the cost of being seen with someone your world says you shouldn't want.
+
+**How does your culture view other species, races, or magical traditions?**
+
+*Is there open hostility, polite distance, grudging tolerance, or genuine curiosity? What stereotypes exist, and how much truth do they hold?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What's the lived experience of being "other" in your world?**
+
+*What daily indignities, restrictions, or dangers does an outsider face? Where are they welcome, and where are they not?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**If one of your characters is considered an outsider, how does that status shape the romance?**
+
+*Does the other character have to overcome their own prejudice? Does the relationship put both of them at risk? What does it cost each of them to be seen together?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What would it take for an outsider to be genuinely accepted -- and is that acceptance even possible?**
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 

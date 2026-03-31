@@ -540,19 +540,16 @@ The moment of revelation is one of the most charged scenes in any hidden-faith r
 
 The "remedy" for the betrayal is often a moment of self-sacrifice. The hidden practitioner must use their forbidden magic to save the lover, thereby outing themselves but proving that their nature isn't monstrous. This transforms the revelation from a source of conflict into a proof of love.
 
-**What does your protagonist actually believe?**
-Not what they're supposed to believe. What do they genuinely feel about the divine? Deep faith? Doubt? Going through motions? Complicated relationship with their gods?
+**What does each character actually believe — and how deeply?**
+*Not what they're supposed to believe. What do they genuinely feel about the divine? Consider the full spectrum: deep faith, going through the motions for social reasons, believing in the gods but distrusting the institution, private doubt they'd never voice aloud, or outright rejection they keep hidden. The gap between official doctrine and personal belief is where the most interesting romantic tension lives.*
 
+| Character | What They Genuinely Believe | What They Publicly Perform | Where Belief and Performance Diverge |
+|-----------|---------------------------|---------------------------|--------------------------------------|
+| Protagonist | | | |
+| Love interest | | | |
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does your love interest actually believe?**
-Deep faith? Doubt? Going through motions? Complicated relationship with their gods? Their genuine beliefs may align with or differ from your protagonist's, creating harmony or another layer of conflict.
-
+**What parts of their faith does each character privately doubt, reject, or cling to most tightly?**
+*Most believers don't accept every teaching wholesale. One character might trust the gods but despise the priests. Another might follow every ritual without believing a word. These gaps create room for characters to redefine faith rather than abandon it — and they reveal what would actually be lost if the faith broke.*
 
 _______________________________________________________________
 
@@ -560,35 +557,8 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What parts of their religion does each character privately doubt or reject?**
-*Most believers don't accept every teaching wholesale. The gap between personal belief and institutional religion creates room for characters to redefine faith rather than abandon it.*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Does either character go through the motions without actually believing?**
-*Why do they keep it up? Social expectation? Family pressure? Fear of punishment? Habit? Hoping real belief will eventually come?*
-
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Does either character believe in the gods but distrust the priests?**
-*A character who has faith but rejects the institution can redefine what their religion means rather than abandon it entirely. This opens up a resolution path where the institution is wrong but the gods aren't.*
-
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How would each character feel if they broke a religious rule for love?**
-*A true believer faces an existential crisis — they're not just breaking rules, they're betraying who they are. A character who follows religion out of habit faces a different loss: community and identity rather than spiritual anguish. The answer depends on how deeply they actually believe.*
+**How would each character feel if they broke a religious rule for love — and what would that cost them?**
+*A true believer faces an existential crisis: they're not just breaking rules, they're betraying who they are. A character who follows religion out of habit faces a different loss: community and identity rather than spiritual anguish. A character who believes in the gods but not the institution might feel justified — but still fear divine consequences. The answer depends on how deeply they actually believe, and what kind of belief they hold.*
 
 _______________________________________________________________
 

@@ -456,17 +456,12 @@ What motivates their loyalty or disloyalty?
 
 ## Daily Life & the Texture of Time
 
-The rhythm of day-to-day living will determine how much time people have for all the things that aren't work, including romance, education, and ambition. These details also shape the sensory world of your story: the quality of light, the temperature of rooms, the smell of a city, what meals look and taste like. If you get these correct, it helps make the world of your story feel lived-in. Get them wrong (or ignore them) and readers will pick up on something missing, even if they can't say why.
-
-Lighting shapes the emotional tone of every scene. Candlelight is soft, warm, and creates shadows and feelings of closeness. Faces half-lit, features rendered gentle. Torchlight is much harsher, flickering, creates drama and unease. Daylight reveals everything; characters can't hide in full sun. Dim lighting requires proximity to one another: leaning closer to see, speaking softer because darkness feels private. When characters are together in the dark, let the other senses become heightened. Sound, touch, the awareness of warmth from another body. The practical realities matter too. Candles burn out and go out, someone must tend the fire, darkness comes whether you're ready or not.
+Daily life shapes the sensory world of your story: the quality of light, the temperature of rooms, the smell of a city, what meals look and taste like. These details make your world feel lived-in.
 
 ### Time & Labour
 
-**How much time do ordinary people spend on survival tasks?**
-*Time spent on survival is time unavailable for romance, education, or ambition. If your protagonist spends half the day hauling water, that shapes what kind of relationship is even possible.*
-
 **How much of the day do ordinary people spend on survival tasks?**
-*Think about food preparation, water collection, heating, and cleaning. How does this shape what time is left for anything else?*
+*Food preparation, water collection, heating, cleaning — how does this shape what time is left for anything else?*
 
 *(Write your answer below)*
 
@@ -477,43 +472,19 @@ Lighting shapes the emotional tone of every scene. Candlelight is soft, warm, an
 &nbsp;
 
 **Who does this labour?**
-*Who does the work shapes who has time for anything else, including romance. If your protagonist spends hours on survival tasks while your love interest has servants handling everything, that gap in daily reality affects how they understand each other.*
-
 Servants? Women? Lower classes? Everyone? Magical solutions?
 
-**How much leisure time exists, and for whom?**
-*Leisure is unequally distributed. If your characters come from different classes, their relationship to time differs — and that difference shapes what "spending time together" even means.*
-
 **How much leisure time does each class have?**
-*Think about the wealthy, the middle class, and the poor or working class.*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**How does the gap in free time affect your characters?**
-*If one character has leisure and one doesn't, the imbalance shapes every interaction. The character who works all day experiences an evening visit very differently from the one who was free all afternoon.*
 
 _______________________________________________________________
 
 ### Lighting & Darkness
 
 **How do people light their spaces?**
-*Lighting technology shapes the emotional palette of every scene you write. Candlelight softens; torchlight unsettles; darkness heightens every other sense. What your characters see by determines what they feel.*
-
 Candles, oil lamps, torches, magical light, gas, electricity:
 
 **How expensive is lighting?**
-*If staying up after dark is a luxury, then a character who can afford candlelight lives in a different world from one who goes to bed at sunset. An evening invitation that requires lighting becomes a marker of class — and a character who's never seen a well-lit room will react to one.*
-
 Can everyone afford to stay up after dark, or is darkness the norm for the poor?
-
-**What does nighttime look like?**
-*Darkness creates different moods in different settings. Danger in unlighted streets, intimacy in candlelit rooms, isolation in rural darkness. Where your characters are when the sun goes down shapes what's possible between them.*
 
 **What does nighttime look like in cities, in homes, and in the countryside?**
 
@@ -526,73 +497,32 @@ Can everyone afford to stay up after dark, or is darkness the norm for the poor?
 &nbsp;
 
 **What can and can't be done after dark?**
-*Darkness limits and enables. Some activities become impossible; others — secret meetings, escapes, confessions — become easier. What does nightfall make possible for your characters that daylight forbids?*
+*Think about safety, curfews, and what activities require daylight.*
 
-**How does lighting shape a key romantic scene?**
-*Candlelight softens features and creates intimacy. Torchlight flickers and unsettles. Darkness heightens every other sense — sound, touch, the awareness of warmth from another body. Think about a scene where lighting shapes the emotional tone of an interaction between your characters.*
-
-**Where does a key scene between your characters take place, and what lighting exists there?**
-*Think about how the light (or darkness) shapes the mood and what the characters can see of each other.*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 ### Heating, Cooling & Shelter
 
 **How do people stay warm?**
-*Extreme cold is one of romantasy's most reliable forced-proximity engines. Shared body heat turns survival into intimacy, and the snowbound inn works precisely because the shared bed is a survival decision rather than a romantic one — at first.*
-
 Fireplaces, central heating, braziers, body heat, magical warmth:
 
 **How do people stay cool?**
-*Heat creates its own brand of vulnerability — lighter clothing, bare skin, seeking shade or water together. How your characters manage heat shapes the sensory texture of warm-weather scenes.*
-
 Fans, shade, water, magical cooling, architectural solutions:
 
 **Where does fuel for heating come from, and who controls it?**
-*Wood, coal, peat, magical fuel — whoever controls the fuel supply controls warmth itself. When fuel is scarce or expensive, sharing warmth becomes a necessity that can force intimacy.*
 
 _______________________________________________________________
 
-**What's the danger from extreme temperatures?**
-Can cold or heat kill? What do people do to survive extremes? Extreme cold is a classic forced-proximity engine, because sharing warmth becomes necessity, then intimacy. The snowbound inn in *ACOMAF* works precisely because the cold outside makes the shared bed inside a survival decision rather than a romantic one (at first). What temperature extremes exist in your world, and how might they push your characters together?
+**What temperature extremes exist in your world?**
+Can cold or heat kill? What do people do to survive extremes?
+
+*Think about how extremes force people into shared shelter or close quarters.*
+
+_______________________________________________________________
 
 ### Water, Sanitation & Bathing
 
-How and when people bathe is much more important than it would seem. Romantasy has no shortage of bathing scenes for their own brand of intimacy, and how those bathing scenes work are almost completely dependent on what sort of technology level you've established for your world. There's vulnerability in water; there's exposure in undressing; there's atmosphere in the place (river, bathhouse, private chamber with a copper tub). But the type of tension created by bathing in a public bathhouse is very different from the type of tension created by bathing in a private tub. A river provides a very different type of exposure from a screened-off tub in a room being shared with someone else.
-
-Historically speaking, people didn't bathe as frequently as they do today. They would wash their linens, use dry-heat baths and perfume themselves. If your world is pre-industrial then a true bath can be considered a luxury item that signifies wealth, caring for oneself, or a significant event, which means the act of bathing, or being bathed, can have even greater significance.
-
-Water scenes can serve two distinctly different romantic purposes in romantasy. The first is **safety and domestication**: in order for a couple to experience a bath together it must mean they're willing to share a domestic future and spend time together in a private space. This is evident in the bath scene in *Bridgerton* between Benedict and Sophie, signifying a shared future where both can engage in private bodily care. Similarly, the bathtub scene in *ACOMAF* is a way to decompress after being in danger and represents intimacy earned through survival. The second function is **dangerous vulnerability**: in *From Blood and Ash*, Poppy falls asleep in the tub and is discovered, with the bathing process staged as exposure to her loss of autonomy. In *The Cruel Prince*, water serves as a symbol of dangerous sovereignty (Undersea politics) instead of a place of relaxation. Determine which purpose of water you want to use. Will water provide a safe haven for your characters or will it represent a place of danger?
-
-**What role does water/bathing play in your romance?**
-*Water scenes can serve two very different romantic purposes: safety and domestication (intimacy earned through shared vulnerability in a private space) or dangerous vulnerability (exposure, loss of autonomy, sovereignty). Knowing which function you want helps you design the scene's emotional architecture.*
-
-**What does bathing look like for your protagonist? For your love interest?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Is there a bathing or water scene in your story? What role does it serve?**
-*Does the scene create safety and domestication, or dangerous vulnerability? What makes it emotionally significant?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+Bathing technology shapes some of romantasy's most charged scenes. The setting — river, bathhouse, private chamber — determines the kind of vulnerability on display. In pre-industrial worlds, a true bath may be a luxury, making the act itself significant.
 
 **How do people get clean water?**
 *Wells, rivers, aqueducts, pumps, magical purification — the answer shapes daily labour, disease risk, and who controls a basic necessity.*
@@ -608,27 +538,28 @@ _______________________________________________________________
 
 Frequency: ______________________________________________________
 
-**What sanitation exists?**
-*Sanitation shapes the sensory world your characters inhabit. A city with open sewers smells and feels very different from one with magical waste disposal — and these details make your world feel lived-in.*
+**What does bathing look like for your protagonist? For your love interest?**
 
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**What sanitation exists?**
 Sewers, chamber pots, outhouses, magical waste disposal:
 
-**What are the health implications of sanitation level?**
-*Disease, cleanliness, and smell all flow from sanitation. A world where illness is common is a world where vulnerability is constant — and where staying healthy is never guaranteed.*
-
-Disease, cleanliness, smell:
+**What are the health implications of your sanitation level?**
+Disease risk, cleanliness, smell:
 
 _______________________________________________________________
 
-**What does your world smell like, and how do your characters smell?**
-A world without the sanitation we have today will be smelly. Cities smell. People smell. Woodsmoke, horse, leather, herbs, sweat. These are the sensory details that make a world feel real. The love interest's distinctive scent is a genre staple: Yennefer's letters smell of lilac and gooseberries in *The Witcher*; Bardugo's Darkling fills a room with the scent of winter wind and bare branches in *Siege and Storm*; in *Duke of Sin*, Elizabeth Hoyt has her hero find the heroine's unwashed scent (sweat, sex, earth) deeply enticing rather than repellent.
+**What does your world smell like?**
+A world without modern sanitation has a rich sensory landscape. Cities smell of woodsmoke, horse, tallow, and river mud. People smell of sweat, leather, and herbs. These baseline scents make your world feel lived-in.
 
-The key to using this technique is selective realism. Identify the general odour of your world (peat smoke, river mud, tallow candles), then describe your love interest's unique scent against that background. Give the pleasant scent an in-world justification: herbal wash, scented oils, magical essence, or simply the poetic focus of a narrator who's falling in love and notices only the good. Show how scent makes the character *feel* (calmed, electrified, achingly nostalgic) rather than cataloguing what they literally smell. And real humans are drawn to partners whose scent signals genetic compatibility, so a heroine overwhelmed by her love interest's scent isn't just genre convention. There's biology underneath it.
-
-**What does your world smell like, and what does your love interest smell like against that background?**
-*Scent is one of romantasy's most powerful sensory tools. Identify the baseline smells of your world, then layer your love interest's distinctive scent on top. The contrast between the ordinary and the intoxicating is what makes it land on the page.*
-
-**What does your world generally smell like?**
+**What are the dominant smells of your world — in cities, in homes, in the countryside?**
 
 *(Write your answer below)*
 
@@ -637,7 +568,7 @@ The key to using this technique is selective realism. Identify the general odour
 &nbsp;
 
 **What does your love interest smell like against that background?**
-*Think about the in-world justification for their scent (herbal wash, scented oils, magical essence, or just the poetic focus of a narrator falling in love) and how it makes your protagonist feel.*
+*Give their scent an in-world justification (herbal wash, scented oils, magical essence) and think about how it makes your protagonist feel.*
 
 *(Write your answer below)*
 
@@ -645,33 +576,21 @@ The key to using this technique is selective realism. Identify the general odour
 
 &nbsp;
 
-&nbsp;
-
 ### Food & Drink
 
-Food is one of the fastest ways to demonstrate differences in social status on the page. A meal that two characters from completely different worlds share will tell you everything you need to know: the character who has never eaten anything sweet, the one who doesn't recognise peasant bread, the moment when giving food is considered a gesture of care. To prepare a meal for another person is to create a sense of closeness. To watch another person enjoy a new type of food is to gain a greater understanding of them.
-
-Meals also serve as soft diplomacy where characters may engage in building trust through commonality in an everyday experience. In ACOTAR, the first dinners Feyre shares with Tamlin place a poor human huntress within the High Fae aristocracy. Through these experiences, she learns the rules of that world; incorrect perceptions are resolved; Tamlin shares his politics as if signing a formal treaty. The physical space of the table is transformed through the use of magic to draw the two characters closer together, domestic magic as a flirting mechanism rather than relying upon architectural features. In *From Blood and Ash*, sharing a meal with a captor-protector is a way to signal that you'll support or defend each other politically. Daphne in *Bridgerton* shares tea with the housekeeper to learn about her husband's childhood, which is an example of crossing social classes to develop a relationship, and the housekeeper holds the knowledge that Daphne was previously denied. Each time characters share a meal they're negotiating power. Who will host? Who will serve? Who will speak? Who may depart?
+Food marks class in visible ways and shared meals negotiate power. A character who has never eaten anything sweet reacts differently to a feast than one who takes it for granted. Every shared meal communicates status, care, and vulnerability.
 
 **Where does food come from, and how does it reach people?**
-*Markets, farms, foraging, trade caravans, and magical agriculture all shape what's on the table. A city that depends on grain shipments is vulnerable to siege or blockade; a village that grows its own food is self-sufficient but limited. How food reaches your characters tells you what happens when supply lines break.*
+*Markets, farms, foraging, trade caravans, magical agriculture. How food reaches your characters tells you what happens when supply lines break.*
 
 Farming? Markets? Trade caravans? Foraging? Magical agriculture?
 
 _______________________________________________________________
 
 **How is food preserved?**
-*Preservation methods shape what's available and when. A world that relies on seasonal eating creates different meal-sharing dynamics than one with year-round variety — and a character who's only ever eaten preserved food will react very differently to fresh fruit.*
-
 Salting, smoking, drying, pickling, cold storage, magical preservation:
 
-**How does food preservation affect daily life?**
-*Whether food is fresh or preserved affects what meals look like, what seasons feel like, and what counts as a luxury. A fresh peach in winter is a very different gift than one in summer.*
-
 Fresh food daily? Seasonal eating? Long-term storage possible?
-
-**What food is available to different classes?**
-*Food marks class in visible ways. A shared meal across class lines reveals everything: the character who's never eaten anything sweet reacts differently to a feast than the one who takes it for granted.*
 
 **What food is available to the wealthy, to ordinary people, and to the poor?**
 
@@ -694,7 +613,7 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 &nbsp;
 
 **What would a shared meal reveal about the gap between your characters?**
-*Shared meals are power negotiations. Who hosts, who serves, who speaks, who may leave — all of this communicates status, care, and vulnerability. Think about who would feel out of place, and whether a meal could become a turning point in their relationship.*
+*Who hosts, who serves, who speaks, who may leave — think about who would feel out of place.*
 
 *(Write your answer below)*
 
