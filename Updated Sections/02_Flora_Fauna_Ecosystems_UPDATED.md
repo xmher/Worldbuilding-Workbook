@@ -113,6 +113,8 @@ _______________________________________________________________
 
 ---
 
+*Before you start building, let's look at the most common pitfalls so you can avoid them from the start.*
+
 ## Common Mistakes with Flora & Fauna
 
 ### Mistake #1: The Decorative Ecosystem
@@ -152,6 +154,8 @@ _______________________________________________________________
 | **Bond That Does Everything:** A creature bond creates the romance automatically, skipping the work of building love and trust | | |
 
 ---
+
+*With those pitfalls in mind, let's lay the groundwork for your world's ecosystem.*
 
 ## The Ecosystem Foundation
 
@@ -229,6 +233,11 @@ _______________________________________________________________
 *Cross-check: Does your ecosystem match the climate and terrain you built in Section 1: Geography?*
 
 ---
+### ✦ Checkpoint: Ecosystem Foundation
+*Pause and look at your answers so far. Does the relationship between people and nature feel consistent with the climate and terrain you described? If magic affects your ecosystem, can you explain how in one sentence?*
+---
+
+*Now that you have the foundation, let's look at what lives in your world and how it all connects.*
 
 ## Food Chains & Natural Balance
 
@@ -283,6 +292,8 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
+*Your food chain establishes what's wild and dangerous. Now let's look at the animals people have brought into their lives.*
 
 ## Domesticated Animals & Animal Companions
 
@@ -407,6 +418,11 @@ _______________________________________________________________
 *Cross-check: Are your animals consistent with the technology and transport in Section 9?*
 
 ---
+### ✦ Checkpoint: Creatures & Companions
+*Pause and review. Do your domesticated animals, companions, and wildlife encounters feel like they belong in the same world? Could a reader picture a typical day with these animals in it?*
+---
+
+*Your animals need to eat, and so do your people. Let's look at what grows in your world.*
 
 ## Agriculture, Wild Plants & Foraging
 
@@ -522,6 +538,8 @@ _______________________________________________________________
 
 ---
 
+*Some of those plants don't just feed people -- they heal them. Let's look at medicine and the scenes it creates.*
+
 ## Medicine & Healing
 
 The healing scene is one of the most well-known tropes in romance, and personally it's a favourite. It provides an opportunity for characters to be physically closer to each other, especially when one or both of them aren't comfortable with that idea yet.
@@ -576,6 +594,8 @@ In *From Blood and Ash*, Poppy's empathic healing abilities create physical inti
 
 ---
 
+*Not everything in the wild wants to help your characters. Let's talk about what wants to kill them.*
+
 ## Dangerous Creatures
 
 A good creature encounter builds in layers. First the signs: tracks, silence, smell. Then the glimpse. Then the full reveal. Let your POV character's body react before their mind catches up. The prickle on the neck, the instinct to freeze.
@@ -601,6 +621,8 @@ Shared dangerous encounters bond characters because they've seen each other in s
 &nbsp;
 
 ---
+
+*Beyond the naturally dangerous, some creatures in your world may carry magic of their own -- and form bonds that change everything.*
 
 ## Magical Creatures & Creature Bonds
 
@@ -734,6 +756,11 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+### ✦ Checkpoint: Danger & Magic
+*Look at your dangerous creatures, magical creatures, and creature bonds together. Does the level of danger feel consistent across your world? If magic affects your ecosystem, does it create as many problems as it solves?*
+---
+
+*With your creatures and bonds established, let's look at the larger forces that shape your world from above: weather, seasons, and the pressure they put on everyone in it.*
 
 ## Weather, Seasons & Environmental Pressure
 
@@ -768,6 +795,8 @@ Seasonal festivals create social pressure that characters can't avoid. Calanmai 
 &nbsp;
 
 ---
+
+*Your ecosystem now has structure, danger, and magic. Let's look at the meaning people attach to all of it.*
 
 ## Symbolism & Cultural Meaning
 
@@ -880,6 +909,8 @@ And don't announce the connection. "The rain matched her sadness" kills the effe
 > Build the world first. Find the story in what you've built.
 
 ---
+
+*If your romance crosses species lines, the following supplement will help you build the biology, instinct, and social friction that makes inter-species love stories compelling.*
 
 # Section 2 · Supplement: Inter-Species Romance
 
@@ -1326,3 +1357,13 @@ _______________________________________________________________
 > The best inter-species romances don't position the human as "normal" and the non-human as "other." Both have their own valid ways of being.
 >
 > The question isn't "how does the non-human become acceptable?" It's "how do two people with genuinely different natures build something that honours both?"
+
+---
+### What's Next
+
+Your ecosystem is built. Here's where to take it:
+
+- **Section 3: Culture, Customs & Daily Life** → How do people live alongside the nature you've created? What do they eat, wear, celebrate?
+- **Section 4: Economy, Labour & Resources** → Your natural resources drive your economy. What's traded, farmed, hunted?
+- **Section 8: Magic System** → If magic affects your ecosystem, make sure the rules are consistent.
+- **Section 9: Technology & Infrastructure** → What tools do people use to work with (or against) nature?
