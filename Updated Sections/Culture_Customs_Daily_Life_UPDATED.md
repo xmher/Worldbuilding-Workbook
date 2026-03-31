@@ -2637,3 +2637,15 @@ _______________________________________________________________
 **Culture Is Behaviour, Not Exposition**
 
 Don't info-dump culture. Show it through action: characters following or breaking rules, social awkwardness when norms are violated. The best cultural worldbuilding is invisible until someone breaks the rules, and then everyone knows exactly what line was crossed.
+
+---
+
+### What's Next
+
+You've built the cultural fabric your characters live inside — the values they were raised on, the rules they follow, the customs that shape every relationship. Now it's time to look at the systems that enforce and fund that culture.
+
+- **Section 4: Economy, Labour & Resources** — Who has money and who doesn't? Economic class shapes everything from courtship prospects to daily routines. If class divides your characters, start here.
+- **Section 5: Government, Power & Law** — Who makes the rules your characters are breaking? Government determines which cultural norms have legal teeth and which are purely social pressure.
+- **Section 6: Religion, Myth & Prophecy** — If religion shapes your characters' daily lives, expand on the theology, institutions, and prophecies that underpin those habits.
+- **Section 9: Technology & Infrastructure** — Daily life depends on what's available. Lighting, transportation, communication — these shape what a "typical day" actually looks like.
+- **Section 12: Designing Your Key Locations** — The places where your cultural rules play out. Markets, temples, courts, and homes all need to reflect the customs you've built here.

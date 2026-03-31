@@ -643,6 +643,8 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
+*Cross-check: Do healing capabilities match your technology section (Section 9)? If magical healing is common, your world may not need hospitals or advanced medicine. If it's rare or costly, medical infrastructure still matters. Make sure your technology reflects what magic can and can't fix.*
+
 ---
 
 ## The Limits
@@ -948,6 +950,8 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 _______________________________________________________________________________
+
+*Cross-check: Are these magical creatures consistent with your flora and fauna (Section 2)? If your world has bonded dragons, your ecosystems should account for apex predators of that scale. If familiars exist, are they drawn from species you've already established? Make sure your magical creatures fit the natural world you've built.*
 
 ---
 
@@ -2574,3 +2578,15 @@ Magic in romantasy should create as many obstacles as it removes. Every ability 
 Whether your magic includes fated bonds or not, the real intimacy comes from characters choosing each other. The bond can say they're matched; only the characters can prove it true.
 
 What problems does magic create for your characters that they couldn't have without it? The answer to that question is where your most interesting conflict lives.
+
+---
+
+### What's Next
+
+You now have a magic system with a source, rules, costs, and limits -- and you know how it connects to your romance. Here's where to take it from here:
+
+- **Section 9: Technology & Infrastructure** -- How does magic interact with (or replace) technology in daily life? Your magic's capabilities shape what your civilisation needs to build.
+- **Section 5: Government, Power & Law** -- Magic creates power, and power creates politics. Who regulates magic, who's conscripted, and who's banned will flow directly from the decisions you made here.
+- **Section 6: Religion, Myth & Prophecy** -- If your magic has a divine source, your religious institutions should reflect it. If magic contradicts faith, that tension drives story.
+- **Section 2: Flora, Fauna & Ecosystems** -- Magical creatures, corrupted lands, and enchanted resources all need to fit the natural world you're building.
+- **Section 13: The Pressure Cooker** -- Your magic system's costs and limits are some of the strongest sources of pressure on your characters. Bring them forward when you stress-test your world.
