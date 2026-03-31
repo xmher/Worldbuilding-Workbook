@@ -764,6 +764,24 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+### How Religion Responds to Crisis
+
+Faith is never tested more severely than during collective catastrophe — war, plague, famine, natural disaster. Some people pray harder; others stop praying entirely. Institutions may tighten their grip or lose credibility. The way a religion responds to crisis reveals whether it serves people or controls them, and that distinction matters enormously for your romance.
+
+**What happens to faith in your world during war, plague, or disaster?**
+*Do people turn to the temples for comfort, or blame the gods for abandoning them? Does the religious institution step up to help, or exploit the crisis to consolidate power? A religion that feeds the hungry during famine earns genuine loyalty. One that demands tithes while people starve earns resentment — and characters willing to rebel.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How does collective crisis change the stakes for your characters' forbidden relationship?**
+*During disaster, rules may loosen because no one is watching — or tighten because the institution blames the crisis on moral failures like forbidden love. A plague might be declared divine punishment for heresy, making your characters' relationship suddenly dangerous in a new way. Alternatively, shared suffering might make religious divisions feel petty, creating an opening.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## How Religious Obstacles Resolve
@@ -1484,16 +1502,16 @@ _______________________________________________________________
 
 ---
 
-## Integration Check
+## Integration Check: Religion and Other Systems
 
-| Question | Answer | Example (*Priory of the Orange Tree*) |
-|----------|--------|---------------------------------------|
-| How does religion explain or relate to magic? | | Sacred tree grants magic; dragons are holy, wyrms are evil |
-| How does religion legitimise or conflict with government? | | Queen rules by holy bloodline; Priory protects but operates outside the law |
-| How do cultural taboos relate to religious law? | | Celibacy is a Priory vow; breaking it means losing her place in the order |
-| Could your characters use religion to legitimise their relationship? | | She could argue love gave her strength, redefining faith to include it |
-| Or does religion make legitimising impossible? | | The vows are clear: serve the queen, not your heart. No loophole exists |
-| Does a founding myth need to be dismantled for the romance to succeed? | | The myth of Saint Galian must be exposed as a lie before Sabran can be free |
+*Use this to verify that your religion connects logically to the other systems you've built. For a full summary of your religious worldbuilding, see the Quick Reference sheet below.*
+
+| System | How Does Religion Interact With It? | Example (*Priory of the Orange Tree*) |
+|--------|-------------------------------------|---------------------------------------|
+| Magic | How does religion explain, control, or condemn magic? | Sacred tree grants magic; dragons are holy, wyrms are evil |
+| Government | Does religion legitimise, compete with, or undermine political power? | Queen rules by holy bloodline; Priory protects but operates outside the law |
+| Economy | Does the religion control resources, trade, or labour through doctrine? | Priory sustains itself independently; the Western church controls tithes and land |
+| Culture & daily life | How do religious customs shape what people eat, wear, celebrate, and avoid? | Celibacy is a Priory vow; the West's gender roles flow from the Galian myth |
 
 ---
 
