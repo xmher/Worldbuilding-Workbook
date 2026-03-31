@@ -5,6 +5,9 @@ Every romantasy is shaped by what's easy and what's hard in its world. Will your
 
 Don't get caught up in specifics at this time. Focus on how technology shapes daily life, what it enables, and what it prevents.
 
+> **How to Use This Section**
+> Questions marked **⬥ Core** are the essentials — answer these first to establish your world's technological foundation. The remaining questions let you go deeper into specific areas. If you're short on time, the Core questions alone will give you a working technology framework. Come back for the rest when your story needs more detail.
+
 ---
 
 ## The Constraint Engine Principle
@@ -136,7 +139,7 @@ Not every question in this section will apply to your world. A futuristic settin
 
 Now that you know the common pitfalls, it's time to establish what actually exists in your world. Before diving into specifics, establish the broad strokes. Your approximate technology level sets the baseline for everything that follows, and knowing where it's uneven is where the interesting story possibilities live. When your characters come from regions with different technology levels, that gap becomes a source of wonder, discomfort, and misunderstanding that fuels romantic tension.
 
-**What's the approximate technology level?**
+**⬥ Core — What's the approximate technology level?**
 Reference points: Stone Age, Bronze/Iron Age, Medieval, Renaissance, Early Modern, Industrial, Modern, Futuristic, Mixed/Uneven
 
 **Is technology consistent across your world, or does it vary by region?**
@@ -152,7 +155,7 @@ Reference points: Stone Age, Bronze/Iron Age, Medieval, Renaissance, Early Moder
 
 &nbsp;
 
-**What is the most advanced technology in your world, and who has access to it?**
+**⬥ Core — What is the most advanced technology in your world, and who has access to it?**
 *The cutting edge of your world's technology — whether it's enchanted mirrors, flying ships, or healing magic — defines your world's ceiling of possibility. More importantly, who can use it and who can't creates one of your sharpest dividing lines between characters.*
 
 *(Write your answer below)*
@@ -174,7 +177,7 @@ Reference points: Stone Age, Bronze/Iron Age, Medieval, Renaissance, Early Moder
 
 &nbsp;
 
-**How does technology differ between the wealthy and the poor?**
+**⬥ Core — How does technology differ between the wealthy and the poor?**
 *A noble's household and a labourer's household may exist in the same city but live in different technological worlds. Identify what the richest people in your world take for granted that the poorest have never seen.*
 
 *(Write your answer below)*
@@ -195,6 +198,8 @@ Reference points: Stone Age, Bronze/Iron Age, Medieval, Renaissance, Early Moder
 | Magic stunts technological development | | |
 | Magic enhances technology | | |
 
+*Cross-check: Does your tech level match your economic system (Section 4)? An industrial economy needs industrial technology. A subsistence economy with advanced tech needs an explanation for why that tech hasn't changed the economy.*
+
 ---
 
 ## Movement & Distance
@@ -205,7 +210,7 @@ Forced proximity works by generating iterated contact under stakes: danger, surv
 
 But forced proximity doesn't always require a road. In *The Cruel Prince*, Holly Black took the mechanism of forced proximity and placed it within the confines of the court. Oaths, glamour, and political surveillance replace travel as the thing that keeps characters in each other's orbit. Jude can't leave Faerie, can't escape the court's watchful eye, can't move without being observed. The confinement is not physical but jurisdictional, and yet the results are the same: repeated contact with the pressure of being trapped, with no way out. Think about what forces *your* characters into proximity. Is it distance? Duty? Political obligation? An unbreakable bond? The specific mechanism that brings your characters close to each other is less important than the fact that they can't walk away.
 
-**What transportation methods exist?**
+**⬥ Core — What transportation methods exist?**
 
 | Method | Speed | Cost | Who Has Access |
 |---|---|---|---|
@@ -227,7 +232,7 @@ But forced proximity doesn't always require a road. In *The Cruel Prince*, Holly
 
 &nbsp;
 
-**How long does travel take between important locations?**
+**⬥ Core — How long does travel take between important locations?**
 *Travel time shapes the emotional weight of journeys, but don't overlook short-distance containment: a carriage ride across town can be just as powerful as a week-long journey. In *Bridgerton* Season 3, a single carriage scene becomes the friends-to-lovers turning point. The enclosed space, the rhythmic movement, the inability to walk away mid-conversation. The carriage functions as a sealed room on wheels.*
 
 **How long does it take to travel between your world's major cities? How long is the journey your characters take?**
@@ -312,7 +317,7 @@ But communication constraints aren't just about speed. They also define what can
 
 Regardless of the technology, show your characters adjusting their behaviour to meet the constraints imposed by it. The use of codes in letters that may be intercepted, the frustration of having to wait for urgent news to travel, the elation of being able to speak openly for the first time.
 
-**What communication methods exist over distance?**
+**⬥ Core — What communication methods exist over distance?**
 Can your characters reach each other across distance, and at what cost?
 
 | Method | Speed | Reliability | Privacy |
@@ -366,6 +371,8 @@ _______________________________________________________________
 | *The Maiden's communication ban (From Blood and Ash)* | *Every conversation with Hawke becomes a transgressive act* | *Even speaking her own name carries enormous weight* |
 | | | |
 | | | |
+
+*Cross-check: How does your communication technology interact with your government's ability to enforce laws (Section 5)? A government that claims tight control but has no way to intercept messages has a credibility gap. A government with magical surveillance but slow communication creates a different kind of tension.*
 
 ---
 
@@ -520,7 +527,7 @@ _______________________________________________________________
 
 ### Heating, Cooling & Shelter
 
-**How do people stay warm?**
+**⬥ Core — How do people stay warm?**
 Fireplaces, central heating, braziers, body heat, magical warmth:
 
 **How do people stay cool?**
@@ -541,7 +548,7 @@ _______________________________________________________________
 
 Bathing technology shapes some of romantasy's most charged scenes. The setting — river, bathhouse, private chamber — determines the kind of vulnerability on display. In pre-industrial worlds, a true bath may be a luxury, making the act itself significant.
 
-**How do people get clean water?**
+**⬥ Core — How do people get clean water?**
 *Wells, rivers, aqueducts, pumps, magical purification — the answer shapes daily labour, disease risk, and who controls a basic necessity.*
 
 **Where does drinking water come from, and how far do people travel to get it?**
@@ -597,7 +604,7 @@ A world without modern sanitation has a rich sensory landscape. Cities smell of 
 
 Food marks class in visible ways and shared meals negotiate power. A character who has never eaten anything sweet reacts differently to a feast than one who takes it for granted. Every shared meal communicates status, care, and vulnerability.
 
-**Where does food come from, and how does it reach people?**
+**⬥ Core — Where does food come from, and how does it reach people?**
 *Markets, farms, foraging, trade caravans, magical agriculture. How food reaches your characters tells you what happens when supply lines break.*
 
 Farming? Markets? Trade caravans? Foraging? Magical agriculture?
@@ -670,7 +677,7 @@ When writing these types of scenes, keep in mind that medical environments tend 
 
 ### Medicine & Healing
 
-**What medical knowledge exists?**
+**⬥ Core — What medical knowledge exists?**
 *Medical technology determines what injuries are survivable and what illnesses are death sentences. The gap between "hurt" and "dying" is where caretaking intimacy lives — and your world's medicine determines how wide that gap is.*
 
 | Condition | Treatment Available | Effectiveness |
@@ -720,7 +727,7 @@ Cost? Location? Class? Connections?
 
 ### Contraception & Reproduction
 
-**What contraception exists?**
+**⬥ Core — What contraception exists?**
 *In romantasy, contraception technology — or its absence — directly affects intimate scenes and their consequences. What options your characters have shapes what intimacy means and what risks it carries.*
 
 | Method | Effectiveness | Availability |
@@ -819,7 +826,7 @@ _______________________________________________________________
 
 Architecture shapes where intimacy is possible. Thick stone walls muffle sound; timber partitions don't. A tower room isolates; an open longhouse exposes. Whether your characters live in a sprawling palace or a single-room dwelling determines what privacy looks like and what "alone together" actually means.
 
-**What are buildings made from, and what does that mean for privacy?**
+**⬥ Core — What are buildings made from, and what does that mean for privacy?**
 *Stone castles, timber halls, mud-brick dwellings. Each creates different atmospheres and different levels of sound isolation.*
 
 **What are the most common building materials in your world? Can your characters be heard through the walls?**

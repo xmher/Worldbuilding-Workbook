@@ -1,6 +1,8 @@
 # Culture, Customs & Daily Life
 **Daily routines, social rules, forbidden desires, slow-burn tension, courtship customs**
 
+> **How to Use This Section:** This is the largest section in the workbook — it covers everything from daily routines to courtship to exile. You do not need to answer every question. Questions marked **⬥ Core** are the essentials; start there. All other questions are Deep Dive — use them when you need more detail for a specific area of your story. Use the Section Map below to jump to what matters most, and skip anything that doesn't serve your romance.
+
 Culture is the texture of your world. It's the unwritten rules everyone knows, the rituals that mark important moments, the things people do without thinking about them. How they greet each other, what they eat, what they believe about luck, how they raise their children, and what they do for fun. And in romantasy, culture is the invisible architecture that determines what your characters can and can't do, what it costs them to step out of line, and what hoops they have to jump through to be together.
 
 ---
@@ -38,7 +40,7 @@ Before mapping how culture creates romantic tension, get your initial vision dow
 
 &nbsp;
 
-**What are the most important social rules people follow without questioning them?**
+**⬥ Core: What are the most important social rules people follow without questioning them?**
 
 *Think about hierarchy, gender, class, religion, family — what do people accept as "just the way things are"?*
 
@@ -263,7 +265,7 @@ Use this list when deciding what your culture values most. Pick 3-5 that define 
 | Order | Tradition, hierarchy, obedience, propriety, law, duty, sacrifice for the greater good |
 | Power | Strength, dominance, conquest, political influence, magical ability, control, leadership |
 
-**What does your culture value most highly?**
+**⬥ Core: What does your culture value most highly?**
 
 List 3-5 core values in order of importance:
 
@@ -365,7 +367,7 @@ Gender (or equivalent social categories in your world) shapes behaviour, opportu
 
 Show gender constraints through small friction points rather than big dramatic confrontations: the dress that limits movement, the conversation she's excluded from, the assumption made about her desires without asking. Don't overlook the costs of conformity either: the mental fatigue, the emotional exhaustion, the sorrow for choices not made. The space between how society views your characters and how their lover views them is precisely where the romance lives.
 
-**What roles and behaviors does your culture expect based on gender?**
+**⬥ Core: What roles and behaviors does your culture expect based on gender?**
 
 *What are people supposed to do, and what are they forbidden from doing? Focus on what affects your story.*
 
@@ -377,7 +379,7 @@ Show gender constraints through small friction points rather than big dramatic c
 
 &nbsp;
 
-**How can you tell someone's social class just by looking at them?**
+**⬥ Core: How can you tell someone's social class just by looking at them?**
 
 *Think about clothing, posture, speech patterns, where they walk, what they carry. What signals status at a glance?*
 
@@ -435,7 +437,7 @@ The number of routines you choose to depict isn't as important as establishing a
 
 As soon as romance enters into a character's routine, the reader will be able to sense the difference due to the prior knowledge of what was considered "normal." Their character begins to wake up thinking of someone. The regular walk back home has new feelings because there could be this person. These little changes resonate with the reader because the reader understands the context from before.
 
-**What does a typical day look like from morning to night?**
+**⬥ Core: What does a typical day look like from morning to night?**
 
 *When do people wake? What happens first? Is there a midday rest or main meal? When does work end? What fills the evening?*
 
@@ -487,7 +489,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How do people treat strangers or newcomers?**
+**⬥ Core: How do people treat strangers or newcomers?**
 
 *Are outsiders welcomed, tolerated, or feared? What does a newcomer have to do to be accepted?*
 
@@ -506,6 +508,8 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
+
+> *Cross-check: Does the daily routine you described match your technology level? If your world lacks indoor plumbing or electric light, daily life should reflect that. See Section 9: Technology & Infrastructure.*
 
 ---
 
@@ -631,7 +635,7 @@ Don't have to invent a whole cuisine. Just focus on those aspects of food which 
 
 Eating together is one of the most simple ways to develop intimacy. When characters first begin to eat together, pay close attention to what they notice about each other's habits. Is she picking at her food? Is he eating as if he has no idea when his next meal will come? Cooking for someone is an act of caring. Use this in your writing. Refusing to eat with someone, or eating by yourself when you can be sharing a meal, also means something. To create a food scene that works well, you should slow down on the detail of the senses: the smell of the food, the warmth of a shared cup, the way a character tears apart their bread. Let the physical action of eating together do all the emotional work.
 
-**What do people eat, and how do they eat it?**
+**⬥ Core: What do people eat, and how do they eat it?**
 
 *Describe morning, midday, and evening meals. Do people eat alone, communally, or formally? Meals give you the raw material for scenes that do emotional heavy lifting.*
 
@@ -773,7 +777,7 @@ A person's religion in everyday life is based on habits, not theology. The small
 
 Most religions are rooted in the small things: how someone prays before a meal, what someone says when receiving bad news, and a shrine that exists in almost every home. Inevitably, when two characters' religions clash, there will be conflict; and when two characters quietly pray together, there is intimacy. A character finding out that their love interest knows their prayer, or mouthing along with a blessing they don't believe in simply because they want to show respect, is an intimate gesture that provides significant romantic impact.
 
-**What role does religion/spirituality play in daily life?**
+**⬥ Core: What role does religion/spirituality play in daily life?**
 
 *These details will determine whether your characters share a spiritual vocabulary or must navigate different faiths — both of which shape the intimacy available to them.*
 
@@ -824,6 +828,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 _______________________________________________________________
+
+> *Cross-check: Is what you described here consistent with the full religion you built in Section 6: Religion, Myth & Prophecy? Daily spiritual habits should flow from the theology and institutions you established there.*
 
 ---
 
@@ -1016,7 +1022,7 @@ Hospitality governs how characters enter each other's worlds. Entertainment gove
 
 Leisure time provides natural settings for characters to meet outside their normal roles. A dance requires physical contact. A game reveals personality. A shared story creates inside jokes. Leisure activities often provide a "cover" for spending time together without acknowledging the real reason, and when a character develops an unexplained sudden interest in an art form their love interest practises, it's obvious to everyone else. The transparent nature of this behaviour adds to its charm.
 
-**What entertainment is common?**
+**⬥ Core: What entertainment is common?**
 
 *Leisure activities give your characters excuses to spend time together outside their normal roles. A dance requires touch. A game reveals personality. A shared story creates inside jokes. What does your world offer?*
 
@@ -1196,7 +1202,7 @@ The forbidden shows what the culture fears. In romantasy, taboos are the "forbid
 
 Forbidden love has its excitement in the risk involved. Ensure that your reader understands the consequences of breaking the taboo for each character before they do so. The first transgression must feel dangerous. Subsequent transgressions may increase the risk, or they may make the previously forbidden become acceptable. Both options can be used; however, having an idea of which you plan to use is helpful.
 
-**What behaviors are taboo in your world?**
+**⬥ Core: What behaviors are taboo in your world?**
 
 *Consider physical taboos (touch, proximity, eye contact), verbal taboos, social taboos, magical taboos, and sexual taboos.*
 
@@ -1796,7 +1802,7 @@ You've defined what the body says and what it wears. Now define the script your 
 
 All cultures have a romantic script: the expected ways to indicate interest and the approved sequence from stranger to spouse. The romantic tension comes from the gap between what's expected and what's felt. Characters who are acutely aware of which step they're on, frustrated with a rigid pacing that doesn't match their feelings, constantly calculating whether they can skip ahead. Once a couple deviates from the script, it should be apparent that both know what they're doing. The script becomes most important once they deviate from it.
 
-**How do people show romantic interest?**
+**⬥ Core: How do people show romantic interest?**
 
 What's the cultural script for "I'm interested in you"?
 
@@ -1806,7 +1812,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What's the expected progression of a relationship?**
+**⬥ Core: What's the expected progression of a relationship?**
 
 Map the steps from "strangers" to "married":
 
@@ -1934,7 +1940,7 @@ Marriage is where individualised love becomes a public rite of passage. Who can 
 
 These customs will determine whether your characters are rushing towards marriage or trying to escape it. Weddings create great set-piece moments. Since they are public, the ceremony can increase tension: the vows have to be said out loud, the witnesses can watch for hesitation, the moment when an objection can be raised. No matter whether the couple is getting married with open arms or against their will, the ceremony should have a sense of finality. Take your time to describe what your character sees, hears, and feels during the ceremony, and let the ritual carry the emotional weight.
 
-**What makes a marriage "real" in cultural terms — beyond legal requirements?**
+**⬥ Core: What makes a marriage "real" in cultural terms — beyond legal requirements?**
 
 Religious ceremony? Community witness? Consummation? Exchange of vows? Magical binding? Family blessing?
 
@@ -2021,6 +2027,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 _______________________________________________________________
+
+> *Cross-check: Do the marriage customs here match the legal requirements in your government? If your government regulates who can marry, requires permits, or bans certain unions, those laws should align with — or deliberately conflict with — the cultural customs above. See Section 5: Government, Power & Law.*
 
 ---
 
@@ -2290,7 +2298,7 @@ The threat of exile is often more useful to your story than exile itself. You do
 
 When building exile customs, think about what the banished person loses beyond location. Name? Family connections? Access to magic? Their place in the afterlife? The more exile strips away, the more your character risks by pursuing a forbidden relationship. And consider what replaces the lost community: in many romantasy stories, the romance provides not just a partner but a found family, a new world built on choice rather than inheritance.
 
-**What does banishment or exile look like in your world?**
+**⬥ Core: What does banishment or exile look like in your world?**
 
 Physical exile from the territory? Social death while remaining present? Being cut off from family, magic, or community? Loss of name, title, or identity? Inherited stigma that marks the next generation?
 
@@ -2451,6 +2459,8 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
+
+> *Cross-check: Does the class structure you described here match the economic system you built in Section 4: Economy, Labour & Resources? If wealth determines status, the paths to wealth should align with who holds power in your hierarchy.*
 
 ---
 

@@ -23,7 +23,7 @@ If your magic only provides benefits then it's uninteresting. Magic that helps a
 
 Design your magical system based off of one question -- what does it cost? The answer to that will help you design the rest of the world around it.
 
-**What can magic do in your world? In a few sentences, describe the big picture.**
+**⬥ Core: What can magic do in your world? In a few sentences, describe the big picture.**
 
 *Don't worry about rules yet -- just get the vision down. What does magic look like in your world? Is it flashy and elemental, subtle and psychological, biological and inherited? What's the first image that comes to mind when you think of magic in your story?*
 
@@ -33,7 +33,7 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**Who has access to magic? How common is it?**
+**⬥ Core: Who has access to magic? How common is it?**
 
 *Is nearly everyone magical, or is it rare and feared? Is it inherited, learned, granted, or stolen? A quick sketch here will anchor everything that follows.*
 
@@ -42,6 +42,14 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 _______________________________________________________________________________
+
+### How to Use This Section
+
+**⬥ Core questions** are the essential building blocks every magic system needs. If you're short on time, answer these first — they give you a functional magic system you can write with.
+
+Everything else is **Deep Dive** — important for adding nuance and complexity, but you can return to these as your story develops. If a subsection doesn't apply (no bonded creatures, no forbidden magic), skip it entirely.
+
+---
 
 ## How to Think About Magic in Romantasy
 
@@ -158,7 +166,7 @@ _______________________________________________________________________________
 
 Every magic system has an origin, and where the power actually comes from shapes everything: who has access, how it's viewed by society, what it costs to use, and whether it can unite or divide your leads.
 
-**Where does magic come from in your world?**
+**⬥ Core: Where does magic come from in your world?**
 Options: the gods or divine forces, the natural world (ley lines, elemental forces), an internal source (bloodlines, souls, emotions), external objects, knowledge and study, a bargain or bond, something unknown or mysterious.
 
 _______________________________________________________________________________
@@ -204,6 +212,8 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
+*Cross-check: Does your magic source connect to your religion (Section 6)? If magic comes from the gods, your religious institutions should reflect that. If magic predates or contradicts the gods, that tension should show up in how believers and magic users relate to each other.*
+
 ---
 
 ## Who Can Use Magic
@@ -219,7 +229,7 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**What determines whether someone can use magic?**
+**⬥ Core: What determines whether someone can use magic?**
 Birth (bloodlines, species, being "chosen"), training and study, a triggering event (trauma, ritual), possession of an object or bond, random chance, a sacrifice or bargain.
 
 _______________________________________________________________________________
@@ -258,7 +268,7 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**How does magic change daily life for people who can't use it?**
+**⬥ Core: How does magic change daily life for people who can't use it?**
 
 *Non-magical people still live in a magical world. Do they rely on enchanted tools, buy potions at market, avoid cursed areas, or resent the mages who control resources they can't access? The ordinary person's experience of magic shapes your world's texture and social tensions.*
 
@@ -268,6 +278,8 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
+*Cross-check: Does magical access match your class and political structure (Section 5)? If only certain bloodlines have magic, that should be reflected in who holds power. If anyone can learn magic, ask who controls the training — and whether that creates the same hierarchies you've built into your government.*
+
 ---
 
 Now that you know who has magic and how common it is, the next step is figuring out what it actually looks like when someone uses it.
@@ -276,7 +288,7 @@ Now that you know who has magic and how common it is, the next step is figuring 
 
 This is the mechanical heart of your system, the "physics" of magic. You don't need to explain everything to readers, but you should understand how it operates so your story stays consistent. And the mechanics matter for romance too, because the process of using magic can strip away defences.
 
-**How does someone actually do magic? What does the process look like?**
+**⬥ Core: How does someone actually do magic? What does the process look like?**
 Spoken words, physical gestures, intense concentration, drawing symbols, channelling through objects, emotional states, rituals, physical contact, visualisation, music or art.
 
 _______________________________________________________________________________
@@ -285,7 +297,7 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**What does magic look like when it happens?**
+**⬥ Core: What does magic look like when it happens?**
 What do bystanders see, hear, or feel? Think about light, sound, temperature, smell, or a shift in the air.
 
 _______________________________________________________________________________
@@ -294,7 +306,7 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**What does magic feel like to the person using it?**
+**⬥ Core: What does magic feel like to the person using it?**
 
 *Heat in the veins, pressure behind the eyes, a hum in the bones, a taste on the tongue? The internal sensation of casting is what makes magic feel real on the page. You'll build on this in the "Magic Through the Body" section below, but sketch the basics now.*
 
@@ -323,7 +335,7 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**What happens when magic goes wrong -- misfires, backfires, or unintended effects?**
+**⬥ Core: What happens when magic goes wrong -- misfires, backfires, or unintended effects?**
 
 *A miscast spell that scars the landscape, a healing that transfers the wound to someone else, a shield that traps the wrong person inside. Magical accidents reveal what your system does when it breaks, and that tells readers more about how it works than any successful casting.*
 
@@ -526,7 +538,7 @@ This is where your magic system really starts to get interesting. Unlimited powe
 
 When the cost of the magic is something that has been freely given as opposed to demanded, then the cost becomes romantic. When your character chooses to pay a price for someone else without being asked. So when you're writing this, show the cost through the body and through consequence, not through explanation. Don't tell readers that healing magic requires equivalent pain. Show the healer gritting their teeth. Show them bracing before they reach for someone's wound. Show them unable to stand afterwards. And when one character pays the price for another, let the witness react: the horror of watching someone you care about suffer for you, the guilt, the fury at not being asked first.
 
-**What does using magic cost?**
+**⬥ Core: What does using magic cost?**
 Physical energy/exhaustion, pain/damage, shortened lifespan, emotional toll, rare materials, time, moral cost (corruption, debt), something from the world around them.
 
 _______________________________________________________________________________
@@ -544,7 +556,7 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
-**What happens when someone overextends, using more magic than they can safely handle?**
+**⬥ Core: What happens when someone overextends, using more magic than they can safely handle?**
 Overextension consequences create tension in high-stakes moments. What would your protagonist risk by pushing too far?
 
 _______________________________________________________________________________
@@ -637,7 +649,7 @@ _______________________________________________________________________________
 
 What your magic cannot do is just as important as what your magic can do. Limitations create tension, require creative thinking on the part of your characters and eliminate the ability for your characters to solve every problem with a simple wave of their hand. They also create romantic complications. In *The Cruel Prince*, the Fae can't lie. Every cruel thing Cardan says, Jude knows he means it. And every rare moment of honesty hits harder because she knows it's true; he literally can't say "I love you" unless he does.
 
-**What is absolutely impossible with magic in your world? Name at least three things.**
+**⬥ Core: What is absolutely impossible with magic in your world? Name at least three things.**
 Firm limitations prevent magic from solving every problem. What must your characters face without magical shortcuts?
 
 1. ___________________________________________________________________________
@@ -949,7 +961,7 @@ In ACOTAR, Feyre returns from Under the Mountain transformed from a mortal huntr
 
 The same can be said throughout the genre. At first, Reid reacts to discovering Lou is a witch with horror; his entire identity is built on destroying her kind. Reid only allows their relationship to continue once he accepts that he himself is magically gifted and he chooses to join Lou in the realm of magic rather than asking her to abandon hers. In Throne of Glass, Rowan's bond with Aelin survives the loss of her fire because their partnership was built on character, not magical utility. He accepts her as a mortal queen, proving their love is deeper than what her power could do.
 
-**How does your love interest respond to your protagonist's magic?**
+**⬥ Core: How does your love interest respond to your protagonist's magic?**
 This is one of the most revealing questions you can ask about your romance. A partner who fears the transformation often represents a desire for control. A partner who embraces it facilitates the protagonist's growth.
 
 | Response Pattern | What It Signals | Example |
@@ -2061,7 +2073,7 @@ _______________________________________________________________
 
 Magic doesn't just affect your characters. It shapes the larger world they live in, and that world exerts its own pressure on their relationship. Wars fought over magical resources. Political systems built on magical hierarchy. Environmental damage from centuries of spellwork. These aren't personal conflicts, but they create the conditions your characters must navigate, and often force impossible choices between love and duty, safety and conscience, each other and everyone else.
 
-**How has magic shaped the power structures in your world? Who's on top because of magic — and who's at the bottom?**
+**⬥ Core: How has magic shaped the power structures in your world? Who's on top because of magic — and who's at the bottom?**
 
 *Magical hierarchy creates the conditions your characters must navigate. If your leads come from different levels of this hierarchy, the world itself is pushing against their relationship.*
 

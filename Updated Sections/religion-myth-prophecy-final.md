@@ -4,6 +4,12 @@
 
 What do your characters believe about gods, death, destiny, and what it all means? The way a person thinks about religion guides their morals, creates a sense of community, defines their identity, and provides them with the type of stories they create for themselves. In your world, religious beliefs may have an actual literal effect on the lives of those who live there: gods who answer prayers, prophecies that come to pass, divine magic that proves faith isn't just faith. And in romantasy, religion does something no other worldbuilding element can. It allows for romantic love to feel sinful, for self-sacrifice to be seen as saving grace, and for making the "wrong" choice to feel like you have damned your own soul.
 
+## How to Use This Section
+
+Questions marked **⬥ Core** are the essentials — answer these first to establish a working religion for your story. Everything else is a **Deep Dive** that adds richness and complexity. If you're short on time, the Core questions alone will give you enough to write convincingly. Come back to the Deep Dives when you need more detail or when a specific area (prophecy, interfaith love, religious guilt) becomes important to your plot.
+
+---
+
 ## The Altar Principle
 
 Every religion has an altar. A place where you have to lay something down. An offering, a sacrifice, a vow.
@@ -20,14 +26,14 @@ Create a religion that is important enough for your characters to fight for, aga
 
 Before you can answer the altar question, you need to know what religion exists in your world. Start with the basics:
 
-**What role does religion play in your world?**
+**⬥ Core: What role does religion play in your world?**
 *Is it the dominant force in society, a fading tradition, one voice among many, or something else entirely? How present is it in the daily lives of ordinary people?*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**In one or two sentences, what do most people in your world believe about the divine?**
+**⬥ Core: In one or two sentences, what do most people in your world believe about the divine?**
 *Don't overthink this — just get the broad shape down. You'll refine it in the exercises that follow.*
 
 _______________________________________________________________
@@ -117,7 +123,7 @@ When you're writing devout characters, show faith through habit, not declaration
 | Ambiguous | Faith without proof; gods may or may not exist | Room for genuine doubt; faith as choice; religious and secular worldviews can coexist |
 | Atheistic | No gods; religion is cultural/social | Focus on community and tradition; meaning is human-made |
 
-**What kind of gods (if any) does your world have, and how do people relate to them?**
+**⬥ Core: What kind of gods (if any) does your world have, and how do people relate to them?**
 *You can combine types (e.g., polytheism with confirmed gods, or animism with absent gods). Your choice shapes what religious doubt, devotion, and defiance look like in your story.*
 
 _______________________________________________________________
@@ -131,7 +137,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What happens to people in your world who don't believe, or who follow a different faith?**
+**⬥ Core: What happens to people in your world who don't believe, or who follow a different faith?**
 *Are nonbelievers tolerated, pitied, shunned, or punished? Is there a difference between quiet doubt and open defiance? The answer shapes how dangerous it is for a character to question their faith — or to love someone who does.*
 
 _______________________________________________________________
@@ -142,7 +148,7 @@ _______________________________________________________________
 
 This changes everything. In a world where gods visibly answer prayers, atheism is unreasonable. In a world where they don't, devout faith is a choice, admirable or foolish depending on perspective.
 
-**What's the divine reality of your world?**
+**⬥ Core: What's the divine reality of your world?**
 Whether gods are real and active affects how your characters relate to faith and what divine intervention might mean for their romance.
 
 | Status | What This Means for Story |
@@ -321,14 +327,14 @@ Religious authorities can be allies, enemies, or complex figures caught between 
 
 &nbsp;
 
-**Where do people go to worship, and what do those places look like?**
+**⬥ Core: Where do people go to worship, and what do those places look like?**
 *Grand cathedrals? Forest shrines? Home altars? Underground temples? The physical spaces of worship tell you a lot about a religion's values — and they create settings where sacred rules press down on characters. Think about who is allowed inside, what the space smells and sounds like, and what behaviour is expected there.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Who are the religious leaders, and how did they gain their authority?**
+**⬥ Core: Who are the religious leaders, and how did they gain their authority?**
 These leaders may become allies or antagonists. Think about who holds power to help or harm your characters' relationship.
 
 | Position | Title | How They Gain Authority | Example |
@@ -448,7 +454,7 @@ What are the actual restrictions of faith on love and marriage? Faith takes what
 
 This is probably the most romantic way that religious law can be used in a romantasy. The protagonists' love isn't just prohibited by religious law, but is considered heresy, or blasphemous, or an existential threat to their world. In *Serpent & Dove*, the Church views Lou as a "monster" inherently. In *From Blood and Ash*, the state religion deifies Poppy and isolates her completely. In *The Jasmine Throne*, the faith of the empire requires all female nobility to burn alive for "purity." These are not minor prohibitions. They are the systems by which society operates, and so the couple's romance feels like a rebellion against the universe.
 
-**What does your religion teach about love and marriage?**
+**⬥ Core: What does your religion teach about love and marriage?**
 Sacred gift? Duty? Path to the divine? Distraction from spiritual purpose? How a religion frames love determines whether your characters' feelings are blessed or blasphemous.
 
 
@@ -489,7 +495,7 @@ Identify the specific rules that create obstacles. These become the stakes your 
 - ☐ The beloved's magic/nature is classified as heretical
 - ☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**What are the consequences for violating religious law?**
+**⬥ Core: What are the consequences for violating religious law?**
 Not just social disapproval. What are the spiritual, magical, and institutional consequences? Excommunication? Damnation? Loss of divine favour or magic? Ritual punishment? Social ostracism?
 
 
@@ -653,7 +659,7 @@ Hidden faith creates unique romantic tension. The lover who discovers the secret
 
 Religion is much more than institutions and doctrines. It's all of those daily actions, those moments that shape the way in which people believe. Once you understand what religion looks like in the everyday life of your character, you can write them with a true sense of devotion or as someone who has lost their way from their faith. And for romance, daily practice is where faith becomes visible: the prayer whispered before danger, the ritual skipped after a forbidden kiss, the holy symbol tucked away when entering the lover's bed.
 
-**What religious practices are part of daily life?**
+**⬥ Core: What religious practices are part of daily life?**
 Daily practices make faith feel real on the page. What rituals would your characters perform automatically, or deliberately skip?
 
 | Practice | When/How Often | What It Involves | Which Characters Observe It |
@@ -663,7 +669,7 @@ Daily practices make faith feel real on the page. What rituals would your charac
 | Evening observance | | | |
 | Weekly/regular gatherings | | | |
 
-**What things are taboo or forbidden in everyday life because of religion?**
+**⬥ Core: What things are taboo or forbidden in everyday life because of religion?**
 *Foods they won't eat, words they won't say, places they won't go, things they won't touch. Taboos make faith visible in small moments — and create tension when a character breaks one for the first time.*
 
 
@@ -1215,7 +1221,7 @@ Sacred stories serve as models for romance: the tales your characters want to em
 
 Romance and sacred stories use similar mechanics because many times characters define themselves and their relationships using the mythology surrounding their lives. If a character grew up hearing the tale of two gods that gave up everything for each other, they may attempt to replicate that type of relationship. Conversely, a character who has heard the cautionary tale of a god who was punished for loving a mortal may fear becoming that legend. It's not simply, what are the myths? It's also which myth do you think your character believes they're living?
 
-**What's the creation story?**
+**⬥ Core: What's the creation story?**
 How did the world/gods/people come to exist?
 
 
@@ -1275,7 +1281,7 @@ Prophecy generates the maximum amount of drama: are they destined to be together
 
 The power of prophecy lies in how characters receive it. Take your time revealing the prophecy: the way the speaker says it, the tone of their voice, the exact words used (a prophecy should sound different than everyday language: rhythmic, old-fashioned, unclear). Show the listener physically reacting to the meaning as it sinks in. Once the prophecy is revealed, show both characters fixating on the wording, looking for loopholes, and analysing their own interpretations of what it said. Prophecy creates dramatic irony - the reader can see the implications that the characters are missing, or vice versa. You can use asymmetrical knowledge to create an interesting dynamic: one character knows a prophecy about their relationship and the other doesn't, and the character must decide whether or not to tell them. The prophecy's shadow will weigh heavily on their decisions: is this feeling I'm having based on reality, or am I just fulfilling what was prophesied?
 
-**Do prophecies exist in your world?**
+**⬥ Core: Do prophecies exist in your world?**
 Prophecy adds a layer of fate vs. choice to your romance. Characters may resist destiny or embrace it.
 
 _______________________________________________________________

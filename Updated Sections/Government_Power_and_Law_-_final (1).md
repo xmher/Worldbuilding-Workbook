@@ -37,6 +37,9 @@ And politics can stay vague! Some stories work better with political structures 
 
 **If you're not sure yet:** Start with the Brain Dump and Forms of Government — you can always come back.
 
+### How to Use This Section
+Questions marked **⬥ Core** are the foundations — answer these first and you'll have a working political system. Everything else lets you go deeper. If you're short on time, the Core questions alone will get you writing.
+
 ---
 
 ## Brain Dump: Your Political World
@@ -183,7 +186,7 @@ You can mix and match elements or take into consideration regional differences. 
 
 Political divisions between countries can keep lovers separated or provide escape routes for them. If your characters needed to leave, where could they go?
 
-**What form of government exists in your world?**
+**⬥ Core: What form of government exists in your world?**
 
 Common options: monarchy (absolute, constitutional, hereditary, elected), theocracy, magocracy, oligarchy, democracy, empire, feudal system, tribal confederation, council, or dual systems where magical and mundane authorities coexist.
 
@@ -227,13 +230,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+*Cross-check: Does your government type match your economic system (Section 4)? A feudal monarchy with a free-market economy, or a democracy with serfdom, needs an explanation. Make sure these two systems reinforce each other.*
+
 ---
 
 You've chosen how your world is governed. Now let's look at who sits at the top of that system — because the person in power decides what threatens them, and your characters become a threat the moment their relationship crosses one of those lines.
 
 ## Current Rulers
 
-**Who currently holds power?**
+**⬥ Core: Who currently holds power?**
 The ruling body's priorities determine what threatens them -- and your characters become a threat the moment their relationship conflicts with those priorities.
 
 **Name your current ruler(s)**
@@ -248,7 +253,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How did they gain power?**
+**⬥ Core: How did they gain power?**
 
 This matters because it reveals what they fear losing:
 
@@ -288,7 +293,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How can a ruler be removed from power?**
+**⬥ Core: How can a ruler be removed from power?**
 
 *Assassination? Election? Revolt? Magical challenge? A council vote? Or is there no legitimate way — meaning the only path is violence?*
 
@@ -296,7 +301,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What do ordinary people think of their government?**
+**⬥ Core: What do ordinary people think of their government?**
 
 *Do they trust their rulers, fear them, ignore them, or quietly resent them? How do common people talk about the government when no one important is listening?*
 
@@ -356,7 +361,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Which law most directly affects your characters' relationship?**
+**⬥ Core: Which law most directly affects your characters' relationship?**
 
 *This is the law your reader needs to feel. Name it specifically — the law that makes their love dangerous.*
 
@@ -364,7 +369,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How are laws enforced day-to-day?**
+**⬥ Core: How are laws enforced day-to-day?**
 
 *Think about what a regular person encounters. Are there guards on every corner, or does the law only show up when someone reports a neighbour? Do people follow the law out of respect, fear, or habit?*
 
@@ -374,7 +379,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What happens when an ordinary person breaks a minor law?**
+**⬥ Core: What happens when an ordinary person breaks a minor law?**
 
 *A fine? Public shaming? A beating? Nothing, unless someone important notices? The everyday consequences tell your reader more about the system than any grand punishment.*
 
@@ -392,7 +397,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What rights do ordinary citizens have?**
+**⬥ Core: What rights do ordinary citizens have?**
 
 *Can they own property, travel freely, speak against the government, refuse to serve? What protections do commoners have that nobles or elites don't need — and what protections do they lack?*
 
@@ -428,7 +433,7 @@ _______________________________________________________________
 
 Hierarchy is shown by how characters act, not what they say -- who waits, who speaks first, who sits while others stand. Romantic tension in hierarchical gaps happens when the normal rules break: the powerful person asks instead of orders, and the powerless person refuses to submit.
 
-**What's the political hierarchy?**
+**⬥ Core: What's the political hierarchy?**
 
 *Map it from highest to lowest power. For each level, think about the physical behaviours that show rank — who waits, who speaks first, who can interrupt. These details will make hierarchy visible in your scenes without exposition.*
 
@@ -608,7 +613,7 @@ You've established what the laws are. Now comes the question that matters most f
 
 The greater question isn't "what's against the law?" but "what happens if they're caught?" The degree to which law is enforced shapes the texture of your romance. Omnipresent enforcement turns every stolen glance into a risk; weak enforcement means danger comes in sudden, devastating bursts after weeks of false safety.
 
-**Who enforces the law?**
+**⬥ Core: Who enforces the law?**
 
 Royal guard? City watch? Magical enforcers? Religious authorities? Secret police? Self-enforcing magical contracts?
 
@@ -632,6 +637,8 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+*Cross-check: Does your technology level (Section 9) support this kind of enforcement? Omnipresent surveillance requires infrastructure — magical or technological. If your world lacks both, enforcement will be patchy by default.*
+
 **What happens when your characters are caught?**
 
 | Situation | Consequence |
@@ -642,7 +649,7 @@ _______________________________________________________________
 | Marry illegally | |
 | Produce children | |
 
-**How does the justice system work?**
+**⬥ Core: How does the justice system work?**
 
 *Who judges the accused — a monarch, a magistrate, a council, a mob? Do people get trials, or are punishments handed down on the spot?*
 
@@ -817,7 +824,7 @@ The power doesn't have to be equal, but it has to be real. A character who has n
 
 Marriage law is often romantasy's primary legal barrier. Marriage laws exist to maintain power structures, dictate inheritance, keep classes or species separate, or enforce religious belief -- knowing the purpose behind the law tells you how rigid it is. Show the law's impact through what it costs: lovers forced apart at the altar, a guest list requiring Crown approval, a wedding ceremony that includes a loyalty oath to the state.
 
-**Who can legally marry whom?**
+**⬥ Core: Who can legally marry whom?**
 
 Consider restrictions based on class, species, magical status, gender, family, religion, age, political status:
 
@@ -864,6 +871,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 _______________________________________________________________
+
+*Cross-check: Do these marriage laws match your cultural marriage customs (Section 3)? If your culture celebrates love matches but the law demands arranged marriages, that tension is great — but make sure it's intentional, not a contradiction.*
 
 ---
 
@@ -1610,6 +1619,8 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+*Cross-check: Is your military technology consistent with Section 9? If your world has medieval infrastructure but your army uses magical long-range communication or mass transport, explain how the military got access to technology civilians lack — or adjust.*
+
 ---
 
 ### Enemies Across Battle Lines
@@ -2300,3 +2311,15 @@ _______________________________________________________________
 | What each loses by choosing the other | |
 | The political crisis point | |
 | How it resolves | |
+
+---
+
+### What's Next
+
+You've built the political skeleton of your world — the power structures, laws, and conflicts that cage your romance. Here's where to go next depending on what you need:
+
+- **Economy, Labour & Resources (Section 4)** if you haven't built it yet. Your government needs money, and your characters live inside an economic system that reinforces (or undermines) everything you just designed.
+- **Culture, Customs & Daily Life (Section 3)** to flesh out the social rules that exist alongside your laws. Laws tell people what they *can't* do; culture tells them what they *shouldn't* do. The gap between the two is where some of your best tension lives.
+- **Religion, Myth & Prophecy (Section 6)** if your government draws legitimacy from divine authority, or if prophecy plays a role in your succession or conflict.
+- **History & Lore (Section 7)** to ground the political tensions you've created in historical events — wars, betrayals, and founding myths that explain why your world's politics feel the way they do.
+- **Technology & Infrastructure (Section 9)** to make sure your enforcement systems, military, and communications are consistent with what your world can actually build and maintain.
