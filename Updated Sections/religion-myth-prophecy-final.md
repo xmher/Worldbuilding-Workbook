@@ -304,6 +304,8 @@ _______________________________________________________________
 
 &nbsp;
 
+*Cross-check: Is your account of how religion relates to magic consistent with your magic system (Section 8)? If magic is a divine gift here but a learned skill in your magic section, reconcile them. If the religion condemns magic, make sure your magic system reflects the social consequences of that condemnation.*
+
 ---
 
 ## Religious Institutions & Authority
