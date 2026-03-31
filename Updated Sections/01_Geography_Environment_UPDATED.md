@@ -258,6 +258,14 @@ _______________________________________________________________
 
 &nbsp;
 
+**Where do most people in your world actually live — and why there?**
+
+*Cities, villages, nomadic camps? What about the geography makes settlement possible?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## Kingdoms & Nations Overview
@@ -311,6 +319,9 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
+*You've mapped what terrains exist. Now give them names — even placeholders make your world feel real.*
+
 ## Naming Places
 
 Good place names make your world feel real. You don't need to invent a whole language for this; just notice how real places get their names.
@@ -458,6 +469,9 @@ _______________________________________________________________
 > **Checkpoint: Your Physical World** — You've mapped the big picture, terrain, resources, and named key places. Do your locations feel distinct from each other? Do the names fit the cultures?
 
 ---
+
+*Geography determines what grows, what's buried underground, and who fights over it. Resources are where geography becomes political.*
+
 ## Resources & Territorial Control
 
 Geography tells us who has what and thus who has the ability to have power. Fertile land, fresh water, mineral deposits, trade routes: all of these are valuable enough to fight wars over, to marry for, to die for.
@@ -525,6 +539,9 @@ _______________________________________________________________
 > **Cross-check:** Do your resources match the economic system you'll build in Section 4?
 
 ---
+
+*You've built the physical structure. Now step inside it — what does it actually feel like to be there?*
+
 ## The Sensory World
 
 Geography doesn't just mean what exists in space; it also means how it feels to be in that space. Those sensory elements of your setting contribute to the emotional texture of scenes. A first kiss will have a different quality to it when done in a garden filled with the scent of night-blooming jasmine as opposed to a stone hallway with torch smoke.
@@ -581,7 +598,18 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**What does the landscape look like between your key locations?**
+
+*Not every reader needs to know what's between cities, but your characters who travel there do. What's the terrain like on the road?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
+
+*The sensory world changes with time. Climate and weather shape when things happen as much as where.*
+
 ## Climate, Weather & Seasons
 
 The weather is a form of immediate, physical, environmental condition, which affects everything from how people move through the world, their ability to grow food, warfare, and their day-to-day lives. In addition to providing these barriers to possibility, seasons can provide a deadline (marry before the snow blocks the pass) or a waiting period (trapped together until the spring thaw), or simply mark the passage of time as they navigate their long-term attraction to one another.
@@ -763,6 +791,9 @@ _______________________________________________________________
 > **Checkpoint: Constraints & Boundaries** — You've defined what makes travel difficult, what seasons allow or prevent, and what borders divide peoples. Do these constraints create the friction your romance needs?
 
 ---
+
+*You've built the physical world and its constraints. Now consider the emotional geography — the places that feel like home, and the ones that don't.*
+
 ## Home & Belonging
 
 One of the most emotionally charged concepts of love is "Home". The characters may have to travel to find love, may choose between the love they want to have and the comfort of "Home", may learn that "Home" is wherever the other person is, or may discover that choosing this person means exile from everything familiar.
@@ -1108,3 +1139,15 @@ That said, maps can help you keep travel times consistent and visualise where th
 > *The geography of your world is about much more than where everything is. It's why your characters can't be together easily, and what they'll have to cross, endure, or sacrifice to change that. The mountain range is why two peoples distrust each other. The desert is why whoever controls the oasis controls the trade route. The isolated academy is why two people who would never have spoken are now sharing a corridor.*
 >
 > Build geography that explains your world and creates the pressure your romance needs.
+
+---
+
+### What's Next
+
+Your geography is built. Here's where to take it:
+
+- **Section 2: Flora, Fauna & Ecosystems** → Natural next step. What lives in the landscapes you've just created?
+- **Section 4: Economy, Labour & Resources** → Your resources shape your economy. Build the trade routes, currency, and labor systems.
+- **Section 5: Government, Power & Law** → Your borders and territories shape political power. Who controls what you've mapped?
+- **Section 9: Technology & Infrastructure** → How do people actually travel across, build in, and survive your terrain?
+- **Section 15: Designing Your Key Locations** → Zoom in on the specific places where your story happens.

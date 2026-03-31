@@ -82,6 +82,35 @@ Worldbuild for its own sake if you want to! Use the romance connection prompts f
 
 And if you're not sure whether something matters yet, skip it. You can always come back once your story has taken more shape.
 
+### How to Use This Section
+
+Questions marked **⬥ Core** are the foundations — answer these first and you'll have a working ecosystem. Everything else lets you go deeper. If you're short on time, the Core questions alone will get you writing.
+
+### Quick Guide to What You Need
+
+**Every story needs:** What common plants and animals exist, what people eat, and what's dangerous in the wild.
+
+**If your story features creature bonds:** Focus on Creature Design and Bonded Creatures.
+
+**If wilderness travel matters:** Focus on Food Chains, Dangerous Flora & Fauna, and Survival.
+
+**If your world has magical ecosystems:** Focus on Magical Flora, Magical Fauna, and how magic affects ecology.
+
+**If you're not sure yet:** Start with the Brain Dump and Ecosystem Foundation — you can always come back.
+
+### Brain Dump
+
+**What plants and animals come to mind when you picture your world?**
+*Don't worry about being systematic. Just list what you see — forests, creatures, crops, pets, monsters, flowers.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What's the most dangerous thing living in your world?**
+
+_______________________________________________________________
+
 ---
 
 ## Common Mistakes with Flora & Fauna
@@ -138,7 +167,7 @@ Inhabitants of your world do not encounter a neutral environment. Instead, the e
 
 ---
 
-#### *What's the general relationship between people and nature in your world?*
+#### ***⬥ Core** What's the general relationship between people and nature in your world?*
 
 *Do people dominate their environment? Live in balance? Struggle against nature? Have they tamed the wild or does wilderness still rule?*
 
@@ -146,7 +175,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-#### *How magical is the natural world?*
+#### ***⬥ Core** How magical is the natural world?*
 
 *Completely mundane (magic is separate from nature)? Subtly magical (nature has hidden power)? Overtly magical (magical creatures are common)? Sentient (nature has awareness or will)?*
 
@@ -157,6 +186,27 @@ _______________________________________________________________
 #### *What's the overall health of the ecosystem?*
 
 *Thriving? Balanced? Under pressure from civilization? Recovering from past damage? Dying?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+#### **What do people eat in your world?**
+*What crops grow, what animals are raised for food, what's foraged from the wild? Food shapes daily life more than almost anything else.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+#### **What animals do people use for work, transport, or companionship?**
+*Horses, oxen, magical mounts, hunting birds, guard dogs? What role do animals play in everyday life?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+#### **What does the natural world sound like?**
+*Birdsong, insect hum, wind through specific trees, animal calls at night? The soundscape makes a world feel alive.*
 
 _______________________________________________________________
 
@@ -176,6 +226,8 @@ _______________________________________________________________
 
 &nbsp;
 
+*Cross-check: Does your ecosystem match the climate and terrain you built in Section 1: Geography?*
+
 ---
 
 ## Food Chains & Natural Balance
@@ -194,7 +246,7 @@ If the magic in your world is dependent upon the land (as it is in ACOTAR, where
 
 *If your world uses Earth-like wildlife, skip most of this — just note magical creatures or significant deviations.*
 
-#### *What's at the top of the food chain in various environments?*
+#### ***⬥ Core** What's at the top of the food chain in various environments?*
 
 *These predators shape what your characters fear in the wild. Could any of them create danger or forced proximity in your story?*
 
@@ -254,7 +306,7 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
 
 ---
 
-#### *What animals have been domesticated in your world?*
+#### ***⬥ Core** What animals have been domesticated in your world?*
 
 *Think about what your protagonist interacts with daily. Which animals reveal character through how people treat them?*
 
@@ -352,6 +404,8 @@ _______________________________________________________________
 
 &nbsp;
 
+*Cross-check: Are your animals consistent with the technology and transport in Section 9?*
+
 ---
 
 ## Agriculture, Wild Plants & Foraging
@@ -376,7 +430,7 @@ Agriculture creates the daily rhythms, class structures, and resource pressures 
 
 ---
 
-#### *What are the staple crops?*
+#### ***⬥ Core** What are the staple crops?*
 
 *The grains, roots, or plants that feed most people:*
 
@@ -430,7 +484,7 @@ At its core, foraging is domestic intimacy transplanted to the wilderness. Two p
 
 ---
 
-#### *What can be gathered from the wild — and what's dangerous?*
+#### ***⬥ Core** What can be gathered from the wild — and what's dangerous?*
 
 *What your characters know about wild plants reveals where they've been and how they've survived. A gap in knowledge between your characters is a gap in experience — and that's where romantic tension lives.*
 
@@ -478,7 +532,7 @@ In *From Blood and Ash*, Poppy's empathic healing abilities create physical inti
 
 ---
 
-#### *What natural remedies exist?*
+#### ***⬥ Core** What natural remedies exist?*
 
 *Healing scenes create intimacy. What would one character use to tend the other's wounds or illness?*
 
@@ -532,7 +586,7 @@ Shared dangerous encounters bond characters because they've seen each other in s
 
 ---
 
-#### *What are the most dangerous creatures in your world?*
+#### ***⬥ Core** What are the most dangerous creatures in your world?*
 
 *Danger forces characters together. What creature might your protagonist and love interest need to survive together?*
 
@@ -577,7 +631,7 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 | **Bonded/Familiar Types** | Ravens, cats, owls, snakes, foxes, wolves, small dragons, fire lizards, shadow hounds |
 | **Giant Versions** | Giant eagles, dire bears, mammoth wolves, enormous boars, colossal serpents, titanic stags |
 
-#### *What magical creatures exist in your world?*
+#### ***⬥ Core** What magical creatures exist in your world?*
 
 *Consider creatures that might bond with characters, serve as obstacles, or hold symbolic meaning in your story.*
 
@@ -606,6 +660,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 _______________________________________________________________
+
+*Cross-check: Does magical ecology align with your magic system rules in Section 8?*
 
 ---
 
