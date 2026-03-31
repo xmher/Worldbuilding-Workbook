@@ -166,6 +166,8 @@ _______________________________________________________________
 
 ---
 
+Now that you've mapped the defining events, think about what happened when those events collided with each other -- because wars and their aftermath are where the deepest divisions take root.
+
 ### Historical Conflicts
 
 Wars and conflicts create deep divisions that will be remembered for centuries to come. People will grow up knowing which side their ancestors fought on, and they may define their allegiance based on family history, geography, or the culture in which they were raised.
@@ -195,6 +197,8 @@ _______________________________________________________________
 
 ---
 
+Conflicts reshape the land as much as the people. The places where history happened -- battlefields, ruins, treaty halls -- carry that weight forward into the present.
+
 ### Historical Places
 
 Places that have historical significance carry the weight of the past into the present. A battlefield. A throne room where a treaty was signed. The bridge where legendary lovers met. When someone stands in those places, the past pushes its way up through their feet.
@@ -207,6 +211,11 @@ Places that have historical significance carry the weight of the past into the p
 | | | |
 | | | |
 | | | |
+
+---
+
+### ✦ Checkpoint: Your Timeline So Far
+*Pause and look at your answers so far. Do your foundational events, defining conflicts, and historical places all point toward the same present-day tensions -- or are some pulling in unrelated directions? If an event doesn't connect to anything your characters feel today, consider cutting it or linking it to something that does.*
 
 ---
 
@@ -293,6 +302,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+You've mapped who controls the records. But institutions only reach so far -- most people learn their history not from archives but from songs, grandparents, and the stories told at the dinner table.
 
 ### How Ordinary People Learn History
 
@@ -500,6 +511,11 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: The Information Landscape
+*Pause and look at your answers so far. Given who controls history and what's been lost or hidden, does your protagonist have a believable reason to not know the truth yet? And does your love interest's version of history genuinely conflict with the protagonist's, or do they agree too easily? If there's no friction in what they "know," go back and widen the gap.*
+
+---
+
 ## How People Relate to the Past
 
 There are many ways people relate to their own history. Some hold their histories in reverence; some attempt to forget their histories; and some do not consider theirs at all. A couple's views on the past determine how each will perceive their inherited struggle as either a sacred obligation or as simply a bunch of old junk. And when one person falls in love with another with differing views of history, the clash isn't just personal. It's philosophical.
@@ -589,6 +605,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+So far you've built the events, the record-keepers, and the propaganda landscape. Now it's time to put faces on that history -- because the figures and lovers your world remembers become the templates your characters are measured against.
 
 ## Historical Figures & Legendary Lovers
 
@@ -979,6 +997,11 @@ Prophecy fulfilled? Forbidden mixing? Powerful heirs? Ending a curse?
 _______________________________________________________________
 
 _______________________________________________________________
+
+---
+
+### ✦ Checkpoint: Family vs. World History
+*Pause and look at your answers so far. Do the family stories, heirlooms, and ancestral legacies you've developed connect back to the world-level events from your timeline? A family grudge hits hardest when it's a personal scar left by a historical wound you've already established. If the family material feels disconnected from the bigger history, look for the link -- or create one.*
 
 ---
 

@@ -51,6 +51,20 @@ If your world mirrors a historical economy, focus on what's different. Zero in o
 
 Economics can stay in the background. If your obstacles are political, magical, or cultural rather than economic, develop just enough economy to make the world feel real.
 
+### Quick Guide to What You Need
+
+**Every story needs:** A basic economic system, what currency exists, what your characters do for work, and how wealth shapes daily life.
+
+**If your romance involves a wealth gap:** Focus on the Wealth Gap Dynamic and Money/Gifts sections.
+
+**If your romance involves economic coercion or arranged marriage:** Focus on Marriage as Economic Contract and Debt & Obligation.
+
+**If your world has a magic-based economy:** Don't skip "If Your Economy Runs on Magic."
+
+**If your romance involves employer/employee dynamics:** Focus on The Employer & The Employed and Economic Independence.
+
+**If you're not sure yet:** Start with the Brain Dump and Economic Systems — you can always come back.
+
 ---
 
 ## Common Mistakes with Economic Worldbuilding
@@ -300,6 +314,8 @@ _______________________________________________________________
 
 ---
 
+*Now that you know what your economy runs on — and how magic might complicate it — it's time to make the money feel real. Currency gives readers something to hold onto when wealth and poverty are on the page.*
+
 ## Currency & Scale
 
 **What currency exists?**
@@ -450,6 +466,12 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Economic Foundations
+
+*Pause and look at your answers so far. Does your economic system match the wealth distribution you described? If you said wealth is concentrated among a few, but your system allows easy social mobility, something may need adjusting. Check that your currency, class structure, and economic conditions all point in the same direction.*
+
+---
+
 ## Resources & Scarcity
 
 ### Building on Section 1
@@ -522,6 +544,8 @@ Resources don't just create cultures. They create the conditions for love storie
 
 ---
 
+*Resources create wealth, but governments take a cut. How the state extracts from its people shapes what your characters actually keep — and what they resent.*
+
 ## Taxation & Government Revenue
 
 **How does the government fund itself?**
@@ -591,6 +615,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+*The formal economy — taxes, banks, currency — doesn't reach everyone. Some people survive outside it entirely, and their world operates by different rules.*
 
 ## Informal & Subsistence Economies
 
@@ -751,6 +777,12 @@ How does their work connect to or conflict with your protagonist's world? Do the
 &nbsp;
 
 &nbsp;
+
+---
+
+### ✦ Checkpoint: World and Work
+
+*Pause and look at your answers so far. Do your characters' occupations make sense within the economic system you built? Does the work they do match the world's resources, trade routes, and class structure? If a character is a merchant in a world with no trade routes, or a mage in an economy that doesn't value magic, now's a good time to adjust before moving on.*
 
 ---
 
@@ -976,6 +1008,12 @@ By whom? What would they lose by refusing?
 _______________________________________________________________
 
 _______________________________________________________________
+
+---
+
+### ✦ Checkpoint: Contracts and Constraints
+
+*Pause and look at your answers so far. Are the economic pressures on your romance consistent? If your character is being pressured into a marriage for money, does the wealth gap you established earlier explain why? If inheritance is at stake, does it connect to the class system you built? Make sure the personal stakes grow out of the world you've designed, not around it.*
 
 ---
 
@@ -1327,6 +1365,12 @@ Partners from different backgrounds will clash over spending. This isn't a flaw 
 *This is your earned ending. Not the wedding, not the declaration — the quiet scene where reduced circumstances feel like the right choice. Make it small and specific, and it'll hit harder than any grand gesture.*
 
 There should be a scene, maybe small, maybe private, where one character looks at their reduced circumstances and feels certain they chose right. What does that moment look like?
+
+---
+
+### ✦ Checkpoint: The Cost of Love
+
+*Pause and look at your answers so far. Do the sacrifices your characters make feel proportional to the economic world you've built? If you said class is rigid and mobility is impossible, does the sacrifice reflect that — or does it feel too easy? If you established a harsh economy, the aftermath of choosing love should show that harshness. Make sure the consequences match the world.*
 
 ---
 

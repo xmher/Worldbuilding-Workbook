@@ -42,6 +42,18 @@ Not every question here will apply to your story. Skip what doesn't serve you.
 
 If religion is background in your world, keep it simple. Not every romantasy needs theological complexity. If your world has no gods or organised religion, adapt or skip. And if you're drawing on real religions, be thoughtful about what you're borrowing and whether your portrayal is respectful.
 
+### Quick Guide to What You Need
+
+**Every story needs:** What people believe, how religion shapes daily life, and what religious rules affect your characters.
+
+**If your romance is forbidden by faith:** Focus on Religious Law, The Heretic Love Interest, and Sin & Religious Guilt.
+
+**If prophecy or fate drives your plot:** Focus on Mythology, Prophecy & Destiny.
+
+**If your characters have different faiths:** Focus on Religious Difference & Interfaith Love.
+
+**If you're not sure yet:** Start with the Brain Dump and The Divine — you can always come back.
+
 ---
 
 ## Common Mistakes with Religious Worldbuilding
@@ -83,6 +95,8 @@ If religion is background in your world, keep it simple. Not every romantasy nee
 ---
 
 ## The Divine: Gods & Powers
+
+*With those common pitfalls in mind, let's start building. The foundation of any religious system is what people believe about the divine itself.*
 
 The first thing you have to decide is if there are higher powers in your world and if they are true.
 
@@ -231,6 +245,8 @@ _______________________________________________________________
 ---
 
 ## Magic & Religion
+
+*Now that you know what gods exist in your world, the next question is how their power manifests — and whether magic is a gift from the divine or a threat to it.*
 
 Romantasy typically combines elements of magic and faith into a single system. Magic can be thought of as a gift provided by the gods, but equally, magic can represent heresy which a church will try to eliminate. Wherever the two meet, the world becomes a realm in which the consequences of moral choice are always tangible in their magical impact, and where falling in love can result in loss of magical power, protection, or your place in the divine order.
 
@@ -417,7 +433,14 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Institutions & Authority
+*Pause and look at your answers so far. Do your religious institutions have enough power to actually enforce the rules that create obstacles for your characters? Does the relationship between religious and political authority make sense with what you established about your gods? If something doesn't fit, adjust before moving on.*
+
+---
+
 ## Religious Law, Doctrine & Forbidden Love
+
+*You've established who the gods are and how the institution operates. Now it's time to get specific about the rules — the actual laws and doctrines that stand between your characters and their love.*
 
 What are the actual restrictions of faith on love and marriage? Faith takes what was once an abstract idea and makes it a very real barrier. At this point, the will of God has turned into the law that prohibits your character from doing something, or requires them to do something.
 
@@ -484,6 +507,8 @@ _______________________________________________________________
 
 ## The Heretic Love Interest
 
+*Religious law tells your characters what they can't do. But what happens when the problem isn't the action — it's the person they love?*
+
 There is a big distinction in the way the audience experiences a religiously forbidden romantic involvement, versus a romantic involvement with someone who is specifically condemned by the religion. A behavioural taboo (breaking celibacy, marrying outside the faith, violating a vow) is where you're doing something wrong, but there's nothing wrong with the person you've done something wrong with. You have options such as making amends, finding a loophole, or redefining the relationship through marriage or dispensation.
 
 A heretic love interest romance, however, is a whole other ball game. The person you're in love with is the problem. Demon. Witch. Fae. "Dark One." Hated bloodline. The act of loving such a person does not simply jeopardise the individual's standing in society - it challenges their very moral identity, as well as the metaphysical order of the community in which they live. We are not dealing with behavioural prohibitions here, but rather ontological taboos, and the type of resolution required will be very different.
@@ -546,6 +571,8 @@ The Redefinition Path: The doctrine itself is exposed as partial, weaponised, or
 ---
 
 ## Personal Faith & Hidden Devotion
+
+*You've built the external structures — institutions, laws, forbidden categories. Now turn inward: what do your characters actually believe, and what are they hiding?*
 
 There are many ways people believe in religion. They may have strong faith in their gods, but hate the way the priests run things. Others may just go through the motions to fit in. Which type of believer someone is can greatly impact how the romance develops. If the devout believer does something against the rules of the religion, they may lose the favour of their god. On the other hand, the cultural believer risks loss of connection to their community, and ultimately their sense of identity, but not their soul.
 
@@ -706,7 +733,14 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Personal Faith & Practice
+*Pause and look at your answers so far. Does each character's personal belief match the daily practices you gave them? Are the things they'd lose by breaking religious rules consistent with how deeply faith is woven into their lives? If something doesn't fit, adjust before moving on.*
+
+---
+
 ## Crisis of Faith
+
+*You've defined what your characters believe and how they practise it. Now comes the moment that belief is tested — when love and faith collide and something has to give.*
 
 A person's faith can break when their beliefs clash with their feelings. That is one of the greatest internal struggles you can have in your writing. It goes beyond "should I break this rule?" It goes down to "is everything I believed a lie?"
 
@@ -833,6 +867,8 @@ Using the "earned vs. convenient" columns in the reference table above, honestly
 
 ## Sin, Virtue & Religious Guilt
 
+*A crisis of faith reshapes what your character believes. But guilt reshapes how they feel about themselves — and that's harder to resolve.*
+
 Religious shame operates differently than social shame. It's not just about what others think. It's about what you believe you fundamentally are.
 
 When we say "I did something forbidden," there is action involved and so, in theory, there is the possibility for redemptive action. When we say "I am something wrong," we are talking about our very identity, and no amount of repentance can change your nature. In *Serpent & Dove*, Reid's guilt isn't just "I broke a rule." It's "I loved a witch. What does that make me?" Once Reid discovers he is the son of a witch, the line between the sinner and the sin is completely erased.
@@ -887,6 +923,8 @@ _______________________________________________________________
 ---
 
 ## Sacred Time & Calendar
+
+*So far you've focused on what your religion teaches and forbids. The next three sections — time, space, and ritual — are about how faith is experienced: when, where, and through what ceremonies.*
 
 Religion governs time. Holy days, sacred seasons, periods of fasting or celebration: these rhythms structure the year and create occasions where religious expectations are heightened. For romance, sacred time can both separate lovers (forbidden times) and bring them together (festivals that relax normal rules).
 
@@ -1087,6 +1125,8 @@ _______________________________________________________________
 ---
 
 ## The Afterlife & Sacrifice
+
+*Your characters now have a community they could lose. But what about what comes after this life — does forbidden love follow them beyond death?*
 
 The way we think about death affects every part of our lives; it shapes our fears, and it can lead us to do things we would never have done before. Characters who believe in reunion after death approach sacrifice differently than those who believe death is final. And for romance, afterlife beliefs determine whether dying for love feels like ending or beginning, and whether loving the wrong person means eternal damnation or eternal separation.
 
@@ -1372,7 +1412,14 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Mythology & Prophecy
+*Pause and look at your answers so far. Do your sacred stories and prophecies align with the gods and doctrines you established earlier? If a prophecy drives your plot, does it create genuine tension with the romance, or does it resolve too neatly? If something doesn't fit, adjust before moving on.*
+
+---
+
 ## Religious Difference & Interfaith Love
+
+*Everything so far has assumed your characters share a faith. But what happens when they don't — when the person they love prays to different gods entirely?*
 
 When people from different faiths fall in love, they must navigate not just their own beliefs but each other's, and often, the mutual hostility between their religious communities.
 

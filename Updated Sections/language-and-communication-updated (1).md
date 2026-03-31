@@ -7,6 +7,18 @@ Shared language creates understanding. Language barriers force vulnerability and
 
 Not every question below will apply to your story. If your characters share a language, skip the barrier sections and focus on voice, silence, and private communication. If literacy isn't relevant, skip it entirely. Start with what creates the most tension between your specific characters and build outward from there.
 
+### Quick Guide to What You Need
+
+**Every story needs:** What languages exist, how your characters communicate, and what barriers or private codes develop between them.
+
+**If your characters don't share a language:** Focus on Languages in Your World, Language Barriers, and Translators.
+
+**If your characters share a language but have class/cultural differences:** Focus on Voice & Accent and Code-Switching.
+
+**If secrecy or forbidden communication matters:** Focus on Sacred/Secret Languages and Literacy.
+
+**If you're not sure yet:** Start with the Brain Dump and Languages in Your World — you can always come back.
+
 ---
 
 ## The Bridge & Barrier Principle
@@ -401,7 +413,14 @@ One way to avoid this is to add at least one constraint.
 
 ---
 
+### ✦ Checkpoint: Language & Dialogue
+*Pause and look at your answers so far. Do the languages you've created actually generate the barriers and bridges your story needs? If your characters use a translator, does that align with the language-learning timeline you mapped out, or do they contradict each other? If something doesn't fit, adjust before moving on.*
+
+---
+
 ## Voice, Accent & How They Sound
+
+You've established what languages your characters speak and how they navigate barriers between them. Now let's move from *what* they say to *how* they sound saying it.
 
 Beyond what they say, what do they *sound* like? Voice is one of the most visceral markers of attraction. The way someone's accent shifts when they're emotional, the rough edge when they're angry, the softening when they say your name. These details make readers feel the chemistry in their bones.
 
@@ -525,6 +544,8 @@ _______________________________________________________________
 
 ### Language Flavor & Sound
 
+You've thought about how individual characters sound. Now zoom out to the languages themselves -- what impression do they leave on someone hearing them for the first time?
+
 **What does your main language sound like?**
 *Harsh consonants and guttural stops, or flowing vowels and soft syllables? What impression does it make on someone hearing it for the first time?*
 
@@ -562,6 +583,8 @@ _______________________________________________________________
 ---
 
 ## Literacy & the Written Word
+
+So far you've built the spoken landscape of your world -- languages, voices, accents, and the politics that shape them. Now consider what happens when language moves from mouth to page.
 
 Literacy is power, and in romantasy, power imbalances create tension. Who can read and who can't, who writes letters and who can't reply, who controls information and who's shut out. These are romantic stakes disguised as worldbuilding.
 
@@ -645,6 +668,11 @@ What truths emerge only in writing?
 _______________________________________________________________
 
 _______________________________________________________________
+
+---
+
+### ✦ Checkpoint: Literacy & the Written Word
+*Pause and look at your answers so far. Does your world's literacy landscape match the power dynamics you set up in your languages and class structures? If one character is literate and the other isn't, have you accounted for how that shapes their communication -- and their romance? If something doesn't fit, adjust before moving on.*
 
 ---
 
@@ -881,6 +909,11 @@ Whose language and why that choice:
 _______________________________________________________________
 
 _______________________________________________________________
+
+---
+
+### ✦ Checkpoint: Names, Address & Private Language
+*Pause and look at your answers so far. Does the progression of how your characters address each other -- from titles to names to private words -- track with the intimacy arc you're building? Do their terms of endearment and private codes feel consistent with the cultures and languages you've established? If something doesn't fit, adjust before moving on.*
 
 ---
 

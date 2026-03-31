@@ -65,6 +65,18 @@ Answer what matters for your story. If a question doesn't apply, skip it. If you
 
 The most important thing is that your magic feels consistent and has real consequences. Everything else is detail.
 
+### Quick Guide to What You Need
+
+**Every story needs:** What magic can do, who can use it, what it costs, and what it can't do.
+
+**If your romance involves a magical bond:** Focus on Bonds, Marks & Fated Connection.
+
+**If your characters have unequal magical power:** Focus on Who Can Use Magic and Power Imbalance.
+
+**If magic is dangerous or forbidden:** Focus on The Cost, The Limits, and Dangerous & Forbidden Magic.
+
+**If you're not sure yet:** Start with the Brain Dump and The Source — you can always come back.
+
 ---
 
 ## Common Mistakes with Magic Systems
@@ -258,6 +270,8 @@ _______________________________________________________________________________
 
 ---
 
+Now that you know who has magic and how common it is, the next step is figuring out what it actually looks like when someone uses it.
+
 ## How Magic Works
 
 This is the mechanical heart of your system, the "physics" of magic. You don't need to explain everything to readers, but you should understand how it operates so your story stays consistent. And the mechanics matter for romance too, because the process of using magic can strip away defences.
@@ -399,6 +413,12 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 _______________________________________________________________________________
+
+---
+
+### ✦ Checkpoint: How Your Magic Works
+
+*Pause and look at your answers so far. Do the sensations you described for magic match the costs you outlined earlier? If using magic feels pleasurable but the cost is physical pain, make sure you know when the shift from one to the other happens. If something doesn't fit, adjust before moving on.*
 
 ---
 
@@ -712,6 +732,14 @@ _______________________________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Cost and Limits
+
+*Pause and look at your answers so far. Can your protagonist solve their central problem with magic as you've defined it? If yes, your limits may need tightening. Do the costs you described create real hesitation, or would your character use magic freely without thinking twice? If something doesn't fit, adjust before moving on.*
+
+---
+
+You know what magic costs and where it breaks down. Next, let's look at the range of power in your world and where your characters fall on that scale.
+
 ## Scale, Power & Specialisations
 
 Not all magic users are created equal, and not all magic is the same flavour. Understanding the range of power and the types of magic helps you place your characters and set stakes appropriately.
@@ -1018,6 +1046,14 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 ---
+
+### ✦ Checkpoint: Magic and Identity
+
+*Pause and look at your answers so far. Does your protagonist's relationship to their magic match the transformation arc you're planning for them? If the love interest is meant to empower them, have you built in something the protagonist needs to grow into? If something doesn't fit, adjust before moving on.*
+
+---
+
+You've defined what magic is, what it costs, and how it shapes who your characters are. Now let's look at how they actually use it with each other, in the small moments that build a private language.
 
 ## Small Uses, Big Meaning
 
@@ -1573,6 +1609,12 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Bonds and Connection
+
+*Pause and look at your answers so far. If you have a bond mechanic, does it follow the same rules as the rest of your magic, or does it operate separately? Does the bond create tension that the characters have to work through, or does it resolve the romance too easily? If something doesn't fit, adjust before moving on.*
+
+---
+
 ## Dangerous, Forbidden & Hunted Magic
 
 A relationship based on fear of being hurt by the magic, fear of the consequences of being discovered, and the risk of letting someone close enough to see what you really are is automatically filled with built-in romantic tension.
@@ -1961,6 +2003,12 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 _______________________________________________________________________________
+
+---
+
+### ✦ Checkpoint: Magic in Your Plot
+
+*Pause and look at your answers so far. Does the magical crisis in your climax grow naturally from the rules, costs, and limits you established earlier? If your resolution requires magic to do something you said it couldn't, either revise the resolution or revise the limitation. If something doesn't fit, adjust before moving on.*
 
 ---
 

@@ -25,6 +25,18 @@ If politics is background in your book, keep it simple. Not every romantasy need
 
 And politics can stay vague! Some stories work better with political structures that are felt rather than detailed. That's completely fine.
 
+### Quick Guide to What You Need
+
+**Every story needs:** A form of government, who holds power, and what laws affect your characters.
+
+**If your romance is forbidden by law:** Focus on How Laws Work and Law Enforcement & Justice.
+
+**If your story involves political marriage or court intrigue:** Focus on Political Arrangements and Court Politics.
+
+**If your characters are on opposing sides:** Focus on Warfare & Military and Enemies to Lovers.
+
+**If you're not sure yet:** Start with the Brain Dump and Forms of Government — you can always come back.
+
 ---
 
 ## Brain Dump: Your Political World
@@ -216,6 +228,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+You've chosen how your world is governed. Now let's look at who sits at the top of that system — because the person in power decides what threatens them, and your characters become a threat the moment their relationship crosses one of those lines.
 
 ## Current Rulers
 
@@ -466,6 +480,14 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Power Structure
+
+*Pause and look at your answers so far. Does your form of government logically produce the kind of ruler you described? Does the hierarchy you mapped match the way your ruler maintains power? If something doesn't fit, adjust before moving on.*
+
+---
+
+You've defined who rules and how power is structured. Now let's zoom in on what government actually feels like for ordinary people — because your characters live in this system every day, not just during the dramatic moments.
+
 ## Governance in Daily Life
 
 Beyond the dramatic conflicts of succession and forbidden love, governments affect ordinary people through taxation, public services, and local administration. These details make your world feel lived-in and can create pressure on your characters in quieter but no less important ways.
@@ -579,6 +601,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+You've established what the laws are. Now comes the question that matters most for your romance: what happens when those laws are broken?
 
 ## Law Enforcement & Justice
 
@@ -936,6 +960,12 @@ _______________________________________________________________
 _______________________________________________________________
 
 _______________________________________________________________
+
+---
+
+### ✦ Checkpoint: Laws, Justice, and Social Barriers
+
+*Pause and look at your answers so far. Do the laws you defined match the enforcement system you described? If your world has strict marriage laws but weak enforcement, is that intentional — or a gap? Does your class system create a genuine barrier, or could your characters simply ignore it? If the obstacles feel too easy to overcome, strengthen them now.*
 
 ---
 
@@ -1345,6 +1375,12 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Arrangements, Factions, and Court
+
+*Pause and look at your answers so far. If your characters have an arranged marriage, does the political system you built earlier explain why it can't simply be refused? Do the factions you identified have clear, specific reasons to care about your characters' relationship? If you have a court setting, does it connect to the power structure and laws you already defined? Tighten any loose threads before continuing.*
+
+---
+
 ## Secrets & Espionage
 
 Secrets in romantasy aren't side stories; they're obstacles to intimacy. Each time your character holds back some information from their romantic partner, it's an additional wall between them, and each time they reveal a secret it opens a doorway that can't be closed. The core tension is this: your characters require deception to survive politically and honesty to feel intimate. They can't have both. That's the engine. When a character is keeping their true identity from their love, the relationship is built upon a false foundation. The romantic partner loves the version of a person the other has presented to them, not the entire person. The individual keeping the secret is also the person least capable of experiencing true intimacy, because their authentic self is never fully present in the same space as their partner. In *Serpent & Dove*, Lou has kept her identity as a witch a secret from Reid, a Chasseur that's been trained to kill her people. Both Lou and Reid enter into a marriage based on strategy, but as genuine feelings begin to develop, Lou's secret starts to poison their relationship. Reid's love grows stronger than Lou's because she's always keeping something guarded. She can never be fully in the same room with him. Each intimate moment is tainted by the reality that he'd set fire to her at the stake if he were to discover what she really is. In *Fourth Wing*, Xaden only shares with Violet "what you need to know." Violet is forced to question Xaden to obtain additional information. He can't share everything with her because of her close proximity to the state, exemplified by her mother's position and her friend Dain's ability to read memories. Their relationship relies heavily on physical attraction to provide a release, since their intellectual and emotional communication is consistently interrupted by the political implications of their connection.
@@ -1734,6 +1770,14 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Secrets and Warfare
+
+*Pause and look at your answers so far. If a character is hiding their identity, does the justice system you built earlier explain why discovery would be devastating? If your world is at war, do the military obligations you described create a genuine barrier to the relationship — or just an inconvenience? Make sure the pressure is real before moving on.*
+
+---
+
+Everything you've built so far — the government, the laws, the factions, the wars — now converges on the most personal question: what happens when two people who should be enemies fall in love?
+
 ## Enemies to Lovers
 
 To make enemies-to-lovers believable, you need real, structural reasons why these two people should hate each other -- not misunderstandings that vanish once cleared up. Misunderstandings create obstacles that disappear; true hostility creates obstacles that require hard work, sacrifice, and transformation to resolve. That's what makes enemies-to-lovers satisfying: seeing two people work through real grievances, not discovering they never had any.
@@ -2018,6 +2062,12 @@ _______________________________________________________________
 **Check: Does falling in love make either character unrecognizable?**
 
 _______________________________________________________________
+
+---
+
+### ✦ Checkpoint: Enmity and Romance
+
+*Pause and look at your answers so far. Is the enmity between your characters rooted in the political structures you built earlier — or does it float free of them? Can you trace a line from the government type, through the laws, through the factions or war, to the specific reason these two people are enemies? If the enmity feels disconnected from the world, anchor it now.*
 
 ---
 

@@ -165,6 +165,28 @@ Not every question will apply to your story. Skip what doesn't fit.
 
 If your world mirrors a real culture, focus on what's different. You don't need to invent every custom from scratch. Zero in on what deviates from what readers will assume, and on the elements that create friction for your romance.
 
+### Quick Guide to What You Need
+
+**Every story needs:** Core cultural values, daily routines, and what social rules shape your characters' lives.
+
+**If your romance crosses cultural boundaries:** Focus on Core Values, Taboos, and Cultural Differences.
+
+**If your romance involves courtship customs:** Focus on Gender Roles, Touch & Boundaries, Courtship, and Marriage.
+
+**If class or status divides your characters:** Focus on Social Class, Manners & Etiquette, and Reputation.
+
+**If you're not sure yet:** Start with the Brain Dump and Core Values — you can always come back.
+
+### Section Map
+
+This section covers a lot of ground. Here's what's ahead so you can plan your time:
+
+- **Part 1: Foundations** — Values, Gender, Daily Life, Home, Family, Food, Architecture
+- **Part 2: Social Rules** — Religion, Superstitions, Manners, Hospitality, Entertainment, Humor, Oaths
+- **Part 3: Boundaries & Identity** — Taboos, Sexuality, Reputation, Privacy, Touch, Beauty, Dress
+- **Part 4: Milestones & Rituals** — Courtship, Tokens, Marriage, Death, Life Stages, Children, Work, Outsiders
+- **Part 5: Culture in Action** — Festivals, Exile, Social Hierarchy, Cultural Differences, Integration Check
+
 ---
 
 ## Common Mistakes with Cultural Worldbuilding
@@ -214,6 +236,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+Now that you've identified the broad shape of your culture and its potential pitfalls, it's time to dig into the specifics — starting with the beliefs that sit at the foundation of everything else.
 
 ## Core Values & Worldview
 
@@ -326,6 +350,15 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+### ✦ Checkpoint: Values & Identity
+
+*Pause and look at your answers so far. Do your culture's core values create a genuine obstacle for your romance, or could your characters get together without much resistance? If the values you picked don't generate real tension, consider swapping in ones that do.*
+
+---
+
+Values shape what your culture believes. Gender roles shape what your culture expects people to *do* — and that distinction matters for every relationship in your story.
+
 ## Gender Roles & Expectations
 
 Gender (or equivalent social categories in your world) shapes behaviour, opportunities, and relationship dynamics. Societal expectations dictate who pursues and who waits, who has agency and who defers. This affects everything that follows: daily life, family, courtship, hierarchy, and what your characters are even allowed to want.
@@ -391,6 +424,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+Gender expectations set the boundaries. Now consider what happens inside those boundaries — the ordinary rhythms of life that romance will disrupt.
+
 ## Daily Life & Routines
 
 To understand how culture shapes romantic experiences, you have to begin with how people live their lives. Romance occurs in the context of daily routines. Examining the patterns of living reveals when a couple will encounter each other and what is considered "normal."
@@ -472,6 +508,9 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
+You've established how your characters move through the world. Now consider the spaces they move through — starting with where they live.
+
 ## Home & Household
 
 Your home is the most intimate space in your world. It's the place where characters are most themselves. The way homes are constructed, how many people share them, and the amount of privacy they provide will determine when and where your characters can be vulnerable with each other. Homes shared with servants or other people create vastly different possibilities for romance than homes lived in alone.
@@ -525,6 +564,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+Daily routines establish the rhythm of life. Family is what gives that rhythm its emotional weight — and its obligations.
+
 ## Family Structure & Relationships
 
 Your characters' family is where their identity is formed prior to the story beginning; and also what they will be answering to once the story has begun. Expectations from their parents, siblings and other relatives will have commitments that conflict with those of romantic interests. In romantasy, family often acts as the first and most personal obstacle to finding true love.
@@ -578,6 +620,9 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
+Family determines who your characters answer to. Food determines how they gather — and sharing a meal is one of the oldest ways to build intimacy.
+
 ## Food & Meals
 
 Food shows culture. The foods we eat, the ways we prepare them, and with whom we eat them can tell you a great deal about values, resources, and social bonds.
@@ -659,6 +704,15 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+### ✦ Checkpoint: Daily Life & Domestic World
+
+*Look back at your answers on daily routines, home life, family, and food. Does everything fit together? If your culture prizes communal meals but you described nuclear families living alone, decide which one wins. Small contradictions now become plot holes later.*
+
+---
+
+From the intimate spaces of home and table, we move outward to the built environment — the structures your characters navigate every day.
+
 ## Architecture & Building
 
 The way that people construct buildings can tell us a lot about who they are. A desert palace won't look anything like a northern fortress. No degree in architecture is required to recognise this.
@@ -708,6 +762,8 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
+Architecture shapes the physical world your characters inhabit. Religion shapes the invisible one — the beliefs, rituals, and spiritual habits woven into everyday life.
 
 ## Religion & Spirituality in Daily Life
 
@@ -770,6 +826,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+Formal religion is what people profess. Superstition is what they actually do without thinking — and those unconscious habits often reveal more about a culture than any creed.
+
 ## Superstitions & Folk Beliefs
 
 Beyond formal religion, most cultures have their own folk beliefs. These are things everyone knows even though they can't tell you how they know. This little stuff makes a world that feels lived in.
@@ -829,6 +888,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+From what people believe to how they behave — etiquette is where cultural values become visible in every interaction.
+
 ## Manners, Etiquette & Everyday Politeness
 
 Etiquette is an unwritten set of rules: which person says hello first, when does one stop speaking to allow another to go first. In romantasy, etiquette is a battleground. Each broken social rule reveals something about a character's origins, each deliberate violation is a statement of power, and the tension between what politeness requires and what desire demands drives countless charged scenes.
@@ -883,6 +945,9 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
+Manners govern everyday interactions, but hospitality governs the far more charged situation of entering someone else's space — and that dynamic is where many romantasy plots live.
+
 ## Hospitality & Guest Rights
 
 While it may seem like hospitality would be a minor detail when building a world, in romantasy it can be one of the most dependable ways to generate romantic tension. Both of your characters are continually entering into each other's space, and the obligations that come from being a guest or a host establish a precarious, intimate dynamic that has a lot of opportunity.
@@ -944,6 +1009,8 @@ _______________________________________________________________
 | The violation (broken contract, deeper betrayal) | | |
 
 ---
+
+Hospitality governs how characters enter each other's worlds. Entertainment governs what they do once they're there — and leisure is where many romances find their first excuse to spend time together.
 
 ## Entertainment, Arts & Leisure
 
@@ -1040,6 +1107,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+Humor reveals what a culture values. Oaths reveal what it holds sacred — and in romantasy, a sworn promise is often the immovable object that an irresistible romance collides with.
+
 ## Oaths, Promises & Honour
 
 In many romantasy worlds, people's words carry value. Culturally, socially, and at times magically. Oaths of allegiance, sworn promises, and honour debts often create commitments which have the potential to create direct conflicts with the heart's desires. This theme of a person's word as a contract is especially prevalent in Fae-inspired settings; spoken words are literal contracts. When a bargain is made correctly, under the right circumstances, it creates a binding obligation, and the definition of "equal" repayment can lie completely with the other party.
@@ -1112,6 +1182,14 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Social Rules & Obligations
+
+*Pause and review your answers on manners, hospitality, entertainment, and oaths. Are the social rules you've built consistent with the values you established in Part 1? If your culture prizes individual freedom but your hospitality customs are rigidly formal, decide which one gives — or explain why the contradiction exists.*
+
+---
+
+Oaths define what your characters have promised. Taboos define what they must never do — and in romantasy, those are often the same thing.
+
 ## Taboos & Forbidden Things
 
 The forbidden shows what the culture fears. In romantasy, taboos are the "forbidden love" stakes, and they will only be as effective as how well defined and important they are for each character involved.
@@ -1173,6 +1251,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+Taboos mark where the line is. Sexuality norms determine how your culture polices desire itself — and that is often the most personal cage your characters must escape.
+
 ## Sexuality, Desire & Intimacy Norms
 
 Every society regulates desire. What counts as appropriate sexual behaviour, who can pursue whom, and what happens to those who violate these norms sit at the centre of romantic conflict in the genre. Purity culture is a potent tool in romantasy because a character battling the voice in her own head that tells her *wanting this makes me ruined* is fighting a very different kind of struggle than a character battling an external enemy.
@@ -1258,6 +1339,8 @@ _______________________________________________________________
 
 ---
 
+What your characters do behind closed doors matters. But what other people *think* they do can matter just as much.
+
 ## Reputation, Gossip & Public Opinion
 
 In many cultures, how others perceive you can be just as important as your actions. Rumours spread quickly and reputation is often delicate. What once was, in some cases, could be irreversibly lost forever.
@@ -1335,6 +1418,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+Reputation is shaped by what people see. Privacy determines how much they get to see — and how hard your characters must work to find moments alone.
+
 ## Privacy, Surveillance & Being Watched
 
 Privacy is earned in most romantasy worlds, and that scarcity is what makes every stolen moment matter. A near-discovery builds tension: the footsteps in the hallway, the knock on the door, the voice in the next room. The process of creating privacy together -- discovering a secluded place, fabricating reasons to be alone, learning each other's schedules -- is itself a form of intimacy.
@@ -1404,6 +1490,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+You've mapped where your characters can be alone. Now define what they can and cannot do when they get there.
+
 ## Physical & Romantic Boundaries
 
 Touch, proximity, gestures, and tokens all work together to form your culture's romantic code. When a simple brush of fingers is taboo, it carries a charge that explicit contact in a more permissive culture can't match. When a specific gift or garment signals courtship, giving or wearing it becomes a declaration. The more forbidden these signals are, the more weight each one carries.
@@ -1498,6 +1587,15 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+### ✦ Checkpoint: Boundaries & Identity
+
+*Review your answers on taboos, sexuality, reputation, privacy, and touch. Do the boundaries you've built escalate logically — is a forbidden glance less dangerous than forbidden touch, which is less dangerous than a forbidden night together? If two taboos contradict each other, resolve that now.*
+
+---
+
+Physical boundaries govern what touch means. Dress and appearance govern what the body itself communicates before anyone is touched at all.
+
 ## Dress, Appearance & Adornment
 
 Dressing tells us who we are: our social standing, how available we are, our values and beliefs. In addition, clothing creates its own romantic tension. The veil that cannot be removed, the colour that says "do not speak to me," the hair that only your spouse can see unbound.
@@ -1691,6 +1789,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+You've defined what the body says and what it wears. Now define the script your culture has written for how love is supposed to proceed.
+
 ## Courtship Customs & Romantic Expectations
 
 All cultures have a romantic script: the expected ways to indicate interest and the approved sequence from stranger to spouse. The romantic tension comes from the gap between what's expected and what's felt. Characters who are acutely aware of which step they're on, frustrated with a rigid pacing that doesn't match their feelings, constantly calculating whether they can skip ahead. Once a couple deviates from the script, it should be apparent that both know what they're doing. The script becomes most important once they deviate from it.
@@ -1768,6 +1869,9 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
+Courtship provides the script. Tokens and gifts are the physical objects that make intentions tangible — and permanent.
+
 ## Tokens, Gifts & Symbols
 
 Gifts in courtship are their own form of communication. Each gift scene has three components worth slowing down through: the giving (nervous or confident?), the receiving (recognition or confusion?), and the aftermath (where does the gift go, how often is it touched?). A gift that reflects the giver's awareness of the receiver -- a remembered preference, a noticed need -- will always land harder than an expensive gift that merely demonstrates wealth.
@@ -1821,6 +1925,9 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
+Tokens declare intent. Marriage is what makes it official — and the ceremony itself is where private love becomes a public act.
+
 ## Marriage Customs & Ceremonies
 
 Marriage is where individualised love becomes a public rite of passage. Who can marry whom? What rituals must be performed? What makes a union legitimate? These customs define the endgame of your romance and the obstacles standing in its way.
@@ -1916,6 +2023,15 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+### ✦ Checkpoint: Courtship & Commitment
+
+*Look back at your courtship customs, tokens, and marriage traditions. Does the progression make sense — do the steps from first interest to marriage build logically? Does your secret marriage option (if you have one) actually conflict with your public ceremony, or could characters easily have both? Tension lives in the gap between what's felt and what's allowed.*
+
+---
+
+Marriage marks the beginning of a shared life. Death marks its end — and how your culture handles loss shapes what love means when it lasts beyond a lifetime.
+
 ## Death, Grief & Mourning
 
 Death customs shape how a culture approaches romance at its most emotional. Rituals surrounding the dead, what is owed to the deceased, whether grief is performed publicly or hidden away, and whether remarriage is permitted or shameful will all influence your romance. What your characters believe about the end of life colours how they view love.
@@ -1981,6 +2097,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+Death marks the end of a life's journey. Coming of age marks its true beginning — the moment a character becomes eligible for everything that follows.
+
 ## Life Stages & Coming of Age
 
 Each culture establishes a point at which an individual is no longer a child, and that threshold indicates when they become eligible for romance, responsibility, and independent choice. The traditions surrounding this transition are crucial to understanding your character's past and can provide a pivotal moment within your story.

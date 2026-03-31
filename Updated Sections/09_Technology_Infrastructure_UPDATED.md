@@ -80,6 +80,18 @@ Keep these channels and patterns in mind as you work through the sections ahead.
 
 Not every question in this section will apply to your world. A futuristic setting won't need to answer questions about candlelight; a pre-industrial world won't deal with mass communication. Skip what doesn't serve your story! But pay attention to the questions that make you uncomfortable or uncertain. Those are often the ones that reveal the most interesting constraints.
 
+### Quick Guide to What You Need
+
+**Every story needs:** How people travel, how they communicate, and what daily life looks like.
+
+**If distance separates your characters:** Focus on Movement & Distance and Communication & Connection.
+
+**If surveillance or privacy matters:** Focus on Privacy & Observation.
+
+**If your characters come from different social classes:** Focus on how technology access differs in Daily Life.
+
+**If you're not sure yet:** Start with the Brain Dump and Overall Technology Level — you can always come back.
+
 ---
 
 ## Common Mistakes with Technology
@@ -122,7 +134,7 @@ Not every question in this section will apply to your world. A futuristic settin
 
 ## Overall Technology Level
 
-Before diving into specifics, establish the broad strokes. Your approximate technology level sets the baseline for everything that follows, and knowing where it's uneven is where the interesting story possibilities live. When your characters come from regions with different technology levels, that gap becomes a source of wonder, discomfort, and misunderstanding that fuels romantic tension.
+Now that you know the common pitfalls, it's time to establish what actually exists in your world. Before diving into specifics, establish the broad strokes. Your approximate technology level sets the baseline for everything that follows, and knowing where it's uneven is where the interesting story possibilities live. When your characters come from regions with different technology levels, that gap becomes a source of wonder, discomfort, and misunderstanding that fuels romantic tension.
 
 **What's the approximate technology level?**
 Reference points: Stone Age, Bronze/Iron Age, Medieval, Renaissance, Early Modern, Industrial, Modern, Futuristic, Mixed/Uneven
@@ -454,6 +466,11 @@ What motivates their loyalty or disloyalty?
 
 ---
 
+### ✦ Checkpoint: Distance, Communication & Privacy
+*Pause and look at your answers so far. How do your travel times, communication speeds, and privacy levels work together — do they create consistent obstacles, or does one undercut the others? If your characters can teleport instantly but also can't send a message, ask yourself whether that tension is intentional or a gap you need to resolve. Adjust before moving on.*
+
+---
+
 ## Daily Life & the Texture of Time
 
 Daily life shapes the sensory world of your story: the quality of light, the temperature of rooms, the smell of a city, what meals look and taste like. These details make your world feel lived-in.
@@ -636,6 +653,11 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Daily Life & Class
+*Pause and look at your answers so far. Does the daily life you've described match the technology level you established at the start? If your world is pre-industrial but your characters seem to have easy access to lighting, heating, and fresh food, something may need adjusting. Also check: would a wealthy character and a poor character experience a noticeably different version of daily life, or have you accidentally made things too uniform?*
+
+---
+
 ## Bodies & Vulnerability
 
 Technology and the body intersect in medicine and reproduction; the body is also where romance lives. How will the injuries and health challenges facing your characters affect them? How will those issues be treated? What will be the emotional ramifications of physical intimacy? These determine some of the most emotionally charged moments in your story. A world where all wounds can be healed removes all of the risk from injury and makes your characters invincible. A world where a fever could result in death is a world of vulnerability and will break open your characters.
@@ -733,7 +755,7 @@ _______________________________________________________________
 
 ## Identity & Documentation
 
-Official documents allow for certain possibilities and restrict others. Where documentation is rigidly enforced, there are definitive identities, marriages can be proven, and your history will follow you. Without official documentation, you can reinvent yourself, unions can remain private and no one can verify your true identity. Each option provides potential for romantic engagement, just in vastly different ways.
+You've established what can heal your characters and what can hurt them. Now consider what can prove who they are — or let them hide it. Official documents allow for certain possibilities and restrict others. Where documentation is rigidly enforced, there are definitive identities, marriages can be proven, and your history will follow you. Without official documentation, you can reinvent yourself, unions can remain private and no one can verify your true identity. Each option provides potential for romantic engagement, just in vastly different ways.
 
 Gaps in documentation and literacy create some of romantasy's most intense moments. When Feyre is Under the Mountain in ACOTAR, she's put into a situation where she must solve a puzzle with writing on the levers. Feyre can't read the writing and the danger is created by the "tech gap" she has. Rhysand finds out that Feyre is illiterate and decides to keep it a secret, creating both leverage and protection. Readers and critics have extensively discussed how Feyre's lack of reading skills were treated, since readers consider tech gaps as moral indicators of a love interest's behaviour: does he educate, shame, hide, or use her lack of education for his own gain?
 
@@ -771,7 +793,7 @@ How difficult is it? What would it require? What are the risks?
 
 ## Material Culture
 
-What characters wear, where they live, and how they spend leisure time creates the sensory texture of your world, and all of it communicates class, status, and belonging. These details are often where characters from different backgrounds first notice the gulf between them.
+From documents and identity, we move to the physical objects that surround your characters every day. What characters wear, where they live, and how they spend leisure time creates the sensory texture of your world, and all of it communicates class, status, and belonging. These details are often where characters from different backgrounds first notice the gulf between them.
 
 ### Clothing & Textiles
 
@@ -893,7 +915,7 @@ _______________________________________________________________
 
 ## Weapons & Conflict
 
-Weapons shape who holds physical power and who depends on someone else for protection. The availability of weapons, who is allowed to carry them, and what training exists all determine the physical stakes your characters face.
+Daily life tells you what's normal for your characters. Now consider what disrupts that normal. Weapons shape who holds physical power and who depends on someone else for protection. The availability of weapons, who is allowed to carry them, and what training exists all determine the physical stakes your characters face.
 
 **What weapons exist?**
 *Available weapons shape both conflict and protection. What your protagonist can fight with — or against — determines the physical stakes of every dangerous scene and how much they depend on the person beside them.*
@@ -935,9 +957,14 @@ Who trains, where, and under what conditions? Is training restricted by class, g
 
 ---
 
+### ✦ Checkpoint: Bodies, Weapons & Stakes
+*Pause and look at your answers so far. Are your medical capabilities and your weapon technology telling the same story? If healing magic can fix almost anything but you also want injury to carry real weight, you may need to add limits to what healing can do. Check that contraception, medicine, and weapons all support the level of physical stakes your romance needs.*
+
+---
+
 ## Knowledge & Education
 
-Who has access to information and who does not, shapes power dynamics in romance just as much as wealth or title. The ability to read when others can't is a particularly significant form of power. In a world where books are hard to come by, the value of giving one as a gift is based on the fact that books are scarce. And the act of teaching someone to read, sharing knowledge, or revealing a hidden library is an act of trust and intimacy that technology level makes possible.
+Weapons determine physical power. Knowledge determines every other kind. Who has access to information and who does not, shapes power dynamics in romance just as much as wealth or title. The ability to read when others can't is a particularly significant form of power. In a world where books are hard to come by, the value of giving one as a gift is based on the fact that books are scarce. And the act of teaching someone to read, sharing knowledge, or revealing a hidden library is an act of trust and intimacy that technology level makes possible.
 
 **What do people write on?**
 *Writing surfaces affect who can communicate in writing and how portable that communication is. A love letter carved into wax is a very different object from one inked on paper — and the material itself signals what the writer had access to.*
@@ -1046,7 +1073,7 @@ Does magic interfere with technology or vice versa?
 
 ## Technology & Your Characters: Synthesis
 
-Pull together your answers from earlier sections into one view. This is your technology profile for these two specific people.
+You've covered the systems. Now pull together your answers from earlier sections into one view. This is your technology profile for these two specific people.
 
 | Category | Your Protagonist | Your Love Interest |
 |---|---|---|
