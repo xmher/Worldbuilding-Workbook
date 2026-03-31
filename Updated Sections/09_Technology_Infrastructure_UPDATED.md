@@ -663,6 +663,8 @@ _______________________________________________________________
 ### ✦ Checkpoint: Daily Life & Class
 *Pause and look at your answers so far. Does the daily life you've described match the technology level you established at the start? If your world is pre-industrial but your characters seem to have easy access to lighting, heating, and fresh food, something may need adjusting. Also check: would a wealthy character and a poor character experience a noticeably different version of daily life, or have you accidentally made things too uniform?*
 
+*Cross-check: Does the daily routine you've described here match what you established in Culture & Customs (Section 3)? If your culture section describes elaborate morning rituals but your technology section shows no running water, something needs reconciling. Daily life is where culture and technology must agree.*
+
 ---
 
 ## Bodies & Vulnerability
@@ -1176,3 +1178,8 @@ Now that you've built the physical, social, and technological reality of your wo
 You've built the systems. Now break them, for your characters specifically. The most memorable romantasy technology moments aren't about the world's rules in the abstract. They're about the moment your character realises they can't get a message sent in time. The moment your love interest discovers he can't lock the door. The moment a wound won't heal and someone has to stay.
 
 Technology isn't about gadgets. It's about what your world makes easy and what it makes hard. The best constraint is the one your characters feel in their bones.
+
+---
+
+> **What's Next?**
+> You've mapped what your world makes easy and what it makes hard. Next, move to **Language & Communication (Section 10)** to explore how your characters actually speak to each other — what languages exist, who can understand whom, and how barriers of language create their own kind of intimacy and misunderstanding. The technology you've built here shapes what communication tools are available; Language & Communication explores what your characters do with them.

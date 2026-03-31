@@ -433,6 +433,8 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+*Cross-check: Are ruins and artifacts consistent with your technology section (Section 9)? If ancient ruins contain advanced mechanisms or magical infrastructure, make sure the technology level you described there could have produced them -- or explain why that knowledge was lost.*
+
 **What would change if your characters found what was lost?**
 *Would it dissolve the obstacle between them, deepen it, or reveal that the obstacle was built on a lie? Lost knowledge matters most when finding it has consequences.*
 
@@ -594,6 +596,8 @@ Using the table above as a guide, identify what forms of historical propaganda e
 | | | |
 | | | |
 | | | |
+
+*Cross-check: Does propaganda match your government type (Section 5)? A decentralized tribal federation wouldn't have centralized monuments and Victory Tours -- make sure the propaganda methods here reflect who actually holds power in your world.*
 
 **How does the built environment intrude on your characters' private moments?**
 *Monuments, barriers, and public symbols are strongest when they follow characters into personal spaces.* When Feyre and Rhysand act out their relationship in the Court of Nightmares in *ACOMAF*, it's not just that they're being forced to perform their love for each other; the court itself is a monument to the violence done to them, and their intimacy becomes political theatre. In *Mistborn*, Vin's first experiences of romance occur at noble balls, where the grey ashfalls outside contrast with the lavish gowns inside. It creates a moral dissonance she can't ignore.
