@@ -3,6 +3,10 @@
 
 Shared language creates understanding. Language barriers force vulnerability and trust. And in romantasy, language does more than move information around. It reveals power, creates secrets, enables private communication, and forces characters to truly listen to each other.
 
+## How to Use This Section
+
+Some questions are marked **⬥ Core** -- these are the essential questions that every story needs answered. Start with those. The remaining questions are **Deep Dive** prompts that help you add nuance and complexity once your foundations are in place. If you're short on time, answer the Core questions first and return to the Deep Dives when you're ready.
+
 ## A Note Before You Begin
 
 Not every question below will apply to your story. If your characters share a language, skip the barrier sections and focus on voice, silence, and private communication. If literacy isn't relevant, skip it entirely. Start with what creates the most tension between your specific characters and build outward from there.
@@ -86,7 +90,7 @@ Build language that creates both barriers and bridges. Make your characters work
 
 The linguistic landscape of your world determines what's possible between your characters. A world with one universal language has different romantic stakes than one where every kingdom speaks a different tongue. The question isn't how many languages exist. It's what barriers and bridges those languages create.
 
-**How many languages exist in your world?**
+**⬥ Core: How many languages exist in your world?**
 One universal language? Many regional languages? Hundreds of dialects? The answer shapes how easily your characters can connect.
 
 _______________________________________________________________
@@ -117,7 +121,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How do ordinary people communicate across language barriers?**
+**⬥ Core: How do ordinary people communicate across language barriers?**
 *Gestures, interpreters, trade phrases, drawn pictures? Think about what a merchant, a traveller, or a soldier does when they can't speak the local language.*
 
 _______________________________________________________________
@@ -138,7 +142,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How do people communicate over long distances without magic?**
+**⬥ Core: How do people communicate over long distances without magic?**
 *Messengers, signal fires, carrier birds, coded drums, postal systems? The speed and reliability of non-magical communication shapes how fast news travels, how isolated communities feel, and how hard it is to stay in contact with someone far away.*
 
 _______________________________________________________________
@@ -165,6 +169,8 @@ Where languages mix, characters are most exposed. Markets, courts, border towns,
 | | | | | |
 | | | | | |
 
+*Cross-check: Do your language boundaries match political borders (Section 5) or cultural regions (Section 3)? Languages rarely align perfectly with political maps -- border regions, conquered territories, and trade routes all create mismatches worth exploring.*
+
 ---
 
 ## Language Barriers Between Characters
@@ -175,7 +181,7 @@ If your characters don't share a first language, you've got built-in tension, an
 
 How did they learn each one? What doors does their linguistic knowledge open or close?
 
-**What languages does your protagonist speak, and how fluently?**
+**⬥ Core: What languages does your protagonist speak, and how fluently?**
 *Include their native language and any others. How did they learn each one? What doors do their languages open or close?*
 
 *(Write your answer below)*
@@ -201,7 +207,7 @@ Do they share a language with the protagonist, or will communication itself beco
 
 &nbsp;
 
-**Do your characters share a language when they first meet?**
+**⬥ Core: Do your characters share a language when they first meet?**
 *If yes, is one at a disadvantage in it? If no, how do they communicate initially -- gestures, a shared third language, magic? What's lost in this early communication?*
 
 *(Write your answer below)*
@@ -450,7 +456,7 @@ _______________________________________________________________
 
 Speech patterns reveal history. Does their accent betray origins they try to hide, or signal status they want others to recognise?
 
-**What accent or dialect does your protagonist speak with?**
+**⬥ Core: What accent or dialect does your protagonist speak with?**
 *What does it reveal about their background? How does the love interest perceive it?*
 
 *(Write your answer below)*
@@ -595,7 +601,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How common is literacy, and who controls access to reading and writing?**
+**⬥ Core: How common is literacy, and who controls access to reading and writing?**
 *A character who can't read a love letter, a treaty, or a warning is vulnerable in ways that go beyond the battlefield. Think about whether literacy is universal, class-restricted, or controlled by institutions.*
 
 *(Write your answer below)*
@@ -605,6 +611,8 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
+
+*Cross-check: Does your literacy level match your technology (Section 9) and education system? A world with printing presses but restricted literacy needs an explanation. A world with universal education but low literacy has a contradiction to resolve.*
 
 **What is your protagonist's literacy level? What is your love interest's literacy level?**
 *Literacy can be a source of power, shame, or connection. How does each character's relationship to written language shape their options?*
@@ -693,7 +701,7 @@ The choice of method will affect the overall romantic dynamic between your chara
 | Sending spells / magical letters | Deliberate, one-directional. The sender chooses words carefully, like a letter but instant. In *Divine Rivals*, Iris slips letters beneath her wardrobe door and they vanish into the hands of her rival, Roman. They fall in love as anonymous correspondents before they can admit it face to face: the classic pattern of loving a mind before a body. | Can be intercepted, traced, or blocked. Asynchrony means misunderstandings can't be quickly repaired. The same secrecy that makes letters romantic makes them dangerous. |
 | Animal messengers / familiars | Indirect, charming, limited. The messenger adds personality and constraint. | Slow, unreliable, limited message length. The animal may have its own agenda. |
 
-**What magical communication methods exist in your world?**
+**⬥ Core: What magical communication methods exist in your world?**
 *Telepathy, sending spells, magical mirrors, dream-walking, enchanted objects? Describe the method, how it works, its limitations, and who has access.*
 
 *(Write your answer below)*
@@ -728,6 +736,8 @@ When magic provides a private channel, what becomes possible? Confessions in the
 _______________________________________________________________
 
 _______________________________________________________________
+
+*Cross-check: Do your magical communication methods fit within your magic system's rules and costs (Section 8)? If telepathy is effortless but all other magic has a price, you have an inconsistency to address.*
 
 ---
 
@@ -828,7 +838,7 @@ _______________________________________________________________
 
 ### Forms of Address
 
-**What are the forms of address in your world?**
+**⬥ Core: What are the forms of address in your world?**
 *Describe the formal (titles, honorifics), informal (first names), and intimate (pet names, private names) levels. The shift from formal to informal often marks a relationship's evolution.*
 
 *(Write your answer below)*
@@ -1305,3 +1315,14 @@ Language barriers cause people to use different means to connect: by their actio
 Learning someone's language is an act of investment. It says: *your world matters enough for me to learn how you see it*. So build language that creates both barriers and bridges. Make your characters work to understand each other, and make that work meaningful.
 
 Each word they teach each other, each silence they share, each shift from formal to intimate should mark a deepening connection. Don't just have them speak the same language. Make them *learn* each other.
+
+---
+
+## What's Next
+
+You've built the linguistic landscape of your world -- the languages, barriers, private codes, and silence that shape how your characters connect. Language touches nearly every other system in your worldbuilding, so take a moment to see where it links up:
+
+- **Technology & Infrastructure (Section 9):** How does your world's technology affect communication? Printing presses, signal towers, and postal networks all depend on the language and literacy decisions you've just made.
+- **Designing Your Key Locations (Section 15):** The multilingual spaces you identified here -- markets, courts, border towns -- are prime candidates for key locations. Bring your language dynamics into those settings.
+- **The Pressure Cooker (Section 13):** Language barriers, forbidden words, and communication breakdowns are powerful pressure cooker ingredients. Consider how the tensions you've built here can fuel your story's most intense scenes.
+- **Consistency Check (Section 17):** When you reach the consistency check, revisit your language decisions alongside your political borders, class structures, and magic system to make sure everything holds together.

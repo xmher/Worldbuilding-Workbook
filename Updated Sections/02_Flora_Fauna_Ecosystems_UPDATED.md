@@ -82,7 +82,38 @@ Worldbuild for its own sake if you want to! Use the romance connection prompts f
 
 And if you're not sure whether something matters yet, skip it. You can always come back once your story has taken more shape.
 
+### How to Use This Section
+
+Questions marked **⬥ Core** are the foundations — answer these first and you'll have a working ecosystem. Everything else lets you go deeper. If you're short on time, the Core questions alone will get you writing.
+
+### Quick Guide to What You Need
+
+**Every story needs:** What common plants and animals exist, what people eat, and what's dangerous in the wild.
+
+**If your story features creature bonds:** Focus on Creature Design and Bonded Creatures.
+
+**If wilderness travel matters:** Focus on Food Chains, Dangerous Flora & Fauna, and Survival.
+
+**If your world has magical ecosystems:** Focus on Magical Flora, Magical Fauna, and how magic affects ecology.
+
+**If you're not sure yet:** Start with the Brain Dump and Ecosystem Foundation — you can always come back.
+
+### Brain Dump
+
+**What plants and animals come to mind when you picture your world?**
+*Don't worry about being systematic. Just list what you see — forests, creatures, crops, pets, monsters, flowers.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What's the most dangerous thing living in your world?**
+
+_______________________________________________________________
+
 ---
+
+*Before you start building, let's look at the most common pitfalls so you can avoid them from the start.*
 
 ## Common Mistakes with Flora & Fauna
 
@@ -124,6 +155,8 @@ And if you're not sure whether something matters yet, skip it. You can always co
 
 ---
 
+*With those pitfalls in mind, let's lay the groundwork for your world's ecosystem.*
+
 ## The Ecosystem Foundation
 
 What's the general relationship between people and the natural world in your setting? A world where wilderness is mostly tamed has very different story possibilities than one where civilisation is a fragile island in dangerous nature.
@@ -138,7 +171,7 @@ Inhabitants of your world do not encounter a neutral environment. Instead, the e
 
 ---
 
-#### *What's the general relationship between people and nature in your world?*
+#### ***⬥ Core** What's the general relationship between people and nature in your world?*
 
 *Do people dominate their environment? Live in balance? Struggle against nature? Have they tamed the wild or does wilderness still rule?*
 
@@ -146,7 +179,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-#### *How magical is the natural world?*
+#### ***⬥ Core** How magical is the natural world?*
 
 *Completely mundane (magic is separate from nature)? Subtly magical (nature has hidden power)? Overtly magical (magical creatures are common)? Sentient (nature has awareness or will)?*
 
@@ -157,6 +190,27 @@ _______________________________________________________________
 #### *What's the overall health of the ecosystem?*
 
 *Thriving? Balanced? Under pressure from civilization? Recovering from past damage? Dying?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+#### **What do people eat in your world?**
+*What crops grow, what animals are raised for food, what's foraged from the wild? Food shapes daily life more than almost anything else.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+#### **What animals do people use for work, transport, or companionship?**
+*Horses, oxen, magical mounts, hunting birds, guard dogs? What role do animals play in everyday life?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+#### **What does the natural world sound like?**
+*Birdsong, insect hum, wind through specific trees, animal calls at night? The soundscape makes a world feel alive.*
 
 _______________________________________________________________
 
@@ -176,7 +230,14 @@ _______________________________________________________________
 
 &nbsp;
 
+*Cross-check: Does your ecosystem match the climate and terrain you built in Section 1: Geography?*
+
 ---
+### ✦ Checkpoint: Ecosystem Foundation
+*Pause and look at your answers so far. Does the relationship between people and nature feel consistent with the climate and terrain you described? If magic affects your ecosystem, can you explain how in one sentence?*
+---
+
+*Now that you have the foundation, let's look at what lives in your world and how it all connects.*
 
 ## Food Chains & Natural Balance
 
@@ -194,7 +255,7 @@ If the magic in your world is dependent upon the land (as it is in ACOTAR, where
 
 *If your world uses Earth-like wildlife, skip most of this — just note magical creatures or significant deviations.*
 
-#### *What's at the top of the food chain in various environments?*
+#### ***⬥ Core** What's at the top of the food chain in various environments?*
 
 *These predators shape what your characters fear in the wild. Could any of them create danger or forced proximity in your story?*
 
@@ -232,6 +293,8 @@ _______________________________________________________________
 
 ---
 
+*Your food chain establishes what's wild and dangerous. Now let's look at the animals people have brought into their lives.*
+
 ## Domesticated Animals & Animal Companions
 
 The animals people have tamed shape daily life, economy, and culture. What pulls the ploughs? What provides meat, milk, leather, wool? What do people ride?
@@ -254,7 +317,7 @@ If your world has dragons, griffins, giant wolves, or other magical mounts, the 
 
 ---
 
-#### *What animals have been domesticated in your world?*
+#### ***⬥ Core** What animals have been domesticated in your world?*
 
 *Think about what your protagonist interacts with daily. Which animals reveal character through how people treat them?*
 
@@ -352,7 +415,14 @@ _______________________________________________________________
 
 &nbsp;
 
+*Cross-check: Are your animals consistent with the technology and transport in Section 9?*
+
 ---
+### ✦ Checkpoint: Creatures & Companions
+*Pause and review. Do your domesticated animals, companions, and wildlife encounters feel like they belong in the same world? Could a reader picture a typical day with these animals in it?*
+---
+
+*Your animals need to eat, and so do your people. Let's look at what grows in your world.*
 
 ## Agriculture, Wild Plants & Foraging
 
@@ -376,7 +446,7 @@ Agriculture creates the daily rhythms, class structures, and resource pressures 
 
 ---
 
-#### *What are the staple crops?*
+#### ***⬥ Core** What are the staple crops?*
 
 *The grains, roots, or plants that feed most people:*
 
@@ -430,7 +500,7 @@ At its core, foraging is domestic intimacy transplanted to the wilderness. Two p
 
 ---
 
-#### *What can be gathered from the wild — and what's dangerous?*
+#### ***⬥ Core** What can be gathered from the wild — and what's dangerous?*
 
 *What your characters know about wild plants reveals where they've been and how they've survived. A gap in knowledge between your characters is a gap in experience — and that's where romantic tension lives.*
 
@@ -468,6 +538,8 @@ _______________________________________________________________
 
 ---
 
+*Some of those plants don't just feed people -- they heal them. Let's look at medicine and the scenes it creates.*
+
 ## Medicine & Healing
 
 The healing scene is one of the most well-known tropes in romance, and personally it's a favourite. It provides an opportunity for characters to be physically closer to each other, especially when one or both of them aren't comfortable with that idea yet.
@@ -478,7 +550,7 @@ In *From Blood and Ash*, Poppy's empathic healing abilities create physical inti
 
 ---
 
-#### *What natural remedies exist?*
+#### ***⬥ Core** What natural remedies exist?*
 
 *Healing scenes create intimacy. What would one character use to tend the other's wounds or illness?*
 
@@ -522,6 +594,8 @@ In *From Blood and Ash*, Poppy's empathic healing abilities create physical inti
 
 ---
 
+*Not everything in the wild wants to help your characters. Let's talk about what wants to kill them.*
+
 ## Dangerous Creatures
 
 A good creature encounter builds in layers. First the signs: tracks, silence, smell. Then the glimpse. Then the full reveal. Let your POV character's body react before their mind catches up. The prickle on the neck, the instinct to freeze.
@@ -532,7 +606,7 @@ Shared dangerous encounters bond characters because they've seen each other in s
 
 ---
 
-#### *What are the most dangerous creatures in your world?*
+#### ***⬥ Core** What are the most dangerous creatures in your world?*
 
 *Danger forces characters together. What creature might your protagonist and love interest need to survive together?*
 
@@ -547,6 +621,8 @@ Shared dangerous encounters bond characters because they've seen each other in s
 &nbsp;
 
 ---
+
+*Beyond the naturally dangerous, some creatures in your world may carry magic of their own -- and form bonds that change everything.*
 
 ## Magical Creatures & Creature Bonds
 
@@ -577,7 +653,7 @@ Once the bond exists, make it sensory. Move beyond simple telepathy. Let the cha
 | **Bonded/Familiar Types** | Ravens, cats, owls, snakes, foxes, wolves, small dragons, fire lizards, shadow hounds |
 | **Giant Versions** | Giant eagles, dire bears, mammoth wolves, enormous boars, colossal serpents, titanic stags |
 
-#### *What magical creatures exist in your world?*
+#### ***⬥ Core** What magical creatures exist in your world?*
 
 *Consider creatures that might bond with characters, serve as obstacles, or hold symbolic meaning in your story.*
 
@@ -606,6 +682,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 _______________________________________________________________
+
+*Cross-check: Does magical ecology align with your magic system rules in Section 8?*
 
 ---
 
@@ -678,6 +756,11 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+### ✦ Checkpoint: Danger & Magic
+*Look at your dangerous creatures, magical creatures, and creature bonds together. Does the level of danger feel consistent across your world? If magic affects your ecosystem, does it create as many problems as it solves?*
+---
+
+*With your creatures and bonds established, let's look at the larger forces that shape your world from above: weather, seasons, and the pressure they put on everyone in it.*
 
 ## Weather, Seasons & Environmental Pressure
 
@@ -712,6 +795,8 @@ Seasonal festivals create social pressure that characters can't avoid. Calanmai 
 &nbsp;
 
 ---
+
+*Your ecosystem now has structure, danger, and magic. Let's look at the meaning people attach to all of it.*
 
 ## Symbolism & Cultural Meaning
 
@@ -824,6 +909,8 @@ And don't announce the connection. "The rain matched her sadness" kills the effe
 > Build the world first. Find the story in what you've built.
 
 ---
+
+*If your romance crosses species lines, the following supplement will help you build the biology, instinct, and social friction that makes inter-species love stories compelling.*
 
 # Section 2 · Supplement: Inter-Species Romance
 
@@ -1270,3 +1357,13 @@ _______________________________________________________________
 > The best inter-species romances don't position the human as "normal" and the non-human as "other." Both have their own valid ways of being.
 >
 > The question isn't "how does the non-human become acceptable?" It's "how do two people with genuinely different natures build something that honours both?"
+
+---
+### What's Next
+
+Your ecosystem is built. Here's where to take it:
+
+- **Section 3: Culture, Customs & Daily Life** → How do people live alongside the nature you've created? What do they eat, wear, celebrate?
+- **Section 4: Economy, Labour & Resources** → Your natural resources drive your economy. What's traded, farmed, hunted?
+- **Section 8: Magic System** → If magic affects your ecosystem, make sure the rules are consistent.
+- **Section 9: Technology & Infrastructure** → What tools do people use to work with (or against) nature?

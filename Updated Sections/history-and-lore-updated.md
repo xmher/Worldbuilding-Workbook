@@ -21,7 +21,7 @@ You must decide what is underneath your characters' feet, and then let the crack
 
 ## Brain Dump
 
-**What are the major events in your world's history?**
+**⬥ Core: What are the major events in your world's history?**
 *You don't need a full timeline yet -- just the big moments that still echo. Wars, disasters, revolutions, betrayals, golden ages, falls from grace. List whatever comes to mind; you'll refine later.*
 
 _______________________________________________________________
@@ -38,6 +38,11 @@ _______________________________________________________________
 _______________________________________________________________
 
 _______________________________________________________________
+
+---
+
+> **How to Use This Section**
+> Questions marked **⬥ Core** are the essential questions every romantasy world needs to answer. Start with those. Everything else is a deeper dive -- useful for adding richness and specificity, but optional depending on your story's needs. You can always come back to the deeper questions later.
 
 ---
 
@@ -103,7 +108,7 @@ _______________________________________________________________
 
 Events from long ago can become legend. They set "the way things have always been," and they usually give an explanation as to how the current balance of power came to be. Foundational myths and fallen golden ages will influence the beliefs of your characters regarding what is possible, and what is forbidden.
 
-**How was your world/nation/society founded?**
+**⬥ Core: How was your world/nation/society founded?**
 
 The origin story as people believe it:
 
@@ -126,7 +131,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Was there a golden age that fell?**
+**⬥ Core: Was there a golden age that fell?**
 *What was it called, what made it great, and what ended it?*
 *If your world has a lost golden age, describe what people remember about it and what was lost when it fell.*
 
@@ -142,7 +147,7 @@ _______________________________________________________________
 
 ### The Defining Event
 
-**What single historical event most shaped the current world?**
+**⬥ Core: What single historical event most shaped the current world?**
 *Name the event, sketch what took place, and describe the consequences that people still live with today.*
 
 *(Write your answer below)*
@@ -172,7 +177,7 @@ Now that you've mapped the defining events, think about what happened when those
 
 Wars and conflicts create deep divisions that will be remembered for centuries to come. People will grow up knowing which side their ancestors fought on, and they may define their allegiance based on family history, geography, or the culture in which they were raised.
 
-**What major conflicts shaped your world?**
+**⬥ Core: What major conflicts shaped your world?**
 
 | Conflict | Who vs. Who | Why | Who Won | Lasting Effects |
 |----------|-------------|-----|---------|-----------------|
@@ -194,6 +199,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 _______________________________________________________________
+
+*Cross-check: Do these conflicts explain your current government structure (Section 5)? Wars reshape who holds power -- make sure the government your characters live under is a plausible result of the conflicts you've described here.*
 
 ---
 
@@ -225,7 +232,7 @@ What way your world documents, protects, and shares its history will determine w
 
 Think about the inherent unevenness that exists here. In *ACOTAR*, the fae have living witnesses: immortals who personally fought in the war five hundred years ago. Humans have no access to anything except for oral tradition and crumbling records. Feyre's understanding of the war is folklore; Rhysand's is personal memory. Not only are they coming from different sides, they both see the same historical events through completely different perspectives. In *Mistborn*, the Lord Ruler had total control of all recorded history but the oral traditions of the skaa documented a different reality. The way that the past was recorded *was* the battle.
 
-**How is history recorded and preserved in your world?**
+**⬥ Core: How is history recorded and preserved in your world?**
 *The methods your world uses to document history determine what survives, who has access to it, and what your characters can discover. A world that relies on oral tradition loses details but keeps emotional truth. A world with magical archives preserves everything but restricts access. The method shapes the mystery.*
 
 _______________________________________________________________
@@ -309,7 +316,7 @@ You've mapped who controls the records. But institutions only reach so far -- mo
 
 Elite record-keeping is one thing, but what do common people actually *know* about the past? This shapes what your characters "know," and characters raised on songs learn different lessons than characters raised on archives.
 
-**How do most people learn about history?**
+**⬥ Core: How do most people learn about history?**
 
 - Stories from elders and family
 - Religious teachings
@@ -367,7 +374,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What do your characters take for granted as "just the way things are" that is actually a product of history?**
+**⬥ Core: What do your characters take for granted as "just the way things are" that is actually a product of history?**
 *Borders, social rules, who lives where, what's forbidden -- these often feel permanent and natural, but they were created by specific events. The Wall in ACOTAR feels like geography, but it's politics. What in your world feels like bedrock but was actually built?*
 
 _______________________________________________________________
@@ -389,7 +396,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What's been lost?**
+**⬥ Core: What's been lost?**
 
 What kinds of knowledge, artifacts, or records have been destroyed or forgotten?
 
@@ -425,6 +432,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 _______________________________________________________________
+
+*Cross-check: Are ruins and artifacts consistent with your technology section (Section 9)? If ancient ruins contain advanced mechanisms or magical infrastructure, make sure the technology level you described there could have produced them -- or explain why that knowledge was lost.*
 
 **What would change if your characters found what was lost?**
 *Would it dissolve the obstacle between them, deepen it, or reveal that the obstacle was built on a lie? Lost knowledge matters most when finding it has consequences.*
@@ -472,7 +481,7 @@ _______________________________________________________________
 
 Sometimes the most critical information lies hidden. And when we talk about "hidden history," that is like having a loaded gun pointed at your characters' assumptions. Within nearly every romantasy subgenre except for Regency, there exists a fundamental lie that the characters must unmask. In *From Blood and Ash*, the entire kingdom of Solis is based on the myth of the Ascension, and when the protagonists learn that the Ascended are actually predatory vampyric creatures, it destroys all of the assumptions that Poppy ever held. In *Fourth Wing*, the "official history" taught at Basgiath War College is essentially government propaganda intended to keep its own cadets from discovering the true enemy (venin).
 
-**Is there a historical truth that's been suppressed or rewritten?**
+**⬥ Core: Is there a historical truth that's been suppressed or rewritten?**
 *Name the real event, the official version, and who rewrote the story and why. What would change if your characters discovered the truth -- would it dissolve the obstacle between them, or make it worse?*
 
 *(Write your answer below)*
@@ -587,6 +596,8 @@ Using the table above as a guide, identify what forms of historical propaganda e
 | | | |
 | | | |
 | | | |
+
+*Cross-check: Does propaganda match your government type (Section 5)? A decentralized tribal federation wouldn't have centralized monuments and Victory Tours -- make sure the propaganda methods here reflect who actually holds power in your world.*
 
 **How does the built environment intrude on your characters' private moments?**
 *Monuments, barriers, and public symbols are strongest when they follow characters into personal spaces.* When Feyre and Rhysand act out their relationship in the Court of Nightmares in *ACOMAF*, it's not just that they're being forced to perform their love for each other; the court itself is a monument to the violence done to them, and their intimacy becomes political theatre. In *Mistborn*, Vin's first experiences of romance occur at noble balls, where the grey ashfalls outside contrast with the lavish gowns inside. It creates a moral dissonance she can't ignore.
@@ -1009,7 +1020,7 @@ Historical pain doesn't stay in the past. It lives in families, in bodies, in ho
 
 In *Fourth Wing*, this is made literal: Xaden has 107 scars on his back, one for every child of the rebellion leaders whose survival he bargained for. His scars are a relic of the rebellion, a constant visual reminder that the Tyrrish conflict isn't abstract history but something carved into his body. Violet grew up as the daughter of the woman who ordered his father's execution. They're on opposite sides of the same wound, and their romance requires navigating that without either minimising the other's pain. In *ACOTAR*, the asymmetry is different: Feyre has the inherited fear and dehumanisation of fae that all humans were conditioned to feel through generations of being preyed upon. Rhysand carries centuries of watching humans be dismissed as lesser. Their trauma is asymmetric. They both suffered the same historical wounds, but in different ways.
 
-**What historical trauma does your protagonist carry?**
+**⬥ Core: What historical trauma does your protagonist carry?**
 Not what they personally experienced, but what their family, people, or community carries.
 
 _______________________________________________________________
@@ -1449,3 +1460,12 @@ _______________________________________________________________
 ## Final Thought
 
 Without history, your characters' choices are made in a void. With history, each of your characters' choices can either continue a cycle or break it. A 500-year feud gives weight to reconciliation. "My ancestor killed yours" makes forgiveness costly. Make a history so that your characters will think that the current state of affairs is as destined as anything can be; then allow them to show us how the future doesn't have to be.
+
+---
+
+> **What's Next?**
+> Your world's history is the foundation beneath every conflict and every kiss. Now it's time to build what sits on top of it.
+> - **Magic System (Section 8):** How did historical events shape -- or get shaped by -- magic? Was magic the cause of your world's greatest catastrophe, or its greatest salvation?
+> - **Technology & Infrastructure (Section 9):** What survived, what was lost, and what was rebuilt? The ruins and artifacts you defined here need to match the technological reality of your world.
+> - **Government, Power & Law (Section 5):** Wars reshape who rules. Make sure the government your characters live under is a plausible product of the conflicts you've built here.
+> - **Religion, Myth & Prophecy (Section 6):** History becomes myth over time. Check that the legends and beliefs in your religion section align with (or deliberately distort) the events you've established here.

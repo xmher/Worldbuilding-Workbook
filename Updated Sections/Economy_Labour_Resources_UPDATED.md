@@ -65,6 +65,10 @@ Economics can stay in the background. If your obstacles are political, magical, 
 
 **If you're not sure yet:** Start with the Brain Dump and Economic Systems — you can always come back.
 
+### How to Use This Section
+
+Questions marked **⬥ Core** are the foundations — answer these first and you'll have a working economy for your world. Everything else lets you go deeper where your story needs it. If you're short on time, the Core questions alone will get you writing.
+
 ---
 
 ## Common Mistakes with Economic Worldbuilding
@@ -106,7 +110,7 @@ Economics can stay in the background. If your obstacles are political, magical, 
 
 ## Economic Systems
 
-**What type of economy exists in your world?**
+**⬥ Core — What type of economy exists in your world?**
 Think about how the economic system shapes daily life and what opportunities exist for your characters. Does it allow for social mobility, or are people locked into their station?
 
 | Type | ✓ | How Wealth Works | How It Shapes Romance |
@@ -125,7 +129,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What does a normal workday look like for an ordinary person in your world?**
+**⬥ Core — What does a normal workday look like for an ordinary person in your world?**
 
 *Pick someone who isn't royalty or a chosen one — a farmer, a shopkeeper, a dockworker. What time do they wake up? What do they do all day? What do they eat? How much do they earn? This is your economic baseline, and everything else in this section builds on it.*
 
@@ -152,7 +156,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does wealth inequality show up in everyday life?**
+**⬥ Core — How does wealth inequality show up in everyday life?**
 
 *Think about what a stranger would notice walking through your world. Do rich and poor people dress differently? Live in different parts of town? Eat different food? The visible markers of wealth tell the reader — and your characters — who belongs where.*
 
@@ -312,13 +316,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+*Cross-check: Are these rules consistent with your magic system (Section 8)? If you said magic is rare and exhausting there but cheap and plentiful here, reconcile the two before moving on.*
+
 ---
 
 *Now that you know what your economy runs on — and how magic might complicate it — it's time to make the money feel real. Currency gives readers something to hold onto when wealth and poverty are on the page.*
 
 ## Currency & Scale
 
-**What currency exists?**
+**⬥ Core — What currency exists?**
 
 *You don't need a full monetary system — but knowing what your coins are called and roughly what they're worth lets you write scenes where money feels real. A character counting coppers hits differently than a character vaguely "being poor."*
 
@@ -363,7 +369,7 @@ A few details about currency can make your world feel lived-in. What's stamped o
 | Talon | Silver | 10 coppers | Griffin clutching a sword |
 | Bit | Copper | Base unit | Sheaf of wheat |
 
-**How do people conduct trade?**
+**⬥ Core — How do people conduct trade?**
 
 *The method of trade shapes how your characters interact with money — and with each other. Barter creates face-to-face negotiation. Credit creates invisible debt. Magical contracts create supernatural enforcement. Each one affects the romance differently.*
 
@@ -399,6 +405,8 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+*Cross-check: Does your currency system match your government type (Section 5)? A feudal system with a stock market or a tribal society with paper banknotes will feel inconsistent to readers.*
+
 ---
 
 ## Wealth & Class
@@ -423,6 +431,8 @@ Show the gap through concrete details. What does each character's home look like
 
 **Can people change their economic class?**
 Through work? Marriage? Education? Magical ability? Or is class fixed at birth? The answer to this question determines whether your romance is fighting against a wall or a fence. One can be climbed. The other can't.
+
+*Cross-check: Do your class markers here match what you described in Culture & Customs (Section 3)? If you said wealth shows up through clothing and food here, make sure your cultural details reflect the same signals.*
 
 _______________________________________________________________
 
@@ -480,7 +490,7 @@ _______________________________________________________________
 >
 > In Section 1: Resources & Territorial Control, you mapped where resources are found and who controls them. Now we'll explore how that control creates economic stakes and romantic tension.
 
-**What's the single most valuable resource in your world?**
+**⬥ Core — What's the single most valuable resource in your world?**
 The thing people would kill for, die for, or sell their freedom for. Now ask: does either of your main characters control it, need it, or threaten someone's access to it? That's where the romantic stakes live.
 
 _______________________________________________________________
@@ -505,7 +515,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What resources are scarce, and who suffers most from the shortage?**
+**⬥ Core — What resources are scarce, and who suffers most from the shortage?**
 
 *Scarcity doesn't hit everyone equally. The wealthy stockpile; the poor go without. Knowing who suffers tells you where desperation lives in your world — and desperation drives stories.*
 
@@ -676,7 +686,7 @@ Occupational status shapes how people are treated and what doors open or close. 
 | Highly respected | Court mages, master healers, high priests, landed nobility |
 | Disreputable or shameful | Hedge witches, fortune-tellers, gravediggers, money-lenders |
 
-**What work do most people do?**
+**⬥ Core — What work do most people do?**
 
 *The baseline tells you what's normal — and normal is important because your characters' deviations from it are what create tension. If most people farm, a character who refuses to farm is making a statement.*
 
@@ -752,7 +762,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What does your protagonist do to survive?**
+*Cross-check: Does your technology level (Section 9) support these types of work? A pre-industrial world probably doesn't have factory labor, and a high-magic world may have replaced certain trades entirely.*
+
+**⬥ Core — What does your protagonist do to survive?**
 Work shapes who we become. What skills, knowledge, and worldview has their occupation given them?
 
 **Describe your protagonist's occupation: What do they do? What skills have they learned through work? How does the work show on their body? What do they notice that others don't because of their training?**
@@ -788,7 +800,7 @@ How does their work connect to or conflict with your protagonist's world? Do the
 
 ## Your Characters' Economic Positions
 
-**Where does your protagonist fall economically?**
+**⬥ Core — Where does your protagonist fall economically?**
 Their economic position shapes what they worry about, what they dream of, and what they would sacrifice for security or freedom.
 
 **Describe your protagonist's economic position: What is their economic status, source of income, economic security, and economic autonomy?**
@@ -924,7 +936,7 @@ In most romantasy worlds, marriage isn't just about love. It's a financial trans
 
 In romantasy, marriage contracts can go beyond financial transactions — magical bonds, spiritual bindings, or supernatural punishments for breaking terms raise the stakes far beyond what historical fiction allows. The core tension remains the disconnect between contractual obligation and genuine feeling. Characters may also use the contract to achieve agency: binding rather than being bound, accepting a proposal not for love but for freedom or power.
 
-**What is marriage worth in your world?**
+**⬥ Core — What is marriage worth in your world?**
 How is marriage negotiated? What does each party bring to the arrangement, and what do they stand to lose?
 
 **Describe the economics of marriage in your world: Who negotiates? What does each side provide (dowry, bride price, alliance)? What happens financially if the marriage dissolves?**
@@ -1531,7 +1543,7 @@ Consider what the Invisible Ledger reveals in your romance:
 
 What's the single biggest entry on your characters' Invisible Ledger: the one debt, gift, or sacrifice that neither of them can forget? And what will it take for them to stop letting it define the relationship?
 
-**What's on your characters' Invisible Ledger?**
+**⬥ Core — What's on your characters' Invisible Ledger?**
 
 **Map the emotional debt between your characters. What has been given or received, who gave, who owes, and how does the debt feel?**
 
@@ -1598,3 +1610,15 @@ The question isn't "how does the tax system work?" It's "what would this charact
 Economics creates stakes when it forces impossible choices: love or survival? Pride or security?
 
 Build an economy that makes these choices real.
+
+---
+
+### What's Next
+
+Your economy is built. Here's where to take it:
+
+- **If you haven't done Government yet** → Section 5 (Government, Power & Law) is the natural next step. Taxes, trade regulation, and power structures grow directly from economic foundations.
+- **If your economy runs on magic** → Make sure your magic system (Section 8) is consistent with what you've built here — especially around scarcity, cost, and who controls magical labour.
+- **If class divides your characters** → Section 3 (Culture, Customs & Daily Life) will help you flesh out how wealth shows up in clothing, food, manners, and social rituals.
+- **If your world has scarce resources** → Section 1 (Geography & Environment) should align with where those resources come from and who controls the land.
+- **Ready to stress-test?** → Section 16 (Web of Systems) will check how your economy interacts with everything else you've built.
