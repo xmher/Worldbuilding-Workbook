@@ -298,11 +298,9 @@ _______________________________________________________________
 ---
 ## Gender Roles & Expectations
 
-Gender (or equivalent social categories in your world) shapes behaviour, opportunities, and relationship dynamics. In many cases, societal expectations regarding gender dictate who will pursue and who will be pursued, who has agency to act versus waiting to act. This is fundamental because it affects everything that follows: daily life, family, courtship, hierarchy, and what your characters are even allowed to want.
+Gender (or equivalent social categories in your world) shapes behaviour, opportunities, and relationship dynamics. Societal expectations dictate who pursues and who waits, who has agency and who defers. This affects everything that follows: daily life, family, courtship, hierarchy, and what your characters are even allowed to want.
 
-Showing constraint of gender through big dramatic confrontations doesn't necessarily convey well the ways in which gender constrains individuals. It's through many small, almost imperceptible friction points that you can best illustrate this. The dress she wears limits her range of motion. The conversation she is prevented from participating in. The assumption made by others regarding her desires without ever asking if those assumptions were correct. For example, a character who has issues with the constraints of gender may express rebellion through small acts: unbuttoned corsets, secret reading material, or stolen time for personal practice. Her actions and behaviours may also be altered depending upon who is observing her, or she may maintain an internal dialogue questioning the rules she publicly abides by.
-
-Don't overlook the costs associated with conformity, either. There may be mental fatigue, emotional exhaustion due to self-censorship, and personal sorrow for choices not made. When two people that have been socially constructed in differing manners fall in love with one another, allow them to perceive one another differently than others do. The space between how society views them and how their lover views them is precisely where the romance is located.
+Show gender constraints through small friction points rather than big dramatic confrontations: the dress that limits movement, the conversation she's excluded from, the assumption made about her desires without asking. Don't overlook the costs of conformity either: the mental fatigue, the emotional exhaustion, the sorrow for choices not made. The space between how society views your characters and how their lover views them is precisely where the romance lives.
 
 **What roles and behaviors does your culture expect based on gender?**
 
@@ -803,11 +801,9 @@ _______________________________________________________________
 ---
 ## Manners, Etiquette & Everyday Politeness
 
-Etiquette is an unwritten set of rules that we follow in our daily lives; which person says hello first, when does one stop speaking to allow another to go first. In romantasy, the "rules" of etiquette are a battleground for characters. Each time someone breaks some social rule you see something about where they come from, each deliberate violation is a statement of power and control, and the tension between what politeness requires and what desire demands drives countless charged scenes.
+Etiquette is an unwritten set of rules: which person says hello first, when does one stop speaking to allow another to go first. In romantasy, etiquette is a battleground. Each broken social rule reveals something about a character's origins, each deliberate violation is a statement of power, and the tension between what politeness requires and what desire demands drives countless charged scenes.
 
-Do not tell your readers the rules of etiquette. Rather, show your readers the transgression and the subsequent reactions of those around them. Write down the immediate physiological response from others after the character makes a social faux pas: the gasp, the look shared among the people present, the pause in the conversation before the dialogue resumes. Allow your character to feel the wrongness of their actions before they have any idea why. And when depicting intentional violations of etiquette rules, show the internal calculation. Your character knows what they are risking and chooses to act anyway.
-
-Etiquette becomes romantic tension as a result of one character watching another learn the "rules" of the world around them. The competence or ineptitude, the minute corrections that guide the newcomer, and the moment the outsider figures out the correct way to behave. A small social infraction is usually much more effective than a large offence: the cutting remark, the incorrect form of address, the turned shoulder.
+Show transgressions through reactions: the gasp, the shared look, the pause in conversation. A small social infraction is usually more effective than a large offence: the cutting remark, the incorrect form of address, the turned shoulder. And one character watching another learn the "rules" of a new world creates its own form of intimacy.
 
 **How do people greet each other?**
 
@@ -861,17 +857,11 @@ _______________________________________________________________
 
 While it may seem like hospitality would be a minor detail when building a world, in romantasy it can be one of the most dependable ways to generate romantic tension. Both of your characters are continually entering into each other's space, and the obligations that come from being a guest or a host establish a precarious, intimate dynamic that has a lot of opportunity.
 
-Hospitality is ultimately a social contract. A host provides the guest with three things: safety, food and shelter, and passage from place to place. Guests have a few responsibilities: be polite, follow the host's house rules, and restrain their desires. Many fantasy worlds consider this contract sacred; a violation of it is more egregious than normal betrayal because it tears at the very fabric that holds together the community of strangers in hostile territory. In Fae-inspired settings, hospitality can literally become a binding contract. Each meal you eat, each gift you accept, and each word of gratitude you say can bind you to a host's obligation without even realising it.
+Hospitality is a social contract: the host provides safety, food, and shelter; the guest follows the host's rules and restrains their desires. Many fantasy worlds consider this contract sacred, and in Fae-inspired settings, hospitality can literally become a binding contract where each meal accepted or word of gratitude spoken creates obligation.
 
-One of the reasons that hospitality is such a great way to build tension between two people is the vulnerability that exists on both sides. As a guest, you're dependent on someone else's resources and therefore vulnerable and visible; there are rules you'll have to follow that you may not fully understand. The host is responsible for providing for another person, exposing themselves through their home and performing a version of themselves to an audience of one. By having your protagonist enter their love interest's home as a guest, the dynamic of vulnerability is already established by the time anyone starts speaking.
+Hospitality builds romantic tension because both sides are vulnerable. The guest is dependent and visible; the host is exposed through their home. In *A Court of Thorns and Roses*, Feyre's stay at the Spring Court begins as hospitality-as-imprisonment: fine clothes and beautiful rooms, but no freedom. The contrast with the Night Court, where Rhysand declares her a guest rather than a prisoner and teaches her to defend herself, shows the difference between hospitality as control and hospitality as refuge.
 
-Hospitality in *A Court of Thorns and Roses* begins as a form of imprisonment for Feyre. She arrives at the Spring Court as a debtor, not a voluntary guest. Although Tamlin presents her stay as hospitality (fine clothes, beautiful rooms, all of her needs met), the true nature of her stay is as a captive. His hospitality becomes increasingly restrictive as time passes, culminating in him locking Feyre in the manor with an air shield for her "protection." While providing for her physical needs, Tamlin ignores her mental and emotional needs. After Feyre moves to the Night Court, Rhysand clearly states to her that she is his guest and not his prisoner. He reinforces this by teaching her how to defend herself, even within his own home. The two Courts were worlds apart: the difference between hospitality as a tool of control and hospitality as actual refuge.
-
-Jude Duarte in *The Cruel Prince* is a perpetual guest living under conditions of precarious hospitality. After having been taken in by Madoc (a Fae General responsible for murdering her biological parents), she is educated and provided with the same luxuries as the Fae gentry, yet constantly reminded of her mortality and lower standing. Madoc provides for the children as a result of a sense of honour and obligation, as he views them as his wife's offspring. But this type of hospitality is both conditional and limiting. Perhaps the greatest betrayal of guest rights occurs when Valerian forces Jude to consume the Everapple, a fruit that renders people susceptible and compliant. This is a clear break in the trust of the dining table, where feeding a guest is meant to be a sign of security. Jude's journey is largely defined by her transformation from a vulnerable guest into the person behind the throne, utilising the knowledge that her host provided for her to gain the upper hand against him.
-
-Romantic plot points based on hospitality can follow several patterns. There is the **gilded cage**, where the guest is showered with luxury but is denied the freedom to make choices, and the cost of this hospitality is the loss of the guest's agency. Then there is **the host's exposure**, where inviting a person into your home is a risk because they may discover aspects of your life that you would prefer to remain private, creating vulnerability you never intended. And there is **the violation**, where one party breaks the hospitality contract and the betrayal cuts deeper than ordinary conflict because the violation occurred during a time when both parties were required to uphold something sacred.
-
-When developing hospitality customs for your world, consider the rituals that occur at the threshold. Does your society have a tradition of greeting guests formally: sharing a meal together, drinking wine together, saying a specific word or phrase? The more elaborate the ritual of welcoming, the greater the weight that a violation of that ritual will carry. Also, consider what happens at the end of a visit when the guest does not wish to leave but the visit is over, or when the host does not wish for the guest to leave, but is not entitled to prevent it. These liminal moments, when the hospitality obligation is near its end, are ideal places to create tension for romance.
+Three hospitality patterns shape romantic dynamics: the **gilded cage** (luxury without autonomy), **the host's exposure** (the home reveals truths the host would rather hide), and **the violation** (one party breaks the sacred contract, and the betrayal cuts deeper because it occurred under the protection of hospitality). The more elaborate your welcoming rituals, the greater the weight when they are violated.
 
 **What does your culture owe a guest?**
 
@@ -927,9 +917,7 @@ _______________________________________________________________
 
 ## Entertainment, Arts & Leisure
 
-What your character does in their leisure time will show you what they value. The way characters interact with each other during leisure time also provides a natural setting for them to meet outside of their normal roles. The stories that are told, the games that are played, and the ways cultures express themselves through the arts all reveal deeper values about what really matters.
-
-Leisure time is great for creating opportunities for your characters to spend time together while being outside of their normal relationship dynamic. A dance requires physical contact. A game shows how competitive someone is. A shared story creates inside jokes and common ground. In many cases, leisure activities provide a "cover" for characters to spend time together without acknowledging the real reason why they want to. And honestly, when a character continues to attend the same tavern game night over and over again, or has an unexplained sudden interest in an art form their love interest practises, it's very obvious to everyone else. The transparent nature of this behaviour adds to its charm.
+Leisure time provides natural settings for characters to meet outside their normal roles. A dance requires physical contact. A game reveals personality. A shared story creates inside jokes. Leisure activities often provide a "cover" for spending time together without acknowledging the real reason, and when a character develops an unexplained sudden interest in an art form their love interest practises, it's obvious to everyone else. The transparent nature of this behaviour adds to its charm.
 
 **What entertainment is common?**
 
@@ -994,23 +982,13 @@ Oaths have an inherent value in romantic tension because they were normally give
 
 ### Oaths That Live in the Body
 
-Romantasy worlds with the strongest oaths don't treat them as social norms; they give them physical consequences. What happens when you make a deal? It manifests as a tattoo that cannot be erased. When you break a promise, it causes you pain, sickness, or death. When your commitment lives in your body, ignoring it is impossible, and the tension between responsibility and passion becomes unendurable.
+The strongest romantasy oaths aren't social norms; they have physical consequences. A deal manifests as a tattoo that cannot be erased. Breaking a promise causes pain, sickness, or death. When your commitment lives in your body, the tension between responsibility and passion becomes unendurable. The distinction between "I will serve you" and "I will serve your interests" could be the difference between slavery and strategic alliance.
 
-Romantasy oath culture has little resemblance to historical fiction. Where failure to honour your word can kill you, every single promise you make is a potential trap. Because the wording of the oath can be so important, characters in these worlds often treat every single word very carefully, not necessarily because they are clever, but because their life may depend on it. The distinction between "I will serve you" and "I will serve your interests" could be the difference between slavery and strategic alliance.
-
-Rhysand and Feyre's bargain in *A Court of Thorns and Roses* is probably the most compelling use of oath-as-romantic-engine in the genre. Feyre bargained herself away to Rhysand for one week each month to stay alive while she was held captive Under the Mountain. This binding agreement is tattooed onto her body and remains even after she is transformed into a Fae, indicating that the promise is tied to the soul and not the body. When Feyre does not fulfil her part of the bargain for three months, she begins to experience the effects physically: nightmares, losing weight, becoming sick repeatedly, all of which disappear once she arrives at the Night Court. The bargain works like a somatic tether. She is physically punished for staying too far from Rhysand, and she is physically drawn to him, which complicates every question of agency and choice. The tension is that the bargain exists independently of feelings. He did not ask for her love, he asked for her presence during certain times of the year, and her refusal to meet that obligation is a debt she owes. Watching the obligation transform into something she wants is the slow burn at work. Meanwhile, the tattoo marks her socially: in the Spring Court, she's labelled as Rhysand's property, her "bond" with a rival male read as a loss of virtue rather than a survival tactic.
-
-In *Fourth Wing*, oaths given to the military create an inflexible structure that places individual loyalty against institutional duty. The Riders Codex is not merely a handbook outlining rules for dragon riders, but a metaphysical law describing reality in regards to riders and their dragons. Its first article states that "a rider without their dragon is dead." Violet and Xaden find themselves in opposition due to their conflicting institutional oaths: she is the daughter of a general who is loyal to the crown; he is the son of an executed rebel and the head of the "marked ones." Due to the mating of their dragons, there is a biological tie that neither of them desired. An involuntary oath that requires them to remain near one another despite mutual distrust. For Xaden, the numerous conflicting obligations he carries (protecting Violet, serving the rebellion, honouring the 107 children whose safety he traded his own life for) means that every action he takes to provide for her could be interpreted as a betrayal of something he has sworn to uphold. The oath does not preclude the development of romantic feelings; however, it makes each step towards that feeling costlier. Importantly, the series resolves this through a legal manoeuvre: they exploit the fact that the Riders Codex trumps the Academy's Code of Conduct, using the strictness of the honour system to provide a space for personal choice.
+Rhysand and Feyre's bargain in *A Court of Thorns and Roses* is the genre's most compelling example. Feyre bargains herself away for one week each month, and the agreement is tattooed onto her body. When she avoids the Night Court, she deteriorates physically: nightmares, weight loss, illness. The bargain exists independently of feelings, and watching the obligation transform into something she wants is the slow burn at work.
 
 ### The Loophole and the Letter of the Law
 
-What's also incredibly rewarding about oath-based relationships in romance is the loophole. That moment when a character finds a way to honour the letter of their promise while violating its spirit (or vice versa). The loophole provides a visual example of how the character is both constrained by the rules and smart enough to work around them. Agency within constraint is the entire premise of romantasy.
-
-In *The Cruel Prince*, the Fae are genetically incapable of lying, which created a society based upon the nuances of language, deception through omission, and the exploitation of loopholes. Mortality is Jude Duarte's greatest asset, specifically her ability to lie, a trait that makes her both despised and invaluable. In the climax of the series, Jude outsmarts Cardan into agreeing to a "year and a day" of sworn service. Since the Fae cannot break their vows, Jude knows that Cardan will be bound to keep his word to her, despite his hatred; forced cooperation that becomes the crucible for their enemies-to-lovers arc. When Cardan later exiles Jude, the story reveals that there is a loophole in the exile. The wording was carefully crafted to protect Jude from assassination attempts at court while technically allowing him to exile her under the law. The tension arises from the difference between the literal interpretation of the oath and the emotional intent behind it. Cardan cannot simply tell Jude the truth because the Fae political system would turn it against them both. The "weight" of words is so extreme in this society that it requires linguistic creativity to honour the oath while preserving the lover.
-
-When creating your oath culture, consider areas where the tension between literal and implied meanings of oaths could create romantic conflict. Is the culture more concerned with enforcing the letter of the law or the spirit? Are there ways characters can fulfil the technical aspects of a promise while doing the opposite of what they were expected to do? When they discover the loophole, is it seen as a betrayal to the other person or a revelation?
-
-Even in cultures where oaths are entirely symbolic, the consequences of breaking one can be disastrous. A character who is known for being honourable and then breaks a vow for love does not simply lose their reputation; they lose themselves. The question is no longer "Will I break this promise?" but rather "Who am I if I do?"
+The loophole is one of the most rewarding elements of oath-based romance: the moment a character honours the letter of their promise while violating its spirit. Agency within constraint is the entire premise of romantasy. When creating your oath culture, consider where the tension between literal and implied meanings could create romantic conflict. Even in cultures where oaths are entirely symbolic, breaking a vow for love doesn't just cost a reputation; it costs an identity. The question becomes "Who am I if I break this?"
 
 **What oaths or promises bind your characters?**
 
@@ -1129,21 +1107,13 @@ _______________________________________________________________
 ---
 ## Sexuality, Desire & Intimacy Norms
 
-Every society has its own way of regulating desire. The question is: what counts as appropriate sexual behaviour, who can pursue whom sexually, and what happens to individuals (notably women) if they violate these norms? The answers to these questions reside at the centre of romantic conflict in the genre. In addition to external barriers such as war and geography, the expectations surrounding purity are internalised to the point that they become part of the character's inner dialogue, defining both what she does and what she believes she may or may not want.
+Every society regulates desire. What counts as appropriate sexual behaviour, who can pursue whom, and what happens to those who violate these norms sit at the centre of romantic conflict in the genre. Purity culture is a potent tool in romantasy because a character battling the voice in her own head that tells her *wanting this makes me ruined* is fighting a very different kind of struggle than a character battling an external enemy.
 
-So purity culture becomes such a potent tool in romantasy. As opposed to a character who is battling an external enemy, a character who is battling the voice within her own head that tells her *wanting this makes me ruined* is a very different type of struggle. The genre is particularly effective in conveying this type of conflict.
+A common structure is the **architecture of restriction**: the culture creates elaborate rules regarding the protagonist's sexuality (veils, chaperones, ritualistic practices, physical isolation) and the romance develops as the rules are slowly dismantled. In *From Blood and Ash*, Poppy is required to wear a veil, never be touched, never make eye contact. When Hawke arrives as her guard, the simplest contact -- a glance, a casual conversation -- takes on enormous transgression. Her rebellion begins not with a grand escape but a clandestine tavern visit wearing a mask, trading one concealment for another, simply to experience a kiss. The architecture of restriction makes even the smallest gestures of desire monumental.
 
-A very common structure in romantasy is what you might call the **architecture of restriction**: the culture creates elaborate rules regarding the protagonist's sexuality (veils, chaperones, ritualistic practices, physical isolation) and the romance develops as the rules are slowly dismantled. Each stolen glance, each forbidden touch, and each secret conversation carry the weight of the possible consequences of discovery. The restrictions themselves do half the heavy lifting of building up the slow burn for you.
+The **double standard** is what gives these obstacles their teeth: in most romantasy worlds, the male love interest arrives with experience and no consequences, while the female protagonist's worth is determined by how little she knows. This creates tension in both directions. The protagonist must navigate internalised shame, while the love interest must prove worthy of trust.
 
-In *From Blood and Ash*, the Maiden Rules demonstrate the architecture of restriction perfectly. Poppy is not simply expected to be a virgin; her entire existence is designed to reinforce that expectation. She is required to wear a veil, and to never be physically touched by anyone. She's forbidden from having direct eye contact with individuals, being spoken to informally, or having any physical contact with others. The rules create a double barrier; they restrict her ability to engage in sexual activity and her ability to develop a desire to begin with. So when Hawke arrives as her guard, one of the few people permitted to see her face, the simplest types of intimate contact (a glance, a casual conversation, a brush on the back) take on an enormous level of transgression. Poppy's rebellion begins not with a grand escape, but rather with a clandestine visit to a tavern where she wears a mask, thus trading one form of concealment for another, simply so that she may experience a kiss. The architecture of restriction makes even the smallest gestures of desire seem monumental.
-
-But restrictions aren't sufficient alone. It is the **double standard** that allows these romance obstacles to operate; the difference between what is expected of women and what is allowed for men. In most romantasy worlds (and I am being truthful when I say it is the same way in many actual worlds) the male love interest arrives with hundreds of years of experience, a rakish reputation, and nothing will happen to him, while the female protagonist's worth is determined based upon how little she knows. This double standard creates tension in both directions. The female protagonist must deal with the internalised shame regarding the fact that she wants, while the experienced male love interest must prove himself worthy of the trust of someone who has been told that wanting is bad.
-
-*Bridgerton* makes this double standard obvious. Anthony Bridgerton openly keeps a mistress, while at the same time chasing away any suitors he deems unworthy of Daphne, whose entire value in the marriage market depends on her perceived virtue. If Daphne is even thought to have made a mistake or been alone in a garden with a man, it could cost her everything, while Anthony's relationships are known to everyone and carry no consequence for his standing. In *Bridgerton*, the marriage market is an economic system where women are reduced to their physical attractiveness, their family name, and "virtue," making reputation an economic survival mechanism rather than a moral preference. When Daphne and Simon find themselves in an intimate moment, the marriage that follows is not because anyone objects to the relationship itself, but because Daphne's reputation, which is all she has to trade on, has been damaged.
-
-Perhaps the most exciting aspect of purity norms is showing the moment your protagonist recognises them for what they are. This connects back to the Invisible Cage principle: the protagonist does not recognise the restriction as oppressive until they meet someone who views desire as normal, and not as something to be ashamed of. It is the contrast between what they were raised to believe and how they currently feel that is the location of the real emotional conflict.
-
-When writing this type of romance arc, take care when writing the transition. In the strongest examples, the protagonist's first sexual experience is framed as a reclaiming of control and agency, rather than a loss of virtue. Choosing to want, choosing to act, on their own terms. But you should also consider the "experienced man teaches innocent woman" dynamic that so commonly comes with it. The best examples provide the protagonist with a legitimate desire and curiosity of their own, rather than treating them as a blank slate waiting to be written on.
+The most powerful moment is when your protagonist recognises these norms for what they are. This connects to the Invisible Cage principle: the protagonist doesn't see the restriction as oppressive until they meet someone who views desire as normal. When writing the transition, frame the protagonist's choice as a reclaiming of agency rather than a loss of virtue, and give the protagonist their own desire and curiosity rather than treating them as a blank slate.
 
 **What are your culture's expectations around sexual behaviour?**
 
@@ -1299,11 +1269,7 @@ _______________________________________________________________
 ---
 ## Privacy, Surveillance & Being Watched
 
-It is when we are denied our private moments that we begin to value them. But private moments are hard to come by; it is this lack of privacy that creates the feeling of earning intimacy.
-
-Private time can vary dramatically from one culture to another. For some people, being alone in a room together is scandalous, while a busy marketplace provides far more anonymity than an empty hallway where servants have eyes and ears everywhere. It is because privacy is so rare that every stolen moment means something. A near-discovery builds beautiful tension: the footsteps in the hallway, the knock on the door, the voice in the next room. The fact that you are always aware that you could be discovered at any time makes every private glance dangerous.
-
-The process of creating their own privacy together is itself a type of intimacy. They discover a secluded place. They fabricate reasons for being alone. They get to know each other's schedules. Together, they create a private world that only they share.
+Privacy is earned in most romantasy worlds, and that scarcity is what makes every stolen moment matter. A near-discovery builds tension: the footsteps in the hallway, the knock on the door, the voice in the next room. The process of creating privacy together -- discovering a secluded place, fabricating reasons to be alone, learning each other's schedules -- is itself a form of intimacy.
 
 **How much privacy exists in your world?**
 
@@ -1370,13 +1336,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
-## Touch, Proximity & Physical Boundaries
+## Physical & Romantic Boundaries
 
-In many societies, there are rules about who may physically touch whom, and to what extent. Touch restrictions have the power to create a slow burn feeling in romance. When a simple brush of the fingers with another person is seen as taboo, it carries a charge that explicit contact in a more permissive culture simply can't match.
-
-Accidental touches are electrified in these societies. Write the moment your main character's hand brushes against another person's, and they both stop dead in their tracks. The warmth of being too close to each other in a crowded room. The more forbidden touch is, the more weight a single point of contact carries.
-
-*Bridgerton* is a perfect example of this. In a Regency setting where unmarried people can barely be alone together, every gloved hand on an arm carries weight. When Anthony removes Kate's bee sting in *The Viscount Who Loved Me*, although it was strictly a medical procedure, the transgression of touching bare skin in that world made it one of the most charged scenes in the book. You do not have to include any form of explicit content, as placing a hand on a bare shoulder in some societies would be scandalous enough.
+Touch, proximity, gestures, and tokens all work together to form your culture's romantic code. When a simple brush of fingers is taboo, it carries a charge that explicit contact in a more permissive culture can't match. When a specific gift or garment signals courtship, giving or wearing it becomes a declaration. The more forbidden these signals are, the more weight each one carries.
 
 **What touch is considered appropriate between unmarried people?**
 
@@ -1403,19 +1365,39 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-_______________________________________________________________
-
 **Are unmarried people allowed to be alone together?**
 
-If no — who must be present? Under what circumstances can they be unchaperoned?
+If no — who must be present? Under what circumstances can they be unchaperoned? If they ARE alone together, what does that imply?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**If they ARE alone together, what does that imply?**
+_______________________________________________________________
 
-Does it automatically suggest impropriety? Is their reputation ruined? Are they now obligated to marry?
+**What gestures signal romantic interest, and what crosses the line?**
+
+| Gesture Type | Examples in Your World |
+|---|---|
+| Acceptable signals of interest | |
+| Borderline — could be read as too forward | |
+| Clearly transgressive — would cause scandal | |
+
+**Are there clothing items or tokens exchanged in courtship?**
+
+Rings, pins, sashes, cloaks, veils — items that mark someone as courting or claimed? What does giving, receiving, or rejecting such a token mean?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Who acts as chaperone for your characters?**
+
+Is this person sympathetic, oblivious, or hostile to the romance? How do the characters evade supervision?
+
+_______________________________________________________________
 
 _______________________________________________________________
 
@@ -1423,7 +1405,7 @@ _______________________________________________________________
 
 ---
 
-**When do your characters first break the touch barrier?**
+**When do your characters first break a physical or romantic boundary?**
 
 Describe the scene — what boundary do they cross? Was it intentional or accidental? How do they react?
 
@@ -1445,17 +1427,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Who acts as chaperone for your characters?**
+**What romantic gesture does one character make that surprises the other?**
 
-Is this person sympathetic, oblivious, or hostile to the romance?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How do they evade supervision?**
-
-What excuses, distractions, or locations allow them to be alone?
+Something that reveals more than they intended, or that the other didn't expect:
 
 _______________________________________________________________
 
@@ -1584,40 +1558,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-### Tokens of Dress
-
-**Are there clothing items exchanged in courtship or marriage?**
-
-Rings, pins, sashes, cloaks, veils — items that mark someone as courting or claimed?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does it mean to give or receive such an item?**
-
-Interest? Betrothal? Binding commitment?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does it mean to remove or reject such an item?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Is there a garment or accessory that becomes significant between your characters?**
-
-Something given, borrowed, kept, or returned:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ### Undressing as Intimacy
 
 **What does it mean to see someone in states of undress?**
@@ -1659,11 +1599,7 @@ _______________________________________________________________
 ---
 ## Courtship Customs & Romantic Expectations
 
-All cultures have a romantic script: the expected ways to indicate interest, as well as the approved sequence of events from stranger to spouse. If we don't understand what the normal expectations of these scripts are, then the deviations may be difficult to identify.
-
-The romantic tension in courtship customs comes from the gap between what's expected and what's felt. There is a character performing the required actions but burning beneath the surface. A character who has no idea where they are in the process, and must be guided by the person they're interested in. And then there is the intimacy of learning how to perform the scripted actions. You want to portray characters who are acutely aware of which step in the process they are currently engaged in, constantly trying to determine if they can skip over the next step, frustrated with the rigid pacing that doesn't match their feelings. Once a couple deviates from the script, it should be apparent that both parties involved are conscious of what they are doing. "This is not the way things are typically done," one party may express, and the other responds, "I am aware." The script becomes most important once the couple deviates from it.
-
-In *From Blood and Ash*, Poppy has lived her entire life adhering to the rules of the Maiden. She is never allowed to be touched, seen, or spoken to informally. So every time Poppy and Hawke interact and break one of these rules, there is a sense of tension present precisely because both are aware of what the rules are, and are purposefully ignoring them. The courtship is not characterised by romantic gestures such as flowers or formally introducing themselves. Rather, it's comprised of secretly conversing with one another, forbidden touch, and slowly breaking down every rule that Poppy has been taught since birth. With each step they skip, there is a sense of danger present because the consequences are real.
+All cultures have a romantic script: the expected ways to indicate interest and the approved sequence from stranger to spouse. The romantic tension comes from the gap between what's expected and what's felt. Characters who are acutely aware of which step they're on, frustrated with a rigid pacing that doesn't match their feelings, constantly calculating whether they can skip ahead. Once a couple deviates from the script, it should be apparent that both know what they're doing. The script becomes most important once they deviate from it.
 
 **How do people show romantic interest?**
 
@@ -1738,41 +1674,9 @@ _______________________________________________________________
 &nbsp;
 
 ---
-
-**What gestures are considered romantic in your culture?**
-
-Describe 3 gestures that signal love or interest:
-
-1. _______________________________________________________________
-
-2. _______________________________________________________________
-
-3. _______________________________________________________________
-
-**What gestures would be considered too forward or inappropriate?**
-
-1. _______________________________________________________________
-
-2. _______________________________________________________________
-
-3. _______________________________________________________________
-
-**What romantic gesture does one character make that surprises the other?**
-
-Something that reveals more than they intended, or that the other didn't expect:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
 ## Tokens, Gifts & Symbols
 
-Gifts in the context of courtship can be thought of as their own unique form of communication. The right gift at the right time signals interest; too much interest, however, can communicate presumptuousness or even ignorance of the recipient.
-
-Each gift scene has three components: the act of giving, the act of receiving, and the after-effects. To maximise the impact of each of these elements, slow down through all three. The giver: what did they give? Why did they choose this gift? How nervous or confident were they when presenting? Did they offer explanation or allow the gift to stand for itself? The receiver: the moment of recognition (or confusion), physical contact with the gift, the decision on how to respond. The aftermath: where does the gift go? How many times is the gift physically touched or looked at? Is the gift put away, or placed out for view? While the actual gift itself is important, the emotional weight the giver places upon it carries much greater significance. But specific gifts chosen based on some preference or observation carry much greater weight than generic "beautiful jewellery." A gift that reflects the giver's awareness of the receiver (remembered a preference, noticed a need) will always land harder than an expensive gift that merely demonstrates wealth.
+Gifts in courtship are their own form of communication. Each gift scene has three components worth slowing down through: the giving (nervous or confident?), the receiving (recognition or confusion?), and the aftermath (where does the gift go, how often is it touched?). A gift that reflects the giver's awareness of the receiver -- a remembered preference, a noticed need -- will always land harder than an expensive gift that merely demonstrates wealth.
 
 **Are there traditional courtship gifts or tokens?**
 
@@ -1920,23 +1824,11 @@ _______________________________________________________________
 ---
 ## Death, Grief & Mourning
 
-Death customs help shape the way a culture approaches romance and many of its most emotional moments. Rituals surrounding the dead, what is owed to the deceased, whether grief is performed publicly or hidden away, and whether remarriage is permitted or shameful. All of these factors will influence the plot of your romance. What your characters believe about the end of life will colour how they view love and ultimately how they approach it.
+Death customs shape how a culture approaches romance at its most emotional. Rituals surrounding the dead, what is owed to the deceased, whether grief is performed publicly or hidden away, and whether remarriage is permitted or shameful will all influence your romance. What your characters believe about the end of life colours how they view love.
 
-Death customs can provide the most obvious romantic obstacle in the form of a **mourning period**: a socially or magically enforced period of time where the bereaved are separated from the world of the living, and therefore from the world of romance. Historically, Victorian widows were expected to wear black for over two years, progressing through stages of "deep mourning" to "half mourning" in specific increments. In romantasy, mourning customs can be even more restrictive, including restrictions against dancing, socialising, wearing colours, and being visible in public. The mourning period serves to enforce a waiting period in the characters' lives; developing romantic feelings towards another person during this time carries an added layer of guilt because wanting someone while you are supposed to be grieving the loss of someone is seen as a betrayal of the deceased.
+The most direct romantic obstacle is the **mourning period**: a socially or magically enforced time where the bereaved are separated from the world of romance. In romantasy, mourning customs can be highly restrictive, including prohibitions against dancing, socialising, wearing colours, and being visible in public. Developing romantic feelings during this time carries guilt, because wanting someone while grieving is seen as betrayal of the deceased.
 
-But death customs do more than just create a waiting period; they also serve to define the characters. Are your characters careful with the dead? Do they mourn with others? Are they open with their grief, or do they keep it inside? Do your characters follow customs they don't believe in out of a deep respect? These answers will give the reader insight into who they are at their deepest level. If a character is willing to risk their safety to retrieve a body for proper burial, this shows that they have the capacity for selfless acts of caring, and therefore they are emotionally mature. And if a character refuses to take part in the outward signs of mourning, but displays deep, genuine grief in private, this reads as more emotionally honest and complex.
-
-In *A Court of Thorns and Roses*, Rhysand has built a whole identity on unaddressed grief, believing anything he loves will be taken away. Feyre is grieving the loss of her humanity after dying and being resurrected as High Fae, displaying classic trauma responses that the Spring Court dismisses. The romantic obstacle isn't just that Tamlin is controlling; it's that he can't deal with his own grief, so he can't hold space for hers. Rhysand can. That fundamental difference in how each processes grief breaks one relationship and allows a new one to emerge.
-
-When developing mourning traditions for your world, there are several dynamics worth thinking about:
-
-**Grief as a psychological barrier.** A character that has lost someone they loved will likely believe that when they lost that person, they also lost their ability to love. Therefore, a new love interest must find a way to help the character overcome the idea that loving again is a betrayal, by dismantling the character's internal beliefs that prevent them from feeling. This is a primary driver of the slow burn: the pining isn't just about external separation but about a character who won't allow themselves to feel.
-
-**Mourning as public performance.** In some cultures, grief must be visible: specific clothing, wailing rituals, professional mourners, public vigils. In others, grief must be hidden; stoicism is valued, and those who visibly show their grief are viewed as weak. Both create romantic tension, but in different ways. Public mourning makes the bereaved conspicuous and untouchable. Private mourning creates a secret emotional world that only someone very close would be allowed to witness.
-
-**The taboo of loving again.** In worlds with soul bonds or fated mates, the tie is frequently described as a tie that transcends death and even reincarnation. If your culture views the bond as eternal, then loving someone new isn't just moving on. It would represent a metaphysical betrayal. The "widow's veil" (literal or metaphorical) becomes an obstacle to intimacy that could not be overcome through conversation alone.
-
-**Shared mourning as a bond.** When two characters grieve together, following rituals, sitting vigil, performing rites for someone they both loved, the experience creates a connection that is qualitatively different from anything else in the story. They have witnessed each other in a completely raw state, with no pretences or social masks to hide behind. Like shared danger, shared grief can rapidly advance a relationship, because it forces individuals to present their true selves emotionally.
+Death customs also define character. How your characters treat the dead reveals who they are at their deepest level. A character willing to risk their safety to retrieve a body for proper burial shows capacity for selfless caring. A character who refuses outward mourning but displays deep grief in private reads as emotionally honest and complex. When two characters grieve together, the experience creates a bond unlike anything else: they have witnessed each other completely raw, with no social masks.
 
 **What are the mourning customs in your world?**
 
@@ -2044,20 +1936,18 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
-## Children & Education
+## Daily Roles & Education
 
-A culture's beliefs are shown through how it brings up its youth. There are cultures that focus on discipline, there are cultures that focus on creativity. Some educate everyone equally; others reserve knowledge for the elite.
+How a culture raises its children and organises its labour reveals what it values most. A child raised to fight shows affection differently than one raised to charm, and a culture that locks people into inherited professions creates different romantic obstacles than one where anyone can reinvent themselves. The way your characters were brought up shaped them into the adults they are, and when two characters discuss how they would raise children together, they reveal their deepest values.
 
-Think about what a childhood would be in your world. The way your characters were brought up shaped them into adults, and as adults with children or children-to-be, your answers to these questions can be very personal. Childhood backstory is one of the best methods to describe a grown person's behaviour. A child raised to fight shows affection differently than one raised to charm. Memories of upbringing deepen characterisation: what lessons stuck, what they rejected, what they wish they'd learned. And when characters discuss how they'd raise children together, they're revealing their deepest values.
+**How are children educated, and how does that lead to adult roles?**
 
-**How are children educated?**
-
-| Class/Group | How They're Educated |
-|---|---|
-| Noble/wealthy | *e.g., Private tutors in languages, history, etiquette; boys learn combat and governance; girls learn household management and diplomacy* |
-| Middle/merchant | |
-| Common/poor | *e.g., Learn their parents' trade by working alongside them; basic numeracy from market haggling; most cannot read* |
-| Magical children | |
+| Class/Group | How They're Educated | What Work They Do as Adults |
+|---|---|---|
+| Noble/wealthy | *e.g., Private tutors in languages, history, etiquette* | *e.g., Governance, military command, court politics* |
+| Middle/merchant | | |
+| Common/poor | *e.g., Learn parents' trade by working alongside them* | *e.g., Farming, crafts, manual labour* |
+| Magical children | | |
 
 **How do most people learn skills and knowledge?**
 
@@ -2067,17 +1957,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Who has access to education?**
+**Who has access to education, and what knowledge is valued vs. dismissed?**
 
-Is literacy common? Are schools available to all classes? Gender differences in education?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What knowledge is valued vs. dismissed?**
-
-Book learning vs. practical skills? Magical knowledge vs. mundane? Traditional knowledge vs. innovation?
+*Is literacy common? Are schools available to all classes? Is book learning respected more than practical skills, or the reverse?*
 
 _______________________________________________________________
 
@@ -2086,29 +1968,6 @@ _______________________________________________________________
 **Are there institutions that take children from their families?**
 
 Temples, military academies, magical schools, noble fostering arrangements? What does separation mean?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How were your protagonist and love interest raised?**
-
-*What was childhood like for each of them? What skills did they gain, and what gaps does each have?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
----
-## Work & Professions
-
-**How does culture view work?**
-
-Is labor dignified or demeaning? Is idleness virtuous (noble leisure) or sinful? Do people identify strongly with their professions?
 
 _______________________________________________________________
 
@@ -2131,15 +1990,17 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What do your protagonist and love interest do for a living?**
+**How were your protagonist and love interest raised, and what do they do now?**
 
-*How do they spend their working hours? Does their work bring them together or keep them apart?*
+*What was childhood like for each of them? What skills did they gain, what gaps does each have, and how do they spend their working hours? Does their work bring them together or keep them apart?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
+
+&nbsp;
 
 ---
 
@@ -2148,9 +2009,7 @@ _______________________________________________________________
 ---
 ## Festivals, Holidays & Celebrations
 
-Special occasions have a way of shrinking time, bringing people close to one another, and heightening emotions. They're classic romance settings because the energy is different, rules may relax, and everyone is gathered in the same place.
-
-The environment created by festivals gives characters an excuse to be different than they normally would. A character's face hidden behind a mask, the need to touch while dancing, the tradition that pairs strangers together. You can use these as excuses for intimacy your characters couldn't otherwise justify. And at the end of the festival, the urgency kicks in too. This chance won't come again.
+Festivals are classic romance settings because rules relax, emotions heighten, and everyone is gathered in one place. A mask hides identity, a dance requires touch, a tradition pairs strangers together. These customs give characters excuses for intimacy they couldn't otherwise justify, and the urgency of a festival ending -- this chance won't come again -- drives pivotal scenes.
 
 **What major festivals or celebrations exist in your world?**
 
@@ -2202,23 +2061,13 @@ Exile in romantasy takes several forms, and the form matters for your romance:
 - **Social ostracism:** The character remains physically present but is treated as invisible, contaminated, or dead. Generational guilt, racial branding, or species-based prejudice mark them as permanent outsiders within their own community.
 - **Cultural divorce:** The character rejects the beliefs, religion, or traditions of their people. They're not cast out by others; they walk away. But the safety net vanishes, and the romantic relationship must replace the entire support structure they've abandoned.
 
-What makes exile such a potent romantic stake is the fact that it forces a character to redefine who they are. A character that has been stripped of their community, their title, and their position within the social hierarchy must discover who they are without those markers. That is frightening. But it is also the prerequisite for the kind of raw vulnerability that the strongest romances require.
+What makes exile such a potent romantic stake is that it forces a character to redefine who they are without their community, title, or social position. That vulnerability is also the prerequisite for the kind of raw honesty the strongest romances require.
 
-Jude's exile at the end of *The Wicked King* illustrates exile as romantic catalyst. Cardan sends her back to the mortal world, stripping away her status, authority, and sense of purpose. What makes this exile so effective is that it comes directly from the love interest, creating a wound that is both deeply personal and politically motivated. Although it is later revealed as a loophole (worded to protect her from assassins), the emotional devastation remains. When Jude returns, she does so as someone who has emerged from the void, and her restoration as High Queen carries greater weight because she earned it back from nothing.
+Jude's exile at the end of *The Wicked King* illustrates this perfectly. Cardan sends her back to the mortal world, stripping away her status, authority, and sense of purpose. The exile comes directly from the love interest, making it both deeply personal and politically motivated. When Jude returns, her restoration as High Queen carries greater weight because she earned it back from nothing.
 
-### The Threat vs. The Reality
+The threat of exile is often more useful to your story than exile itself. You don't need to exile your protagonist to make exile matter. You just need to show them what exile looks like: a disowned sibling, a shunned former courtier, someone whose name is no longer spoken.
 
-The threat of exile is often more useful to your story than exile itself. When your characters can see what happens to people who crossed the same line they're considering (a disowned sibling, a shunned former courtier, someone whose name is no longer spoken) the cost becomes concrete and personal. You don't need to exile your protagonist to make exile matter. You just need to show them what exile looks like.
-
-### What Exile Strips Away
-
-When building exile customs for your world, think about what the banished person loses beyond location. Do they lose their name? Their family connections? Access to magic? Their place in the afterlife? The more the exile strips away, the higher the cost of the transgression that caused it, and the more your character risks by pursuing a forbidden relationship.
-
-The other key aspect of exile in romantasy is how it ends for the characters. Does exile result in a permanent loss of home and identity? Or can the individual escape their exile and start anew? Can an exiled character create a life outside of their homeland, and will they ever be able to overcome the shame associated with their separation from society? In some fantasy worlds exile results in a form of death sentence for the character. In other worlds exile is considered a social death, where the exiled individual lives on as a physical being but is socially invisible and unable to connect with anyone.
-
-One of the most frequently occurring, and ultimately the most emotionally gratifying, forms of resolution for exile in romantasy is the found family. If a character has been exiled from their natural or culturally defined family, the romance provides more than a partner; it provides a new family for the exiled character. The loved ones' people become the exiled individual's people. Together they construct a home, a court, a rebellion, or a secret city which serves as a replacement for what has been taken from the individual.
-
-The narrative resolution of found family is effective because it recognises that humans need more than romantic love to survive. A person requires community, a sense of belonging, and a sense of purpose to truly thrive. What makes the found family so emotionally powerful is that the exile established what was lost. Therefore, when readers have witnessed you remove the character from every aspect of society, witnessing that same character establish a new existence, one that is developed based upon choice rather than inheritance, carries significant emotional weight.
+When building exile customs, think about what the banished person loses beyond location. Name? Family connections? Access to magic? Their place in the afterlife? The more exile strips away, the more your character risks by pursuing a forbidden relationship. And consider what replaces the lost community: in many romantasy stories, the romance provides not just a partner but a found family, a new world built on choice rather than inheritance.
 
 **What does banishment or exile look like in your world?**
 
@@ -2276,19 +2125,9 @@ _______________________________________________________________
 
 ## Social Hierarchy in Practice
 
-Even if there were no laws governing how people act in society, people would still find a way to create rules of conduct based on social hierarchy. We all learn the "rules" about how to act toward those higher up in the social order and those lower down. Who enters the room first? Who speaks, and when does the listener get to speak? Who may put a hand on whom? None of this is written into a law book, yet most people understand these unspoken codes and follow them.
+Social hierarchy creates unwritten rules: who enters the room first, who speaks and who waits, who may touch whom. None of this is written into a law book, yet most people understand these codes and follow them. When members of different classes fall in love, the tension stems from the disconnect between the roles they're obligated to follow and what they actually feel.
 
-In cases where members of different social classes fall in love, all of these unwritten rules become critical. Will the noble acknowledge the servant's existence? Is it acceptable for the commoner to meet the noble's eye? All of the tension in such a relationship stems from the disconnect between the roles each partner feels obligated to follow and what they actually feel about one another.
-
-There's nothing quite like showing that a character has been completely invisible to the upper classes their entire life and now finds themselves truly seen by someone in a position of authority over them. That is electrifying.
-
-You can illustrate social hierarchy through automatic behaviours: who enters the room first, who remains seated while others stand, who speaks and who waits to be spoken to. Each time your characters break one of these automatic behaviours, it indicates a shift in the balance of power. It is at the moment a noble addresses a servant with equality, or a commoner responds to their lord in kind, that the reader feels the change.
-
-The separation of public and private behaviour can be very effective in showing hierarchy. When characters display perfect hierarchy in front of others but fall out of line once they are alone, they are essentially creating their own secret intimacy within that private space.
-
-Look for the "slip": when a character accidentally reaches for the other person's hand, uses their first name, or speaks before receiving permission, and then realises what they have done. That instant of "I forgot myself" reveals the true nature of the character beneath the social mask they wear.
-
-Additionally, allow secondary characters to reinforce the consequences of breaking those rules. A servant who observes too much, a rival who keeps track of every detail, a parent who cautions "people are starting to talk." The hierarchy feels authentic when someone else is paying attention.
+Illustrate hierarchy through automatic behaviours and the moments when those behaviours break. The "slip" -- when a character accidentally uses a first name, reaches for a hand, or speaks before permission -- reveals the true nature beneath the social mask. When characters display perfect hierarchy in public but drop it in private, they create their own secret world. Let secondary characters reinforce the consequences: a servant who observes too much, a rival tracking every detail, a parent warning "people are starting to talk."
 
 **What are the unwritten rules between different classes or ranks?**
 
@@ -2355,9 +2194,7 @@ _______________________________________________________________
 ---
 ## Language, Names & Forms of Address
 
-The way people interact with each other is how they reveal and create intimacy. The transition from formal to informal communication can be as profound as a first kiss. In many fantasy worlds, names hold a lot of power.
-
-To build anticipation for the name shift, establish the formality at the beginning and let it create tension. Show the characters noticing each other's names, wanting to use them differently, catching themselves. The moment of shift should have some context: who initiated it? Was it asked for, or just assumed? Did the other character reciprocate? Write the physical sensation of the name shift as well. What does a name feel like when you say it out loud for the first time? Hearing your first name said by someone who has never called you anything but your title is vulnerable. Once the shift happens, show the newness of it all: the slight stutter when speaking, the awkwardness, the feeling of being addressed in a manner different than the world addresses you. If one character begins to use the new name before the other is comfortable with it, that disparity in usage is its own form of tension.
+The transition from formal to informal address can be as profound as a first kiss. In many fantasy worlds, names hold real power. Establish formality at the beginning and let it create tension. The moment of shift should have context: who initiated it, was it asked for or assumed, and what does it feel like to hear your first name from someone who has only ever used your title?
 
 **What different forms of address exist?**
 
