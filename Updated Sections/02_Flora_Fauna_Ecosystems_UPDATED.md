@@ -7,15 +7,9 @@ The natural world does more than fill your scenery. It feeds your population, cl
 
 ## The Wilderness Principle
 
-Nature in romantasy works like a crucible. Strip away civilisation, the social masks, the safe distances, the comfortable routines, and drop two people into a world that doesn't care about their feelings. What's left is survival. And survival demands honesty.
+Nature in romantasy works like a crucible. Strip away civilisation and drop two people into a world that doesn't care about their feelings. Dangerous wilderness requires partnership. Harsh conditions demand shared shelter, shared warmth, shared resources. The wilderness doesn't offer a polite alternative.
 
-The natural world compresses characters together. Dangerous wilderness requires partnership. Harsh conditions demand shared shelter, shared warmth, shared resources. Predators make travelling alone suicidal. Seasonal pressures trap characters in place or create deadlines they can't ignore. None of this is subtle, and it doesn't need to be. The best nature-driven romantic tension comes from the fact that the wilderness doesn't offer a polite alternative.
-
-In *Fourth Wing*, every element of Basgiath's mountain environment is designed to kill. The Parapet, the Gauntlet, the dragons themselves. Violet and Xaden's romance isn't built on conversation; it's built on tactical cooperation under lethal conditions, where only competence and loyalty matter. The environment strips away political grievance and forces them to actually see each other.
-
-But nature doesn't just apply pressure. It reveals. How characters interact with the natural world shows who they really are in ways dialogue never can. How they treat animals. What they know about survival. Whether they see nature as resource, threat, or home. And it connects. Shared experiences with nature build relationships that social settings can't replicate. Caring for an injured animal together. Surviving a dangerous encounter. One teaching the other to ride, hunt, forage, or track. Witnessing something beautiful or terrifying together.
-
-In *A Court of Silver Flames*, Cassian forces Nesta into a punishment hike through the Oristian mountains, and the physical exhaustion of that terrain breaks down emotional walls she's spent the entire series building. She finally sheds the tears she's been holding back, not because he asks, but because the mountain leaves her nowhere to hide.
+Nature also reveals. How characters treat animals, what they know about survival, whether they see nature as resource, threat, or home -- these show who they really are in ways dialogue never can. In *Fourth Wing*, Violet and Xaden's romance is built on tactical cooperation under lethal conditions, where only competence and loyalty matter. The environment strips away political grievance and forces them to actually see each other.
 
 Build the ecosystem first. The story will grow from what you've built.
 
@@ -23,7 +17,7 @@ Build the ecosystem first. The story will grow from what you've built.
 
 ## Flora & Fauna in Romantasy
 
-The natural world in your story serves the romance in three ways: as **backdrop** (atmosphere and texture), as **obstacle** (danger, scarcity, survival pressure), or as **connector** (shared experiences, creature bonds, caring for animals together).
+The natural world serves your romance as **backdrop** (atmosphere and texture), **obstacle** (danger, scarcity, survival pressure), or **connector** (shared experiences, creature bonds, caring for animals together).
 
 ### Nature's Romantic Functions
 
@@ -32,22 +26,6 @@ The natural world in your story serves the romance in three ways: as **backdrop*
 | **Pressure** | Dangerous wilderness, harsh conditions, predators, seasonal deadlines | Forced proximity, mutual dependence, survival bonding |
 | **Revelation** | How characters treat animals, what they know about survival, comfort in wilderness vs. civilisation | Character depth, attraction through competence, values made visible |
 | **Connection** | Caring for animals together, shared danger, teaching survival skills, witnessing beauty together | Domestic intimacy, trust-building, shared memory |
-
----
-
-#### *How does wilderness function in your romance?*
-
-*The natural world can pressure characters together, reveal who they really are, or connect them through shared experience. Which of these does your story use — and what specific wilderness element creates it?*
-
-**How does wilderness create pressure, revelation, or connection between your characters? For each function that applies, describe the specific wilderness element and what it forces, reveals, or creates.**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 ---
 
@@ -159,15 +137,9 @@ _______________________________________________________________
 
 ## The Ecosystem Foundation
 
-What's the general relationship between people and the natural world in your setting? A world where wilderness is mostly tamed has very different story possibilities than one where civilisation is a fragile island in dangerous nature.
+Your world needs its basics before you add magical flora and fauna. An ecosystem is a network of relationships: climate dictates terrain, terrain dictates what grows, what grows dictates what eats it. Pull one thread and the whole web shifts.
 
-Your world needs its basics before you add magical flora and fauna. An ecosystem is not a bunch of pretty things together. It is a network of relationships. Climate dictates the terrain, terrain dictates what grows, what grows dictates what eats it, what eats it dictates what hunts it. If you pull one thread, the whole web will be altered.
-
-Your world's large scale geographic features, your mountains, oceans, deserts, and forests, create all of the living organisms within those areas. A mountain range separating a populated valley from an ocean is known as a rain shadow: lush and wet on the windward side, dry and sparse on the other. This geographical reality creates the possibility for a kingdom on each side of the mountain with different diets, different wildlife, different daily lives, and different attitudes towards nature. The fact that two characters from opposing sides of the mountain have different relationships with nature represents a rich area of worldbuilding.
-
-Climate can also determine aspects of culture that you may not initially think of. In a cold world, people layer up. People expose their skin only when in close proximity to others. Removing a glove or pushing back a sleeve takes on a significance that it would never have in a warm climate. In a hot climate, bodies are more visible, but the availability of shade and water are highly valued, and the person who knows where the cool spring is has a great deal of power. Consider what is made scarce by your climate and what is made abundant, because scarcity and abundance shape everything from economics to manners to what counts as a romantic gesture.
-
-Inhabitants of your world do not encounter a neutral environment. Instead, the environment directly influences the interactions that occur. A world where winter extends for eight months will offer different possibilities for romance than a world where there is no end to summer. The character from the jungle who finds the tundra to be both frightening and wonderful has a natural journey to take. When two people from different biomes meet on neutral ground, they bring their own ecosystems with them in their instincts, their knowledge, and their bodies.
+Consider what your climate makes scarce and what it makes abundant, because scarcity and abundance shape everything from economics to manners to what counts as a romantic gesture. In a cold world, removing a glove takes on a significance it would never have in a warm climate. When two people from different biomes meet, they bring their own ecosystems with them in their instincts, their knowledge, and their bodies.
 
 ---
 
@@ -216,11 +188,60 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+#### **What common (non-magical) plants grow in your world?**
+*Trees, grasses, wildflowers, shrubs -- what does the landscape actually look like? Think about what your characters walk through, sit under, and smell.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+#### **What common (non-magical) animals live in your world?**
+*Birds, insects, fish, mammals -- what wildlife do your characters encounter in daily life or while travelling?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+#### **What do seasonal changes look like for plants and animals?**
+*Migration, hibernation, blooming, leaf fall, breeding seasons? These cycles shape daily life and can create natural story deadlines.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+#### **Has anything gone extinct or become endangered?**
+*A species hunted out, a plant overharvested, a creature lost to magical catastrophe? Extinction reshapes ecosystems and can carry cultural grief.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+#### **Are there any invasive or problematic species?**
+*A plant that chokes out crops, an animal that destroys livestock, a magical creature that's spread beyond its original territory? Ecological problems create conflict and story hooks.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 #### *How does your climate shape intimacy and romance?*
 
-*What's scarce in your world is valuable. What's hidden is intimate. A glove removed in a freezing world means something different from bare skin in a tropical one. How does your world's climate affect what counts as a romantic gesture, a show of trust, or a moment of vulnerability?*
+*A glove removed in a freezing world means something different from bare skin in a tropical one. What does your climate make scarce or intimate?*
 
-**How does your world's climate make something scarce or intimate? What specific climate element affects your romance, and how?**
+**What specific climate element affects your romance, and how?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+#### *How does wilderness create pressure, revelation, or connection between your characters?*
+
+*The natural world can pressure characters together, reveal who they really are, or connect them through shared experience. Which does your story use?*
+
+**For each function that applies, describe the specific wilderness element and what it forces, reveals, or creates.**
 
 *(Write your answer below)*
 

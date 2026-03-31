@@ -86,26 +86,24 @@ Not every hill and river needs to serve the plot. But the geography you foregrou
 
 ### The "Pressure Cooker" Principle
 
-The best romantasy settings act like pressure cookers: environments that create friction between your characters by compressing them together, holding them apart, or forcing impossible choices. In situations where the physical world limits your characters' ability to move away from one another, escape each other's company, or take the path of least resistance, then your setting has done half of the work to create the relationship.
+The best romantasy settings create friction by compressing characters together, holding them apart, or forcing impossible choices. When the physical world won't let your characters walk away from each other, the setting does half the work of building the relationship.
 
 Geography creates friction in three ways.
 
-**Proximity friction** forces characters together despite themselves. A snowed-in mountain pass, a ship voyage with no escape, an isolated academy, a dangerous journey requiring partnership. When your characters can't leave each other alone, then they will be forced to confront conflict instead of avoiding it, rely on each other despite distrust, and share space long enough for attraction to build beneath their defences. It is the small things that add up. Shared meals. Overheard conversations. Accidental touches in tight quarters.
+**Proximity friction** forces characters together despite themselves — a snowed-in mountain pass, a ship voyage, an isolated academy. When characters can't leave, they must confront conflict instead of avoiding it. Basgiath War College in *Fourth Wing* works because once you're inside, there's no leaving: mandatory sparring, no private space, and a dragon bond that makes physical separation painful. The setting generates the romance.
 
-That is why Basgiath War College works so well in *Fourth Wing*. The war college is literally carved into the side of rugged cliffs, and even getting in requires surviving the Parapet, a lethal crossing that establishes the stakes before classes even begin. Once you're inside, there's no leaving. The sparring gym forces mandatory physical contact. The dorms provide little to no private space. And when Violet's and Xaden's dragons turn out to be mates, their biology adds yet another layer of confinement; the riders physically can't stay apart for more than a few days without suffering for it. The combination of the environment and the bond between the two creates a situation where the characters cannot remain separated from each other. As a result, these two have to deal with each other whether they want to or not. The setting generates the romance.
+**Separation friction** keeps characters physically apart. An ocean, a mountain range, a magical barrier. Each departure and return becomes emotionally charged, and the question of who'll cross the divide — and what it costs — becomes a declaration.
 
-**Separation friction** will keep your characters separated as well as physically apart from each other. An ocean that takes months to cross, separate kingdoms behind a mountain range, a magical barrier that requires certain conditions for safe passage, war zones that make travel deadly. Separation makes physical separation feel heavy and the distance meaningful. Each time someone leaves and returns the experience is emotionally charged, and the question of who'll cross the divide (and what it costs them) becomes a declaration in itself.
+**Resource friction** forces characters to negotiate. Water rights, the only mountain pass, a rare magical resource in contested territory. When the people your characters represent are at odds over geography, the romance must address that tension.
 
-**Resource friction** presents obstacles that both characters have to overcome. Rights to use limited water resources in a desert area, the only pass through the mountains, a rare magical resource found in contested territory, trade routes that require cooperation between enemies. As long as the people your characters represent are at odds over a piece of geography, the romantic relationship will have to find a way to address this tension whether either party wants to or not.
+What seals the pressure cooker tight:
 
-Now consider what seals the pressure cooker tight in your world:
+- **Physical trapping:** Islands, schools, sieges, ships, remote estates. Real boundaries your characters cannot cross.
+- **Circumstantial trapping:** Wilderness requiring partnership, diplomatic missions, shared exile. Separating means failure or death.
+- **Environmental trapping:** Storms, seasons, magic. Forces that make leaving impossible.
+- **Social/political trapping:** Arranged marriages, hostage situations, court obligations. Leaving harms reputation, alliances, or lives.
 
-- **Physical trapping:** Islands, schools, sieges, ships, remote estates. Places with real boundaries that your characters cannot cross.
-- **Circumstantial trapping:** Wilderness that requires your characters to partner to survive, diplomatic missions, shared exile. Situations where separating means failure or death.
-- **Environmental trapping:** Storms, seasons, magic that prevents your characters from leaving. Forces outside of your characters that make leaving impossible no matter their wishes.
-- **Social/political trapping:** Arranged marriages, hostage situations, obligations to the courts. Scenarios in which leaving would result in harm to their reputation, alliances or the lives of others.
-
-You may feel that if your geography does not cause friction for your characters then the geography is wasted space; however, this is not necessarily true. It's just setting. But the geography that you choose to focus on should be causing your characters to come together, pulling them apart, or forcing them to choose. If your characters could simply leave each other behind, would they? If the answer is yes, your geography needs to make it impossible, too dangerous or too costly for them to do so.
+The geography you foreground should be drawing your characters together, pulling them apart, or forcing them to choose. If your characters could simply walk away, your geography needs to make that impossible, too dangerous, or too costly.
 
 ---
 
