@@ -56,6 +56,28 @@ Not every question will apply to your story. **Skip what doesn't fit.**
 
 This workbook is a tool, not a test.
 
+### How to Use This Section
+
+Questions marked **⬥ Core** are the foundations — answer these first and you'll have a working geography. Everything else lets you go deeper where your story needs it. If you're short on time, the Core questions alone will get you writing.
+
+### Brain Dump
+
+Before diving into the structured questions, get your initial ideas down.
+
+**What do you already picture when you think of your world's landscape?**
+*Mountains, forests, cities, oceans — whatever comes to mind first. Don't worry about consistency yet.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What geographic feature matters most to your story?**
+*The thing that creates the most tension, distance, or proximity between your characters.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ## How to Think About Geography in Romantasy
 
 Geography in romantasy functions as a **pressure system**. The physical world can compress your characters together, force them apart, or create conditions where they must rely on each other. Before you draw a map, ask yourself: *What geographic situation does my romance need?*
@@ -93,7 +115,7 @@ You may feel that if your geography does not cause friction for your characters 
 
 *Think about the core dynamic of your love story. Do your characters need to be trapped together (proximity), kept apart (separation), or forced to negotiate over something (resource)? Most romances use more than one, but one tends to dominate.*
 
-**What type of geographic friction does your romance use most — proximity, separation, or resource? How does it show up in your story, and what does it force your characters to do?**
+**⬥ Core** **What type of geographic friction does your romance use most — proximity, separation, or resource? How does it show up in your story, and what does it force your characters to do?**
 
 *(Write your answer below)*
 
@@ -208,7 +230,7 @@ _______________________________________________________________
 
 ## The Big Picture: Your World's Scale
 
-#### What's the geographic scope of your story?
+#### **⬥ Core** What's the geographic scope of your story?
 
 *Check the scope that best fits your story, then note the primary locations where your romance actually takes place.*
 
@@ -242,7 +264,7 @@ _______________________________________________________________
 
 *This is reference material. Fill in what you know now; come back as your world develops.*
 
-**Describe your primary kingdom/nation. What is it called, what is it known for, what is its main resource, and how does it create or complicate your love story? If you have a second kingdom, describe it too.**
+**⬥ Core** **Describe your primary kingdom/nation. What is it called, what is it known for, what is its main resource, and how does it create or complicate your love story? If you have a second kingdom, describe it too.**
 
 *(Write your answer below)*
 
@@ -432,6 +454,10 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+> **Checkpoint: Your Physical World** — You've mapped the big picture, terrain, resources, and named key places. Do your locations feel distinct from each other? Do the names fit the cultures?
+
+---
 ## Resources & Territorial Control
 
 Geography tells us who has what and thus who has the ability to have power. Fertile land, fresh water, mineral deposits, trade routes: all of these are valuable enough to fight wars over, to marry for, to die for.
@@ -464,7 +490,7 @@ The most effective way to demonstrate resource control on the page is to show wh
 
 *Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?*
 
-**What are the 2-3 most important natural resources in your world? For each, describe where it's found, who controls it, and how that control creates conflict or tension in your story.**
+**⬥ Core** **What are the 2-3 most important natural resources in your world? For each, describe where it's found, who controls it, and how that control creates conflict or tension in your story.**
 
 *(Write your answer below)*
 
@@ -496,6 +522,8 @@ _______________________________________________________________
 >
 > You've mapped where resources are found and who controls them. In Section 4: Resources & Scarcity, you'll explore how resource control creates economic stakes, cultural traditions, and romantic tension.
 
+> **Cross-check:** Do your resources match the economic system you'll build in Section 4?
+
 ---
 ## The Sensory World
 
@@ -513,7 +541,7 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
 
 *Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?*
 
-**Close your eyes and walk through your primary setting. Describe what you see, hear, smell, and feel (temperature, humidity, wind).**
+**⬥ Core** **Close your eyes and walk through your primary setting. Describe what you see, hear, smell, and feel (temperature, humidity, wind).**
 
 *(Write your answer below)*
 
@@ -566,7 +594,7 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
 
 ## Climate, Weather & Seasons
 
-#### What's the overall climate?
+#### **⬥ Core** What's the overall climate?
 
 *Climate shapes daily life, which shapes your characters' interactions. Tropical heat, bitter cold, endless rain — each creates different physical problems that your characters may need to solve together.*
 
@@ -618,6 +646,18 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+> **Cross-check:** Does your climate support the flora and fauna you'll build in Section 2?
+
+---
+
+**What natural disasters or environmental threats exist?**
+
+*Floods, earthquakes, magical storms, volcanic activity? What do people fear from the land itself?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 ## Dangerous Regions
 
@@ -635,7 +675,7 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
 
 *Every world has places people warn you not to go. What makes them deadly? What would force your characters there anyway?*
 
-**Describe the most dangerous region in your world. What makes it dangerous, and who goes there anyway (and why)?**
+**⬥ Core** **Describe the most dangerous region in your world. What makes it dangerous, and who goes there anyway (and why)?**
 
 *(Write your answer below)*
 
@@ -672,7 +712,7 @@ Also consider the cost of crossing a border for each character. Is crossing cons
 
 ## Borders & Boundaries
 
-#### What geographic features create borders?
+#### **⬥ Core** What geographic features create borders?
 
 *Mountains, rivers, and oceans don't just separate land — they separate peoples, and the assumptions each side makes about the other. The feature you choose shapes how crossable the border feels.*
 
@@ -717,6 +757,12 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
+> **Cross-check:** Do your borders match the political system you'll build in Section 5?
+
+> **Checkpoint: Constraints & Boundaries** — You've defined what makes travel difficult, what seasons allow or prevent, and what borders divide peoples. Do these constraints create the friction your romance needs?
+
+---
 ## Home & Belonging
 
 One of the most emotionally charged concepts of love is "Home". The characters may have to travel to find love, may choose between the love they want to have and the comfort of "Home", may learn that "Home" is wherever the other person is, or may discover that choosing this person means exile from everything familiar.
@@ -731,7 +777,7 @@ This idea is central to the entire arc of the ACOTAR series. The Spring Court is
 
 ## Home & Belonging
 
-#### Where does your protagonist feel at home?
+#### **⬥ Core** Where does your protagonist feel at home?
 
 *The place that shaped them, where they feel most themselves:*
 
@@ -875,7 +921,7 @@ In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Ha
 
 *Distance creates stakes. A week apart feels different than a year. How painful is separation in your world?*
 
-**How long does it take to travel between your key locations — capital to border, one character's home to the other's, and across the dangerous region?**
+**⬥ Core** **How long does it take to travel between your key locations — capital to border, one character's home to the other's, and across the dangerous region?**
 
 *(Write your answer below)*
 
@@ -884,6 +930,8 @@ In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Ha
 &nbsp;
 
 &nbsp;
+
+> **Cross-check:** Are your travel times consistent with your technology level (Section 9)?
 
 #### Do your characters undertake a significant journey?
 
@@ -943,6 +991,10 @@ And remember: when characters finally *could* leave but choose to stay, that cho
 &nbsp;
 
 ---
+
+> **Checkpoint: Proximity & Distance** — You've established how far apart your characters are and what isolates them. Does the geography force them together, keep them apart, or both? Is the pressure consistent?
+
+---
 ## Geography as Emotional Landscape
 
 The physical world may support, or oppose, the emotional journey that is happening in your story. A romantic encounter would feel very different if it were happening in a sunny field versus a ruined castle. A confession made during a storm would have much greater emotional impact than a confession made while everything was quiet.
@@ -957,7 +1009,7 @@ In *Fourth Wing*, the use of emotional geography is taken further. Violet's ligh
 
 ---
 
-#### What's the emotional quality of your primary setting?
+#### **⬥ Core** What's the emotional quality of your primary setting?
 
 *The emotional quality of a place shapes every scene that happens there. An oppressive setting adds urgency to a first kiss; a serene one implies safety and choice. Does your primary setting feel oppressive, expansive, peaceful, threatening, beautiful, decaying — and how does that quality interact with your romance?*
 
