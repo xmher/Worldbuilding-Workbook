@@ -2382,6 +2382,8 @@ _______________________________________________________________
 
 ---
 
+Exile and outsider status define the extremes. Social hierarchy defines the everyday power dynamics your characters navigate in every interaction.
+
 ## Social Hierarchy in Practice
 
 Social hierarchy creates unwritten rules: who enters the room first, who speaks and who waits, who may touch whom. None of this is written into a law book, yet most people understand these codes and follow them. When members of different classes fall in love, the tension stems from the disconnect between the roles they're obligated to follow and what they actually feel.
@@ -2451,6 +2453,15 @@ _______________________________________________________________
 &nbsp;
 
 ---
+
+### ✦ Checkpoint: Culture in Action
+
+*You've now built festivals, exile stakes, and social hierarchy. Do your festival traditions actually reflect the values from Part 1? Does your exile system connect to the taboos you defined earlier? If breaking a taboo should lead to exile but your exile section describes different triggers, reconcile them now.*
+
+---
+
+Hierarchy governs who has power. Language governs how that power sounds — and the shift from formal to informal address can be as intimate as any touch.
+
 ## Language, Names & Forms of Address
 
 The transition from formal to informal address can be as profound as a first kiss. In many fantasy worlds, names hold real power. Establish formality at the beginning and let it create tension. The moment of shift should have context: who initiated it, was it asked for or assumed, and what does it feel like to hear your first name from someone who has only ever used your title?
@@ -2506,6 +2517,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+Everything so far has focused on a single culture's rules. If your characters come from different cultures, the collision between those rule systems is where some of your richest conflict lives.
+
 ## Cultural Differences Between Characters
 
 **Do your characters come from different cultural backgrounds?**

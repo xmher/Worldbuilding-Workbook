@@ -302,6 +302,8 @@ _______________________________________________________________
 
 ## Religious Institutions & Authority
 
+*You've defined what the gods are and how magic relates to them. Now consider who speaks for those gods on earth — because it's institutions, not deities, that your characters will actually have to face.*
+
 Gods may exist, however, it is institutions that make religion have power. The temple, the church, the priesthood: these are human structures, with human politics, human corruption, and the potential to do either great good or harm. In terms of your romance, institutions are where divine law gets enforced, where vows are administered, where forbidden unions are discovered and punished.
 
 Religious authorities can be allies, enemies, or complex figures caught between doctrine and compassion. They represent the institution, but they're also human beings. The priest who has to enforce a law they privately question. The oracle who sees a prophecy they wish they could unsee. The inquisitor who genuinely believes they're saving souls.
@@ -820,6 +822,8 @@ _______________________________________________________________
 
 ## How Religious Obstacles Resolve
 
+*You've broken your character's faith open. Now the question is what grows in the crack — and whether the resolution feels earned or convenient.*
+
 Crisis is the setup. Resolution is the payoff. It's how your characters deal with the conflict between faith and love which will give you the sense of whether the ending has been earned or if it's come about by accident, and whether your characters' romance carries weight beyond the final page.
 
 In my experience the best resolutions are those where the characters have paid some sort of real cost. When the characters pay a price for their love - magic, community, self-identity - then the reconciliation of faith and love has value. Convenient resolutions are often the result of last-minute revelations, or shifts in power that remove all obstacles, as opposed to the characters having to work through them.
@@ -1006,6 +1010,8 @@ _______________________________________________________________
 
 ## Ritual & Ceremony
 
+*You've mapped sacred time and sacred space. Now bring them together — ritual is where time, place, and obligation converge into scenes that change everything.*
+
 Religious rituals are among the most emotionally charged scenes in romantasy and the most structurally potent. Weddings, funerals, vow-taking ceremonies, initiation rites, fertility festivals. The most important thing to understand about religious rituals in romantasy is that they are NOT just pretty decorations. They're the sites where obligation and desire get twisted together, where a person's personal feelings are turned into public property, and where characters are forced across thresholds they can't uncross.
 
 There are three ways rituals work in romantic novels. Firstly, **restraint as fuel**: the rigid formality of a ceremony produces tension through what hasn't been said or done. The slight touch of hands at a wedding altar has a greater impact on the couple's relationship than a kiss would have had under less formal circumstances. Second, **ritual as transition**: ceremonies force characters across identity thresholds. The Ascension, the Great Rite, the taking of vows - these are all points of no return where the character leaves behind who they were and emerges as someone new. Third, **public stakes**: rituals are performed publicly, and therefore they turn private struggles into public ones. The embarrassment of having a wedding fail or having a secret exposed to everyone present creates the illusion of impossibility for a happy ending. It is this sense of impossibility that causes the readers to want to continue reading.
@@ -1070,6 +1076,8 @@ _______________________________________________________________
 ---
 
 ## Religious Community & Belonging
+
+*Rituals mark the turning points, but community is the everyday fabric. What your characters stand to lose isn't just a god — it's a whole world of people.*
 
 Religious communities give individuals their sense of belonging, their identity as members of a group, their source of support from others, and a social structure to organise their lives. When someone leaves or is rejected by a religious group, they lose every single one of those things.
 
@@ -1196,6 +1204,8 @@ _______________________________________________________________
 ---
 
 ## Mythology, Prophecy & Destiny
+
+*You've built the lived religion — institutions, laws, community, guilt, and the afterlife. Now step back to the stories that came before all of it: the myths that shape how your characters understand love, fate, and what they owe the gods.*
 
 Every religion has its founding stories. The tales that explain how things came to be and how people should live. These stories shape how believers understand love, duty, sacrifice, and transgression. And prophecy adds the ultimate layer: are they fated to be together, or fated to destroy each other? If fate has decided, does their choice even matter?
 
@@ -1503,6 +1513,8 @@ Conversion for love raises questions about authenticity, sacrifice, and identity
 ---
 
 ## Apply the Principle: The Altar and Your Romance
+
+*You've built every layer of your world's religion. Now bring it all back to the question this section opened with: what goes on the altar?*
 
 Now that you've built your world's religion — its gods, institutions, laws, rituals, communities, and myths — return to the Altar Principle from the opening of this section. You now have the foundation to answer these questions with real weight behind them.
 
