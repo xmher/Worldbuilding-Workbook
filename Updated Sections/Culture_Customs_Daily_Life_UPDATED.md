@@ -2149,6 +2149,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+Coming of age determines when your characters enter adult life. Education and work determine what kind of adult life they enter — and whether their paths will cross.
+
 ## Daily Roles & Education
 
 How a culture raises its children and organises its labour reveals what it values most. A child raised to fight shows affection differently than one raised to charm, and a culture that locks people into inherited professions creates different romantic obstacles than one where anyone can reinvent themselves. The way your characters were brought up shaped them into the adults they are, and when two characters discuss how they would raise children together, they reveal their deepest values.
@@ -2217,6 +2220,8 @@ _______________________________________________________________
 
 ---
 
+You've built the foundations of your culture and mapped the milestones of your characters' lives. Now it's time to put that culture into motion — through the events, consequences, and social dynamics that drive your romance forward.
+
 # PART TWO: CULTURE & ROMANCE
 
 ---
@@ -2263,6 +2268,9 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
+
+Festivals celebrate belonging. Exile is what happens when belonging is revoked — and that threat is the highest stake your culture can impose on a forbidden romance.
+
 ## Exile, Banishment & Social Death
 
 Every society uses a most extreme form of punishment to dissuade individuals from violating the norms: total removal from society. Exile, banishment, and social death represent the ultimate consequence of choosing love over community, and the fear of being exiled provides actual weight to each transgression. This is the nuclear option. Every time your characters violate a societal norm, the possibility of exile is what makes even the smallest violations feel dangerous.
