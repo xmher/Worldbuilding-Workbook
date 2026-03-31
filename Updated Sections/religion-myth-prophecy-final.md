@@ -403,6 +403,8 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+*Cross-check: Does your religious authority complement or conflict with your government (Section 5)? If your religion holds legal or military power, make sure that aligns with — or intentionally contradicts — the political structure you've built. Theocracies, alliances, and church-state rivalries should be consistent across both sections.*
+
 ### Schisms & Reformation
 
 Religions rarely stay unified forever. Splits over doctrine, practice, or leadership create factions that characters can belong to, flee from, or exploit. A reformed branch might accept what the orthodox branch condemns — giving your characters an alternative that comes with its own costs.
@@ -502,6 +504,8 @@ Not just social disapproval. What are the spiritual, magical, and institutional 
 _______________________________________________________________
 
 _______________________________________________________________
+
+*Cross-check: Do your religious restrictions align with your cultural taboos (Section 3)? Religious law and cultural norms often reinforce each other, but where they diverge — a culture that tolerates what the religion forbids, or vice versa — you get interesting friction. Make sure the overlap or tension is intentional.*
 
 **Which character believes the religious law is right, even as they fall in love?**
 *This character creates the most interesting tension. What would it take for them to choose love over religious duty — and what do they tell themselves while they resist?*
