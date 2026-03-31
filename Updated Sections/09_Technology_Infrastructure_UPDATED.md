@@ -626,7 +626,9 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 ### Timekeeping
 
 **How do people tell time, and how precise is it?**
-Sun position, bells, clocks, magical timekeepers. Imprecise timekeeping matters for romance: "meet me at sunset" creates ambiguity that "meet me at 6:15 PM" doesn't. If time is vague, characters wait. They wonder if they've been stood up. They arrive early out of eagerness or late out of pride. The precision of your world's clocks shapes the emotional texture of every planned meeting.
+Sun position, bells, clocks, magical timekeepers:
+
+*Imprecise timekeeping means "meet me at sunset" creates ambiguity that "meet me at 6:15 PM" doesn't.*
 
 **Do people schedule precisely, or approximately?**
 
