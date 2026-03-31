@@ -395,6 +395,20 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**Beyond love and marriage, what does religious law govern in everyday life?**
+*Dietary restrictions, dress codes, economic rules (usury, fair trade, tithes), behavioural codes (hospitality obligations, truth-telling, treatment of strangers), rules about work and rest days. These laws shape the texture of daily life and reveal what the religion truly values. They also create small, constant friction points between characters who follow different rules.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What are the penalties for breaking non-romantic religious laws, and who enforces them?**
+*Is eating forbidden food a minor social embarrassment or a serious offence? Does breaking a Sabbath-like rest day bring divine punishment or just community disapproval? The severity of enforcement for everyday rules tells your reader how much more dangerous breaking the big rules — like forbidden love — will be.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **What does religious law say about who can marry whom?**
 Restrictions based on faith, role, gender, species, class?
 
@@ -540,25 +554,16 @@ The moment of revelation is one of the most charged scenes in any hidden-faith r
 
 The "remedy" for the betrayal is often a moment of self-sacrifice. The hidden practitioner must use their forbidden magic to save the lover, thereby outing themselves but proving that their nature isn't monstrous. This transforms the revelation from a source of conflict into a proof of love.
 
-**What does each character actually believe — and how deeply?**
-*Not what they're supposed to believe. What do they genuinely feel about the divine? Consider the full spectrum: deep faith, going through the motions for social reasons, believing in the gods but distrusting the institution, private doubt they'd never voice aloud, or outright rejection they keep hidden. The gap between official doctrine and personal belief is where the most interesting romantic tension lives.*
+**What does each character actually believe, what do they doubt, and what would breaking a religious rule cost them?**
+*Not what they're supposed to believe. What do they genuinely feel about the divine? Consider the full spectrum: deep faith, going through the motions for social reasons, trusting the gods but despising the priests, private doubt they'd never voice aloud, or outright rejection they keep hidden. The gap between official doctrine and personal belief is where the most interesting romantic tension lives — and it determines what defiance actually costs. A true believer faces an existential crisis: they're betraying who they are. A cultural believer risks community and identity rather than spiritual anguish. A character who believes in the gods but not the institution might feel justified — but still fear divine consequences.*
 
-| Character | What They Genuinely Believe | What They Publicly Perform | Where Belief and Performance Diverge |
-|-----------|---------------------------|---------------------------|--------------------------------------|
-| Protagonist | | | |
-| Love interest | | | |
+| Character | What They Genuinely Believe | What They Publicly Perform | Where Belief and Performance Diverge | What Breaking a Rule Would Cost Them |
+|-----------|---------------------------|---------------------------|--------------------------------------|--------------------------------------|
+| Protagonist | | | | |
+| Love interest | | | | |
 
-**What parts of their faith does each character privately doubt, reject, or cling to most tightly?**
-*Most believers don't accept every teaching wholesale. One character might trust the gods but despise the priests. Another might follow every ritual without believing a word. These gaps create room for characters to redefine faith rather than abandon it — and they reveal what would actually be lost if the faith broke.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How would each character feel if they broke a religious rule for love — and what would that cost them?**
-*A true believer faces an existential crisis: they're not just breaking rules, they're betraying who they are. A character who follows religion out of habit faces a different loss: community and identity rather than spiritual anguish. A character who believes in the gods but not the institution might feel justified — but still fear divine consequences. The answer depends on how deeply they actually believe, and what kind of belief they hold.*
+**What parts of their faith would each character fight to keep, even if they left the religion?**
+*Most believers don't accept every teaching wholesale, and most who leave don't reject everything. One character might abandon the institution but still pray in private. Another might keep the moral framework but stop believing in the gods. These remnants reveal what faith actually means to them — and what the romance can never fully replace.*
 
 _______________________________________________________________
 

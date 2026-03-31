@@ -883,20 +883,17 @@ Weapons shape who holds physical power and who depends on someone else for prote
 Restricted to military/nobility? Commonly owned? Forbidden to certain groups?
 
 **Does weapons training exist, and who has access to it?**
-Training scenes are some of romantasy's most effective tension-builders. Physical proximity, physical contact, one person in a position of authority over another's body, all under the socially acceptable cover of "practice." Choreograph these scenes like intimate dances: combine blows with glances, describe the grip of a hand correcting stance, the stinging muscle, the heart pounding. Use setting to amplify tension. Cramped sparring halls force proximity, dim torchlight creates mood. And pay attention to the aftermath: the exhilaration, the embarrassment, the way characters can't quite look at each other once the weapons are put down. Who trains your characters, and could that dynamic become romantic?
+Who trains, where, and under what conditions? Is training restricted by class, gender, or institution?
+
+*Training and sparring scenes carry natural romantic tension — physical proximity, sanctioned touch, one person in authority over another's body, all under the cover of "practice." If your characters train together, that dynamic can do double duty.*
 
 **Is there a training or sparring dynamic between your characters?**
-*Training scenes work because they disguise intimacy as necessity: physical proximity, physical contact, one person in authority over another's body, all under the cover of "practice." If your characters train together or one teaches the other, map the romantic potential.*
 
 | Question | Your Answer |
 |---|---|
 | Who trains whom, or are they equals? | |
 | What skill is being taught? | |
 | What creates the tension? | |
-| How do they act once weapons are put down? | |
-
-**Does your story use sparring, actual combat, or both to develop the romance?**
-*Sparring and combat serve different romantic functions. Sparring is consensual intimacy disguised as practice — it builds trust, creates sanctioned touch, and lets characters attribute their physical awareness to necessity. Actual combat is dangerous vulnerability under real threat — it bonds through shared survival and reveals who your characters are when stakes are lethal. Knowing which you're using, and when, helps you control the tone.*
 
 ---
 
@@ -1009,91 +1006,23 @@ Does magic interfere with technology or vice versa?
 
 ---
 
-## Technology & Your Characters
+## Technology & Your Characters: Synthesis
 
-Now that you've established your world's technology level, think about how it specifically affects your characters. This is where the worldbuilding becomes personal, where abstract rules about communication speed and medical access become the concrete reality of your romance. Some of these questions may echo earlier ones — that's intentional. Earlier, you were building the world's systems. Now you're asking: what do those systems mean for these two people specifically?
+Pull together your answers from earlier sections into one view. This is your technology profile for these two specific people.
 
-**What technology does each character have access to?**
-*Differing access creates imbalance. What does each character take for granted that the other finds remarkable or impossible?*
+| Category | Your Protagonist | Your Love Interest |
+|---|---|---|
+| Travel — how do they get around? | | |
+| Communication — how do they reach each other when apart? | | |
+| Privacy — where can they be unobserved? | | |
+| Servants/attendants — who witnesses their private life? | | |
+| Medical access — what healing is available to them? | | |
+| Contraception — what's available and what are the risks? | | |
+| Documentation — could they marry secretly? | | |
+| Biggest technology advantage over the other | | |
+| Biggest technology disadvantage compared to the other | | |
 
-**What technology does your protagonist have access to? What about your love interest?**
-*Think about what one takes for granted that the other finds remarkable or impossible.*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Is there a technology gap between them?**
-*Technology gaps create friction, dependency, and curiosity — all the raw material romance is built from. A character who's never seen enchanted light arriving in a palace full of it experiences wonder that reveals vulnerability, while the character who takes it for granted sees their world through new eyes.*
-
-What does one have that the other doesn't?
-
-**How does this affect their dynamic?**
-*Technology gaps can create dependency, wonder, shame, or teaching moments. The character who teaches reveals patience or condescension; the one who learns reveals pride or openness. How does the disparity shape how they see each other?*
-
-**How do they communicate when separated?**
-*Distance communication shapes the texture of separation. Letters reread until worn, messages that might never arrive, or instant magical contact. Each creates a different emotional reality.*
-
-**What method do your characters use, how long do messages take, and what risk exists?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**What privacy do they have?**
-*Privacy determines where intimacy is possible. Where and when can your characters be truly alone together — and what changes when they finally are?*
-
-**Where and when can your characters be truly alone together? Who might observe or overhear them?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**If one character has servants/attendants, how does that affect privacy?**
-*Attendants are witnesses. What must your characters hide even from loyal servants, and what happens if servants aren't loyal?*
-
-**Does either character face medical issues?**
-*Illness and injury create vulnerability. Caring for someone sick is intimacy of a different kind — it proves love in ways that words cannot. What might that reveal between your characters?*
-
-**Does either character face illness or injury? What treatment exists, and does one care for the other?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**How does contraception (or lack thereof) affect them?**
-*The availability and reliability of contraception shapes what intimacy means and what consequences your characters might face. This is where worldbuilding meets the most personal moments of your romance.*
-
-**Is contraception available to your characters? Is it something they discuss or navigate?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Could they marry secretly with no record?**
-*Secret marriage is a classic romantasy option, but documentation requirements determine whether it can stay secret and what risks exist. A union no one can prove is also a union no one can disprove.*
-
-**What would a secret marriage require, and what risks would it carry?**
+**What is the single biggest technology gap between your characters, and how does it shape their dynamic?**
 
 *(Write your answer below)*
 
