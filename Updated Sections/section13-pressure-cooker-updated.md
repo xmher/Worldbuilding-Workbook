@@ -807,27 +807,9 @@ ___
 
 **If my characters tried to walk away from each other right now, what would stop them?**
 
-If the answer is "nothing" or "they'd feel bad," your pressure cooker doesn't have enough grip.
+If the answer is "nothing" or "they'd feel bad," your pressure cooker doesn't have enough grip. Strong answers involve severe consequences: execution for desertion, a magical bond that would kill them, the mission failing and people dying. Weak answers (guilt, awkwardness, missing each other) can layer on top of strong constraints, but they're not enough on their own.
 
-### Strong Answers:
-
-- They'd be executed for desertion
-- The magical bond would kill them both
-- Their families would go to war
-- They'd lose their only chance at survival/power/freedom
-- The enemy would capture them immediately
-- They'd be stripped of their magic and exiled
-- One of them would die without the other's protection
-- The mission would fail and people would die
-
-### Weak Answers:
-
-- They'd feel guilty
-- It would be awkward
-- They'd miss each other
-- Someone might be disappointed
-
-Weak answers aren't useless. They can work as *emotional* constraints that layer on top of strong physical ones. The problem is when they're the *only* thing keeping your characters together. "They'd feel guilty" is a fine secondary reason to stay. It's a terrible primary one.
+*See also the diagnostic in Section 14: Institutions & Structures, which tests whether your institutional constraints have enough grip to hold.*
 
 **What is the cost of separation in your story?**
 The consequences should be severe enough that staying together isn't just convenient but necessary.
