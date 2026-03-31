@@ -34,6 +34,28 @@ Each time you build a significant piece of your world (magic, politics, culture)
 
 Go back to your worldbuilding and add friction. Your magic system should create at least one major obstacle. Your political structure should forbid something the characters want to do. Your cultural customs should make their relationship taboo, dangerous, or complicated. The world should be actively making their lives difficult, and that difficulty should be specific to *this* world, not generic obstacles that could exist anywhere.
 
+### Apply It to Your World
+
+**Pick one major worldbuilding element (magic, politics, geography, culture). What obstacle does it create for your romance?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What opportunity for intimacy does that same element create?**
+
+*Hint: The best worldbuilding elements do both -- the same magic that separates them also creates a moment only they can share.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Could your romance happen in a generic fantasy castle with none of your specific worldbuilding? If yes, what world-specific detail could you add to make it impossible anywhere else?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## Mistake #2: Forgetting the Non-Romantic Story
@@ -52,6 +74,26 @@ One of the key words to remember here is *integrate*, not subordinate. Don't sub
 
 A good litmus test: would you still read this book if the romance was taken out of the story? If the answer is no, then your fantasy conflict line needs more development. You're writing romantasy. Both conflict lines need to carry the weight of the story.
 
+### Apply It to Your World
+
+**What does your antagonist want, and why should readers care about stopping them -- even without the romance?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What goal does your protagonist have that has nothing to do with the love interest?**
+
+_______________________________________________________________
+
+**If you removed the romance entirely, would the fantasy plot still hold a reader's attention? What would be missing?**
+
+*Hint: If the answer is "not much," your fantasy conflict line needs its own stakes, surprises, and consequences.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## Mistake #3: The One Perfect World
@@ -69,6 +111,26 @@ Taking the advice to make worldbuilding "serve the story" too literally. The wri
 You should have secondary characters with their own interests. You should have historical events that are simply history. You should have cultural aspects that add to the overall texture of your world, but do not create a plot point. Not everything needs to be Chekhov's gun.
 
 The world doesn't care about your protagonists' romance. People are shopping at the marketplace whether they're in love or not. The war continues regardless of their feelings. Let the world feel like it exists independent of them. Other people are living their lives, other romances exist, other concerns matter. Your protagonists' story is *one* story, not *the* story.
+
+### Apply It to Your World
+
+**Name one secondary character who has their own problems that have nothing to do with your protagonists.**
+
+_______________________________________________________________
+
+**What is happening in your world right now that your protagonists don't know or care about?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Does every custom, law, or historical event in your world exist to serve the romance? Name one that exists just because your world is a real place.**
+
+*Hint: If you can't think of one, add a detail that makes the world feel lived-in -- a local holiday, a trade dispute, a neighbourhood rivalry.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 
@@ -100,6 +162,28 @@ The third option is to acknowledge the tension openly. Your protagonist can have
 
 This is significant because when social constraints are believable, forbidden love becomes truly *forbidden*. There is a difference between having the rules of the society *bend* for a couple when they need it to, versus having rules that are so consistently real, that a couple running counter to them puts them in real danger of being discovered. The excitement of the act of defiance, the danger of getting caught: all of that depends upon the world having real rules that can be broken by someone who cares enough to take the risk.
 
+### Apply It to Your World
+
+**Which approach are you using: historically grounded world, world where modern values make sense, or tension between character and society?**
+
+_______________________________________________________________
+
+**If your world looks pre-modern but your characters have modern attitudes, what in your worldbuilding explains why?**
+
+*Hint: A history of revolution, a culture shaped by magic-driven equality, or a religion that teaches individual worth can all justify modern attitudes -- but the reason needs to exist on the page.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What is one social rule in your world that your characters cannot bend or ignore without real consequences?**
+
+_______________________________________________________________
+
+**What happens when they break it?**
+
+_______________________________________________________________
+
 ---
 
 # Stakes and Consistency
@@ -126,6 +210,24 @@ If you need lower-tension scenes, build them into the worldbuilding. Safe houses
 
 And even during romantic scenes, keep the reader reminded of the danger that awaits. A deadline they're aware of. The sound of armies marching in the distance. The knowledge that they'll have to return to the danger soon. Intimacy under pressure is more intense, not less.
 
+### Apply It to Your World
+
+**Pick one romantic scene in your story. What external danger is active during that moment?**
+
+_______________________________________________________________
+
+**If the danger conveniently pauses for that scene, what could you add to keep it pressing in?**
+
+*Hint: A sound in the distance, a deadline they're watching, a lookout who could fail, a bruise that still hurts.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Where in your story could a romantic moment happen during danger rather than between dangers?**
+
+_______________________________________________________________
+
 ---
 
 ## Mistake #6: The Soft-Boiled World
@@ -145,6 +247,24 @@ You don't have to kill your protagonists. However, *something* negative should h
 If the only obstacles your characters face are temporary and can be easily overcome, the tension created is empty. Temporary setbacks are not a measure of stakes. For example, if a character is arrested, but is eventually released without any long-term effects, that is not a stake. Some losses should be permanent.
 
 So go ahead and hurt your protagonists. Make sure they fail sometimes at things that matter. Allow them to lose something they cannot replace. Allow the antagonist to win at least once. Struggling that leads to ultimate victory is uninteresting; struggling where the costs are real is interesting.
+
+### Apply It to Your World
+
+**What is one permanent loss your protagonist suffers that cannot be undone?**
+
+_______________________________________________________________
+
+**What consequence have you threatened but never followed through on?**
+
+*Hint: If the answer is "most of them," pick the one your story most needs to deliver on.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Does your antagonist win at least once in a way that actually sticks?**
+
+_______________________________________________________________
 
 ---
 
@@ -167,6 +287,28 @@ It also helps to keep a running document of things you establish mid-draft. "In 
 If you need to bend a rule, add an in-world reason. Why *is* this journey faster? Why *doesn't* the magic work here? An explanation is far better than an inconsistency. And sometimes the best solution to "this rule is inconvenient" is not to break the rule but to let the inconvenience happen. Constraints create stories.
 
 Here's why this matters for the romance: when your world's rules can be bent at the whim of the author, readers stop trusting the obstacles keeping your couple apart. That forbidden relationship? Not so forbidden if there is no enforcement of the rule that prohibits it. That dangerous secret? Not so dangerous if consequences only occur when the plot calls for them. Consistency is what lends credibility to the romantic stakes, because the reader will believe that your world intends to follow through on its promises.
+
+### Apply It to Your World
+
+**What are the three rules your romance depends on most? (A magic cost, a law, a travel time, a limitation.)**
+
+1. ____________________________________________________________
+
+2. ____________________________________________________________
+
+3. ____________________________________________________________
+
+**Have you broken any of these for convenience? If so, what in-world reason could explain the exception?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What is one rule you could let be inconvenient instead of breaking?**
+
+*Hint: Letting a rule create problems often makes for a better scene than bending it out of the way.*
+
+_______________________________________________________________
 
 ---
 
@@ -194,6 +336,24 @@ If the captor wishes to have the captive's love they need to earn it. And they'l
 
 And be honest with yourself about the story you wish to tell. Captivity romance *can* be told well, but it is something you must intend to do. If you are unwilling to look into the ways of power, consent, and the complexities of developing feelings under duress, this may not be the correct scenario for your story.
 
+### Apply It to Your World
+
+**Does either character hold power over the other? (Captor, employer, ruler, magical superior.) What kind?**
+
+_______________________________________________________________
+
+**When does the less powerful character gain a genuine ability to leave?**
+
+_______________________________________________________________
+
+**What scene shows the less powerful character making a real choice -- not just accepting what's happening to them?**
+
+*Hint: If you can't point to a specific moment, write one. Even a small refusal that gets respected proves the character has agency.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## Mistake #9: Fated Mates That Remove All Agency
@@ -215,6 +375,26 @@ If they had no trouble accepting the bond, there's no tension. Make acceptance r
 And ask yourself this: if the bond didn't exist, would these two people have anything? Do they like each other? Do they have chemistry? Do they *see* each other? The bond should confirm a connection that's built on the page, not replace it.
 
 This is also where world rule consistency matters (see Mistake #7). If the rules of your bond change to meet the demands of the story, stronger when you need drama, weaker when you need conflict, readers will notice.
+
+### Apply It to Your World
+
+**If your story has a magical bond, fated mates, or prophecy: can you explain why your characters choose each other without mentioning it?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What do your characters disagree about, struggle with, or have to work through despite the bond?**
+
+*Hint: If the bond makes everything easy, there's no story. Friction within a fated pairing is what makes it feel real.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**If the bond disappeared tomorrow, what would keep them together?**
+
+_______________________________________________________________
 
 ---
 
@@ -257,6 +437,28 @@ If information must be shared through dialogue, have it shared with someone who 
 *Fourth Wing* presents a controversial but highly effective method of doing this. Violet is a scribe by training, therefore her ability to recall facts under duress has a basis in her character. Lore reveals itself during combat, during flights, during crises, as opposed to during long, exposition-filled sections of the book. This is a polarising method, but it allows the pace of the story to remain relentless because the worldbuilding is never allowed its own separate section. While you may not choose to implement the same method, the underlying principle is valid: readers are more willing to deduce the nature of the world around them from context than to have the details spelled out for them in some sort of guide.
 
 And above all, front-load character, not world. The first few chapters of your story should make the reader fall in love with your protagonist and invested in the romantic tension. The world can be shown to the reader slowly *through* the characters' experiences of it. Readers will tolerate confusion about how the magic system works if they're desperate to know whether these two people will get together. They will *not* tolerate a clear understanding of the magic system if they don't yet care about anyone in the story.
+
+### Apply It to Your World
+
+**What worldbuilding does your reader need to know in the first chapter? (Only what's required to understand the opening scene.)**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What worldbuilding can wait until the reader cares enough to want it?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Pick one piece of lore you currently explain through narration. How could you reveal it through action, conflict, or sensory detail instead?**
+
+*Hint: "She flinched when the temple bells rang" tells us more about her relationship with religion than a paragraph of explanation.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 

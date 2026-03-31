@@ -15,9 +15,37 @@ The greatest romantasy stories use the cage to accomplish two things simultaneou
 
 Every decision in this section should serve the cage. When you choose a government type, you're choosing what the bars are made of. When you define your laws, you're deciding how strong those bars are. When you build your court, you're designing the space inside the cage where your characters must find each other while the world watches.
 
-**What is the iron cage around your romance?**
+---
 
-*The cage is the structural force that keeps your characters apart — not a personal flaw or misunderstanding, but a system, law, or political reality that doesn't care about their feelings. Name it specifically.*
+## A Note Before You Begin
+
+Not every question in this section will apply to your story. Skip what doesn't serve you.
+
+If politics is background in your book, keep it simple. Not every romantasy needs complex political intrigue. Develop just enough to make the world feel real.
+
+And politics can stay vague! Some stories work better with political structures that are felt rather than detailed. That's completely fine.
+
+### Quick Guide to What You Need
+
+**Every story needs:** A form of government, who holds power, and what laws affect your characters.
+
+**If your romance is forbidden by law:** Focus on How Laws Work and Law Enforcement & Justice.
+
+**If your story involves political marriage or court intrigue:** Focus on Political Arrangements and Court Politics.
+
+**If your characters are on opposing sides:** Focus on Warfare & Military and Enemies to Lovers.
+
+**If you're not sure yet:** Start with the Brain Dump and Forms of Government — you can always come back.
+
+---
+
+## Brain Dump: Your Political World
+
+Before diving into specifics, get your initial vision down. Don't overthink this — just write what you already see.
+
+**What do you already know about the political world of your story?**
+
+*Jot down anything — a throne, a war, a forbidden law, a court, rival nations, an uprising. Whatever is already in your head, no matter how vague.*
 
 _______________________________________________________________
 
@@ -25,9 +53,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Why can't your characters simply walk away from the cage?**
+_______________________________________________________________
 
-*An iron cage only works if leaving it would break something bigger than the relationship. What's at stake beyond the two of them?*
+_______________________________________________________________
+
+**What kind of political pressure does your romance need?**
+
+*Think about the story you want to tell. Does your romance need a law that forbids it? A war that divides the lovers? A court that watches their every move? A class system that makes their love scandalous? Name the pressure, even if you don't yet know the details.*
+
+_______________________________________________________________
 
 _______________________________________________________________
 
@@ -78,20 +112,6 @@ The trick to making politics serve your romance is understanding that every big 
 
 In the strongest romantasy, your characters are changed by both the romance and the political conflict working together. The love interest provides the emotional safety or vulnerability needed for the protagonist to face their internal wound, while the political conflict provides the impossible challenge that forces them to find their strength. These two catalysts work in tandem. If your character only grows through love, the political plot feels decorative. If they only grow through political conflict, the romance feels bolted on.
 
-**How do love and politics each catalyse your protagonist's growth?**
-
-*Your protagonist should grow through both the romance and the political conflict — not just one. If you can't fill in both rows, one of your plotlines may be decorative.*
-
-**How do the romance and the political conflict each force your protagonist to change? What does each catalyst make them face, and how do they grow?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ### Political Situations That Create Romance
 
 | Pattern | How It Works | What It Creates |
@@ -114,41 +134,6 @@ In the strongest romantasy, your characters are changed by both the romance and 
 | Political rivals | Competing goals, zero-sum game | What would they sacrifice to win, or to love? |
 | Arranged spouses | Obligation without choice | When does duty become desire? |
 | Guard + Protected | Professional boundary, power difference | Can duty and love coexist? |
-
-**Which type of political pressure operates in your story?**
-
-*Most stories use more than one. Identify which apply and note the specifics.*
-
-| Pressure Type | Does It Apply? | How Specifically? |
-|---------------|---------------|-------------------|
-| *Prohibition (law forbids the relationship)* | *Yes — species law criminalises Fae/mortal unions* | *Marriage is void under Elfhame law; mortal has no legal standing* |
-| Prohibition (law forbids the relationship) | | |
-| Compulsion (political forces push them together) | | |
-| Stakes (what they risk by being together) | | |
-
-**Map your political stake to a romantic obstacle:**
-
-*Take the biggest political pressure in your story and translate it to the personal level. What does this political reality feel like in an intimate moment between your characters?*
-
-**What is your macro political stake, and what micro romantic obstacle does it create?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
----
-
-## A Note Before You Begin
-
-Not every question in this section will apply to your story. Skip what doesn't serve you.
-
-If politics is background in your book, keep it simple. Not every romantasy needs complex political intrigue. Develop just enough to make the world feel real.
-
-And politics can stay vague! Some stories work better with political structures that are felt rather than detailed. That's completely fine.
 
 ---
 
@@ -208,9 +193,27 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**How does your government make decisions day-to-day?**
+
+*Does the ruler decide everything personally, or are there councils, advisors, or local governors? How much power reaches the average village or city district?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **If your world has multiple nations, do they have different systems?**
 
 *Political differences between nations can keep lovers separated — or provide escape routes. If your characters needed to flee, where could they go? If they come from nations with opposing systems, that's a built-in source of conflict.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How are borders controlled?**
+
+*Can people move freely between regions or nations? Do they need papers, permits, or magical clearance? Who gets stopped and who passes through unchecked?*
 
 _______________________________________________________________
 
@@ -226,10 +229,12 @@ _______________________________________________________________
 
 ---
 
+You've chosen how your world is governed. Now let's look at who sits at the top of that system — because the person in power decides what threatens them, and your characters become a threat the moment their relationship crosses one of those lines.
+
 ## Current Rulers
 
 **Who currently holds power?**
-This is the person (or people) that will decide the fate of your character(s). Are they pro-love or anti-love? What does the ruling body want, fear and prioritise? This matters because it reveals what they fear losing. If it is inheritance, they'll be afraid of other heirs that might take over. Conquest means they fear being conquered in turn. Election means they fear losing support. If they possess magical abilities, then they'll fear someone with even greater magical ability. Divine right means they fear religious challengers. If they came to power through a coup, then they'll fear the same thing happening to them again. Marriage alliance means they fear the spouse's family. Military force? Magic? Religion? Economic control? Spies and information gathering? Fear? Legitimacy and tradition? All power structures have some type of weakness. Rival claimants? Popular unrest? External threats? Succession crisis? Prophecy? Are your characters on opposing sides of the ruling body? Could their union bring stability or disorder to the realm? Will their relationship be used as a political tool?
+The ruling body's priorities determine what threatens them -- and your characters become a threat the moment their relationship conflicts with those priorities.
 
 **Name your current ruler(s)**
 
@@ -239,15 +244,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Describe your world's ruler: What is their title/position and name? How did they gain power, and how long have they ruled?**
+**How long have they ruled?**
 
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 **How did they gain power?**
 
@@ -289,9 +288,27 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does this instability affect your romance?**
+**How can a ruler be removed from power?**
 
-Are your characters on opposite sides? Could their union stabilize or destabilize the realm? Would their relationship be used as a political weapon?
+*Assassination? Election? Revolt? Magical challenge? A council vote? Or is there no legitimate way — meaning the only path is violence?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What do ordinary people think of their government?**
+
+*Do they trust their rulers, fear them, ignore them, or quietly resent them? How do common people talk about the government when no one important is listening?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How does this instability affect your characters' relationship?**
+
+*Are your characters on opposite sides? Could their union stabilize or destabilize the realm? Would their relationship be used as a political weapon?*
 
 _______________________________________________________________
 
@@ -347,17 +364,85 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**How are laws enforced day-to-day?**
+
+*Think about what a regular person encounters. Are there guards on every corner, or does the law only show up when someone reports a neighbour? Do people follow the law out of respect, fear, or habit?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What happens when an ordinary person breaks a minor law?**
+
+*A fine? Public shaming? A beating? Nothing, unless someone important notices? The everyday consequences tell your reader more about the system than any grand punishment.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How do ordinary people settle disputes with each other?**
+
+*If two merchants disagree over a contract, or two families feud over land, where do they go? A local magistrate? A village elder? A temple? Trial by combat? Or do they handle it themselves?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What rights do ordinary citizens have?**
+
+*Can they own property, travel freely, speak against the government, refuse to serve? What protections do commoners have that nobles or elites don't need — and what protections do they lack?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What do people owe their government?**
+
+*Taxes, labour, military service, tithes, magical tribute? What does the government take from ordinary people, and what do people get in return? This shapes whether your characters see the government as protector or parasite.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What does corruption look like in your world?**
+
+*Bribing a guard to look the other way? Nobles buying verdicts? Officials skimming taxes? Corruption can be your characters' greatest obstacle or their best escape route.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## Political Hierarchy
 
-Hierarchy is shown by how characters act, not what they say. Who does the waiting? Who speaks first? Who sits while everyone else stands? Who has the right to interrupt and who has to be quiet? The physical dance of power, where we place ourselves in a room, who looks at who, shows us hierarchy without needing to tell anyone. When your characters are at different levels of this hierarchy, each and every interaction contains the burden of that difference. The upper ranked character can make casual assumptions, and the lower ranked character will always have to think about how to get by. Romantic tension in hierarchical gaps happens when the normal rules don't apply, when the powerful person asks instead of orders, when the powerless person won't let the powerful person tell them what to do. Map it from highest to lowest power: Birth? Achievement? Magical ability? Wealth? Military service? Marriage? Concentrate on the position(s) that your characters currently hold, want to hold or are trying to avoid. Who would give your characters their permission or protect them?
+Hierarchy is shown by how characters act, not what they say -- who waits, who speaks first, who sits while others stand. Romantic tension in hierarchical gaps happens when the normal rules break: the powerful person asks instead of orders, and the powerless person refuses to submit.
 
 **What's the political hierarchy?**
 
 *Map it from highest to lowest power. For each level, think about the physical behaviours that show rank — who waits, who speaks first, who can interrupt. These details will make hierarchy visible in your scenes without exposition.*
 
 _______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What physical behaviours show rank in your world?**
+
+*Who bows and who doesn't? Who speaks first? Who sits while others stand? Who can touch whom? These small details will make hierarchy visible in your scenes without exposition.*
 
 _______________________________________________________________
 
@@ -373,23 +458,85 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What positions exist that matter for your story?**
+**What key political positions exist in your world?**
 
-**Who holds power in your world? For each key position, describe what power they hold and who currently fills the role.**
+*List the roles that matter for your story — advisors, generals, high priests, council members. For each, note what power they hold and who currently fills the role.*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
+
+**Who in the hierarchy would have the power to help or hinder your characters?**
+
+*Think about who could grant permission, look the other way, or make their lives impossible.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
+### ✦ Checkpoint: Power Structure
+
+*Pause and look at your answers so far. Does your form of government logically produce the kind of ruler you described? Does the hierarchy you mapped match the way your ruler maintains power? If something doesn't fit, adjust before moving on.*
+
+---
+
+You've defined who rules and how power is structured. Now let's zoom in on what government actually feels like for ordinary people — because your characters live in this system every day, not just during the dramatic moments.
+
+## Governance in Daily Life
+
+Beyond the dramatic conflicts of succession and forbidden love, governments affect ordinary people through taxation, public services, and local administration. These details make your world feel lived-in and can create pressure on your characters in quieter but no less important ways.
+
+**How does the government fund itself?**
+
+*Taxes, tithes, tribute, corvée labour, magical extraction? Who pays the most, and who avoids paying? How do people feel about it?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Who matters more to ordinary people — the central government or local authorities?**
+
+*A distant king may be irrelevant compared to the village magistrate or regional lord who actually enforces the rules. Where does real, day-to-day power sit?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What civic institutions exist — and who controls them?**
+
+*Schools, hospitals, public works, orphanages, postal systems, roads. Are these run by the state, religious orders, guilds, or private wealth? What happens if your characters need one of these institutions and can't access it?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How does your world handle diplomacy and foreign relations?**
+
+*Are there ambassadors, trade agreements, or magical treaties? Could your characters use diplomatic channels — or be blocked by them? How do relationships between nations affect ordinary people's lives?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 
 ## Magic & Political Power
 
-If you have magic in your world, then magic is going to interact with political power. Who holds magic determines who is ruling and who your characters are allowed to fall in love with. Magic can either support or challenge existing power structures. When one of your characters has magic, this impacts both their place in society politically, and their romantic prospects in ways that may go unnoticed until these two come into contact. Is it hereditary (bloodlines hold power)? Learned (those controlling education hold power)? Granted by deities (those controlling access hold power)? Random (those who find and control magic-users hold power)? Those in power create barriers for others to obtain magic. Could your characters be barred from accessing magic, or forced to use magic against their own will? What's forbidden? What's required? How is magic regulated? This imbalance of power is evident in each social encounter. Your mage may not even realise that they're creating fear and intimidation. The non-mage may never feel completely at ease. The existence of these disparities doesn't evaporate simply because your characters are in love. Mixing bloodlines? Teaching forbidden magic? Creating a dangerous bond? Fulfilling or defying prophecy?
+Who holds magic determines who rules and who your characters are allowed to love. Magic can support or challenge existing power structures, and the imbalance doesn't evaporate because your characters are in love -- your mage may not realise they're creating fear, and the non-mage may never feel fully at ease.
 
 **Who controls access to magic?**
 
@@ -417,17 +564,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Who controls access to magical power?**
+**Can magical power be taken away — and by whom?**
 
-**How does government relate to magic in your world? How is magic acquired? Who controls training/access? Can magical power be taken away?**
+*If the government can strip someone's magic, that's one of the most powerful threats in your world. If no one can, mages may be nearly ungovernable.*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 **What laws govern magic use?**
 
@@ -459,9 +602,11 @@ _______________________________________________________________
 
 ---
 
+You've established what the laws are. Now comes the question that matters most for your romance: what happens when those laws are broken?
+
 ## Law Enforcement & Justice
 
-Enforcement gives force to laws. If the criminal aspect of your story has no real penalty, then there are no stakes. While the question "what's against the law?" is important, the greater question is "what happens if they're caught?" These are the individuals your characters will have to avoid, pay off, or confront. Royal guard? City watch? Magical enforcers? Religious authorities? Secret police? Self-enforcing magical contracts? Is enforcement ubiquitous (high risk)? Moderate? Weak or corrupt (easy to get away from)? Selective (depends who you are)? The degree to which the law is enforced provides much of the texture of your romance. In an omnipresent environment where everyone watches each other, the very act of stealing glances is a risk. Each whispered conversation could be overheard by someone who will report it. This creates a game of tradecraft: coded messages, secret meeting places, plausible deniability. When enforcement is weak, the danger occurs in fits and starts. Your characters may act with complete disregard for weeks and then one single misstep sends their world into chaos. If your characters are apprehended by the authorities, what will happen to them? Does class, wealth, species, or magical status affect how the law treats them? Be as detailed as possible regarding who receives special treatment. Make the consequences of your characters' actions very tangible and escalating. How does punishment escalate with a first offence compared to subsequent offences?
+The greater question isn't "what's against the law?" but "what happens if they're caught?" The degree to which law is enforced shapes the texture of your romance. Omnipresent enforcement turns every stolen glance into a risk; weak enforcement means danger comes in sudden, devastating bursts after weeks of false safety.
 
 **Who enforces the law?**
 
@@ -471,15 +616,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What enforcement bodies exist in your world? What do they handle, and who controls them?**
+**Who controls the enforcers?**
 
-*(Write your answer below)*
+*Do they answer to the ruler, a council, the church, or themselves? The person who commands the guards is often more powerful than the person who writes the laws.*
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 **How effective is enforcement?**
 
@@ -501,15 +644,21 @@ _______________________________________________________________
 
 **How does the justice system work?**
 
-**Describe your world's justice system: Who judges? Are there trials? Do the accused have rights? Can verdicts be appealed? Who can afford good representation?**
+*Who judges the accused — a monarch, a magistrate, a council, a mob? Do people get trials, or are punishments handed down on the spot?*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**What rights does an accused person have?**
+
+*Can they speak in their own defence? Call witnesses? Appeal the verdict? Or does the judge's word end it? Think about whether the wealthy can buy better justice than the poor.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 **Is justice equal?**
 
@@ -525,7 +674,7 @@ _______________________________________________________________
 
 ### Unequal Justice
 
-It is possible for one individual to receive a slap on the wrist for a violation of a law, while the other receives a death sentence for the same offence. Asymmetrical risk causes damage to relationships in many subtle and unspoken ways. When someone says "let's take this risk together" they aren't truly sharing the risk. The person who is protected by the law doesn't realise the level of risk the unprotected person faces. The vulnerable partner is always thinking, always aware of what happens if they're caught. For the protected partner who understands the risks that the vulnerable partner faces, there's guilt. They enjoy the benefits of a system that would destroy the person they care about. The most open and honest relationships recognise and acknowledge the presence of this asymmetry. In *The Cruel Prince*, Jude is a mortal in Elfhame and has no protection under the law, whereas Cardan as a prince is beyond reproach. The dynamic between Jude and Cardan is defined solely by the fact that she is at constant risk while he isn't. Jude is always thinking and calculating the potential consequences of each action she takes, because she knows that one incorrect step could result in her own death. Cardan can act without fear of consequence. In *Serpent & Dove*, the difference is even greater: if they're discovered, Lou will burn alive while Reid will face shame and banishment. They're not sharing the same level of risk, and the book does a good job of showing how this creates distance and tension in the space between them. Can the noble take responsibility and face the consequences? Or does the commoner bear the brunt? Can the magical character avoid punishment when the non-magical suffers? Is the protected character aware of the risk faced by the other? Do they attempt to protect them? Does the vulnerable character resent the inequality? Are they willing to give up their status? Would they admit to having taken part so that both could be punished equally? What would it cost them? Would the protected character allow the other to face the consequences alone? Would they come forward? Would they even have the ability to save them?
+One character may receive a slap on the wrist while the other receives a death sentence for the same offence. When someone says "let's take this risk together," they aren't truly sharing the risk. The vulnerable partner is always calculating; the protected partner carries guilt for benefiting from a system that would destroy the person they love. In *Serpent & Dove*, Lou will burn alive while Reid will face shame and banishment -- they're never sharing the same level of risk, and that asymmetry creates distance even in their closest moments.
 
 **Are laws enforced equally, or does power matter?**
 
@@ -537,9 +686,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**If one character risks everything while the other risks little, how do they navigate that?**
+**What does the character who risks more feel about the one who risks less?**
 
-Does the protected character understand what the other faces? Do they try to shield them? Does the vulnerable character resent the inequality?
+*Does the protected character understand what the other faces? Do they try to shield them? Does the vulnerable character resent the inequality?*
 
 _______________________________________________________________
 
@@ -634,27 +783,25 @@ _______________________________________________________________
 
 ### Power Gaps & Intimacy
 
-When one character has the ability to imprison, exile, or kill another, how do you show that the less powerful character has given their consent? This is probably the most crucial craft question in romantasy, and if you get it wrong, you're going to turn a beautiful romance into one that leaves your readers feeling very uneasy. A gap in political power doesn't disappear just because characters are in love. The High Lord is still the High Lord. The mortal is still mortal. The Maiden is still forbidden from being touched. The issue isn't whether there is a power gap, but how your characters manage it, and how you, as the writer, demonstrate to the reader that the less powerful character is making their own decisions about entering into this relationship. Romantasy authors have used many craft techniques to show this to the reader, and they're worth knowing. **The rhetoric of choice.** In *ACOTAR*, Maas uses the way Tamlin and Rhysand handle power to make nearly all of the distinction between these two men. Tamlin removes Feyre's choices by confining her to his manor for her "safety," taking away her ability to choose while claiming he's protecting her. Rhysand on the other hand continually gives Feyre choices: to train, to fight, to govern, to leave. Maas is purposeful in her repetition. She's showing the reader that although Rhysand has enormous magical and political power, Feyre is being given the respect of having control over her own autonomy. Whether you find this fully convincing or not, the technique is certainly worth analysing. If your character who holds all the power is constantly giving the other character real choices, versus issuing commands disguised as suggestions, then the reader will have more faith in the dynamic.
+A gap in political power doesn't disappear because characters are in love. The issue isn't whether there is a power gap, but how your characters manage it and how you demonstrate to the reader that the less powerful character is making their own decisions. Three craft techniques worth knowing: **The rhetoric of choice** -- the powerful character gives real choices, not commands disguised as suggestions (Rhysand continually offers Feyre choices; Tamlin removes them). **The equaliser arc** -- the less powerful character has their own source of strength, so intimacy reads as choice rather than survival (Jude's ability to lie becomes her weapon; Poppy is a skilled warrior who could fight her way out). **The internal monologue as agency** -- the reader sees the character actively weighing and deciding, not being swept along.
 
-**The equaliser arc.** In order to make the less powerful character credible in their own right, you need to ensure that when they consent to intimacy, it appears to be a conscious decision as opposed to a survival mechanism. In *From Blood and Ash*, Poppy is the Maiden, she can't be touched, spoken to, or seen. Her complete social isolation makes any intimacy a radical act of defiance. However, Armentrout gives Poppy an empathic gift and shows her to be a skilled warrior, ensuring she's not a damsel who has no other choice but to pick the one person protecting her. She's someone who can fight her way out, but has decided to remain. In *The Cruel Prince*, Jude doesn't possess any magical abilities at all, but her ability to lie (which the Fae can't do) becomes her most valuable weapon. Her "otherness", which initially presents itself as a weakness, becomes leverage. **The internal monologue as agency.** While a character may have many choices taken away from them due to political power, their internal voice becomes the reader's proof of consent. Rather than being swept up by feelings of attraction for Cardan, we see Jude acknowledge those feelings and manage them. We see Poppy weighing her conflicting desires before deciding what to do about them. The internal monologue tells the reader: this character is actively choosing, not being chosen for.
+**Who holds more power in the relationship?**
 
-**How does the power gap between your characters affect intimacy?**
+*Name the imbalance specifically — political rank, magic, wealth, legal standing.*
 
-**Describe the political power imbalance between your characters: Who holds more power? Does the more powerful character recognise the gap? How does the less powerful character exercise agency? What would it look like if they said no — would there be consequences?**
+_______________________________________________________________
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+**What happens if the less powerful character says no?**
 
-&nbsp;
+*If saying no leads to punishment, exile, or death, you don't have a romance — you have coercion. The reader must believe "no" is a real option. Does the more powerful character recognise the gap?*
 
-&nbsp;
+_______________________________________________________________
 
-That last question is the most important one. If the less powerful character can't say no without facing punishment, exile, or death, you don't have a romance. You have coercion with good lighting. The reader has to believe that "no" is a real option, even if the character chooses "yes."
+_______________________________________________________________
 
 **How will you show the reader that the less powerful character is choosing freely?**
-
-*This is the most important craft question in any romance with a power gap. If you can't answer it, your readers will feel uneasy about the relationship.*
 
 | Craft Technique | How You'll Use It | Example |
 |-----------------|-------------------|---------|
@@ -662,15 +809,13 @@ That last question is the most important one. If the less powerful character can
 | Equaliser arc (less powerful character has their own source of power) | | *Jude's ability to lie becomes her weapon in a world of Fae who can't* |
 | Internal monologue as agency (reader sees the character actively deciding) | | *Poppy weighs her desires before acting on them* |
 
-Sharing information instead of withholding it? Offering genuine choices? Respecting refusals without sulking or punishing? Training the other to be dangerous? All of these actions tell the reader the power gap is being navigated honestly.
-
-Information, cunning, a unique ability, political leverage, the capacity to leave? The power doesn't have to be equal, but it has to be real. A character who has no power at all and no option to leave isn't in a position to consent, and your reader will feel that even if the character doesn't say it.
+The power doesn't have to be equal, but it has to be real. A character who has no power at all and no option to leave isn't in a position to consent, and your reader will feel that.
 
 ---
 
 ## Marriage Laws
 
-Romantasy typically utilises marriage law as the primary legal barrier. Once you know what is permissible, what is prohibited, and the penalties for crossing the line you'll have a very clear idea of what's standing in the way of your characters' love. There are generally several reasons marriage laws exist: to maintain power structures, to dictate who inherits property or titles, to keep classes or species separate, or to carry out the tenets of religious belief. Knowing the purpose behind the law will help you understand how rigid it is and how much effort would be required to challenge it. When you write marriage law into a scene, the best way to demonstrate its impact is through showing what it costs. A character watching two lovers being forced apart by guards at the altar. A guest list that requires approval from the Crown. A wedding ceremony that includes a loyalty oath to the state. By including these types of details, the law will feel realistic without requiring a lecture on the legal code. Consider the various types of restrictions imposed upon your characters: class, species, magical status, gender, family, religion, age, political status. Where your characters are of different species, these restrictions will have the greatest impact. Not just social disapproval, but serious questions regarding whether the union is legally recognised, whether children could exist, and whether they'd be viewed as people or abominations under the law. Provide a reason, regardless of how poor the reasoning may seem. Magical danger? Political control? Religious doctrine? Maintaining class system? Historical catastrophe blamed on forbidden unions? Religious ceremony? Legal contract? Magical binding? Consummation? Public declaration? Parental consent? Royal approval? Can divorce occur? Can annulment occur? Are magical bonds breakable? Or is marriage permanent? Are the consequences criminal (execution, imprisonment, exile)? Social (loss of title, disownment)? Magical (loss of power, curse)? Political (loss of succession rights, treaty violation)?
+Marriage law is often romantasy's primary legal barrier. Marriage laws exist to maintain power structures, dictate inheritance, keep classes or species separate, or enforce religious belief -- knowing the purpose behind the law tells you how rigid it is. Show the law's impact through what it costs: lovers forced apart at the altar, a guest list requiring Crown approval, a wedding ceremony that includes a loyalty oath to the state.
 
 **Who can legally marry whom?**
 
@@ -743,18 +888,21 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Where do your characters fall?**
-The larger the gap, the greater the romantic tension. What does each person assume as normal that the other has never experienced?
+**Where do your characters fall in this hierarchy?**
 
-**What is each character's class position in the social/political hierarchy?**
+*The larger the gap, the greater the romantic tension.*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**What does each character take for granted that the other has never experienced?**
 
-&nbsp;
+*The noble who has never worried about a meal; the servant who has never had a free afternoon. These everyday assumptions create misunderstandings and fascination.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 **How many ranks separate them?**
 Same social class? One or two classes apart (scandalous but possible to bridge)? An extreme class gap (servant/royal)?
@@ -765,6 +913,14 @@ _______________________________________________________________
 Are there restricted areas or forbidden contact? What are the consequences if someone behaves above their station?
 
 _______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Can someone move between classes — and how?**
+
+*Marriage, wealth, magic, military service, education? Or is the system locked at birth? If there is a path upward, your characters might have hope. If there isn't, they're fighting the system itself.*
 
 _______________________________________________________________
 
@@ -807,9 +963,15 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Laws, Justice, and Social Barriers
+
+*Pause and look at your answers so far. Do the laws you defined match the enforcement system you described? If your world has strict marriage laws but weak enforcement, is that intentional — or a gap? Does your class system create a genuine barrier, or could your characters simply ignore it? If the obstacles feel too easy to overcome, strengthen them now.*
+
+---
+
 ## Political Arrangements
 
-Arranged marriages and political alliances have been romantasy tropes because they create forced proximity with high consequences. The characters didn't choose each other; however, now they must live with each other. The appeal of an arranged marriage lies within the conflict created when there's a difference between obligation and desire. They were brought together through duty, politics, or necessity. The question becomes: can anything real develop in soil that wasn't intentionally selected? It is this obligatory relationship versus a potential emotional one that creates both obstacles (if to someone else) and opportunities (if to each other) for romantic tension. Family (for alliance, wealth, bloodline)? Ruler (for political stability)? Religious authority (fulfilling prophecy)? Did the characters enter into an agreement on their own behalf? Legal repercussions? Magical oath? Political necessity? Pressure from family? No alternatives? Are they a potential ally (decent), a clear antagonist (cruel), in love with someone else as well (shared plight), or the one who will become the lover (arranged marriage to lovers)? War? Ruining of family? Losing safety? Magical backlash? Political instability?
+Arranged marriages create forced proximity with high consequences. The characters didn't choose each other, but now they must live with each other. The tension lies in the gap between obligation and desire: can anything real develop in soil that wasn't intentionally selected?
 
 **Is one or both characters in an arranged marriage or betrothal?**
 
@@ -859,7 +1021,7 @@ _______________________________________________________________
 
 ### Already Bound
 
-Often, the arranged marriage isn't something the characters have to get past. It's the basis for the story. They're already married. So now what? This configuration creates a different type of tension. The legal barrier is already removed. They're bound. The obstacle is internal: having to see each other as people and not just responsibilities, creating an atmosphere of trust that doesn't exist, developing genuine feelings in a relationship that originally existed as a transaction. In *Kingdom of the Wicked*, Emilia and Wrath enter into a magical marriage contract prior to either of them wanting this arrangement. Since there are no legal barriers, the emotional obstacles are much larger: she has no reason to trust a demon prince, he can't expose himself without putting her in harm's way as well, and their "alliance" is formed on top of conflicting agendas. The question is not if they can be together. It's whether being together will have any actual meaning if they were brought together as a strategic move. Right after the wedding? Months? Years of maintaining an icy wall of reserve? Were they friends or acquaintances prior to getting married? Was either one opposed to the union? Was there hope, dread, or resignation? Total strangers? Polite distance? Open hostility? Tentative curiosity? Do they need to appear as a couple? Produce an heir? Attend social events together? Share chambers? Separate bedrooms? Only limited conversations? Restrictions regarding what they can and can't share? What triggers the realisation for them to begin seeing each other in a different light? The legal barrier may be gone; however, what remaining emotional, political, or personal barrier will stay? Distrust issues? One is in love with someone else? They're on opposing sides of a conflict? One possesses a deep dark secret? When do they stop staying together out of obligation and begin to remain together out of desire?
+Sometimes the arranged marriage isn't something to get past -- it's the premise. They're already married. The legal barrier is gone; the obstacle is internal: seeing each other as people rather than responsibilities, building trust where none exists, developing genuine feeling in what began as a transaction. In *Kingdom of the Wicked*, Emilia and Wrath are magically bound before either wants it, and the question isn't whether they can be together but whether being together can mean anything real.
 
 **If your characters begin the story already bound by political marriage:**
 
@@ -925,19 +1087,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**When does obligation become choice?**
-
-At what point do they stay together because they want to, not because they must?
-
-_______________________________________________________________
-
-_______________________________________________________________
+*See also: Economy & Labour -- Marriage as Economic Contract for the financial dimensions of arranged marriages.*
 
 ---
 
 ## Political Marriages & Treaties
 
-When couples marry to serve the purposes of politics, both individuals become symbols as well as people. They're performing for their nations, not just for themselves. As a result of being treated as a political pawn, there's something about this experience that changes an individual's self-worth. You learn that your value is determined by what you can achieve, not by who you are. Couples that are married politically share something with each other that no one else sees, or they begrudge seeing the similarity in each other, it represents the loss of freedom and true choice. Whether true and lasting emotion can emerge from coercion is a question that has haunted many political marriages. If there were a choice, would these political pawns have selected each other? More often than not, the answer remains unknown and the couple must deal with this uncertainty. Political unions carry a weight far beyond how the individuals involved personally feel about each other. Their union could end wars or start them. Ends a war? Unites rival houses? Fulfils prophecy? Secures resources? There will be those that benefit from the relationship who will try to push the couple into forming a bond. There will also be those who feel threatened by their union, and will work to break them apart. Ultimately, the choices made regarding the consequences of refusing will dictate whether the couple is truly making a decision based on their own desires, or simply experiencing an illusion of choice. Are they resentful of having been compelled into this? Does a sense of duty reduce the genuineness of their intimacy? Can they develop a romantic relationship despite the arrangement, or do they struggle to believe in what they feel due to the coercion?
+When couples marry for politics, both become symbols as well as people. Being treated as a political pawn changes self-worth -- you learn your value is determined by what you can achieve, not who you are. Political unions carry weight far beyond how the individuals feel about each other: their union could end wars or start them, and factions will either push them together or work to break them apart.
 
 **Is your characters' relationship politically important?**
 
@@ -953,17 +1109,17 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Who benefits from their union? Who's threatened by it?**
+**Who benefits from their union, and why?**
 
-**Who wants your characters together, and why? Who wants them apart, and why?**
+_______________________________________________________________
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+**Who is threatened by their union, and why?**
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
 **What happens if they refuse the political obligation?**
 
@@ -996,22 +1152,15 @@ In *Radiance*, Brishen and Ildiko were both used as pawns in a marriage of conve
 **Are your characters performing a relationship for political purposes?**
 If yes:
 
-**What are the ground rules?**
-All fake relationships begin with parameters: how much physical interaction can take place, what story they're going to tell the public, and when the pretence will stop. Establishing these boundaries is important because it's the violations of them that create the tension. The first time one character touches the other outside the established limits, or when one character defends the other more intensely than required by the scene, or when one character can't stop thinking about the performance when they're by themselves, the facade of their pretend begins to crumble. Affection? Unity? Hostility? Indifference? Which behaviours will the political situation require? Are the characters complete strangers? Enemies? Already attracted to one another, but pretending not to be? Is one character secretly working against the other? The instant the veil falls is your romantic turning point. At which point during the public display will the characters cross the line from acting strategically to feeling genuinely? A protective instinct that occurs too quickly to be calculated? A compliment intended for the court that the other character recognises as being true? A touch that lingers longer than the audience expects? Once the political goals of the situation are met or abandoned, and there's no longer a need for the characters to maintain the performance, will they continue to choose each other? The movement from "we have to" to "we want to" is the emotional core of this dynamic. Many of the most memorable romantic moments arise from the moment one character realises they're continuing to reach for the other's hand even though no one is watching.
+**What are the ground rules of the performance?**
 
-**What are the rules of the performance?**
+*All fake relationships start with boundaries. The romantic tension comes from violating them. How much physical contact is allowed? What story do they tell the public? When does the act end? Is one secretly working against the other?*
 
-*All fake relationships start with boundaries. The romantic tension comes from violating them.*
+_______________________________________________________________
 
-**If your characters must perform a public relationship (love, unity, hostility, indifference): What are the physical boundaries? When does the performance end? Is one secretly working against the other?**
+_______________________________________________________________
 
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 **What's the first boundary violation?**
 
@@ -1047,29 +1196,31 @@ Being on the same side creates shared purpose; being on opposite sides creates t
 
 The moment of choosing love over loyalty is one of the most powerful beats in enemies-to-lovers. What would push them to it?
 
-**What major factions exist?**
+**What major factions exist in your world?**
 
-**Describe the key political factions in your world. For each, what do they want, who leads them, and what is their power base?**
+*For each faction, note who leads it, what they want, and where their power comes from (military, money, magic, popular support, etc.).*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-**Where do your characters fall?**
+**How do these factions compete for power?**
 
-**Which political faction does each character belong to or align with?**
+*Court intrigue? Elections? Military force? Economic pressure? Magical conflict? The methods they use will shape how your characters get caught in the middle.*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**Which faction does each character belong to or align with?**
 
-&nbsp;
+_______________________________________________________________
+
+_______________________________________________________________
 
 **Are they on the same side, opposite sides, or unaligned?**
 
@@ -1088,34 +1239,44 @@ _______________________________________________________________
 ### Political Enemies
 
 **Who has political reason to keep your characters apart?**
-Name specific antagonists. What do they stand to lose if your characters unite?
 
-**Describe your story's political enemy/antagonist: Who are they? What position do they hold? What do they want? Why do they oppose the characters? What will they do?**
+*Name specific people. What position do they hold, and what do they stand to lose if your characters unite?*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**What will this person do to stop them?**
+
+*Threats, sabotage, legal action, violence? The more specific, the more real the danger feels.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 
 ### Political Allies
 
-**Who supports your characters despite political opposition?**
-Allies provide hope and aid, but their support should cost them something too.
+**Who supports your characters despite the political risk?**
 
-**Describe your story's key political ally: Who are they? What position do they hold? Why do they help, and what do they risk by doing so?**
+*Name the ally. What position do they hold, and why do they help?*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**What does helping your characters cost this ally?**
+
+*Allies who risk nothing feel like plot devices. What do they stand to lose by supporting the relationship?*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 **Is there current factional conflict that affects your story?**
 Political instability creates both danger and opportunity. Could your characters use factional conflict to their advantage?
@@ -1148,19 +1309,33 @@ When two characters share an adversarial environment at court as partners, that 
 
 _______________________________________________________________
 
+**Who else is at court, and what do they want?**
+
+*Courtiers, advisors, rivals, servants, spies — the people surrounding your characters create the audience that makes every private feeling dangerous. Who is watching, and what are they looking for?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **What mask does each character wear at court?**
 
 *The romantic spark happens when masks crack. You need to know what each character is hiding before you can write the moments it slips.*
 
-**What public mask does each character wear, and what does it hide?**
+_______________________________________________________________
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**What makes the mask slip?**
 
-&nbsp;
+*Exhaustion? A threat to someone they care about? A moment of unexpected kindness? The crack in the mask is your romantic beat.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 **What court ritual creates romantic pressure for your characters?**
 
@@ -1188,19 +1363,21 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What private language have your characters developed at court?**
+**What private signals have your characters developed?**
 
-*Surviving court together creates shared codes. These small, secret communications are some of the most romantic moments you can write.*
+*A look, a gesture, a code word — surviving court together creates shared language. These small, secret communications are some of the most romantic moments you can write. What signals do they use, and what do they mean?*
 
-**Do your characters develop private signals — a look, a gesture, a code word? What do they mean?**
+_______________________________________________________________
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+---
 
-&nbsp;
+### ✦ Checkpoint: Arrangements, Factions, and Court
+
+*Pause and look at your answers so far. If your characters have an arranged marriage, does the political system you built earlier explain why it can't simply be refused? Do the factions you identified have clear, specific reasons to care about your characters' relationship? If you have a court setting, does it connect to the power structure and laws you already defined? Tighten any loose threads before continuing.*
 
 ---
 
@@ -1208,18 +1385,29 @@ _______________________________________________________________
 
 Secrets in romantasy aren't side stories; they're obstacles to intimacy. Each time your character holds back some information from their romantic partner, it's an additional wall between them, and each time they reveal a secret it opens a doorway that can't be closed. The core tension is this: your characters require deception to survive politically and honesty to feel intimate. They can't have both. That's the engine. When a character is keeping their true identity from their love, the relationship is built upon a false foundation. The romantic partner loves the version of a person the other has presented to them, not the entire person. The individual keeping the secret is also the person least capable of experiencing true intimacy, because their authentic self is never fully present in the same space as their partner. In *Serpent & Dove*, Lou has kept her identity as a witch a secret from Reid, a Chasseur that's been trained to kill her people. Both Lou and Reid enter into a marriage based on strategy, but as genuine feelings begin to develop, Lou's secret starts to poison their relationship. Reid's love grows stronger than Lou's because she's always keeping something guarded. She can never be fully in the same room with him. Each intimate moment is tainted by the reality that he'd set fire to her at the stake if he were to discover what she really is. In *Fourth Wing*, Xaden only shares with Violet "what you need to know." Violet is forced to question Xaden to obtain additional information. He can't share everything with her because of her close proximity to the state, exemplified by her mother's position and her friend Dain's ability to read memories. Their relationship relies heavily on physical attraction to provide a release, since their intellectual and emotional communication is consistently interrupted by the political implications of their connection.
 
-**Is either of your characters hiding their identity?**
+**Is either character hiding their true identity?**
+
 If yes:
 
-**What are your characters hiding? Who are they hiding it from, and why? What happens if they're discovered, and how does the secret limit the intimacy they can share?**
+**What are they hiding, and from whom?**
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**Why are they hiding it?**
 
-&nbsp;
+*Survival? Shame? A mission? The reason shapes whether the eventual reveal feels like betrayal or self-preservation.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What happens if they're discovered?**
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 **How does the secret create a ceiling on intimacy?**
 
@@ -1273,19 +1461,25 @@ Some revelations deepen the bond. Some shatter it. Some do both at once. The ans
 
 After the big reveal, the heavy lifting begins. The cat's out of the bag. Now what? A great many romantasy novels will put the two main characters through a time of separation after the reveal: the third-act breakup. Not only is this dramatic, it provides a lot of room for character growth for each of them. The party who kept the secret has to come to terms with the damage their actions caused. The party who was deceived has to figure out if knowing why someone betrayed them is enough, or if they require some other type of reconciliation. In *Fourth Wing*, Violet comes to realise she's in the same boat with her friends that Xaden was in with her: lying to the people you love to protect them. That comparison doesn't take away from the betrayal, but it gives Violet a new way to view it. Their relationship grows into maturity when she goes from "you lied to me" to "I see why, and I am still hurt." Words are not nearly as important as actions at this point. What tangible, concrete item can they provide? Just because you understand why someone acted a certain way, it doesn't mean you're automatically forgiving them. You can understand someone's motivations and still be hurt by what they did. However, most times, understanding is the first step. Usually the person who was deceived gains the upper hand morally, and the person who lied typically has their standing diminished. How does this shift affect the relationship going forward?
 
-**When is the secret revealed?**
+**When in the story is the secret revealed?**
 
-*The revelation is your most structurally important romantic beat. When it falls in the story determines what kind of tension you're building.*
+*Early (and the story is about the aftermath)? Midpoint (raising second-half stakes)? Climax (forcing the final choice)?*
 
-**How is the secret revealed? What is it, when in the story does it happen, how is it revealed (confession, discovery, betrayal), and does it deepen or shatter the bond?**
+_______________________________________________________________
 
-*(Write your answer below)*
+**How is the secret revealed?**
 
-&nbsp;
+*Voluntary confession? Accidental discovery? Betrayal by a third party? Forced by circumstances?*
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
+
+**Does the revelation deepen or shatter the bond?**
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 **If your secret unravels in layers, map the cascade:**
 
@@ -1390,15 +1584,21 @@ _______________________________________________________________
 
 If yes:
 
-**If a character serves in the military: Which character, what is their role/rank, why do they serve, and what have they seen or done?**
+**Which character serves, and what is their role or rank?**
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**Why do they serve — by choice, obligation, or force?**
 
-&nbsp;
+_______________________________________________________________
+
+**What have they seen or done that they carry with them?**
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 **If one character is a soldier, how does this affect the relationship?**
 
@@ -1414,35 +1614,29 @@ _______________________________________________________________
 
 ### Enemies Across Battle Lines
 
-If your characters are on opposing sides of the war and they develop an emotional connection, it's considered treasonous. The fact that they chose one another signifies they've betrayed everything they believed in since birth. This creates the ultimate high-risk enemies-to-lovers scenario; both parties have been trained since birth to distrust the opposing side. Each party will have its own propaganda and stereotypical views of the enemy based on what they've been told. Traitor? Spy? Corrupted? Foolish? Understandable but forbidden? What would they have to believe, learn, or experience? Does their union have political implications for the war? War leaves marks that don't heal. Violence changes people. How does this experience affect their capacity for intimacy and trust? Loss creates grief that shapes how they see the enemy and complicates falling for one of "them." Atrocities, massacres, betrayals during the conflict: inherited guilt or direct responsibility creates one of the deepest obstacles to overcome in enemies-to-lovers. Can there be forgiveness? Understanding? Or is this wound too deep? Execution? Imprisonment? Exile? Branded? Hunted? What would push them to it? What would they lose? Welcomed? Suspected? Used for information then discarded? Tested? Victory for one side? Negotiated peace? Exhaustion? Outside intervention? Symbol of unity? Marriage alliance? Proof that peace is possible? What would each side have to give up or accept? Peace doesn't erase memory. Think about whether society would accept them even after the conflict ends.
+If your characters are on opposing sides of a war, choosing each other is treason. Both have been trained to distrust the other side, and each side's propaganda shapes what they believe before they ever meet.
 
 **Are your characters on opposite sides of a conflict?**
 
 If yes:
 
-**If your characters are on opposing sides of a conflict: What is the conflict, and what side is each on?**
+**What is the conflict, and which side is each character on?**
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**What does each side believe about the enemy?**
 
-**What does each side believe about the other?**
+*Propaganda, stereotypes, justified grievances — what were your characters taught about the other side before they met?*
 
-Propaganda, stereotypes, justified grievances:
+_______________________________________________________________
 
-**What does each side believe about the enemy — what propaganda have they been taught?**
+_______________________________________________________________
 
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 **What would each character's people say about them loving the enemy?**
 
@@ -1472,31 +1666,25 @@ _______________________________________________________________
 
 ### The Violence They Carry
 
-**Has either character killed in war?**
+**Has either character killed or been wounded in the conflict?**
 
-If yes:
+*What happened, and how does it affect them now? Think about nightmares, flinching at certain sounds, difficulty with trust or intimacy.*
 
-**Has either character experienced violence or combat? Describe the circumstances and how it affects them.**
+_______________________________________________________________
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 **Has either character lost someone to the conflict?**
 
-**Has either character lost someone in the conflict? Who was lost, how, and how does it shape them?**
+*Who was lost, how did it happen, and how does it shape the way they see the enemy?*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 **Is there blood between their peoples that can't be easily forgiven?**
 
@@ -1582,9 +1770,17 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Secrets and Warfare
+
+*Pause and look at your answers so far. If a character is hiding their identity, does the justice system you built earlier explain why discovery would be devastating? If your world is at war, do the military obligations you described create a genuine barrier to the relationship — or just an inconvenience? Make sure the pressure is real before moving on.*
+
+---
+
+Everything you've built so far — the government, the laws, the factions, the wars — now converges on the most personal question: what happens when two people who should be enemies fall in love?
+
 ## Enemies to Lovers
 
-"Enemies to lovers" is a common trope in romantic fiction and unfortunately, one of the least developed. In far too many cases, the "enemies" dislike each other for reasons that vanish when attraction becomes apparent. To make enemies-to-lovers believable, you need to create a world where there are actual grounds for hatred between the two characters. Not misunderstanding. Real, structural reasons why these two people should hate each other. Misunderstandings create obstacles that will disappear once cleared up. True hostility creates obstacles that take hard work, sacrifice, growth or transformation to resolve. That's what makes enemies-to-lovers satisfying: seeing two individuals work through real grievances and not discovering they never had any. Sometimes the hostility existed prior to the two characters meeting. They inherited it. Conquest? Massacre? Betrayal? Enslavement? Theft of land or magic? Be specific. An "ancient grudge" is not enough. Is it living memory? Grandparents' generation? Or centuries ago but never forgotten? Are there scars on the land? Displaced peoples? Stolen artefacts? Suppressed culture? Ongoing inequality? Do the two feel personal guilt for the hostility, or is the hostility something they consider to be "the past"? The greatest enmity is when one has caused direct harm to the other. Personal harm creates the most intense enmity. Be specific as to what harm was done. The two individuals' interpretation of the harm will determine if there's any possibility for forgiveness. Guilt provides a pathway to reconciliation; justification means the individual must change their worldview before there's any opportunity for forgiveness. Death? Confession? Reparation? There's no path forward without addressing this. Can some things not be forgiven? If one killed the other person's family, then "sorry" is not enough. Sometimes the two are enemies because they hold fundamentally opposing views regarding how the world works. When there is ideological conflict, the two characters must confront the fact that they've been taught genuinely opposing values, not merely misunderstanding. It's not sufficient to say "they were raised that way." What experiences, evidence, or reasoning does each character have to support their belief? If so, the story is about one character realising they were mistaken, which is perfectly acceptable, but different than true ideological conflict. If both beliefs have validity, the story is about synthesising the two, or coming to terms with the differences, which is much more complicated.
+To make enemies-to-lovers believable, you need real, structural reasons why these two people should hate each other -- not misunderstandings that vanish once cleared up. Misunderstandings create obstacles that disappear; true hostility creates obstacles that require hard work, sacrifice, and transformation to resolve. That's what makes enemies-to-lovers satisfying: seeing two people work through real grievances, not discovering they never had any.
 
 ### The Foundation: Why Are They Actually Enemies?
 
@@ -1676,33 +1872,19 @@ _______________________________________________________________
 
 **Historical Enemies**
 
-**What historical wrong exists between their peoples?**
+**What historical wrong exists between their peoples -- and who did what to whom?**
 
-Conquest? Massacre? Betrayal? Enslavement? Theft of land or magic?
-
-_______________________________________________________________
+*Be specific. Vague "ancient grudge" isn't enough. Conquest? Massacre? Betrayal? Enslavement? Theft of land or magic?*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Who did what to whom?**
-
-Be specific. Vague "ancient grudge" isn't enough.
-
 _______________________________________________________________
 
-_______________________________________________________________
+**How recent is this history, and what evidence remains?**
 
-**How recent is this history?**
-
-Living memory? Grandparents' time? Centuries ago but never forgotten?
-
-_______________________________________________________________
-
-**What evidence of this history remains?**
-
-Scars on the land, displaced peoples, stolen artifacts, suppressed culture, ongoing inequality?
+*Living memory or centuries ago? Scars on the land, displaced peoples, stolen artifacts, suppressed culture, ongoing inequality?*
 
 _______________________________________________________________
 
@@ -1710,31 +1892,21 @@ _______________________________________________________________
 
 **How does each character relate to this history?**
 
-Do they feel personal guilt/grievance, or do they see it as "the past"?
+*Do they feel personal guilt or grievance, or do they see it as "the past"? Are they inheritor, victim, bystander, or denier?*
 
-**What is each character's relationship to a historical wrong between their peoples — are they inheritor, victim, bystander, or denier?**
+_______________________________________________________________
 
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 ---
 
 **Personal Enemies**
 
-**What did one character do to the other (or their loved ones)?**
+**What did one character do to the other (or their loved ones)? Was it intentional, justified (in their mind), or accidental?**
 
 _______________________________________________________________
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**Was it intentional, justified (in their mind), or accidental?**
 
 _______________________________________________________________
 
@@ -1744,17 +1916,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What would justice look like to the wronged party?**
+**What would justice look like to the wronged party -- and can this harm actually be forgiven?**
 
-Death? Confession? Reparation? There's no path forward without addressing this.
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Can this harm actually be forgiven?**
-
-Some things can't be — and pretending otherwise insults readers. If one killed the other's family, "sorry" doesn't cut it.
+*Death? Confession? Reparation? Some things can't be forgiven, and pretending otherwise insults readers.*
 
 _______________________________________________________________
 
@@ -1764,37 +1928,13 @@ _______________________________________________________________
 
 **Ideological Enemies**
 
-**What does each character believe that the other finds repugnant?**
+**What belief does each character hold that the other finds repugnant -- and what experiences or evidence support each view?**
 
-**What belief does each character hold that the other finds repugnant?**
+*Not just "they were raised that way." If one belief is clearly wrong, the story is about learning; if both have merit, it's about synthesis or accepting difference.*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Why does each believe this?**
-
-Not just "they were raised that way" — what experiences, evidence, or reasoning supports their view?
-
-**What reasoning lies behind each character's problematic belief — why does it make sense from their perspective?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Is either belief clearly wrong?**
-
-If so, the story is about one character learning they were wrong — which is fine, but different from true ideological conflict.
-
-If both views have merit, the story is about synthesis or accepting difference — more complex.
+_______________________________________________________________
 
 _______________________________________________________________
 
@@ -1804,11 +1944,7 @@ _______________________________________________________________
 
 ### The Path from Enemies to Lovers
 
-**The Crack in the Armor**
-
-**What does the love interest do that surprises the protagonist?**
-
-An act of kindness, mercy, honor, or vulnerability they weren't expecting:
+**What unexpected act first cracks each character's certainty about the other -- and how do they explain it away?**
 
 _______________________________________________________________
 
@@ -1816,15 +1952,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does the protagonist explain this to themselves initially?**
-
-Rationalize it? Distrust it? Assume ulterior motive?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does the protagonist do that surprises the love interest?**
+**What does each character learn about the other's reasons that shifts their understanding -- even if they don't agree?**
 
 _______________________________________________________________
 
@@ -1832,7 +1960,11 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does the love interest initially explain this?**
+**What does each character do that their side would consider betrayal, and what does it cost them?**
+
+*Not just "has feelings" -- an action that crosses a line.*
+
+_______________________________________________________________
 
 _______________________________________________________________
 
@@ -1840,147 +1972,38 @@ _______________________________________________________________
 
 ---
 
-**Seeing Through Their Eyes**
+### The Cost of Reconciliation
 
-**What does the protagonist learn about why the love interest is the way they are?**
+In the strongest enemies-to-lovers, both characters pay a real price for choosing each other. The cost should be high enough that their choice means something.
 
-Not excuses — context. The experiences, pressures, or reasoning behind their position.
+**What does each character sacrifice to be together?**
 
-_______________________________________________________________
+*Be specific -- not just "status" but what that status meant to them. Community, family, identity, safety, purpose?*
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How does this knowledge change the protagonist's view?**
-
-They don't have to agree. But do they understand?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does the love interest learn about the protagonist's perspective?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How does this change them?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-**The Point of No Return**
-
-**What does the protagonist do that their side would consider betrayal?**
-
-Not just "has feelings" — an action that crosses a line.
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does this cost them?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does the love interest do that their side would consider betrayal?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does this cost them?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-### The Political Cost of Reconciliation
-
-At a certain point in the story, each of the characters will have to opt for the relationship rather than their "sides." This is the real test, and the world-building question is: what does this choice cost them politically? Not simply because they "feel" something. An actual action that represents crossing a boundary. Sacrifices make decisions mean something. What do they lose that they can't regain? Community, family, identity, safety, purpose? A mirror moment would be when they both made the same choice of loving each other over their loyalties. Each should pay a price equal to the price of the protagonist's sacrifice. They should both lose something of great importance. The answer should be "yes, but barely." Their costs should be high enough that choosing each other was worth something. A symbol of peace? Evidence that you can reconcile after all of that? A catalyst for change? Or simply two people that found each other in spite of everything? Time spent on things that could have been different, lives lost, and the damage done to relationships that can't be repaired. A good enemies-to-lovers story recognises that some wounds will never heal and some harm will always be present. The issue isn't if they can remove the past from existence; it's if they can create something worth having together regardless of it.
-
-### Reckoning with the Enmity
-
-**The Mirror Sacrifice**
-
-*In the strongest enemies-to-lovers, both characters pay a price of equal weight for choosing each other. Map what each one loses.*
-
-**What does each character sacrifice to be together, and why does this cost them specifically?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+| | What They Lose | Why It Hurts |
+|---|---|---|
+| Protagonist | | |
+| Love Interest | | |
 
 **Are these sacrifices roughly equal in weight?**
 
-*If one character gives up everything and the other gives up nothing, the reader won't believe they're true equals.*
+*If one gives up everything and the other gives up nothing, readers won't believe they're equals.*
 
 _______________________________________________________________
+
+---
 
 **The Conversation That Has to Happen**
 
-**What specifically needs to be addressed?**
-
-The historical wrong, the personal injury, the ideological divide — name it:
+**What specifically needs to be addressed between them -- and what does each character need to say and hear for reconciliation to be possible?**
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Who brings it up?**
-
-The one who was wronged? The one who caused harm? Does it happen naturally or get forced?
-
 _______________________________________________________________
 
-_______________________________________________________________
-
-**What does each character need to say?**
-
-**What does each character need to say to the other for reconciliation to be possible?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**What does each need to hear?**
-
-**What does each character need to hear from the other?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Is there an apology? Is it sufficient?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Is there forgiveness? Is it earned?**
+**Is there an apology? Is it sufficient? Is there forgiveness? Is it earned?**
 
 _______________________________________________________________
 
@@ -1990,47 +2013,11 @@ _______________________________________________________________
 
 **What Can't Be Fixed**
 
-**What damage from their enmity is permanent?**
-
-Lives lost, time wasted, trust that can never be fully restored:
+**What damage from their enmity is permanent, and how do they live with it?**
 
 _______________________________________________________________
 
 _______________________________________________________________
-
-**How do they live with what can't be fixed?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Is there anything one can do to make amends — even if it can't undo the harm?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-### The Stakes of Reconciliation
-
-**If they choose each other, what does the protagonist lose?**
-
-Community, family, identity, safety, purpose:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does the love interest lose?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Are these losses worth it?**
-
-The answer should be "yes, but barely" — the cost should be real enough that choosing each other means something.
 
 _______________________________________________________________
 
@@ -2046,15 +2033,13 @@ _______________________________________________________________
 
 **How do others react to their relationship?**
 
-**How does each side (protagonist's people and love interest's people) react to the couple being together?**
+*Think about both sides — the protagonist's people and the love interest's people. Do they accept it, condemn it, or try to use it?*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 ---
 
@@ -2080,21 +2065,25 @@ _______________________________________________________________
 
 ---
 
+### ✦ Checkpoint: Enmity and Romance
+
+*Pause and look at your answers so far. Is the enmity between your characters rooted in the political structures you built earlier — or does it float free of them? Can you trace a line from the government type, through the laws, through the factions or war, to the specific reason these two people are enemies? If the enmity feels disconnected from the world, anchor it now.*
+
+---
+
 ## Succession & Heirs
 
-If your characters come from influential families, then succession will impact the romantic elements of your story. Who they marry, whether they produce heirs, and which bloodlines those children will carry all have significant political implications. The pressure of succession can affect how your characters view their relationship. Each kiss weighs heavily as an heirloom of a dynasty. Each disagreement has the potential for a diplomatic incident. And whether or not your characters decide to have children is no longer just a personal choice; it's being debated in council chambers by individuals that will never hold the child. That loss of humanity is something you should be writing about. When your character finally understands that their body has been turned into a political resource and no longer a private possession, that's a moment that should weigh heavily. Inheritance adds layers beyond the personal. The choices your characters make today may impact the next generation. Can they lose inheritance due to marrying the wrong person? Must they marry to inherit? Does their union combine two inheritances? Expectations surrounding producing an heir can create significant pressure and conflict in relationships where producing an heir would be either impossible or difficult. Biological complications can be particularly damaging when certain family lines are deemed politically important. High-stakes inheritance and family drama increase the pressure significantly on their relationship.
+Who your characters marry, whether they produce heirs, and which bloodlines those children carry all have political implications. Whether to have children is no longer a personal choice -- it's being debated in council chambers by people who will never hold the child. That moment when your character realises their body has become a political resource is one worth writing carefully.
 
 **What does each character stand to inherit?**
 
-**What does each character inherit from the political resolution — new roles, responsibilities, or losses?**
+*Throne, title, land, wealth, magical legacy? The bigger the inheritance, the more people will care who they marry.*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 **How does their relationship affect inheritance?**
 
@@ -2104,17 +2093,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Is either expected to produce an heir?**
+**Is either character expected to produce an heir?**
 
-**What is the political timeline or deadline, and what happens if your characters don't act?**
+*Who is applying the pressure — family, court, law? Is there a deadline? What happens if they don't produce an heir in time?*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 **If they're different species or one is sterile, how does this affect heir requirements?**
 
@@ -2132,7 +2119,7 @@ _______________________________________________________________
 
 ## Revolution & Reform
 
-Sometimes, the antagonists of a romantic fantasy are the very systems we live under. The laws are unfair. The government is oppressive. The only way to be together is to change the world. In a romantasy this is a powerful path to follow as it transforms a love story from an individual relationship to a political one. Not only do the lovers want to be able to be together, but they also want to create a world where others like them can live openly. Their love becomes the evidence that the system is wrong. However, revolution is never clean. To bring about change, sacrifices will need to be made that go beyond the risks two people would normally take for one another. Revolution requires people to put others at risk. Revolution requires people to make decisions where regardless of which decision they choose, someone will get hurt. A romantasy that does a good job of handling revolution will not allow the couple to emerge with clean hands. Are there exceptions that can be appealed to legally? Are there ways to change the laws politically? Is waiting for a new ruler acceptable? Are there loopholes? If there's a lawful route available, the lovers have to decide whether to go down the long road of the law, or whether to break the system wide open. Who would they need to support them? At what cost? Who would die? What would cause them to move from living within the system to fighting against it? There's a major difference between surviving (reactive) and fighting (proactive), and the point of transition from one to the other is worthy of careful writing. Survival is a defensive action. Choosing to fight is a decision that fundamentally changes who they are. Safety? Family? Status? Each other? The willingness to sacrifice each other is the darkest form of this question and the most compelling. Revolution is never clean. Were lives lost? Was stability destroyed? Did they become what they were fighting against? Victory that comes with grief is more honest than victory without cost. Political world-building in a romantasy has nothing to do with creating a real government. It's about creating barriers that are meaningful and which require growth, sacrifice, or systemic change to overcome. If your lovers can simply disregard the laws or wait for the obstacle to resolve itself, then the obstacles you created aren't strong enough. But if breaking the law results in war, if being discovered means death, now you have something to write about.
+Sometimes the only way to be together is to change the world. This transforms a love story into a political one -- the lovers don't just want each other, they want to create a world where others like them can live openly. But revolution is never clean. It requires putting others at risk, making choices where someone gets hurt regardless, and the strongest romantasy won't let the couple emerge with clean hands.
 
 **Are there legal means to change the laws keeping them apart?**
 
@@ -2143,6 +2130,14 @@ _______________________________________________________________
 _______________________________________________________________
 
 **If peaceful change is impossible, what would revolution look like?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Who else would benefit from changing the system?**
+
+*Your characters aren't the only ones suffering under these laws. Who are their potential allies — and what would those allies want in return?*
 
 _______________________________________________________________
 
@@ -2174,17 +2169,88 @@ _______________________________________________________________
 
 ---
 
+## Apply the Iron Cage Principle
+
+Now that you've built your political world — government, laws, rulers, factions, courts, and conflicts — return to the Iron Cage. Everything you've developed in this section should serve the cage around your romance. Use what you've built to answer these questions with specificity.
+
+**What is the iron cage around your romance?**
+
+*The cage is the structural force that keeps your characters apart — not a personal flaw or misunderstanding, but a system, law, or political reality that doesn't care about their feelings. Name it specifically.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Why can't your characters simply walk away from the cage?**
+
+*An iron cage only works if leaving it would break something bigger than the relationship. What's at stake beyond the two of them?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Which type of political pressure operates in your story?**
+
+*Most stories use more than one. Identify which apply and note the specifics.*
+
+| Pressure Type | Does It Apply? | How Specifically? |
+|---------------|---------------|-------------------|
+| *Prohibition (law forbids the relationship)* | *Yes — species law criminalises Fae/mortal unions* | *Marriage is void under Elfhame law; mortal has no legal standing* |
+| Prohibition (law forbids the relationship) | | |
+| Compulsion (political forces push them together) | | |
+| Stakes (what they risk by being together) | | |
+
+**Map your political stake to a romantic obstacle:**
+
+*Take the biggest political pressure in your story and translate it to the personal level. What does this political reality feel like in an intimate moment between your characters?*
+
+**What is the biggest political pressure in your story, and what does it feel like during an intimate moment?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What does the romance force your protagonist to face emotionally?**
+
+*Your protagonist should grow through both the romance and the political conflict — not just one. If you can only fill in one of these, the other plotline may be decorative.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What does the political conflict force your protagonist to face?**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
+
 ## Integration Check
 
-**How does government interact with magic in your world? What magical law most affects your characters? Could magic bypass political obstacles — and if so, why don't they use it? Does government have magical enforcement (truth spells, tracking, binding oaths)?**
+**How does government interact with magic in your world?**
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
+**What magical law most directly affects your characters?**
 
-&nbsp;
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Could magic bypass the political obstacles in your story?**
+
+*If magic could solve the problem, you need a reason it doesn't — legal prohibition, personal cost, lack of access. If the government uses magical enforcement (truth spells, tracking, binding oaths), that closes escape routes.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 

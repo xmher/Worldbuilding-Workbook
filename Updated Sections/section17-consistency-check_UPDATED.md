@@ -21,6 +21,16 @@ When Rhysand explains to Feyre in *A Court of Mist and Fury* the limits of winno
 
 Romantasy authors who know how to create romance understand that it's the constraint that creates romance. The rule that states they can't be together is the same rule that gives their being together value. Your task isn't to remove the obstacle for your characters, it's to make the obstacle so real that their ability to overcome it is believable.
 
+**What is the single most important promise your world makes to the reader?**
+
+*Hint: The rule your entire romance depends on. "Magic costs blood." "The bond cannot be broken." "Crossing the border means death."*
+
+_______________________________________________________________
+
+**Have you kept that promise every time it mattered?**
+
+_______________________________________________________________
+
 ---
 
 ## Common Mistakes
@@ -88,13 +98,25 @@ Check if you've done any of these:
 
 ### Fixing Vibes-Over-Logic Problems
 
-**Issue:** _____________________________________________________
-
-**Which fix:** __________________________________________________
+*For each item you checked above, describe the specific scene and how you'll fix it. Use the three options from "Fixing Consistency Problems" later in this section: add an in-world explanation, let the consequence happen, or change the rule from the start.*
 
 **Issue:** _____________________________________________________
 
-**Which fix:** __________________________________________________
+**Scene/Chapter:** _____________________________________________
+
+**Your fix:** ___________________________________________________
+
+**Issue:** _____________________________________________________
+
+**Scene/Chapter:** _____________________________________________
+
+**Your fix:** ___________________________________________________
+
+**Issue:** _____________________________________________________
+
+**Scene/Chapter:** _____________________________________________
+
+**Your fix:** ___________________________________________________
 
 ---
 
@@ -513,6 +535,16 @@ Mishandled information is probably the fastest way to break consistency. Charact
 
 *Information asymmetry is romantic fuel. Secrets, hidden identities, concealed feelings, knowledge that would change everything if shared. But it only works if the reason for keeping quiet is solid.*
 
+**What is the one secret that, if shared right now, would change everything between your characters?**
+
+_______________________________________________________________
+
+**Why hasn't the character holding that secret shared it yet?**
+
+*Hint: The reason needs to be rooted in your world or their character -- fear, cultural taboo, magical constraint, protecting someone. "The plot needs them not to know" isn't enough.*
+
+_______________________________________________________________
+
 ### The Reveal Check
 
 **Your major revelation or secret:**
@@ -603,11 +635,11 @@ The Court of Nightmares scene in *A Court of Mist and Fury* shows this beautiful
 
 *You don't need all four. One or two, used consistently, is enough. The key is that the technique shows up more than once before the reveal, so readers can look back and see the pattern.*
 
-**The Recontextualisation Test**
+**The "Read It Again" Test**
 
 When your narrator's understanding shifts (they learn the truth about a character, a system, or a history), earlier scenes should gain new meaning without losing their original logic.
 
-**Your major reveal or shift in understanding:**
+**What is the biggest truth your narrator discovers?**
 
 _______________________________________________________________
 
@@ -696,6 +728,12 @@ Not all inconsistencies have the same impact on your reader. Knowing which ones 
 Readers forgive inconsistencies that serve emotion *if you've earned their trust* through generally consistent worldbuilding. They won't forgive inconsistencies that feel like cheating, where you're protecting characters from your own rules or making things easy when they should be hard.
 
 **Ask yourself:** Am I bending rules to serve the story, or breaking them to avoid consequences I don't want to write?
+
+_______________________________________________________________
+
+**What is one consequence you've been avoiding writing? What would happen to the story if you let it land?**
+
+*Hint: Often the consequence you're avoiding is the scene your story most needs.*
 
 _______________________________________________________________
 
@@ -961,9 +999,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Will you need a series bible?**
+**What is the one detail readers would notice first if you contradicted it in a sequel?**
 
-*If you're writing more than one book in this world, the answer is almost certainly yes. Even if you think you'll remember everything, you won't. Start it now, while this workbook's answers are fresh.*
+*Hint: Usually it's a magic rule, a bond mechanic, or a character's established power level.*
+
+_______________________________________________________________
+
+**Are you writing more than one book in this world? If yes, start your series bible now.**
+
+*You won't remember everything. Start while this workbook's answers are fresh. Even a simple document with rules, dates, and character details will save you from contradicting yourself three books later.*
 
 _______________________________________________________________
 

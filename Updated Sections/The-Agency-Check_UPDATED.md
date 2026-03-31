@@ -150,9 +150,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Is their bond only about survival, or does it include genuine emotional intimacy?**
+**What do your characters share when no one is trying to kill them?**
 
-*Danger bonds are real, but they need more than shared adrenaline to sustain a romance past the threat. If your characters only connect when someone is trying to kill them, the relationship may feel thin once the threat passes. What emotional intimacy exists between the action beats?*
+*Danger bonds are real, but they need more than shared adrenaline to sustain a romance past the threat. If your characters only connect during action scenes, the relationship may feel thin once the threat passes. What quiet emotional intimacy exists between the action beats?*
 
 _______________________________________________________________
 
@@ -550,9 +550,9 @@ Power imbalances are simply a part of the romantic genre, and can create some of
 
 *Add more rows as needed — most romances have at least 4–5 types of power in play.*
 
-**Does the power dynamic shift during the story?**
+**How does the power balance change over the course of the story?**
 
-*A static power imbalance where the powerful character stays on top and the less powerful character never gains ground makes the romance feel like a benevolent dictatorship, not a partnership. Describe how the balance changes.*
+*A static power imbalance where the powerful character stays on top and the less powerful character never gains ground makes the romance feel like a benevolent dictatorship, not a partnership. Describe how the balance shifts.*
 
 The best power-imbalanced romances don't stay static. The dynamic should shift, complicate, even reverse over the course of the story. If the powerful character starts on top and stays there, the less powerful character's agency is going to be in question.
 
@@ -707,6 +707,14 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**How does their choice ripple outward -- who else is affected by what they decide?**
+
+*Hint: The best romantasy endings don't just resolve the couple's story. Their choice to be together (or to sacrifice) changes something for other people too.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **What does this final choice cost them, and how do readers see it?**
 
 *The cost is what makes the earned ending feel earned. What do they sacrifice, risk, or give up in this final moment? If the cost happens offscreen or is never mentioned again, it doesn't register as real.*
@@ -749,19 +757,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Are your characters' acts of agency appropriately weighted for your world?**
+**Does the scale of their defiance match the scale of your world's restrictions?**
 
-*A grand public declaration in an oppressive world might get them killed. A quiet private choice in a free world might go unnoticed. Make sure the scale of their defiance matches the scale of their world's restrictions.*
-
-Small choices in oppressive worlds can be as powerful as dramatic choices in free ones.
+*A grand public declaration in an oppressive world might get them killed. A quiet private choice in a free world might go unnoticed. Make sure their acts of rebellion fit what your world would actually punish.*
 
 _______________________________________________________________
 
-**Do readers from our world need context to understand why their choices matter?**
+**Would a modern reader understand why this choice is dangerous without you explaining it?**
 
-*If your world restricts choice in ways that modern readers might not immediately understand, you'll need to show the consequences for others who've defied the system. Readers need to see what's at stake before the protagonist risks it.*
-
-If choice is rare in your world, make sure readers understand what choosing costs. You can't assume they'll automatically grasp the weight of a small rebellion unless you've shown them what the consequences look like for people who defy the system.
+*If your world restricts choice in ways that modern readers might not immediately grasp, you'll need to show the consequences for others who've defied the system. Readers need to see what's at stake before the protagonist risks it.*
 
 _______________________________________________________________
 
@@ -792,6 +796,14 @@ Your romantic bond will fall somewhere along this spectrum:
 **Where does your bond sit on this spectrum?**
 
 *Knowing your position helps you calibrate how much agency work your story needs. Full compulsion requires the most; choice within fate requires moderate work; fate as conflict builds agency into the premise.*
+
+_______________________________________________________________
+
+**What does the bond feel like to your characters -- physically, emotionally?**
+
+*Hint: A warmth in the chest, a tug behind the ribs, a voice they can't shut out? Sensory details make bonds real on the page and help readers feel the pull your characters are choosing to follow or resist.*
+
+_______________________________________________________________
 
 _______________________________________________________________
 

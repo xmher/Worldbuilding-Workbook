@@ -223,15 +223,23 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How does resource control create inequality, tension, or power imbalance?**
+**How does resource control create inequality, tension, or power imbalance between your characters?**
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Romantasy Connection:** Does resource scarcity or control affect your characters' relationship?
+**What happens to ordinary people when this resource runs short?**
 
-Does one control something the other needs? Does fighting over resources force proximity? Does an economic alliance require their union?
+*Scarcity at the ground level — empty markets, rationed water, families choosing which child to feed — gives your world texture and gives your romance real stakes. If resource conflict only exists at the political level, it feels abstract.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How does resource scarcity or control affect your characters' relationship?**
+
+*Hint: Does one character control something the other needs? Does fighting over resources force proximity? Does an economic alliance require their union?*
 
 _______________________________________________________________
 
@@ -263,7 +271,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Does the bond raise consent or agency concerns — and how do your characters grapple with that?**
+**What consent problems does the bond create, and how do your characters deal with them?**
 
 *If magic compels attraction, forces proximity, or reveals private feelings without permission, the characters should acknowledge the tension. The best romantasy doesn't gloss over this.*
 
@@ -341,9 +349,17 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Romantasy Connection:** How does the magic economy affect your romance?
+**What does magic look, sound, smell, or feel like when someone uses it?**
 
-Does one profit from magic while the other suffers? Economic inequality between magical and non-magical? Does magical ability determine social class and therefore marriageability?
+*Sensory details make magic real to your reader. If magic has a visible glow, a distinctive scent, or a physical sensation, it also becomes something that can give your characters away, create intimacy through shared experience, or mark them as different.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How does the magic economy affect your romance?**
+
+*Hint: Does one character profit from magic while the other suffers? Does magical ability determine social class and therefore marriageability?*
 
 _______________________________________________________________
 
@@ -399,9 +415,17 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Romantasy Connection:** Which law creates the biggest obstacle for your romance?
+**How are laws enforced in your world? Who does the enforcing?**
 
-Is their relationship illegal, politically inconvenient, or magically dangerous?
+*Guards, magistrates, magical wards, religious police, community shaming? The enforcement mechanism determines how easy or hard it is for your characters to break a rule — and how intimate the risk of getting caught feels.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Which law creates the biggest obstacle for your romance?**
+
+*Hint: Is their relationship illegal, politically inconvenient, or magically dangerous?*
 
 _______________________________________________________________
 
@@ -455,9 +479,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Romantasy Connection:** How does your romance violate or challenge cultural values?
+**What cultural value does your romance threaten?**
 
-Does their relationship represent something the culture fears? Does choosing love mean rejecting cultural identity?
+*Hint: Does their relationship represent something the culture fears? Does choosing love mean rejecting cultural identity?*
 
 _______________________________________________________________
 
@@ -573,9 +597,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Romantasy Connection:** What daily life difference creates friction?
+**What daily life difference creates friction between your characters?**
 
-Different social classes? One takes for granted what the other struggles for? What misunderstanding arises from different lived experiences?
+*Hint: Different social classes? One takes for granted what the other struggles for? What misunderstanding arises from different lived experiences?*
 
 _______________________________________________________________
 
@@ -591,6 +615,14 @@ _______________________________________________________________
 | | | | |
 | | | | |
 | | | | |
+
+**What is one small, sensory detail from your protagonist's daily life that the love interest would find strange or fascinating?**
+
+*Hint: Think about food, sleep, hygiene, greetings, personal space. The most memorable romantic moments in fantasy often come from these small collisions.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 
@@ -715,6 +747,14 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+**How does your antagonist's existence make the romance harder -- not just the plot harder?**
+
+*Hint: The best antagonists don't just threaten the characters' lives. They threaten the relationship itself -- by representing the worldview the characters would have to share to stay safe, or by embodying the cost of the characters' defiance.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## System Trade-Offs
@@ -745,7 +785,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Do they face the same trade-off differently, or different trade-offs entirely?**
+**Do they face the same trade-off from opposite sides, or completely different ones?**
 
 *When protagonists face the same dilemma from opposite sides, every conversation becomes charged. When they face different dilemmas, they struggle to understand each other's stakes. Both create tension — but the romantic dynamics differ.*
 
@@ -873,9 +913,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Does their relationship model something new?**
+**What new possibility does their relationship show the world?**
 
-A new kind of alliance? Proof that old prejudices were wrong? A magical possibility no one knew existed? A path others might follow?
+*Hint: A new kind of alliance? Proof that old prejudices were wrong? A magical possibility no one knew existed? A path others might follow?*
 
 _______________________________________________________________
 
@@ -887,7 +927,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What work remains after their personal story ends?**
+**What does the world look like one year after their story ends? What has changed, and what still needs changing?**
 
 If systems need changing, does their union start that work? Continue it? Complete it? Or is their victory just the beginning of larger change?
 
@@ -926,11 +966,21 @@ _______________________________________________________________
 
 Productive tension gives difficult choices and interesting conflict. Plot holes make readers stop trusting the world.
 
+| Contradiction | Productive Tension or Plot Hole? | Your Fix (if plot hole) |
+| --- | --- | --- |
+| | | |
+| | | |
+| | | |
+
 If it's a plot hole, you need to:
 
 - Remove one contradictory element
 - Add a limitation explaining why both can exist
 - Make the contradiction itself part of the plot (why doesn't anyone notice this doesn't make sense?)
+
+**Which contradiction, if left unfixed, would most damage your reader's trust in your romance's stakes?**
+
+_______________________________________________________________
 
 ---
 
