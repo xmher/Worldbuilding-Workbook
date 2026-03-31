@@ -1460,3 +1460,12 @@ _______________________________________________________________
 ## Final Thought
 
 Without history, your characters' choices are made in a void. With history, each of your characters' choices can either continue a cycle or break it. A 500-year feud gives weight to reconciliation. "My ancestor killed yours" makes forgiveness costly. Make a history so that your characters will think that the current state of affairs is as destined as anything can be; then allow them to show us how the future doesn't have to be.
+
+---
+
+> **What's Next?**
+> Your world's history is the foundation beneath every conflict and every kiss. Now it's time to build what sits on top of it.
+> - **Magic System (Section 8):** How did historical events shape -- or get shaped by -- magic? Was magic the cause of your world's greatest catastrophe, or its greatest salvation?
+> - **Technology & Infrastructure (Section 9):** What survived, what was lost, and what was rebuilt? The ruins and artifacts you defined here need to match the technological reality of your world.
+> - **Government, Power & Law (Section 5):** Wars reshape who rules. Make sure the government your characters live under is a plausible product of the conflicts you've built here.
+> - **Religion, Myth & Prophecy (Section 6):** History becomes myth over time. Check that the legends and beliefs in your religion section align with (or deliberately distort) the events you've established here.
