@@ -18,7 +18,7 @@ When it comes to romantasy, the thing that is put on the altar is love. The ques
 
 Religion creates obstacles that feel different from every other kind. Rulers change, social issues can be overcome with a new group of people, but religious obstacles feel absolute, because they come from God, or the gods, or the fundamental structure of the universe. When a character defies religious law for love, they're not just breaking a rule. They're sinning. They're not just disappointing their family. They're risking their very soul. They're not just choosing love over duty. They're choosing love over everything they believe about how the world works.
 
-This is why it is so great, and also so simple to screw up.
+This is why it's so great, and also so simple to screw up.
 
 The problem lies in making religion an obstacle to be overcome, a wall to climb, and then once you've made it to the top, forgetting that it was there. But faith isn't a wall. It's a world. It gives comfort in death, meaning in pain, community in isolation, identity when everything else has been taken away. When your character sacrifices these things for love, the reader needs to understand the magnitude of what is being lost. In *Serpent & Dove*, Lou literally stands at the Church's altar when she marries Reid, a witch-hunter. She's the sacrifice the institution demands. In *Priory of the Orange Tree*, Ead has to decide between her sacred vows to the Priory and her love for Sabran, and the altar is the order itself, everything she has spent her life training for. In *From Blood and Ash*, Poppy has always been raised as the Maiden, a living offering to the gods, her entire identity built on being the sacrifice.
 
@@ -104,9 +104,9 @@ If religion is background in your world, keep it simple. Not every romantasy nee
 
 *With those common pitfalls in mind, let's start building. The foundation of any religious system is what people believe about the divine itself.*
 
-The first thing you have to decide is if there are higher powers in your world and if they are true.
+The first thing you have to decide is whether there are higher powers in your world and whether they're true.
 
-The implications for your romance will be huge. If gods are confirmed and active, then "faith" isn't really faith anymore - it's recognition of fact. Characters will not be able to question whether miracles occur when miracles occur all the time. If gods are undetermined or absent, then characters may struggle with whether they believe at all, or if they just obey. And as far as the love story goes, this determines if defying the laws of the divine will result in the anger of a real being who may seek retaliation, or if breaking from tradition has no supernatural enforcement.
+The implications for your romance will be huge. If gods are confirmed and active, then "faith" isn't really faith anymore - it's recognition of fact. Characters won't be able to question whether miracles occur when miracles occur all the time. If gods are undetermined or absent, then characters may struggle with whether they believe at all, or if they just obey. And as far as the love story goes, this determines if defying the laws of the divine will result in the anger of a real being who may seek retaliation, or if breaking from tradition has no supernatural enforcement.
 
 How you define your theological structure creates the potential for various types of stories. With multiple gods available, characters can seek patronage from individual gods, use the deities against one another, or serve different masters. A world with one god provides clearer moral stakes but leaves less room for religious diversity.
 
@@ -564,7 +564,7 @@ If your love interest is a heretic beloved, use the four stages above to trace h
 
 ### Resolution: Redemption or Redefinition?
 
-Your heretical love interest story can follow either of these paths. Which path you are writing will define the direction your story takes.
+Your heretical love interest story can follow either of these paths. Which path you're writing will define the direction your story takes.
 
 The Redemption Path: The condemned beloved is purified, converted, cured, or revealed as uniquely exception-worthy. The protagonist's original moral map stays largely intact. The couple is re-admitted to the moral community. A great way to go about it if the story is looking to demonstrate that the faith is generally correct, but simply made a mistake regarding this particular circumstance.
 
@@ -764,7 +764,7 @@ The crisis often starts with a question that won't go away. Why would a loving G
 
 Reid's crisis of faith in *Serpent & Dove* is a process of degradation. As a "blade of the Church," he has built his entire identity around the concept that witches are irredeemable monsters. His arranged marriage to Lou, a secret witch, is the first step into a long process of a "soul ache" as his experiences contrast with the teachings he received from the Church. The realization that the Archbishop uses scripture to punish instead of to save, and that Reid is actually the son of a witch, destroys the black-and-white world of purity his faith was built on. He is the very thing he was raised to kill.
 
-Poppy's crisis of faith in *From Blood and Ash* is a complete destruction. She learns that the gods she has been raised to worship do not exist and the "Ascended" are predators that feed on the people they say they protect. Her crisis of faith ultimately ends with her proving the entire system is a house of cards, however, she loses everything she had believed about herself in the process.
+Poppy's crisis of faith in *From Blood and Ash* is a complete destruction. She learns that the gods she's been raised to worship don't exist and the "Ascended" are predators that feed on the people they say they protect. Her crisis of faith ultimately ends with her proving the entire system is a house of cards, however, she loses everything she had believed about herself in the process.
 
 You want to create a crisis of faith as a process. You want to depict the character experiencing several stages: attempting to hold onto their faith stronger, becoming angry at their god, making deals for exceptions, mourning the loss of what they believed in. Allow them to try the old comforts - prayer, ritual, sacred texts - and demonstrate how these efforts work less and less well, or differently than before. Portray the physical sensations of faith crisis: the hollow feeling where certainty used to be, the vertigo of having no ground, the loneliness of losing something that connected them to community and meaning. If faith is rebuilt, show it as something different than before. Scarred, harder-won, more honest. The crisis isn't resolved by finding the right argument; it's resolved by learning to live without certainty, or by finding a different kind of faith entirely.
 
@@ -984,7 +984,7 @@ You should write your sacred space to be distinguishable from the moment of entr
 **What sacred locations exist?**
 Sacred spaces can serve as sanctuary, meeting place, or site of spiritual reckoning for your characters.
 
-**What sacred spaces exist in your world — temples, shrines, natural sacred sites, pilgrimage destinations, forbidden holy places? Describe them and who is allowed to enter.**
+**What sacred spaces exist in your world: temples, shrines, natural sacred sites, pilgrimage destinations, forbidden holy places? Describe them and who's allowed to enter.**
 
 *(Write your answer below)*
 
@@ -995,7 +995,7 @@ Sacred spaces can serve as sanctuary, meeting place, or site of spiritual reckon
 &nbsp;
 
 **What makes a space sacred?**
-*What makes a space sacred determines what it means when your characters enter — or defile — that space. A temple consecrated by divine presence carries different weight than a grove made holy by history.*
+*What makes a space sacred determines what it means when your characters enter, or defile, that space. A temple consecrated by divine presence carries different weight than a grove made holy by history.*
 
 
 _______________________________________________________________
@@ -1003,7 +1003,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What happens between your characters at a sacred site?**
-*Do they meet there? Seek blessing? Take sanctuary? Perform a forbidden ritual? Sacred spaces intensify whatever happens inside them — intimacy feels more transgressive, confessions feel more binding.*
+*Do they meet there? Seek blessing? Take sanctuary? Perform a forbidden ritual? Sacred spaces intensify whatever happens inside them; intimacy feels more transgressive, confessions feel more binding.*
 
 
 _______________________________________________________________
@@ -1011,7 +1011,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **Where are vows made binding, and where are certain unions forbidden?**
-*Is there sacred ground where promises can't be broken? Temples where certain people aren't allowed to enter together? Places where a blessing — or a curse — becomes permanent?*
+*Is there sacred ground where promises can't be broken? Temples where certain people aren't allowed to enter together? Places where a blessing, or a curse, becomes permanent?*
 
 
 _______________________________________________________________
@@ -1022,7 +1022,7 @@ _______________________________________________________________
 
 ## Ritual & Ceremony
 
-*You've mapped sacred time and sacred space. Now bring them together — ritual is where time, place, and obligation converge into scenes that change everything.*
+*You've mapped sacred time and sacred space. Now bring them together. Ritual is where time, place, and obligation converge into scenes that change everything.*
 
 Religious rituals are among the most emotionally charged scenes in romantasy and the most structurally potent. Weddings, funerals, vow-taking ceremonies, initiation rites, fertility festivals. The most important thing to understand about religious rituals in romantasy is that they are NOT just pretty decorations. They're the sites where obligation and desire get twisted together, where a person's personal feelings are turned into public property, and where characters are forced across thresholds they can't uncross.
 
@@ -1054,7 +1054,7 @@ Think about weddings, initiations, vow-taking ceremonies, funerals, fertility ri
 
 &nbsp;
 
-**What does your character become after the ritual — and what do they lose?**
+**What does your character become after the ritual, and what do they lose?**
 *Initiations, ascensions, and species changes are identity thresholds. The person who walks in isn't the person who walks out. Think about what's gained and what's permanently left behind.*
 
 _______________________________________________________________
@@ -1062,7 +1062,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What happens when the mask slips during a public ceremony?**
-*The most charged ritual scenes happen when an audience is watching. What does the congregation see if your character's true feelings — or true nature — become visible at the worst possible moment?*
+*The most charged ritual scenes happen when an audience is watching. What does the congregation see if your character's true feelings, or true nature, become visible at the worst possible moment?*
 
 _______________________________________________________________
 
@@ -1073,10 +1073,10 @@ _______________________________________________________________
 
 | Function | How It Works in Your Ritual | The Specific Moment |
 |----------|---------------------------|-------------------|
-| *Restraint as fuel — what can't they do or say during the ceremony?* | *At the forced marriage, Lou can't reveal she's a witch. The wedding vows are a lie she has to speak in front of the entire Church.* | *The moment their hands touch during the vow — the only permitted contact, and it has to carry everything they can't say* |
-| Restraint as fuel — what can't they do or say during the ceremony? | | |
-| Ritual as transition — what does the character become, and what do they lose? | | |
-| Public stakes — who's watching, and what happens if the mask slips? | | |
+| *Restraint as fuel: what can't they do or say during the ceremony?* | *At the forced marriage, Lou can't reveal she's a witch. The wedding vows are a lie she has to speak in front of the entire Church.* | *The moment their hands touch during the vow, the only permitted contact, and it has to carry everything they can't say* |
+| Restraint as fuel: what can't they do or say during the ceremony? | | |
+| Ritual as transition: what does the character become, and what do they lose? | | |
+| Public stakes: who's watching, and what happens if the mask slips? | | |
 
 **Is your key ritual completed or broken? Why?**
 *Completed rituals (the forced marriage that becomes real) build slow-burn tension. Broken rituals (the wedding that falls apart) create explosive turning points. Either works, but know which you're writing and why.*
@@ -1089,13 +1089,13 @@ _______________________________________________________________
 
 ## Religious Community & Belonging
 
-*Rituals mark the turning points, but community is the everyday fabric. What your characters stand to lose isn't just a god — it's a whole world of people.*
+*Rituals mark the turning points, but community is the everyday fabric. What your characters stand to lose isn't just a god; it's a whole world of people.*
 
 Religious communities give individuals their sense of belonging, their identity as members of a group, their source of support from others, and a social structure to organise their lives. When someone leaves or is rejected by a religious group, they lose every single one of those things.
 
-What distinguishes religious communities from other types of social networks is how comprehensive many of them are. They are the people you celebrate holidays with, the people who help you when your parent dies, the people where you make your close friends. So when someone leaves or is rejected by this community, they don't just lose the opportunity to participate in social activities - they lose an entire way of life.
+What distinguishes religious communities from other types of social networks is how comprehensive many of them are. They're the people you celebrate holidays with, the people who help you when your parent dies, the people where you make your close friends. So when someone leaves or is rejected by this community, they don't just lose the opportunity to participate in social activities; they lose an entire way of life.
 
-So instead of asking "what does their religion forbid?" ask "what would they lose if they left?" In many cases, it is not simply a matter of losing their faith.
+So instead of asking "what does their religion forbid?" ask "what would they lose if they left?" In many cases, it isn't simply a matter of losing their faith.
 
 **What religious community do your characters belong to?**
 Community is often what people lose first when they defy religious rules. What support, identity, and belonging would they sacrifice?
@@ -1146,7 +1146,7 @@ _______________________________________________________________
 
 ## The Afterlife & Sacrifice
 
-*Your characters now have a community they could lose. But what about what comes after this life — does forbidden love follow them beyond death?*
+*Your characters now have a community they could lose. But what about what comes after this life? Does forbidden love follow them beyond death?*
 
 The way we think about death affects every part of our lives; it shapes our fears, and it can lead us to do things we would never have done before. Characters who believe in reunion after death approach sacrifice differently than those who believe death is final. And for romance, afterlife beliefs determine whether dying for love feels like ending or beginning, and whether loving the wrong person means eternal damnation or eternal separation.
 
@@ -1173,7 +1173,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What do people do — or refuse to do — because of what they believe happens after death?**
+**What do people do, or refuse to do, because of what they believe happens after death?**
 *Think about the everyday impact: oaths sworn on the afterlife, fear of damnation keeping people in line, comfort offered to the grieving. These beliefs shape what people are willing to risk.*
 
 
@@ -1206,7 +1206,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What happens to their soul if they choose each other?**
-*Does loving the "wrong" person damn them? Does true love grant salvation? Are they sentenced to separate afterlives? The eternal consequences — real or believed — raise the stakes beyond anything in this life.*
+*Does loving the "wrong" person damn them? Does true love grant salvation? Are they sentenced to separate afterlives? The eternal consequences, real or believed, raise the stakes beyond anything in this life.*
 
 
 _______________________________________________________________
@@ -1217,7 +1217,7 @@ _______________________________________________________________
 
 ## Mythology, Prophecy & Destiny
 
-*You've built the lived religion — institutions, laws, community, guilt, and the afterlife. Now step back to the stories that came before all of it: the myths that shape how your characters understand love, fate, and what they owe the gods.*
+*You've built the lived religion: institutions, laws, community, guilt, and the afterlife. Now step back to the stories that came before all of it, the myths that shape how your characters understand love, fate, and what they owe the gods.*
 
 Every religion has its founding stories. The tales that explain how things came to be and how people should live. These stories shape how believers understand love, duty, sacrifice, and transgression. And prophecy adds the ultimate layer: are they fated to be together, or fated to destroy each other? If fate has decided, does their choice even matter?
 
@@ -1238,7 +1238,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **How do people in your world explain natural phenomena through myth?**
-*Storms, eclipses, seasons, earthquakes, strange creatures — what stories do people tell to make sense of the unexplainable? These myths reveal what your culture fears and values, and they give characters a shared language for interpreting events.*
+*Storms, eclipses, seasons, earthquakes, strange creatures: what stories do people tell to make sense of the unexplainable? These myths reveal what your culture fears and values, and they give characters a shared language for interpreting events.*
 
 
 _______________________________________________________________
@@ -1303,7 +1303,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **Who delivers prophecies, and how much do people trust them?**
-*An oracle in a grand temple carries different weight than a beggar raving in the street. Think about whether prophecy is respected, feared, or dismissed — and whether different characters react differently to the same prophecy.*
+*An oracle in a grand temple carries different weight than a beggar raving in the street. Think about whether prophecy is respected, feared, or dismissed, and whether different characters react differently to the same prophecy.*
 
 
 _______________________________________________________________
@@ -1384,7 +1384,7 @@ How you handle prophecy shapes whether love feels chosen or predetermined. Most 
 - ☐ Multiple interpretations exist: different readings create different expectations
 
 **What is the moment they stop following prophecy and start choosing each other?**
-*This is the scene where destiny becomes a decision — where the character claims love as their own choice rather than something fate handed them.*
+*This is the scene where destiny becomes a decision, where the character claims love as their own choice rather than something fate handed them.*
 
 
 _______________________________________________________________
@@ -1441,7 +1441,7 @@ _______________________________________________________________
 
 ## Religious Difference & Interfaith Love
 
-*Everything so far has assumed your characters share a faith. But what happens when they don't — when the person they love prays to different gods entirely?*
+*Everything so far has assumed your characters share a faith. But what happens when they don't, when the person they love prays to different gods entirely?*
 
 When people from different faiths fall in love, they must navigate not just their own beliefs but each other's, and often, the mutual hostility between their religious communities.
 
@@ -1484,7 +1484,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **Would one of them have to change faith to marry the other?**
-*Is conversion a practical formality — saying the right words, going through the motions — or would it mean genuinely betraying everything they believe?*
+*Is conversion a practical formality, saying the right words, going through the motions, or would it mean genuinely betraying everything they believe?*
 
 
 _______________________________________________________________
@@ -1528,7 +1528,7 @@ Conversion for love raises questions about authenticity, sacrifice, and identity
 
 *You've built every layer of your world's religion. Now bring it all back to the question this section opened with: what goes on the altar?*
 
-Now that you've built your world's religion — its gods, institutions, laws, rituals, communities, and myths — return to the Altar Principle from the opening of this section. You now have the foundation to answer these questions with real weight behind them.
+Now that you've built your world's religion, its gods, institutions, laws, rituals, communities, and myths, return to the Altar Principle from the opening of this section. You now have the foundation to answer these questions with real weight behind them.
 
 ### How Religion Creates Romantic Tension
 
@@ -1557,15 +1557,15 @@ Religion creates romantic tension through three channels, and each one operates 
 | The heretic beloved | The love interest IS what the religion condemns, not rule-breaking but ontological taboo | Epistemic crisis, moral identity collapse, forced reclassification of "evil" |
 
 **Which of these patterns fits your romance?**
-*Pick one or two from the table above. You don't need to use them all — just the ones that create the most tension for your specific characters. You can combine patterns (e.g., "the sacred veil" plus "the heretic beloved").*
+*Pick one or two from the table above. You don't need to use them all, just the ones that create the most tension for your specific characters. You can combine patterns (e.g., "the sacred veil" plus "the heretic beloved").*
 
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What is your character's altar — the thing they're forced to lay down?**
-*The altar is the sacrifice your religion demands. In* Serpent & Dove, *Lou is literally the sacrifice the Church demands. In* Priory, *Ead must lay down her sisterhood and sacred purpose. What does your character have to give up — and is love the offering (what they place on the altar willingly) or the sacrifice (what the altar takes from them)?*
+**What's your character's altar, the thing they're forced to lay down?**
+*The altar is the sacrifice your religion demands. In* Serpent & Dove, *Lou is literally the sacrifice the Church demands. In* Priory, *Ead must lay down her sisterhood and sacred purpose. What does your character have to give up, and is love the offering (what they place on the altar willingly) or the sacrifice (what the altar takes from them)?*
 
 _______________________________________________________________
 
@@ -1592,7 +1592,7 @@ _______________________________________________________________
 |---------|-----------|----------------------|
 | Primary religious obstacle | | Sworn to a celibate order; love means breaking sacred vows |
 | What faith demands | | Lifelong virginity, devotion, protection of the queen |
-| What they'd lose by violating religious law | | Sisterhood, purpose, identity — everything she trained for |
+| What they'd lose by violating religious law | | Sisterhood, purpose, identity, everything she trained for |
 | The prophecy (if applicable) | | The Nameless One will rise; is love distraction or strength? |
 | Key holy day or sacred time | | The vigil before final vows: the last moment to choose |
 | Religious consequence if they're together | | Expulsion; seen as corrupted and fallen |
@@ -1614,10 +1614,10 @@ Your characters may be religious whether you are or not. Their faith should feel
 
 ## What's Next
 
-You've built the spiritual foundation of your world — gods, institutions, laws, myths, and the personal faith of your characters. Here's where to take it from here:
+You've built the spiritual foundation of your world: gods, institutions, laws, myths, and the personal faith of your characters. Here's where to take it from here:
 
-- **History & Lore (Section 7):** Your religion has a past. How did it rise, reform, or fracture over time? The historical events you build there should be consistent with the myths and schisms you defined here.
-- **Magic System (Section 8):** If magic and religion overlap in your world, Section 8 is where you'll define the mechanics. Make sure what you established about divine gifts, heresy, and magical consequences holds up under a systematic framework.
-- **Government, Power & Law (Section 5):** Religious authority and political authority almost always interact. Whether your world is a theocracy or keeps church and state firmly separate, those power dynamics need to be consistent across both sections.
-- **Culture, Customs & Daily Life (Section 3):** The daily practices, taboos, and rituals you built here should show up in the texture of everyday life. Section 3 is where you'll flesh out how faith looks when nobody is at the altar.
-- **The Pressure Cooker (Section 13):** When you're ready to stress-test your religion against your romance, the Pressure Cooker will force your characters into the hardest choices. Bring your altar question with you.
+- **History & Lore (Section 7).** Your religion has a past. How did it rise, reform, or fracture over time? The historical events you build there should be consistent with the myths and schisms you defined here.
+- **Magic System (Section 8).** If magic and religion overlap in your world, Section 8 is where you'll define the mechanics. Make sure what you established about divine gifts, heresy, and magical consequences holds up under a systematic framework.
+- **Government, Power & Law (Section 5).** Religious authority and political authority almost always interact. Whether your world is a theocracy or keeps church and state firmly separate, those power dynamics need to be consistent across both sections.
+- **Culture, Customs & Daily Life (Section 3).** The daily practices, taboos, and rituals you built here should show up in the texture of everyday life. Section 3 is where you'll flesh out how faith looks when nobody's at the altar.
+- **The Pressure Cooker (Section 13).** When you're ready to stress-test your religion against your romance, the Pressure Cooker will force your characters into the hardest choices. Bring your altar question with you!

@@ -149,7 +149,7 @@ _______________________________________________________________
 
 **Why it hurts your romance:** If magic can solve any problem, romantic obstacles dissolve. "We can't be together because of the magical barrier" falls apart if magic has already been shown solving bigger problems with no consequence. Limits create stakes, and stakes create romance.
 
-**How to fix it:** Define what magic cannot do and stick to it. Ask: why hasn't magic solved poverty, disease, war, or death? The answer reveals what's fundamentally broken in your world, and what stakes remain meaningful. In *Uprooted*, magic's cost in exhaustion and corruption means every use is a genuine sacrifice.
+**How to fix it:** Define what magic can't do and stick to it. Ask: why hasn't magic solved poverty, disease, war, or death? The answer reveals what's fundamentally broken in your world, and what stakes remain meaningful. In *Uprooted*, magic's cost in exhaustion and corruption means every use is a genuine sacrifice.
 
 **What can't magic do? What problems does it fail to solve?**
 
@@ -331,7 +331,7 @@ _______________________________________________________________
 
 *Labour disruption creates class resentment, displaced communities, and characters whose identities are tied to skills that no longer matter. All rich ground for romance across a divide.*
 
-(Reference Section 4 for labor and economic structures)
+(Reference Section 4 for labour and economic structures)
 
 _______________________________________________________________
 
@@ -433,7 +433,7 @@ _______________________________________________________________
 
 **If they break this law, what are the specific, concrete consequences?**
 
-Not just "scandal" — actual legal punishment (reference Section 5 for justice system):
+Not just "scandal," but actual legal punishment (reference Section 5 for justice system):
 
 _______________________________________________________________
 
@@ -455,13 +455,13 @@ _______________________________________________________________
 
 (Values from Section 3 should manifest in laws from Section 5)
 
-If honor is valued — dueling laws? If lineage matters — inheritance complications? If magical power is valued — special legal status for mages?
+If honour is valued, duelling laws? If lineage matters, inheritance complications? If magical power is valued, special legal status for mages?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What is taboo or shameful — and why?**
+**What's taboo or shameful, and why?**
 
 What threatens social order, challenges power, violates religion, connects to historical trauma?
 
@@ -473,7 +473,7 @@ _______________________________________________________________
 
 **How do taboos connect to practical realities?**
 
-If magic is forbidden — because mages once conquered? If inter-species relationships are taboo — past war created prejudice? If showing emotion is shameful — harsh environment requires stoicism?
+If magic is forbidden, because mages once conquered? If inter-species relationships are taboo, past war created prejudice? If showing emotion is shameful, harsh environment requires stoicism?
 
 _______________________________________________________________
 
@@ -495,7 +495,7 @@ _______________________________________________________________
 
 Religious systems are among the biggest, most emotionally charged obstacles to romance in romantasy because they operate on the level of identity, not just law. Political laws can be broken with courage. Cultural taboos can be defied with willpower. But religious convictions live inside a character's soul. They shape what they believe about themselves, what they think they deserve, and whether their desires are sacred or sinful. When love conflicts with faith, the character isn't just risking punishment. They're risking damnation, or the loss of who they believe themselves to be.
 
-Poppy's role as the Maiden in *From Blood and Ash* is defined by religious prohibition: her life is "solitary, never to be touched, never to experience pleasure." Falling in love with Hawke isn't just forbidden. It's blasphemous. Each stolen moment is a moment of divine transgression, and that weight makes each moment feel dangerously earned. In *The Priory of the Orange Tree*, Riva's vow of celibacy to the Nameless Order pits his faith against his heart, and when he chooses love over his vow, it's an act of individual autonomy and a significant moment in defining what's sacred. Obstacles like these are not arbitrary. They represent fundamental conflicts of identity in which the choice to love is also the choice to redefine what's holy.
+Poppy's role as the Maiden in *From Blood and Ash* is defined by religious prohibition: her life is "solitary, never to be touched, never to experience pleasure." Falling in love with Hawke isn't just forbidden. It's blasphemous. Each stolen moment is a moment of divine transgression, and that weight makes each moment feel dangerously earned. In *The Priory of the Orange Tree*, Riva's vow of celibacy to the Nameless Order pits his faith against his heart, and when he chooses love over his vow, it's an act of individual autonomy and a significant moment in defining what's sacred. Obstacles like these aren't arbitrary. They represent fundamental conflicts of identity in which the choice to love is also the choice to redefine what's holy.
 
 **Does your world have an organised religion or belief system?** If so, what does it demand of its followers? Vows, rituals, prohibitions, codes of behaviour? Religious demands that touch on love, marriage, desire, or bodily autonomy are where your romance will collide with faith.
 
@@ -505,7 +505,7 @@ _______________________________________________________________
 
 **Does your religion impose restrictions on love, desire, or partnership?**
 
-*These are the specific mechanisms that create romantic obstacles — vows of celibacy, prohibitions on cross-faction unions, arranged marriage requirements, purity rituals. Map the restrictions that matter most for your romance.*
+*These are the specific mechanisms that create romantic obstacles: vows of celibacy, prohibitions on cross-faction unions, arranged marriage requirements, purity rituals. Map the restrictions that matter most for your romance.*
 
 | Religious Restriction | Who It Applies To | What It Forbids | What Happens If Broken |
 | --- | --- | --- | --- |
@@ -523,7 +523,7 @@ _______________________________________________________________
 
 **Does your world distinguish between "sacred bonds" (arranged, ordained, prophesied) and "chosen bonds" (personal love)?**
 
-*This is one of the richest conflicts in romantasy. The strongest versions make both bonds feel legitimate — so breaking the sacred one costs something real.*
+*This is one of the richest conflicts in romantasy. The strongest versions make both bonds feel legitimate, so breaking the sacred one costs something real.*
 
 **If your world distinguishes between 'sacred bonds' (arranged, ordained, prophesied) and 'chosen bonds' (personal love), describe both, why they conflict, and what breaking the sacred bond costs.**
 
@@ -537,7 +537,7 @@ _______________________________________________________________
 
 **Are there religious authority figures who enforce these restrictions?**
 
-*Religious enforcers carry both institutional power and moral authority — defying them feels weightier than defying a political figure alone. The High Priest in FBAA and the Celestial Emperor in Daughter of the Moon Goddess aren't just political obstacles. They claim divine mandate.*
+*Religious enforcers carry both institutional power and moral authority, and defying them feels weightier than defying a political figure alone. The High Priest in FBAA and the Celestial Emperor in Daughter of the Moon Goddess aren't just political obstacles. They claim divine mandate.*
 
 _______________________________________________________________
 
@@ -545,7 +545,7 @@ _______________________________________________________________
 
 **Do the gods (or divine forces) in your world take an active interest in your characters' romance?**
 
-*Divine intervention can work for or against the lovers. If your world has active deities, their stance on the romance — blessing, opposing, or engineering it — raises stakes significantly.*
+*Divine intervention can work for or against the lovers. If your world has active deities, their stance on the romance (blessing, opposing, or engineering it) raises stakes significantly.*
 
 _______________________________________________________________
 
@@ -553,7 +553,7 @@ _______________________________________________________________
 
 **How does your romance interact with your faith system?**
 
-*The best faith-based romantic obstacles are ones where choosing love requires the character to redefine what's sacred — not abandon faith entirely, but find a deeper truth within it.*
+*The best faith-based romantic obstacles are ones where choosing love requires the character to redefine what's sacred, not abandon faith entirely, but find a deeper truth within it.*
 
 **How does your romance interact with your world's faith system? Does it violate a religious law, break a sacred vow, fulfil an unexpected prophecy, prove a doctrine wrong, or challenge a corrupt authority? What does this cost the character, and what does it reveal about the faith?**
 
@@ -607,7 +607,7 @@ _______________________________________________________________
 
 **Map the small collisions between your protagonists' daily lives.**
 
-*These aren't the big political or magical differences — they're the mundane ones. What feels normal to one and alien to the other? These small frictions reveal how far apart two people really are, and bridging them is part of falling in love.*
+*These aren't the big political or magical differences; they're the mundane ones. What feels normal to one and alien to the other? These small frictions reveal how far apart two people really are, and bridging them is part of falling in love.*
 
 | Daily Habit or Assumption | Character Who Has It | How the Other Character Reacts | What It Reveals About Their Divide |
 | --- | --- | --- | --- |
@@ -660,14 +660,14 @@ If a system isn't connected, don't panic. Don't leave it alone either. Below are
 
 | The Decision | System It Affects | What Changes | Next System It Ripples Into |
 | --- | --- | --- | --- |
-| *Anti-magic law (politics)* | *History* | *Rooted in a past mage rebellion* | *Culture — prejudice against mage-born* |
+| *Anti-magic law (politics)* | *History* | *Rooted in a past mage rebellion* | *Culture: prejudice against mage-born* |
 | | | | |
 | | | | |
 | | | | |
 
 **Shared origin:** What single historical event could connect two systems that currently feel unrelated?
 
-*The event doesn't need to be dramatic — a famine, a discovery, a treaty can reshape multiple systems at once.*
+*The event doesn't need to be dramatic; a famine, a discovery, a treaty can reshape multiple systems at once.*
 
 _______________________________________________________________
 
@@ -723,7 +723,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Does defeating the antagonist require changing the system — or just removing one person?**
+**Does defeating the antagonist require changing the system, or just removing one person?**
 
 If removing the antagonist doesn't change the system, will another antagonist rise? Does lasting change require more than victory?
 
@@ -733,7 +733,7 @@ _______________________________________________________________
 
 **If defeating the antagonist doesn't change the system, what else needs to change?**
 
-*Map the systemic changes required for your protagonists' victory to be lasting — not just personal. If removing the antagonist leaves the oppressive system intact, the happy ending hasn't truly been earned.*
+*Map the systemic changes required for your protagonists' victory to be lasting, not just personal. If removing the antagonist leaves the oppressive system intact, the happy ending hasn't truly been earned.*
 
 _______________________________________________________________
 
@@ -759,7 +759,7 @@ _______________________________________________________________
 
 ## System Trade-Offs
 
-The struggle between two good things creates interesting choices for characters. The natural result of connected systems is the trade-offs that drive the most compelling romantic tension. Not "good vs. evil" but "good vs. good". Two things the character values that cannot coexist.
+The struggle between two good things creates interesting choices for characters. The natural result of connected systems is the trade-offs that drive the most compelling romantic tension. Not "good vs. evil" but "good vs. good". Two things the character values that can't coexist.
 
 In *Fourth Wing*, Violet finds herself at exactly this crossroads: loyalty to her nation and her mother's legacy (duty, honour, the identity she's built her life around) vs. the truth Xaden represents about the war (justice, honesty, a future that requires dismantling what she's been taught to believe). Each option has real value. There are no bad guys here. And the romance forces her to confront a choice she could have avoided if she'd never let him close enough to matter.
 
@@ -787,7 +787,7 @@ _______________________________________________________________
 
 **Do they face the same trade-off from opposite sides, or completely different ones?**
 
-*When protagonists face the same dilemma from opposite sides, every conversation becomes charged. When they face different dilemmas, they struggle to understand each other's stakes. Both create tension — but the romantic dynamics differ.*
+*When protagonists face the same dilemma from opposite sides, every conversation becomes charged. When they face different dilemmas, they struggle to understand each other's stakes. Both create tension, but the romantic dynamics differ.*
 
 _______________________________________________________________
 
@@ -799,7 +799,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What does each character choose — and what does that choice cost?**
+**What does each character choose, and what does that choice cost?**
 
 Protagonist chooses: ____________________________________________
 
@@ -827,7 +827,7 @@ Romantasy is at its best when the relationship has weight beyond the couple them
 
 **Trace each obstacle to specific worldbuilding:**
 
-Obstacle 1 exists because of (which law, cultural value, magical rule, political reality, economic pressure — reference specific sections):
+Obstacle 1 exists because of (which law, cultural value, magical rule, political reality, economic pressure; reference specific sections):
 
 _______________________________________________________________
 
@@ -853,7 +853,7 @@ _______________________________________________________________
 
 **Does this forced proximity connect to at least two other systems?**
 
-Example: A magical bond (Section 10) required by law (Section 5) because historically bonded pairs were weapons (Section 7) and now the kingdom is at war (Section 5 — warfare).
+Example: A magical bond (Section 10) required by law (Section 5) because historically bonded pairs were weapons (Section 7) and now the kingdom is at war (Section 5, warfare).
 
 _______________________________________________________________
 
