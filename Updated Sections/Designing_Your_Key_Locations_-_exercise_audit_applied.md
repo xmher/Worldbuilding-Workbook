@@ -120,7 +120,7 @@ Not every question in this section will apply to every location. Some spaces are
 
 **Quick check: Are any of your planned scenes falling into these traps?**
 
-*Be honest — most first drafts have at least one "anywhere scene." Catching it now saves a rewrite later.*
+*Be honest: most first drafts have at least one "anywhere scene." Catching it now saves a rewrite later.*
 
 Any scenes that could happen anywhere? Which one, and how could you anchor it?
 

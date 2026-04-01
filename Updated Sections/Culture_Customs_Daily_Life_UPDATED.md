@@ -1,28 +1,28 @@
 # Culture, Customs & Daily Life
 **Daily routines, social rules, forbidden desires, slow-burn tension, courtship customs**
 
-> **How to Use This Section:** This is the largest section in the workbook — it covers everything from daily routines to courtship to exile. You do not need to answer every question. Questions marked **⬥ Core** are the essentials; start there. All other questions are Deep Dive — use them when you need more detail for a specific area of your story. Use the Section Map below to jump to what matters most, and skip anything that doesn't serve your romance.
+> **How to Use This Section:** This is the largest section in the workbook, covering everything from daily routines to courtship to exile. You don't need to answer every question. Questions marked **⬥ Core** are the essentials; start there. All other questions are Deep Dive, so use them when you need more detail for a specific area of your story. Use the Section Map below to jump to what matters most, and skip anything that doesn't serve your romance.
 
-Culture is the texture of your world. It's the unwritten rules everyone knows, the rituals that mark important moments, the things people do without thinking about them. How they greet each other, what they eat, what they believe about luck, how they raise their children, and what they do for fun. And in romantasy, culture is the invisible architecture that determines what your characters can and can't do, what it costs them to step out of line, and what hoops they have to jump through to be together.
+Culture is the texture of your world. It's the unwritten rules everyone knows, the rituals that mark important moments, the things people do without thinking about them. How they greet each other, what they eat, what they believe about luck, how they raise their children, and what they do for fun. And in romantasy, culture is the invisible architecture that determines what your characters can and can't do, what it costs them to step out of line, and what hoops they've got to jump through to be together.
 
 ---
 
 ## The "Invisible Cage" Principle
 
-Cultural boundaries create some of the most compelling constraints when they're so much a part of your character's world view that they are unseen by themselves. What we call love is what brings these into focus.
+Cultural boundaries create some of the most compelling constraints when they're so much a part of your character's world view that they're unseen by themselves. What we call love is what brings these into focus.
 
-A character who has never questioned arranged marriage doesn't experience it as oppression until they want to marry someone else. A character who assumes certain others are inferior to them does not recognise the limitations of their assumptions until they develop romantic feelings for one of those people. Those bars were always there. It's when your character wants something on the other side of those bars that they begin to realise there are limits.
+A character who's never questioned arranged marriage doesn't experience it as oppression until they want to marry someone else. A character who assumes certain others are inferior to them doesn't recognise the limitations of their assumptions until they develop romantic feelings for one of those people. Those bars were always there. It's when your character wants something on the other side of those bars that they begin to realise there are limits.
 
-Feyre in *ACOTAR* is an excellent illustration of this. She never questions Tamlin's protective nature or the rules of the Spring Court until she experiences Rhysand's Night Court, where she's given autonomy and actual choice. It was only through experiencing love from someone who treats her differently that Feyre realises the cage she has been living in. And the cage she had been living in was not due to Tamlin's cruelty. It was Feyre genuinely believing that was what love looked like.
+Feyre in *ACOTAR* is an excellent illustration of this. She never questions Tamlin's protective nature or the rules of the Spring Court until she experiences Rhysand's Night Court, where she's given autonomy and actual choice. It was only through experiencing love from someone who treats her differently that Feyre realises the cage she has been living in. And the cage she had been living in wasn't due to Tamlin's cruelty. It was Feyre genuinely believing that's what love looked like.
 
 What does your character take for granted that love will make them realise?
 
 - **Unquestioned norms:** "This is just how things are done." Until doing things differently becomes the only way to be with the person they want.
 - **Invisible hierarchies:** Differences in status that are normal to the character with the higher status but felt to be oppressive to the other character. The tension exists at the point when the privileged one finally sees it.
-- **Internalised shame:** Characters that feel unworthy of love because their culture taught them they are less than others. Their partner will need to battle those feelings along with each external challenge.
-- **Loyalty costs:** To choose love is to betray community, family, and tradition. The identity that the character held prior to love will no longer exist; the new identity will be one that their previous self would not recognise. That transformation *is* the story.
+- **Internalised shame:** Characters that feel unworthy of love because their culture taught them they're less than others. Their partner will need to battle those feelings along with each external challenge.
+- **Loyalty costs:** To choose love is to betray community, family, and tradition. The identity that the character held prior to love won't exist any more; the new one will be something that their previous self wouldn't recognise. That transformation *is* the story.
 
-The invisible cage works because culture creates identity. Disobeying the law is an action. Defying your culture is an identity crisis. When your characters choose to follow their heart rather than their traditions, they are not merely breaking rules. They're creating an entirely new identity for themselves, and that *is* the story.
+The invisible cage works because culture creates identity. Disobeying the law is an action. Defying your culture is an identity crisis. When your characters choose to follow their heart rather than their traditions, they aren't merely breaking rules. They're creating an entirely new identity for themselves, and that *is* the story.
 
 ### Brain Dump: What Does Your Culture Look Like?
 
@@ -30,7 +30,7 @@ Before mapping how culture creates romantic tension, get your initial vision dow
 
 **Describe your world's culture in broad strokes.**
 
-*What kind of society is this? What are the big rules everyone follows? What does daily life feel like? Don't worry about details yet — just get the general picture on the page.*
+*What kind of society is this? What are the big rules everyone follows? What does daily life feel like? Don't worry about details yet; just get the general picture on the page.*
 
 *(Write your answer below)*
 
@@ -42,7 +42,7 @@ Before mapping how culture creates romantic tension, get your initial vision dow
 
 **⬥ Core: What are the most important social rules people follow without questioning them?**
 
-*Think about hierarchy, gender, class, religion, family — what do people accept as "just the way things are"?*
+*Think about hierarchy, gender, class, religion, family. What do people accept as "just the way things are"?*
 
 _______________________________________________________________
 
@@ -177,17 +177,17 @@ If your world mirrors a real culture, focus on what's different. You don't need 
 
 **If class or status divides your characters:** Focus on Social Class, Manners & Etiquette, and Reputation.
 
-**If you're not sure yet:** Start with the Brain Dump and Core Values — you can always come back.
+**If you're not sure yet:** Start with the Brain Dump and Core Values. You can always come back.
 
 ### Section Map
 
 This section covers a lot of ground. Here's what's ahead so you can plan your time:
 
-- **Part 1: Foundations** — Values, Gender, Daily Life, Home, Family, Food, Architecture
-- **Part 2: Social Rules** — Religion, Superstitions, Manners, Hospitality, Entertainment, Humor, Oaths
-- **Part 3: Boundaries & Identity** — Taboos, Sexuality, Reputation, Privacy, Touch, Beauty, Dress
-- **Part 4: Milestones & Rituals** — Courtship, Tokens, Marriage, Death, Life Stages, Children, Work, Outsiders
-- **Part 5: Culture in Action** — Festivals, Exile, Social Hierarchy, Cultural Differences, Integration Check
+- **Part 1: Foundations** : Values, Gender, Daily Life, Home, Family, Food, Architecture
+- **Part 2: Social Rules** : Religion, Superstitions, Manners, Hospitality, Entertainment, Humour, Oaths
+- **Part 3: Boundaries & Identity** : Taboos, Sexuality, Reputation, Privacy, Touch, Beauty, Dress
+- **Part 4: Milestones & Rituals** : Courtship, Tokens, Marriage, Death, Life Stages, Children, Work, Outsiders
+- **Part 5: Culture in Action** : Festivals, Exile, Social Hierarchy, Cultural Differences, Integration Check
 
 ---
 
@@ -239,13 +239,13 @@ _______________________________________________________________
 
 ---
 
-Now that you've identified the broad shape of your culture and its potential pitfalls, it's time to dig into the specifics — starting with the beliefs that sit at the foundation of everything else.
+Now that you've identified the broad shape of your culture and its potential pitfalls, it's time to dig into the specifics, starting with the beliefs that sit at the foundation of everything else.
 
 ## Core Values & Worldview
 
 Every single culture teaches its own set of fundamental beliefs: the virtues people learn in childhood, the attributes that make a person worthy of respect, the shortcomings that lead to shame. Your characters develop as a result of being shaped by those belief systems, even when they resist.
 
-Because your characters are from different cultures, they have been raised on different values. So when their values collide (which will eventually happen), there is natural, authentic conflict. Allow your characters to grapple with fundamentally different views of life. The romance will grow stronger when they have to make genuine changes, not merely acceptance.
+Because your characters are from different cultures, they have been raised on different values. So when their values collide (which will eventually happen), there's natural, authentic conflict. Let your characters grapple with fundamentally different views of life. The romance will grow stronger when they have to make genuine changes, not merely acceptance.
 
 ### The Key Question
 
@@ -279,9 +279,9 @@ List 3-5 core values in order of importance:
 
 5. _______________________________________________________________
 
-**What does your culture consider shameful or dishonorable?**
+**What does your culture consider shameful or dishonourable?**
 
-The flip side of values — what brings disgrace:
+The flip side of values, what brings disgrace:
 
 _______________________________________________________________
 
@@ -359,7 +359,7 @@ _______________________________________________________________
 
 ---
 
-Values shape what your culture believes. Gender roles shape what your culture expects people to *do* — and that distinction matters for every relationship in your story.
+Values shape what your culture believes. Gender roles shape what your culture expects people to *do*, and that distinction matters for every relationship in your story.
 
 ## Gender Roles & Expectations
 
@@ -367,7 +367,7 @@ Gender (or equivalent social categories in your world) shapes behaviour, opportu
 
 Show gender constraints through small friction points rather than big dramatic confrontations: the dress that limits movement, the conversation she's excluded from, the assumption made about her desires without asking. Don't overlook the costs of conformity either: the mental fatigue, the emotional exhaustion, the sorrow for choices not made. The space between how society views your characters and how their lover views them is precisely where the romance lives.
 
-**⬥ Core: What roles and behaviors does your culture expect based on gender?**
+**⬥ Core: What roles and behaviours does your culture expect based on gender?**
 
 *What are people supposed to do, and what are they forbidden from doing? Focus on what affects your story.*
 
@@ -427,13 +427,13 @@ _______________________________________________________________
 
 ---
 
-Gender expectations set the boundaries. Now consider what happens inside those boundaries — the ordinary rhythms of life that romance will disrupt.
+Gender expectations set the boundaries. Now consider what happens inside those boundaries. Now consider what happens inside them: the ordinary rhythms of life that romance will disrupt.
 
 ## Daily Life & Routines
 
-To understand how culture shapes romantic experiences, you have to begin with how people live their lives. Romance occurs in the context of daily routines. Examining the patterns of living reveals when a couple will encounter each other and what is considered "normal."
+To understand how culture shapes romantic experiences, you have to begin with how people live their lives. Romance occurs in the context of daily routines. Examining the patterns of living reveals when a couple will encounter each other and what's considered "normal."
 
-The number of routines you choose to depict isn't as important as establishing a baseline for readers' perception of what is normal and how much of an impact a deviation from that norm has. A couple of lines about a character's morning rituals (they always take their tea; they always say their prayers) illustrate what a distraction or change means. Routine is a good method for developing character as well: what does the character do first? When in a rush, what does the character skip? What is the small comfort the character would never give up no matter what?
+The number of routines you choose to depict isn't as important as establishing a baseline for readers' perception of what's normal and how much of an impact a deviation from that norm has. A couple of lines about a character's morning rituals (they always take their tea; they always say their prayers) illustrate what a distraction or change means. Routine is a good method for developing character as well: what does the character do first? When in a rush, what does the character skip? What's the small comfort the character would never give up no matter what?
 
 As soon as romance enters into a character's routine, the reader will be able to sense the difference due to the prior knowledge of what was considered "normal." Their character begins to wake up thinking of someone. The regular walk back home has new feelings because there could be this person. These little changes resonate with the reader because the reader understands the context from before.
 
@@ -475,7 +475,7 @@ _______________________________________________________________
 
 **What do people do when they're not working?**
 
-Leisure, entertainment, socializing — what fills non-work hours?
+Leisure, entertainment, socialising. What fills non-work hours?
 
 _______________________________________________________________
 
@@ -513,15 +513,15 @@ _______________________________________________________________
 
 ---
 
-You've established how your characters move through the world. Now consider the spaces they move through — starting with where they live.
+You've established how your characters move through the world. Now consider the spaces they move through, starting with where they live.
 
 ## Home & Household
 
-Your home is the most intimate space in your world. It's the place where characters are most themselves. The way homes are constructed, how many people share them, and the amount of privacy they provide will determine when and where your characters can be vulnerable with each other. Homes shared with servants or other people create vastly different possibilities for romance than homes lived in alone.
+Your home is the most intimate space in your world. It's the place where characters are most themselves. The way homes are constructed, how many people share them, and the amount of privacy they provide all shape when and where your characters can be vulnerable with each other. Homes shared with servants or other people create vastly different possibilities for romance than homes lived in alone.
 
 How your point-of-view character reacts (or doesn't react) to what they see upon entering a home is an indicator of their past experience. A character raised in poverty will count every single thing of value; a character from wealth will likely never recognise anything about their surroundings as luxurious, but rather notice immediately if something feels wrong. Instead of saying "the home was rich" use specific objects like "silver candlesticks left casually on a side table, more books than she'd seen in her life, a fire burning in an empty room."
 
-As your character first enters their love interest's home, take some time to allow them to understand who this person is based upon where they live. That is a type of intimacy in itself.
+As your character first enters their love interest's home, take some time to allow them to understand who this person is based upon where they live. That's a type of intimacy in itself.
 
 **What does home look like for the wealthy, the middle class, and the poor?**
 
@@ -559,7 +559,7 @@ _______________________________________________________________
 
 **What does your protagonist notice when they first enter the love interest's home?**
 
-*A home reveals who someone truly is. What details catch your protagonist's eye — and what do those details tell them?*
+*A home reveals who someone truly is. What details catch your protagonist's eye. What do those details tell them?*
 
 _______________________________________________________________
 
@@ -569,11 +569,11 @@ _______________________________________________________________
 
 ---
 
-Daily routines establish the rhythm of life. Family is what gives that rhythm its emotional weight — and its obligations.
+Daily routines establish the rhythm of life. Family is what gives that rhythm its emotional weight, and its obligations.
 
 ## Family Structure & Relationships
 
-Your characters' family is where their identity is formed prior to the story beginning; and also what they will be answering to once the story has begun. Expectations from their parents, siblings and other relatives will have commitments that conflict with those of romantic interests. In romantasy, family often acts as the first and most personal obstacle to finding true love.
+Your characters' family is where their identity is formed prior to the story beginning; and also what they'll be answering to once the story has begun. Expectations from their parents, siblings and other relatives will have commitments that conflict with those of romantic interests. In romantasy, family often acts as the first and most personal obstacle to finding true love.
 
 A character caught between their feelings for another person and their obligation to their family is making a decision that your readers will relate to on a visceral level. You can show family dynamics through the little things: who speaks first at dinner, who always gives in to whom, whose opinion really matters even if there isn't an established order of authority. Approval from family members (and the lack of it) can speed up or kill a romance, and when a love interest gains the acceptance of a difficult parent, the reader also views this as a victory.
 
@@ -613,7 +613,7 @@ _______________________________________________________________
 
 *Whose approval matters? Who will try to interfere? What power does a parent or elder hold over the match?*
 
-**What is each character's family's stance on the relationship, and what power do they have to interfere?**
+**What's each character's family's stance on the relationship, and what power do they have to interfere?**
 
 *(Write your answer below)*
 
@@ -625,7 +625,7 @@ _______________________________________________________________
 
 ---
 
-Family determines who your characters answer to. Food determines how they gather — and sharing a meal is one of the oldest ways to build intimacy.
+Family determines who your characters answer to. Food determines how they gather, and sharing a meal is one of the oldest ways to build intimacy.
 
 ## Food & Meals
 
@@ -699,7 +699,7 @@ _______________________________________________________________
 
 **Is there a meal where something important happens between your characters?**
 
-*Food scenes do emotional heavy lifting — the shared cup, the meal cooked with care, the silence over a table. What's the setting? What's eaten? What happens?*
+*Food scenes do emotional heavy lifting: the shared cup, the meal cooked with care, the silence over a table. What's the setting? What's eaten? What happens?*
 
 _______________________________________________________________
 
@@ -715,15 +715,15 @@ _______________________________________________________________
 
 ---
 
-From the intimate spaces of home and table, we move outward to the built environment — the structures your characters navigate every day.
+From the intimate spaces of home and table, we move outward to the built environment, the structures your characters navigate every day.
 
 ## Architecture & Building
 
 The way that people construct buildings can tell us a lot about who they are. A desert palace won't look anything like a northern fortress. No degree in architecture is required to recognise this.
 
-All you really need to do is think about what would make sense with regards to each environment. In hot climates it is essential to create shade and allow for airflow. In cold climates, it is necessary to create thick walls that can keep the cold out, as well as large fireplaces that provide warmth. These differences in climate will give your readers a sense of place when travelling from one region to another. (For more on how climate shapes building, see Section 1: Geography & Environment.)
+All you really need to do is think about what would make sense with regards to each environment. In hot climates it's essential to create shade and allow for airflow. In cold climates, it's necessary to create thick walls that can keep the cold out, as well as large fireplaces that provide warmth. These differences in climate will give your readers a sense of place when travelling from one region to another. (For more on how climate shapes building, see Section 1: Geography & Environment.)
 
-The way you construct your scenes can also impact the development of those scenes in practical ways. Narrow corridors force characters to stand close together. Great halls allow for a wide separation of characters across large tables. And the person that knows where all of the hidden passages are has the upper hand over the person that does not. When you are thinking about romantic scenes, consider how the layout of the room impacts the distance between characters, the amount of privacy they have, and the power dynamic of the scene.
+The way you construct your scenes can also impact the development of those scenes in practical ways. Narrow corridors force characters to stand close together. Great halls allow for a wide separation of characters across large tables. And the person that knows where all of the hidden passages are has the upper hand over the person that doesn't. When you're thinking about romantic scenes, consider how the layout of the room impacts the distance between characters, the amount of privacy they have, and the power dynamic of the scene.
 
 **What architectural style dominates your main setting?**
 
@@ -741,7 +741,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What makes different buildings recognizable at a glance?**
+**What makes different buildings recognisable at a glance?**
 
 *How can your protagonist tell a temple from a tavern? Think about palaces, temples, merchant homes, common dwellings, and fortifications.*
 
@@ -767,7 +767,7 @@ _______________________________________________________________
 
 ---
 
-Architecture shapes the physical world your characters inhabit. Religion shapes the invisible one — the beliefs, rituals, and spiritual habits woven into everyday life.
+Architecture shapes the physical world your characters inhabit. Religion shapes the invisible one, the beliefs, rituals, and spiritual habits woven into everyday life.
 
 ## Religion & Spirituality in Daily Life
 
@@ -775,11 +775,11 @@ If religion has been a key aspect of your story, consider expanding upon it in S
 
 A person's religion in everyday life is based on habits, not theology. The small rituals people go through without thinking, the phrases that are spoken without thought, and the gestures that mark the different stages of each day. They provide for your world the "lived-in" quality, and help create a common (or conflicting) spiritual vocabulary among your characters.
 
-Most religions are rooted in the small things: how someone prays before a meal, what someone says when receiving bad news, and a shrine that exists in almost every home. Inevitably, when two characters' religions clash, there will be conflict; and when two characters quietly pray together, there is intimacy. A character finding out that their love interest knows their prayer, or mouthing along with a blessing they don't believe in simply because they want to show respect, is an intimate gesture that provides significant romantic impact.
+Most religions are rooted in the small things: how someone prays before a meal, what someone says when receiving bad news, and a shrine that's in almost every home. Inevitably, when two characters' religions clash, there'll be conflict; and when two characters quietly pray together, there's intimacy. A character finding out that their love interest knows their prayer, or mouthing along with a blessing they don't believe in simply because they want to show respect, is an intimate gesture that provides significant romantic impact.
 
 **⬥ Core: What role does religion/spirituality play in daily life?**
 
-*These details will determine whether your characters share a spiritual vocabulary or must navigate different faiths — both of which shape the intimacy available to them.*
+*These details will determine whether your characters share a spiritual vocabulary or must navigate different faiths, both of which shape the intimacy available to them.*
 
 Daily prayers or rituals? Religious dietary restrictions? Spiritual interpretations of everyday events?
 
@@ -789,7 +789,7 @@ _______________________________________________________________
 
 **What life events have religious significance?**
 
-Birth, coming of age, marriage, death — what rituals mark these transitions?
+Birth, coming of age, marriage, death. What rituals mark these transitions?
 
 _______________________________________________________________
 
@@ -797,7 +797,7 @@ _______________________________________________________________
 
 **How do people interact with religious institutions or figures?**
 
-Priests, temples, shrines — how present are they in ordinary life?
+Priests, temples, shrines. How present are they in ordinary life?
 
 _______________________________________________________________
 
@@ -833,7 +833,7 @@ _______________________________________________________________
 
 ---
 
-Formal religion is what people profess. Superstition is what they actually do without thinking — and those unconscious habits often reveal more about a culture than any creed.
+Formal religion is what people profess. Superstition is what they actually do without thinking, and those unconscious habits often reveal more about a culture than any creed.
 
 ## Superstitions & Folk Beliefs
 
@@ -857,7 +857,7 @@ Use this list for inspiration. Pick a few that fit your world's mood and culture
 
 **What common superstitions exist?**
 
-Lucky/unlucky numbers, colors, animals? Actions that invite bad fortune? Protective gestures or phrases?
+Lucky/unlucky numbers, colours, animals? Actions that invite bad fortune? Protective gestures or phrases?
 
 _______________________________________________________________
 
@@ -887,7 +887,7 @@ _______________________________________________________________
 
 **Does a superstition or folk belief play a role in your characters' relationship?**
 
-*A charm given as a gift, a shared ritual that becomes "their thing," a superstition one character finds endearing in the other — small beliefs can create intimacy.*
+*A charm given as a gift, a shared ritual that becomes "their thing," a superstition one character finds endearing in the other. Small beliefs can create intimacy.*
 
 _______________________________________________________________
 
@@ -895,7 +895,7 @@ _______________________________________________________________
 
 ---
 
-From what people believe to how they behave — etiquette is where cultural values become visible in every interaction.
+From what people believe to how they behave. Etiquette is where cultural values become visible in every interaction.
 
 ## Manners, Etiquette & Everyday Politeness
 
@@ -916,7 +916,7 @@ Show transgressions through reactions: the gasp, the shared look, the pause in c
 
 **What's considered rude in everyday interaction?**
 
-Behaviors that give offense, things that aren't done:
+Behaviours that give offence, things that aren't done:
 
 _______________________________________________________________
 
@@ -952,7 +952,7 @@ _______________________________________________________________
 
 ---
 
-Manners govern everyday interactions, but hospitality governs the far more charged situation of entering someone else's space — and that dynamic is where many romantasy plots live.
+Manners govern everyday interactions, but hospitality governs the far more charged situation of entering someone else's space, and that dynamic is where many romantasy plots live.
 
 ## Hospitality & Guest Rights
 
@@ -962,7 +962,7 @@ Hospitality is a social contract: the host provides safety, food, and shelter; t
 
 Hospitality builds romantic tension because both sides are vulnerable. The guest is dependent and visible; the host is exposed through their home. In *A Court of Thorns and Roses*, Feyre's stay at the Spring Court begins as hospitality-as-imprisonment: fine clothes and beautiful rooms, but no freedom. The contrast with the Night Court, where Rhysand declares her a guest rather than a prisoner and teaches her to defend herself, shows the difference between hospitality as control and hospitality as refuge.
 
-Three hospitality patterns shape romantic dynamics: the **gilded cage** (luxury without autonomy), **the host's exposure** (the home reveals truths the host would rather hide), and **the violation** (one party breaks the sacred contract, and the betrayal cuts deeper because it occurred under the protection of hospitality). The more elaborate your welcoming rituals, the greater the weight when they are violated.
+Three hospitality patterns shape romantic dynamics: the **gilded cage** (luxury without autonomy), **the host's exposure** (the home reveals truths the host would rather hide), and **the violation** (one party breaks the sacred contract, and the betrayal cuts deeper because it occurred under the protection of hospitality). The more elaborate your welcoming rituals, the greater the weight when they're violated.
 
 **What does your culture owe a guest?**
 
@@ -990,7 +990,7 @@ _______________________________________________________________
 
 **What threshold rituals exist in your world?**
 
-*The more elaborate the welcoming ritual, the greater the weight when it's violated. What must happen when a guest arrives — and what does it mean when someone skips a step?*
+*The more elaborate the welcoming ritual, the greater the weight when it's violated. What must happen when a guest arrives. What does it mean when someone skips a step?*
 
 _______________________________________________________________
 
@@ -1016,7 +1016,7 @@ _______________________________________________________________
 
 ---
 
-Hospitality governs how characters enter each other's worlds. Entertainment governs what they do once they're there — and leisure is where many romances find their first excuse to spend time together.
+Hospitality governs how characters enter each other's worlds. Entertainment governs what they do once they're there, and leisure is where many romances find their first excuse to spend time together.
 
 ## Entertainment, Arts & Leisure
 
@@ -1026,7 +1026,7 @@ Leisure time provides natural settings for characters to meet outside their norm
 
 *Leisure activities give your characters excuses to spend time together outside their normal roles. A dance requires touch. A game reveals personality. A shared story creates inside jokes. What does your world offer?*
 
-Music, theater, games, sports, storytelling, gambling — what do people do for enjoyment?
+Music, theatre, games, sports, storytelling, gambling. What do people do for enjoyment?
 
 _______________________________________________________________
 
@@ -1034,7 +1034,7 @@ _______________________________________________________________
 
 **What stories or legends does everyone know?**
 
-The cultural touchstones — tales children grow up hearing, references everyone understands:
+The cultural touchstones, tales children grow up hearing, references everyone understands:
 
 _______________________________________________________________
 
@@ -1056,7 +1056,7 @@ _______________________________________________________________
 
 **What art forms are valued?**
 
-Visual arts, crafts, performance, literature — what does this culture create and prize?
+Visual arts, crafts, performance, literature. What does this culture create and prize?
 
 _______________________________________________________________
 
@@ -1074,13 +1074,13 @@ _______________________________________________________________
 
 &nbsp;
 
-### Humor & Social Play
+### Humour & Social Play
 
-What makes people laugh reveals what they value, what they fear, and where the social fault lines run. Humor can bond characters instantly (a shared joke no one else gets) or divide them (a joke that lands as an insult across cultural lines). In romantasy, banter is often the first form of intimacy -- it's how characters test each other's intelligence and boundaries before anything physical happens.
+What makes people laugh reveals what they value, what they fear, and where the social fault lines run. Humour can bond characters instantly (a shared joke no one else gets) or divide them (a joke that lands as an insult across cultural lines). In romantasy, banter is often the first form of intimacy -- it's how characters test each other's intelligence and boundaries before anything physical happens.
 
-**What makes people laugh in your world? What kind of humor is prized?**
+**What makes people laugh in your world? What kind of humour is prized?**
 
-*Wordplay and wit? Physical comedy? Dark humor? Sarcasm? Irreverence toward authority? What does "clever" look like here?*
+*Wordplay and wit? Physical comedy? Dark humour? Sarcasm? Irreverence toward authority? What does "clever" look like here?*
 
 _______________________________________________________________
 
@@ -1090,13 +1090,13 @@ _______________________________________________________________
 
 **What jokes are told, and what do they reveal about the culture's anxieties?**
 
-*People joke about what they fear or resent. What topics show up in popular humor -- class, magic, outsiders, the powerful?*
+*People joke about what they fear or resent. What topics show up in popular humour -- class, magic, outsiders, the powerful?*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What humor is off-limits or dangerous?**
+**What humour is off-limits or dangerous?**
 
 *Mocking the gods? Joking about the monarch? Making light of death? What joke could get someone in real trouble?*
 
@@ -1104,9 +1104,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How do your characters use humor with each other?**
+**How do your characters use humour with each other?**
 
-*Is banter their first language of intimacy? Does one character's humor disarm the other? Does a joke ever land wrong between them?*
+*Is banter their first language of intimacy? Does one character's humour disarm the other? Does a joke ever land wrong between them?*
 
 _______________________________________________________________
 
@@ -1114,7 +1114,7 @@ _______________________________________________________________
 
 ---
 
-Humor reveals what a culture values. Oaths reveal what it holds sacred — and in romantasy, a sworn promise is often the immovable object that an irresistible romance collides with.
+Humour reveals what a culture values. Oaths reveal what it holds sacred. In romantasy, a sworn promise is often the immovable object that an irresistible romance collides with.
 
 ## Oaths, Promises & Honour
 
@@ -1122,11 +1122,11 @@ In many romantasy worlds, people's words carry value. Culturally, socially, and 
 
 The romantic tension in oath culture comes from collision. As soon as a character's sworn duty and their growing love are mutually exclusive, the tension begins. A character who swore to protect the realm now loves someone the realm considers a threat. A character who promised their dying parent they'd marry for alliance now wants to marry for love. A guard assigned to protect someone's purity finds himself dismantling the very rules he swore to uphold.
 
-Oaths have an inherent value in romantic tension because they were normally given when the character had no idea what they would be losing. The oath seemed like no big deal at the time, since the oath did not conflict with anything the character wanted. It wasn't until the character develops romantic feelings for someone that the cost of the oath becomes apparent, and the commitment has already been made.
+Oaths have an inherent value in romantic tension because they were normally given when the character had no idea what they would be losing. The oath seemed like no big deal at the time, since the oath didn't conflict with anything the character wanted. It wasn't until the character develops romantic feelings for someone that the cost of the oath becomes apparent, and the commitment has already been made.
 
 ### Oaths That Live in the Body
 
-The strongest romantasy oaths aren't social norms; they have physical consequences. A deal manifests as a tattoo that cannot be erased. Breaking a promise causes pain, sickness, or death. When your commitment lives in your body, the tension between responsibility and passion becomes unendurable. The distinction between "I will serve you" and "I will serve your interests" could be the difference between slavery and strategic alliance.
+The strongest romantasy oaths aren't social norms; they have physical consequences. A deal manifests as a tattoo that can't be erased. Breaking a promise causes pain, sickness, or death. When your commitment lives in your body, the tension between responsibility and passion becomes unendurable. The distinction between "I will serve you" and "I will serve your interests" could be the difference between slavery and strategic alliance.
 
 Rhysand and Feyre's bargain in *A Court of Thorns and Roses* is the genre's most compelling example. Feyre bargains herself away for one week each month, and the agreement is tattooed onto her body. When she avoids the Night Court, she deteriorates physically: nightmares, weight loss, illness. The bargain exists independently of feelings, and watching the obligation transform into something she wants is the slow burn at work.
 
@@ -1190,19 +1190,19 @@ _______________________________________________________________
 
 ### ✦ Checkpoint: Social Rules & Obligations
 
-*Pause and review your answers on manners, hospitality, entertainment, and oaths. Are the social rules you've built consistent with the values you established in Part 1? If your culture prizes individual freedom but your hospitality customs are rigidly formal, decide which one gives — or explain why the contradiction exists.*
+*Pause and review your answers on manners, hospitality, entertainment, and oaths. Are the social rules you've built consistent with the values you established in Part 1? If your culture prizes individual freedom but your hospitality customs are rigidly formal, decide which one gives. Or explain why the contradiction exists.*
 
 ---
 
-Oaths define what your characters have promised. Taboos define what they must never do — and in romantasy, those are often the same thing.
+Oaths define what your characters have promised. Taboos define what they must never do, and in romantasy, those are often the same thing.
 
 ## Taboos & Forbidden Things
 
-The forbidden shows what the culture fears. In romantasy, taboos are the "forbidden love" stakes, and they will only be as effective as how well defined and important they are for each character involved.
+The forbidden shows what the culture fears. In romantasy, taboos are the "forbidden love" stakes, and they'll only be as effective as how well defined and important they are for each character involved.
 
 Forbidden love has its excitement in the risk involved. Ensure that your reader understands the consequences of breaking the taboo for each character before they do so. The first transgression must feel dangerous. Subsequent transgressions may increase the risk, or they may make the previously forbidden become acceptable. Both options can be used; however, having an idea of which you plan to use is helpful.
 
-**⬥ Core: What behaviors are taboo in your world?**
+**⬥ Core: What behaviours are taboo in your world?**
 
 *Consider physical taboos (touch, proximity, eye contact), verbal taboos, social taboos, magical taboos, and sexual taboos.*
 
@@ -1238,7 +1238,7 @@ Consequences should escalate with severity:
 
 **What taboo do your characters break first?**
 
-This is often a pivotal early scene — the first boundary crossed:
+This is often a pivotal early scene, the first boundary crossed:
 
 _______________________________________________________________
 
@@ -1248,7 +1248,7 @@ _______________________________________________________________
 
 **What taboo must they break to be together fully?**
 
-This might be the climactic choice — the line they can't uncross:
+This might be the climactic choice, the line they can't uncross:
 
 _______________________________________________________________
 
@@ -1258,7 +1258,7 @@ _______________________________________________________________
 
 ---
 
-Taboos mark where the line is. Sexuality norms determine how your culture polices desire itself — and that is often the most personal cage your characters must escape.
+Taboos mark where the line is. Sexuality norms determine how your culture polices desire itself, and that's often the most personal cage your characters must escape.
 
 ## Sexuality, Desire & Intimacy Norms
 
@@ -1330,15 +1330,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-#### Map the architecture of restriction — and the sequence of dismantling
+#### Map the architecture of restriction, and the sequence of dismantling
 
-*If your protagonist lives under layers of rules designed to control their sexuality or intimacy, the romance develops as those layers are removed one by one. Map the restrictions from mildest to most extreme, then note which one falls first — and which one is the last to go.*
+*If your protagonist lives under layers of rules designed to control their sexuality or intimacy, the romance develops as those layers are removed one by one. Map the restrictions from mildest to most extreme, then note which one falls first. Which one is the last to go?*
 
 | Layer of Restriction | What Rule or Custom Enforces It | When Does It Fall in the Story? |
 |---------------------|--------------------------------|-------------------------------|
-| *The veil — Poppy cannot be seen by anyone outside the temple* | *Maiden Law, enforced by the priestesses and her guards* | *Falls first — Hawke sees her face when assigned as her guard* |
-| *No informal speech — the Maiden cannot be addressed casually* | *Social custom, reinforced by everyone around her* | *Falls second — Hawke speaks to her like a person, not a title* |
-| *No physical contact — she cannot be touched by anyone* | *Maiden Law, with physical separation enforced by her quarters and guards* | *Falls late — each touch escalates the stakes* |
+| *The veil: Poppy can't be seen by anyone outside the temple* | *Maiden Law, enforced by the priestesses and her guards* | *Falls first: Hawke sees her face when assigned as her guard* |
+| *No informal speech: the Maiden can't be addressed casually* | *Social custom, reinforced by everyone around her* | *Falls second: Hawke speaks to her like a person, not a title* |
+| *No physical contact: she can't be touched by anyone* | *Maiden Law, with physical separation enforced by her quarters and guards* | *Falls late: each touch escalates the stakes* |
 | | | |
 | | | |
 | | | |
@@ -1351,7 +1351,7 @@ What your characters do behind closed doors matters. But what other people *thin
 
 In many cultures, how others perceive you can be just as important as your actions. Rumours spread quickly and reputation is often delicate. What once was, in some cases, could be irreversibly lost forever.
 
-The way people react to your character when they enter a space can represent their feelings toward them. Does the room fall silent? Do people move closer or edge away? The quiet, unspoken comments your character cannot quite catch will heighten the reader's tension. Represent the pressure of the public's perception with the subtleties: the small, almost unnoticed slights, the intentional glances, and the closing of the door.
+The way people react to your character when they enter a space can represent their feelings toward them. Does the room fall silent? Do people move closer or edge away? The quiet, unspoken comments your character can't quite catch will heighten the reader's tension. Represent the pressure of the public's perception with the subtleties: the small, almost unnoticed slights, the intentional glances, and the closing of the door.
 
 **How does information travel in your society?**
 
@@ -1385,7 +1385,7 @@ _______________________________________________________________
 
 **Who are the gossips and rumormongers in your story?**
 
-Who spreads information — maliciously or carelessly? Who might your characters need to avoid, bribe, or silence?
+Who spreads information, maliciously or carelessly? Who might your characters need to avoid, bribe, or silence?
 
 _______________________________________________________________
 
@@ -1425,7 +1425,7 @@ _______________________________________________________________
 
 ---
 
-Reputation is shaped by what people see. Privacy determines how much they get to see — and how hard your characters must work to find moments alone.
+Reputation is shaped by what people see. Privacy determines how much they get to see, and how hard your characters must work to find moments alone.
 
 ## Privacy, Surveillance & Being Watched
 
@@ -1443,7 +1443,7 @@ _______________________________________________________________
 
 **Where are people always watched?**
 
-Courts, public spaces, family homes, workplaces — where is privacy impossible?
+Courts, public spaces, family homes, workplaces. Where is privacy impossible?
 
 _______________________________________________________________
 
@@ -1497,7 +1497,7 @@ _______________________________________________________________
 
 ---
 
-You've mapped where your characters can be alone. Now define what they can and cannot do when they get there.
+You've mapped where your characters can be alone. Now define what they can and can't do when they get there.
 
 ## Physical & Romantic Boundaries
 
@@ -1530,7 +1530,7 @@ _______________________________________________________________
 
 **Are unmarried people allowed to be alone together?**
 
-If no — who must be present? Under what circumstances can they be unchaperoned? If they ARE alone together, what does that imply?
+If no, who must be present? Under what circumstances can they be unchaperoned? If they ARE alone together, what does that imply?
 
 _______________________________________________________________
 
@@ -1545,8 +1545,8 @@ _______________________________________________________________
 | Gesture Type | Examples in Your World |
 |---|---|
 | Acceptable signals of interest | |
-| Borderline — could be read as too forward | |
-| Clearly transgressive — would cause scandal | |
+| Borderline, could be read as too forward | |
+| Clearly transgressive, would cause scandal | |
 
 **Who acts as chaperone for your characters?**
 
@@ -1562,7 +1562,7 @@ _______________________________________________________________
 
 **When do your characters first break a physical or romantic boundary?**
 
-Describe the scene — what boundary do they cross? Was it intentional or accidental? How do they react?
+Describe the scene. What boundary do they cross? Was it intentional or accidental? How do they react?
 
 _______________________________________________________________
 
@@ -1596,7 +1596,7 @@ _______________________________________________________________
 
 ### ✦ Checkpoint: Boundaries & Identity
 
-*Review your answers on taboos, sexuality, reputation, privacy, and touch. Do the boundaries you've built escalate logically — is a forbidden glance less dangerous than forbidden touch, which is less dangerous than a forbidden night together? If two taboos contradict each other, resolve that now.*
+*Review your answers on taboos, sexuality, reputation, privacy, and touch. Do the boundaries you've built escalate logically. Is a forbidden glance less dangerous than forbidden touch, which is less dangerous than a forbidden night together? If two taboos contradict each other, resolve that now.*
 
 ---
 
@@ -1604,11 +1604,11 @@ Physical boundaries govern what touch means. Dress and appearance govern what th
 
 ## Dress, Appearance & Adornment
 
-Dressing tells us who we are: our social standing, how available we are, our values and beliefs. In addition, clothing creates its own romantic tension. The veil that cannot be removed, the colour that says "do not speak to me," the hair that only your spouse can see unbound.
+Dressing tells us who we are: our social standing, how available we are, our values and beliefs. Clothing also creates its own romantic tension. The veil that can't be removed, the colour that says "don't speak to me," the hair that only your spouse can see unbound.
 
-Dress in detail and observe what your characters pay attention to when it comes to each other's clothes. What your protagonist focuses on with regards to another character's appearance will give your readers an idea of where their eyes keep going back to: how fabric falls, a scar that is hidden under the edge of a collar, a ring that is or isn't being worn.
+Dress in detail and observe what your characters pay attention to when it comes to each other's clothes. What your protagonist focuses on with regards to another character's appearance will give your readers an idea of where their eyes keep going back to: how fabric falls, a scar that's hidden under the edge of a collar, a ring that is or isn't being worn.
 
-Transitions in wardrobe also serve well as indicators of how intimate the relationship has become. Armour removed, hair unbound, formal wear discarded. Each layer of clothing that is removed is a layer of distance that has been removed.
+Transitions in wardrobe also serve well as indicators of how intimate the relationship has become. Armour removed, hair unbound, formal wear discarded. Each layer of clothing that's removed is a layer of distance that's been removed.
 
 ### What Clothing Signals
 
@@ -1624,9 +1624,9 @@ Transitions in wardrobe also serve well as indicators of how intimate the relati
 
 &nbsp;
 
-**Are there sumptuary laws — rules about who can wear what?**
+**Are there sumptuary laws, rules about who can wear what?**
 
-Certain fabrics, colors, or styles restricted to certain classes? Penalties for dressing "above your station"?
+Certain fabrics, colours, or styles restricted to certain classes? Penalties for dressing "above your station"?
 
 _______________________________________________________________
 
@@ -1750,7 +1750,7 @@ _______________________________________________________________
 
 **Is there a moment when one character sees the other's hair differently than usual?**
 
-Unbound, wet, disheveled, cut — and what does it mean?
+Unbound, wet, disheveled, cut, and what does it mean?
 
 _______________________________________________________________
 
@@ -1876,7 +1876,7 @@ _______________________________________________________________
 
 ---
 
-Courtship provides the script. Tokens and gifts are the physical objects that make intentions tangible — and permanent.
+Courtship provides the script. Tokens and gifts are the physical objects that make intentions tangible, and permanent.
 
 ## Tokens, Gifts & Symbols
 
@@ -1898,7 +1898,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Does either of your characters give such a token — or refuse one?**
+**Does either of your characters give such a token, or refuse one?**
 
 What happens and what does it mean?
 
@@ -1920,7 +1920,7 @@ _______________________________________________________________
 
 **Plan a gift scene.**
 
-*Slow down through all three stages: the giving (nervous or confident?), the receiving (recognition or confusion?), and the aftermath (where does the gift go, how often is it touched?). What is the gift, and why this gift specifically?*
+*Slow down through all three stages: the giving (nervous or confident?), the receiving (recognition or confusion?), and the aftermath (where does the gift go, how often is it touched?). What's the gift, and why this gift specifically?*
 
 *(Write your answer below)*
 
@@ -1932,15 +1932,15 @@ _______________________________________________________________
 
 ---
 
-Tokens declare intent. Marriage is what makes it official — and the ceremony itself is where private love becomes a public act.
+Tokens declare intent. Marriage is what makes it official, and the ceremony itself is where private love becomes a public act.
 
 ## Marriage Customs & Ceremonies
 
 Marriage is where individualised love becomes a public rite of passage. Who can marry whom? What rituals must be performed? What makes a union legitimate? These customs define the endgame of your romance and the obstacles standing in its way.
 
-These customs will determine whether your characters are rushing towards marriage or trying to escape it. Weddings create great set-piece moments. Since they are public, the ceremony can increase tension: the vows have to be said out loud, the witnesses can watch for hesitation, the moment when an objection can be raised. No matter whether the couple is getting married with open arms or against their will, the ceremony should have a sense of finality. Take your time to describe what your character sees, hears, and feels during the ceremony, and let the ritual carry the emotional weight.
+These customs shape whether your characters are rushing towards marriage or trying to escape it. Weddings create great set-piece moments. Since they're public, the ceremony can increase tension: the vows have to be said out loud, the witnesses can watch for hesitation, the moment when an objection can be raised. No matter whether the couple is getting married with open arms or against their will, the ceremony should have a sense of finality. Take your time to describe what your character sees, hears, and feels during the ceremony, and let the ritual carry the emotional weight.
 
-**⬥ Core: What makes a marriage "real" in cultural terms — beyond legal requirements?**
+**⬥ Core: What makes a marriage "real" in cultural terms, beyond legal requirements?**
 
 Religious ceremony? Community witness? Consummation? Exchange of vows? Magical binding? Family blessing?
 
@@ -2028,17 +2028,17 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-> *Cross-check: Do the marriage customs here match the legal requirements in your government? If your government regulates who can marry, requires permits, or bans certain unions, those laws should align with — or deliberately conflict with — the cultural customs above. See Section 5: Government, Power & Law.*
+> *Cross-check: Do the marriage customs here match the legal requirements in your government? If your government regulates who can marry, requires permits, or bans certain unions, those laws should align with, or deliberately conflict with, the cultural customs above. See Section 5: Government, Power & Law.*
 
 ---
 
 ### ✦ Checkpoint: Courtship & Commitment
 
-*Look back at your courtship customs, tokens, and marriage traditions. Does the progression make sense — do the steps from first interest to marriage build logically? Does your secret marriage option (if you have one) actually conflict with your public ceremony, or could characters easily have both? Tension lives in the gap between what's felt and what's allowed.*
+*Look back at your courtship customs, tokens, and marriage traditions. Does the progression make sense. Do the steps from first interest to marriage build logically? Does your secret marriage option (if you have one) actually conflict with your public ceremony, or could characters easily have both? Tension lives in the gap between what's felt and what's allowed.*
 
 ---
 
-Marriage marks the beginning of a shared life. Death marks its end — and how your culture handles loss shapes what love means when it lasts beyond a lifetime.
+Marriage marks the beginning of a shared life. Death marks its end, and how your culture handles loss shapes what love means when it lasts beyond a lifetime.
 
 ## Death, Grief & Mourning
 
@@ -2062,7 +2062,7 @@ Death customs also define character. How your characters treat the dead reveals 
 
 **How does your culture treat the dead?**
 
-Burial, cremation, sky burial, magical dissolution? Is there a ritual that must be performed? What happens if the rites aren't completed — does it affect the dead, the living, or both?
+Burial, cremation, sky burial, magical dissolution? Is there a ritual that must be performed? What happens if the rites aren't completed? Does it affect the dead, the living, or both?
 
 _______________________________________________________________
 
@@ -2106,13 +2106,13 @@ _______________________________________________________________
 
 ---
 
-Death marks the end of a life's journey. Coming of age marks its true beginning — the moment a character becomes eligible for everything that follows.
+Death marks the end of a life's journey. Coming of age marks its true beginning, the moment a character becomes eligible for everything that follows.
 
 ## Life Stages & Coming of Age
 
 Each culture establishes a point at which an individual is no longer a child, and that threshold indicates when they become eligible for romance, responsibility, and independent choice. The traditions surrounding this transition are crucial to understanding your character's past and can provide a pivotal moment within your story.
 
-These transitions also establish natural turning points. A character who was not allowed to marry yesterday may have no problem getting married today, and that creates decisions they weren't prepared to face. The transition from childhood to adulthood could occur over a single night. In romantasy, the coming-of-age moment often coincides with the beginning of the romantic plot: the character becomes eligible, visible, or available in a way they weren't before.
+These transitions also establish natural turning points. A character who wasn't allowed to marry yesterday may have no problem getting married today, and that creates decisions they weren't prepared to face. The transition from childhood to adulthood could occur over a single night. In romantasy, the coming-of-age moment often coincides with the beginning of the romantic plot: the character becomes eligible, visible, or available in a way they weren't before.
 
 **What marks the transition to adulthood?**
 
@@ -2132,7 +2132,7 @@ _______________________________________________________________
 
 **Are your characters considered adults?**
 
-If not — how does this create obstacles? Are they defying expectations by acting before they're "ready"?
+If not, how does this create obstacles? Are they defying expectations by acting before they're "ready"?
 
 _______________________________________________________________
 
@@ -2158,7 +2158,7 @@ _______________________________________________________________
 
 ---
 
-Coming of age determines when your characters enter adult life. Education and work determine what kind of adult life they enter — and whether their paths will cross.
+Coming of age determines when your characters enter adult life. Education and work determine what kind of adult life they enter, and whether their paths will cross.
 
 ## Daily Roles & Education
 
@@ -2228,7 +2228,7 @@ _______________________________________________________________
 
 ---
 
-You've built the foundations of your culture and mapped the milestones of your characters' lives. Now it's time to put that culture into motion — through the events, consequences, and social dynamics that drive your romance forward.
+You've built the foundations of your culture and mapped the milestones of your characters' lives. Now it's time to put that culture into motion, through the events, consequences, and social dynamics that drive your romance forward.
 
 # PART TWO: CULTURE & ROMANCE
 
@@ -2277,7 +2277,7 @@ _______________________________________________________________
 
 ---
 
-Festivals celebrate belonging. Exile is what happens when belonging is revoked — and that threat is the highest stake your culture can impose on a forbidden romance.
+Festivals celebrate belonging. Exile is what happens when belonging is revoked, and that threat is the highest stake your culture can impose on a forbidden romance.
 
 ## Exile, Banishment & Social Death
 
@@ -2412,7 +2412,7 @@ Illustrate hierarchy through automatic behaviours and the moments when those beh
 
 **What happens when someone violates these unwritten rules?**
 
-Social consequences — awkwardness, offense, whispers, retaliation:
+Social consequences: awkwardness, offence, whispers, retaliation:
 
 _______________________________________________________________
 
@@ -2438,7 +2438,7 @@ _______________________________________________________________
 
 #### What does the "slip" look like between your characters?
 
-*Describe a moment when a character breaks a class or rank rule without meaning to -- a first name used without thinking, a hand reached for instinctively. What is the slip, who makes it, who notices, and what does it reveal?*
+*Describe a moment when a character breaks a class or rank rule without meaning to -- a first name used without thinking, a hand reached for instinctively. What's the slip, who makes it, who notices, and what does it reveal?*
 
 *(Write your answer below)*
 
@@ -2470,7 +2470,7 @@ _______________________________________________________________
 
 ---
 
-Hierarchy governs who has power. Language governs how that power sounds — and the shift from formal to informal address can be as intimate as any touch.
+Hierarchy governs who has power. Language governs how that power sounds, and the shift from formal to informal address can be as intimate as any touch.
 
 ## Language, Names & Forms of Address
 
@@ -2580,7 +2580,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**When do they realize they've been misunderstanding each other?**
+**When do they realise they've been misunderstanding each other?**
 
 The revelation scene:
 
@@ -2642,10 +2642,10 @@ Don't info-dump culture. Show it through action: characters following or breakin
 
 ### What's Next
 
-You've built the cultural fabric your characters live inside — the values they were raised on, the rules they follow, the customs that shape every relationship. Now it's time to look at the systems that enforce and fund that culture.
+You've built the cultural fabric your characters live inside, the values they were raised on, the rules they follow, the customs that shape every relationship. Now it's time to look at the systems that enforce and fund that culture.
 
-- **Section 4: Economy, Labour & Resources** — Who has money and who doesn't? Economic class shapes everything from courtship prospects to daily routines. If class divides your characters, start here.
-- **Section 5: Government, Power & Law** — Who makes the rules your characters are breaking? Government determines which cultural norms have legal teeth and which are purely social pressure.
-- **Section 6: Religion, Myth & Prophecy** — If religion shapes your characters' daily lives, expand on the theology, institutions, and prophecies that underpin those habits.
-- **Section 9: Technology & Infrastructure** — Daily life depends on what's available. Lighting, transportation, communication — these shape what a "typical day" actually looks like.
-- **Section 12: Designing Your Key Locations** — The places where your cultural rules play out. Markets, temples, courts, and homes all need to reflect the customs you've built here.
+- **Section 4: Economy, Labour & Resources.** Who has money and who doesn't? Economic class shapes everything from courtship prospects to daily routines. If class divides your characters, start here.
+- **Section 5: Government, Power & Law.** Who makes the rules your characters are breaking? Government determines which cultural norms have legal teeth and which are purely social pressure.
+- **Section 6: Religion, Myth & Prophecy.** If religion shapes your characters' daily lives, expand on the theology, institutions, and prophecies that underpin those habits.
+- **Section 9: Technology & Infrastructure.** Daily life depends on what's available. Lighting, transportation, communication: these shape what a "typical day" actually looks like.
+- **Section 12: Designing Your Key Locations.** The places where your cultural rules play out. Markets, temples, courts, and homes all need to reflect the customs you've built here.

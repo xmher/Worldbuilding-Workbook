@@ -291,7 +291,7 @@ _______________________________________________________________
 | Given surveillance (magical or mundane), would they be undetected? | | |
 | Given other characters' knowledge and abilities, would no one intervene? | | |
 
-*If you answered "no" to any of those, you don't necessarily have to change the scene. But you do need to address why the rule doesn't apply here. And "because I needed this scene to happen" is not a valid answer.*
+*If you answered "no" to any of those, you don't necessarily have to change the scene. But you do need to address why the rule doesn't apply here. And "because I needed this scene to happen" isn't a valid answer.*
 
 ### The Reversal Test
 
@@ -351,7 +351,7 @@ _______________________________________________________________
 
 **Do abilities remain consistent in power level throughout your story?**
 
-*A character who defeats ten soldiers in chapter five but struggles against two in chapter fifteen needs an in-world explanation for the shift. If power levels fluctuate without reason, readers lose trust in every obstacle — including the ones keeping your leads apart.*
+*A character who defeats ten soldiers in chapter five but struggles against two in chapter fifteen needs an in-world explanation for the shift. If power levels fluctuate without reason, readers lose trust in every obstacle, including the ones keeping your leads apart.*
 
 _______________________________________________________________
 
@@ -359,7 +359,7 @@ _______________________________________________________________
 
 **Does anyone conveniently forget an ability that would solve the current problem?**
 
-*This is especially damaging in romantic tension scenes. If a telepath could just read the love interest's mind and resolve the misunderstanding, readers will wonder why they don't. You need a reason the ability doesn't work here — emotional interference, magical shielding, or the cost being too high to risk.*
+*This is especially damaging in romantic tension scenes. If a telepath could just read the love interest's mind and resolve the misunderstanding, readers will wonder why they don't. You need a reason the ability doesn't work here: emotional interference, magical shielding, or the cost being too high to risk.*
 
 _______________________________________________________________
 
@@ -377,7 +377,7 @@ _______________________________________________________________
 
 **Have you changed these times for plot convenience?**
 
-*If a three-week journey suddenly takes three days because your leads need to reunite, readers will notice. Physical distance is one of romantasy's most effective tools for building longing — but only if it's consistent.*
+*If a three-week journey suddenly takes three days because your leads need to reunite, readers will notice. Physical distance is one of romantasy's most effective tools for building longing, but only if it's consistent.*
 
 _______________________________________________________________
 
@@ -391,11 +391,11 @@ _______________________________________________________________
 
 **Where do authority figures and surveillance systems appear in your story, and are they consistent?**
 
-*Guards, wards, spies, magical monitoring, parental oversight — whatever enforces the rules in your world. Track where they're present, where they're absent, and whether the absence has a reason. If authority disappears precisely when your characters need privacy, readers will notice. Selective enforcement is one of the fastest ways to make a forbidden romance feel unforbidden.*
+*Guards, wards, spies, magical monitoring, parental oversight: whatever enforces the rules in your world. Track where they're present, where they're absent, and whether the absence has a reason. If authority disappears precisely when your characters need privacy, readers will notice. Selective enforcement is one of the fastest ways to make a forbidden romance feel unforbidden.*
 
 | Authority/Surveillance System | Scenes Where It's Present | Scenes Where It's Absent | Is There an In-World Reason for the Absence? |
 | --- | --- | --- | --- |
-| *Court guards on the east wing (The Cruel Prince)* | *Jude's daily commute, the duel scenes* | *Jude and Cardan's confrontation in Ch. 12* | *Yes — the guards were called to the Bomb's distraction* |
+| *Court guards on the east wing (The Cruel Prince)* | *Jude's daily commute, the duel scenes* | *Jude and Cardan's confrontation in Ch. 12* | *Yes, the guards were called to the Bomb's distraction* |
 | 1. | | | Yes / No |
 | 2. | | | Yes / No |
 | 3. | | | Yes / No |
@@ -711,7 +711,7 @@ Once in a while you need to break a rule. But being willing to do that has to ha
 
 **Have you intentionally broken a rule?**
 
-*The best rule-breaks in romantasy serve the love story. The impossible becomes possible because of the bond, the sacrifice, or the choice to love. That's earned. The impossible becoming possible because you needed a happy ending is not.*
+*The best rule-breaks in romantasy serve the love story. The impossible becomes possible because of the bond, the sacrifice, or the choice to love. That's earned. The impossible becoming possible because you needed a happy ending isn't.*
 
 | The Rule | Why You Broke It | What Makes It Justified | What Consequences Follow |
 | --- | --- | --- | --- |
@@ -827,13 +827,13 @@ Using this technique, a limitation you establish through worldbuilding becomes a
 
 **Do any of your characters operate under a speech or honesty constraint?**
 
-*Fae who cannot lie, bond-linked characters who sense deception, oath-bound warriors, prophets who can only speak truth. If any character in your story has a speech constraint, every line of their dialogue needs to pass the literalism test.*
+*Fae who can't lie, bond-linked characters who sense deception, oath-bound warriors, prophets who can only speak truth. If any character in your story has a speech constraint, every line of their dialogue needs to pass the literalism test.*
 
 _______________________________________________________________
 
 **Have they said anything in your draft that technically breaks that constraint?**
 
-*Read their dialogue line by line. If you find a statement that is factually false, it needs to be rephrased. Pay special attention to romantic scenes, where characters under truth constraints might say "I don't care about you" or "You mean nothing to me" when the opposite is true.*
+*Read their dialogue line by line. If you find a statement that's factually false, it needs to be rephrased. Pay special attention to romantic scenes, where characters under truth constraints might say "I don't care about you" or "You mean nothing to me" when the opposite is true.*
 
 _______________________________________________________________
 
@@ -955,7 +955,7 @@ _______________________________________________________________
 
 ### Create a Series Bible
 
-*If you're writing a series, you need a living document that tracks every promise you've made to your readers. The longer the series, the more critical this becomes. Readers who've followed your world across multiple books will remember details you've forgotten — especially details about the romance.*
+*If you're writing a series, you need a living document that tracks every promise you've made to your readers. The longer the series, the more critical this becomes. Readers who've followed your world across multiple books will remember details you've forgotten, especially details about the romance.*
 
 Document and maintain:
 
@@ -975,7 +975,7 @@ _______________________________________________________________
 
 **Political structures and current power holders:**
 
-*Track who holds power at the end of each book. Power shifts are often tied to romantic stakes — a new ruler might change everything about whether the relationship is forbidden or permitted.*
+*Track who holds power at the end of each book. Power shifts are often tied to romantic stakes; a new ruler might change everything about whether the relationship is forbidden or permitted.*
 
 _______________________________________________________________
 

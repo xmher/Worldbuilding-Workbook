@@ -6,7 +6,7 @@ What do your characters believe about gods, death, destiny, and what it all mean
 
 ## How to Use This Section
 
-Questions marked **⬥ Core** are the essentials — answer these first to establish a working religion for your story. Everything else is a **Deep Dive** that adds richness and complexity. If you're short on time, the Core questions alone will give you enough to write convincingly. Come back to the Deep Dives when you need more detail or when a specific area (prophecy, interfaith love, religious guilt) becomes important to your plot.
+Questions marked **⬥ Core** are the essentials. Answer these first to establish a working religion for your story. Everything else is a **Deep Dive** that adds richness and complexity. If you're short on time, the Core questions alone will give you enough to write convincingly. Come back to the Deep Dives when you need more detail or when a specific area (prophecy, interfaith love, religious guilt) becomes important to your plot.
 
 ---
 
@@ -34,7 +34,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **⬥ Core: In one or two sentences, what do most people in your world believe about the divine?**
-*Don't overthink this — just get the broad shape down. You'll refine it in the exercises that follow.*
+*Don't overthink this; just get the broad shape down. You'll refine it in the exercises that follow.*
 
 _______________________________________________________________
 
@@ -58,7 +58,7 @@ If religion is background in your world, keep it simple. Not every romantasy nee
 
 **If your characters have different faiths:** Focus on Religious Difference & Interfaith Love.
 
-**If you're not sure yet:** Start with the Brain Dump and The Divine — you can always come back.
+**If you're not sure yet:** Start with the Brain Dump and The Divine. You can always come back.
 
 ---
 
@@ -93,10 +93,10 @@ If religion is background in your world, keep it simple. Not every romantasy nee
 
 | Mistake | Could This Apply to Your Story? | How You'd Fix It |
 |---------|-------------------------------|-----------------|
-| *The Convenient Religion — religious rules exist but are bypassed without real cost* | *Yes — I have a "friendly priest" figure who helps them get around the marriage ban, and I haven't thought about what that costs the priest* | *Give the priest real consequences for helping: excommunication, loss of community, personal guilt* |
-| The Convenient Religion — religious rules exist but are bypassed without real cost | | |
-| The Strawman Faith — the religion is obviously corrupt and no reasonable person would believe it | | |
-| The Painless Faith Departure — a character abandons deep faith without grief or struggle | | |
+| *The Convenient Religion, religious rules exist but are bypassed without real cost* | *Yes, I have a "friendly priest" figure who helps them get around the marriage ban, and I haven't thought about what that costs the priest* | *Give the priest real consequences for helping: excommunication, loss of community, personal guilt* |
+| The Convenient Religion, religious rules exist but are bypassed without real cost | | |
+| The Strawman Faith, the religion is obviously corrupt and no reasonable person would believe it | | |
+| The Painless Faith Departure, a character abandons deep faith without grief or struggle | | |
 
 ---
 
@@ -131,14 +131,14 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What do ordinary people in your world believe, and how does that differ from what priests or scholars officially teach?**
-*In most worlds, the average person's faith is simpler, stranger, or more superstitious than formal doctrine. A farmer might pray to a river spirit the temple doesn't recognise. A soldier might carry a charm the priests call heresy. These gaps between folk belief and official religion create texture — and romantic tension when characters from different levels of belief fall in love.*
+*In most worlds, the average person's faith is simpler, stranger, or more superstitious than formal doctrine. A farmer might pray to a river spirit the temple doesn't recognise. A soldier might carry a charm the priests call heresy. These gaps between folk belief and official religion create texture, and romantic tension when characters from different levels of belief fall in love.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **⬥ Core: What happens to people in your world who don't believe, or who follow a different faith?**
-*Are nonbelievers tolerated, pitied, shunned, or punished? Is there a difference between quiet doubt and open defiance? The answer shapes how dangerous it is for a character to question their faith — or to love someone who does.*
+*Are nonbelievers tolerated, pitied, shunned, or punished? Is there a difference between quiet doubt and open defiance? The answer shapes how dangerous it is for a character to question their faith, or to love someone who does.*
 
 _______________________________________________________________
 
@@ -220,7 +220,7 @@ Identify the gods or spiritual forces that exist in your world. Focus on those r
 
 #### Deity/Power 3 (if applicable):
 
-**Is there a deity specifically relevant to your romance — a god of love, forbidden things, or liminal spaces? Describe their name, domain, personality, demands, and offerings.**
+**Is there a deity specifically relevant to your romance, a god of love, forbidden things, or liminal spaces? Describe their name, domain, personality, demands, and offerings.**
 
 *(Write your answer below)*
 
@@ -252,15 +252,15 @@ _______________________________________________________________
 
 ## Magic & Religion
 
-*Now that you know what gods exist in your world, the next question is how their power manifests — and whether magic is a gift from the divine or a threat to it.*
+*Now that you know what gods exist in your world, the next question is how their power manifests, and whether magic is a gift from the divine or a threat to it.*
 
 Romantasy typically combines elements of magic and faith into a single system. Magic can be thought of as a gift provided by the gods, but equally, magic can represent heresy which a church will try to eliminate. Wherever the two meet, the world becomes a realm in which the consequences of moral choice are always tangible in their magical impact, and where falling in love can result in loss of magical power, protection, or your place in the divine order.
 
-The reason why this applies to romance specifically is that it changes how rebellion functions from a societal concept to a supernatural one. If losing divine favour means losing magical function, then a character who chooses a forbidden lover does not merely risk being ostracised. They risk losing their magical abilities at the same time they need them the most.
+The reason why this applies to romance specifically is that it changes how rebellion functions from a societal concept to a supernatural one. If losing divine favour means losing magical function, then a character who chooses a forbidden lover doesn't merely risk being ostracised. They risk losing their magical abilities at the same time they need them the most.
 
 In *Serpent & Dove*, Lou's magic operates on a principle of balance. Each spell costs something. When she uses her power to protect Reid, each spell causes her to lose memories and sensation. Their love literally consumes Lou one spell at a time. The Chasseurs see this as Lou "tempting" Reid; the story clearly shows that what she is doing is the greatest act of selflessness possible.
 
-In *Priory of the Orange Tree*, Ead's siden magic, drawn from the fruit of a sacred orange tree, is branded heresy in the West. She is forced to operate secretly, pretending to be a maid so no one will discover the "heresy" of her magic is what is keeping the Queen alive. The bodyguard-crush dynamic is elevated due to Ead's magic being the very source that could potentially destroy the relationship should it be discovered.
+In *Priory of the Orange Tree*, Ead's siden magic, drawn from the fruit of a sacred orange tree, is branded heresy in the West. She's forced to operate secretly, pretending to be a maid so no one will discover the "heresy" of her magic is what's keeping the Queen alive. The bodyguard-crush dynamic is elevated due to Ead's magic being the very source that could potentially destroy the relationship should it be discovered.
 
 In *From Blood and Ash*, Poppy's magical "blessing," the ability to sense others' emotions and pain, is depicted by the state faith as evidence of her divine worth. Once the lie of the predatory vampire "Ascended" gods is exposed and the entire religious system is shown to be built on lies, Poppy's magical abilities become the evidence of the lie. Her romance with Casteel is the catalyst for this theological deconstruction.
 
@@ -310,9 +310,9 @@ _______________________________________________________________
 
 ## Religious Institutions & Authority
 
-*You've defined what the gods are and how magic relates to them. Now consider who speaks for those gods on earth — because it's institutions, not deities, that your characters will actually have to face.*
+*You've defined what the gods are and how magic relates to them. Now consider who speaks for those gods on earth, because it's institutions, not deities, that your characters will actually have to face.*
 
-Gods may exist, however, it is institutions that make religion have power. The temple, the church, the priesthood: these are human structures, with human politics, human corruption, and the potential to do either great good or harm. In terms of your romance, institutions are where divine law gets enforced, where vows are administered, where forbidden unions are discovered and punished.
+Gods may exist, however, it's institutions that make religion have power. The temple, the church, the priesthood: these are human structures, with human politics, human corruption, and the potential to do either great good or harm. In terms of your romance, institutions are where divine law gets enforced, where vows are administered, where forbidden unions are discovered and punished.
 
 Religious authorities can be allies, enemies, or complex figures caught between doctrine and compassion. They represent the institution, but they're also human beings. The priest who has to enforce a law they privately question. The oracle who sees a prophecy they wish they could unsee. The inquisitor who genuinely believes they're saving souls.
 
@@ -330,7 +330,7 @@ Religious authorities can be allies, enemies, or complex figures caught between 
 &nbsp;
 
 **⬥ Core: Where do people go to worship, and what do those places look like?**
-*Grand cathedrals? Forest shrines? Home altars? Underground temples? The physical spaces of worship tell you a lot about a religion's values — and they create settings where sacred rules press down on characters. Think about who is allowed inside, what the space smells and sounds like, and what behaviour is expected there.*
+*Grand cathedrals? Forest shrines? Home altars? Underground temples? The physical spaces of worship tell you a lot about a religion's values, and they create settings where sacred rules press down on characters. Think about who's allowed inside, what the space smells and sounds like, and what behaviour is expected there.*
 
 _______________________________________________________________
 
@@ -358,7 +358,7 @@ These leaders may become allies or antagonists. Think about who holds power to h
 **How does religious authority relate to political authority?**
 *This shapes what defying religion costs. In a theocracy, religious disobedience is political treason. When church and state are separate, religious dissent may be socially costly but legally protected.*
 
-- ☐ United (theocracy — religious and political authority are one)
+- ☐ United (theocracy, religious and political authority are one)
 - ☐ Allied (separate institutions that support each other)
 - ☐ Competing (both claim authority; power struggles between them)
 - ☐ Separate (religion has no political power; dissent is a personal matter)
@@ -405,21 +405,21 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-*Cross-check: Does your religious authority complement or conflict with your government (Section 5)? If your religion holds legal or military power, make sure that aligns with — or intentionally contradicts — the political structure you've built. Theocracies, alliances, and church-state rivalries should be consistent across both sections.*
+*Cross-check: Does your religious authority complement or conflict with your government (Section 5)? If your religion holds legal or military power, make sure that aligns with, or intentionally contradicts, the political structure you've built. Theocracies, alliances, and church-state rivalries should be consistent across both sections.*
 
 ### Schisms & Reformation
 
-Religions rarely stay unified forever. Splits over doctrine, practice, or leadership create factions that characters can belong to, flee from, or exploit. A reformed branch might accept what the orthodox branch condemns — giving your characters an alternative that comes with its own costs.
+Religions rarely stay unified forever. Splits over doctrine, practice, or leadership create factions that characters can belong to, flee from, or exploit. A reformed branch might accept what the orthodox branch condemns, giving your characters an alternative that comes with its own costs.
 
 **Has the religion ever split, and if so, over what?**
-*A doctrinal disagreement? A disputed succession? A revelation that some accepted and others rejected? The cause of the split shapes what each faction cares about most — and which side your characters fall on.*
+*A doctrinal disagreement? A disputed succession? A revelation that some accepted and others rejected? The cause of the split shapes what each faction cares about most, and which side your characters fall on.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **Are there competing interpretations of doctrine that your characters could appeal to?**
-*A stricter reading that condemns them, and a more lenient one that might offer shelter? Competing interpretations give characters options — but choosing the "wrong" faction carries its own risks.*
+*A stricter reading that condemns them, and a more lenient one that might offer shelter? Competing interpretations give characters options, but choosing the "wrong" faction carries its own risks.*
 
 _______________________________________________________________
 
@@ -427,7 +427,7 @@ _______________________________________________________________
 
 ### Religious Education
 
-How faith is transmitted to the next generation determines how deeply it takes root — and how hard it is to question later.
+How faith is transmitted to the next generation determines how deeply it takes root, and how hard it is to question later.
 
 **How do people in your world learn their faith?**
 *Formal temple schools? Oral tradition passed from parent to child? Apprenticeship with a priest or elder? Sacred texts studied independently? The method of transmission shapes how flexible or rigid belief becomes. A faith learned through storytelling may be more adaptable than one drilled through catechism.*
@@ -436,7 +436,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What happens to someone who was never properly educated in the faith — or who was educated in the "wrong" version?**
+**What happens to someone who was never properly educated in the faith, or who was educated in the "wrong" version?**
 *Are they pitied, distrusted, or seen as a blank slate? This matters for characters who cross religious boundaries: a love interest from outside the faith may be seen as ignorant rather than heretical, which creates different obstacles.*
 
 _______________________________________________________________
@@ -452,7 +452,7 @@ _______________________________________________________________
 
 ## Religious Law, Doctrine & Forbidden Love
 
-*You've established who the gods are and how the institution operates. Now it's time to get specific about the rules — the actual laws and doctrines that stand between your characters and their love.*
+*You've established who the gods are and how the institution operates. Now it's time to get specific about the rules, the actual laws and doctrines that stand between your characters and their love.*
 
 What are the actual restrictions of faith on love and marriage? Faith takes what was once an abstract idea and makes it a very real barrier. At this point, the will of God has turned into the law that prohibits your character from doing something, or requires them to do something.
 
@@ -474,7 +474,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What are the penalties for breaking non-romantic religious laws, and who enforces them?**
-*Is eating forbidden food a minor social embarrassment or a serious offence? Does breaking a Sabbath-like rest day bring divine punishment or just community disapproval? The severity of enforcement for everyday rules tells your reader how much more dangerous breaking the big rules — like forbidden love — will be.*
+*Is eating forbidden food a minor social embarrassment or a serious offence? Does breaking a Sabbath-like rest day bring divine punishment or just community disapproval? The severity of enforcement for everyday rules tells your reader how much more dangerous breaking the big rules, like forbidden love, will be.*
 
 _______________________________________________________________
 
@@ -507,10 +507,10 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-*Cross-check: Do your religious restrictions align with your cultural taboos (Section 3)? Religious law and cultural norms often reinforce each other, but where they diverge — a culture that tolerates what the religion forbids, or vice versa — you get interesting friction. Make sure the overlap or tension is intentional.*
+*Cross-check: Do your religious restrictions align with your cultural taboos (Section 3)? Religious law and cultural norms often reinforce each other, but where they diverge (a culture that tolerates what the religion forbids, or vice versa) you get interesting friction. Make sure the overlap or tension is intentional.*
 
 **Which character believes the religious law is right, even as they fall in love?**
-*This character creates the most interesting tension. What would it take for them to choose love over religious duty — and what do they tell themselves while they resist?*
+*This character creates the most interesting tension. What would it take for them to choose love over religious duty, and what do they tell themselves while they resist?*
 
 
 _______________________________________________________________
@@ -521,7 +521,7 @@ _______________________________________________________________
 
 ## The Heretic Love Interest
 
-*Religious law tells your characters what they can't do. But what happens when the problem isn't the action — it's the person they love?*
+*Religious law tells your characters what they can't do. But what happens when the problem isn't the action, it's the person they love?*
 
 There is a big distinction in the way the audience experiences a religiously forbidden romantic involvement, versus a romantic involvement with someone who is specifically condemned by the religion. A behavioural taboo (breaking celibacy, marrying outside the faith, violating a vow) is where you're doing something wrong, but there's nothing wrong with the person you've done something wrong with. You have options such as making amends, finding a loophole, or redefining the relationship through marriage or dispensation.
 
@@ -556,11 +556,11 @@ If your love interest is a heretic beloved, use the four stages above to trace h
 
 | Stage | What Happens in Your Story | The Scene or Moment |
 |-------|---------------------------|-------------------|
-| *Doctrinal certainty — what do they believe at the start?* | *Reid believes all witches are monsters. His identity as a Chasseur depends on it.* | *His oath-taking ceremony; his first kill* |
-| Doctrinal certainty — what do they believe at the start? | | |
-| Embodied contradiction — when does attraction first conflict with doctrine? | | |
-| Epistemic crisis — what revelation shatters their certainty? | | |
-| Reclassification — how do they rebuild their moral categories? | | |
+| *Doctrinal certainty: what do they believe at the start?* | *Reid believes all witches are monsters. His identity as a Chasseur depends on it.* | *His oath-taking ceremony; his first kill* |
+| Doctrinal certainty: what do they believe at the start? | | |
+| Embodied contradiction: when does attraction first conflict with doctrine? | | |
+| Epistemic crisis: what revelation shatters their certainty? | | |
+| Reclassification: how do they rebuild their moral categories? | | |
 
 ### Resolution: Redemption or Redefinition?
 
@@ -586,7 +586,7 @@ The Redefinition Path: The doctrine itself is exposed as partial, weaponised, or
 
 ## Personal Faith & Hidden Devotion
 
-*You've built the external structures — institutions, laws, forbidden categories. Now turn inward: what do your characters actually believe, and what are they hiding?*
+*You've built the external structures: institutions, laws, forbidden categories. Now turn inward. What do your characters actually believe, and what are they hiding?*
 
 There are many ways people believe in religion. They may have strong faith in their gods, but hate the way the priests run things. Others may just go through the motions to fit in. Which type of believer someone is can greatly impact how the romance develops. If the devout believer does something against the rules of the religion, they may lose the favour of their god. On the other hand, the cultural believer risks loss of connection to their community, and ultimately their sense of identity, but not their soul.
 
@@ -611,7 +611,7 @@ The mechanism of concealment shapes the texture of the romantic tension.
 | Performative orthodoxy | The practitioner performs the dominant religion's rituals while secretly practising their own | Every public prayer is a lie; the gap between performance and truth widens with every day |
 
 **How does the hidden character conceal their true nature?**
-*Pick the mechanism from the table above that best fits your story. Think about what makes concealment hardest during moments of intimacy — the closer they get, the harder it should be to keep the secret.*
+*Pick the mechanism from the table above that best fits your story. Think about what makes concealment hardest during moments of intimacy. The closer they get, the harder it should be to keep the secret.*
 
 
 _______________________________________________________________
@@ -632,7 +632,7 @@ The moment of revelation is one of the most charged scenes in any hidden-faith r
 The "remedy" for the betrayal is often a moment of self-sacrifice. The hidden practitioner must use their forbidden magic to save the lover, thereby outing themselves but proving that their nature isn't monstrous. This transforms the revelation from a source of conflict into a proof of love.
 
 **What does each character actually believe, what do they doubt, and what would breaking a religious rule cost them?**
-*Not what they're supposed to believe. What do they genuinely feel about the divine? Consider the full spectrum: deep faith, going through the motions for social reasons, trusting the gods but despising the priests, private doubt they'd never voice aloud, or outright rejection they keep hidden. The gap between official doctrine and personal belief is where the most interesting romantic tension lives — and it determines what defiance actually costs. A true believer faces an existential crisis: they're betraying who they are. A cultural believer risks community and identity rather than spiritual anguish. A character who believes in the gods but not the institution might feel justified — but still fear divine consequences.*
+*Not what they're supposed to believe. What do they genuinely feel about the divine? Consider the full spectrum: deep faith, going through the motions for social reasons, trusting the gods but despising the priests, private doubt they'd never voice aloud, or outright rejection they keep hidden. The gap between official doctrine and personal belief is where the most interesting romantic tension lives, and it determines what defiance actually costs. A true believer faces an existential crisis: they're betraying who they are. A cultural believer risks community and identity rather than spiritual anguish. A character who believes in the gods but not the institution might feel justified — but still fear divine consequences.*
 
 | Character | What They Genuinely Believe | What They Publicly Perform | Where Belief and Performance Diverge | What Breaking a Rule Would Cost Them |
 |-----------|---------------------------|---------------------------|--------------------------------------|--------------------------------------|
@@ -640,7 +640,7 @@ The "remedy" for the betrayal is often a moment of self-sacrifice. The hidden pr
 | Love interest | | | | |
 
 **What parts of their faith would each character fight to keep, even if they left the religion?**
-*Most believers don't accept every teaching wholesale, and most who leave don't reject everything. One character might abandon the institution but still pray in private. Another might keep the moral framework but stop believing in the gods. These remnants reveal what faith actually means to them — and what the romance can never fully replace.*
+*Most believers don't accept every teaching wholesale, and most who leave don't reject everything. One character might abandon the institution but still pray in private. Another might keep the moral framework but stop believing in the gods. These remnants reveal what faith actually means to them, and what the romance can never fully replace.*
 
 _______________________________________________________________
 
@@ -676,7 +676,7 @@ Daily practices make faith feel real on the page. What rituals would your charac
 | Weekly/regular gatherings | | | |
 
 **⬥ Core: What things are taboo or forbidden in everyday life because of religion?**
-*Foods they won't eat, words they won't say, places they won't go, things they won't touch. Taboos make faith visible in small moments — and create tension when a character breaks one for the first time.*
+*Foods they won't eat, words they won't say, places they won't go, things they won't touch. Taboos make faith visible in small moments, and create tension when a character breaks one for the first time.*
 
 
 _______________________________________________________________
@@ -684,14 +684,14 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What folk practices do ordinary people follow that the official religion doesn't endorse?**
-*Lucky charms the priests call superstition, prayers to old gods the temple pretends don't exist, harvest rituals that predate the current faith, fortune-telling methods the clergy condemn. The gap between folk religion and organised religion is where characters find flexibility — and where forbidden lovers might find a tradition that blesses what the temple forbids.*
+*Lucky charms the priests call superstition, prayers to old gods the temple pretends don't exist, harvest rituals that predate the current faith, fortune-telling methods the clergy condemn. The gap between folk religion and organised religion is where characters find flexibility, and where forbidden lovers might find a tradition that blesses what the temple forbids.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **Does either character follow folk practices that the other finds strange, heretical, or charming?**
-*Small religious differences in daily life — the "wrong" prayer before a meal, an unfamiliar protective gesture, an offering the other character's faith would consider pagan — create moments of friction and intimacy that make interfaith tension feel lived-in rather than abstract.*
+*Small religious differences in daily life (the "wrong" prayer before a meal, an unfamiliar protective gesture, an offering the other character's faith would consider pagan) create moments of friction and intimacy that make interfaith tension feel lived-in rather than abstract.*
 
 _______________________________________________________________
 
@@ -754,7 +754,7 @@ _______________________________________________________________
 
 ## Crisis of Faith
 
-*You've defined what your characters believe and how they practise it. Now comes the moment that belief is tested — when love and faith collide and something has to give.*
+*You've defined what your characters believe and how they practise it. Now comes the moment that belief is tested, when love and faith collide and something has to give.*
 
 A person's faith can break when their beliefs clash with their feelings. That is one of the greatest internal struggles you can have in your writing. It goes beyond "should I break this rule?" It goes down to "is everything I believed a lie?"
 
@@ -769,7 +769,7 @@ Poppy's crisis of faith in *From Blood and Ash* is a complete destruction. She l
 You want to create a crisis of faith as a process. You want to depict the character experiencing several stages: attempting to hold onto their faith stronger, becoming angry at their god, making deals for exceptions, mourning the loss of what they believed in. Allow them to try the old comforts - prayer, ritual, sacred texts - and demonstrate how these efforts work less and less well, or differently than before. Portray the physical sensations of faith crisis: the hollow feeling where certainty used to be, the vertigo of having no ground, the loneliness of losing something that connected them to community and meaning. If faith is rebuilt, show it as something different than before. Scarred, harder-won, more honest. The crisis isn't resolved by finding the right argument; it's resolved by learning to live without certainty, or by finding a different kind of faith entirely.
 
 **What part of their faith does the relationship make them question?**
-*Are they doubting the gods themselves, the rightness of doctrine, the authority of religious leaders, or the goodness of a god who forbids love? Be specific — a crisis of faith needs a specific crack to start from.*
+*Are they doubting the gods themselves, the rightness of doctrine, the authority of religious leaders, or the goodness of a god who forbids love? Be specific. A crisis of faith needs a specific crack to start from.*
 
 
 _______________________________________________________________
@@ -796,7 +796,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What is the moment their faith finally breaks — or transforms into something new?**
+**What's the moment their faith finally breaks, or transforms into something new?**
 *This is the turning point: the scene where they have to choose, or where they find an understanding of their faith that didn't exist before.*
 
 
@@ -805,7 +805,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What would a version of their faith that includes their love look like?**
-*Is there a way to believe that doesn't require giving up the relationship? Redefining faith is harder than leaving it — but often more satisfying as a resolution.*
+*Is there a way to believe that doesn't require giving up the relationship? Redefining faith is harder than leaving it, but often more satisfying as a resolution.*
 
 
 _______________________________________________________________
@@ -814,17 +814,17 @@ _______________________________________________________________
 
 ### How Religion Responds to Crisis
 
-Faith is never tested more severely than during collective catastrophe — war, plague, famine, natural disaster. Some people pray harder; others stop praying entirely. Institutions may tighten their grip or lose credibility. The way a religion responds to crisis reveals whether it serves people or controls them, and that distinction matters enormously for your romance.
+Faith is never tested more severely than during collective catastrophe: war, plague, famine, natural disaster. Some people pray harder; others stop praying entirely. Institutions may tighten their grip or lose credibility. The way a religion responds to crisis reveals whether it serves people or controls them, and that distinction matters enormously for your romance.
 
 **What happens to faith in your world during war, plague, or disaster?**
-*Do people turn to the temples for comfort, or blame the gods for abandoning them? Does the religious institution step up to help, or exploit the crisis to consolidate power? A religion that feeds the hungry during famine earns genuine loyalty. One that demands tithes while people starve earns resentment — and characters willing to rebel.*
+*Do people turn to the temples for comfort, or blame the gods for abandoning them? Does the religious institution step up to help, or exploit the crisis to consolidate power? A religion that feeds the hungry during famine earns genuine loyalty. One that demands tithes while people starve earns resentment, and characters willing to rebel.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **How does collective crisis change the stakes for your characters' forbidden relationship?**
-*During disaster, rules may loosen because no one is watching — or tighten because the institution blames the crisis on moral failures like forbidden love. A plague might be declared divine punishment for heresy, making your characters' relationship suddenly dangerous in a new way. Alternatively, shared suffering might make religious divisions feel petty, creating an opening.*
+*During disaster, rules may loosen because no one is watching, or tighten because the institution blames the crisis on moral failures like forbidden love. A plague might be declared divine punishment for heresy, making your characters' relationship suddenly dangerous in a new way. Alternatively, shared suffering might make religious divisions feel petty, creating an opening.*
 
 _______________________________________________________________
 
@@ -834,7 +834,7 @@ _______________________________________________________________
 
 ## How Religious Obstacles Resolve
 
-*You've broken your character's faith open. Now the question is what grows in the crack — and whether the resolution feels earned or convenient.*
+*You've broken your character's faith open. Now the question is what grows in the crack, and whether the resolution feels earned or convenient.*
 
 Crisis is the setup. Resolution is the payoff. It's how your characters deal with the conflict between faith and love which will give you the sense of whether the ending has been earned or if it's come about by accident, and whether your characters' romance carries weight beyond the final page.
 
@@ -856,7 +856,7 @@ A recurring distinction in published romantasy is the difference between rejecti
 **How does the religious obstacle resolve in your story?**
 Which pattern are you using? What does your character lose in the process? The cost is what makes the resolution feel real.
 
-**How does the religious conflict resolve? Which resolution pattern do you use? What does the character lose or sacrifice? Do they reject the institution, the faith, or both? What replaces the old belief system? Does it feel earned — and why?**
+**How does the religious conflict resolve? Which resolution pattern do you use? What does the character lose or sacrifice? Do they reject the institution, the faith, or both? What replaces the old belief system? Does it feel earned, and why?**
 
 *(Write your answer below)*
 
@@ -883,7 +883,7 @@ Using the "earned vs. convenient" columns in the reference table above, honestly
 
 ## Sin, Virtue & Religious Guilt
 
-*A crisis of faith reshapes what your character believes. But guilt reshapes how they feel about themselves — and that's harder to resolve.*
+*A crisis of faith reshapes what your character believes. But guilt reshapes how they feel about themselves, and that's harder to resolve.*
 
 Religious shame operates differently than social shame. It's not just about what others think. It's about what you believe you fundamentally are.
 
@@ -940,7 +940,7 @@ _______________________________________________________________
 
 ## Sacred Time & Calendar
 
-*So far you've focused on what your religion teaches and forbids. The next three sections — time, space, and ritual — are about how faith is experienced: when, where, and through what ceremonies.*
+*So far you've focused on what your religion teaches and forbids. The next three sections (time, space, and ritual) are about how faith is experienced: when, where, and through what ceremonies.*
 
 Religion governs time. Holy days, sacred seasons, periods of fasting or celebration: these rhythms structure the year and create occasions where religious expectations are heightened. For romance, sacred time can both separate lovers (forbidden times) and bring them together (festivals that relax normal rules).
 
@@ -958,7 +958,7 @@ Religion governs time. Holy days, sacred seasons, periods of fasting or celebrat
 &nbsp;
 
 **What happens if your characters violate sacred time to be together?**
-*Must they wait for a specific time? Are they separated during a religious season? If they break the rules of a holy day or sacred period, what does it cost them — socially, spiritually, or magically?*
+*Must they wait for a specific time? Are they separated during a religious season? If they break the rules of a holy day or sacred period, what does it cost them, socially, spiritually, or magically?*
 
 
 _______________________________________________________________

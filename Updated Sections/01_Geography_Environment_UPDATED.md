@@ -1,6 +1,6 @@
 # SECTION 1: Geography & Environment
 
-Geography in romantasy serves a dual function. It builds a believable world, sure, but it also does something more intimate: it determines if your characters can ever meet one another. A mountain range separating two kingdoms is not simply a border. It creates the only viable opportunity for an alliance through marriage. That isolated academy isn't just a cool setting. The isolation of the academy is the reason why your character can't leave this person who infuriates her.
+Geography in romantasy serves a dual function. It builds a believable world, sure, but it also does something more intimate: it determines if your characters can ever meet one another. A mountain range separating two kingdoms isn't simply a border. It creates the only viable opportunity for an alliance through marriage. That isolated academy isn't just a cool setting. The isolation of the academy is the reason why your character can't leave this person who infuriates her.
 
 Every river, every desert, every castle wall in your world will be either drawing your characters closer together or keeping them apart. Build geography with that in mind, and your setting ceases to be a passive backdrop and begins to create your story.
 
@@ -58,14 +58,14 @@ This workbook is a tool, not a test.
 
 ### How to Use This Section
 
-Questions marked **⬥ Core** are the foundations — answer these first and you'll have a working geography. Everything else lets you go deeper where your story needs it. If you're short on time, the Core questions alone will get you writing.
+Questions marked **⬥ Core** are your foundations. Answer these first and you'll have a working geography for your world. Everything else lets you go deeper where your story needs it. If you're short on time, the Core questions alone will get you writing!
 
 ### Brain Dump
 
 Before diving into the structured questions, get your initial ideas down.
 
 **What do you already picture when you think of your world's landscape?**
-*Mountains, forests, cities, oceans — whatever comes to mind first. Don't worry about consistency yet.*
+*Mountains, forests, cities, oceans, whatever comes to mind first. Don't worry about consistency yet.*
 
 _______________________________________________________________
 
@@ -86,63 +86,22 @@ Not every hill and river needs to serve the plot. But the geography you foregrou
 
 ### The "Pressure Cooker" Principle
 
-The best romantasy settings act like pressure cookers: environments that create friction between your characters by compressing them together, holding them apart, or forcing impossible choices. In situations where the physical world limits your characters' ability to move away from one another, escape each other's company, or take the path of least resistance, then your setting has done half of the work to create the relationship.
+The best romantasy settings create friction by compressing characters together, holding them apart, or forcing impossible choices. Geography creates friction in three ways:
 
-Geography creates friction in three ways.
+**Proximity friction** forces characters together despite themselves: a snowed-in mountain pass, a ship voyage, an isolated academy. Basgiath War College in *Fourth Wing* works because once you're inside, there's no leaving.
 
-**Proximity friction** forces characters together despite themselves. A snowed-in mountain pass, a ship voyage with no escape, an isolated academy, a dangerous journey requiring partnership. When your characters can't leave each other alone, then they will be forced to confront conflict instead of avoiding it, rely on each other despite distrust, and share space long enough for attraction to build beneath their defences. It is the small things that add up. Shared meals. Overheard conversations. Accidental touches in tight quarters.
+**Separation friction** keeps characters physically apart. An ocean, a mountain range, a magical barrier. Each departure and return becomes emotionally charged.
 
-That is why Basgiath War College works so well in *Fourth Wing*. The war college is literally carved into the side of rugged cliffs, and even getting in requires surviving the Parapet, a lethal crossing that establishes the stakes before classes even begin. Once you're inside, there's no leaving. The sparring gym forces mandatory physical contact. The dorms provide little to no private space. And when Violet's and Xaden's dragons turn out to be mates, their biology adds yet another layer of confinement; the riders physically can't stay apart for more than a few days without suffering for it. The combination of the environment and the bond between the two creates a situation where the characters cannot remain separated from each other. As a result, these two have to deal with each other whether they want to or not. The setting generates the romance.
+**Resource friction** forces characters to negotiate over water rights, trade routes, or contested territory. When the people your characters represent are at odds over geography, the romance must address that tension.
 
-**Separation friction** will keep your characters separated as well as physically apart from each other. An ocean that takes months to cross, separate kingdoms behind a mountain range, a magical barrier that requires certain conditions for safe passage, war zones that make travel deadly. Separation makes physical separation feel heavy and the distance meaningful. Each time someone leaves and returns the experience is emotionally charged, and the question of who'll cross the divide (and what it costs them) becomes a declaration in itself.
+What seals the pressure cooker tight:
 
-**Resource friction** presents obstacles that both characters have to overcome. Rights to use limited water resources in a desert area, the only pass through the mountains, a rare magical resource found in contested territory, trade routes that require cooperation between enemies. As long as the people your characters represent are at odds over a piece of geography, the romantic relationship will have to find a way to address this tension whether either party wants to or not.
+- **Physical trapping:** Islands, schools, sieges, ships, remote estates. Real boundaries your characters can't cross.
+- **Circumstantial trapping:** Wilderness requiring partnership, diplomatic missions, shared exile. Separating means failure or death.
+- **Environmental trapping:** Storms, seasons, magic. Forces that make leaving impossible.
+- **Social/political trapping:** Arranged marriages, hostage situations, court obligations. Leaving harms reputation, alliances, or lives.
 
-Now consider what seals the pressure cooker tight in your world:
-
-- **Physical trapping:** Islands, schools, sieges, ships, remote estates. Places with real boundaries that your characters cannot cross.
-- **Circumstantial trapping:** Wilderness that requires your characters to partner to survive, diplomatic missions, shared exile. Situations where separating means failure or death.
-- **Environmental trapping:** Storms, seasons, magic that prevents your characters from leaving. Forces outside of your characters that make leaving impossible no matter their wishes.
-- **Social/political trapping:** Arranged marriages, hostage situations, obligations to the courts. Scenarios in which leaving would result in harm to their reputation, alliances or the lives of others.
-
-You may feel that if your geography does not cause friction for your characters then the geography is wasted space; however, this is not necessarily true. It's just setting. But the geography that you choose to focus on should be causing your characters to come together, pulling them apart, or forcing them to choose. If your characters could simply leave each other behind, would they? If the answer is yes, your geography needs to make it impossible, too dangerous or too costly for them to do so.
-
----
-
-## The Pressure Cooker: Your Story
-
-#### What type of geographic friction does your romance need most?
-
-*Think about the core dynamic of your love story. Do your characters need to be trapped together (proximity), kept apart (separation), or forced to negotiate over something (resource)? Most romances use more than one, but one tends to dominate.*
-
-**⬥ Core** **What type of geographic friction does your romance use most — proximity, separation, or resource? How does it show up in your story, and what does it force your characters to do?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#### What seals the pressure cooker in your world?
-
-*Check the trapping types that apply and describe how they work in your story. The strongest setups use more than one.*
-
-| Trapping Type | Does It Apply? | How It Works in Your World |
-|---------------|----------------|---------------------------|
-| Physical (islands, walls, academies) | | |
-| Circumstantial (must partner to survive) | | |
-| Environmental (storms, seasons, magic) | | |
-| Social/political (obligations, hostage, arranged marriage) | | |
-
-#### Could your characters simply walk away from each other?
-
-*If the answer is yes, your pressure cooker has a leak. What makes leaving impossible, too dangerous, or too costly?*
-
-_______________________________________________________________
-
-_______________________________________________________________
+If your characters could simply walk away, your geography needs to make that impossible, too dangerous, or too costly.
 
 ---
 
@@ -236,7 +195,7 @@ _______________________________________________________________
 
 | Scope | ✓ | Primary Location(s) |
 |-------|---|---------------------|
-| *Single city/location (isolated island, palace, academy)* | *✓* | *Thornwick Academy — a remote magical school on sea cliffs where students are trapped together for the term* |
+| *Single city/location (isolated island, palace, academy)* | *✓* | *Thornwick Academy, a remote magical school on sea cliffs where students are trapped together for the term* |
 | Single city/location (isolated island, palace, academy) | | |
 | Single region (kingdom, province, territory) | | |
 | Multiple regions (nations, continents) | | |
@@ -246,7 +205,7 @@ _______________________________________________________________
 
 #### If your world is large, where specifically does your romance happen?
 
-*You don't need to detail everything — just locations that matter.*
+*You don't need to detail everything, just locations that matter.*
 
 **List your primary and secondary locations. For each, give the name and a one-sentence description of what happens there and why it matters to the romance.**
 
@@ -258,7 +217,7 @@ _______________________________________________________________
 
 &nbsp;
 
-**Where do most people in your world actually live — and why there?**
+**Where do most people in your world actually live, and why there?**
 
 *Cities, villages, nomadic camps? What about the geography makes settlement possible?*
 
@@ -272,7 +231,9 @@ _______________________________________________________________
 
 *This is reference material. Fill in what you know now; come back as your world develops.*
 
-**⬥ Core** **Describe your primary kingdom/nation. What is it called, what is it known for, what is its main resource, and how does it create or complicate your love story? If you have a second kingdom, describe it too.**
+**⬥ Core** **Describe your primary kingdom or nation and what defines it.**
+
+*What is it called? What is it known for? What is its main resource? How does it create or complicate your love story? If you have a second kingdom, describe it too.*
 
 *(Write your answer below)*
 
@@ -282,7 +243,9 @@ _______________________________________________________________
 
 &nbsp;
 
-**If your world has additional kingdoms or nations, describe them here. What is each called, what distinguishes it, and how does it matter to the romance?**
+**If your world has additional kingdoms or nations, describe them here.**
+
+*What is each called, what distinguishes it, and how does it matter to the romance?*
 
 *(Write your answer below)*
 
@@ -308,7 +271,9 @@ _______________________________________________________________
 
 #### What terrains shape your story?
 
-**For each major terrain type in your world, describe where it is, what it provides, what challenges it creates, and how it affects the romance.**
+**For each major terrain type in your world, describe where it is and what challenges it creates.**
+
+*What does it provide? How does it affect the romance?*
 
 *(Write your answer below)*
 
@@ -320,7 +285,7 @@ _______________________________________________________________
 
 ---
 
-*You've mapped what terrains exist. Now give them names — even placeholders make your world feel real.*
+*You've mapped what terrains exist. Now give them names; even placeholders make your world feel real.*
 
 ## Naming Places
 
@@ -356,7 +321,7 @@ For deeper language work, see *Section 11: Language & Communication*.
 | -ley / -leigh | clearing, meadow | Barnsley |
 | -dale / -vale | valley | Airedale |
 | -burgh / -bury | fortified place | Edinburgh |
-| -port | harbor, market town | Southport |
+| -port | harbour, market town | Southport |
 | -moor / -mere | marshland, lake | Windermere |
 | -fell / -mount | hill, mountain | Scafell |
 | -holme / -holm | island, water meadow | Stockholm |
@@ -438,7 +403,9 @@ For deeper language work, see *Section 11: Language & Communication*.
 
 *Use the patterns above (or your own) to name the places that matter most. If you already have names, write them here and note what they mean or evoke.*
 
-**Name your key locations (protagonist's homeland, love interest's homeland, where they meet, the contested territory, their special place). For each, explain what the name means and which naming convention it follows.**
+**Name your key locations and explain what each name means or evokes.**
+
+*Consider: protagonist's homeland, love interest's homeland, where they meet, the contested territory, their special place. Which naming convention does each follow?*
 
 *(Write your answer below)*
 
@@ -458,7 +425,7 @@ _______________________________________________________________
 
 #### Where could naming differences create a quiet intimacy beat?
 
-*A character stumbling over an unfamiliar name, asking what a place name means, or learning that their love interest's homeland translates to something beautiful — these are small moments that build closeness. Where in your story could the act of learning someone's language or place names become a romantic gesture?*
+*A character stumbling over an unfamiliar name, asking what a place name means, or learning that their love interest's homeland translates to something beautiful: these are small moments that build closeness. Where in your story could the act of learning someone's language or place names become a romantic gesture?*
 
 _______________________________________________________________
 
@@ -466,7 +433,7 @@ _______________________________________________________________
 
 ---
 
-> **Checkpoint: Your Physical World** — You've mapped the big picture, terrain, resources, and named key places. Do your locations feel distinct from each other? Do the names fit the cultures?
+> **Checkpoint: Your Physical World.** You've mapped the big picture: terrain, resources, and key place names. Do your locations feel distinct from each other? Do the names fit the cultures? If so, you're in great shape!
 
 ---
 
@@ -474,11 +441,7 @@ _______________________________________________________________
 
 ## Resources & Territorial Control
 
-Geography tells us who has what and thus who has the ability to have power. Fertile land, fresh water, mineral deposits, trade routes: all of these are valuable enough to fight wars over, to marry for, to die for.
-
-Resource control is probably the most consistent engine for romantic conflict within romantasy. It's behind an arranged marriage to secure a trade route, the tribute that a king demands from a conquered kingdom, the alliance sealed by sending a princess to a court she despises. But resource control does not have to be limited to kingdoms and their battles over land and resources. A character who finds out that their kingdom has been exploiting their love interest's homeland, or who has a monopoly on the one resource that the other's people desperately need. When there is an imbalance of resources there is also a perceived imbalance of power, which is why this works so well.
-
-The most effective way to demonstrate resource control on the page is to show what your characters can and cannot do, rather than telling them through exposition. For instance, a character from a land that has very little water may flinch every time they see someone leaving a tub of water running. If there is a war for control of a particular piece of land because of its strategic location for trade, then someone who is aware of this will notice the strategic advantage where others just view it as beautiful. This awareness should show itself through small reactions, casual conversations about prices or lack thereof, and the constant underlying anxiety that people in this world experience about resources. The tension that develops between two characters when one comes from a side of the battle for resources and the other comes from the opposing side will always develop in their assumptions about each other, what they choose not to comment about, and the times when privilege becomes visible.
+Resource control drives romantic conflict: the arranged marriage to secure a trade route, the alliance sealed by sending a princess to a court she despises. Resource imbalance creates power imbalance, and that shapes every interaction between characters on opposite sides of it.
 
 ---
 
@@ -504,7 +467,9 @@ The most effective way to demonstrate resource control on the page is to show wh
 
 *Think beyond the obvious. What does this world have that ours doesn't? What scarcity shapes daily life?*
 
-**⬥ Core** **What are the 2-3 most important natural resources in your world? For each, describe where it's found, who controls it, and how that control creates conflict or tension in your story.**
+**⬥ Core** **What are the 2-3 most important natural resources in your world, and who controls them?**
+
+*For each, note where it's found and how that control creates conflict or tension in your story.*
 
 *(Write your answer below)*
 
@@ -536,19 +501,15 @@ _______________________________________________________________
 >
 > You've mapped where resources are found and who controls them. In Section 4: Resources & Scarcity, you'll explore how resource control creates economic stakes, cultural traditions, and romantic tension.
 
-> **Cross-check:** Do your resources match the economic system you'll build in Section 4?
+> **Cross-check:** Do your resources match the economic system you'll build in Section 4? They don't have to be perfect yet, but keep an eye on consistency.
 
 ---
 
-*You've built the physical structure. Now step inside it — what does it actually feel like to be there?*
+*You've built the physical structure. Now step inside it. What does it actually feel like to be there?*
 
 ## The Sensory World
 
-Geography doesn't just mean what exists in space; it also means how it feels to be in that space. Those sensory elements of your setting contribute to the emotional texture of scenes. A first kiss will have a different quality to it when done in a garden filled with the scent of night-blooming jasmine as opposed to a stone hallway with torch smoke.
-
-You want to filter the sensory details you are including through your POV character's emotional state. A person in love will notice the warmth of sun on their skin, the sweet fragrance of flowers, and the softness of the grass beneath them. On the other hand, a grieving character will see the same garden as being too light, the flower fragrance overpowering, and the bird song annoyingly loud. Do not attempt to include every detail of a scene. Choose two or three sensory elements that help to establish the mood of each scene you write and then let the rest fade away.
-
-Something to be aware of is the "weather report" style of beginning a scene. This is when you describe your setting using neutral language before anything has happened. By incorporating the sensory elements into the action and emotions of your characters, you will create a stronger scene. Instead of saying "The room was cold," say "She tightened her cloak around her body, breath misting in the unheated chamber." As a character interacts with the world, the way they interact with it creates both the setting of the scene and the feelings of the character simultaneously.
+Geography isn't just what exists in space; it's how it feels to be there. Filter sensory details through your POV character's emotional state, and weave them into action rather than neutral description. Instead of "The room was cold," write "She tightened her cloak around her body, breath misting in the unheated chamber."
 
 ---
 
@@ -572,7 +533,9 @@ Something to be aware of is the "weather report" style of beginning a scene. Thi
 
 *Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?*
 
-**How does your primary setting change throughout the day? Describe it at morning, midday, evening, and night — and note what kind of romantic scene would fit each time.**
+**How does your primary setting change throughout the day?**
+
+*Describe morning, midday, evening, and night. What time of day best suits a romantic scene? A dangerous one?*
 
 *(Write your answer below)*
 
@@ -612,11 +575,7 @@ _______________________________________________________________
 
 ## Climate, Weather & Seasons
 
-The weather is a form of immediate, physical, environmental condition, which affects everything from how people move through the world, their ability to grow food, warfare, and their day-to-day lives. In addition to providing these barriers to possibility, seasons can provide a deadline (marry before the snow blocks the pass) or a waiting period (trapped together until the spring thaw), or simply mark the passage of time as they navigate their long-term attraction to one another.
-
-Using seasonal events to show the passage of time is a nice way to avoid stating the obvious. The first frost. The smell of rain after months of drought. The way the angle of the sun changes every week. Weather is most effective in romantic stories when it creates some kind of immediate physical problem that both characters have to deal with together: wet clothes that need to come off, cold that needs to be warmed, heat that irritates. Do not simply tell the reader about the weather. Have the characters react to it, complain about it, make decisions based on it.
-
-In addition, seasonal changes can also reflect changes in emotions beautifully. A couple whose relationship begins to thaw as the last of winter melts away. Tensions that build as the temperatures rise with summer. A reckoning that arrives with autumn.
+Weather and seasons shape *when* things can happen. Seasons provide deadlines, waiting periods, and markers of time passing. Weather works best in romance when it creates immediate physical problems characters must solve together.
 
 ---
 
@@ -624,7 +583,7 @@ In addition, seasonal changes can also reflect changes in emotions beautifully. 
 
 #### **⬥ Core** What's the overall climate?
 
-*Climate shapes daily life, which shapes your characters' interactions. Tropical heat, bitter cold, endless rain — each creates different physical problems that your characters may need to solve together.*
+*Climate shapes daily life, which shapes your characters' interactions. Tropical heat, bitter cold, endless rain, each creates different physical problems that your characters may need to solve together.*
 
 _______________________________________________________________
 
@@ -674,7 +633,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-> **Cross-check:** Does your climate support the flora and fauna you'll build in Section 2?
+> **Cross-check:** Does your climate support the flora and fauna you'll build in Section 2? If you've got tropical creatures in a frozen wasteland, something needs adjusting!
 
 ---
 
@@ -689,11 +648,7 @@ _______________________________________________________________
 ---
 ## Dangerous Regions
 
-Every world has places that are deadly, and therefore avoided, or crossed only with preparation and company. Dangerous regions serve romance by raising stakes and forcing partnership. When two characters find themselves needing to travel across hostile territory together, survival becomes the only priority, and the walls people maintain in civilised settings collapse fast.
-
-But the danger has to land. If your characters trek through the Deadly Wastes and emerge fine, readers stop believing the world is dangerous, and if they don't believe the danger, they don't believe your characters need each other to survive it. So let the environment cause damage to your characters: exhaustion, injury, rationed supplies, wrong turns, real fear. Write one character's competence saving the other. Write one character's vulnerability forcing the other to step up. What occurs after your characters survive some horrible event together forever changes their relationship, so make sure you give that shift room to breathe on the page.
-
-Creating the decision to venture into dangerous territory as a heavy decision prior to entering helps too. Characters arguing about whether to go, preparing inadequately, or being forced in against their will. The region itself should have a reputation that precedes it: local guides who refuse to help, maps that end at the border, warnings ignored out of desperation. All of that builds dread, and dread makes the romance that blooms inside the danger feel earned.
+Dangerous regions raise stakes and force partnership. When survival becomes the priority, social walls collapse fast. Let the environment cause real damage, and let one character's competence save the other.
 
 ---
 
@@ -717,7 +672,9 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
 
 *Shared danger bonds people fast. What threats would force them to rely on each other?*
 
-**Plan a dangerous journey for your characters. Where do they go and why? What dangers do they face? What damage does the environment cause? What forces them to rely on each other, and what changes between them after surviving it?**
+**Plan a dangerous journey for your characters. Where do they go, and what forces them to rely on each other?**
+
+*What dangers do they face? What damage does the environment cause? What changes between them after surviving it?*
 
 *(Write your answer below)*
 
@@ -730,11 +687,7 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
 ---
 ## Borders & Boundaries
 
-Borders convert geographic areas to identities. When a mountain range or river is defined as the "line" that separates two groups of people, the people on either side begin to define themselves relative to one another. The creation of a border creates cultural assumptions, political tension, and a kind of deep-seated distrust that leads to cross-border romance feeling like something that is strictly prohibited, as opposed to merely inconvenient.
-
-The strongest borders in romantasy are not necessarily lines on a map; they are lines in the minds of the characters. A character raised with the idea that all of the people on the other side of the mountains are barbarians or that no one from the other court can be trusted will have that border inside of them long after the physical one has been crossed. When writing the prejudices that each character holds against the other, make sure they are specific and casual: the assumptions each character makes about the other's food, manners, values, intelligence. Then write the moments when those assumptions break down.
-
-Also consider the cost of crossing a border for each character. Is crossing considered treason? Social death? Does one character risk everything to cross over while the other side doesn't even notice? The asymmetry of the cost of the border to each character can lead to the entire romantic arc. Borders can also create "in-between" space: the neutral zone, the disputed land, the meeting point where neither character is quite at home. Many of the most truthful conversations occur in these in-between zones because neither party has the comfort of home base.
+The strongest borders aren't lines on a map. They're lines in the characters' minds. A character raised believing everyone across the mountains is a barbarian will carry that border long after the physical one has been crossed. Borders also create "in-between" spaces, neutral zones where the most honest conversations happen.
 
 ---
 
@@ -742,7 +695,7 @@ Also consider the cost of crossing a border for each character. Is crossing cons
 
 #### **⬥ Core** What geographic features create borders?
 
-*Mountains, rivers, and oceans don't just separate land — they separate peoples, and the assumptions each side makes about the other. The feature you choose shapes how crossable the border feels.*
+*Mountains, rivers, and oceans don't just separate land; they separate peoples, and the assumptions each side makes about the other. The feature you choose shapes how crossable the border feels.*
 
 _______________________________________________________________
 
@@ -750,7 +703,7 @@ _______________________________________________________________
 
 #### How permeable are these borders?
 
-*A border that's easy to cross creates a different kind of forbidden love than one that's physically impassable. The harder the crossing, the more it costs — and the more that cost means when someone pays it.*
+*A border that's easy to cross creates a different kind of forbidden love than one that's physically impassable. The harder the crossing, the more it costs, and the more that cost means when someone pays it.*
 
 _______________________________________________________________
 
@@ -760,7 +713,9 @@ _______________________________________________________________
 
 *Borders create "us" and "them." What assumptions would each character have about someone from the other side?*
 
-**What geographic or political border separates your characters? What does crossing it mean (legally, socially, personally), and is there any in-between space where they can meet?**
+**What geographic or political border separates your characters, and what does crossing it cost?**
+
+*Consider: legal, social, and personal consequences. Is there any in-between space where they can meet?*
 
 *(Write your answer below)*
 
@@ -772,9 +727,11 @@ _______________________________________________________________
 
 #### What assumptions does each character carry about the other side?
 
-*The strongest borders are internal. What does each character believe — casually, without thinking — about people from their love interest's side? And what moment first cracks that assumption?*
+*The strongest borders are internal. What does each character believe, casually, without thinking, about people from their love interest's side? And what moment first cracks that assumption?*
 
-**What does your protagonist assume about the love interest's people — and what moment shatters that assumption? What does the love interest assume about the protagonist's people, and when does that break?**
+**What does your protagonist assume about the love interest's people, and what moment shatters that assumption?**
+
+*Answer for the love interest too: what do they assume about the protagonist's people, and when does that break?*
 
 *(Write your answer below)*
 
@@ -786,23 +743,56 @@ _______________________________________________________________
 
 ---
 
-> **Cross-check:** Do your borders match the political system you'll build in Section 5?
+> **Cross-check:** Do your borders match the political system you'll build in Section 5? Your geography shapes who holds power, so these should feel connected.
 
-> **Checkpoint: Constraints & Boundaries** — You've defined what makes travel difficult, what seasons allow or prevent, and what borders divide peoples. Do these constraints create the friction your romance needs?
+> **Checkpoint: Constraints & Boundaries.** You've defined what makes travel difficult, what seasons allow or prevent, and what borders divide peoples. Do these constraints create the friction your romance needs? If you're nodding, you're in good shape.
 
 ---
 
-*You've built the physical world and its constraints. Now consider the emotional geography — the places that feel like home, and the ones that don't.*
+*You've built the physical world and its constraints. Now let's consider the emotional geography, the places that feel like home, and the ones that don't.*
+
+## The Pressure Cooker: Your Story
+
+#### What type of geographic friction does your romance need most?
+
+*Think about the core dynamic of your love story. Do your characters need to be trapped together (proximity), kept apart (separation), or forced to negotiate over something (resource)? Most romances use more than one, but one tends to dominate.*
+
+**⬥ Core** **What type of geographic friction does your romance use most: proximity, separation, or resource?**
+
+*How does it show up in your story, and what does it force your characters to do?*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+#### What seals the pressure cooker in your world?
+
+*Check the trapping types that apply and describe how they work in your story. The strongest setups use more than one.*
+
+| Trapping Type | Does It Apply? | How It Works in Your World |
+|---------------|----------------|---------------------------|
+| Physical (islands, walls, academies) | | |
+| Circumstantial (must partner to survive) | | |
+| Environmental (storms, seasons, magic) | | |
+| Social/political (obligations, hostage, arranged marriage) | | |
+
+#### Could your characters simply walk away from each other?
+
+*If the answer is yes, your pressure cooker has a leak. What makes leaving impossible, too dangerous, or too costly?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+---
 
 ## Home & Belonging
 
-One of the most emotionally charged concepts of love is "Home". The characters may have to travel to find love, may choose between the love they want to have and the comfort of "Home", may learn that "Home" is wherever the other person is, or may discover that choosing this person means exile from everything familiar.
-
-You can convey this through specific sensory elements and details about the location rather than simply stating that the "place" is important to the character. What is the first thing your character reaches for when they're homesick? Is there a certain smell that takes your character right back to the time and place that made them feel at home? When you write scenes that take place in your character's home area, allow them to move with complete ease and familiarity; they know which creaking floorboards they'll hit, which windows won't open. Then compare and contrast how your character moves through unfamiliar environments. Do they hesitate, do they observe their surroundings carefully, do they appear somewhat unsteady?
-
-The emotional tug-of-war between "where I belong" and "where love is taking me" creates some of romance's most powerful emotional beats. When a character decides to remain in their lover's world, or asks their lover to join them in their world, that decision is just as profound as any verbal confession of love.
-
-This idea is central to the entire arc of the ACOTAR series. The Spring Court is a beautiful place; eternal sunshine, flowers, whimsy. However, after Feyre's experience Under the Mountain, the beauty of the Spring Court transforms into a prison. Tamlin cages her inside the manor's wards, and the beautiful landscape that used to be so romantic now feels confining. She then arrives at the Night Court and encounters Velaris: a hidden city of starlight built along the Sidra River, and an artists' quarter known as the Rainbow. The topography of Velaris parallels what Rhysand provides for her emotionally; safety, creative freedom, a place that welcomes her powers rather than fearing them. As Feyre travels from the Spring Court to Velaris, her physical sense of "home" reflects her emotional connection to each location and to each relationship. When the Spring Court feels like a prison, that relationship is dying. When Velaris feels like home, the new love has grown roots. The geography tells the reader where Feyre's heart is long before she acknowledges it to herself.
+"Home" is one of the most emotionally charged concepts in romance. Characters may learn that home is wherever the other person is, or discover that choosing this person means exile from everything familiar. Convey it through sensory detail and body language: a character who moves with ease on their own turf but hesitates in unfamiliar environments.
 
 ---
 
@@ -836,7 +826,7 @@ _______________________________________________________________
 
 *Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?*
 
-**Where does each of your main characters feel most out of place — alien, uncomfortable, or unwelcome? Why?**
+**Where does each of your main characters feel most out of place, alien, uncomfortable, or unwelcome? Why?**
 
 *(Write your answer below)*
 
@@ -849,15 +839,7 @@ _______________________________________________________________
 ---
 ## Entering Each Other's Worlds
 
-When your characters are from different areas, sending one to visit the other's territory is a big deal. There is a certain risk of weakness in inviting someone to enter your home grounds. While your new friend will be seeing your world through their eyes, they'll also notice aspects of your world you've grown so accustomed to you no longer even think about. Both the beauty and the flaws are equally present.
-
-As soon as a character visits their love interest's territory, use their outsider perspective to observe everything around them. What confuses them? What do they find impressive? What do they find unsettling? Their reactions reveal both the world and the character at the same time. Conversely, the "native" character will experience a type of vulnerability of their own. They will be made aware of the poverty they had normalised, the privileges they had never even considered, or the customs which, although perfectly logical to themselves, appear bizarre when articulated out loud.
-
-It is the tiny moments of the everyday experience where we can witness the truest display of intimacy. The love interest instinctively reaching to help the visitor perform a task they are unfamiliar with. The visitor mispronouncing a word that everyone around them understands perfectly well. The native character defending their home against criticisms they secretly agree with. All of these "fish-out-of-water" situations create closeness, because they necessitate explanations, patience and the trust to allow oneself to appear foolish in front of another person.
-
-In *ACOMAF*, when Rhysand takes Feyre to Velaris, he is revealing to her far more than simply the city itself. He is giving her access to the most protected secret he owns. Velaris has been kept hidden from the rest of Prythian for five thousand years. By taking Feyre to Velaris, Rhysand is entrusting her with the one place that displays who he truly is, beyond the cruel persona he presents in almost every other part of his world. The way she reacts to the vibrant street life, the theatres, the music that resonates with what he communicated to her mentally during her confinement; all of it helps to redefine him. The city *is* the confession. The host does not have to say "this is who I really am" as the very geography speaks for him.
-
-This can happen on a much smaller level. In *Bridgerton* (Season 2 / *The Viscount Who Loved Me*), a thunderstorm sends Kate Sharma into the library at Aubrey Hall, Anthony's family estate. She is petrified, cowering under a desk, and Anthony discovers her in his own domain but at a time when the power dynamics of their relationship have entirely broken down. The ancestral library, full of Bridgerton history, becomes a sanctuary where Anthony provides Kate with the quiet comfort of holding her hand and waiting patiently with her until the storm passes. A public area would have required a sense of propriety. A bedroom would have created scandal. At nighttime in the library, they can find a private area without crossing boundaries, and the vulnerability of that moment forever changes the course of their contentious interactions.
+Bringing someone to your home territory is an act of vulnerability. The visitor's outsider perspective reveals both beauty and flaws the native character has stopped noticing. Fish-out-of-water moments (mispronouncing a word, needing help with an unfamiliar task) create closeness because they require the trust to appear foolish.
 
 ---
 
@@ -867,7 +849,9 @@ This can happen on a much smaller level. In *Bridgerton* (Season 2 / *The Viscou
 
 *Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?*
 
-**When one character visits the other's world, who visits whom? What does the visitor notice first? What is the host proud of — and what would they rather hide? What everyday moment creates unexpected intimacy?**
+**When one character visits the other's world, what does the visitor notice first?**
+
+*Who visits whom? What is the host proud of, and what would they rather hide? What everyday moment creates unexpected intimacy?*
 
 *(Write your answer below)*
 
@@ -906,15 +890,9 @@ _______________________________________________________________
 ---
 ## Travel & Distance
 
-Distance lends an air of seriousness. When characters can go anywhere instantly, then being apart has little consequence. If you're travelling for weeks, then every time your characters leave each other, it counts.
+Travel removes social boundaries and puts characters in shared vulnerability: sleeping close enough to touch, being tired and cranky, relying on each other to survive. The road makes people intimate out of necessity: shared body heat, caring for blisters, the required closeness of a small boat or narrow trail.
 
-Travelling is not a series of boring scenes to get your characters from point A to point B before they hit the next big plot point. It's the place where all your characters' relationships grow. Travel removes the artificial social boundaries we place around our lives and puts us in a position of shared vulnerability: sleeping close enough to touch, being tired and cranky around each other, having to rely on each other to survive or navigate. Your characters will become intimate with each other out of necessity. One person helping to care for another's blisters. Two people sharing body heat to stay warm in the cold camp. The required closeness of a small boat or a narrow trail where two people can't help but brush against one another.
-
-Also, capture the rhythm of the travel. Comfortable silences. Only talking to each other when there's really nothing else to do. How danger brings your characters closer together than safety could ever hope to. And when you write about separation by distance, show the weight of separation by what your characters *can't* do: letters arriving too late, slow news, the pain of not knowing anything about each other. A reunion after a long period of separation hits much harder than a reunion after a short time apart.
-
-In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Hawke develop as friends and romantic interests. The continuous threat of attack from Craven continually puts them on edge; however, it's the physicality of the journey that takes away Poppy's social role as the Maiden. She can't even ride a horse, so she rides behind him. They eat meals together by the campfire. The informal nature of the trail removes all formalities. As they continue their journey, Hawke begins to treat Poppy as a peer rather than a charge, and she finally reveals to him her deepest secret, her empathic magic, while nursing back to health a dying guard. It's the actual terrain of the road, not the individual conversations, that allows her to transition from sheltered figurehead to someone making her own decisions.
-
-*Fourth Wing* does the same thing during their flight to Athebyne. Violet and Xaden have to fly together because of the bond between their dragons, and the close proximity of dragonback travel (they are constantly touching, they have to share body heat, no way to create distance mid-flight) tears down the emotional walls they've put up. By the time they reach the outpost, Violet trusts Xaden as a person, not because of his rank at Basgiath. She trusts him because of the things they both endured during the flight to Athebyne.
+When you write separation by distance, show its weight through what characters *can't* do: letters arriving too late, slow news, the pain of not knowing. A reunion after long separation hits harder than one after a short time apart.
 
 ---
 
@@ -922,9 +900,11 @@ In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Ha
 
 #### How do people typically travel in your world?
 
-*The mode of travel shapes intimacy. Dragonback forces touching. A carriage allows conversation. Walking side by side is different from riding single-file. What does your world's travel look like — and what proximity does it create?*
+*The mode of travel shapes intimacy. Dragonback forces touching. A carriage allows conversation. Walking side by side is different from riding single-file. What does your world's travel look like, and what proximity does it create?*
 
-**What is the primary mode of travel in your world? Who uses it, and what kind of physical proximity does it create between your characters?**
+**What is the primary mode of travel in your world, and what physical proximity does it create?**
+
+*Who uses it? Is it different for different classes or regions?*
 
 *(Write your answer below)*
 
@@ -936,7 +916,7 @@ In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Ha
 
 #### Travel Time Reference
 
-*These are real-world estimates. Feel free to adjust for your world — magic, flying creatures, or difficult terrain will change things.*
+*These are real-world estimates. Feel free to adjust for your world; magic, flying creatures, or difficult terrain will change things.*
 
 | Mode of Travel | Distance per Day | Notes |
 |----------------|------------------|-------|
@@ -952,7 +932,7 @@ In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Ha
 
 *Distance creates stakes. A week apart feels different than a year. How painful is separation in your world?*
 
-**⬥ Core** **How long does it take to travel between your key locations — capital to border, one character's home to the other's, and across the dangerous region?**
+**⬥ Core** **How long does it take to travel between your key locations: capital to border, one character's home to the other's, and across the dangerous region?**
 
 *(Write your answer below)*
 
@@ -962,13 +942,15 @@ In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Ha
 
 &nbsp;
 
-> **Cross-check:** Are your travel times consistent with your technology level (Section 9)?
+> **Cross-check:** Are your travel times consistent with your technology level (Section 9)? If your world doesn't have fast horses, that three-day journey might need rethinking.
 
 #### Do your characters undertake a significant journey?
 
 *The road is where walls come down. What would a long journey together reveal about each of them?*
 
-**Describe the most important journey in your story. Where does it go, how long does it take, and what happens between your characters during the journey?**
+**Describe the most important journey in your story and what changes between your characters during it.**
+
+*Where does it go? How long does it take? What forces them closer together?*
 
 *(Write your answer below)*
 
@@ -981,13 +963,9 @@ In *From Blood and Ash*, the trip through the Blood Forest is where Poppy and Ha
 ---
 ## Isolated Locations
 
-Isolation is romance's secret weapon. When characters can't leave, they can't avoid each other, and avoidance is the enemy of romantic development. Isolated settings force confrontation, require cooperation, and create the kind of pressure that transforms reluctant attraction into something undeniable.
+Isolation is romance's secret weapon. When characters can't leave, they can't avoid each other, and avoidance is the enemy of romantic development. Establish early why leaving isn't an option, then let the confined space generate its own problems: on a ship, there's nowhere to go after an argument; at an academy, the professor keeps pairing them for sparring. The setting should do storytelling work for you.
 
-It helps to establish early on why leaving isn't an option, and to make that reason feel real and insurmountable. Once that is established, you can then use the confined space to your advantage. Which rooms do all of the characters have access to? How small are the hallways? What common resources require collaboration? Write the claustrophobia alongside the intimacy, because while being isolated may develop an attraction between the two, that attraction may be hidden from the surface due to resentment toward the closeness caused by the isolation.
-
-Have fun with this, too. On a ship, there's nowhere to go after an argument, so you're eating breakfast together whether you like it or not. At an academy, the professor keeps pairing them for sparring practice. In a snowed-in estate, someone has to share a bed because the guest wing is freezing. The setting should be generating its own little problems. Let it do some of the storytelling work for you.
-
-And remember: when characters finally *could* leave but choose to stay, that choice is a declaration.
+Remember: when characters finally *could* leave but choose to stay, that choice is a declaration.
 
 ---
 
@@ -997,7 +975,9 @@ And remember: when characters finally *could* leave but choose to stay, that cho
 
 *Islands, remote estates, mountain fortresses, ships at sea, academies, pocket dimensions:*
 
-**Describe an isolated or trapped location in your world. What kind of place is it, why do people end up there, and what makes leaving difficult?**
+**Describe an isolated or trapped location in your world and what makes leaving difficult.**
+
+*What kind of place is it? Why do people end up there?*
 
 *(Write your answer below)*
 
@@ -1009,9 +989,11 @@ And remember: when characters finally *could* leave but choose to stay, that cho
 
 #### How does the isolation generate romantic pressure?
 
-*Isolation alone isn't enough — it's the logistics of confinement that force intimacy. What about this space means your characters can't avoid each other? Think about shared meals, narrow corridors, mandatory pairings, limited beds, communal bathing, arguments with nowhere to storm off to.*
+*Isolation alone isn't enough; it's the logistics of confinement that force intimacy. What about this space means your characters can't avoid each other? Think about shared meals, narrow corridors, mandatory pairings, limited beds, communal bathing, arguments with nowhere to storm off to.*
 
-**In your trapped/isolated setting, what space must the characters share? What daily routine forces interaction? Where do they go after an argument when there's nowhere to go? At what point could they leave — and what does choosing to stay mean?**
+**In your trapped/isolated setting, what space must the characters share and what daily routine forces interaction?**
+
+*Where do they go after an argument when there's nowhere to go? At what point could they leave, and what does choosing to stay mean?*
 
 *(Write your answer below)*
 
@@ -1023,26 +1005,20 @@ And remember: when characters finally *could* leave but choose to stay, that cho
 
 ---
 
-> **Checkpoint: Proximity & Distance** — You've established how far apart your characters are and what isolates them. Does the geography force them together, keep them apart, or both? Is the pressure consistent?
+> **Checkpoint: Proximity & Distance.** You've established how far apart your characters are and what isolates them. Does your geography force them together, keep them apart, or both? Is the pressure consistent? Both at once is perfectly fine, by the way.
 
 ---
 ## Geography as Emotional Landscape
 
-The physical world may support, or oppose, the emotional journey that is happening in your story. A romantic encounter would feel very different if it were happening in a sunny field versus a ruined castle. A confession made during a storm would have much greater emotional impact than a confession made while everything was quiet.
+The settings you choose can amplify or counterpoint your emotional beats. A first kiss in a threatening location creates urgency; the same kiss in a serene garden conveys safety and choice. Even more subtle: characters see the same landscape differently depending on their emotional state. A person in love sees beauty everywhere; a heartbroken person sees emptiness.
 
-The settings you choose can be directly connected to the emotional beats in your story, or they can be deliberately opposite. If you choose to use a setting which is emotionally charged (for example, a first kiss in a threatening location), you will give your story a sense of urgency. The same kiss in a serene garden would convey safety and a sense of choice. Pathetic fallacy can be effective when it is used judiciously: a storm during a confrontation and sunlight breaking through as characters reconcile. Even more subtle, however, is the idea that characters see the same landscape in different ways depending on their emotional state. A person who is in love might see beauty in every rock and tree. A person who is broken-hearted might see the same landscape as empty and unattractive.
-
-Creating "their place" can also be a powerful thing to do. This refers to a location which becomes sacred to the relationship, whether it's where they first met, first kissed, or where they weathered some kind of disaster together. When characters return to these meaningful locations, the reader should be able to pick up on the emotional resonance without needing to be told why. A single line, something like "She hadn't been back to the bridge since that night," can convey a lot of emotional information to the reader, especially if you had previously established that the bridge was a significant location.
-
-Stephenie Meyer, author of *Twilight*, built the entire premise of the book around this principle. She selected the city of Forks, Washington specifically because it is one of the rainiest, cloudiest places in the country. The rain does more than provide atmosphere; it provides the vampires with the ability to live in plain sight, and it is also symbolic of the dreamlike, suspended quality of Bella's life once she meets Edward. In addition to the rain, the Meadow is another key setting. It is a sunlit clearing within the surrounding forest, the one place where the clouds break and Edward can reveal himself fully to Bella. Over the course of the story, the Meadow becomes a symbolically important location to the relationship. When Edward leaves in *New Moon*, it is described as withered and dying, and the reader understands that the death of the Meadow reflects the state of the romance. The state of the place is an indicator of the health of the love story.
-
-In *Fourth Wing*, the use of emotional geography is taken further. Violet's lightning and Xaden's shadows are not simply metaphorical representations of their emotional states, but are actually manifestations of those states. When the intensity of their emotions finally reaches a boiling point, it manifests physically in the destruction of the space around them. Furniture is destroyed, the room shakes. The physical space around them literally cannot hold the emotional energy of the connection they share. While that's an extreme version of the principle, the craft lesson remains the same. When the world responds to the romance, readers will feel the emotion in their bodies, as opposed to simply understanding the emotion intellectually.
+Create "their place," a location that becomes sacred to the relationship. When characters return to it, a single line like "She hadn't been back to the bridge since that night" carries enormous weight without explanation.
 
 ---
 
 #### **⬥ Core** What's the emotional quality of your primary setting?
 
-*The emotional quality of a place shapes every scene that happens there. An oppressive setting adds urgency to a first kiss; a serene one implies safety and choice. Does your primary setting feel oppressive, expansive, peaceful, threatening, beautiful, decaying — and how does that quality interact with your romance?*
+*The emotional quality of a place shapes every scene that happens there. An oppressive setting adds urgency to a first kiss; a serene one implies safety and choice. Does your primary setting feel oppressive, expansive, peaceful, threatening, beautiful, decaying, and how does that quality interact with your romance?*
 
 _______________________________________________________________
 
@@ -1068,7 +1044,9 @@ _______________________________________________________________
 
 ## Integration Check
 
-**How does your geography connect to other aspects of your world? Consider: Does it create the friction type you identified? How does it explain cultural differences? How does it create power structures? How does it interact with magic? What resource or territory is contested?**
+**How does your geography connect to other aspects of your world?**
+
+*Does it create the friction type you identified? How does it explain cultural differences? How does it create power structures? How does it interact with magic? What resource or territory is contested?*
 
 *(Write your answer below)*
 
@@ -1084,7 +1062,7 @@ _______________________________________________________________
 
 | Element | Your World |
 |---------|------------|
-| *Key location 1* | *The Winter Court — where protagonist is hostage and love interest is prince* |
+| *Key location 1* | *The Winter Court, where protagonist is hostage and love interest is prince* |
 | Key location 1 | |
 | Key location 2 | |
 | Key location 3 | |
@@ -1144,10 +1122,10 @@ That said, maps can help you keep travel times consistent and visualise where th
 
 ### What's Next
 
-Your geography is built. Here's where to take it:
+Your geography is built! Here's where to take it:
 
-- **Section 2: Flora, Fauna & Ecosystems** → Natural next step. What lives in the landscapes you've just created?
-- **Section 4: Economy, Labour & Resources** → Your resources shape your economy. Build the trade routes, currency, and labor systems.
+- **Section 2: Flora, Fauna & Ecosystems** → The natural next step. What lives in the landscapes you've just created?
+- **Section 4: Economy, Labour & Resources** → Your resources shape your economy. Build the trade routes, currency, and labour systems that run on what you've mapped.
 - **Section 5: Government, Power & Law** → Your borders and territories shape political power. Who controls what you've mapped?
 - **Section 9: Technology & Infrastructure** → How do people actually travel across, build in, and survive your terrain?
-- **Section 15: Designing Your Key Locations** → Zoom in on the specific places where your story happens.
+- **Section 15: Designing Your Key Locations** → Ready to zoom in? This is where you flesh out the specific places where your story happens.

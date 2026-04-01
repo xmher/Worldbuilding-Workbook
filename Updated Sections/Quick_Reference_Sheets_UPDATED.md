@@ -30,7 +30,7 @@ _______________________________________________________________
 
 **Tech/Magic Level:** _______________________________________________
 
-(Reference: Section 9 — Technology; Section 10 — Magic)
+(Reference: Section 9, Technology; Section 10, Magic)
 
 **Tone/Atmosphere:** _______________________________________________
 
@@ -42,7 +42,7 @@ _______________________________________________________________
 
 ### Key Locations (3-5)
 
-(Reference: Section 15 — Key Locations)
+(Reference: Section 15, Key Locations)
 
 1. ____________________________________________________________
 
@@ -56,7 +56,7 @@ _______________________________________________________________
 
 **Dangerous Regions:**
 
-(Reference: Section 1 — Geography)
+(Reference: Section 1, Geography)
 
 _______________________________________________________________
 
@@ -74,7 +74,7 @@ _______________________________________________________________
 
 ### Who Rules
 
-(Reference: Section 5 — Government, Power & Law)
+(Reference: Section 5, Government, Power & Law)
 
 **Government Type:** _______________________________________________
 
@@ -112,7 +112,7 @@ _______________________________________________________________
 
 **What they wear typically:**
 
-(Reference: Section 3 — Dress, Appearance & Adornment)
+(Reference: Section 3, Dress, Appearance & Adornment)
 
 _______________________________________________________________
 
@@ -214,7 +214,7 @@ _______________________________________________________________
 
 What system they represent:
 
-(Reference: Section 16 — Antagonist & Systems)
+(Reference: Section 16, Antagonist & Systems)
 
 _______________________________________________________________
 
@@ -234,7 +234,7 @@ _______________________________________________________________
 
 **Before story begins:**
 
-(Reference: Section 7 — History)
+(Reference: Section 7, History)
 
 _______________________________________________________________
 
@@ -270,7 +270,7 @@ _______________________________________________________________
 
 ### Important Historical Dates
 
-(Reference: Section 7 — History & Lore)
+(Reference: Section 7, History & Lore)
 
 _______________________________________________________________
 
@@ -328,7 +328,7 @@ _______________________________________________________________
 
 ### Titles and Forms of Address
 
-(Reference: Section 3 — Language of Deference; Section 8 — Titles & Terms)
+(Reference: Section 3, Language of Deference; Section 8, Titles & Terms)
 
 _______________________________________________________________
 
@@ -340,7 +340,7 @@ _______________________________________________________________
 
 ## THE MAGIC SYSTEM
 
-(Reference: Section 10 — Magic System)
+(Reference: Section 10, Magic System)
 
 ### Core Rules
 
@@ -364,7 +364,7 @@ _______________________________________________________________
 
 ### Magic & Romance
 
-(Reference: Section 11 — Magic & Intimacy)
+(Reference: Section 11, Magic & Intimacy)
 
 **How magic pushes them together:** __________________________________
 
@@ -386,7 +386,7 @@ _______________________________________________________________
 
 ### Bond Mechanics (if applicable)
 
-(Reference: Section 11 — Magic & Intimacy; Section 18 — Agency Check)
+(Reference: Section 11, Magic & Intimacy; Section 18, Agency Check)
 
 **Bond type:** (fated mates, soul bond, telepathic link, magical contract, other)
 
@@ -406,7 +406,7 @@ _______________________________________________________________
 
 ### Creature Bonds
 
-(Reference: Section 2 — Flora, Fauna & Ecosystems)
+(Reference: Section 2, Flora, Fauna & Ecosystems)
 
 **Bonded creature/mount (protagonist):** ______________________________
 
@@ -422,7 +422,7 @@ _______________________________________________________________
 
 Keep these details consistent throughout your writing.
 
-(Reference: Section 1 — Geography; Section 2 — Flora & Fauna)
+(Reference: Section 1, Geography; Section 2, Flora & Fauna)
 
 ### Visual
 
@@ -468,7 +468,7 @@ _______________________________________________________________
 
 **Common foods/drinks:**
 
-(Reference: Section 2 — What They Eat)
+(Reference: Section 2, What They Eat)
 
 _______________________________________________________________
 
@@ -480,7 +480,7 @@ _______________________________________________________________
 
 ## SOCIETY & CULTURE
 
-(Reference: Section 3 — Culture, Customs & Daily Life)
+(Reference: Section 3, Culture, Customs & Daily Life)
 
 ### Social Hierarchy
 
@@ -504,7 +504,7 @@ Love interest's place: ______________________________________________
 
 ### Courtship & Marriage
 
-(Reference: Section 3 — Courtship customs; Section 5 — Marriage laws)
+(Reference: Section 3, Courtship customs; Section 5, Marriage laws)
 
 **How people court:** ______________________________________________
 
@@ -514,7 +514,7 @@ Love interest's place: ______________________________________________
 
 ### Language & Communication
 
-(Reference: Section 8 — Language & Communication)
+(Reference: Section 8, Language & Communication)
 
 **Languages in your world:** ________________________________________
 
@@ -530,7 +530,7 @@ _______________________________________________________________
 
 ## RELIGION & BELIEF
 
-(Reference: Section 6 — Religion, Myth & Prophecy)
+(Reference: Section 6, Religion, Myth & Prophecy)
 
 **What people believe:** ____________________________________________
 
@@ -548,7 +548,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Crisis of faith — what makes them question their beliefs?**
+**Crisis of faith: what makes them question their beliefs?**
 
 _______________________________________________________________
 
@@ -556,7 +556,7 @@ _______________________________________________________________
 
 ## LAWS THAT MATTER
 
-(Reference: Section 5 — Government, Power & Law)
+(Reference: Section 5, Government, Power & Law)
 
 **Law #1:** _______________________________________________________
 
@@ -586,7 +586,7 @@ Effect on romance: ________________________________________________
 
 ### How They're Forced Together
 
-(Reference: Section 13 — Pressure Cooker; Section 14 — Institutions)
+(Reference: Section 13, Pressure Cooker; Section 14, Institutions)
 
 **Primary mechanism:**
 
@@ -605,7 +605,7 @@ _______________________________________________________________
 
 ### The "Why Now?"
 
-(Reference: Section 16 — The "Why Now?" Test)
+(Reference: Section 16, The "Why Now?" Test)
 
 **What worldbuilding event kicks off their relationship?**
 
@@ -621,7 +621,7 @@ _______________________________________________________________
 
 ### The Invisible Ledger
 
-(Reference: Section 4 — Economy, Labour & Resources)
+(Reference: Section 4, Economy, Labour & Resources)
 
 **Who starts with more economic/resource power?** _____________________
 
@@ -633,7 +633,7 @@ _______________________________________________________________
 
 ### How They're Kept Apart
 
-(Reference: Section 16 — Romantasy-Specific Integration)
+(Reference: Section 16, Romantasy-Specific Integration)
 
 **Obstacle 1:** ____________________________________________________
 
@@ -649,7 +649,7 @@ Worldbuilding source: _____________________________________________
 
 ### Power Dynamics
 
-(Reference: Section 18 — Agency Check)
+(Reference: Section 18, Agency Check)
 
 **Who starts with more power:** _____________________________________
 
@@ -665,7 +665,7 @@ Worldbuilding source: _____________________________________________
 
 ### Location-Based
 
-(Reference: Section 15 — Key Locations)
+(Reference: Section 15, Key Locations)
 
 **Where they're trapped together:** ___________________________________
 
@@ -675,7 +675,7 @@ Worldbuilding source: _____________________________________________
 
 ### Time-Based
 
-(Reference: Section 17 — Dual Clock)
+(Reference: Section 17, Dual Clock)
 
 **The deadline:** __________________________________________________
 
@@ -729,7 +729,7 @@ _______________________________________________________________
 
 ## KEY RULES (The 5-7 That Matter Most)
 
-(Reference: Section 17 — Consistency Check)
+(Reference: Section 17, Consistency Check)
 
 **Rule #1:** _______________________________________________________
 
@@ -763,7 +763,7 @@ Romance relevance: ________________________________________________
 
 ## THE CHOICE MOMENTS
 
-(Reference: Section 18 — Agency Check)
+(Reference: Section 18, Agency Check)
 
 **When protagonist actively chooses love interest:**
 
@@ -791,17 +791,17 @@ _______________________________________________________________
 
 Check all that apply and note specifics:
 
-☐ Forced Proximity — How: _________________________________________
+☐ Forced Proximity - How: _________________________________________
 
-☐ Forbidden Love — Why forbidden: __________________________________
+☐ Forbidden Love - Why forbidden: __________________________________
 
-☐ Fated Mates — Type of bond: ______________________________________
+☐ Fated Mates - Type of bond: ______________________________________
 
-☐ Enemies to Lovers — Why enemies: _________________________________
+☐ Enemies to Lovers - Why enemies: _________________________________
 
-☐ Power Imbalance — Who has power: ________________________________
+☐ Power Imbalance - Who has power: ________________________________
 
-☐ Arranged Marriage — Why arranged: ________________________________
+☐ Arranged Marriage - Why arranged: ________________________________
 
 ☐ Only One Bed (or equivalent): _____________________________________
 
@@ -809,11 +809,11 @@ Check all that apply and note specifics:
 
 ☐ Telepathic/Soul Bond: ___________________________________________
 
-☐ Protector Romance — Who protects whom: ___________________________
+☐ Protector Romance - Who protects whom: ___________________________
 
-☐ Grumpy/Sunshine — Who's which: _________________________________
+☐ Grumpy/Sunshine - Who's which: _________________________________
 
-☐ Slow Burn — What prevents faster resolution: _________________________
+☐ Slow Burn - What prevents faster resolution: _________________________
 
 ☐ Other: ________________________________________________________
 
@@ -827,7 +827,7 @@ _______________________________________________________________
 
 ## THE CLIMAX
 
-(Reference: Section 16 — Final Connection Check)
+(Reference: Section 16, Final Connection Check)
 
 **External climax (fantasy plot resolution):**
 
@@ -863,7 +863,7 @@ _______________________________________________________________
 
 ## CONSISTENCY CHECKLIST
 
-(Reference: Section 17 — Consistency Check)
+(Reference: Section 17, Consistency Check)
 
 ### Before Writing a Scene:
 
@@ -895,7 +895,7 @@ _______________________________________________________________
 
 **Major holidays/festivals:**
 
-(Reference: Section 6 — Sacred Time)
+(Reference: Section 6, Sacred Time)
 
 _______________________________________________________________
 
@@ -1005,7 +1005,7 @@ _______________________________________________________________
 
 ## THE INTEGRATION MANTRA
 
-(Reference: Section 16 — Web of Systems)
+(Reference: Section 16, Web of Systems)
 
 **Every worldbuilding element should do at least two of these:**
 
