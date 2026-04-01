@@ -470,7 +470,7 @@ _______________________________________________________________
 
 ## Resources & Territorial Control
 
-Resource control is the most consistent engine for romantic conflict in romantasy. It's behind the arranged marriage to secure a trade route, the tribute demanded from a conquered kingdom, the alliance sealed by sending a princess to a court she despises. When there is an imbalance of resources there is also an imbalance of power — and that imbalance shapes every interaction between characters on opposite sides of it. Show this through small reactions: a character from a water-scarce land flinching at waste, or privilege becoming visible in what one character takes for granted and the other cannot ignore.
+Resource control drives romantic conflict — the arranged marriage to secure a trade route, the alliance sealed by sending a princess to a court she despises. Resource imbalance creates power imbalance, and that shapes every interaction between characters on opposite sides of it.
 
 ---
 
@@ -536,7 +536,7 @@ _______________________________________________________________
 
 ## The Sensory World
 
-Geography isn't just what exists in space — it's how it feels to be there. Filter sensory details through your POV character's emotional state: a person in love notices warmth and fragrance; a grieving character finds the same garden too bright and the birdsong grating. Choose two or three sensory elements per scene that establish mood, and weave them into action rather than neutral description. Instead of "The room was cold," write "She tightened her cloak around her body, breath misting in the unheated chamber."
+Geography isn't just what exists in space — it's how it feels to be there. Filter sensory details through your POV character's emotional state, and weave them into action rather than neutral description. Instead of "The room was cold," write "She tightened her cloak around her body, breath misting in the unheated chamber."
 
 ---
 
@@ -600,7 +600,7 @@ _______________________________________________________________
 
 ## Climate, Weather & Seasons
 
-Weather and seasons shape when things can happen in your world. Seasons provide deadlines (marry before the snow blocks the pass), waiting periods (trapped together until the spring thaw), and mark the passage of time. Weather works best in romance when it creates immediate physical problems characters must solve together — wet clothes, shared warmth, heat exhaustion. Have characters react to weather rather than narrating it neutrally.
+Weather and seasons shape *when* things can happen. Seasons provide deadlines, waiting periods, and markers of time passing. Weather works best in romance when it creates immediate physical problems characters must solve together.
 
 ---
 
@@ -673,7 +673,7 @@ _______________________________________________________________
 ---
 ## Dangerous Regions
 
-Dangerous regions serve romance by raising stakes and forcing partnership. When survival becomes the only priority, the walls people maintain in civilized settings collapse fast. But the danger has to land — let the environment cause real damage (exhaustion, injury, rationed supplies, fear), and let one character's competence save the other. Build dread before characters enter: local guides who refuse to help, maps that end at the border, warnings ignored out of desperation.
+Dangerous regions raise stakes and force partnership. When survival becomes the priority, social walls collapse fast. Let the environment cause real damage, and let one character's competence save the other.
 
 ---
 
@@ -710,7 +710,7 @@ Dangerous regions serve romance by raising stakes and forcing partnership. When 
 ---
 ## Borders & Boundaries
 
-Borders convert geographic areas into identities. The strongest borders in romantasy are not lines on a map — they're lines in the characters' minds. A character raised believing everyone on the other side of the mountains is a barbarian will carry that border long after the physical one has been crossed. Write the prejudices as specific and casual (assumptions about food, manners, values), then write the moments those assumptions break down. Consider, too, the asymmetry of crossing: does one character risk treason while the other barely notices? Borders also create "in-between" spaces — neutral zones where neither character is at home, and where the most honest conversations happen.
+The strongest borders in romantasy are not lines on a map — they're lines in the characters' minds. A character raised believing everyone across the mountains is a barbarian will carry that border long after the physical one has been crossed. Borders also create "in-between" spaces — neutral zones where neither character is at home, and where the most honest conversations happen.
 
 ---
 
@@ -772,13 +772,9 @@ _______________________________________________________________
 
 ## Home & Belonging
 
-One of the most emotionally charged concepts of love is "Home". The characters may have to travel to find love, may choose between the love they want to have and the comfort of "Home", may learn that "Home" is wherever the other person is, or may discover that choosing this person means exile from everything familiar.
+"Home" is one of the most emotionally charged concepts in romance. Characters may learn that home is wherever the other person is, or discover that choosing this person means exile from everything familiar. Convey it through sensory detail and body language — a character who moves with ease on their own turf but hesitates in unfamiliar environments.
 
-You can convey this through specific sensory elements and details about the location rather than simply stating that the "place" is important to the character. What is the first thing your character reaches for when they're homesick? Is there a certain smell that takes your character right back to the time and place that made them feel at home? When you write scenes that take place in your character's home area, allow them to move with complete ease and familiarity; they know which creaking floorboards they'll hit, which windows won't open. Then compare and contrast how your character moves through unfamiliar environments. Do they hesitate, do they observe their surroundings carefully, do they appear somewhat unsteady?
-
-The emotional tug-of-war between "where I belong" and "where love is taking me" creates some of romance's most powerful emotional beats. When a character decides to remain in their lover's world, or asks their lover to join them in their world, that decision is just as profound as any verbal confession of love.
-
-This idea is central to the entire arc of the ACOTAR series. The Spring Court is a beautiful place; eternal sunshine, flowers, whimsy. However, after Feyre's experience Under the Mountain, the beauty of the Spring Court transforms into a prison. Tamlin cages her inside the manor's wards, and the beautiful landscape that used to be so romantic now feels confining. She then arrives at the Night Court and encounters Velaris: a hidden city of starlight built along the Sidra River, and an artists' quarter known as the Rainbow. The topography of Velaris parallels what Rhysand provides for her emotionally; safety, creative freedom, a place that welcomes her powers rather than fearing them. As Feyre travels from the Spring Court to Velaris, her physical sense of "home" reflects her emotional connection to each location and to each relationship. When the Spring Court feels like a prison, that relationship is dying. When Velaris feels like home, the new love has grown roots. The geography tells the reader where Feyre's heart is long before she acknowledges it to herself.
+In *ACOTAR*, the Spring Court transforms from romantic paradise to prison after Feyre's trauma, while Velaris feels like home because it mirrors what Rhysand offers emotionally. The geography tells the reader where Feyre's heart is long before she acknowledges it herself.
 
 ---
 
@@ -825,15 +821,9 @@ _______________________________________________________________
 ---
 ## Entering Each Other's Worlds
 
-When your characters are from different areas, sending one to visit the other's territory is a big deal. There is a certain risk of weakness in inviting someone to enter your home grounds. While your new friend will be seeing your world through their eyes, they'll also notice aspects of your world you've grown so accustomed to you no longer even think about. Both the beauty and the flaws are equally present.
+Bringing someone to your home territory is an act of vulnerability. The visitor's outsider perspective reveals both beauty and flaws the native character has stopped noticing. Fish-out-of-water moments — mispronouncing a word, needing help with an unfamiliar task — create closeness because they require patience and the trust to appear foolish.
 
-As soon as a character visits their love interest's territory, use their outsider perspective to observe everything around them. What confuses them? What do they find impressive? What do they find unsettling? Their reactions reveal both the world and the character at the same time. Conversely, the "native" character will experience a type of vulnerability of their own. They will be made aware of the poverty they had normalised, the privileges they had never even considered, or the customs which, although perfectly logical to themselves, appear bizarre when articulated out loud.
-
-It is the tiny moments of the everyday experience where we can witness the truest display of intimacy. The love interest instinctively reaching to help the visitor perform a task they are unfamiliar with. The visitor mispronouncing a word that everyone around them understands perfectly well. The native character defending their home against criticisms they secretly agree with. All of these "fish-out-of-water" situations create closeness, because they necessitate explanations, patience and the trust to allow oneself to appear foolish in front of another person.
-
-In *ACOMAF*, when Rhysand takes Feyre to Velaris, he is revealing to her far more than simply the city itself. He is giving her access to the most protected secret he owns. Velaris has been kept hidden from the rest of Prythian for five thousand years. By taking Feyre to Velaris, Rhysand is entrusting her with the one place that displays who he truly is, beyond the cruel persona he presents in almost every other part of his world. The way she reacts to the vibrant street life, the theatres, the music that resonates with what he communicated to her mentally during her confinement; all of it helps to redefine him. The city *is* the confession. The host does not have to say "this is who I really am" as the very geography speaks for him.
-
-This can happen on a much smaller level. In *Bridgerton* (Season 2 / *The Viscount Who Loved Me*), a thunderstorm sends Kate Sharma into the library at Aubrey Hall, Anthony's family estate. She is petrified, cowering under a desk, and Anthony discovers her in his own domain but at a time when the power dynamics of their relationship have entirely broken down. The ancestral library, full of Bridgerton history, becomes a sanctuary where Anthony provides Kate with the quiet comfort of holding her hand and waiting patiently with her until the storm passes. A public area would have required a sense of propriety. A bedroom would have created scandal. At nighttime in the library, they can find a private area without crossing boundaries, and the vulnerability of that moment forever changes the course of their contentious interactions.
+In *ACOMAF*, Rhysand taking Feyre to Velaris is more than a tour — it's a confession. The hidden city reveals who he truly is beyond his cruel persona, and her reaction to it redefines him. The city *is* the declaration the host never has to say aloud.
 
 ---
 
