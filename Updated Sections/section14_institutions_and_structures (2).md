@@ -13,11 +13,11 @@ This section continues to build upon the political structures from Section 5 (Go
 
 An institution only works for your romance if it has grip.
 
-Grip means your characters genuinely can't leave. Not "it would be inconvenient to leave" or "they'd feel guilty about leaving," but the institution has real, enforceable power over their lives. The academy will kill them if they fail. The courts will destroy their family if they step out of line. The military will execute them for desertion. The marriage contract is magically binding and can never be broken. There are no keys to unlock the cages.
+Grip means your characters genuinely can't leave. Not "it would be inconvenient to leave" or "they'd feel guilty about leaving," but the institution has real, enforceable power over their lives. The academy will kill them if they fail. The courts will destroy their family if they step out of line. The military will execute them for desertion. The marriage contract is magically binding and can never be broken. There aren't any keys to unlock the cages.
 
-It is the grip of the institution that allows everything else to happen. When the institution has real teeth, every stolen moment between your characters carries weight. What would normally be a flirtatious conversation late at night is now a risk of being expelled. A kiss in the wrong corridor isn't just romance; it's risking everything they've built. The institution takes something that normally occurs between lovers and makes it an act of rebellion, and rebels are very appealing to read about.
+It's the grip of the institution that allows everything else to happen. When the institution has real teeth, every stolen moment between your characters carries weight. What would normally be a flirtatious conversation late at night is now a risk of being expelled. A kiss in the wrong corridor isn't just romance; it's risking everything they've built. The institution takes something that normally occurs between lovers and makes it an act of rebellion, and rebels are very appealing to read about.
 
-However, the most easily overlooked element is this: the institution shouldn't just determine whether your characters can be together. It should shape how they love each other. Because of the ranking system at the academy, she has to beat him in combat trials while wanting to kiss him. Due to the court's surveillance, they express their feelings through coded glances and plausible deniability. In the military, because of the chain of command, he gives her orders in public and falls apart in private. The institution doesn't just forbid the relationship; it defines the specific shape the relationship has to take in order to survive.
+Here's the most easily overlooked element: the institution shouldn't just determine whether your characters can be together. It should shape how they love each other. Because of the ranking system at the academy, she has to beat him in combat trials while wanting to kiss him. Because of the court's surveillance, they express their feelings through coded glances and plausible deniability. In the military, because of the chain of command, he gives her orders in public and falls apart in private. The institution doesn't just forbid the relationship; it defines the specific shape the relationship has to take to survive.
 
 This is the grip. The institution's rules become the grammar of the love story. When those rules break down, or when your characters figure out how to live outside of them, it means something to the reader, because the reader felt the weight of every rule leading up to it.
 
@@ -72,7 +72,7 @@ _______________________________________________________________
 
 ## A Note Before You Begin
 
-Most of these institutional types won't be applicable to your story, and that's absolutely fine. If your world has an academy but a court doesn't exist, skip the court section. If your story uses an arranged marriage but no military, go straight there. The subsections are designed to be self-contained, so work through those areas that fit your world and ignore the rest. You can always come back to the others as your story evolves.
+Most of these institutional types won't be applicable to your story, and that's absolutely fine. If your world has an academy but a court doesn't exist, skip the court section. If your story uses an arranged marriage but no military, go straight there. The subsections are designed to be self-contained, so work through the areas that fit your world and ignore the rest. You can always come back to the others as your story evolves.
 
 ---
 
@@ -816,7 +816,7 @@ _______________________________________________________________
 
 **What does the caregiver/patient power gap look like in your story, and how does it shift?**
 
-This is perhaps the most difficult dynamic to write well, because readers can identify the imbalance regardless of whether or not the characters recognise it. The caregiver has access to the patient's body and vulnerability in ways that wouldn't normally be permitted; the patient may develop feelings rooted in gratitude and dependence rather than genuine connection. The craft challenge is making sure the relationship earns its ground. The best versions of this trope build in moments where the vulnerable character shows strength despite their condition (sharp wit, fierce independence, refusing pity) and moments where the caregiver becomes vulnerable too (exhaustion, fear of loss, accidentally revealing too much of themselves during a long vigil). If the dynamic doesn't have a two-way emotional connection, then it's weak.
+This is perhaps the trickiest dynamic to write well, because readers can spot the imbalance whether the characters recognise it or not. The caregiver has access to the patient's body and vulnerability in ways that wouldn't normally be permitted; the patient may develop feelings rooted in gratitude and dependence rather than genuine connection. The craft challenge is making sure the relationship earns its ground. The best versions of this trope build in moments where the vulnerable character shows strength despite their condition (sharp wit, fierce independence, refusing pity) and moments where the caregiver becomes vulnerable too (exhaustion, fear of loss, accidentally revealing too much of themselves during a long vigil). If the dynamic doesn't have a two-way emotional connection, then it's weak.
 
 *Think about when and how the vulnerable character shows strength, and when the caregiver lets their own walls down. The relationship needs to become two-way before it can feel earned.*
 
@@ -974,7 +974,7 @@ _______________________________________________________________
 
 ## Prison & Captivity
 
-Captivity is one of romantasy's most potent institutional settings because it strips everything else away. There are no social niceties, no schedules, no institutional hierarchy to navigate. There's just two people, a locked door, and whatever power imbalance exists between them. This creates the ultimate setting for both intense proximity and vulnerability that other institutions take chapters to build; captivity gets there in a single scene.
+Captivity is one of romantasy's most potent institutional settings because it strips everything else away. There aren't any social niceties, no schedules, no institutional hierarchy to navigate. There's just two people, a locked door, and whatever power imbalance exists between them. This creates the ultimate setting for both intense proximity and vulnerability that other institutions take chapters to build; captivity gets there in a single scene.
 
 This setting has deep roots. Gothic literature built entire genres around heroines confined in towers, manors, and dungeons, but modern romantasy has transformed the dynamic completely. The captive is no longer a passive victim waiting for rescue. Instead she's an active agent, using her confinement as a catalyst for growth, information-gathering, and eventually overthrowing the systems that caged her. Think of Feyre Under the Mountain, Poppy as the veiled Maiden in From Blood and Ash, or Lara infiltrating Ithicana as a bride-spy in The Bridge Kingdom. Each of these women were forged inside the cage.
 

@@ -61,10 +61,7 @@
 )
 
 
-#cross-ref(
-  section: "Section 9",
-  note: [Technology; Section 10 — Magic],
-)
+#hint[Reference: Section 9, Technology; Section 10, Magic]
 
 
 #writing-box(
@@ -91,10 +88,7 @@
 === Key Locations (3-5)
 
 
-#cross-ref(
-  section: "Section 15",
-  note: [Key Locations],
-)
+#hint[Reference: Section 15, Key Locations]
 
 
 #writing-lines(count: 1)
@@ -115,10 +109,16 @@
 #strong[Dangerous Regions:]
 
 
-#cross-ref(
-  section: "Section 1",
-  note: [Geography],
+#hint[Reference: Section 1, Geography]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
 )
+
+
+#strong[Why are they dangerous?] (creatures, magic, terrain, political)
 
 
 #writing-box(
@@ -143,10 +143,7 @@
 === Who Rules
 
 
-#cross-ref(
-  section: "Section 5",
-  note: [Government, Power & Law],
-)
+#hint[Reference: Section 5, Government, Power & Law]
 
 
 #writing-box(
@@ -175,6 +172,15 @@
 
 #writing-box(
   label: "Who has real power",
+  height: 120pt,
+)
+
+
+#strong[How are laws enforced?] (guards, wards, spies, community shaming)
+
+
+#writing-box(
+  label: "Your Answer",
   height: 120pt,
   fill-page: true,
 )
@@ -221,10 +227,7 @@
 #strong[What they wear typically:]
 
 
-#cross-ref(
-  section: "Section 3",
-  note: [Dress, Appearance & Adornment],
-)
+#hint[Reference: Section 3, Dress, Appearance & Adornment]
 
 
 #writing-box(
@@ -494,10 +497,7 @@
 What system they represent:
 
 
-#cross-ref(
-  section: "Section 16",
-  note: [Antagonist & Systems],
-)
+#hint[Reference: Section 16, Antagonist & Systems]
 
 
 #writing-box(
@@ -539,10 +539,7 @@ What system they represent:
 #strong[Before story begins:]
 
 
-#cross-ref(
-  section: "Section 7",
-  note: [History],
-)
+#hint[Reference: Section 7, History]
 
 
 #writing-box(
@@ -611,10 +608,7 @@ What system they represent:
 === Important Historical Dates
 
 
-#cross-ref(
-  section: "Section 7",
-  note: [History & Lore],
-)
+#hint[Reference: Section 7, History & Lore]
 
 
 #writing-box(
@@ -713,10 +707,7 @@ What system they represent:
 === Titles and Forms of Address
 
 
-#cross-ref(
-  section: "Section 3",
-  note: [Language of Deference; Section 8 — Titles & Terms],
-)
+#hint[Reference: Section 3, Language of Deference; Section 8, Titles & Terms]
 
 
 #writing-box(
@@ -726,22 +717,20 @@ What system they represent:
 )
 
 
+#block(breakable: false)[
+
 == THE MAGIC SYSTEM
 
-
-#cross-ref(
-  section: "Section 10",
-  note: [Magic System],
-)
-
+#hint[Reference: Section 10, Magic System]
 
 === Core Rules
-
 
 #writing-box(
   label: "Who can use magic",
   height: 120pt,
 )
+
+]
 
 
 #writing-box(
@@ -768,13 +757,22 @@ What system they represent:
 #writing-lines(count: 1)
 
 
+#block(breakable: false)[
+
+==== What magic looks/sounds/feels like when used:
+
+#writing-box(
+  label: "What magic looks/sounds/feels like when used:",
+  height: 120pt,
+)
+
+]
+
+
 === Magic & Romance
 
 
-#cross-ref(
-  section: "Section 11",
-  note: [Magic & Intimacy],
-)
+#hint[Reference: Section 11, Magic & Intimacy]
 
 
 #writing-box(
@@ -831,10 +829,7 @@ What system they represent:
 === Bond Mechanics (if applicable)
 
 
-#cross-ref(
-  section: "Section 11",
-  note: [Magic & Intimacy; Section 18 — Agency Check],
-)
+#hint[Reference: Section 11, Magic & Intimacy; Section 18, Agency Check]
 
 
 #strong[Bond type:] (fated mates, soul bond, telepathic link, magical contract, other)
@@ -881,10 +876,7 @@ What system they represent:
 === Creature Bonds
 
 
-#cross-ref(
-  section: "Section 2",
-  note: [Flora, Fauna & Ecosystems],
-)
+#hint[Reference: Section 2, Flora, Fauna & Ecosystems]
 
 
 #writing-box(
@@ -912,25 +904,22 @@ What system they represent:
 )
 
 
-== SENSORY PALETTE
+#block(breakable: false)[
 
+== SENSORY PALETTE
 
 Keep these details consistent throughout your writing.
 
-
-#cross-ref(
-  section: "Section 1",
-  note: [Geography; Section 2 — Flora & Fauna],
-)
-
+#hint[Reference: Section 1, Geography; Section 2, Flora & Fauna]
 
 === Visual
-
 
 #writing-box(
   label: "Dominant colors of the world",
   height: 120pt,
 )
+
+]
 
 
 #strong[Quality of light:] (golden, grey, harsh, soft, magical glow)
@@ -1035,10 +1024,7 @@ Keep these details consistent throughout your writing.
 #strong[Common foods/drinks:]
 
 
-#cross-ref(
-  section: "Section 2",
-  note: [What They Eat],
-)
+#hint[Reference: Section 2, What They Eat]
 
 
 #writing-box(
@@ -1060,22 +1046,20 @@ Keep these details consistent throughout your writing.
 )
 
 
+#block(breakable: false)[
+
 == SOCIETY & CULTURE
 
-
-#cross-ref(
-  section: "Section 3",
-  note: [Culture, Customs & Daily Life],
-)
-
+#hint[Reference: Section 3, Culture, Customs & Daily Life]
 
 === Social Hierarchy
-
 
 #writing-box(
   label: "Top",
   height: 120pt,
 )
+
+]
 
 
 #writing-box(
@@ -1126,10 +1110,7 @@ Keep these details consistent throughout your writing.
 === Courtship & Marriage
 
 
-#cross-ref(
-  section: "Section 3",
-  note: [Courtship customs; Section 5 — Marriage laws],
-)
+#hint[Reference: Section 3, Courtship customs; Section 5, Marriage laws]
 
 
 #writing-box(
@@ -1153,10 +1134,7 @@ Keep these details consistent throughout your writing.
 === Language & Communication
 
 
-#cross-ref(
-  section: "Section 8",
-  note: [Language & Communication],
-)
+#hint[Reference: Section 8, Language & Communication]
 
 
 #writing-box(
@@ -1190,19 +1168,18 @@ Keep these details consistent throughout your writing.
 )
 
 
+#block(breakable: false)[
+
 == RELIGION & BELIEF
 
-
-#cross-ref(
-  section: "Section 6",
-  note: [Religion, Myth & Prophecy],
-)
-
+#hint[Reference: Section 6, Religion, Myth & Prophecy]
 
 #writing-box(
   label: "What people believe",
   height: 120pt,
 )
+
+]
 
 
 #writing-box(
@@ -1249,29 +1226,28 @@ Keep these details consistent throughout your writing.
 
 #block(breakable: false)[
 
-==== Crisis of faith — what makes them question their beliefs?
+==== Crisis of faith: what makes them question their beliefs?
 
 #writing-box(
-  label: "Crisis of faith — what makes them question their beliefs?",
+  label: "Crisis of faith: what makes them question their beliefs?",
   height: 120pt,
 )
 
 ]
 
 
+#block(breakable: false)[
+
 == LAWS THAT MATTER
 
-
-#cross-ref(
-  section: "Section 5",
-  note: [Government, Power & Law],
-)
-
+#hint[Reference: Section 5, Government, Power & Law]
 
 #writing-box(
   label: "Law #1",
   height: 120pt,
 )
+
+]
 
 
 #writing-box(
@@ -1341,10 +1317,7 @@ Keep these details consistent throughout your writing.
 === How They're Forced Together
 
 
-#cross-ref(
-  section: "Section 13",
-  note: [Pressure Cooker; Section 14 — Institutions],
-)
+#hint[Reference: Section 13, Pressure Cooker; Section 14, Institutions]
 
 
 #strong[Primary mechanism:]
@@ -1382,10 +1355,7 @@ Keep these details consistent throughout your writing.
 === The "Why Now?"
 
 
-#cross-ref(
-  section: "Section 16",
-  note: [The "Why Now?" Test],
-)
+#hint[Reference: Section 16, The "Why Now?" Test]
 
 
 #block(breakable: false)[
@@ -1427,10 +1397,7 @@ Keep these details consistent throughout your writing.
 === The Invisible Ledger
 
 
-#cross-ref(
-  section: "Section 4",
-  note: [Economy, Labour & Resources],
-)
+#hint[Reference: Section 4, Economy, Labour & Resources]
 
 
 #strong[Who starts with more economic/resource power?] \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -1451,10 +1418,7 @@ Keep these details consistent throughout your writing.
 === How They're Kept Apart
 
 
-#cross-ref(
-  section: "Section 16",
-  note: [Romantasy-Specific Integration],
-)
+#hint[Reference: Section 16, Romantasy-Specific Integration]
 
 
 #writing-box(
@@ -1496,10 +1460,7 @@ Keep these details consistent throughout your writing.
 === Power Dynamics
 
 
-#cross-ref(
-  section: "Section 18",
-  note: [Agency Check],
-)
+#hint[Reference: Section 18, Agency Check]
 
 
 #writing-box(
@@ -1527,22 +1488,20 @@ Keep these details consistent throughout your writing.
 )
 
 
-== PRESSURE POINTS
+#block(breakable: false)[
 
+== PRESSURE POINTS
 
 === Location-Based
 
-
-#cross-ref(
-  section: "Section 15",
-  note: [Key Locations],
-)
-
+#hint[Reference: Section 15, Key Locations]
 
 #writing-box(
   label: "Where they're trapped together",
   height: 120pt,
 )
+
+]
 
 
 #writing-box(
@@ -1560,10 +1519,7 @@ Keep these details consistent throughout your writing.
 === Time-Based
 
 
-#cross-ref(
-  section: "Section 17",
-  note: [Dual Clock],
-)
+#hint[Reference: Section 17, Dual Clock]
 
 
 #writing-box(
@@ -1680,19 +1636,18 @@ Keep these details consistent throughout your writing.
 ]
 
 
+#block(breakable: false)[
+
 == KEY RULES (The 5-7 That Matter Most)
 
-
-#cross-ref(
-  section: "Section 17",
-  note: [Consistency Check],
-)
-
+#hint[Reference: Section 17, Consistency Check]
 
 #writing-box(
   label: "Rule #1",
   height: 120pt,
 )
+
+]
 
 
 #writing-box(
@@ -1774,16 +1729,11 @@ Keep these details consistent throughout your writing.
 )
 
 
+#block(breakable: false)[
+
 == THE CHOICE MOMENTS
 
-
-#cross-ref(
-  section: "Section 18",
-  note: [Agency Check],
-)
-
-
-#block(breakable: false)[
+#hint[Reference: Section 18, Agency Check]
 
 ==== When protagonist actively chooses love interest:
 
@@ -1851,18 +1801,18 @@ Check all that apply and note specifics:
 
 
 #checklist(
-  [Forced Proximity — How: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
-  [Forbidden Love — Why forbidden: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
-  [Fated Mates — Type of bond: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
-  [Enemies to Lovers — Why enemies: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
-  [Power Imbalance — Who has power: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
-  [Arranged Marriage — Why arranged: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
+  [Forced Proximity - How: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
+  [Forbidden Love - Why forbidden: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
+  [Fated Mates - Type of bond: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
+  [Enemies to Lovers - Why enemies: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
+  [Power Imbalance - Who has power: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
+  [Arranged Marriage - Why arranged: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
   [Only One Bed (or equivalent): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
   [Touch-Based Magic: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
   [Telepathic/Soul Bond: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
-  [Protector Romance — Who protects whom: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
-  [Grumpy/Sunshine — Who's which: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
-  [Slow Burn — What prevents faster resolution: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
+  [Protector Romance - Who protects whom: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
+  [Grumpy/Sunshine - Who's which: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
+  [Slow Burn - What prevents faster resolution: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
   [Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_],
 )
 
@@ -1879,16 +1829,11 @@ Check all that apply and note specifics:
 ]
 
 
+#block(breakable: false)[
+
 == THE CLIMAX
 
-
-#cross-ref(
-  section: "Section 16",
-  note: [Final Connection Check],
-)
-
-
-#block(breakable: false)[
+#hint[Reference: Section 16, Final Connection Check]
 
 ==== External climax (fantasy plot resolution):
 
@@ -1954,10 +1899,7 @@ Check all that apply and note specifics:
 == CONSISTENCY CHECKLIST
 
 
-#cross-ref(
-  section: "Section 17",
-  note: [Consistency Check],
-)
+#hint[Reference: Section 17, Consistency Check]
 
 
 === Before Writing a Scene:
@@ -2014,10 +1956,7 @@ Check all that apply and note specifics:
 #strong[Major holidays/festivals:]
 
 
-#cross-ref(
-  section: "Section 6",
-  note: [Sacred Time],
-)
+#hint[Reference: Section 6, Sacred Time]
 
 
 #writing-box(
@@ -2188,10 +2127,7 @@ Check all that apply and note specifics:
 == THE INTEGRATION MANTRA
 
 
-#cross-ref(
-  section: "Section 16",
-  note: [Web of Systems],
-)
+#hint[Reference: Section 16, Web of Systems]
 
 
 #strong[Every worldbuilding element should do at least two of these:]

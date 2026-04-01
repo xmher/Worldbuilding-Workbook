@@ -9,164 +9,46 @@
 )
 
 
+#block(breakable: false)[
+
 == The Invisible Ledger Principle
 
-
-Every relationship contains a ledger. Not literally - no one writes down each tally in a notebook (usually.) However, every time someone pays for a meal, saves another person's life, provides shelter, lends money, takes a job, or gives a gift, a line is added. Both parties know the ledger exists, however, no one wants to be the party owing more.
-
+Every relationship contains a ledger. Not literally, but every time someone pays for a meal, saves another person's life, provides shelter, or gives a gift, a line is added. Both parties know the ledger exists, and no one wants to be the party owing more.
 
 This is the Invisible Ledger, and it's the engine that drives economic tension in romantasy.
 
+The ledger exists because love is expected to be free, yet everything costs. If one person has more wealth, power, or resources, the ledger is already skewed before they get involved romantically. The character on the wrong side of the ledger feels it, even if they can't articulate it. It causes pride when they should accept aid, suspicion when they should feel gratitude. It forces them to wonder: #emph[Do I love them, or am I in love with what they have invested in me?]
 
-The ledger exists because of the expectation of love being free, yet everything costs. If one person has more wealth, more power, more resources, etc., than the other person, the ledger is already skewed, even before they get involved romantically. Every act of generosity adds a line. Every rescue adds a line. Every "don't worry about it" adds a line. And the character on the wrong side of the ledger feels it, even if they can't articulate it. This feeling affects how they move within the relationship. It causes pride when they should accept aid. This feeling creates suspicion when they should be feeling gratitude. It forces them to wonder the same question that plagues every unequal relationship: Do I love them, or am I in love with what they have invested in me?
+The ledger can be based on money, magical power, social status, or political protection. What matters is that there is an inequality, and both parties are tracking it, even when they pretend they're not. The romantic turning point comes when one or both characters decide to stop counting. Not when the debt is paid, but when it stops mattering.
 
+Keep this principle in mind as you work through the exercises below. First, you'll build the economic foundation of your world. Then, once you know how your economy works, you'll return to the Invisible Ledger and map how it applies to your specific characters and romance.
 
-In #emph[A Court of Thorns and Roses], Feyre's ledger is skewed as soon as she steps foot into the Fae world. Rhysand heals her arm Under the Mountain, so she owes him her life. He gives her a week each month at the Night Court, so she now owes him her time. With each gift he gives her (training, freedom, a place to live where she will not be controlled) the ledger grows heavier and heavier. The romance will finally become real once Feyre stops thinking about how much she owes Rhysand and starts making the conscious decision to be there. However, the shadow of the ledger will always be present. It is the reason why their early relationship was so tense, because neither of them knew if her feelings were based on love or gratitude.
+#strong[Before you dive into the details, get the big picture down. What does the economic landscape of your world look like?]
 
+#hint[Don't overthink this. Just describe the general feel: is it a world of abundance or scarcity? Are there vast wealth gaps or relative equality? Is trade thriving or stagnant? Are people mostly farmers, merchants, soldiers, artisans? You'll refine all of this in the exercises that follow. For now, capture your instinct.]
 
-In #emph[The Cruel Prince], the ledger is turned upside down. Jude has absolutely nothing: no magic, no standing, no protection. But she builds her leverage through her intellect, combat skills, and strategic maneuvring until she has Cardan's oath. The ledger has been flipped. Cardan is now obligated to Jude, and the question is whether his obedience is out of obligation or something else entirely.
+#hint[(Write your answer below)]
 
-
-It doesn't have to be money. The ledger can be based on magical power, social status, physical safety, or some form of political protection. What matters is that there is an inequality, and both parties are tracking it, even when they pretend they are not.
-
-
-Consider what the Invisible Ledger reveals in your romance:
-
-
-- #strong[Who owes more?] At the beginning of your story, which character is more heavily weighted on the ledger? What did they receive that cannot be reciprocated in the same manner? In what way does that debt affect their behaviour; are they more guarded, more eager to prove themselves, more resentful?
-- #strong[What can't be repaid with money?] The most charged entries on the ledger are typically not financial. A life saved, a secret kept, a reputation protected. These are debts that money can't settle, and that's where the tension lives.
-- #strong[When does generosity feel like control?] There is a tipping point where "I'm helping you" starts to feel like "I own you." The recipient of the help or favour may not be able to define the difference, but they sense it. Where is that line for your characters?
-- #strong[What would balance the ledger?] What could the less powerful character offer, provide, or risk in order for their partner to feel an equality? Sometimes it's competence. Sometimes it's emotional honesty. Sometimes it's the willingness to walk away, demonstrating they're remaining by choice and not obligation.
-
-
-Your responsibility as a writer is to show the ledger. Show what is being added. Show how each side of the ledger feels. And then find the moment, the real romantic turning point, where one or both characters decide to stop counting.
-
-
-That's when the love becomes real. Not when the debt is paid, but when it stops mattering.
-
-
-=== The Key Question
-
-
-What's the single biggest entry on your characters' Invisible Ledger: the one debt, gift, or sacrifice that neither of them can forget? And what will it take for them to stop letting it define the relationship?
-
-
-#strong[What's on your characters' Invisible Ledger?]
-
-
-#strong[Map the emotional debt between your characters. What has been given or received, who gave, who owes, and how does the debt feel?]
-
-
-#answer-box(
-  height: 180pt,
+#writing-box(
+  height: 150pt,
 )
 
-
-#strong[When does the ledger stop mattering?]
-
-
-What moment, scene, or choice makes one or both characters decide they're done keeping score? This is your romantic turning point. Make it earn its weight.
+]
 
 
-== How Economics Works in Romantasy
+#strong[What is the single biggest economic pressure shaping daily life in your world right now?]
 
 
-Economics in romantasy typically creates tension through imbalance, pressure, and transaction. Money isn't just money. It's power, security, freedom, and control.
+#hint[War taxes? Famine? A trade embargo? A magical resource drying up? Name the pressure that ordinary people feel, because that pressure will also press on your characters and their relationship.]
 
 
-=== Economic Imbalance
+#hint[(Write your answer below)]
 
 
-When one character has significantly more wealth than the other:
-
-
-- Power dynamics shift. Who depends on whom?
-- Generosity can feel like control
-- Pride and shame enter the relationship
-- The question "do they love me or my money?" haunts the wealthy
-
-
-=== Economic Pressure
-
-
-When financial necessity forces choices:
-
-
-- Arranged marriages for money or alliance
-- Accepting employment from a love interest
-- Choosing security over love (or love over security)
-- Debt creating obligation
-
-
-=== Economic Transaction
-
-
-When money or resources pass between lovers:
-
-
-- Gifts carry meaning beyond their value
-- Help can feel like charity
-- Refusal can feel like rejection
-- "I owe you" creates imbalance
-
-
-#strong[Which economic mechanism is doing the most work in your romance?]
-
-
-#hint[Imbalance, pressure, and transaction often overlap, but one usually dominates. Naming it helps you write it with intention rather than accidentally.]
-
-
-#strong[Which economic mechanisms drive your romance — imbalance (one has more), pressure (necessity forces choices), or transaction (resources pass between them)? How does each show up, and which scenes does it drive?]
-
-
-#answer-box(
-  height: 180pt,
+#writing-box(
+  height: 150pt,
+  fill-page: true,
 )
-
-
-=== Common Patterns: Economics in Romantasy
-
-
-#workbook-table(
-  headers: ("Pattern", "How It Works", "What It Creates"),
-  rows: (
-    ([The wealth gap], [One character rich, one poor], [Power imbalance; questions about motives]),
-    ([The economic rescue], [Wealthy character can solve poor character's problems], [Gratitude vs. obligation; "am I being bought?"]),
-    ([The arrangement], [Financial necessity forces proximity], [Forced proximity; "is this real?"]),
-    ([The debt], [One owes the other (money, life, service)], [Obligation; when is the debt paid?]),
-    ([The sacrifice], [One gives up wealth/security for love], [High stakes; proving love isn't about money]),
-    ([The inheritance threat], [Being together means losing fortune], [External pressure; choosing love or security]),
-  ),
-)
-
-
-#strong[Which economic pattern(s) drive your romance?]
-
-
-#hint[Most romances use one or two of these as primary engines and touch on others as secondary tension. Naming your pattern helps you build the right exercises and avoid the common mistake of having economic tension that's stated but never shown.]
-
-
-#structured-table(
-  headers: ("Pattern", "Primary or Secondary?", "How It Appears in Your Story"),
-  example-rows: (
-
-  ),
-  rows: (
-    ([The wealth gap], [], []),
-    ([The economic rescue], [], []),
-    ([The arrangement], [], []),
-    ([The debt], [], []),
-    ([The sacrifice], [], []),
-    ([The inheritance threat], [], []),
-  ),
-  row-height: 60pt,
-)
-
-
-These common themes show up consistently in commercially successful romantasy. The wealth gap provides the main conflict in #emph[The Cruel Prince], where Jude is a powerless mortal in a world of wealthy, powerful Fae, and her only capital is her ability to lie and her willingness to fight. Debt is also central to #emph[ACOTAR], where Feyre's bargain with Rhysand creates obligation that blurs into something else entirely. The arrangement appears in #emph[From Blood and Ash], where Poppy's role as the Maiden makes her a political and economic asset to be traded. And the sacrifice runs through #emph[Bridgerton], where characters repeatedly face the choice between advantageous matches and the people they actually want.
-
-
-It's interesting to note how many of these romances conclude. The romantic arc often acts as the vehicle for the subversion of class structures. Feyre is literally brought back to life by the High Lords, and her transition from a starving human to a High Lady represents a true "rags-to-riches" story fueled by her romantic entanglement within the upper echelon of society. Jude and Cardan's relationship subverts the hierarchical structure of the Fae by creating a mutually beneficial and equally politicised relationship that ultimately rejects the master-servant dynamic of Elfhame. Violet and Xaden's relationship in #emph[Fourth Wing] bridges the gaps created by the various military factions, while Vin's relationship with Elend in #emph[Mistborn] elevates her from being a street urchin to being the leader of a revolution through their shared Allomantic abilities. While the specific pattern is less important than what you do with it, how far you allow the economic factors to complicate the emotional factors involved in the romance and if the romance supports the status quo of the economy or if it disrupts it is really your main issue.
 
 
 == A Note Before You Begin
@@ -179,6 +61,33 @@ If your world mirrors a historical economy, focus on what's different. Zero in o
 
 
 Economics can stay in the background. If your obstacles are political, magical, or cultural rather than economic, develop just enough economy to make the world feel real.
+
+
+=== Quick Guide to What You Need
+
+
+#strong[Every story needs:] A basic economic system, what currency exists, what your characters do for work, and how wealth shapes daily life.
+
+
+#strong[If your romance involves a wealth gap:] Focus on the Wealth Gap Dynamic and Money/Gifts sections.
+
+
+#strong[If your romance involves economic coercion or arranged marriage:] Focus on Marriage as Economic Contract and Debt & Obligation.
+
+
+#strong[If your world has a magic-based economy:] Don't skip "If Your Economy Runs on Magic."
+
+
+#strong[If your romance involves employer/employee dynamics:] Focus on The Employer & The Employed and Economic Independence.
+
+
+#strong[If you're not sure yet:] Start with the Brain Dump and Economic Systems. You can always come back.
+
+
+=== How to Use This Section
+
+
+Questions marked #strong[⬥ Core] are the foundations. Answer these first and you'll have a working economy for your world. Everything else lets you go deeper where your story needs it. If you're short on time, the Core questions alone will get you writing.
 
 
 == Common Mistakes with Economic Worldbuilding
@@ -204,7 +113,7 @@ Economics can stay in the background. If your obstacles are political, magical, 
   title: "Mistake #3: The Invisible Economy",
   fix: [Ground characters in economic reality. Readers should understand how they survive. Choices have economic consequences.],
 )[
-  Characters exist in an economic vacuum. Nobody seems to work or worry about money. #strong[Check your work against the common mistakes.] #emph[These three traps catch even experienced writers. Be honest — if you spot one, that's a good thing. It means you can fix it now rather than three drafts from now.] | Mistake | Am I Doing This? | How I'll Fix It | |---|---|---| | #emph[The Meaningless Wealth Gap — one character is rich, one is poor, but it never affects anything] | #emph[Yes — my FMC is poor but it only comes up in chapter 1] | #emph[Add a scene where she can't afford medicine and has to accept help from the love interest, triggering a pride spiral] | | The Meaningless Wealth Gap — one character is rich, one is poor, but it never creates consequences | | | | The Infinite Wealth — the wealthy character can buy their way out of any problem | | | | The Invisible Economy — nobody seems to work or worry about money | | |
+  Characters exist in an economic vacuum. Nobody seems to work or worry about money. #strong[Check your work against the common mistakes.] #emph[These three traps catch even experienced writers. Be honest: if you spot one, that's a good thing. It means you can fix it now rather than three drafts from now.] | Mistake | Am I Doing This? | How I'll Fix It | |---|---|---| | #emph[The Meaningless Wealth Gap: one character is rich, one is poor, but it never affects anything] | #emph[Yes, my FMC is poor but it only comes up in chapter 1] | #emph[Add a scene where she can't afford medicine and has to accept help from the love interest, triggering a pride spiral] | | The Meaningless Wealth Gap: one character is rich, one is poor, but it never creates consequences | | | | The Infinite Wealth: the wealthy character can buy their way out of any problem | | | | The Invisible Economy: nobody seems to work or worry about money | | |
 ]
 
 
@@ -212,7 +121,7 @@ Economics can stay in the background. If your obstacles are political, magical, 
 
 == Economic Systems
 
-#strong[What type of economy exists in your world?]
+#strong[⬥ Core: What type of economy exists in your world?]
 
 Think about how the economic system shapes daily life and what opportunities exist for your characters. Does it allow for social mobility, or are people locked into their station?
 
@@ -243,10 +152,22 @@ Which type (or combination) describes your world?
 )
 
 
+#strong[⬥ Core: What does a normal workday look like for an ordinary person in your world?]
+
+
+#hint[Pick someone who isn't royalty or a chosen one: a farmer, a shopkeeper, a dockworker. What time do they wake up? What do they do all day? What do they eat? How much do they earn? This is your economic baseline, and everything else in this section builds on it.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
 #strong[How is wealth created in your world?]
 
 
-#hint[The source of wealth determines who has it — and who your characters have to fight, serve, or charm to get it. A world where wealth comes from magic creates different romantic obstacles than one where wealth comes from land.]
+#hint[The source of wealth determines who has it, and who your characters have to fight, serve, or charm to get it. A world where wealth comes from magic creates different romantic obstacles than one where wealth comes from land.]
 
 
 Agriculture? Trade? Craftsmanship? Mining? Magic? Conquest?
@@ -261,7 +182,7 @@ Agriculture? Trade? Craftsmanship? Mining? Magic? Conquest?
 #strong[How is wealth distributed?]
 
 
-#hint[Concentrated wealth means a wider gap between your leads — and more people invested in keeping them apart.]
+#hint[Concentrated wealth means a wider gap between your leads, and more people invested in keeping them apart.]
 
 
 Relatively equal? Concentrated among few? Regional variation? Class-based?
@@ -273,10 +194,22 @@ Relatively equal? Concentrated among few? Regional variation? Class-based?
 )
 
 
+#strong[⬥ Core: How does wealth inequality show up in everyday life?]
+
+
+#hint[Think about what a stranger would notice walking through your world. Do rich and poor people dress differently? Live in different parts of town? Eat different food? The visible markers of wealth tell the reader (and your characters) who belongs where.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
 #strong[How does wealth move?]
 
 
-#hint[If wealth can only be inherited, your poor character can't earn their way up — marriage or magic might be the only paths. If wealth can be earned, ambition becomes a romantic complication.]
+#hint[If wealth can only be inherited, your poor character can't earn their way up. Marriage or magic might be the only paths. If wealth can be earned, ambition becomes a romantic complication.]
 
 
 Can it be earned through work? Only inherited? Granted by rulers? Won through conquest?
@@ -315,10 +248,58 @@ Inflation? Scarcity? Heavy taxation? Unemployment? War disruption?
 )
 
 
-#strong[How do current economic conditions pressure your romance?]
+#strong[What choice is the current economy forcing on your characters?]
 
 
-#hint[A war economy, famine, or recession doesn't just set the backdrop — it creates urgency. If the world is collapsing, falling in love might feel irresponsible, or it might be the only thing worth holding onto.]
+#hint[A war economy, famine, or recession doesn't just set the backdrop. It creates urgency. If the world is collapsing, falling in love might feel irresponsible, or it might be the only thing worth holding onto.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
+#strong[What do people in your world trade, and how do trade routes work?]
+
+
+#hint[Trade routes shape where people travel, who they meet, and what's available. A character on a trade route sees the world; a character far from one might never leave home. Think about what gets moved, who moves it, and which roads or sea lanes connect your major settlements.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
+#strong[Who controls the trade routes, and what power does that give them?]
+
+
+#hint[Whoever controls where goods move controls who profits. A family that holds a mountain pass, a guild that owns the river barges, a navy that patrols the shipping lanes. They decide who trades and who starves. If your characters are on opposite sides of that control, the economy itself becomes an obstacle between them.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
+#strong[How does the economy differ between regions?]
+
+
+#hint[A port city and a mountain village probably have very different economic realities. Prices, available goods, common jobs, and levels of wealth can all shift from one region to the next. Where your characters come from shapes what they consider normal.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
+#strong[What does a market or trading hub look like in your world?]
+
+
+#hint[Markets are where your economy becomes visible and sensory. What stalls line the streets? What smells fill the air? What's shouted, haggled over, displayed under lock and key? A market scene grounds your world's economy in something the reader can picture, and it's a natural setting for characters to cross paths.]
 
 
 #writing-box(
@@ -330,10 +311,7 @@ Inflation? Scarcity? Heavy taxation? Unemployment? War disruption?
 === If Your Economy Runs on Magic
 
 
-Your magical abilities are an economic engine; therefore, your economies are deeply personal. Each person's body, power and being is the commodity. It is a different way of understanding how money and love function together.
-
-
-This isn't hypothetical, either. As many authors write in modern romantasy and fantasy, magic typically serves as the actual economy: as labour, as currency, as the determinant of who has food on their table and who will go hungry. So you need to determine how your magical system will create economic winners and losers and what that will mean for the couple that wants to be with one another despite the economic divide.
+When magic serves as the economy (as labour, as currency, as the determinant of who eats and who starves), each person's body and power becomes the commodity. You need to determine how your magical system creates economic winners and losers.
 
 
 #strong[How is magical power produced?]
@@ -358,10 +336,10 @@ The type of model you use will have major effects on the development of the roma
 In #emph[Fourth Wing], the state controls magical labour absolutely. Navarre funnels its magically gifted citizens through Basgiath War College, where dragon riders become elite military assets and everyone else becomes expendable infantry. You don't get to decide if you're going to be a dragon rider or not; it's decided for you and you can lose your life in this decision. In the #emph[Scholomance], Enclaves are analogous to corporations: the wealthy class lives safely behind magical barriers and the independently operating wizards give up their magical abilities in exchange for a secure place to live. The pattern continues to repeat itself. Those at the top of the structure accumulate the majority of the magical resources. Those at the bottom of the structure do the hard, dangerous work.
 
 
-#strong[What happens to the magically ungifted?]
+#strong[What happens to people without magic?]
 
 
-An economy based on magic means people who don't have it aren't just financially impoverished. They're structurally excluded. How would this affect a romance between two individuals whose one has a gift and the other doesn't?
+An economy based on magic means people who don't have it aren't just financially impoverished. They're structurally excluded.
 
 
 Jude in #emph[The Cruel Prince] is a human living in Elfhame, a world where the Fae can glamour humans into mindless servants, stripping them of will and identity. Being non-magical puts Jude at a risk of being enslaved, which goes beyond mere poverty. The only advantages she has over the Fae are that she can lie (the Fae can't) and she's been trained to fight. When she falls for Cardan, a Fae prince, there is more than just an emotional difference between them. It's existential. He belongs to the species that can erase her mind with a thought.
@@ -373,10 +351,10 @@ In #emph[ACOTAR], the social hierarchy is based on biology: the High Fae are bea
 If magic can be extracted, stored, or stolen, then magical characters aren't just workers. They're resources. The level of romantic tension present in these novels is extreme: does your love interest view you as a person or a potential resource?
 
 
-#strong[What happens to the magically ungifted in your world?]
+#strong[What happens to people without magic in your world?]
 
 
-#hint[If your economy runs on magic, people who lack it aren't just poor — they're structurally locked out. What does this mean for daily survival? And if one of your leads is ungifted while the other is powerful, the gap between them isn't just financial. It's existential.]
+#hint[If your economy runs on magic, people who lack it aren't just poor. They're structurally locked out. What does this mean for daily survival? If one of your leads is ungifted while the other is powerful, the gap between them isn't just financial. It's existential.]
 
 
 #writing-box(
@@ -385,10 +363,7 @@ If magic can be extracted, stored, or stolen, then magical characters aren't jus
 )
 
 
-In #emph[Warbreaker], Breaths are transferable. You can literally sell your soul's life force to someone wealthier. In the #emph[Stormlight Archive], Stormlight is stored in gemstones that slowly leak energy, creating an economy where magical currency has a built-in expiration date and must constantly circulate. And in #emph[ACOTAR], Amarantha took the magical energy from the High Lords to gain greater power and created a magical recession that caused instability in many of the courts. If you live in a world where your magical abilities can be taken from you, then your romantic relationships exist under a threat. The fact that your lover's powers are coveted by others puts you and your relationship at risk.
-
-
-#strong[How does magical status affect who your characters can love?]
+#strong[What barriers does your magic system put between lovers?]
 
 
 Think about the specific barriers your magic system creates:
@@ -409,7 +384,7 @@ Think about the specific barriers your magic system creates:
 #strong[Can magic create wealth or resources?]
 
 
-#hint[If magic can solve money problems, you need a reason it doesn't — otherwise your characters' economic struggles feel artificial. The limitation you choose here becomes a plot constraint that keeps your romance under pressure.]
+#hint[If magic can solve money problems, you need a reason it doesn't, otherwise your characters' economic struggles feel artificial. The limitation you choose here becomes a plot constraint that keeps your romance under pressure.]
 
 
 Transmuting materials? Summoning resources? Faster production? Healing for pay? Magical transportation?
@@ -436,10 +411,10 @@ Scarcity of mages? Magic costs something (health, lifespan, sanity)? Laws restri
 )
 
 
-#strong[What magical labor is economically valuable?]
+#strong[What magical labour is economically valuable?]
 
 
-#hint[Magical services people pay for tell you where magical characters sit in the economy — and what they're worth to others. A love interest who's a paid healer has different leverage than one who's a court enchanter.]
+#hint[Magical services people pay for tell you where magical characters sit in the economy, and what they're worth to others. A love interest who's a paid healer has different leverage than one who's a court enchanter.]
 
 
 What magical services do people pay for?
@@ -454,7 +429,7 @@ What magical services do people pay for?
 #strong[Who controls magical economic power?]
 
 
-#hint[Whoever controls magical labour controls magical people. If your mage character answers to a guild, a government, or a magical family, that's a leash on their freedom — and a constraint on who they can love and how openly they can love them.]
+#hint[Whoever controls magical labour controls magical people. If your mage character answers to a guild, a government, or a magical family, that's a leash on their freedom, and a constraint on who they can love and how openly they can love them.]
 
 
 Guilds? Government? Individual mages? Magical families?
@@ -467,13 +442,22 @@ Guilds? Government? Individual mages? Magical families?
 )
 
 
+#hint[Cross-check: Are these rules consistent with your magic system (Section 8)? If you said magic is rare and exhausting there but cheap and plentiful here, reconcile the two before moving on.]
+
+
+#divider()
+
+
+#hint[Now that you know what your economy runs on, and how magic might complicate it, it's time to make the money feel real. Currency gives readers something to hold onto when wealth and poverty are on the page.]
+
+
 #block(breakable: false)[
 
 == Currency & Scale
 
-#strong[What currency exists?]
+#strong[⬥ Core: What currency exists?]
 
-#hint[You don't need a full monetary system — but knowing what your coins are called and roughly what they're worth lets you write scenes where money feels real. A character counting coppers hits differently than a character vaguely "being poor."]
+#hint[You don't need a full monetary system, but knowing what your coins are called and roughly what they're worth lets you write scenes where money feels real. A character counting coppers hits differently than a character vaguely "being poor."]
 
 Coins (what metals, what denominations)? Paper money? Trade goods as currency? Magical currency?
 
@@ -548,10 +532,10 @@ A few details about currency can make your world feel lived-in. What's stamped o
 )
 
 
-#strong[How do people conduct trade?]
+#strong[⬥ Core: How do people conduct trade?]
 
 
-#hint[The method of trade shapes how your characters interact with money — and with each other. Barter creates face-to-face negotiation. Credit creates invisible debt. Magical contracts create supernatural enforcement. Each one affects the romance differently.]
+#hint[The method of trade shapes how your characters interact with money, and with each other. Barter creates face-to-face negotiation. Credit creates invisible debt. Magical contracts create supernatural enforcement. Each one affects the romance differently.]
 
 
 Coin? Barter? Credit? Letters of exchange? Magical contracts?
@@ -578,13 +562,32 @@ Guilds controlling who can sell what? Import/export restrictions? Illegal goods?
 )
 
 
-#strong[How does your currency system show the gap between your characters?]
+#strong[What's one purchase that would mean nothing to your wealthier character but everything to the other?]
 
 
-#hint[The scale of money matters most when readers can feel the difference between your characters. If a night at an inn costs 5 coppers and your protagonist earns 3 coppers a day, the reader instantly understands what it means when the love interest drops a gold crown without thinking. What specific price point makes the gap visceral?]
+#hint[If a night at an inn costs 5 coppers and your protagonist earns 3 coppers a day, the reader instantly understands what it means when the love interest drops a gold crown without thinking. Find the specific price point that makes the gap visceral.]
 
 
-#emph[(Your response here)]
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
+#strong[Who controls the currency in your world?]
+
+
+#hint[Whoever mints the coins or regulates the money supply holds invisible power. A king, a guild, a magical institution. The answer tells you who benefits from the system staying the way it is.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+  fill-page: true,
+)
+
+
+#hint[Cross-check: Does your currency system match your government type (Section 5)? A feudal system with a stock market or a tribal society with paper banknotes will feel inconsistent to readers.]
 
 
 == Wealth & Class
@@ -630,13 +633,19 @@ Show the gap through concrete details. What does each character's home look like
 Through work? Marriage? Education? Magical ability? Or is class fixed at birth? The answer to this question determines whether your romance is fighting against a wall or a fence. One can be climbed. The other can't.
 
 
+#hint[Cross-check: Do your class markers here match what you described in Culture & Customs (Section 3)? If you said wealth shows up through clothing and food here, make sure your cultural details reflect the same signals.]
+
+
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
 
 
-#strong[What does wealth provide beyond money?]
+#strong[What doors does wealth open that money alone doesn't explain?]
+
+
+#hint[Think beyond buying things. Wealth often buys access: to education, political influence, legal protection, better marriage prospects, or simply free time. These invisible advantages shape who your characters can become.]
 
 
 Access to education? Political influence? Legal protection? Better marriage prospects? Leisure time?
@@ -648,10 +657,10 @@ Access to education? Political influence? Legal protection? Better marriage pros
 )
 
 
-#strong[What does poverty mean concretely?]
+#strong[What can't poor people do, have, or access in your world?]
 
 
-What can't poor people access? What dangers do they face? What choices don't they have?
+#hint[Get specific. Can they see a healer? Send their children to school? Travel freely? Live safely? The things poverty locks people out of become the stakes of your romance.]
 
 
 #writing-box(
@@ -663,7 +672,7 @@ What can't poor people access? What dangers do they face? What choices don't the
 #strong[If mobility is possible, what's the path?]
 
 
-#hint[If your characters come from different classes, social mobility is the escape hatch — or the false promise. Can your less wealthy character actually climb, or is the system rigged? This determines whether "we'll find a way" is realistic or delusional.]
+#hint[If your characters come from different classes, social mobility is the escape hatch, or the false promise. Can your less wealthy character actually climb, or is the system rigged? This determines whether "we'll find a way" is realistic or delusional.]
 
 
 #writing-box(
@@ -675,7 +684,7 @@ What can't poor people access? What dangers do they face? What choices don't the
 #strong[If mobility is impossible, what keeps people locked in place?]
 
 
-#hint[The thing that keeps your characters apart isn't just personal opposition — it's structural. Name the structures. The more specific you get, the harder the obstacle feels, and the more satisfying it is when love finds a way through.]
+#hint[The thing that keeps your characters apart isn't just personal opposition. It's structural. Name the structures. The more specific you get, the harder the obstacle feels, and the more satisfying it is when love finds a way through.]
 
 
 Legal restrictions? Economic barriers? Social enforcement?
@@ -684,8 +693,16 @@ Legal restrictions? Economic barriers? Social enforcement?
 #writing-box(
   label: "Your Answer",
   height: 120pt,
-  fill-page: true,
 )
+
+
+#divider()
+
+
+=== ✦ Checkpoint: Economic Foundations
+
+
+#hint[Pause and look at your answers so far. Does your economic system match the wealth distribution you described? If you said wealth is concentrated among a few, but your system allows easy social mobility, something may need adjusting. Check that your currency, class structure, and economic conditions all point in the same direction.]
 
 
 #block(breakable: false)[
@@ -696,7 +713,7 @@ Legal restrictions? Economic barriers? Social enforcement?
 
 #strong[Your Resource Foundation] In Section 1: Resources & Territorial Control, you mapped where resources are found and who controls them. Now we'll explore how that control creates economic stakes and romantic tension.
 
-#strong[What's the single most valuable resource in your world?]
+#strong[⬥ Core: What's the single most valuable resource in your world?]
 
 The thing people would kill for, die for, or sell their freedom for. Now ask: does either of your main characters control it, need it, or threaten someone's access to it? That's where the romantic stakes live.
 
@@ -711,7 +728,7 @@ The thing people would kill for, die for, or sell their freedom for. Now ask: do
 #strong[Why is it scarce?]
 
 
-#hint[The reason for scarcity tells you who's to blame — and whether your characters are on the same side of that blame. Natural rarity is nobody's fault. Controlled distribution means someone is hoarding, and your characters might be on opposite sides of that injustice.]
+#hint[The reason for scarcity tells you who's to blame, and whether your characters are on the same side of that blame. Natural rarity is nobody's fault. Controlled distribution means someone is hoarding, and your characters might be on opposite sides of that injustice.]
 
 
 Natural rarity? Controlled distribution? Difficult to produce? Dangerous to obtain?
@@ -729,7 +746,7 @@ Natural rarity? Controlled distribution? Difficult to produce? Dangerous to obta
 #hint[Survival needs create desperation, and desperation drives romance plots. If your character can't afford medicine, they might accept help from someone they don't trust. If clean water is controlled by the love interest's family, every sip is a reminder of the power imbalance.]
 
 
-Food, water, shelter, fuel, medicine — what do people need to live?
+Food, water, shelter, fuel, medicine. What do people need to live?
 
 
 #writing-box(
@@ -738,18 +755,43 @@ Food, water, shelter, fuel, medicine — what do people need to live?
 )
 
 
-#strong[What resources are scarce or valuable?]
+#strong[⬥ Core: What resources are scarce, and who suffers most from the shortage?]
 
 
-#strong[What is the most valuable resource in your world? Why is it valuable, and who controls it?]
+#hint[Scarcity doesn't hit everyone equally. The wealthy stockpile; the poor go without. Knowing who suffers tells you where desperation lives in your world, and desperation drives stories.]
 
 
-#answer-box(
-  height: 180pt,
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
 )
 
 
-#strong[How do your world's primary resources shape the romantic landscape?]
+#strong[What conflicts has resource scarcity caused in your world?]
+
+
+#hint[When something essential is scarce, people fight over it. Those conflicts shape alliances, create enemies, and force your characters to pick sides.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
+#strong[What goods or services are easy to get in your world, and what is hard to find?]
+
+
+#hint[Abundance and scarcity shape what your characters take for granted and what they crave. A world with plentiful food but no metal has different tensions than one with gold mines but barren soil. The things that are hard to get become leverage, status symbols, or gifts that carry real weight.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
+#strong[What does your world's most important resource change about how people live?]
 
 
 Resources don't just create cultures. They create the conditions for love stories. Scarcity forces desperate choices. Abundance creates power to hoard or share. Control of a resource is control of people's lives.
@@ -769,35 +811,177 @@ Resources don't just create cultures. They create the conditions for love storie
 )
 
 
+#divider()
+
+
+#hint[Resources create wealth, but governments take a cut. How the state extracts from its people shapes what your characters actually keep, and what they resent.]
+
+
+#block(breakable: false)[
+
+== Taxation & Government Revenue
+
+#strong[How does the government fund itself?]
+
+#hint[Taxes, tribute, tariffs, and tithes all take from ordinary people. What your characters pay, and to whom, shapes how they feel about the powers that govern them.]
+
+What do ordinary people pay? (Land tax, head tax, harvest tithe, labour conscription, magical tribute?) Who collects it, and how fairly?
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+]
+
+
+#strong[What happens when people can't pay?]
+
+
+#hint[Seizure of property? Debtor's prison? Forced labour? The consequences of failing to pay reveal how harsh or merciful the system really is, and can drive characters into desperate choices.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
+#strong[Are there taxes or tariffs that specifically affect your characters or their community?]
+
+
+#hint[A border tariff might strangle a merchant's livelihood. A magic-user levy might make gifted people into targets. Name the specific tax pressure your characters feel.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+  fill-page: true,
+)
+
+
+#block(breakable: false)[
+
+== Banking & Credit
+
+#strong[How does lending work in your world?]
+
+#hint[Can people borrow money? From whom? A guild, a temple, a moneylender, a noble patron? What are the terms, and what happens to those who default? Debt is one of the most powerful drivers of romantic tension, and it starts here.]
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+]
+
+
+#strong[Do formal financial institutions exist?]
+
+
+#hint[Banks, lending houses, temples that hold deposits, merchant exchanges, or is everything informal? The presence or absence of financial institutions determines whether debt is regulated or lawless.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+  fill-page: true,
+)
+
+
+#block(breakable: false)[
+
+== Economic History
+
+#strong[How did the current economy develop?]
+
+#hint[Was there a golden age that's now fading? A recent war that reshuffled who has what? A magical discovery that created new industries? The economy your characters live in was shaped by what came before.]
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+]
+
+
+#strong[Is the economy in transition?]
+
+
+#hint[Economies rarely sit still. Is an old order collapsing? Is new wealth displacing old power? Are people nostalgic for how things used to be? Economic transition creates winners and losers, and characters on opposite sides of that shift.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+  fill-page: true,
+)
+
+
+#divider()
+
+
+#hint[The formal economy (taxes, banks, currency) doesn't reach everyone. Some people survive outside it entirely, and their world operates by different rules.]
+
+
+#block(breakable: false)[
+
+== Informal & Subsistence Economies
+
+#strong[Who doesn't participate in the formal economy, and how do they survive?]
+
+#hint[Not everyone uses coins or trades in markets. Subsistence farmers, nomadic groups, isolated communities, refugees, the very poor. They may barter, forage, or rely on mutual aid. If your characters come from or encounter these communities, their economic assumptions will clash.]
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+]
+
+
+#strong[What does the formal economy fail to provide, and how do people fill the gap?]
+
+
+#hint[Mutual aid networks, communal farming, barter circles, scavenging, charity from temples. The gaps in the official economy tell you where the system breaks down and where different forms of community take over.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+  fill-page: true,
+)
+
+
 #block(breakable: false)[
 
 == Work & Occupations
 
 === Reference: Fantasy Professions & Jobs
 
-Use this list for inspiration. What work shapes your characters' daily lives, and what romantic friction does it create?
+Use this list for inspiration. What does each profession contribute to your world, and what romantic friction does it create?
 
 ]
 
 
 #workbook-table(
-  headers: ("Category", "Examples", "Romantic Tension"),
+  headers: ("Category", "Examples", "Worldbuilding Role", "Romantic Tension"),
   rows: (
-    ([Nobility & Governance], [Lord/lady, steward, ambassador, tax collector, court advisor], [Duty vs. desire; political marriages; "I can't be seen with you"]),
-    ([Military & Combat], [Knight, soldier, guard, mercenary, assassin], [Protector/protected dynamic; deployment and separation; violence as barrier to intimacy]),
-    ([Skilled Trades], [Blacksmith, carpenter, tailor, jeweller, glassblower], [Working-class pride vs. noble expectations; craft as love language]),
-    ([Merchants & Trade], [Shopkeeper, trader, caravan master, innkeeper], [Travel and distance; merchant wealth without status; "you're buying me"]),
-    ([Service & Household], [Servant, maid, butler, cook, lady's maid], [Power imbalance; secret relationships; "I serve you but I want you"]),
-    ([Healing & Medicine], [Healer, midwife, herbalist, apothecary], [Caretaker intimacy; touching bodies professionally; "I healed you, now I can't stop caring"]),
-    ([Religious & Spiritual], [Priest, priestess, monk, oracle, shrine maiden], [Forbidden desire; vows of celibacy; divine duty vs. mortal love]),
-    ([Magical Professions], [Court mage, hedge witch, enchanter, potion-maker, ward-smith], [Magic as class marker; bonded service; "my power is the only thing you value"]),
-    ([Scholarly & Learned], [Scribe, scholar, tutor, librarian, alchemist], [Intellectual equals from different worlds; tutor/student tension]),
-    ([Underworld & Shadows], [Thief, smuggler, spy, bounty hunter, poisoner], [Secret lives; moral conflict; "if you knew what I really do"]),
+    ([Nobility & Governance], [Lord/lady, steward, ambassador, tax collector, court advisor], [Political administration, lawmaking, land management, tax collection], [Duty vs. desire; political marriages; "I can't be seen with you"]),
+    ([Military & Combat], [Knight, soldier, guard, mercenary, assassin], [Defence, territorial control, enforcement of law and order], [Protector/protected dynamic; deployment and separation; violence as barrier to intimacy]),
+    ([Skilled Trades], [Blacksmith, carpenter, tailor, jeweller, glassblower], [Manufacturing goods, maintaining infrastructure, supplying armies and households], [Working-class pride vs. noble expectations; craft as love language]),
+    ([Merchants & Trade], [Shopkeeper, trader, caravan master, innkeeper], [Moving goods between regions, setting prices, connecting communities], [Travel and distance; merchant wealth without status; "you're buying me"]),
+    ([Service & Household], [Servant, maid, butler, cook, lady's maid], [Maintaining elite households, enabling the leisure class to function], [Power imbalance; secret relationships; "I serve you but I want you"]),
+    ([Healing & Medicine], [Healer, midwife, herbalist, apothecary], [Public health, treating injuries and disease, childbirth, epidemic response], [Caretaker intimacy; touching bodies professionally; "I healed you, now I can't stop caring"]),
+    ([Religious & Spiritual], [Priest, priestess, monk, oracle, shrine maiden], [Spiritual guidance, record-keeping, education, moral authority], [Forbidden desire; vows of celibacy; divine duty vs. mortal love]),
+    ([Magical Professions], [Court mage, hedge witch, enchanter, potion-maker, ward-smith], [Magical infrastructure, wards, enchanted goods, divination, military applications], [Magic as class marker; bonded service; "my power is the only thing you value"]),
+    ([Scholarly & Learned], [Scribe, scholar, tutor, librarian, alchemist], [Preserving knowledge, educating the next generation, research and innovation], [Intellectual equals from different worlds; tutor/student tension]),
+    ([Underworld & Shadows], [Thief, smuggler, spy, bounty hunter, poisoner], [Moving contraband, gathering intelligence, filling gaps the legal economy won't], [Secret lives; moral conflict; "if you knew what I really do"]),
   ),
 )
 
 
-Work is a physical part of people as well as their thoughts. It can be shown through how your body looks (the calluses on your hands or the ink on your fingers), what you know (your ability to see things that are invisible to others) and the routines you go through (actions you've developed over time because they have become reflexive). A blacksmith knows whether metal has been worked well or poorly. A merchant will calculate the worth of an item with little effort. A soldier will assess a potential threat in less than one second upon entering a room. When characters from different work worlds meet, let them discover each other through these competencies. There's real intimacy in watching someone do what they're good at, and in being seen doing what you're good at by someone who appreciates it.
+Work shows on the body and shapes the mind. A blacksmith knows whether metal has been worked well or poorly. A merchant will calculate worth with little effort. A soldier will assess a threat in less than a second. When characters from different work worlds meet, let them discover each other through these competencies.
 
 
 #strong[What professions are respected? Looked down upon?]
@@ -833,10 +1017,10 @@ Occupational status shapes how people are treated and what doors open or close. 
 )
 
 
-#strong[What work do most people do?]
+#strong[⬥ Core: What work do most people do?]
 
 
-#hint[The baseline tells you what's normal — and normal is important because your characters' deviations from it are what create tension. If most people farm, a character who refuses to farm is making a statement.]
+#hint[The baseline tells you what's normal, and normal is important because your characters' deviations from it are what create tension. If most people farm, a character who refuses to farm is making a statement.]
 
 
 In an agrarian society, most people farm. In a trade economy, many are merchants, sailors, or craftspeople. What's the baseline?
@@ -857,8 +1041,23 @@ List occupations that appear or matter in your story:
 #strong[Describe 2-3 key occupations in your world. For each, what do they do, what is their social status, and who typically does this work?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
+)
+
+
+#strong[What work is considered beneath certain people?]
+
+
+#hint[Class-based work taboos reveal a world's values. If a noble can't be seen doing manual labour, or a mage refuses healing work because it's "servant's magic," those taboos become walls between characters from different backgrounds.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
 )
 
 
@@ -868,7 +1067,7 @@ List occupations that appear or matter in your story:
 #hint[Dangerous work creates specific romantic tension: the fear of loss, the physical toll on the body, the secrecy about what the job really involves. If your character does dangerous work, their partner lives with that fear.]
 
 
-Mining? Soldiering? Magical labor with costs? Work that shortens lives?
+Mining? Soldiering? Magical labour with costs? Work that shortens lives?
 
 
 #writing-box(
@@ -883,13 +1082,13 @@ Mining? Soldiering? Magical labor with costs? Work that shortens lives?
 #strong[How do people end up in their occupations?]
 
 
-#hint[The path into work shapes your characters' backstories and creates constraints. A character locked into a trade by birth has different options than one who chose their profession — and different resentments.]
+#hint[The path into work shapes your characters' backstories and creates constraints. A character locked into a trade by birth has different options than one who chose their profession, and different resentments.]
 
 
 #structured-table(
   headers: ("Path Into Work", "Exists in Your World?", "Who Takes This Path", "Romantic Implications"),
   example-rows: (
-    ([Born into it (family trade, caste)], [Yes — blacksmith families, farming families], [Most commoners], [Character can't leave their work to be with someone from another world]),
+    ([Born into it (family trade, caste)], [Yes: blacksmith families, farming families], [Most commoners], [Character can't leave their work to be with someone from another world]),
   ),
   rows: (
     ([Apprenticeship], [], [], []),
@@ -906,7 +1105,7 @@ Mining? Soldiering? Magical labor with costs? Work that shortens lives?
 #strong[Can people change occupations?]
 
 
-#hint[If your protagonist is stuck in a job they hate, can they leave? If leaving means losing everything — guild membership, family ties, their only income — that's a constraint the romance has to navigate.]
+#hint[If your protagonist is stuck in a job they hate, can they leave? If leaving means losing everything (guild membership, family ties, their only income), that's a constraint the romance has to navigate.]
 
 
 Is mobility possible, or are you locked into your work for life?
@@ -918,7 +1117,22 @@ Is mobility possible, or are you locked into your work for life?
 )
 
 
-#strong[What does your protagonist do to survive?]
+#strong[How is labour organised in your world?]
+
+
+#hint[Guilds, unions, apprenticeship systems, military conscription, indentured service. These structures that control who can do what work also control who your characters can become. A guild that forbids outsiders is a wall between lovers from different trades. A conscription system decides your character's future for them.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
+#hint[Cross-check: Does your technology level (Section 9) support these types of work? A pre-industrial world probably doesn't have factory labour, and a high-magic world may have replaced certain trades entirely.]
+
+
+#strong[⬥ Core: What does your protagonist do to survive?]
 
 
 Work shapes who we become. What skills, knowledge, and worldview has their occupation given them?
@@ -927,8 +1141,11 @@ Work shapes who we become. What skills, knowledge, and worldview has their occup
 #strong[Describe your protagonist's occupation: What do they do? What skills have they learned through work? How does the work show on their body? What do they notice that others don't because of their training?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
 )
 
 
@@ -941,23 +1158,37 @@ How does their work connect to or conflict with your protagonist's world? Do the
 #strong[Describe your love interest's occupation: What do they do? What skills have they learned through work? How does the work show on their body? What do they notice that others don't because of their training?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
 )
+
+
+#divider()
+
+
+=== ✦ Checkpoint: World and Work
+
+
+#hint[Pause and look at your answers so far. Do your characters' occupations make sense within the economic system you built? Does the work they do match the world's resources, trade routes, and class structure? If a character is a merchant in a world with no trade routes, or a mage in an economy that doesn't value magic, now's a good time to adjust before moving on.]
 
 
 #block(breakable: false)[
 
 == Your Characters' Economic Positions
 
-#strong[Where does your protagonist fall economically?]
+#strong[⬥ Core: Where does your protagonist fall economically?]
 
 Their economic position shapes what they worry about, what they dream of, and what they would sacrifice for security or freedom.
 
 #strong[Describe your protagonist's economic position: What is their economic status, source of income, economic security, and economic autonomy?]
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+#writing-box(
+  height: 150pt,
 )
 
 ]
@@ -972,8 +1203,11 @@ How does their economic reality differ from your protagonist's? What assumptions
 #strong[Describe your love interest's economic position: What is their economic status, source of income, economic security, and economic autonomy?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
 )
 
 
@@ -994,15 +1228,7 @@ Minor difference? Significant gap? Extreme disparity?
 
 == The Wealth Gap Dynamic
 
-If you create different socio-economic statuses for your characters, that tension runs deeper than "one has money, one doesn't." Wealth-gap romance novels that are most compelling do not gloss over the issue of money and instead address the issues presented by it.
-
-You want to show the gap of wealth through the smaller issues as much as you can. The wealthy character casually ordering something the other couldn't afford in a month. The poor character flinching at prices. You want to show both ways that the characters see each other: the wealthy character's obliviousness (not unkind, just inexperienced), and the poor character's knowledge the wealthy one lacks (how to stretch food, read a room for danger, survive without protection). When the wealth gap causes tension, do not let the tension go away quickly. Give the characters time to struggle with their feelings of pride and obligations and how money can complicate many aspects of relationships. When done well, wealth-gap romance novels should give the reader a feeling of both perspectives.
-
-In #emph[ACOTAR], the author does not present Feyre's poverty as mere background information. Rather, it is the driving force behind the storyline. She hunts in the frozen wilderness to provide for her starving family. When she enters the Fae world, the contrast is visceral: endless food, impossible luxury, beauty she couldn't have imagined. Even after Feyre is able to enter the world of the Fae, the wealth gap between the two worlds is still there, but it has changed the way Feyre views herself and what she thinks she deserves.
-
-This is where the "protective debt" comes in. A powerful character such as Rhysand using his vast magical and material resources to protect Feyre creates a romantic gesture, but it also creates unease. She did not ask to be protected. She cannot reciprocate at the same level of magnitude. The protective gesture creates a debt that she cannot pay back equally, and the question remains if she is being his partner or his ward because of his resources. The best wealth-gap romance novels find themselves in that unease and do not quickly resolve it.
-
-In #emph[Fourth Wing], the dynamic is similar but institutional: Violet's family name gives her access to Basgiath, but her physical fragility makes her dependent on Xaden's protection in a system where a single dragon rider is worth an entire infantry company. That he is willing to use his position to shield her is romantic, but it also reinforces the social structure of value placed on his life over hers.
+If your characters have different socio-economic statuses, show the gap through concrete details: the wealthy character casually ordering something the other couldn't afford in a month, the poor character flinching at prices. Show both perspectives: the wealthy character's obliviousness and the poor character's survival knowledge the wealthy one lacks. When the wealth gap causes tension, give the characters time to struggle with pride, obligation, and doubt.
 
 #strong[What can the wealthier character provide that the other can't access alone?]
 
@@ -1028,7 +1254,7 @@ Skills? Knowledge? Magical ability? Street smarts? Moral clarity?
 )
 
 
-#strong[How does the wealth gap affect their power dynamic?]
+#strong[Who holds the power because of the wealth gap, and how do they use it?]
 
 
 Does one depend on the other? Is there resentment? Does the wealthy one use money as control?
@@ -1049,8 +1275,12 @@ Shame? Guilt? Obliviousness? Resentment? These feelings may never be spoken alou
 #strong[How does each character feel about the wealth gap between them, and how do they show it (or hide it)?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
+  fill-page: true,
 )
 
 
@@ -1058,11 +1288,7 @@ Shame? Guilt? Obliviousness? Resentment? These feelings may never be spoken alou
 
 == Money, Gifts & What They Mean
 
-The problem with giving money or expensive items to people we care about is that there is no clear-cut answer. For the giver, a gift can be an expression of care, or a substitute for harder things. For the receiver, it can feel like love made tangible, or like charity.
-
-The tension in financial offers lives in the moment of decision. Take your time when one character offers and the other must respond. Show the internal calculation: the receiver weighing need against pride, wondering what accepting means. Show the giver noticing this hesitation, possibly trying to ease the situation, or making it even worse. The words matter. "Let me help" versus "You need this" versus "It's nothing" all carry different weights. After an offer is accepted or refused, show the aftermath: the lingering awkwardness, the shift in how they see each other. A refusal to give an item can hurt the giver, while acceptance can bind the recipient. Neither is easy.
-
-The most effective gift scenes in romantasy do not focus on expensive objects, but rather on being seen. Consider the difference between a character receiving jewellery they did not request (this could be viewed as the giver buying them), and receiving something relatively inexpensive that shows the giver listened. The gift that says "I noticed what you needed and I remembered" carries more romantic weight than a chest of gold. And when a gift falls flat, and actually makes the distance between the characters greater instead of closer, that's tension you can use.
+Money and gifts between romantic partners are never simple. For the giver, a gift can be an expression of care or a substitute for harder things. For the receiver, it can feel like love made tangible or like charity. The most effective gift scenes focus not on expensive objects but on being seen. The gift that says "I noticed what you needed" carries more romantic weight than a chest of gold.
 
 #strong[What does it mean in your culture for one person to give money or expensive gifts to another?]
 
@@ -1076,10 +1302,10 @@ Romantic? Controlling? Insulting? Expected? Does meaning differ based on who giv
 ]
 
 
-#strong[When is a gift generous, and when is it an attempt to buy someone?]
+#strong[Where is the line between a generous gift and buying someone?]
 
 
-Where's the line?
+#hint[In your world's culture, what separates a thoughtful gesture from an uncomfortable display of wealth? The answer might differ depending on who's giving and who's receiving.]
 
 
 #writing-box(
@@ -1141,36 +1367,22 @@ Not buying something expensive, but noticing what they need and providing it wit
 
 == Marriage as Economic Contract
 
-In most romantasy worlds, marriage isn't just about love. It's a financial transaction, a political alliance, a transfer of property and power. This collision between what the heart wants and what the contract demands is one of the genre's most potent sources of tension.
+In most romantasy worlds, marriage isn't just about love. It's a financial transaction, a political alliance, a transfer of property and power. This collision between what the heart wants and what the contract demands is one of the genre's most potent sources of tension. When marriage has a price, love has a cost.
 
-How much the "cost" of marrying varies depending on the world in which the story takes place; however, the essence of the tension is the same. When marriage has a price, love has a cost.
+#hint[See also: Government, Power & Law: Marriage Laws and Political Arrangements for the legal and political dimensions.]
 
-In #emph[Bridgerton], the Marriage Mart is the economic engine of the entire social world. A family's wealth is generated through property and capital yields, and for women of the aristocracy, marriage is the only path to financial stability. The large dowries of the Bridgerton daughters make them highly attractive targets, but that attractiveness comes with risk: fortune hunters who want the capital, not the person. Essentially, the social season is a marketplace where a woman's value rises and falls with every public interaction.
+In romantasy, marriage contracts can go beyond financial transactions. Magical bonds, spiritual bindings, or supernatural punishments for breaking terms raise the stakes far beyond what historical fiction allows. The core tension remains the disconnect between contractual obligation and genuine feeling. Characters may also use the contract to achieve agency: binding rather than being bound, accepting a proposal not for love but for freedom or power.
 
-The tension isn't subtle. Participating in the market requires enormous investment. And the stakes of failure, remaining unmarried, mean not just social embarrassment but genuine financial precarity. Characters who choose security over passion do so because the alternative is poverty. This is the kind of economic pressure your marriage system should generate: the choice between a loveless arrangement that keeps you fed and a risky gamble on genuine feeling.
-
-=== Marriage Contracts in Fantasy: Beyond the Historical
-
-Romantasy has taken those historical elements and amplified them with magic. So the contract is not just transferring money; it could be binding two people together spiritually, obliging someone to obey another person, or creating some form of supernatural punishment if the terms of the contract are broken. What this does is make the stakes much higher than what would have been possible in historical fiction.
-
-Where the contract becomes an interesting place to create romantic tension is where there is a disconnect between the obligations of the contract and what the heart is telling you. The contract says "obligation." The heart says something else. In #emph[From Blood and Ash], Poppy must decide whether to trust Casteel, a man who deceived her, who initially saw her as a political asset, even as their strategic marriage evolves into genuine devotion. In #emph[ACOTAR], Feyre's growing love for Rhysand is complicated by the fact that she's literally contractually obligated to spend time with him. Whether or not her feelings for him are true, or whether they are simply a result of the proximity of the two, is left to the reader to determine until the end of the series.
-
-The flip side is equally powerful: characters who use the contract to achieve agency. Jude Duarte doesn't marry Cardan. She binds him. Emilia signs a soul contract not for love but for information. Poppy accepts Casteel's proposal not because she loves him (yet) but because it's her best path to freedom. These female protagonists are showing readers that a woman can be smart enough and strong enough to play the transactional game.
-
-=== Two Models of Navigating Marriage Economics
-
-The Cruel Prince has two very different approaches to marriage economics represented by the twin sisters Jude and Taryn. Taryn wants to be safe through assimilation so she marries Locke in an attempt to belong in order to gain some level of control. This doesn't work for her. Locke uses marriage as a game, he tests her loyalty through cruel treatment, he dulls her ability to resist him with faerie fruit. Through his actions, Locke systematically destroys her belief that this institution would protect her.
-
-Jude has taken the complete opposite approach. She refuses to view marriage as a way to achieve power, instead binding Cardan through oaths and political leverage. Her strategy is subversion: she'll control the king rather than marry into the system. This tension between Jude's approach (marriage is a threat to your goals and power, don't use the institution, take power directly) and Taryn's (the institution is a potential reward, therefore try to work within the institution) is possibly the best argument about marriage economics currently being presented in modern romantasy.
-
-#strong[What is marriage worth in your world?]
+#strong[⬥ Core: What is marriage worth in your world?]
 
 How is marriage negotiated? What does each party bring to the arrangement, and what do they stand to lose?
 
-#strong[Describe the economics of marriage in your world: Who negotiates? What does each side provide (dowry, bride price, alliance)? What happens financially if the marriage dissolves? Is consummation required? Can the contract be broken, and at what cost?]
+#strong[Describe the economics of marriage in your world: Who negotiates? What does each side provide (dowry, bride price, alliance)? What happens financially if the marriage dissolves?]
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+#writing-box(
+  height: 150pt,
 )
 
 ]
@@ -1204,8 +1416,11 @@ Does she submit to it, subvert it, or use it as a tool for her own goals? The an
 #strong[If your characters are bound by a contract, bargain, or magical bond: What kind of bond is it? Who initiated it and why? What are the exact terms? What happens if someone breaks it? Is consummation required? Can the bond be felt physically or mentally?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
 )
 
 
@@ -1218,14 +1433,12 @@ Forced proximity only creates tension if it's genuinely forced. What specific ob
 #strong[At what moment does the contract stop being the reason they stay?]
 
 
-This is the romantic turning point. The obligation hasn't changed, but the motivation has. When does "I have to be here" become "I want to be here"? How does each character recognise that shift, in themselves or in the other?
+This is the romantic turning point. The obligation hasn't changed, but the motivation has. When does "I have to be here" become "I want to be here"?
 
 
-#strong[For each character: When does the contract or arrangement stop being the reason they stay, and how do they realise it?]
-
-
-#answer-box(
-  height: 180pt,
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
 )
 
 
@@ -1235,11 +1448,14 @@ This is the romantic turning point. The obligation hasn't changed, but the motiv
 #strong[What does each character stand to inherit?]
 
 
-#strong[What does each character stand to inherit — or what have they been denied?]
+#strong[What does each character stand to inherit, or what have they been denied?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
 )
 
 
@@ -1276,23 +1492,23 @@ By whom? What would they lose by refusing?
 #writing-box(
   label: "Your Answer",
   height: 120pt,
-  fill-page: true,
 )
+
+
+#divider()
+
+
+=== ✦ Checkpoint: Contracts and Constraints
+
+
+#hint[Pause and look at your answers so far. Are the economic pressures on your romance consistent? If your character is being pressured into a marriage for money, does the wealth gap you established earlier explain why? If inheritance is at stake, does it connect to the class system you built? Make sure the personal stakes grow out of the world you've designed, not around it.]
 
 
 #block(breakable: false)[
 
 == Debt, Obligation & Economic Coercion
 
-Debt has a way of establishing a relationship long before there is a relationship. The problem with debt in romance is that it muddies the waters regarding consent. Every time one character owes another, whether that's money, a life debt, magical service, or years of bonded labour, every interaction is shadowed by the question: are they choosing this freely, or because they have to?
-
-Many times in romantasy, debt is both literal and magical. A bargain tattoo that enforces compliance. A life saved that creates a supernatural obligation. A soul signed over as collateral. This allows the coercive element to be shown clearly and physically, which is exactly what makes these elements so useful for romantic tension.
-
-Some of the best debt romances allow the reader to wonder, like the characters. If a character owes their love interest a life debt, and then falls in love with them, is that true love or is it gratitude dressed up as love? Don't answer this too quickly. Let the indebted character wrestle with it. Let the creditor worry about it. As soon as one of them says "forget the debt," is that generosity or manipulation? Is that liberating or just another form of bondage? Debt is only as effective as the awareness of its existence among both characters, and when neither party knows how to get around it.
-
-In #emph[ACOTAR], Feyre's bargain with Rhysand is enforced by a tattoo on her hand and by the magic itself. She must spend one week per month at the Night Court. She didn't enter into the contract voluntarily (she was dying), and the creditor is also the love interest. Every moment of developing intimacy between them is shrouded by the question: would she still be here if she weren't contractually required?
-
-In #emph[Kingdom of the Wicked], the debt is even more extreme. Emilia accidentally soul-binds herself to the demon prince Wrath through a mistranslated spell, then intentionally signs a blood contract with Pride, staking her very soul as collateral. Both contracts vie for control. Consummating one bond would void the other. Her body, her choices, even the act of physical intimacy become legal manoeuvres in a system of demonic debt management. That's debt working to its fullest potential within a romance.
+Debt muddies the waters of consent. Every time one character owes another (money, a life debt, magical service, bonded labour), every interaction is shadowed by the question: are they choosing this freely, or because they have to? In romantasy, debt is often both literal and magical: bargain tattoos, supernatural obligations, souls signed as collateral. The best debt romances let both characters wrestle with the ambiguity rather than resolving it quickly.
 
 #strong[Is either character in debt?]
 
@@ -1300,8 +1516,10 @@ Debt creates obligation, and obligation clouds consent. Does debt to the love in
 
 #strong[If a character carries a debt: To whom is it owed? For what? What happens if they can't repay? Is it magically enforced? How does the debt affect their ability to say yes or no to the romance?]
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+#writing-box(
+  height: 150pt,
 )
 
 ]
@@ -1343,7 +1561,7 @@ Does it force them together? Keep them apart? Create shame or obligation between
 )
 
 
-#strong[Does either character owe such a debt — or is owed one?]
+#strong[Does either character owe such a debt, or is owed one?]
 
 
 #hint[If the answer is yes, every romantic gesture between them is shadowed by obligation. The reader needs to feel that shadow before the characters can step out of it.]
@@ -1366,17 +1584,19 @@ Marriage for money? Employment? Alliance for mutual benefit?
 
 #strong[If your characters have an economic arrangement (marriage of convenience, etc.), describe: What is the arrangement? Why is it necessary? What does each party get?]
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+#writing-box(
+  height: 150pt,
 )
 
 ]
 
 
-#strong[How do they navigate the economic coercion?]
+#strong[How does each character deal with being pushed into this arrangement?]
 
 
-Do they resent it? Accept it? Try to escape it? Fall in love despite it — or struggle to trust their feelings because of it?
+Do they resent it? Accept it? Try to escape it? Fall in love despite it, or struggle to trust their feelings because of it?
 
 
 #writing-box(
@@ -1397,7 +1617,7 @@ Could the wealthy character simply buy their way out of obstacles? If yes, why d
 )
 
 
-Could someone try to buy one of your characters — offer money to leave, marry someone else, betray their partner?
+Could someone try to buy one of your characters, offer money to leave, marry someone else, betray their partner?
 
 
 #writing-box(
@@ -1406,14 +1626,18 @@ Could someone try to buy one of your characters — offer money to leave, marry 
 )
 
 
-#strong[If offered money to abandon the relationship, what would each character do?]
+#strong[If someone offered your character money to walk away from the relationship, what would they do?]
 
 
-#strong[How does each character respond to the economic arrangement — what do they feel about it?]
+#hint[This question reveals what the relationship is really worth to each character. Think about who might make the offer: a disapproving parent, a rival, an employer, and what amount would even make your character hesitate.]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
+  fill-page: true,
 )
 
 
@@ -1421,109 +1645,48 @@ Could someone try to buy one of your characters — offer money to leave, marry 
 
 == The Employer & The Employed
 
-One of the most typical ways to create a romantic relationship in romantasy: an individual is employed by another person. The bodyguard working for the king or queen. A healer contracted to serve as medical officer to the war commander. The governess who has been hired to care for the children of the lord. The court mage bound to the service of the monarch.
-
-Work allows for proximity, and proximity leads to potential romance, yet work also establishes a power dynamic that cannot be simply dismissed. The employer has the ability to terminate employment, to inflict punishment on the employee, or to destroy the employee's career. The employee may not have the freedom to decline the advances of their superior. It is your responsibility to take this conflict seriously if you are going to make the romance believable.
+When one character employs the other (bodyguard and monarch, healer and commander, governess and lord), work creates proximity, but it also creates a power dynamic. The employer can terminate, punish, or destroy the employee's livelihood. If you're writing this dynamic, you need to address the imbalance directly.
 
 #strong[Does one character employ the other?]
 
 #strong[If one character employs the other: Who employs whom? What is the nature of the employment? Can the employee leave freely? What would they lose by refusing advances? What would they lose by accepting?]
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+#writing-box(
+  height: 150pt,
 )
 
 ]
 
 
-The issue of consent will always come to the fore in employer/employee romance. The reader will need to perceive that the less powerful party is making their own decisions, and there is no better method to demonstrate that than to provide them with a genuine opportunity to say no without consequence. If the employee can walk away and chooses to stay, the romance is earned. If they can't walk away, you're writing a different, darker story, which can work, but the power imbalance needs to be acknowledged, not glossed over. Show the employee pushing back, setting boundaries, asserting agency within the power structure. Show the employer recognising the imbalance and actively trying to level it. When the employer states "you don't have to" and truly means it? That's when the romance can begin.
-
-
-In #emph[From Blood and Ash], Poppy's position as the Maiden represents the ultimate example of the institution exerting control over an individual in the form of what could be interpreted as institutional bondage or employment. She's not technically employed. She's consecrated. But the economics are the same: the institution controls her body, her movement, her choices, and her future. She exists as a religious and political asset, not a person. The ceremony of her "Ascension," presented as a sacred honour, is ultimately shown to be a vehicle of extraction for the Ascended vamprys who rule Solis. Poppy has existed in a state of commodification since birth for the benefit of a predatory class of rulers.
-
-
-When Casteel arrives as her protector, he simultaneously serves as an additional layer of institutional control and potentially as a means of escape. The reason why the romantic tension is present is due to the fact that Poppy's agency has been completely stripped: every choice she makes toward Casteel, every secret meeting, every broken rule, is an act of rebellion against the system that owns her.
-
-
-In #emph[Fourth Wing], the institutional control is military rather than religious, but the dynamic is similar. The state determines which individuals will become riders and which will become infantry. You do not get to choose your quadrant. You survive into it. And once you're in the system, leaving isn't an option. Romantic relationships between individuals of differing ranks are not only prohibited; they're structurally dangerous.
-
-
-#strong[How does your world handle employer/employee romance?]
-
-
-The binding mechanism matters enormously. A character who's hired for wages faces a different power dynamic than one who's magically bonded, indentured, or institutionally conscripted. The stronger the binding, the harder you need to work to make the consent believable.
+#strong[What type of binding keeps the employee in place, and can they leave?]
 
 
 #workbook-table(
-  headers: ("Binding Type", "Can They Leave?", "What Makes Consent Believable", "Published Example"),
+  headers: ("Binding Type", "Can They Leave?", "How You'll Show Consent Is Real"),
   rows: (
-    ([Hired for wages], [Yes, but may lose livelihood], [Give them a genuine exit option, and show them choosing to stay], [In Tessa Dare's #emph[The Governess Game], Alexandra has harboured feelings for Chase since before she became his employee. Her prior attraction establishes that her desire isn't a product of his power over her.]),
-    ([Bonded service / apprenticeship], [Not without cost: loss of magic, status, or protection], [Show the employee pushing back, setting terms, asserting expertise the employer needs], [In #emph[Daughter of No Worlds], Tisaanah enters apprenticeship with Maxantarius to gain power, not because she wants him. He's a recluse who hates the institution binding them. Their shared outsider status and shared trauma create parity even inside the power structure.]),
-    ([Institutional conscription], [No: the institution owns their service], [Show rebellion within the system; make every act of intimacy an act of defiance], [In #emph[From Blood and Ash], Poppy's every choice toward Casteel is a rebellion against the institution that consecrated her as a commodity. In #emph[Fourth Wing], romance across military rank lines isn't just forbidden; it's structurally dangerous.]),
-    ([Magical contract / soul oath], [No: breaking the bond has supernatural consequences], [Foreground the negotiation. Show the moment one character says "you don't have to" and means it], [In #emph[Master of Crows], Martise is a bondwoman sent to spy on the sorcerer Silhara. Her freedom depends on betraying him. The romance becomes believable because Silhara's own vulnerability, his fear of losing his soul, makes him as trapped as she is.]),
+    ([Hired for wages], [Yes, but may lose livelihood], []),
+    ([Bonded service / apprenticeship], [Not without cost: loss of magic, status, or protection], []),
+    ([Institutional conscription], [No: the institution owns their service], []),
+    ([Magical contract / soul oath], [No: breaking the bond has supernatural consequences], []),
   ),
 )
 
 
-While there are many ways to obtain consent in power-unequal relationships, none is as convincing as the concept called "consent capital." Consent capital is the cumulative evidence that the less powerful person has chosen their actions voluntarily. Authors create this by using three methods.
+#strong[How does the less powerful character demonstrate genuine choice?]
 
 
-First, independent development of feelings. The employee develops feelings for the employer either before they develop the relationship or separately from the power dynamic of the relationship. Alexandra in #emph[The Governess Game] developed a crush on the employer before she started working there. Tisaanah in #emph[Daughter of No Worlds] enters apprenticeship for power, not for Max. The two develop feelings for each other while sharing experiences related to work and both experience similar traumas; therefore, the connection between them grows due to shared work and shared experiences, not because he has authority over her.
+#hint[The reader needs evidence that the less powerful character is choosing freely. Consider: Do they develop feelings independently of the power dynamic? Does the powerful character prove that "no" has no consequences? Does the less powerful character hold moral authority the other needs?]
 
 
-Second, the removal of threat. At some time the more powerful character must demonstrate that if the less powerful character refuses there will be no repercussions. The employer who says "you can leave" and means it, who would accept a "no" without any form of retaliation, removes the risk and allows the less powerful character to give a "yes" that appears legitimate. In Elizabeth Hoyt's #emph[Duke of Sin], the housekeeper Bridget is the only person who can handle the Duke. She disciplines him, argues with him, and maintains her professional authority over the Duke throughout the novel. The Duke never punishes Bridget for challenging him. That is why the romance works.
-
-
-Third, moral authority. Grant the less powerful character the moral upper hand. If the employee is the employer's conscience, the person who sees right through them, calls them out, and holds them to a higher standard than themselves, then the power dynamics of the relationship shift where it truly counts. Tisaanah's humanitarian goals push Max to see himself for the cynical person he is. An employee who is necessary to the employer's conscience can never simply be viewed as inferior to the employer.
-
-
-#strong[How do you build consent capital in your romance?]
-
-
-#hint[If there's a power imbalance, the reader needs evidence that the less powerful character is choosing freely. Which of these methods are you using? You should have at least one, ideally two.]
-
-
-#structured-table(
-  headers: ("Method", "How You're Using It", "Specific Scene or Moment"),
-  example-rows: (
-    ([Independent feelings (they fell for them before/separate from the power dynamic)], [She had a crush on him before she took the job], [The flashback in chapter 3 where she sees him at the market, before she knows who he is]),
-  ),
-  rows: (
-    ([Independent feelings (they fell for them before/separate from the power dynamic)], [], []),
-    ([Removal of threat (the powerful character proves "no" has no consequences)], [], []),
-    ([Moral authority (the less powerful character becomes the powerful one's conscience)], [], []),
-  ),
-  row-height: 75pt,
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
 )
 
 
-#strong[How does the power dynamic shift during the story?]
-
-
-The best employer/employee romances don't just acknowledge the imbalance. They track it changing. What moments equalise the relationship? When does the employee gain power the employer needs?
-
-
-#workbook-table(
-  headers: ("Equalisation Moment", "How It Shifts Power", "When Does It Happen in Your Story?"),
-  rows: (
-    ([The employee demonstrates irreplaceable competence], [The employer realises they can't manage without this person], []),
-    ([The employer becomes vulnerable (illness, crisis, emotional breakdown)], [The employee sees behind the professional facade; caretaking inverts the hierarchy], []),
-    ([The employee refuses or pushes back, and the employer accepts it], [Proves the employer won't punish honesty; creates space for genuine consent], []),
-    ([A shared crisis forces them into partnership], [External threat makes rank irrelevant; they must work as equals to survive], []),
-  ),
-)
-
-
-#strong[What does the employee know that the employer doesn't?]
-
-
-The less powerful character almost always has knowledge, skills, or perspective that the employer lacks. This is what prevents the romance from feeling one-directional. What does your employee bring that money and status can't provide?
-
-
-#strong[What would it cost the employee to walk away?]
-
-
-And what would it cost them to stay? Map both sides. The answer reveals whether your romance is earned or coerced.
+#strong[What would it cost the employee to walk away, and what would it cost them to stay?]
 
 
 #workbook-table(
@@ -1543,17 +1706,19 @@ And what would it cost them to stay? Map both sides. The answer reveals whether 
 
 #strong[How economically independent is each character? Could they survive on their own?]
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+#writing-box(
+  height: 150pt,
 )
 
 ]
 
 
-#strong[How does the relationship change their economic situation?]
+#strong[What changes about each character's financial life because of the relationship?]
 
 
-Does one gain security? Does one lose independence? Does partnership create new opportunities or new vulnerabilities?
+#hint[Does one gain security they never had? Does one lose independence they took for granted? The economic shift that comes with partnership can feel like rescue or like a trap, sometimes both at once.]
 
 
 #writing-box(
@@ -1586,10 +1751,10 @@ Could they survive financially? Would they be ruined? Is economic fear part of w
 )
 
 
-#strong[Does economic dependence affect the power dynamic?]
+#strong[What power does the provider hold, and do they know it?]
 
 
-Does the provider hold power? Does the dependent partner resent it? How do they navigate this?
+#hint[Economic dependence gives the provider leverage whether they want it or not. Does the dependent partner resent it? Does the provider use it, consciously or not?]
 
 
 #writing-box(
@@ -1605,13 +1770,11 @@ Does the provider hold power? Does the dependent partner resent it? How do they 
 
 What people do for work isn't just how they earn money. It's how they spend most of their waking hours, what skills they develop, and often how they see themselves.
 
-#hint[You've already mapped your characters' occupations and economic positions in the exercises above. Now focus on how their work shapes the romance itself — the daily rhythms, the proximity or distance, and the friction between their professional worlds.]
+#hint[You've already mapped your characters' occupations and economic positions in the exercises above. Now focus on how their work shapes the romance itself: the daily rhythms, the proximity or distance, and the friction between their professional worlds.]
 
-#strong[How do their occupations bring them together or keep them apart?]
+#strong[Where and when can your characters actually see each other, given their jobs?]
 
 #hint[Same workplace? Completely separate worlds? Does one employ the other? Do their schedules mean they can only meet at midnight? The logistics of work create the logistics of love.]
-
-Same workplace? Completely separate worlds? Does one employ the other?
 
 #writing-box(
   label: "Your Answer",
@@ -1621,13 +1784,10 @@ Same workplace? Completely separate worlds? Does one employ the other?
 ]
 
 
-#strong[Does either character do work considered shameful for their class?]
+#strong[What work does either character hide or feel ashamed of?]
 
 
 #hint[Shameful work carries a specific kind of romantic weight. If the love interest discovers what the protagonist really does, is that a betrayal of trust or an invitation to deeper intimacy? The shame shapes what they hide and what they reveal.]
-
-
-How does this affect them and the relationship?
 
 
 #writing-box(
@@ -1643,7 +1803,7 @@ How does this affect them and the relationship?
 
 #strong[Is either character trying to improve their economic position?]
 
-#hint[Ambition is a romantic complication all on its own. A character who's climbing socially or financially is making choices about where to spend their time, who to be seen with, and what risks to take — and a love interest can either accelerate that climb or derail it entirely.]
+#hint[Ambition is a romantic complication all on its own. A character who's climbing socially or financially is making choices about where to spend their time, who to be seen with, and what risks to take, and a love interest can either accelerate that climb or derail it entirely.]
 
 What are they striving for, and why?
 
@@ -1655,10 +1815,10 @@ What are they striving for, and why?
 ]
 
 
-#strong[How does their ambition affect the relationship?]
+#strong[What does ambition cost the relationship?]
 
 
-#hint[Ambition steals hours, demands compromises, and creates priorities that compete with love. But it also makes a character attractive — there's real romantic heat in watching someone pursue something with everything they have.]
+#hint[Ambition steals hours, demands compromises, and creates priorities that compete with love. But it also makes a character attractive. There's real romantic heat in watching someone pursue something with everything they have.]
 
 
 Does it compete for time and attention? Does the relationship help or hinder their goals? Could loving the "wrong" person cost them everything they're working toward?
@@ -1670,10 +1830,10 @@ Does it compete for time and attention? Does the relationship help or hinder the
 )
 
 
-#strong[Could the relationship become confused with economic advancement?]
+#strong[Where is the line between love and a good deal?]
 
 
-#hint[This is one of the most psychologically rich questions in wealth-gap romance. If marrying the love interest would also solve your character's financial problems, both characters will wonder — maybe privately, maybe out loud — whether love and ambition are the same feeling. The reader should wonder too, at least for a while.]
+#hint[If marrying the love interest would also solve your character's financial problems, both characters will wonder, maybe privately, maybe out loud, whether love and ambition are the same feeling. The reader should wonder too, at least for a while.]
 
 
 How would each character answer the question "Is this love or is this a good deal?"
@@ -1682,15 +1842,18 @@ How would each character answer the question "Is this love or is this a good dea
 #strong[What does each character tell themselves about the economic dimension of the relationship, and what are they afraid might actually be true?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
 )
 
 
-#strong[What would they sacrifice — the relationship or the ambition — if forced to choose?]
+#strong[What would they sacrifice (the relationship or the ambition) if forced to choose?]
 
 
-#hint[This is the test. If you can't answer it, neither can your character — and that indecision is itself a source of tension you can use.]
+#hint[This is the test. If you can't answer it, neither can your character, and that indecision is itself a source of tension you can use.]
 
 
 #writing-box(
@@ -1704,11 +1867,7 @@ How would each character answer the question "Is this love or is this a good dea
 
 == Economic Sacrifice
 
-One of romance's most powerful beats is the moment a character gives up material security for love. Economic sacrifice proves love is real in a way words simply cannot.
-
-Make the sacrifice concrete and visible. Not just "gave up the inheritance" but: the smaller apartment, the mended clothes, the dinner that's mostly bread. Show what daily life looks like after the sacrifice, the moments of regret and the moments of fierce certainty that it was worth it. The witness to this sacrifice matters too. When the love interest realises what their partner gave up, or when the sacrificer reveals it (or carefully doesn't reveal it, and the other discovers it anyway), that's a scene with serious emotional weight. Economic sacrifice is most powerful when it's ongoing, not a one-time grand gesture. It's choosing, every day, to live with less because what you gained matters more.
-
-In #emph[Bridgerton], the tension between love and advantageous marriage runs through nearly every storyline. Characters face the choice between a match that secures their family's future and a match that makes them happy, and the consequences of choosing wrong are real. Financial ruin, social exile, a family left unprotected. That's what makes the sacrifice land: it costs something concrete, and the cost doesn't disappear after the wedding.
+Economic sacrifice proves love is real in a way words can't. Make the sacrifice concrete and visible. Not just "gave up the inheritance" but the smaller apartment, the mended clothes, the dinner that's mostly bread. Economic sacrifice is most powerful when it's ongoing, not a one-time grand gesture.
 
 #strong[What economic security does each character sacrifice to be together?]
 
@@ -1716,8 +1875,10 @@ What inheritance, income, protection, or opportunity do they lose by choosing ea
 
 #strong[What does each character sacrifice economically to be together?]
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+#writing-box(
+  height: 150pt,
 )
 
 ]
@@ -1741,7 +1902,7 @@ Can they recover economically?
 #strong[How do they survive after the sacrifice?]
 
 
-#hint[This is where romance meets reality. The grand gesture happened — now what? Rent is due. The pantry is empty. Show what love looks like when the money runs out.]
+#hint[This is where romance meets reality. The grand gesture happened. Now what? Rent is due. The pantry is empty. Show what love looks like when the money runs out.]
 
 
 #writing-box(
@@ -1762,43 +1923,13 @@ Can they recover economically?
 )
 
 
-#hint[But the sacrifice doesn't end at the climax. Keep reading — the ongoing costs of choosing love are where the best romance writing lives.]
+#hint[But the sacrifice doesn't end at the climax. Keep reading. The ongoing costs of choosing love are where the best romance writing lives.]
 
 
 === What Happens After They Choose Each Other?
 
 
-The sacrifices don't stop at the climax. If a character gave up an inheritance, they need to find money for next week's food. If they were disowned, where will they go? Romantic conclusions can be very satisfying when both members of a couple recognise that choosing love has ongoing costs, and show how they navigate those costs together.
-
-
-There are three categories of ongoing economic consequence that most romance and romantasy gloss over, but that the best ones use to deepen the love story.
-
-
-When a couple crosses class lines, the world doesn't just disapprove. It withdraws its business. In historical romance, this means hostesses turning the lower-status partner away, peer groups refusing to share space with them, and professional networks closing their doors. But it's not just social embarrassment. For characters whose income depends on elite patronage (merchants, dressmakers, officers, anyone who serves the ruling class), being excluded from those circles means financial ruin.
-
-
-The potential marriage between Benedict and Sophie in the #emph[Bridgerton] series illustrates this precisely. Since he's a second son without a title, Benedict's economic position is already precarious. Marrying a maid would mean being cut off by society: peer groups would refuse Sophie, hostesses would blank her, and Benedict's fellow officers would shun him. They'd be forced to retire to the countryside, living in permanent social exile on a fraction of the income Benedict was raised to expect.
-
-
-In Loretta Chase's #emph[Maison Noirot] series, the Noirot sisters know that their dressmaking business lives and dies by reputation. One scandalous affair involving an aristocratic client could destroy everything overnight. When your livelihood depends on the goodwill of the powerful, a cross-class romance isn't just risky. It's a threat to your survival.
-
-
-#strong[Disinheritance and downward mobility]
-
-
-The biggest economic impact of having a "bad" match in historical romance is losing your family's inheritance. This happens instantly through a new will or codicil, or through the eldest son choosing the wrong mate and the estate going to another child. Although the reasons differ in romantasy (loss of title, magical disinheritance, banishment from court), the consequences are identical. Each of these options leads to a permanent downward change in status that each of the characters has chosen and must endure on a daily basis.
-
-
-What makes disinheritance so powerful within the romance genre is the "stickiness" of social status. Characters may be downwardly mobile; however, the values, customs and expectations that were shaped during their past life remain and are often difficult to shake. A noblewoman who marries a commoner still knows how to properly set the table for a formal dinner and interpret political subtext; however, she is now doing so in a two-room cottage. The conflict arises from the fact that there is a large difference between what she knows and what she can afford. And the partner who grew up poor watches her struggle with things they've always managed, creating friction that neither of them expected.
-
-
-When partners come from differing socioeconomic backgrounds, each brings to the relationship a unique way of thinking about money, and those habits don't change just because they're in love. The person who grew up in poverty may continue to hoard money, count every penny and become uncomfortable when spending money. The person who grew up in a higher income household may continue to spend money carelessly, not knowing why their partner is upset by purchases that seem completely reasonable to them. These aren't personality flaws. They are survival techniques that each developed in their youth.
-
-
-In #emph[ACOTAR], Feyre's transition from starving human huntress to High Lady with access to Rhysand's vast wealth is one of the most dramatic class jumps in romantasy. At the beginning of the series, Feyre remarks that the curtains in her bedroom at the Spring Court could feed a family for a month. However, as she becomes a part of the Night Court, her limited perception of money appears to fade, and she spends her days painting and constructing homes. Many fans of the series feel that Feyre's transformation occurred too quickly, and that she lost contact with her roots after she began receiving luxury items and attention.
-
-
-A counterexample is Nesta, whose excessive spending on wine and gambling are seen by Feyre and Rhysand as embarrassing behaviour, even though their father had spent his entire fortune to provide ships and soldiers for the war. The friction concerning who can spend money and who can criticise spending behaviour illustrates a larger issue: in cross-class relationships, money habits are rarely merely about money. They're about identity, control, and whose version of "normal" wins.
+The sacrifices don't stop at the climax. If a character gave up an inheritance, they still need to eat next week. When a couple crosses class lines, the world withdraws its business: social ostracism, lost patronage, closed professional networks. Disinheritance leads to permanent downward mobility, where characters retain the expectations of their former life but not the means. And partners from different economic backgrounds bring clashing money habits that don't disappear just because they're in love.
 
 
 #workbook-table(
@@ -1822,8 +1953,11 @@ Don't skip this. The most powerful romantic endings show the cost in concrete, d
 #strong[After your characters choose each other over economic security: Where do they live? What do they eat every day? Who do they still have access to? Who has shut them out? What do they miss most? What surprised them about their new reality?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
 )
 
 
@@ -1836,18 +1970,30 @@ Partners from different backgrounds will clash over spending. This isn't a flaw 
 #strong[How do your characters' different financial backgrounds show up in daily life? For the one who grew up with less and the one with more: What do they spend freely on? What do they refuse to spend on? What purchase would start an argument? How do they feel about accepting help?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
 )
 
 
 #strong[What moment makes the sacrifice feel worth it?]
 
 
-#hint[This is your earned ending. Not the wedding, not the declaration — the quiet scene where reduced circumstances feel like the right choice. Make it small and specific, and it'll hit harder than any grand gesture.]
+#hint[This is your earned ending. Not the wedding, not the declaration. It's the quiet scene where reduced circumstances feel like the right choice. Make it small and specific, and it'll hit harder than any grand gesture.]
 
 
 There should be a scene, maybe small, maybe private, where one character looks at their reduced circumstances and feels certain they chose right. What does that moment look like?
+
+
+#divider()
+
+
+=== ✦ Checkpoint: The Cost of Love
+
+
+#hint[Pause and look at your answers so far. Do the sacrifices your characters make feel proportional to the economic world you've built? If you said class is rigid and mobility is impossible, does the sacrifice reflect that, or does it feel too easy? If you established a harsh economy, the aftermath of choosing love should show that harshness. Make sure the consequences match the world.]
 
 
 #block(breakable: false)[
@@ -1926,17 +2072,21 @@ If yes, does this complicate the romance? Create doubt about true feelings?
 )
 
 
-#strong[How does survival pressure shape the romance?]
+#strong[What desperate choice has survival pressure forced onto the romance?]
 
 
-#hint[Desperation doesn't just create backstory — it creates present-tense romantic tension. A character who can't eat tomorrow makes different choices about love than one who's comfortable. Map how survival needs warp the romantic dynamic.]
+#hint[Desperation doesn't just create backstory. It creates present-tense romantic tension. A character who can't eat tomorrow makes different choices about love than one who's comfortable.]
 
 
-#strong[How does survival-level economic pressure affect the romance? Describe a specific pressure, how it affects the relationship, and a scene where this is felt.]
+#strong[Describe a specific survival pressure, how it bends the relationship, and a scene where the reader can feel it.]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
+  fill-page: true,
 )
 
 
@@ -1944,9 +2094,7 @@ If yes, does this complicate the romance? Create doubt about true feelings?
 
 == Smuggling, Black Markets & Underground Economies
 
-Not everything people do with money is legal. If you are writing about someone who is operating outside of the law (such as a smuggler, a thief, a black-market dealer, etc.) then the underground economy is no longer just a little flavour in the background; it is a structural element in how your character lives on a day-to-day basis, including their loyalty and what they can and cannot offer a romantic partner.
-
-A believable illegal economy in fantasy will typically include the following elements: the logistics of the illegal economy are visible (routes, ports, chokepoints), the illegal economy presents organised crime as an institution (accounting, codes of conduct, and governance), and the illegal economy provides a means by which to produce romantic moments (the secrecy of the illegal economy produces the eroticism of keeping secrets, sharing risks develops trust, and moral ambiguity creates a crucible for the development of love).
+If you're writing a character who operates outside the law (smuggler, thief, black-market dealer), the underground economy is a structural element in how they live, who they can trust, and what they can offer a romantic partner.
 
 === How Does Your Underground Economy Work?
 
@@ -1967,47 +2115,32 @@ If either character operates in a shadow economy, you need to know how it functi
 )
 
 
-In #emph[Six of Crows], Kaz Brekker doesn't just run a gang. He runs infrastructure. He dredges a harbour, builds docks, mortgages his gambling house to finance the upgrade, and then captures the inflow of tourists and ship crews by steering them into gang-owned vice venues. Furthermore, he sells shares in the operation to legitimate businessmen, converting lawful investors into stakeholders dependent on criminal stability. It's a textbook depiction of chokepoint economics: control the entry point, then monetise everything downstream.
+In the best underground-economy romances, the criminal infrastructure is visible and specific (routes, chokepoints, codes of conduct), and the romance is built on the same logic: staged disclosure, controlled vulnerability, trust as a calculated risk.
 
 
-The romance between Kaz and Inej is built on the same logic as his business: staged disclosure, controlled vulnerability, trust as a calculated risk. Each moment of intimacy for Kaz represents a moment when he surrenders some of his carefully maintained operational security. He wants her on the job. She needs to determine if she's being regarded as a partner or merely an asset. The romance is inseparable from the economics.
+=== Secrecy & Morality
 
 
-In #emph[A Darker Shade of Magic], the scarce resource isn't an object but the ability to cross between parallel worlds. Kell smuggles forbidden items between Londons, and his payment system reveals the economics perfectly: he refuses money (it doesn't translate across worlds) and instead demands "something that matters, something you don't want to lose." When Lila steals from him, she doesn't just take an object; she jeopardises his entire risk profile. Their romance is a trust negotiation that begins with a betrayal and rebuilds through forced alliance, much like how partnerships develop in real smuggling networks.
+In criminal romances, information is both a commodity and an intimacy marker. Revealing a real name, a route, or a weakness is an economic concession as much as an emotional one. The romantic turning point often comes when one character reveals something that makes them completely vulnerable.
 
 
-=== Secrecy as Romantic Currency
-
-
-In underground-economy romances, information is both a commodity and an intimacy marker. The information you have about someone's operation is power. What you choose to reveal is vulnerability. Once one character tells the other their real name, their route, their weakness, that's not just emotional openness. It's an economic concession. They've given the other person something that could destroy them.
-
-
-Criminal romances often track a specific pattern for this reason: the characters begin by withholding everything (operational security), then slowly and incrementally build trust through revealing small pieces of themselves, then reach a point where one of them reveals something that makes them completely vulnerable (the romantic turning point). In #emph[Six of Crows], Kaz's gloves-off moments aren't just about physical touch. They're about dropping the armour that keeps his operation (and his heart) secure. In con-artist narratives like #emph[The Mask of Mirrors], the romance is structurally risky because intimacy is simply another form of identity performance, and the reader can't be certain whether affection is genuine or if it'll ultimately be used as leverage until the mask finally comes off.
-
-
-=== The Moral Problem
-
-
-If you are writing a romance where one or both characters profit from a black market/underground economy, then their romance needs to address this issue. Most commonly, authors fall into the trap of using "moral ambiguity," (or as I call it, "he's so morally grey") stating a character is complex but never giving the reader the chance to see if he will make difficult moral decisions. The most successful romances featuring characters who profit from an underground economy require the lovers to choose which good is worth the cost to them: profit versus protecting the vulnerable, loyalty to crew versus loyalty to partner, violence for safety versus violence for control.
-
-
-In #emph[The Assassin's Blade], the protagonist finds herself facing slavery as a business guaranteed to produce profit on a mission with her love interest. The author creates a scenario that requires the moral disgust she feels to collide with the economic rationality of a business model and allows the reader to experience a "one room, two beds" moment in the middle of negotiating slave shipments. The romance does not simply ignore the complicity; it utilises it. Both characters become even more intimate because they both know exactly what they do for a living and neither can pretend the work is clean.
-
-
-In #emph[Hunt on Dark Waters], the pirate crew operates under a vow system that replaces state law: join or die, obey or be hunted. The captain's controlled display of power, telekinesis used gently, becomes both threat and seduction. The romance asks whether governance violence can coexist with care. It doesn't answer easily.
+If your characters profit from an underground economy, the romance needs to confront that reality. The strongest criminal romances put characters at a fork where both paths cost something real: profit versus protecting the vulnerable, loyalty to crew versus loyalty to partner.
 
 
 #strong[What moral choice does the underground economy force on your romance?]
 
 
-#hint["Morally grey" isn't a personality trait — it's a decision in a specific moment. The best criminal romances put the character at a fork where both paths cost something real. What's the fork for your character, and what does their choice reveal about what they value more than profit?]
+#hint["Morally grey" isn't a personality trait. It's a decision in a specific moment. The best criminal romances put the character at a fork where both paths cost something real. What's the fork for your character, and what does their choice reveal about what they value more than profit?]
 
 
-#strong[Describe a moral fork your character faces — two options, both costly. What do they choose, what does it cost, and what does it reveal to their partner?]
+#strong[Describe a moral fork your character faces: two options, both costly. What do they choose, what does it cost, and what does it reveal to their partner?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
 )
 
 
@@ -2017,8 +2150,11 @@ In #emph[Hunt on Dark Waters], the pirate crew operates under a vow system that 
 #strong[If a character is involved in criminal activity: What illegal activity? What organisation? What code governs their criminal world? What would their lover lose by association? What moral line would they refuse to cross?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
 )
 
 
@@ -2037,8 +2173,11 @@ If one character operates outside the law, they're keeping secrets. Map the disc
 #strong[Describe how the criminal character's walls come down across three stages (early, middle, turning point): What are they hiding, what do they reveal, and what does each revelation cost them?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
 )
 
 
@@ -2057,8 +2196,83 @@ Some criminal romances end with the characters leaving the life. But leaving has
 #strong[If your criminal character went legitimate, what would they lose and what would they gain?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
+  fill-page: true,
+)
+
+
+== Apply the Principle: The Invisible Ledger & Your Romance
+
+
+You've now built the economic foundation of your world: the systems, currency, class structures, occupations, and pressures that shape daily life. With that foundation in place, it's time to return to the Invisible Ledger principle from the opening of this section and apply it directly to your characters and their romance.
+
+
+Consider what the Invisible Ledger reveals in your romance:
+
+
+- #strong[Who owes more?] At the start of your story, which character has received more than they can repay? How does that debt change their behaviour? Are they more guarded, more eager to prove themselves, more resentful?
+- #strong[What can't be repaid with money?] A life saved, a secret kept, a reputation protected. These are debts that money can't settle, and that's where the tension lives.
+- #strong[Where does helping start to feel like owning?] There is a tipping point where "I'm helping you" starts to feel like "I own you." The recipient may not be able to define the difference, but they sense it. Where is that line for your characters?
+- #strong[What would balance the ledger?] What could the less powerful character offer or risk so their partner sees them as an equal? Sometimes it's competence. Sometimes it's emotional honesty. Sometimes it's the willingness to walk away, proving they're staying by choice.
+
+
+=== The Key Question
+
+
+What's the single biggest entry on your characters' Invisible Ledger: the one debt, gift, or sacrifice that neither of them can forget? And what will it take for them to stop letting it define the relationship?
+
+
+#strong[⬥ Core: What's on your characters' Invisible Ledger?]
+
+
+#strong[Map the emotional debt between your characters. What has been given or received, who gave, who owes, and how does the debt feel?]
+
+
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
+)
+
+
+#strong[When does the ledger stop mattering?]
+
+
+What moment, scene, or choice makes one or both characters decide they're done keeping score? This is your romantic turning point. Make it earn its weight.
+
+
+#divider()
+
+
+=== Economic Tensions Synthesis
+
+
+#hint[You've already answered these questions in the exercises above. Pull your answers together here to see the full economic picture of your romance.]
+
+
+#open-table(
+  headers: ("Element", "Your Answer (from earlier exercises)", "Section to Review"),
+  example-rows: (
+
+  ),
+  rows: (
+    ([Economic system type], [], [Economic Systems]),
+    ([Protagonist's economic position], [], [Your Characters' Economic Positions]),
+    ([Love interest's economic position], [], [Your Characters' Economic Positions]),
+    ([Size of the wealth gap], [], [Your Characters' Economic Positions]),
+    ([Primary economic pattern (wealth gap, debt, arrangement, sacrifice, inheritance threat)], [], [Wealth Gap / Debt / Marriage / Economic Sacrifice]),
+    ([Biggest entry on the Invisible Ledger], [], [The Invisible Ledger]),
+    ([Key economic sacrifice], [], [Economic Sacrifice]),
+    ([What the sacrifice costs daily], [], [What Happens After They Choose Each Other]),
+    ([Does the romance reinforce or disrupt the economic status quo?], [], []),
+  ),
+  row-height: 75pt,
+  fill-strategy: "wider_rows",
 )
 
 
@@ -2073,7 +2287,7 @@ Some criminal romances end with the characters leaving the life. But leaving has
   headers: ("Question", "Answer", "Example (Wealth-Gap Romance)"),
   rows: (
     ([How does government control or affect the economy?], [], [#emph[Entailment laws keep estates intact; the Crown grants trade monopolies; taxes fund wars that enrich some and bankrupt others]]),
-    ([How do cultural values affect economic behavior?], [], [#emph["Gentlemen don't work" means heirs can't earn; merchants are wealthy but not accepted; marrying for money is expected but admitting it is gauche]]),
+    ([How do cultural values affect economic behaviour?], [], [#emph["Gentlemen don't work" means heirs can't earn; merchants are wealthy but not accepted; marrying for money is expected but admitting it is gauche]]),
     ([Could magic solve your characters' economic problems? Why don't they use it?], [], [#emph[Transmutation is possible but illegal (counterfeiting); money spells are traceable; magical labour is regulated by guild]]),
     ([How does economics interact with your political obstacles?], [], [#emph[He needs to marry an heiress to save the estate; she has money but not status. His family opposes her, but needs her dowry]]),
   ),
@@ -2090,12 +2304,12 @@ Some criminal romances end with the characters leaving the life. But leaving has
 #workbook-table(
   headers: ("Element", "Your World", "Example (Wealth-Gap Romance)"),
   rows: (
-    ([Type of economy], [], [#emph[Feudal with emerging merchant class — old money (land) vs. new money (trade)]]),
+    ([Type of economy], [], [#emph[Feudal with emerging merchant class: old money (land) vs. new money (trade)]]),
     ([Primary economic obstacle for romance], [], [#emph[She's a servant; he's heir to the estate. Their stations make marriage unthinkable.]]),
-    ([Economic power imbalance], [], [#emph[He could fire her, evict her family, ruin her completely — she has no leverage]]),
-    ([The valuable/scarce resource], [], [#emph[Land — the estate represents generations of wealth and power]]),
+    ([Economic power imbalance], [], [#emph[He could fire her, evict her family, ruin her completely. She has no leverage]]),
+    ([The valuable/scarce resource], [], [#emph[Land: the estate represents generations of wealth and power]]),
     ([Who controls it], [], [#emph[His father, who will disinherit him if he marries beneath his station]]),
-    ([Economic debt or obligation], [], [#emph[Her family owes debt to his; she works it off. He could forgive it — would that be rescue or control?]]),
+    ([Economic debt or obligation], [], [#emph[Her family owes debt to his; she works it off. He could forgive it, would that be rescue or control?]]),
     ([Economic sacrifice required to be together], [], [#emph[He gives up his inheritance; they start with nothing but each other]]),
   ),
 )
@@ -2111,3 +2325,19 @@ Economics creates stakes when it forces impossible choices: love or survival? Pr
 
 
 Build an economy that makes these choices real.
+
+
+#divider()
+
+
+=== What's Next
+
+
+Your economy is built. Here's where to take it:
+
+
+- #strong[If you haven't done Government yet] → Section 5 (Government, Power & Law) is the natural next step. Taxes, trade regulation, and power structures grow directly from economic foundations.
+- #strong[If your economy runs on magic] → Make sure your magic system (Section 8) is consistent with what you've built here, especially around scarcity, cost, and who controls magical labour.
+- #strong[If class divides your characters] → Section 3 (Culture, Customs & Daily Life) will help you flesh out how wealth shows up in clothing, food, manners, and social rituals.
+- #strong[If your world has scarce resources] → Section 1 (Geography & Environment) should align with where those resources come from and who controls the land.
+- #strong[Ready to stress-test?] → Section 16 (Web of Systems) will check how your economy interacts with everything else you've built.

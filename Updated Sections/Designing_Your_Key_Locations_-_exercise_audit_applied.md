@@ -13,7 +13,7 @@ You've already built geography (Section 1), established how the natural world wo
 
 Think of your key locations as stages, not backdrops.
 
-Backdrops are wallpaper. Pretty, atmospheric, interchangeable. Stages have wings where characters enter and exit. Lighting that is capable of changing the mood. Props that the characters need to interact with. And an audience, or the very real possibility of one.
+Backdrops are wallpaper. Pretty, atmospheric, interchangeable. Stages have wings where characters enter and exit. Lighting that can change the mood. Props that the characters need to interact with. And an audience, or the very real possibility of one.
 
 Every stage constrains what can happen on it. A narrow balcony brings people closer to each other. A large crowd in a ballroom makes even the most innocent-sounding conversation seem illicit. A battlefield demands cooperation before it permits tenderness. The space doesn't exist as a static background; it's an active participant shaping what your characters can do, say, and feel.
 
@@ -184,7 +184,7 @@ A good location will create both a need for a certain type of intimacy and also 
 
 **Describe the location in 2-3 sentences. What's the dominant impression?**
 
-*First impressions matter. The dominant impression of a space — cramped, exposed, warm, hostile — sets the emotional baseline for every scene that happens here. Get this right and the reader will feel the location before they understand it.*
+*First impressions matter. The dominant impression of a space (cramped, exposed, warm, hostile) sets the emotional baseline for every scene that happens here. Get this right and the reader will feel the location before they understand it.*
 
 (Think: size, lighting, temperature, sounds, smells, textures)
 
@@ -250,7 +250,7 @@ _______________________________________________________________
 
 **What features define the space?**
 
-*These physical features aren't just setting details — they're the mechanics of your romantic scene. Exits determine whether characters can flee; barriers determine what they can see and hide; dangerous elements determine whether proximity is a choice or a necessity.*
+*These physical features aren't just setting details; they're the mechanics of your romantic scene. Exits determine whether characters can flee; barriers determine what they can see and hide; dangerous elements determine whether proximity is a choice or a necessity.*
 
 Size/layout: ____________________________________________________
 
@@ -291,13 +291,13 @@ _______________________________________________________________
 
 **Who else could be here? Who has access?**
 
-*Knowing who might walk in — and what they'd think — defines the stakes of every private moment. A space where a rival could appear creates different tension than one where a mentor might arrive.*
+*Knowing who might walk in, and what they'd think, defines the stakes of every private moment. A space where a rival could appear creates different tension than one where a mentor might arrive.*
 
 _______________________________________________________________
 
 **What would happen if they were discovered here together?**
 
-*Be specific — not just "scandal," but actual consequences. Exile? Broken alliance? A forced marriage to someone else? The price of intimacy in this space is what makes stolen moments electric.*
+*Be specific. Not just "scandal," but actual consequences. Exile? Broken alliance? A forced marriage to someone else? The price of intimacy in this space is what makes stolen moments electric.*
 
 _______________________________________________________________
 
@@ -305,7 +305,7 @@ _______________________________________________________________
 
 **Can they see or hear someone approaching, or could they be surprised?**
 
-*A warning of interruption creates delicious tension — they know the clock is ticking. Surprise interruption creates crisis. Which serves your scene better?*
+*A warning of interruption creates delicious tension; they know the clock is ticking. Surprise interruption creates crisis. Which serves your scene better?*
 
 _______________________________________________________________
 
@@ -313,7 +313,7 @@ _______________________________________________________________
 
 **What can happen here that couldn't happen elsewhere?**
 
-*This is the ultimate test of whether your location earns its place. If the answer is "nothing specific," the stage isn't working yet — go back and add a constraint, a danger, or a history that makes this space irreplaceable.*
+*This is the ultimate test of whether your location earns its place. If the answer is "nothing specific," the stage isn't working yet. Go back and add a constraint, a danger, or a history that makes this space irreplaceable.*
 
 _______________________________________________________________
 
@@ -321,7 +321,7 @@ _______________________________________________________________
 
 **What comfort, safety, or resource does this location provide?**
 
-*Even dangerous locations usually offer something — shelter, warmth, food, silence. That offering shapes what kind of intimacy becomes possible. Characters who are cold huddle together. Characters who are fed can finally talk. Characters who feel safe can finally feel.*
+*Even dangerous locations usually offer something: shelter, warmth, food, silence. That offering shapes what kind of intimacy becomes possible. Characters who are cold huddle together. Characters who are fed can finally talk. Characters who feel safe can finally feel.*
 
 _______________________________________________________________
 
@@ -345,7 +345,7 @@ _______________________________________________________________
 
 **What do they want that this location won't allow?**
 
-*Unmet desire is the engine of romantic tension. If the space prevents what they want most — privacy, touch, honesty, escape — that gap between wanting and having is where your best scenes live.*
+*Unmet desire is the engine of romantic tension. If the space prevents what they want most (privacy, touch, honesty, escape), that gap between wanting and having is where your best scenes live.*
 
 _______________________________________________________________
 
@@ -405,7 +405,7 @@ Locations can be personable too. The best ones give off the feeling that they're
 
 **What happened in this place before your characters arrive?**
 
-*Past events leave residue — emotional, magical, or both. A location where a famous love story ended in tragedy mirrors (or threatens) the current romance. History gives a space gravity that pure description can't.*
+*Past events leave residue, emotional, magical, or both. A location where a famous love story ended in tragedy mirrors (or threatens) the current romance. History gives a space gravity that pure description can't.*
 
 _______________________________________________________________
 
@@ -413,13 +413,13 @@ _______________________________________________________________
 
 **Do your characters know the history of this place?**
 
-*Knowledge of the past changes how a character experiences a space. A character who knows this was a massacre site inhabits a completely different scene than one who sees only a pretty meadow — and that asymmetry creates tension.*
+*Knowledge of the past changes how a character experiences a space. A character who knows this was a massacre site inhabits a completely different scene than one who sees only a pretty meadow, and that asymmetry creates tension.*
 
 _______________________________________________________________
 
 **Does this location have personal significance to either character?**
 
-*A place from their past, a meaningful memory, somewhere they've been before. Personal history adds private weight to shared space — and discovering that weight is often a turning point for the other character.*
+*A place from their past, a meaningful memory, somewhere they've been before. Personal history adds private weight to shared space, and discovering that weight is often a turning point for the other character.*
 
 _______________________________________________________________
 
@@ -461,7 +461,7 @@ Spatial irony gives the reader a sense of being complicit. When we know the secr
 
 **Does the reader know something about this location that one or both characters don't?**
 
-*Spatial dramatic irony — where the reader knows a location's secret before the characters do — creates complicity between the reader and whoever holds the secret. It's one of the most powerful tools for making readers ache for the reveal.*
+*Spatial dramatic irony, where the reader knows a location's secret before the characters do, creates complicity between the reader and whoever holds the secret. It's one of the most powerful tools for making readers ache for the reveal.*
 
 _______________________________________________________________
 
@@ -469,7 +469,7 @@ _______________________________________________________________
 
 **Does one character know something about this space that the other doesn't?**
 
-*Knowledge asymmetry turns a location into an emotional minefield. The character who knows this was a massacre site, or that the room is being watched, carries weight the other can't see — and that invisible weight shapes every interaction.*
+*Knowledge asymmetry turns a location into an emotional minefield. The character who knows this was a massacre site, or that the room is being watched, carries weight the other can't see, and that invisible weight shapes every interaction.*
 
 _______________________________________________________________
 
@@ -571,7 +571,7 @@ For your pivotal romantic scenes specifically, be sure to include the one or two
 
 **Try it: Pick one of your key locations and write a pivotal moment using only body-filtered description.**
 
-*Don't describe the room. Describe what your character feels, fears, notices, and bumps into while they're in it. Aim for two to three sentences of pure description at most, then weave the rest into action, dialogue, or internal thought. This is where your location design work pays off — you know what the space forces and prevents, so let your character experience that through their body.*
+*Don't describe the room. Describe what your character feels, fears, notices, and bumps into while they're in it. Aim for two to three sentences of pure description at most, then weave the rest into action, dialogue, or internal thought. This is where your location design work pays off. You know what the space forces and prevents, so let your character experience that through their body.*
 
 _______________________________________________________________
 
@@ -585,7 +585,7 @@ _______________________________________________________________
 
 **What are the one or two sensory details that matter most for this scene's emotional beat?**
 
-*Not the whole room — just the details that carry emotional weight. The firelight, the silence, the scent of rain. These are your anchors. Everything else can emerge as the characters move through the space.*
+*Not the whole room, just the details that carry emotional weight. The firelight, the silence, the scent of rain. These are your anchors. Everything else can emerge as the characters move through the space.*
 
 _______________________________________________________________
 
@@ -636,7 +636,7 @@ _______________________________________________________________
 
 **Does the location itself change, or only their perception of it?**
 
-*Physical changes (seasons, damage, decay, growth) tell a story about the world. Perceptual changes — where the space feels different only because the characters have changed — tell a story about the relationship. The most powerful recurring locations use both.*
+*Physical changes (seasons, damage, decay, growth) tell a story about the world. Perceptual changes, where the space feels different only because the characters have changed, tell a story about the relationship. The most powerful recurring locations use both.*
 
 _______________________________________________________________
 
@@ -736,7 +736,7 @@ _______________________________________________________________
 
 **Pick one transition between two of your key locations. What happens emotionally during the journey?**
 
-*The space between locations is where characters are between roles — the rules of one space have ended but the rules of the next haven't started yet. This liminal zone is where hands almost touch, where silence says everything, where masks start slipping. Don't skip it.*
+*The space between locations is where characters are between roles. The rules of one space have ended but the rules of the next haven't started yet. This liminal zone is where hands almost touch, where silence says everything, where masks start slipping. Don't skip it.*
 
 _______________________________________________________________
 
@@ -786,7 +786,7 @@ _______________________________________________________________
 
 **What happens between your characters during the journey from one key location to the next?**
 
-*Transitions aren't dead space — they're the moments where the rules of one space have ended and the rules of the next haven't started yet. Characters are between roles, and that's when the most honest moments slip through.*
+*Transitions aren't dead space. They're the moments where the rules of one space have ended and the rules of the next haven't started yet. Characters are between roles, and that's when the most honest moments slip through.*
 
 _______________________________________________________________
 
@@ -866,7 +866,7 @@ Your key locations don't exist in isolation. They're shaped by every system you'
 | Technology (Section 9) | How do lighting, heating, construction, and tools shape what's possible? | No magical lighting means firelight only, which means closeness, shadows, intimacy |
 | Institutions (Section 14) | Do locations exist within institutional spaces: academies, courts, military camps? | A stolen moment in a corner of the academy carries institutional risk: expulsion, punishment, scandal |
 
-*Locations that are grounded in your existing world feel real — and real places create more powerful romantic moments than invented-on-the-spot ones. These connections also ensure your locations don't contradict what you've already established.*
+*Locations that are grounded in your existing world feel real, and real places create more powerful romantic moments than invented-on-the-spot ones. These connections also ensure your locations don't contradict what you've already established.*
 
 **How do terrain, climate, and natural features shape your key locations (Section 1)?**
 
@@ -888,7 +888,7 @@ _______________________________________________________________
 
 **What historical events happened at or near your locations (Section 7)?**
 
-*Battlefields, ruins, sites of tragedy or triumph. Historical weight gives a location gravity that pure description cannot.*
+*Battlefields, ruins, sites of tragedy or triumph. Historical weight gives a location gravity that pure description can't.*
 
 _______________________________________________________________
 

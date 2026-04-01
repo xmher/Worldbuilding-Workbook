@@ -21,7 +21,7 @@
     },
     {
       "type": "prose",
-      "text": "Backdrops are wallpaper. Pretty, atmospheric, interchangeable. Stages have wings where characters enter and exit. Lighting that is capable of changing the mood. Props that the characters need to interact with. And an audience, or the very real possibility of one."
+      "text": "Backdrops are wallpaper. Pretty, atmospheric, interchangeable. Stages have wings where characters enter and exit. Lighting that can change the mood. Props that the characters need to interact with. And an audience, or the very real possibility of one."
     },
     {
       "type": "prose",
@@ -167,18 +167,40 @@
     },
     {
       "type": "prose",
-      "text": "**Map your pairing to the location pressure it needs most.**"
+      "text": "**What is your pairing dynamic, and which one or two types of location pressure does it need most?**"
     },
     {
       "type": "hint",
-      "text": "Use the tables above to identify which types of pressure your romance needs. You don't have to limit yourself to one — the strongest locations combine two or more."
+      "text": "For example, enemies to lovers typically needs forced connection + risk. Refer to the tables above. You can combine more than one pressure type."
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
     },
     {
       "type": "prose",
-      "text": "**What is your pairing dynamic (e.g., enemies to lovers, forbidden love, slow burn), and which types of location pressure does your romance need most? Why does this combination serve your story?**"
+      "text": "&nbsp;"
     },
     {
-      "type": "answer_box"
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "**Which of your planned locations already creates this pressure -- and which ones don't?**"
+    },
+    {
+      "type": "hint",
+      "text": "Check your existing locations against the pressure type you identified above. If a location doesn't create the right kind of pressure for your pairing, it may need redesigning or a different scene."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "divider"
@@ -213,7 +235,7 @@
     {
       "type": "mistake_box",
       "title": "Mistake #3: The Same Room Twice",
-      "body": "All key romantic moments happen in similar locations. Always private, always safe, always comfortable. Or always dangerous, always public, always high-stakes. The locations blur together because they all create the same type of pressure. Variety in location creates variety in romantic tension. If every intimate moment happens in private safety, you lose the electric thrill of stolen moments in dangerous spaces. If every moment is high-stakes, you never get the tenderness of characters who can finally relax. **Quick check: Are any of your planned scenes falling into these traps?** *Be honest — most first drafts have at least one \"anywhere scene.\" Catching it now saves a rewrite later.* Any scenes that could happen anywhere? Which one, and how could you anchor it? _______________________________________________________________ Any locations that are pretty but don't *do* anything? What constraint or stake could you add? _______________________________________________________________ Are several of your locations creating the same type of pressure? Which one could you change for more contrast? _______________________________________________________________",
+      "body": "All key romantic moments happen in similar locations. Always private, always safe, always comfortable. Or always dangerous, always public, always high-stakes. The locations blur together because they all create the same type of pressure. Variety in location creates variety in romantic tension. If every intimate moment happens in private safety, you lose the electric thrill of stolen moments in dangerous spaces. If every moment is high-stakes, you never get the tenderness of characters who can finally relax. **Quick check: Are any of your planned scenes falling into these traps?** *Be honest: most first drafts have at least one \"anywhere scene.\" Catching it now saves a rewrite later.* Any scenes that could happen anywhere? Which one, and how could you anchor it? _______________________________________________________________ Any locations that are pretty but don't *do* anything? What constraint or stake could you add? _______________________________________________________________ Are several of your locations creating the same type of pressure? Which one could you change for more contrast? _______________________________________________________________",
       "fix": "Check your key locations against the five pressure types (forces connection, enables intimacy, creates risk, reveals character, active magical spaces). Make sure you have a mix. If three of your five locations are \"private and safe\", change one to \"public and risky.\""
     },
     {
@@ -236,7 +258,20 @@
       "text": "**List three to five pivotal romantic moments in your story -- the scenes that shift the relationship, where walls come down, stakes become real, or everything changes.**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -330,7 +365,7 @@
     },
     {
       "type": "hint",
-      "text": "First impressions matter. The dominant impression of a space — cramped, exposed, warm, hostile — sets the emotional baseline for every scene that happens here. Get this right and the reader will feel the location before they understand it."
+      "text": "First impressions matter. The dominant impression of a space (cramped, exposed, warm, hostile) sets the emotional baseline for every scene that happens here. Get this right and the reader will feel the location before they understand it."
     },
     {
       "type": "prose",
@@ -366,18 +401,83 @@
       "height": "55pt"
     },
     {
+      "type": "prose",
+      "text": "**How big is this location, and how long does it take to cross?**"
+    },
+    {
+      "type": "hint",
+      "text": "Scale shapes everything. A location you can cross in thirty seconds creates different tension than one that takes an hour to traverse. A single room forces intimacy; a sprawling estate lets characters avoid each other -- or seek each other out."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Who lives or works here? Where within this location do people actually sleep, eat, and gather?**"
+    },
+    {
+      "type": "hint",
+      "text": "Knowing where everyday life happens tells you where characters will run into each other -- and where they can hide. A barracks with shared sleeping quarters creates very different possibilities than a palace with private wings."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What threats or dangers exist at this location?**"
+    },
+    {
+      "type": "hint",
+      "text": "Think beyond dramatic combat. Dangerous wildlife, unstable structures, poisonous plants, treacherous weather, hostile locals, magical hazards. Everyday dangers shape how characters move through a space and what risks they take to be together."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**How do people get to this location from the nearest settlement or key location?**"
+    },
+    {
+      "type": "hint",
+      "text": "A location that takes three days on horseback through hostile territory creates very different story possibilities than one connected by a busy road. The journey to a location is often where anticipation builds."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
       "type": "divider"
     },
     {
       "type": "prose",
-      "text": "**What does this space force or prevent?**"
+      "text": "**What does this space force characters to do? What does it prevent them from doing?**"
+    },
+    {
+      "type": "hint",
+      "text": "Think about physical proximity, cooperation, vulnerability on the \"force\" side -- and escape, privacy, honesty on the \"prevent\" side. The best locations do both at once."
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
     },
     {
       "type": "prose",
-      "text": "**For this location: What does the space force to happen (physical proximity, cooperation, vulnerability)? And what does it prevent (escape, privacy, honesty)?**"
+      "text": "&nbsp;"
     },
     {
-      "type": "answer_box"
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -385,7 +485,7 @@
     },
     {
       "type": "hint",
-      "text": "These physical features aren't just setting details — they're the mechanics of your romantic scene. Exits determine whether characters can flee; barriers determine what they can see and hide; dangerous elements determine whether proximity is a choice or a necessity."
+      "text": "These physical features aren't just setting details; they're the mechanics of your romantic scene. Exits determine whether characters can flee; barriers determine what they can see and hide; dangerous elements determine whether proximity is a choice or a necessity."
     },
     {
       "type": "writing_box",
@@ -421,6 +521,19 @@
       "height": "80pt"
     },
     {
+      "type": "prose",
+      "text": "**What makes this location immediately distinct from your other key locations?**"
+    },
+    {
+      "type": "hint",
+      "text": "Every location needs a signature -- the constant wind, the smell of sulfur, the way sound echoes, the colour of the stone. If a reader couldn't tell your locations apart from a single sensory detail, they may be too similar."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
       "type": "divider"
     },
     {
@@ -429,7 +542,7 @@
     },
     {
       "type": "prose",
-      "text": "How private is this location?"
+      "text": "**How private is this location?**"
     },
     {
       "type": "checklist",
@@ -459,7 +572,7 @@
     },
     {
       "type": "hint",
-      "text": "Knowing who might walk in — and what they'd think — defines the stakes of every private moment. A space where a rival could appear creates different tension than one where a mentor might arrive."
+      "text": "Knowing who might walk in, and what they'd think, defines the stakes of every private moment. A space where a rival could appear creates different tension than one where a mentor might arrive."
     },
     {
       "type": "writing_box",
@@ -472,7 +585,7 @@
     },
     {
       "type": "hint",
-      "text": "Be specific — not just \"scandal,\" but actual consequences. Exile? Broken alliance? A forced marriage to someone else? The price of intimacy in this space is what makes stolen moments electric."
+      "text": "Be specific. Not just \"scandal,\" but actual consequences. Exile? Broken alliance? A forced marriage to someone else? The price of intimacy in this space is what makes stolen moments electric."
     },
     {
       "type": "writing_box",
@@ -485,7 +598,7 @@
     },
     {
       "type": "hint",
-      "text": "A warning of interruption creates delicious tension — they know the clock is ticking. Surprise interruption creates crisis. Which serves your scene better?"
+      "text": "A warning of interruption creates delicious tension; they know the clock is ticking. Surprise interruption creates crisis. Which serves your scene better?"
     },
     {
       "type": "writing_box",
@@ -501,7 +614,7 @@
     },
     {
       "type": "hint",
-      "text": "This is the ultimate test of whether your location earns its place. If the answer is \"nothing specific,\" the stage isn't working yet — go back and add a constraint, a danger, or a history that makes this space irreplaceable."
+      "text": "This is the ultimate test of whether your location earns its place. If the answer is \"nothing specific,\" the stage isn't working yet. Go back and add a constraint, a danger, or a history that makes this space irreplaceable."
     },
     {
       "type": "writing_box",
@@ -514,7 +627,7 @@
     },
     {
       "type": "hint",
-      "text": "Even dangerous locations usually offer something — shelter, warmth, food, silence. That offering shapes what kind of intimacy becomes possible. Characters who are cold huddle together. Characters who are fed can finally talk. Characters who feel safe can finally feel."
+      "text": "Even dangerous locations usually offer something: shelter, warmth, food, silence. That offering shapes what kind of intimacy becomes possible. Characters who are cold huddle together. Characters who are fed can finally talk. Characters who feel safe can finally feel."
     },
     {
       "type": "writing_box",
@@ -523,7 +636,7 @@
     },
     {
       "type": "prose",
-      "text": "**What intimacy does the space allow?**"
+      "text": "**What kinds of closeness does this space make possible?**"
     },
     {
       "type": "prose",
@@ -544,12 +657,16 @@
       "height": "80pt"
     },
     {
-      "type": "heading4",
-      "text": "What intimacy is impossible here — and why?"
+      "type": "prose",
+      "text": "**What kinds of closeness are impossible here -- and why?**"
+    },
+    {
+      "type": "hint",
+      "text": "The gap between what the space allows and what it prevents is where romantic tension lives. A space that allows physical closeness but prevents honest conversation creates a very different scene than one that does the opposite."
     },
     {
       "type": "writing_box",
-      "label": "What intimacy is impossible here — and why?",
+      "label": "Your Answer",
       "height": "100pt"
     },
     {
@@ -558,7 +675,7 @@
     },
     {
       "type": "hint",
-      "text": "Unmet desire is the engine of romantic tension. If the space prevents what they want most — privacy, touch, honesty, escape — that gap between wanting and having is where your best scenes live."
+      "text": "Unmet desire is the engine of romantic tension. If the space prevents what they want most (privacy, touch, honesty, escape), that gap between wanting and having is where your best scenes live."
     },
     {
       "type": "writing_box",
@@ -590,23 +707,57 @@
     },
     {
       "type": "prose",
-      "text": "**What time of day does your pivotal scene happen in this location? How does the space change at that hour, and what romantic tension does that timing create?**"
+      "text": "**What time of day does your pivotal scene happen here, and how does the space look and feel at that hour?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "Timing should feel deliberate -- chosen because this version of the space creates the right pressure. Dawn lowers defences. Midday exposes. Dusk loosens rules. Midnight invites transgression."
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
     },
     {
       "type": "prose",
-      "text": "What time does the pivotal scene happen, and why that time? Timing should feel deliberate, chosen because this version of the space creates the right pressure."
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "heading4",
+      "text": "Why is this the right time for what happens between your characters?"
     },
     {
       "type": "writing_box",
-      "label": "Your Answer",
+      "label": "Why is this the right time for what happens between your characters?",
       "height": "80pt"
     },
     {
       "type": "prose",
-      "text": "How might weather transform this space? Is weather significant in the scene that happens here?"
+      "text": "**How does weather change what's possible in this space?**"
+    },
+    {
+      "type": "hint",
+      "text": "Rain forces characters under the same shelter. Snow isolates. Fog hides. Wind makes whispered conversation impossible unless they lean close. Think about whether weather plays a role in the scene that happens here."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**How does this location change across seasons?**"
+    },
+    {
+      "type": "hint",
+      "text": "A frozen lake is a road in winter and a barrier in summer. A garden is lush in spring and skeletal in autumn. If your story spans time, the season shapes what the location offers and what it denies."
     },
     {
       "type": "writing_box",
@@ -638,7 +789,7 @@
     },
     {
       "type": "hint",
-      "text": "Past events leave residue — emotional, magical, or both. A location where a famous love story ended in tragedy mirrors (or threatens) the current romance. History gives a space gravity that pure description can't."
+      "text": "Past events leave residue, emotional, magical, or both. A location where a famous love story ended in tragedy mirrors (or threatens) the current romance. History gives a space gravity that pure description can't."
     },
     {
       "type": "writing_box",
@@ -651,7 +802,7 @@
     },
     {
       "type": "hint",
-      "text": "Knowledge of the past changes how a character experiences a space. A character who knows this was a massacre site inhabits a completely different scene than one who sees only a pretty meadow — and that asymmetry creates tension."
+      "text": "Knowledge of the past changes how a character experiences a space. A character who knows this was a massacre site inhabits a completely different scene than one who sees only a pretty meadow, and that asymmetry creates tension."
     },
     {
       "type": "writing_box",
@@ -664,7 +815,7 @@
     },
     {
       "type": "hint",
-      "text": "A place from their past, a meaningful memory, somewhere they've been before. Personal history adds private weight to shared space — and discovering that weight is often a turning point for the other character."
+      "text": "A place from their past, a meaningful memory, somewhere they've been before. Personal history adds private weight to shared space, and discovering that weight is often a turning point for the other character."
     },
     {
       "type": "writing_box",
@@ -676,24 +827,11 @@
     },
     {
       "type": "prose",
-      "text": "**Does your location seem to have a will or character of its own?**"
+      "text": "**Does this location feel like it has a will of its own?**"
     },
     {
-      "type": "prose",
-      "text": "A house that feels welcoming or hostile, a forest that seems to lead them somewhere, a room that holds secrets:"
-    },
-    {
-      "type": "writing_box",
-      "label": "Your Answer",
-      "height": "100pt"
-    },
-    {
-      "type": "prose",
-      "text": "**How does the location \"respond\" to the characters?**"
-    },
-    {
-      "type": "prose",
-      "text": "Does it seem to help them (convenient shelter, paths that lead where they need)? Resist them (doors that stick, paths that mislead)? Reveal things to them (hidden rooms, unexpected views)?"
+      "type": "hint",
+      "text": "A house that feels welcoming or hostile, a forest that seems to lead them somewhere, a room that holds secrets. Even non-magical locations can feel alive to the characters moving through them."
     },
     {
       "type": "writing_box",
@@ -702,11 +840,24 @@
     },
     {
       "type": "prose",
-      "text": "**What personality would you give this location if it were a character?**"
+      "text": "**How does the location seem to respond to the characters?**"
+    },
+    {
+      "type": "hint",
+      "text": "Does it help them -- convenient shelter, paths that lead where they need? Resist them -- doors that stick, paths that mislead? Reveal things to them -- hidden rooms, unexpected views? Think about whether the space feels cooperative, obstructive, or indifferent."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "prose",
-      "text": "Protective, threatening, indifferent, playful, melancholy, ancient, patient?"
+      "text": "**If this location were a character, what would its personality be?**"
+    },
+    {
+      "type": "hint",
+      "text": "Protective, threatening, indifferent, playful, melancholy, ancient, patient? A location's \"personality\" shapes how characters feel within it -- and a space that feels hostile creates very different scenes than one that feels welcoming."
     },
     {
       "type": "writing_box",
@@ -738,7 +889,7 @@
     },
     {
       "type": "hint",
-      "text": "Spatial dramatic irony — where the reader knows a location's secret before the characters do — creates complicity between the reader and whoever holds the secret. It's one of the most powerful tools for making readers ache for the reveal."
+      "text": "Spatial dramatic irony, where the reader knows a location's secret before the characters do, creates complicity between the reader and whoever holds the secret. It's one of the most powerful tools for making readers ache for the reveal."
     },
     {
       "type": "writing_box",
@@ -751,7 +902,7 @@
     },
     {
       "type": "hint",
-      "text": "Knowledge asymmetry turns a location into an emotional minefield. The character who knows this was a massacre site, or that the room is being watched, carries weight the other can't see — and that invisible weight shapes every interaction."
+      "text": "Knowledge asymmetry turns a location into an emotional minefield. The character who knows this was a massacre site, or that the room is being watched, carries weight the other can't see, and that invisible weight shapes every interaction."
     },
     {
       "type": "writing_box",
@@ -760,11 +911,11 @@
     },
     {
       "type": "prose",
-      "text": "**Is there a \"geographic lie\" operating in your story?**"
+      "text": "**Does your story have a \"geographic lie\" -- a place that isn't what characters believe it to be?**"
     },
     {
       "type": "hint",
-      "text": "A place presented as safe that's actually compromised, a place feared that's actually sanctuary, a place believed destroyed that still exists. Geographic lies create some of the most powerful romantic tension because resolving them — sharing the truth of the map — is an act of ultimate trust."
+      "text": "A place presented as safe that's actually compromised, a place feared that's actually sanctuary, a place believed destroyed that still exists. Geographic lies create powerful tension because revealing the truth about a place is an act of trust."
     },
     {
       "type": "writing_box",
@@ -789,22 +940,39 @@
     },
     {
       "type": "prose",
-      "text": "Does this location have active magical properties? Wards, enchantments, sentience, shifting geography, emotion-responsiveness, truth-compelling features, magical barriers?"
+      "text": "Does this location have active magical properties -- wards, enchantments, sentience, shifting geography, emotion-responsiveness, truth-compelling features, magical barriers?"
     },
     {
       "type": "prose",
-      "text": "Use the table below to identify how the magic of this space serves your scene:"
+      "text": "**What magical properties does this location have, and how do they affect the characters?**"
+    },
+    {
+      "type": "hint",
+      "text": "Consider wards, sentience, emotional influence, shifting geography, bonding or tethering magic. For each that applies, describe how the magic works here."
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
     },
     {
       "type": "prose",
-      "text": "**Does this location have active magical properties (wards, sentience, emotional influence, shifting geography, bonding/tethering)? For each that applies, describe how the magic works here and what it does for the romance.**"
-    },
-    {
-      "type": "answer_box"
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
-      "text": "Does the magic of this space bypass your characters' defences? Emotion-responsive environments, truth-compelling pools, sin-testing corridors. These spaces force a transparency that characters would never choose voluntarily. If your location has this property, it can accelerate intimacy in a way that feels earned because it's the space doing the work, not a convenient change of heart."
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "**Does the magic here bypass your characters' defences?**"
+    },
+    {
+      "type": "hint",
+      "text": "Emotion-responsive environments, truth-compelling pools, sin-testing corridors -- these spaces force a transparency that characters would never choose voluntarily. If your location has this property, it can accelerate intimacy in a way that feels earned because the space is doing the work, not a convenient change of heart."
     },
     {
       "type": "writing_box",
@@ -813,7 +981,11 @@
     },
     {
       "type": "prose",
-      "text": "Does the magic create safety or danger, or both? The House of Wind provides sanctuary but also isolation. The wards of Navarre protect but also trap. The best magical locations offer something your characters desperately need while simultaneously taking something away."
+      "text": "**Does the magic here create safety, danger, or both?**"
+    },
+    {
+      "type": "hint",
+      "text": "The best magical locations offer something your characters desperately need while simultaneously taking something away. The House of Wind provides sanctuary but also isolation. The wards of Navarre protect but also trap."
     },
     {
       "type": "writing_box",
@@ -822,7 +994,11 @@
     },
     {
       "type": "prose",
-      "text": "Could this location's magical properties change over the course of the story? Wards that weaken, sentient spaces that grow hostile, enchantments that fade or intensify. Shifting magical properties can mirror the shifting relationship."
+      "text": "**How might this location's magical properties change over the course of the story?**"
+    },
+    {
+      "type": "hint",
+      "text": "Wards that weaken, sentient spaces that grow hostile, enchantments that fade or intensify. Shifting magical properties can mirror the shifting relationship."
     },
     {
       "type": "writing_box",
@@ -835,7 +1011,11 @@
     },
     {
       "type": "prose",
-      "text": "What pivotal moment happens here?"
+      "text": "**What pivotal moment happens at this location?**"
+    },
+    {
+      "type": "hint",
+      "text": "Name the scene -- first kiss, major confession, betrayal, breaking point, reunion. Be specific about what shifts between the characters."
     },
     {
       "type": "writing_box",
@@ -844,7 +1024,11 @@
     },
     {
       "type": "prose",
-      "text": "Why must it happen HERE specifically? This is the ultimate test of your location design. What about this space makes the moment possible, inevitable, or more meaningful?"
+      "text": "**Why can this moment only happen here?**"
+    },
+    {
+      "type": "hint",
+      "text": "This is the ultimate test of your location design. What about this specific space -- its constraints, its danger, its history, its privacy -- makes this moment possible, inevitable, or more meaningful? If you can't answer this, the location needs more work."
     },
     {
       "type": "writing_box",
@@ -896,7 +1080,7 @@
     },
     {
       "type": "hint",
-      "text": "Don't describe the room. Describe what your character feels, fears, notices, and bumps into while they're in it. Aim for two to three sentences of pure description at most, then weave the rest into action, dialogue, or internal thought. This is where your location design work pays off — you know what the space forces and prevents, so let your character experience that through their body."
+      "text": "Don't describe the room. Describe what your character feels, fears, notices, and bumps into while they're in it. Aim for two to three sentences of pure description at most, then weave the rest into action, dialogue, or internal thought. This is where your location design work pays off. You know what the space forces and prevents, so let your character experience that through their body."
     },
     {
       "type": "writing_box",
@@ -909,7 +1093,7 @@
     },
     {
       "type": "hint",
-      "text": "Not the whole room — just the details that carry emotional weight. The firelight, the silence, the scent of rain. These are your anchors. Everything else can emerge as the characters move through the space."
+      "text": "Not the whole room, just the details that carry emotional weight. The firelight, the silence, the scent of rain. These are your anchors. Everything else can emerge as the characters move through the space."
     },
     {
       "type": "writing_box",
@@ -996,11 +1180,11 @@
     },
     {
       "type": "prose",
-      "text": "What do they notice on return that they missed before?"
+      "text": "**What do they notice on return that they missed before?**"
     },
     {
       "type": "hint",
-      "text": "Returning characters see spaces differently because they've changed. A detail that meant nothing on the first visit — a second chair, a view of the sunrise, the way sound carries — suddenly matters. These shifts tell the reader the relationship has moved without a word of exposition."
+      "text": "Returning characters see spaces differently because they've changed. A detail that meant nothing on the first visit -- a second chair, a view of the sunrise, the way sound carries -- suddenly matters. These shifts tell the reader the relationship has moved without a word of exposition."
     },
     {
       "type": "writing_box",
@@ -1009,11 +1193,11 @@
     },
     {
       "type": "prose",
-      "text": "How does their behaviour in this space change?"
+      "text": "**How does their behaviour in this space change between visits?**"
     },
     {
       "type": "hint",
-      "text": "Physical behaviour in a shared space is one of the clearest ways to show relationship progression without a single word of dialogue. Where they stand, how close they get, what they're comfortable doing — track these shifts and the reader will feel the relationship evolving."
+      "text": "Physical behaviour in a shared space is one of the clearest ways to show relationship progression without a single word of dialogue. Where they stand, how close they get, what they're comfortable doing -- track these shifts and the reader will feel the relationship evolving."
     },
     {
       "type": "writing_box",
@@ -1026,7 +1210,7 @@
     },
     {
       "type": "hint",
-      "text": "Physical changes (seasons, damage, decay, growth) tell a story about the world. Perceptual changes — where the space feels different only because the characters have changed — tell a story about the relationship. The most powerful recurring locations use both."
+      "text": "Physical changes (seasons, damage, decay, growth) tell a story about the world. Perceptual changes, where the space feels different only because the characters have changed, tell a story about the relationship. The most powerful recurring locations use both."
     },
     {
       "type": "writing_box",
@@ -1062,8 +1246,8 @@
       "text": "**How does it become theirs?**"
     },
     {
-      "type": "prose",
-      "text": "Through repetition? A significant first moment there? A private ritual they develop?"
+      "type": "hint",
+      "text": "Through repetition? A significant first moment? A private ritual they develop? The best \"their place\" locations aren't claimed by declaration -- they accumulate meaning through what happens there."
     },
     {
       "type": "writing_box",
@@ -1071,12 +1255,16 @@
       "height": "100pt"
     },
     {
-      "type": "heading4",
-      "text": "What would it mean to lose access to this place?"
+      "type": "prose",
+      "text": "**What would it mean to lose access to this place?**"
+    },
+    {
+      "type": "hint",
+      "text": "If losing a location wouldn't hurt, it's not doing enough emotional work. The potential loss of \"their place\" should feel like losing a piece of the relationship itself."
     },
     {
       "type": "writing_box",
-      "label": "What would it mean to lose access to this place?",
+      "label": "Your Answer",
       "height": "80pt"
     },
     {
@@ -1095,8 +1283,8 @@
       "text": "**Is there a location that becomes inaccessible to your characters?**"
     },
     {
-      "type": "prose",
-      "text": "Destroyed, transformed, forbidden, too dangerous, claimed by enemies, sealed by magic?"
+      "type": "hint",
+      "text": "Destroyed, transformed, forbidden, too dangerous, claimed by enemies, sealed by magic? Lost locations carry enormous emotional weight because they represent possibility that's gone."
     },
     {
       "type": "writing_box",
@@ -1108,8 +1296,8 @@
       "text": "**What did this location mean to them?**"
     },
     {
-      "type": "prose",
-      "text": "What happened there? What did it represent? What possibility did it hold?"
+      "type": "hint",
+      "text": "What happened there? What did it represent? What possibility did it hold? The weight of a lost location comes from what it meant, not just what it was."
     },
     {
       "type": "writing_box",
@@ -1118,11 +1306,24 @@
     },
     {
       "type": "prose",
-      "text": "**How does losing access to this place affect them?**"
+      "text": "**How does losing this place affect them?**"
+    },
+    {
+      "type": "hint",
+      "text": "Grief, loss of sanctuary, loss of possibility, motivation for action? The loss of a meaningful place can drive a character forward or hold them back."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "prose",
-      "text": "Grief? Loss of sanctuary? Loss of possibility? Motivation for action?"
+      "text": "**What do they wish they'd done there -- but now can't?**"
+    },
+    {
+      "type": "hint",
+      "text": "A conversation never had, a moment never taken, a chance lost. Regret tied to a specific place is one of the most powerful emotional anchors in a story."
     },
     {
       "type": "writing_box",
@@ -1131,24 +1332,15 @@
     },
     {
       "type": "prose",
-      "text": "**Is there something they wish they'd done there — but now can't?**"
+      "text": "**Does the lost location exist only in memory by the end?**"
     },
     {
-      "type": "prose",
-      "text": "A conversation never had, a moment never taken, a chance lost:"
+      "type": "hint",
+      "text": "A place that lives on only in memory becomes a different kind of location -- one that can never change, only be reinterpreted. This can be a source of comfort or pain."
     },
     {
       "type": "writing_box",
       "label": "Your Answer",
-      "height": "100pt"
-    },
-    {
-      "type": "heading4",
-      "text": "Does the lost location exist only in memory by the end?"
-    },
-    {
-      "type": "writing_box",
-      "label": "Does the lost location exist only in memory by the end?",
       "height": "80pt"
     },
     {
@@ -1164,11 +1356,37 @@
     },
     {
       "type": "prose",
+      "text": "**What does the landscape look like between your key locations?**"
+    },
+    {
+      "type": "hint",
+      "text": "Readers need to feel the world between destinations -- not just the destinations themselves. Dense forest, open plains, crowded streets, underground tunnels? The terrain between locations shapes travel time, danger, and how exposed or hidden characters are on the journey."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**How do your locations physically connect to each other -- roads, paths, waterways, portals?**"
+    },
+    {
+      "type": "hint",
+      "text": "The route between locations matters as much as the locations themselves. A single narrow road means characters can be tracked or ambushed. A secret tunnel means they can meet unseen. A river means they share a boat. The connection shapes the story."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
       "text": "**Pick one transition between two of your key locations. What happens emotionally during the journey?**"
     },
     {
       "type": "hint",
-      "text": "The space between locations is where characters are between roles — the rules of one space have ended but the rules of the next haven't started yet. This liminal zone is where hands almost touch, where silence says everything, where masks start slipping. Don't skip it."
+      "text": "The space between locations is where characters are between roles. The rules of one space have ended but the rules of the next haven't started yet. This liminal zone is where hands almost touch, where silence says everything, where masks start slipping. Don't skip it."
     },
     {
       "type": "writing_box",
@@ -1181,7 +1399,7 @@
     },
     {
       "type": "prose",
-      "text": "**Do your locations offer different types of pressure and intimacy?**"
+      "text": "**Do your key locations feel different from each other?**"
     },
     {
       "type": "prose",
@@ -1200,11 +1418,24 @@
     },
     {
       "type": "heading4",
-      "text": "If several locations feel similar, how could you change one for more contrast?"
+      "text": "If several of your locations feel similar, what could you change about one to create more contrast?"
     },
     {
       "type": "writing_box",
-      "label": "If several locations feel similar, how could you change one for more contrast?",
+      "label": "If several of your locations feel similar, what could you change about one to create more contrast?",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What one detail makes each key location instantly recognisable?**"
+    },
+    {
+      "type": "hint",
+      "text": "Every location needs a signature -- something a reader could identify in a single sentence. The constant wind, the smell of sulfur, the way sound echoes. If you can't name it, the location may not be distinct enough yet."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
       "height": "100pt"
     },
     {
@@ -1213,15 +1444,11 @@
     },
     {
       "type": "prose",
-      "text": "**How do characters move between locations?**"
+      "text": "**How do your characters travel between key locations -- and do they travel together or apart?**"
     },
     {
       "type": "hint",
-      "text": "Whether they travel together or apart changes the emotional charge of arriving. A shared journey builds anticipation. Arriving separately creates the electric moment of seeing each other in a new context."
-    },
-    {
-      "type": "prose",
-      "text": "Travel together or separately? Is the journey itself significant?"
+      "text": "A shared journey builds anticipation. Arriving separately creates the electric moment of seeing each other in a new context. Think about the mode of travel too: horseback, carriage, on foot, by portal. Each shapes the journey differently."
     },
     {
       "type": "writing_box",
@@ -1230,15 +1457,11 @@
     },
     {
       "type": "prose",
-      "text": "**Does the transition between locations matter?**"
+      "text": "**What happens between your characters during the journey from one key location to the next?**"
     },
     {
       "type": "hint",
-      "text": "Transitions aren't dead space — they're the moments where the rules of one space have ended and the rules of the next haven't started yet. Characters are between roles, and that's when the most honest moments slip through."
-    },
-    {
-      "type": "prose",
-      "text": "The walk from the ballroom to the garden, the journey from the city to the wilderness, the climb from the base of the tower to the top:"
+      "text": "Transitions aren't dead space. They're the moments where the rules of one space have ended and the rules of the next haven't started yet. Characters are between roles, and that's when the most honest moments slip through."
     },
     {
       "type": "writing_box",
@@ -1254,8 +1477,8 @@
       "text": "**How do your locations progress through the story?**"
     },
     {
-      "type": "prose",
-      "text": "Do they move from public to private? Safe to dangerous? Familiar to unknown? Constraint to freedom?"
+      "type": "hint",
+      "text": "Do they move from public to private? Safe to dangerous? Familiar to unknown? Constraint to freedom? The arc of locations should mirror the arc of the relationship."
     },
     {
       "type": "writing_box",
@@ -1408,60 +1631,84 @@
     },
     {
       "type": "hint",
-      "text": "Locations that are grounded in your existing world feel real — and real places create more powerful romantic moments than invented-on-the-spot ones. These connections also ensure your locations don't contradict what you've already established."
+      "text": "Locations that are grounded in your existing world feel real, and real places create more powerful romantic moments than invented-on-the-spot ones. These connections also ensure your locations don't contradict what you've already established."
     },
     {
-      "type": "heading4",
-      "text": "How do your key locations connect to your geography (Section 1)?"
+      "type": "prose",
+      "text": "**How do terrain, climate, and natural features shape your key locations (Section 1)?**"
+    },
+    {
+      "type": "hint",
+      "text": "Think about how the physical geography constrains or enables what happens in each space -- a mountain pass is narrow and exposed, a coastal cave floods at high tide."
     },
     {
       "type": "writing_box",
-      "label": "How do your key locations connect to your geography (Section 1)?",
+      "label": "Your Answer",
       "height": "80pt"
     },
     {
-      "type": "heading4",
-      "text": "Do any locations have significant flora/fauna (Section 2)?"
+      "type": "prose",
+      "text": "**What plants, creatures, or natural elements appear at your locations (Section 2)?**"
+    },
+    {
+      "type": "hint",
+      "text": "Flora and fauna create atmosphere, danger, and sensory detail. Bioluminescent moss provides eerie light. Predators limit when characters can travel. Medicinal herbs give a reason to visit."
     },
     {
       "type": "writing_box",
-      "label": "Do any locations have significant flora/fauna (Section 2)?",
+      "label": "Your Answer",
       "height": "80pt"
     },
     {
-      "type": "heading4",
-      "text": "What cultural significance do locations carry (Section 3)?"
+      "type": "prose",
+      "text": "**What cultural meaning do any of your locations carry (Section 3)?**"
+    },
+    {
+      "type": "hint",
+      "text": "Sacred sites, forbidden zones, traditional gathering places -- cultural significance adds weight to any scene set there, especially if characters are breaking taboos."
     },
     {
       "type": "writing_box",
-      "label": "What cultural significance do locations carry (Section 3)?",
+      "label": "Your Answer",
       "height": "80pt"
     },
     {
-      "type": "heading4",
-      "text": "What historical weight do locations hold (Section 7)?"
+      "type": "prose",
+      "text": "**What historical events happened at or near your locations (Section 7)?**"
+    },
+    {
+      "type": "hint",
+      "text": "Battlefields, ruins, sites of tragedy or triumph. Historical weight gives a location gravity that pure description can't."
     },
     {
       "type": "writing_box",
-      "label": "What historical weight do locations hold (Section 7)?",
+      "label": "Your Answer",
       "height": "80pt"
     },
     {
-      "type": "heading4",
-      "text": "How does technology affect these spaces (Section 9)?"
+      "type": "prose",
+      "text": "**How do your world's technology and infrastructure shape these spaces (Section 9)?**"
+    },
+    {
+      "type": "hint",
+      "text": "Lighting, heating, construction, and tools shape what's possible. No magical lighting means firelight only -- which means closeness, shadows, and intimacy."
     },
     {
       "type": "writing_box",
-      "label": "How does technology affect these spaces (Section 9)?",
+      "label": "Your Answer",
       "height": "80pt"
     },
     {
-      "type": "heading4",
-      "text": "Do any locations exist within institutions (Section 14)?"
+      "type": "prose",
+      "text": "**Do any of your locations sit within institutional spaces (Section 14)?**"
+    },
+    {
+      "type": "hint",
+      "text": "Academies, courts, military camps, temples. Institutional locations carry built-in rules and consequences -- a stolen moment in the academy risks expulsion, not just embarrassment."
     },
     {
       "type": "writing_box",
-      "label": "Do any locations exist within institutions (Section 14)?",
+      "label": "Your Answer",
       "height": "80pt"
     },
     {
@@ -1473,10 +1720,23 @@
     },
     {
       "type": "prose",
-      "text": "**Name your recurring location (the place that becomes 'theirs'), any location that becomes lost or inaccessible, and the location where the romantic climax happens.**"
+      "text": "**List your three most important locations: the place that becomes \"theirs,\" any location that is lost or becomes inaccessible, and the location where the romantic climax happens.**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"

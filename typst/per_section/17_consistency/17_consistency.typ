@@ -18,19 +18,40 @@ This is the "vibes vs. logic" problem: choosing what feels romantic over what wo
 This section will help you test your worldbuilding's internal logic and identify any inconsistencies before they undermine your story. You've already developed all of your systems through every previous section. You now get to determine if the entire machine actually holds together.
 
 
-== The Promise Principle
+#block(breakable: false)[
 
+== The Promise Principle
 
 Every single decision about worldbuilding is a promise to your readers. "Magic costs something." "Disobedience will get punished in this society." "Travel between these cities takes three weeks." "The bond cannot be broken." The promises you make set up the expectations, and the expectations you create represent the tension your romance depends on.
 
-
 The Promise Principle is straightforward: your world's rules have as much strength as your willingness to follow through on them. If you state that using forbidden magic attracts hunters, but your protagonist uses forbidden magic without hunters showing up, you aren't just breaking a rule. You're telling your readers that your rules are just for show. And if your rules are just for show, so are the obstacles. When your obstacles are just for show, the romance has nothing at stake.
-
 
 When Rhysand explains to Feyre in #emph[A Court of Mist and Fury] the limits of winnowing (it drains energy, it leaves a trail, it gets worse when you carry someone else), he establishes an idea from the very beginning that holds true throughout the entire story. So when Feyre winnows because she's forced to, the price is real. She's tired, weak, and that weakness allows for a moment of real intimacy and trust because Rhysand has to catch her, steady her, keep her awake. If there were no costs associated with winnowing, this would simply be a way for Feyre to get somewhere quickly. But because there are, it became a moment of trust.
 
-
 Romantasy authors who know how to create romance understand that it's the constraint that creates romance. The rule that states they can't be together is the same rule that gives their being together value. Your task isn't to remove the obstacle for your characters, it's to make the obstacle so real that their ability to overcome it is believable.
+
+#strong[What is the single most important promise your world makes to the reader?]
+
+#hint[Hint: The rule your entire romance depends on. "Magic costs blood." "The bond cannot be broken." "Crossing the border means death."]
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+]
+
+
+#block(breakable: false)[
+
+==== Have you kept that promise every time it mattered?
+
+#writing-box(
+  label: "Have you kept that promise every time it mattered?",
+  height: 120pt,
+)
+
+]
 
 
 == Common Mistakes
@@ -94,16 +115,7 @@ Check if you've done any of these:
 === Fixing Vibes-Over-Logic Problems
 
 
-#writing-box(
-  label: "Issue",
-  height: 120pt,
-)
-
-
-#writing-box(
-  label: "Which fix",
-  height: 120pt,
-)
+#hint[For each item you checked above, describe the specific scene and how you'll fix it. Use the three options from "Fixing Consistency Problems" later in this section: add an in-world explanation, let the consequence happen, or change the rule from the start.]
 
 
 #writing-box(
@@ -113,7 +125,49 @@ Check if you've done any of these:
 
 
 #writing-box(
-  label: "Which fix",
+  label: "Scene/Chapter",
+  height: 120pt,
+)
+
+
+#writing-box(
+  label: "Your fix",
+  height: 120pt,
+)
+
+
+#writing-box(
+  label: "Issue",
+  height: 120pt,
+)
+
+
+#writing-box(
+  label: "Scene/Chapter",
+  height: 120pt,
+)
+
+
+#writing-box(
+  label: "Your fix",
+  height: 120pt,
+)
+
+
+#writing-box(
+  label: "Issue",
+  height: 120pt,
+)
+
+
+#writing-box(
+  label: "Scene/Chapter",
+  height: 120pt,
+)
+
+
+#writing-box(
+  label: "Your fix",
   height: 120pt,
   fill-page: true,
 )
@@ -401,7 +455,7 @@ Pick a key romantic scene, one where the characters are together in a way that y
 )
 
 
-#hint[If you answered "no" to any of those, you don't necessarily have to change the scene. But you do need to address why the rule doesn't apply here. And "because I needed this scene to happen" is not a valid answer.]
+#hint[If you answered "no" to any of those, you don't necessarily have to change the scene. But you do need to address why the rule doesn't apply here. And "because I needed this scene to happen" isn't a valid answer.]
 
 
 === The Reversal Test
@@ -502,7 +556,7 @@ If you're protecting them, then provide a valid reason as to why, established be
 
 #strong[Do abilities remain consistent in power level throughout your story?]
 
-#hint[A character who defeats ten soldiers in chapter five but struggles against two in chapter fifteen needs an in-world explanation for the shift. If power levels fluctuate without reason, readers lose trust in every obstacle — including the ones keeping your leads apart.]
+#hint[A character who defeats ten soldiers in chapter five but struggles against two in chapter fifteen needs an in-world explanation for the shift. If power levels fluctuate without reason, readers lose trust in every obstacle, including the ones keeping your leads apart.]
 
 #writing-box(
   label: "Your Answer",
@@ -515,7 +569,7 @@ If you're protecting them, then provide a valid reason as to why, established be
 #strong[Does anyone conveniently forget an ability that would solve the current problem?]
 
 
-#hint[This is especially damaging in romantic tension scenes. If a telepath could just read the love interest's mind and resolve the misunderstanding, readers will wonder why they don't. You need a reason the ability doesn't work here — emotional interference, magical shielding, or the cost being too high to risk.]
+#hint[This is especially damaging in romantic tension scenes. If a telepath could just read the love interest's mind and resolve the misunderstanding, readers will wonder why they don't. You need a reason the ability doesn't work here: emotional interference, magical shielding, or the cost being too high to risk.]
 
 
 #writing-box(
@@ -543,7 +597,7 @@ If you're protecting them, then provide a valid reason as to why, established be
 #strong[Have you changed these times for plot convenience?]
 
 
-#hint[If a three-week journey suddenly takes three days because your leads need to reunite, readers will notice. Physical distance is one of romantasy's most effective tools for building longing — but only if it's consistent.]
+#hint[If a three-week journey suddenly takes three days because your leads need to reunite, readers will notice. Physical distance is one of romantasy's most effective tools for building longing, but only if it's consistent.]
 
 
 #writing-box(
@@ -570,13 +624,13 @@ If you're protecting them, then provide a valid reason as to why, established be
 #strong[Where do authority figures and surveillance systems appear in your story, and are they consistent?]
 
 
-#hint[Guards, wards, spies, magical monitoring, parental oversight — whatever enforces the rules in your world. Track where they're present, where they're absent, and whether the absence has a reason. If authority disappears precisely when your characters need privacy, readers will notice. Selective enforcement is one of the fastest ways to make a forbidden romance feel unforbidden.]
+#hint[Guards, wards, spies, magical monitoring, parental oversight: whatever enforces the rules in your world. Track where they're present, where they're absent, and whether the absence has a reason. If authority disappears precisely when your characters need privacy, readers will notice. Selective enforcement is one of the fastest ways to make a forbidden romance feel unforbidden.]
 
 
 #open-table(
   headers: ("Authority/Surveillance System", "Scenes Where It's Present", "Scenes Where It's Absent", "Is There an In-World Reason for the Absence?"),
   example-rows: (
-    ([Court guards on the east wing (The Cruel Prince)], [Jude's daily commute, the duel scenes], [Jude and Cardan's confrontation in Ch. 12], [Yes — the guards were called to the Bomb's distraction]),
+    ([Court guards on the east wing (The Cruel Prince)], [Jude's daily commute, the duel scenes], [Jude and Cardan's confrontation in Ch. 12], [Yes, the guards were called to the Bomb's distraction]),
   ),
   rows: (
     ([1.], [], [], [Yes / No]),
@@ -737,8 +791,12 @@ The story you're telling needs to run two clocks: one for the fantasy plot, one 
 #strong[What is your fantasy plot deadline and your romantic plot deadline? Do they converge? If not, what point could fuse them -- where would the romantic choice and the fantasy choice become the same choice?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
+  fill-page: true,
 )
 
 
@@ -814,6 +872,30 @@ Mishandled information is probably the fastest way to break consistency. Charact
 
 
 #hint[Information asymmetry is romantic fuel. Secrets, hidden identities, concealed feelings, knowledge that would change everything if shared. But it only works if the reason for keeping quiet is solid.]
+
+
+#block(breakable: false)[
+
+==== What is the one secret that, if shared right now, would change everything between your characters?
+
+#writing-box(
+  label: "What is the one secret that, if shared right now, would change everything between your characters?",
+  height: 120pt,
+)
+
+]
+
+
+#strong[Why hasn't the character holding that secret shared it yet?]
+
+
+#hint[Hint: The reason needs to be rooted in your world or their character -- fear, cultural taboo, magical constraint, protecting someone. "The plot needs them not to know" isn't enough.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
 
 
 === The Reveal Check
@@ -973,7 +1055,7 @@ The Court of Nightmares scene in #emph[A Court of Mist and Fury] shows this beau
 #hint[You don't need all four. One or two, used consistently, is enough. The key is that the technique shows up more than once before the reveal, so readers can look back and see the pattern.]
 
 
-#strong[The Recontextualisation Test]
+#strong[The "Read It Again" Test]
 
 
 When your narrator's understanding shifts (they learn the truth about a character, a system, or a history), earlier scenes should gain new meaning without losing their original logic.
@@ -981,10 +1063,10 @@ When your narrator's understanding shifts (they learn the truth about a characte
 
 #block(breakable: false)[
 
-==== Your major reveal or shift in understanding:
+==== What is the biggest truth your narrator discovers?
 
 #writing-box(
-  label: "Your major reveal or shift in understanding:",
+  label: "What is the biggest truth your narrator discovers?",
   height: 120pt,
 )
 
@@ -1101,7 +1183,7 @@ Once in a while you need to break a rule. But being willing to do that has to ha
 #strong[Have you intentionally broken a rule?]
 
 
-#hint[The best rule-breaks in romantasy serve the love story. The impossible becomes possible because of the bond, the sacrifice, or the choice to love. That's earned. The impossible becoming possible because you needed a happy ending is not.]
+#hint[The best rule-breaks in romantasy serve the love story. The impossible becomes possible because of the bond, the sacrifice, or the choice to love. That's earned. The impossible becoming possible because you needed a happy ending isn't.]
 
 
 #open-table(
@@ -1134,6 +1216,18 @@ Readers forgive inconsistencies that serve emotion #emph[if you've earned their 
 )
 
 ]
+
+
+#strong[What is one consequence you've been avoiding writing? What would happen to the story if you let it land?]
+
+
+#hint[Hint: Often the consequence you're avoiding is the scene your story most needs.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
 
 
 #strong[Categorise your known inconsistencies:]
@@ -1297,7 +1391,7 @@ Using this technique, a limitation you establish through worldbuilding becomes a
 #strong[Do any of your characters operate under a speech or honesty constraint?]
 
 
-#hint[Fae who cannot lie, bond-linked characters who sense deception, oath-bound warriors, prophets who can only speak truth. If any character in your story has a speech constraint, every line of their dialogue needs to pass the literalism test.]
+#hint[Fae who can't lie, bond-linked characters who sense deception, oath-bound warriors, prophets who can only speak truth. If any character in your story has a speech constraint, every line of their dialogue needs to pass the literalism test.]
 
 
 #writing-box(
@@ -1309,7 +1403,7 @@ Using this technique, a limitation you establish through worldbuilding becomes a
 #strong[Have they said anything in your draft that technically breaks that constraint?]
 
 
-#hint[Read their dialogue line by line. If you find a statement that is factually false, it needs to be rephrased. Pay special attention to romantic scenes, where characters under truth constraints might say "I don't care about you" or "You mean nothing to me" when the opposite is true.]
+#hint[Read their dialogue line by line. If you find a statement that's factually false, it needs to be rephrased. Pay special attention to romantic scenes, where characters under truth constraints might say "I don't care about you" or "You mean nothing to me" when the opposite is true.]
 
 
 #writing-box(
@@ -1524,7 +1618,7 @@ Not every inconsistency needs the same tool. Here's a quick reference for matchi
 
 === Create a Series Bible
 
-#hint[If you're writing a series, you need a living document that tracks every promise you've made to your readers. The longer the series, the more critical this becomes. Readers who've followed your world across multiple books will remember details you've forgotten — especially details about the romance.]
+#hint[If you're writing a series, you need a living document that tracks every promise you've made to your readers. The longer the series, the more critical this becomes. Readers who've followed your world across multiple books will remember details you've forgotten, especially details about the romance.]
 
 Document and maintain:
 
@@ -1555,7 +1649,7 @@ Document and maintain:
 #strong[Political structures and current power holders:]
 
 
-#hint[Track who holds power at the end of each book. Power shifts are often tied to romantic stakes — a new ruler might change everything about whether the relationship is forbidden or permitted.]
+#hint[Track who holds power at the end of each book. Power shifts are often tied to romantic stakes; a new ruler might change everything about whether the relationship is forbidden or permitted.]
 
 
 #writing-box(
@@ -1600,10 +1694,22 @@ Document and maintain:
 ]
 
 
-#strong[Will you need a series bible?]
+#strong[What is the one detail readers would notice first if you contradicted it in a sequel?]
 
 
-#hint[If you're writing more than one book in this world, the answer is almost certainly yes. Even if you think you'll remember everything, you won't. Start it now, while this workbook's answers are fresh.]
+#hint[Hint: Usually it's a magic rule, a bond mechanic, or a character's established power level.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
+#strong[Are you writing more than one book in this world? If yes, start your series bible now.]
+
+
+#hint[You won't remember everything. Start while this workbook's answers are fresh. Even a simple document with rules, dates, and character details will save you from contradicting yourself three books later.]
 
 
 #writing-box(

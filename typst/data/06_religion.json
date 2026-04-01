@@ -9,6 +9,17 @@
     },
     {
       "type": "heading2",
+      "text": "How to Use This Section"
+    },
+    {
+      "type": "prose",
+      "text": "Questions marked **⬥ Core** are the essentials. Answer these first to establish a working religion for your story. Everything else is a **Deep Dive** that adds richness and complexity. If you're short on time, the Core questions alone will give you enough to write convincingly. Come back to the Deep Dives when you need more detail or when a specific area (prophecy, interfaith love, religious guilt) becomes important to your plot."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
       "text": "The Altar Principle"
     },
     {
@@ -25,7 +36,7 @@
     },
     {
       "type": "prose",
-      "text": "This is why it is so great, and also so simple to screw up."
+      "text": "This is why it's so great, and also so simple to screw up."
     },
     {
       "type": "prose",
@@ -37,11 +48,15 @@
     },
     {
       "type": "prose",
-      "text": "**What is your character's altar — the thing they're forced to lay down?**"
+      "text": "Before you can answer the altar question, you need to know what religion exists in your world. Start with the basics:"
     },
     {
       "type": "prose",
-      "text": "*The altar is the sacrifice your religion demands. In* Serpent & Dove, *Lou is literally the sacrifice the Church demands. In* Priory, *Ead must lay down her sisterhood and sacred purpose. What does your character have to give up — and is love the offering (what they place on the altar willingly) or the sacrifice (what the altar takes from them)?*"
+      "text": "**⬥ Core: What role does religion play in your world?**"
+    },
+    {
+      "type": "hint",
+      "text": "Is it the dominant force in society, a fading tradition, one voice among many, or something else entirely? How present is it in the daily lives of ordinary people?"
     },
     {
       "type": "writing_box",
@@ -49,103 +64,17 @@
       "height": "100pt"
     },
     {
-      "type": "divider"
-    },
-    {
-      "type": "heading2",
-      "text": "How to Think About Religion in Romantasy"
-    },
-    {
       "type": "prose",
-      "text": "Religion creates romantic tension through three channels, and each one operates at a different level:"
+      "text": "**⬥ Core: In one or two sentences, what do most people in your world believe about the divine?**"
     },
     {
-      "type": "heading3",
-      "text": "The Three Channels of Religious Tension"
+      "type": "hint",
+      "text": "Don't overthink this; just get the broad shape down. You'll refine it in the exercises that follow."
     },
     {
-      "type": "data_table",
-      "headers": [
-        "Channel",
-        "How It Works",
-        "What It Creates"
-      ],
-      "rows": [
-        [
-          "**Divine Law**",
-          "Religious doctrine that prohibits or requires: forbidden marriages, required unions, celibacy vows, purity requirements",
-          "Consequences that aren't just social but spiritual, including damnation, loss of divine favour, cosmic transgression"
-        ],
-        [
-          "**Sacred Duty**",
-          "Religious obligations that compete with love: vows that bind, chosen one status, priestly duties, divine purpose",
-          "The agonising choice between what the gods demand and what the heart wants"
-        ],
-        [
-          "**Faith Itself**",
-          "The internal spiritual dimension: genuine belief that makes violation feel like sin, the crisis when love conflicts with doctrine",
-          "The most profound conflict: not \"should I break this rule?\" but \"is everything I believed a lie?\""
-        ]
-      ]
-    },
-    {
-      "type": "heading3",
-      "text": "Religious Situations That Create Romance Tension"
-    },
-    {
-      "type": "data_table",
-      "headers": [
-        "Pattern",
-        "How It Works",
-        "What It Creates"
-      ],
-      "rows": [
-        [
-          "The forbidden union",
-          "Religious law prohibits their marriage",
-          "Sin, damnation stakes, crisis of faith"
-        ],
-        [
-          "The vow of celibacy",
-          "One has sworn to the gods not to love",
-          "Temptation, breaking vows, questioning calling"
-        ],
-        [
-          "The interfaith lovers",
-          "Different religions that oppose each other",
-          "Conversion pressure, family opposition, whose god wins"
-        ],
-        [
-          "The chosen one",
-          "Divine destiny that love interferes with",
-          "Duty vs. desire, sacrifice, questioning prophecy"
-        ],
-        [
-          "The priest and the profane",
-          "Holy figure loves someone \"beneath\" their calling",
-          "Scandal, fall from grace, redefining holiness"
-        ],
-        [
-          "The prophesied union",
-          "Fated to be together by divine decree",
-          "Is it real love or just destiny? Agency questions"
-        ],
-        [
-          "The divine punishment",
-          "Their love angers the gods",
-          "Curses, divine intervention, appeasing deity"
-        ],
-        [
-          "The sacred veil",
-          "One character hides a forbidden faith or magical nature from the other",
-          "Near-miss tension, the charged revelation moment, intimacy through shared sacrilege"
-        ],
-        [
-          "The heretic beloved",
-          "The love interest IS what the religion condemns, not rule-breaking but ontological taboo",
-          "Epistemic crisis, moral identity collapse, forced reclassification of \"evil\""
-        ]
-      ]
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "divider"
@@ -161,6 +90,30 @@
     {
       "type": "prose",
       "text": "If religion is background in your world, keep it simple. Not every romantasy needs theological complexity. If your world has no gods or organised religion, adapt or skip. And if you're drawing on real religions, be thoughtful about what you're borrowing and whether your portrayal is respectful."
+    },
+    {
+      "type": "heading3",
+      "text": "Quick Guide to What You Need"
+    },
+    {
+      "type": "prose",
+      "text": "**Every story needs:** What people believe, how religion shapes daily life, and what religious rules affect your characters."
+    },
+    {
+      "type": "prose",
+      "text": "**If your romance is forbidden by faith:** Focus on Religious Law, The Heretic Love Interest, and Sin & Religious Guilt."
+    },
+    {
+      "type": "prose",
+      "text": "**If prophecy or fate drives your plot:** Focus on Mythology, Prophecy & Destiny."
+    },
+    {
+      "type": "prose",
+      "text": "**If your characters have different faiths:** Focus on Religious Difference & Interfaith Love."
+    },
+    {
+      "type": "prose",
+      "text": "**If you're not sure yet:** Start with the Brain Dump and The Divine. You can always come back."
     },
     {
       "type": "divider"
@@ -184,7 +137,7 @@
     {
       "type": "mistake_box",
       "title": "Mistake #3: The Painless Faith Departure",
-      "body": "A character raised in deep faith abandons it easily once love appears. Their entire belief system dissolves without grief or struggle. They walk away from their religion as if shrugging off a coat. Faith isn't just rules. It's identity, community, and worldview. Losing it should hurt. If it doesn't, the faith was never real, which means the obstacle was never real. **Check your story against these three mistakes.** *If you've already started building your religion, run it through this quick diagnostic. If you haven't, come back to this after you've completed the exercises below.* | Mistake | Could This Apply to Your Story? | How You'd Fix It | |---------|-------------------------------|-----------------| | *The Convenient Religion — religious rules exist but are bypassed without real cost* | *Yes — I have a \"friendly priest\" figure who helps them get around the marriage ban, and I haven't thought about what that costs the priest* | *Give the priest real consequences for helping: excommunication, loss of community, personal guilt* | | The Convenient Religion — religious rules exist but are bypassed without real cost | | | | The Strawman Faith — the religion is obviously corrupt and no reasonable person would believe it | | | | The Painless Faith Departure — a character abandons deep faith without grief or struggle | | |",
+      "body": "A character raised in deep faith abandons it easily once love appears. Their entire belief system dissolves without grief or struggle. They walk away from their religion as if shrugging off a coat. Faith isn't just rules. It's identity, community, and worldview. Losing it should hurt. If it doesn't, the faith was never real, which means the obstacle was never real. **Check your story against these three mistakes.** *If you've already started building your religion, run it through this quick diagnostic. If you haven't, come back to this after you've completed the exercises below.* | Mistake | Could This Apply to Your Story? | How You'd Fix It | |---------|-------------------------------|-----------------| | *The Convenient Religion, religious rules exist but are bypassed without real cost* | *Yes, I have a \"friendly priest\" figure who helps them get around the marriage ban, and I haven't thought about what that costs the priest* | *Give the priest real consequences for helping: excommunication, loss of community, personal guilt* | | The Convenient Religion, religious rules exist but are bypassed without real cost | | | | The Strawman Faith, the religion is obviously corrupt and no reasonable person would believe it | | | | The Painless Faith Departure, a character abandons deep faith without grief or struggle | | |",
       "fix": "Show the cost of losing faith. The prayers that no longer comfort. The community that turns away. The hollow feeling where certainty used to be. In *Serpent & Dove*, Reid doesn't simply stop believing. His entire sense of self shatters when he discovers that the Archbishop uses scripture as a tool for punishment rather than salvation, and that he himself is the son of a witch. His crisis is a gradual, agonising process of discovery, not a clean break. Make the choice hard enough that choosing love anyway means something."
     },
     {
@@ -195,12 +148,16 @@
       "text": "The Divine: Gods & Powers"
     },
     {
-      "type": "prose",
-      "text": "The first thing you have to decide is if there are higher powers in your world and if they are true."
+      "type": "hint",
+      "text": "With those common pitfalls in mind, let's start building. The foundation of any religious system is what people believe about the divine itself."
     },
     {
       "type": "prose",
-      "text": "The implications for your romance will be huge. If gods are confirmed and active, then \"faith\" isn't really faith anymore - it's recognition of fact. Characters will not be able to question whether miracles occur when miracles occur all the time. If gods are undetermined or absent, then characters may struggle with whether they believe at all, or if they just obey. And as far as the love story goes, this determines if defying the laws of the divine will result in the anger of a real being who may seek retaliation, or if breaking from tradition has no supernatural enforcement."
+      "text": "The first thing you have to decide is whether there are higher powers in your world and whether they're true."
+    },
+    {
+      "type": "prose",
+      "text": "The implications for your romance will be huge. If gods are confirmed and active, then \"faith\" isn't really faith anymore - it's recognition of fact. Characters won't be able to question whether miracles occur when miracles occur all the time. If gods are undetermined or absent, then characters may struggle with whether they believe at all, or if they just obey. And as far as the love story goes, this determines if defying the laws of the divine will result in the anger of a real being who may seek retaliation, or if breaking from tradition has no supernatural enforcement."
     },
     {
       "type": "prose",
@@ -262,11 +219,37 @@
     },
     {
       "type": "prose",
-      "text": "**Which theological system describes your world, and how does it shape what faith means for your characters?**"
+      "text": "**⬥ Core: What kind of gods (if any) does your world have, and how do people relate to them?**"
+    },
+    {
+      "type": "hint",
+      "text": "You can combine types (e.g., polytheism with confirmed gods, or animism with absent gods). Your choice shapes what religious doubt, devotion, and defiance look like in your story."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "prose",
-      "text": "You can combine types (e.g., polytheism with confirmed gods, or animism with absent gods). Your choice shapes what religious doubt, devotion, and defiance look like in your story."
+      "text": "**What do ordinary people in your world believe, and how does that differ from what priests or scholars officially teach?**"
+    },
+    {
+      "type": "hint",
+      "text": "In most worlds, the average person's faith is simpler, stranger, or more superstitious than formal doctrine. A farmer might pray to a river spirit the temple doesn't recognise. A soldier might carry a charm the priests call heresy. These gaps between folk belief and official religion create texture, and romantic tension when characters from different levels of belief fall in love."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**⬥ Core: What happens to people in your world who don't believe, or who follow a different faith?**"
+    },
+    {
+      "type": "hint",
+      "text": "Are nonbelievers tolerated, pitied, shunned, or punished? Is there a difference between quiet doubt and open defiance? The answer shapes how dangerous it is for a character to question their faith, or to love someone who does."
     },
     {
       "type": "writing_box",
@@ -283,7 +266,7 @@
     },
     {
       "type": "prose",
-      "text": "**What's the divine reality of your world?**"
+      "text": "**⬥ Core: What's the divine reality of your world?**"
     },
     {
       "type": "prose",
@@ -406,7 +389,20 @@
       "text": "**Describe your world's primary deity: What is their name? What do they govern? What is their personality/nature? What do they demand from followers? What do they offer in return?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading4",
@@ -417,7 +413,20 @@
       "text": "**If your world has an opposing force or antagonist deity: What is their name? What do they govern? What is their nature? What do they demand? What do they offer?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading4",
@@ -425,24 +434,50 @@
     },
     {
       "type": "prose",
-      "text": "**Is there a deity specifically relevant to your romance — a god of love, forbidden things, or liminal spaces? Describe their name, domain, personality, demands, and offerings.**"
+      "text": "**Is there a deity specifically relevant to your romance, a god of love, forbidden things, or liminal spaces? Describe their name, domain, personality, demands, and offerings.**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
       "text": "**Describe any additional deity important to your story: Name, domain, personality, demands, and offerings.**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
       "text": "**How do the gods relate to each other?**"
     },
     {
-      "type": "prose",
+      "type": "hint",
       "text": "Divine politics often mirrors mortal politics. Are they a harmonious pantheon? Competing rivals? Locked in cosmic war? Indifferent to each other? Gods in conflict can take different sides of your romance."
     },
     {
@@ -458,12 +493,16 @@
       "text": "Magic & Religion"
     },
     {
+      "type": "hint",
+      "text": "Now that you know what gods exist in your world, the next question is how their power manifests, and whether magic is a gift from the divine or a threat to it."
+    },
+    {
       "type": "prose",
       "text": "Romantasy typically combines elements of magic and faith into a single system. Magic can be thought of as a gift provided by the gods, but equally, magic can represent heresy which a church will try to eliminate. Wherever the two meet, the world becomes a realm in which the consequences of moral choice are always tangible in their magical impact, and where falling in love can result in loss of magical power, protection, or your place in the divine order."
     },
     {
       "type": "prose",
-      "text": "The reason why this applies to romance specifically is that it changes how rebellion functions from a societal concept to a supernatural one. If losing divine favour means losing magical function, then a character who chooses a forbidden lover does not merely risk being ostracised. They risk losing their magical abilities at the same time they need them the most."
+      "text": "The reason why this applies to romance specifically is that it changes how rebellion functions from a societal concept to a supernatural one. If losing divine favour means losing magical function, then a character who chooses a forbidden lover doesn't merely risk being ostracised. They risk losing their magical abilities at the same time they need them the most."
     },
     {
       "type": "prose",
@@ -471,7 +510,7 @@
     },
     {
       "type": "prose",
-      "text": "In *Priory of the Orange Tree*, Ead's siden magic, drawn from the fruit of a sacred orange tree, is branded heresy in the West. She is forced to operate secretly, pretending to be a maid so no one will discover the \"heresy\" of her magic is what is keeping the Queen alive. The bodyguard-crush dynamic is elevated due to Ead's magic being the very source that could potentially destroy the relationship should it be discovered."
+      "text": "In *Priory of the Orange Tree*, Ead's siden magic, drawn from the fruit of a sacred orange tree, is branded heresy in the West. She's forced to operate secretly, pretending to be a maid so no one will discover the \"heresy\" of her magic is what's keeping the Queen alive. The bodyguard-crush dynamic is elevated due to Ead's magic being the very source that could potentially destroy the relationship should it be discovered."
     },
     {
       "type": "prose",
@@ -538,7 +577,24 @@
       "text": "**How does religion relate to magic in your world? How does religion explain magic? Is your character's magic divine, heretical, or something else? What happens to their magic if they defy religious law? How does magic raise the romantic stakes?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "hint",
+      "text": "Cross-check: Is your account of how religion relates to magic consistent with your magic system (Section 8)? If magic is a divine gift here but a learned skill in your magic section, reconcile them. If the religion condemns magic, make sure your magic system reflects the social consequences of that condemnation."
     },
     {
       "type": "divider"
@@ -548,8 +604,12 @@
       "text": "Religious Institutions & Authority"
     },
     {
+      "type": "hint",
+      "text": "You've defined what the gods are and how magic relates to them. Now consider who speaks for those gods on earth, because it's institutions, not deities, that your characters will actually have to face."
+    },
+    {
       "type": "prose",
-      "text": "Gods may exist, however, it is institutions that make religion have power. The temple, the church, the priesthood: these are human structures, with human politics, human corruption, and the potential to do either great good or harm. In terms of your romance, institutions are where divine law gets enforced, where vows are administered, where forbidden unions are discovered and punished."
+      "text": "Gods may exist, however, it's institutions that make religion have power. The temple, the church, the priesthood: these are human structures, with human politics, human corruption, and the potential to do either great good or harm. In terms of your romance, institutions are where divine law gets enforced, where vows are administered, where forbidden unions are discovered and punished."
     },
     {
       "type": "prose",
@@ -560,7 +620,7 @@
       "text": "**What religious institutions exist?**"
     },
     {
-      "type": "prose",
+      "type": "hint",
       "text": "Focus on institutions that could affect your romance: those that might forbid, bless, or complicate your characters' relationship."
     },
     {
@@ -568,11 +628,37 @@
       "text": "**What are the key religious institutions in your world? For each, describe their function, the power they hold, and how they interact with other power structures.**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
     },
     {
       "type": "prose",
-      "text": "**Who leads religious institutions?**"
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "**⬥ Core: Where do people go to worship, and what do those places look like?**"
+    },
+    {
+      "type": "hint",
+      "text": "Grand cathedrals? Forest shrines? Home altars? Underground temples? The physical spaces of worship tell you a lot about a religion's values, and they create settings where sacred rules press down on characters. Think about who's allowed inside, what the space smells and sounds like, and what behaviour is expected there."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**⬥ Core: Who are the religious leaders, and how did they gain their authority?**"
     },
     {
       "type": "prose",
@@ -637,7 +723,7 @@
     {
       "type": "checklist",
       "items": [
-        "United (theocracy — religious and political authority are one)",
+        "United (theocracy, religious and political authority are one)",
         "Allied (separate institutions that support each other)",
         "Competing (both claim authority; power struggles between them)",
         "Separate (religion has no political power; dissent is a personal matter)",
@@ -695,15 +781,100 @@
       "text": "**If a character holds a religious position: What is it? What vows or obligations bind them? What would they lose by leaving?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
     },
     {
       "type": "prose",
-      "text": "**Does religious authority oppose or support the relationship?**"
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
-      "text": "Who specifically? What will they do about it? Are there authorities who might secretly help?"
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "**What will religious leaders actually do about the relationship?**"
+    },
+    {
+      "type": "hint",
+      "text": "Name specific people. Will someone try to stop it? Punish them? Look the other way? Secretly help? The more concrete you are, the more real the obstacle feels."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "hint",
+      "text": "Cross-check: Does your religious authority complement or conflict with your government (Section 5)? If your religion holds legal or military power, make sure that aligns with, or intentionally contradicts, the political structure you've built. Theocracies, alliances, and church-state rivalries should be consistent across both sections."
+    },
+    {
+      "type": "heading3",
+      "text": "Schisms & Reformation"
+    },
+    {
+      "type": "prose",
+      "text": "Religions rarely stay unified forever. Splits over doctrine, practice, or leadership create factions that characters can belong to, flee from, or exploit. A reformed branch might accept what the orthodox branch condemns, giving your characters an alternative that comes with its own costs."
+    },
+    {
+      "type": "prose",
+      "text": "**Has the religion ever split, and if so, over what?**"
+    },
+    {
+      "type": "hint",
+      "text": "A doctrinal disagreement? A disputed succession? A revelation that some accepted and others rejected? The cause of the split shapes what each faction cares about most, and which side your characters fall on."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Are there competing interpretations of doctrine that your characters could appeal to?**"
+    },
+    {
+      "type": "hint",
+      "text": "A stricter reading that condemns them, and a more lenient one that might offer shelter? Competing interpretations give characters options, but choosing the \"wrong\" faction carries its own risks."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading3",
+      "text": "Religious Education"
+    },
+    {
+      "type": "prose",
+      "text": "How faith is transmitted to the next generation determines how deeply it takes root, and how hard it is to question later."
+    },
+    {
+      "type": "prose",
+      "text": "**How do people in your world learn their faith?**"
+    },
+    {
+      "type": "hint",
+      "text": "Formal temple schools? Oral tradition passed from parent to child? Apprenticeship with a priest or elder? Sacred texts studied independently? The method of transmission shapes how flexible or rigid belief becomes. A faith learned through storytelling may be more adaptable than one drilled through catechism."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What happens to someone who was never properly educated in the faith, or who was educated in the \"wrong\" version?**"
+    },
+    {
+      "type": "hint",
+      "text": "Are they pitied, distrusted, or seen as a blank slate? This matters for characters who cross religious boundaries: a love interest from outside the faith may be seen as ignorant rather than heretical, which creates different obstacles."
     },
     {
       "type": "writing_box",
@@ -714,8 +885,23 @@
       "type": "divider"
     },
     {
+      "type": "heading3",
+      "text": "✦ Checkpoint: Institutions & Authority"
+    },
+    {
+      "type": "hint",
+      "text": "Pause and look at your answers so far. Do your religious institutions have enough power to actually enforce the rules that create obstacles for your characters? Does the relationship between religious and political authority make sense with what you established about your gods? If something doesn't fit, adjust before moving on."
+    },
+    {
+      "type": "divider"
+    },
+    {
       "type": "heading2",
       "text": "Religious Law, Doctrine & Forbidden Love"
+    },
+    {
+      "type": "hint",
+      "text": "You've established who the gods are and how the institution operates. Now it's time to get specific about the rules, the actual laws and doctrines that stand between your characters and their love."
     },
     {
       "type": "prose",
@@ -727,11 +913,37 @@
     },
     {
       "type": "prose",
-      "text": "**What does your religion teach about love and marriage?**"
+      "text": "**⬥ Core: What does your religion teach about love and marriage?**"
     },
     {
       "type": "prose",
       "text": "Sacred gift? Duty? Path to the divine? Distraction from spiritual purpose? How a religion frames love determines whether your characters' feelings are blessed or blasphemous."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Beyond love and marriage, what does religious law govern in everyday life?**"
+    },
+    {
+      "type": "hint",
+      "text": "Dietary restrictions, dress codes, economic rules (usury, fair trade, tithes), behavioural codes (hospitality obligations, truth-telling, treatment of strangers), rules about work and rest days. These laws shape the texture of daily life and reveal what the religion truly values. They also create small, constant friction points between characters who follow different rules."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What are the penalties for breaking non-romantic religious laws, and who enforces them?**"
+    },
+    {
+      "type": "hint",
+      "text": "Is eating forbidden food a minor social embarrassment or a serious offence? Does breaking a Sabbath-like rest day bring divine punishment or just community disapproval? The severity of enforcement for everyday rules tells your reader how much more dangerous breaking the big rules, like forbidden love, will be."
     },
     {
       "type": "writing_box",
@@ -773,7 +985,7 @@
     },
     {
       "type": "prose",
-      "text": "**What are the consequences for violating religious law?**"
+      "text": "**⬥ Core: What are the consequences for violating religious law?**"
     },
     {
       "type": "prose",
@@ -785,12 +997,16 @@
       "height": "100pt"
     },
     {
-      "type": "prose",
-      "text": "**Does either character prioritise religious law over their own desires?**"
+      "type": "hint",
+      "text": "Cross-check: Do your religious restrictions align with your cultural taboos (Section 3)? Religious law and cultural norms often reinforce each other, but where they diverge (a culture that tolerates what the religion forbids, or vice versa) you get interesting friction. Make sure the overlap or tension is intentional."
     },
     {
       "type": "prose",
-      "text": "Which one, and why? What would it take for them to choose love over religious duty? This character creates the most interesting tension: the one who genuinely believes the law is right even as they fall in love."
+      "text": "**Which character believes the religious law is right, even as they fall in love?**"
+    },
+    {
+      "type": "hint",
+      "text": "This character creates the most interesting tension. What would it take for them to choose love over religious duty, and what do they tell themselves while they resist?"
     },
     {
       "type": "writing_box",
@@ -803,6 +1019,10 @@
     {
       "type": "heading2",
       "text": "The Heretic Love Interest"
+    },
+    {
+      "type": "hint",
+      "text": "Religious law tells your characters what they can't do. But what happens when the problem isn't the action, it's the person they love?"
     },
     {
       "type": "prose",
@@ -909,29 +1129,29 @@
       ],
       "example_rows": [
         [
-          "Doctrinal certainty — what do they believe at the start?",
+          "Doctrinal certainty: what do they believe at the start?",
           "Reid believes all witches are monsters. His identity as a Chasseur depends on it.",
           "His oath-taking ceremony; his first kill"
         ]
       ],
       "rows": [
         [
-          "Doctrinal certainty — what do they believe at the start?",
+          "Doctrinal certainty: what do they believe at the start?",
           "",
           ""
         ],
         [
-          "Embodied contradiction — when does attraction first conflict with doctrine?",
+          "Embodied contradiction: when does attraction first conflict with doctrine?",
           "",
           ""
         ],
         [
-          "Epistemic crisis — what revelation shatters their certainty?",
+          "Epistemic crisis: what revelation shatters their certainty?",
           "",
           ""
         ],
         [
-          "Reclassification — how do they rebuild their moral categories?",
+          "Reclassification: how do they rebuild their moral categories?",
           "",
           ""
         ]
@@ -944,7 +1164,7 @@
     },
     {
       "type": "prose",
-      "text": "Your heretical love interest story can follow either of these paths. Which path you are writing will define the direction your story takes."
+      "text": "Your heretical love interest story can follow either of these paths. Which path you're writing will define the direction your story takes."
     },
     {
       "type": "prose",
@@ -963,7 +1183,20 @@
       "text": "**If the love interest is condemned by their nature (not just their actions): What does the protagonist's faith say they are? What does experience reveal them to be? Does the story redeem the beloved or redefine the faith? What is the moment the protagonist's certainty fractures? What replaces the old moral categories?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -971,6 +1204,10 @@
     {
       "type": "heading2",
       "text": "Personal Faith & Hidden Devotion"
+    },
+    {
+      "type": "hint",
+      "text": "You've built the external structures: institutions, laws, forbidden categories. Now turn inward. What do your characters actually believe, and what are they hiding?"
     },
     {
       "type": "prose",
@@ -1036,6 +1273,19 @@
       ]
     },
     {
+      "type": "prose",
+      "text": "**How does the hidden character conceal their true nature?**"
+    },
+    {
+      "type": "hint",
+      "text": "Pick the mechanism from the table above that best fits your story. Think about what makes concealment hardest during moments of intimacy. The closer they get, the harder it should be to keep the secret."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
       "type": "heading4",
       "text": "The Revelation Moment"
     },
@@ -1079,78 +1329,46 @@
     },
     {
       "type": "prose",
-      "text": "**What does your protagonist actually believe?**"
-    },
-    {
-      "type": "prose",
-      "text": "Not what they're supposed to believe. What do they genuinely feel about the divine? Deep faith? Doubt? Going through motions? Complicated relationship with their gods?"
-    },
-    {
-      "type": "writing_box",
-      "label": "Your Answer",
-      "height": "145pt"
-    },
-    {
-      "type": "prose",
-      "text": "**What does your love interest actually believe?**"
-    },
-    {
-      "type": "prose",
-      "text": "Deep faith? Doubt? Going through motions? Complicated relationship with their gods? Their genuine beliefs may align with or differ from your protagonist's, creating harmony or another layer of conflict."
-    },
-    {
-      "type": "writing_box",
-      "label": "Your Answer",
-      "height": "145pt"
-    },
-    {
-      "type": "prose",
-      "text": "**How does each character's personal faith differ from official doctrine?**"
-    },
-    {
-      "type": "prose",
-      "text": "The gap between personal belief and institutional religion creates room for characters to redefine faith rather than abandon it."
-    },
-    {
-      "type": "prose",
-      "text": "**For each character, where do they agree with their faith's doctrine and where do they disagree?**"
-    },
-    {
-      "type": "answer_box"
-    },
-    {
-      "type": "prose",
-      "text": "**Does either character follow religious practice without genuine belief?**"
-    },
-    {
-      "type": "prose",
-      "text": "Why? Social expectation? Family pressure? Fear? Habit? Hoping belief will come?"
-    },
-    {
-      "type": "writing_box",
-      "label": "Your Answer",
-      "height": "100pt"
-    },
-    {
-      "type": "prose",
-      "text": "**Does either character have genuine faith but reject religious authority?**"
-    },
-    {
-      "type": "prose",
-      "text": "Do they believe in the gods but distrust priests? Follow their own interpretation? This creates the possibility of redefining faith rather than abandoning it."
-    },
-    {
-      "type": "writing_box",
-      "label": "Your Answer",
-      "height": "100pt"
-    },
-    {
-      "type": "prose",
-      "text": "**How does personal faith affect how they approach religious obstacles?**"
+      "text": "**What does each character actually believe, what do they doubt, and what would breaking a religious rule cost them?**"
     },
     {
       "type": "hint",
-      "text": "A character with deep, genuine faith faces an existential crisis when they defy religious law — they're not just breaking rules, they're betraying who they are. A character who follows religion out of habit or social pressure faces a different kind of loss: community and identity rather than spiritual anguish. Knowing which type of believer your character is shapes the entire emotional texture of their struggle."
+      "text": "Not what they're supposed to believe. What do they genuinely feel about the divine? Consider the full spectrum: deep faith, going through the motions for social reasons, trusting the gods but despising the priests, private doubt they'd never voice aloud, or outright rejection they keep hidden. The gap between official doctrine and personal belief is where the most interesting romantic tension lives, and it determines what defiance actually costs. A true believer faces an existential crisis: they're betraying who they are. A cultural believer risks community and identity rather than spiritual anguish. A character who believes in the gods but not the institution might feel justified, but still fear divine consequences."
+    },
+    {
+      "type": "structured_table",
+      "headers": [
+        "Character",
+        "What They Genuinely Believe",
+        "What They Publicly Perform",
+        "Where Belief and Performance Diverge",
+        "What Breaking a Rule Would Cost Them"
+      ],
+      "rows": [
+        [
+          "Protagonist",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Love interest",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What parts of their faith would each character fight to keep, even if they left the religion?**"
+    },
+    {
+      "type": "hint",
+      "text": "Most believers don't accept every teaching wholesale, and most who leave don't reject everything. One character might abandon the institution but still pray in private. Another might keep the moral framework but stop believing in the gods. These remnants reveal what faith actually means to them, and what the romance can never fully replace."
     },
     {
       "type": "writing_box",
@@ -1170,7 +1388,20 @@
       "text": "**If a character hides their faith or identity: What are they concealing? How do they conceal it? What would discovery cost? Is the love interest an agent of the persecuting institution? How is the truth revealed? Which revelation type plays out? How does it change the relationship?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -1182,7 +1413,7 @@
     },
     {
       "type": "prose",
-      "text": "**What religious practices are part of daily life?**"
+      "text": "**⬥ Core: What religious practices are part of daily life?**"
     },
     {
       "type": "prose",
@@ -1227,10 +1458,49 @@
     },
     {
       "type": "prose",
-      "text": "**What religious objects or symbols do people wear or keep?**"
+      "text": "**⬥ Core: What things are taboo or forbidden in everyday life because of religion?**"
+    },
+    {
+      "type": "hint",
+      "text": "Foods they won't eat, words they won't say, places they won't go, things they won't touch. Taboos make faith visible in small moments, and create tension when a character breaks one for the first time."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "prose",
+      "text": "**What folk practices do ordinary people follow that the official religion doesn't endorse?**"
+    },
+    {
+      "type": "hint",
+      "text": "Lucky charms the priests call superstition, prayers to old gods the temple pretends don't exist, harvest rituals that predate the current faith, fortune-telling methods the clergy condemn. The gap between folk religion and organised religion is where characters find flexibility, and where forbidden lovers might find a tradition that blesses what the temple forbids."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Does either character follow folk practices that the other finds strange, heretical, or charming?**"
+    },
+    {
+      "type": "hint",
+      "text": "Small religious differences in daily life (the \"wrong\" prayer before a meal, an unfamiliar protective gesture, an offering the other character's faith would consider pagan) create moments of friction and intimacy that make interfaith tension feel lived-in rather than abstract."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What religious objects or symbols do people wear or keep?**"
+    },
+    {
+      "type": "hint",
       "text": "Amulets? Sacred texts? Prayer beads? Holy symbols? These details make faith tangible, and they create charged moments when a character removes them, hides them, or clutches them during temptation."
     },
     {
@@ -1307,16 +1577,31 @@
       "type": "divider"
     },
     {
+      "type": "heading3",
+      "text": "✦ Checkpoint: Personal Faith & Practice"
+    },
+    {
+      "type": "hint",
+      "text": "Pause and look at your answers so far. Does each character's personal belief match the daily practices you gave them? Are the things they'd lose by breaking religious rules consistent with how deeply faith is woven into their lives? If something doesn't fit, adjust before moving on."
+    },
+    {
+      "type": "divider"
+    },
+    {
       "type": "heading2",
       "text": "Crisis of Faith"
     },
     {
-      "type": "prose",
-      "text": "A person's faith can break when their beliefs clash with their feelings. That is one of the greatest internal struggles you can have in your writing. It goes beyond \"should I break this rule?\" It goes down to \"is everything I believed a lie?\""
+      "type": "hint",
+      "text": "You've defined what your characters believe and how they practise it. Now comes the moment that belief is tested, when love and faith collide and something has to give."
     },
     {
       "type": "prose",
-      "text": "A crisis of faith is an unsettling feeling. To a person who truly believes, faith has always been the framework that gives purpose to their life and explains why certain events occur, the meaning of existence, and who they are. Once that framework crumbles, so does every other part of the structure."
+      "text": "A person's faith can break when their beliefs clash with their feelings. That's one of the greatest internal struggles you can have in your writing. It goes beyond \"should I break this rule?\" It goes down to \"is everything I believed a lie?\""
+    },
+    {
+      "type": "prose",
+      "text": "A crisis of faith is an unsettling thing. To a person who truly believes, faith has always been the framework that gives purpose to their life and explains why certain events occur, the meaning of existence, and who they are. Once that framework crumbles, so does every other part of the structure."
     },
     {
       "type": "prose",
@@ -1328,7 +1613,7 @@
     },
     {
       "type": "prose",
-      "text": "Poppy's crisis of faith in *From Blood and Ash* is a complete destruction. She learns that the gods she has been raised to worship do not exist and the \"Ascended\" are predators that feed on the people they say they protect. Her crisis of faith ultimately ends with her proving the entire system is a house of cards, however, she loses everything she had believed about herself in the process."
+      "text": "Poppy's crisis of faith in *From Blood and Ash* is a complete destruction. She learns that the gods she's been raised to worship don't exist and the \"Ascended\" are predators that feed on the people they say they protect. Her crisis of faith ultimately ends with her proving the entire system is a house of cards, however, she loses everything she had believed about herself in the process."
     },
     {
       "type": "prose",
@@ -1336,11 +1621,11 @@
     },
     {
       "type": "prose",
-      "text": "**Does the relationship cause either character to question their faith?**"
+      "text": "**What part of their faith does the relationship make them question?**"
     },
     {
-      "type": "prose",
-      "text": "What specifically do they question? The existence of gods? The rightness of doctrine? The authority of religious leaders? The goodness of a god who forbids love?"
+      "type": "hint",
+      "text": "Are they doubting the gods themselves, the rightness of doctrine, the authority of religious leaders, or the goodness of a god who forbids love? Be specific. A crisis of faith needs a specific crack to start from."
     },
     {
       "type": "writing_box",
@@ -1362,24 +1647,11 @@
     },
     {
       "type": "prose",
-      "text": "**Do they try to reconcile their faith with their feelings?**"
+      "text": "**How do they try to make their faith and their feelings fit together?**"
     },
     {
-      "type": "prose",
-      "text": "How? Reinterpreting doctrine? Finding loopholes? Believing the gods would understand? Distinguishing between divine will and institutional corruption?"
-    },
-    {
-      "type": "writing_box",
-      "label": "Your Answer",
-      "height": "100pt"
-    },
-    {
-      "type": "prose",
-      "text": "**Is there a moment when faith breaks, or is renewed?**"
-    },
-    {
-      "type": "prose",
-      "text": "The crisis point when they must choose, or when they find a new understanding:"
+      "type": "hint",
+      "text": "Reinterpreting doctrine? Finding loopholes? Telling themselves the gods would understand? Deciding the institution is corrupt but the gods aren't?"
     },
     {
       "type": "writing_box",
@@ -1388,11 +1660,58 @@
     },
     {
       "type": "prose",
-      "text": "**Can they find a version of faith that includes their love?**"
+      "text": "**What's the moment their faith finally breaks, or transforms into something new?**"
+    },
+    {
+      "type": "hint",
+      "text": "This is the turning point: the scene where they have to choose, or where they find an understanding of their faith that didn't exist before."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "prose",
-      "text": "Is there a way to believe that doesn't require giving up the relationship? This is the \"redefining faith\" resolution, harder than leaving, sometimes more satisfying."
+      "text": "**What would a version of their faith that includes their love look like?**"
+    },
+    {
+      "type": "hint",
+      "text": "Is there a way to believe that doesn't require giving up the relationship? Redefining faith is harder than leaving it, but often more satisfying as a resolution."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading3",
+      "text": "How Religion Responds to Crisis"
+    },
+    {
+      "type": "prose",
+      "text": "Faith is never tested more severely than during collective catastrophe: war, plague, famine, natural disaster. Some people pray harder; others stop praying entirely. Institutions may tighten their grip or lose credibility. The way a religion responds to crisis reveals whether it serves people or controls them, and that distinction matters enormously for your romance."
+    },
+    {
+      "type": "prose",
+      "text": "**What happens to faith in your world during war, plague, or disaster?**"
+    },
+    {
+      "type": "hint",
+      "text": "Do people turn to the temples for comfort, or blame the gods for abandoning them? Does the religious institution step up to help, or exploit the crisis to consolidate power? A religion that feeds the hungry during famine earns genuine loyalty. One that demands tithes while people starve earns resentment, and characters willing to rebel."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**How does collective crisis change the stakes for your characters' forbidden relationship?**"
+    },
+    {
+      "type": "hint",
+      "text": "During disaster, rules may loosen because no one is watching, or tighten because the institution blames the crisis on moral failures like forbidden love. A plague might be declared divine punishment for heresy, making your characters' relationship suddenly dangerous in a new way. Alternatively, shared suffering might make religious divisions feel petty, creating an opening."
     },
     {
       "type": "writing_box",
@@ -1405,6 +1724,10 @@
     {
       "type": "heading2",
       "text": "How Religious Obstacles Resolve"
+    },
+    {
+      "type": "hint",
+      "text": "You've broken your character's faith open. Now the question is what grows in the crack, and whether the resolution feels earned or convenient."
     },
     {
       "type": "prose",
@@ -1479,10 +1802,23 @@
     },
     {
       "type": "prose",
-      "text": "**How does the religious conflict resolve? Which resolution pattern do you use? What does the character lose or sacrifice? Do they reject the institution, the faith, or both? What replaces the old belief system? Does it feel earned — and why?**"
+      "text": "**How does the religious conflict resolve? Which resolution pattern do you use? What does the character lose or sacrifice? Do they reject the institution, the faith, or both? What replaces the old belief system? Does it feel earned, and why?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1497,7 +1833,20 @@
       "text": "**Test whether your resolution is earned: What does your character permanently lose? Could the obstacle have been removed without sacrifice? Does the resolution change who they are, or just what they're allowed to do?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -1507,12 +1856,16 @@
       "text": "Sin, Virtue & Religious Guilt"
     },
     {
+      "type": "hint",
+      "text": "A crisis of faith reshapes what your character believes. But guilt reshapes how they feel about themselves, and that's harder to resolve."
+    },
+    {
       "type": "prose",
       "text": "Religious shame operates differently than social shame. It's not just about what others think. It's about what you believe you fundamentally are."
     },
     {
       "type": "prose",
-      "text": "When we say \"I did something forbidden,\" there is action involved and so, in theory, there is the possibility for redemptive action. When we say \"I am something wrong,\" we are talking about our very identity, and no amount of repentance can change your nature. In *Serpent & Dove*, Reid's guilt isn't just \"I broke a rule.\" It's \"I loved a witch. What does that make me?\" Once Reid discovers he is the son of a witch, the line between the sinner and the sin is completely erased."
+      "text": "When we say \"I did something forbidden,\" there's action involved and so, in theory, there's the possibility for redemptive action. When we say \"I am something wrong,\" we're talking about our very identity, and no amount of repentance can change your nature. In *Serpent & Dove*, Reid's guilt isn't just \"I broke a rule.\" It's \"I loved a witch. What does that make me?\" Once Reid discovers he's the son of a witch, the line between the sinner and the sin is completely erased."
     },
     {
       "type": "prose",
@@ -1557,15 +1910,28 @@
       "text": "**Does either character feel sinful for their desire? Which character, why do they feel that way, and how (if ever) do they reconcile faith and desire?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
     },
     {
       "type": "prose",
-      "text": "**Does religious shame affect how they behave in the relationship?**"
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
-      "text": "Withdrawal? Self-punishment? Trying to resist feelings? Guilt after intimacy?"
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "**How does religious guilt show up in their behaviour?**"
+    },
+    {
+      "type": "hint",
+      "text": "Do they withdraw after moments of closeness? Punish themselves? Try to resist feelings? Feel shame after intimacy? These patterns make the internal conflict visible on the page."
     },
     {
       "type": "writing_box",
@@ -1574,11 +1940,11 @@
     },
     {
       "type": "prose",
-      "text": "**What would it take to release religious shame?**"
+      "text": "**What would finally free them from religious shame?**"
     },
     {
-      "type": "prose",
-      "text": "Reinterpretation? Leaving the faith? Divine reassurance? Accepting love isn't sin? Building a new moral framework?"
+      "type": "hint",
+      "text": "Reinterpreting what their faith actually says? Leaving the faith entirely? A sign from the gods? Accepting that love isn't sin? Building a new moral framework from scratch?"
     },
     {
       "type": "writing_box",
@@ -1591,6 +1957,10 @@
     {
       "type": "heading2",
       "text": "Sacred Time & Calendar"
+    },
+    {
+      "type": "hint",
+      "text": "So far you've focused on what your religion teaches and forbids. The next three sections (time, space, and ritual) are about how faith is experienced: when, where, and through what ceremonies."
     },
     {
       "type": "prose",
@@ -1609,15 +1979,28 @@
       "text": "**Describe a key holy day or sacred time in your world: When is it? What does it celebrate? How is it observed? What is forbidden during this time? What romantic opportunity does it create?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
     },
     {
       "type": "prose",
-      "text": "**How do these timing restrictions affect your characters?**"
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "**What happens if your characters violate sacred time to be together?**"
     },
     {
       "type": "hint",
-      "text": "Must they wait for a specific time? Are they separated during a religious season? Do they violate sacred time to be together, and what does that cost?"
+      "text": "Must they wait for a specific time? Are they separated during a religious season? If they break the rules of a holy day or sacred period, what does it cost them, socially, spiritually, or magically?"
     },
     {
       "type": "writing_box",
@@ -1626,11 +2009,11 @@
     },
     {
       "type": "prose",
-      "text": "**How do people mark sacred vs. ordinary time or space?**"
+      "text": "**What changes when someone enters a holy place or a sacred time begins?**"
     },
     {
-      "type": "prose",
-      "text": "Thresholds between sacred and ordinary create charged moments. What changes when your characters cross into holy ground or holy time?"
+      "type": "hint",
+      "text": "Think about sensory details: different clothing, silence, specific gestures, things that are suddenly forbidden. These thresholds create charged moments when your characters cross them together."
     },
     {
       "type": "writing_box",
@@ -1662,10 +2045,23 @@
     },
     {
       "type": "prose",
-      "text": "**What sacred spaces exist in your world — temples, shrines, natural sacred sites, pilgrimage destinations, forbidden holy places? Describe them and who is allowed to enter.**"
+      "text": "**What sacred spaces exist in your world: temples, shrines, natural sacred sites, pilgrimage destinations, forbidden holy places? Describe them and who's allowed to enter.**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1673,7 +2069,7 @@
     },
     {
       "type": "hint",
-      "text": "What makes a space sacred determines what it means when your characters enter — or defile — that space. A temple consecrated by divine presence carries different weight than a grove made holy by history."
+      "text": "What makes a space sacred determines what it means when your characters enter, or defile, that space. A temple consecrated by divine presence carries different weight than a grove made holy by history."
     },
     {
       "type": "writing_box",
@@ -1682,11 +2078,11 @@
     },
     {
       "type": "prose",
-      "text": "**Does a sacred site play a role in your romance?**"
+      "text": "**What happens between your characters at a sacred site?**"
     },
     {
-      "type": "prose",
-      "text": "Do they meet there? Seek blessing? Take sanctuary? Perform a forbidden ritual?"
+      "type": "hint",
+      "text": "Do they meet there? Seek blessing? Take sanctuary? Perform a forbidden ritual? Sacred spaces intensify whatever happens inside them; intimacy feels more transgressive, confessions feel more binding."
     },
     {
       "type": "writing_box",
@@ -1695,11 +2091,11 @@
     },
     {
       "type": "prose",
-      "text": "**Are there places where certain relationships are blessed, or cursed?**"
+      "text": "**Where are vows made binding, and where are certain unions forbidden?**"
     },
     {
-      "type": "prose",
-      "text": "Sacred ground where vows are binding? Temples where certain unions are forbidden?"
+      "type": "hint",
+      "text": "Is there sacred ground where promises can't be broken? Temples where certain people aren't allowed to enter together? Places where a blessing, or a curse, becomes permanent?"
     },
     {
       "type": "writing_box",
@@ -1712,6 +2108,10 @@
     {
       "type": "heading2",
       "text": "Ritual & Ceremony"
+    },
+    {
+      "type": "hint",
+      "text": "You've mapped sacred time and sacred space. Now bring them together. Ritual is where time, place, and obligation converge into scenes that change everything."
     },
     {
       "type": "prose",
@@ -1782,15 +2182,28 @@
       "text": "**Describe a key ritual in your story: Which ritual is it? What is it supposed to accomplish? What actually happens? Is it completed or broken? How does it change the relationship?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
     },
     {
       "type": "prose",
-      "text": "**Does a character undergo a transformation through ritual?**"
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
-      "text": "Initiations, ascensions, species changes: these are identity thresholds. What does the character become, and what do they lose?"
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "**What does your character become after the ritual, and what do they lose?**"
+    },
+    {
+      "type": "hint",
+      "text": "Initiations, ascensions, and species changes are identity thresholds. The person who walks in isn't the person who walks out. Think about what's gained and what's permanently left behind."
     },
     {
       "type": "writing_box",
@@ -1799,11 +2212,11 @@
     },
     {
       "type": "prose",
-      "text": "**Is there a ceremony where private feelings become public?**"
+      "text": "**What happens when the mask slips during a public ceremony?**"
     },
     {
-      "type": "prose",
-      "text": "The most charged ritual scenes are those where an audience is watching. What happens when the mask slips in front of the congregation?"
+      "type": "hint",
+      "text": "The most charged ritual scenes happen when an audience is watching. What does the congregation see if your character's true feelings, or true nature, become visible at the worst possible moment?"
     },
     {
       "type": "writing_box",
@@ -1827,24 +2240,24 @@
       ],
       "example_rows": [
         [
-          "Restraint as fuel — what can't they do or say during the ceremony?",
+          "Restraint as fuel: what can't they do or say during the ceremony?",
           "At the forced marriage, Lou can't reveal she's a witch. The wedding vows are a lie she has to speak in front of the entire Church.",
-          "The moment their hands touch during the vow — the only permitted contact, and it has to carry everything they can't say"
+          "The moment their hands touch during the vow, the only permitted contact, and it has to carry everything they can't say"
         ]
       ],
       "rows": [
         [
-          "Restraint as fuel — what can't they do or say during the ceremony?",
+          "Restraint as fuel: what can't they do or say during the ceremony?",
           "",
           ""
         ],
         [
-          "Ritual as transition — what does the character become, and what do they lose?",
+          "Ritual as transition: what does the character become, and what do they lose?",
           "",
           ""
         ],
         [
-          "Public stakes — who's watching, and what happens if the mask slips?",
+          "Public stakes: who's watching, and what happens if the mask slips?",
           "",
           ""
         ]
@@ -1872,16 +2285,20 @@
       "text": "Religious Community & Belonging"
     },
     {
+      "type": "hint",
+      "text": "Rituals mark the turning points, but community is the everyday fabric. What your characters stand to lose isn't just a god; it's a whole world of people."
+    },
+    {
       "type": "prose",
       "text": "Religious communities give individuals their sense of belonging, their identity as members of a group, their source of support from others, and a social structure to organise their lives. When someone leaves or is rejected by a religious group, they lose every single one of those things."
     },
     {
       "type": "prose",
-      "text": "What distinguishes religious communities from other types of social networks is how comprehensive many of them are. They are the people you celebrate holidays with, the people who help you when your parent dies, the people where you make your close friends. So when someone leaves or is rejected by this community, they don't just lose the opportunity to participate in social activities - they lose an entire way of life."
+      "text": "What distinguishes religious communities from other types of social networks is how comprehensive many of them are. They're the people you celebrate holidays with, the people who help you when your parent dies, the people where you make your close friends. So when someone leaves or is rejected by this community, they don't just lose the opportunity to participate in social activities; they lose an entire way of life."
     },
     {
       "type": "prose",
-      "text": "So instead of asking \"what does their religion forbid?\" ask \"what would they lose if they left?\" In many cases, it is not simply a matter of losing their faith."
+      "text": "So instead of asking \"what does their religion forbid?\" ask \"what would they lose if they left?\" In many cases, it isn't simply a matter of losing their faith."
     },
     {
       "type": "prose",
@@ -1896,7 +2313,20 @@
       "text": "**What religious community does each character belong to, and what does it provide them (identity, safety, purpose, belonging)?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1919,15 +2349,28 @@
       "text": "**What would each character lose by leaving their religious community?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
     },
     {
       "type": "prose",
-      "text": "**Is their family's acceptance tied to religious conformity?**"
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
-      "text": "Would religious violation mean losing family as well as faith community? This multiplies the stakes enormously."
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "**Would breaking religious rules mean losing their family too?**"
+    },
+    {
+      "type": "hint",
+      "text": "If family acceptance depends on religious conformity, defying faith means losing both community and kin. This multiplies the stakes enormously."
     },
     {
       "type": "writing_box",
@@ -1936,11 +2379,11 @@
     },
     {
       "type": "prose",
-      "text": "**Are there people in their religious community who might support them despite doctrine?**"
+      "text": "**Who in their community might secretly support them?**"
     },
     {
-      "type": "prose",
-      "text": "The secret ally who believes love matters more than rules? The reformer who thinks doctrine should change?"
+      "type": "hint",
+      "text": "Is there someone who believes love matters more than rules? A reformer who thinks doctrine should change? A friend who would risk their own standing to help?"
     },
     {
       "type": "writing_box",
@@ -1953,6 +2396,10 @@
     {
       "type": "heading2",
       "text": "The Afterlife & Sacrifice"
+    },
+    {
+      "type": "hint",
+      "text": "Your characters now have a community they could lose. But what about what comes after this life? Does forbidden love follow them beyond death?"
     },
     {
       "type": "prose",
@@ -1971,14 +2418,27 @@
       "text": "**What does your world's religion teach about the afterlife? What happens to the soul/spirit? Is there judgement, and based on what? What's the good outcome and bad outcome? Can the living affect the dead's fate?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
     },
     {
       "type": "prose",
-      "text": "**Are these beliefs literally true in your world?**"
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "**Is the afterlife real in your world, or just something people believe?**"
+    },
+    {
+      "type": "hint",
       "text": "If the afterlife is confirmed and knowable, dying for love becomes a different calculation. If it's uncertain, faith in reunion after death is poignant hope, not guaranteed promise."
     },
     {
@@ -1988,11 +2448,11 @@
     },
     {
       "type": "prose",
-      "text": "**How do afterlife beliefs affect behaviour?**"
+      "text": "**What do people do, or refuse to do, because of what they believe happens after death?**"
     },
     {
-      "type": "prose",
-      "text": "What do people do (or avoid) because of afterlife consequences?"
+      "type": "hint",
+      "text": "Think about the everyday impact: oaths sworn on the afterlife, fear of damnation keeping people in line, comfort offered to the grieving. These beliefs shape what people are willing to risk."
     },
     {
       "type": "writing_box",
@@ -2027,11 +2487,11 @@
     },
     {
       "type": "prose",
-      "text": "**Does belief in the afterlife make sacrifice easier or harder?**"
+      "text": "**How do afterlife beliefs change what your character is willing to sacrifice?**"
     },
     {
-      "type": "prose",
-      "text": "If they believe in reunion after death, does that make dying for love more tempting? Or does uncertainty make sacrifice more costly?"
+      "type": "hint",
+      "text": "If they believe in reunion after death, dying for love becomes tempting. If death is final, sacrifice costs everything. What does your character believe, and how does that shape what they're willing to risk?"
     },
     {
       "type": "writing_box",
@@ -2040,11 +2500,11 @@
     },
     {
       "type": "prose",
-      "text": "**Does their relationship affect their afterlife fate?**"
+      "text": "**What happens to their soul if they choose each other?**"
     },
     {
-      "type": "prose",
-      "text": "Does loving the \"wrong\" person damn them? Does true love grant salvation?"
+      "type": "hint",
+      "text": "Does loving the \"wrong\" person damn them? Does true love grant salvation? Are they sentenced to separate afterlives? The eternal consequences, real or believed, raise the stakes beyond anything in this life."
     },
     {
       "type": "writing_box",
@@ -2057,6 +2517,10 @@
     {
       "type": "heading2",
       "text": "Mythology, Prophecy & Destiny"
+    },
+    {
+      "type": "hint",
+      "text": "You've built the lived religion: institutions, laws, community, guilt, and the afterlife. Now step back to the stories that came before all of it, the myths that shape how your characters understand love, fate, and what they owe the gods."
     },
     {
       "type": "prose",
@@ -2076,7 +2540,7 @@
     },
     {
       "type": "prose",
-      "text": "**What's the creation story?**"
+      "text": "**⬥ Core: What's the creation story?**"
     },
     {
       "type": "prose",
@@ -2086,6 +2550,19 @@
       "type": "writing_box",
       "label": "Your Answer",
       "height": "145pt"
+    },
+    {
+      "type": "prose",
+      "text": "**How do people in your world explain natural phenomena through myth?**"
+    },
+    {
+      "type": "hint",
+      "text": "Storms, eclipses, seasons, earthquakes, strange creatures: what stories do people tell to make sense of the unexplainable? These myths reveal what your culture fears and values, and they give characters a shared language for interpreting events."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "prose",
@@ -2100,7 +2577,20 @@
       "text": "**What founding myths or sacred stories exist in your world? For the most important one, what is it about, what does it teach, and how does it parallel your romance?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2109,6 +2599,19 @@
     {
       "type": "prose",
       "text": "Divine lovers? Cautionary tales? Blessed unions? These stories create templates. Characters may try to live up to them or fear becoming cautionary tales themselves."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Which myth does your character believe they're living?**"
+    },
+    {
+      "type": "hint",
+      "text": "Characters often see their own lives through the lens of the stories they grew up with. A character raised on the tale of a god punished for loving a mortal might fear becoming that legend. A character who idolises a divine love story might try to replicate it. Which sacred story shapes how they understand their own romance?"
     },
     {
       "type": "writing_box",
@@ -2142,7 +2645,7 @@
     },
     {
       "type": "prose",
-      "text": "**Do prophecies exist in your world?**"
+      "text": "**⬥ Core: Do prophecies exist in your world?**"
     },
     {
       "type": "prose",
@@ -2164,6 +2667,19 @@
     {
       "type": "prose",
       "text": "Divine revelation? Oracle visions? Ancient texts? Prophetic dreams? Astrological calculation?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Who delivers prophecies, and how much do people trust them?**"
+    },
+    {
+      "type": "hint",
+      "text": "An oracle in a grand temple carries different weight than a beggar raving in the street. Think about whether prophecy is respected, feared, or dismissed, and whether different characters react differently to the same prophecy."
     },
     {
       "type": "writing_box",
@@ -2247,7 +2763,20 @@
       "text": "**If there's a prophecy in your story, how does each character react to it?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -2310,11 +2839,11 @@
     },
     {
       "type": "prose",
-      "text": "**At what point do they choose each other despite or because of prophecy?**"
+      "text": "**What is the moment they stop following prophecy and start choosing each other?**"
     },
     {
-      "type": "prose",
-      "text": "The moment where prophecy becomes choice, where destiny is claimed rather than passively received:"
+      "type": "hint",
+      "text": "This is the scene where destiny becomes a decision, where the character claims love as their own choice rather than something fate handed them."
     },
     {
       "type": "writing_box",
@@ -2323,11 +2852,11 @@
     },
     {
       "type": "prose",
-      "text": "**Can prophecy be avoided or changed?**"
+      "text": "**What would it cost to defy the prophecy?**"
     },
     {
-      "type": "prose",
-      "text": "If yes: how? At what cost? If prophecy can be defied, their choice to fulfil it means something."
+      "type": "hint",
+      "text": "If prophecy can be fought, what's the price? If it can't, what does that mean for free will? A prophecy that can be defied makes choosing to fulfil it meaningful."
     },
     {
       "type": "writing_box",
@@ -2355,15 +2884,28 @@
       "text": "**If your story has a 'chosen one': Which character is it? What marks them as chosen? What are they chosen to do?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
     },
     {
       "type": "prose",
-      "text": "**How does divine purpose conflict with personal desire?**"
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
-      "text": "Does love distract from destiny? Does destiny require sacrifice of the relationship?"
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "**What does their divine purpose demand that love gets in the way of?**"
+    },
+    {
+      "type": "hint",
+      "text": "Does the mission require them to be somewhere love can't follow? Does it demand a sacrifice that would destroy the relationship? The more specific the conflict, the harder the choice."
     },
     {
       "type": "writing_box",
@@ -2372,11 +2914,11 @@
     },
     {
       "type": "prose",
-      "text": "**What happens if they refuse their divine purpose?**"
+      "text": "**What happens if they say no to the gods?**"
     },
     {
-      "type": "prose",
-      "text": "What are the stakes of saying no to the gods?"
+      "type": "hint",
+      "text": "Do they lose their power? Does the world suffer? Does someone else have to take their place? The stakes of refusal determine how costly it is to choose love over destiny."
     },
     {
       "type": "writing_box",
@@ -2387,8 +2929,23 @@
       "type": "divider"
     },
     {
+      "type": "heading3",
+      "text": "✦ Checkpoint: Mythology & Prophecy"
+    },
+    {
+      "type": "hint",
+      "text": "Pause and look at your answers so far. Do your sacred stories and prophecies align with the gods and doctrines you established earlier? If a prophecy drives your plot, does it create genuine tension with the romance, or does it resolve too neatly? If something doesn't fit, adjust before moving on."
+    },
+    {
+      "type": "divider"
+    },
+    {
       "type": "heading2",
       "text": "Religious Difference & Interfaith Love"
+    },
+    {
+      "type": "hint",
+      "text": "Everything so far has assumed your characters share a faith. But what happens when they don't, when the person they love prays to different gods entirely?"
     },
     {
       "type": "prose",
@@ -2415,7 +2972,20 @@
       "text": "**What faith does each character follow?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2430,7 +3000,20 @@
       "text": "**What does each character's faith teach about the other character's faith or people?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -2447,11 +3030,11 @@
     },
     {
       "type": "prose",
-      "text": "**Would one need to convert for them to marry?**"
+      "text": "**Would one of them have to change faith to marry the other?**"
     },
     {
-      "type": "prose",
-      "text": "What would conversion mean: practical formality or genuine betrayal of belief?"
+      "type": "hint",
+      "text": "Is conversion a practical formality, saying the right words, going through the motions, or would it mean genuinely betraying everything they believe?"
     },
     {
       "type": "writing_box",
@@ -2460,11 +3043,11 @@
     },
     {
       "type": "prose",
-      "text": "**Can they build a shared spiritual life, or will faith always divide them?**"
+      "text": "**What does a shared life look like when they pray to different gods?**"
     },
     {
-      "type": "prose",
-      "text": "This question shapes the long-term viability of the relationship. Some couples find synthesis; others accept respectful difference."
+      "type": "hint",
+      "text": "Some couples find synthesis; others accept respectful difference. Think about the long term: holidays, children, death rites, daily prayers. Where do they compromise, and where can't they?"
     },
     {
       "type": "writing_box",
@@ -2481,7 +3064,7 @@
     },
     {
       "type": "prose",
-      "text": "The difference lies between a genuine conversion and a hollow one. Genuine conversions involve a real transformation of how the character views themselves. They don't just change what they practice; they change how they see themselves and their purpose in life. In *From Sand and Ash*, Angelo's conversion from a Catholic priest to a man who will do anything to be with Eva is not portrayed as a rejection of his faith, but as the realisation of his true purpose, which is validated through great sacrifice. Hollow conversions are done for the sake of expediency. The character will follow the procedures required to fulfil a legal or social obligation, however, there will be no real change in their perceptions of themselves. If a character \"converts\" to the rituals of a new culture merely to fit in with a partner, without the story showing the inner conflict the character experienced, the conversion will feel empty."
+      "text": "The difference lies between a genuine conversion and a hollow one. Genuine conversions involve a real transformation of how the character views themselves. They don't just change what they practice; they change how they see themselves and their purpose in life. In *From Sand and Ash*, Angelo's conversion from a Catholic priest to a man who will do anything to be with Eva isn't portrayed as a rejection of his faith, but as the realisation of his true purpose, which is validated through great sacrifice. Hollow conversions are done for the sake of expediency. The character will follow the procedures required to fulfil a legal or social obligation, however, there will be no real change in their perceptions of themselves. If a character \"converts\" to the rituals of a new culture merely to fit in with a partner, without the story showing the inner conflict the character experienced, the conversion will feel empty."
     },
     {
       "type": "prose",
@@ -2489,7 +3072,7 @@
     },
     {
       "type": "prose",
-      "text": "And perhaps the greatest subversion is the character who chooses not to convert. Miryem in *Spinning Silver* does not choose to assimilate into the cold world of the Staryk King, even though it would provide her with both wealth and influence. Instead, her decision to not conform to his expectations is what gives her a happy romantic ending. The most authentic conclusion is one where the character's original identity is respected and incorporated, not rejected."
+      "text": "And perhaps the greatest subversion is the character who chooses not to convert. Miryem in *Spinning Silver* doesn't choose to assimilate into the cold world of the Staryk King, even though it would provide her with both wealth and influence. Instead, her decision not to conform to his expectations is what gives her a happy romantic ending. The most authentic conclusion is one where the character's original identity is respected and incorporated, not rejected."
     },
     {
       "type": "prose",
@@ -2504,52 +3087,196 @@
       "text": "**If conversion is part of your story: Who converts and to what? Is it genuine or performed? What do they lose? Does the other partner feel guilt? Is the conversion affirmed or regretted? Does either character refuse to convert, and is that refusal honoured?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
     },
     {
       "type": "heading2",
-      "text": "Integration Check"
+      "text": "Apply the Principle: The Altar and Your Romance"
+    },
+    {
+      "type": "hint",
+      "text": "You've built every layer of your world's religion. Now bring it all back to the question this section opened with: what goes on the altar?"
+    },
+    {
+      "type": "prose",
+      "text": "Now that you've built your world's religion, its gods, institutions, laws, rituals, communities, and myths, return to the Altar Principle from the opening of this section. You now have the foundation to answer these questions with real weight behind them."
+    },
+    {
+      "type": "heading3",
+      "text": "How Religion Creates Romantic Tension"
+    },
+    {
+      "type": "prose",
+      "text": "Religion creates romantic tension through three channels, and each one operates at a different level:"
+    },
+    {
+      "type": "heading4",
+      "text": "The Three Channels of Religious Tension"
     },
     {
       "type": "data_table",
       "headers": [
-        "Question",
-        "Answer",
+        "Channel",
+        "How It Works",
+        "What It Creates"
+      ],
+      "rows": [
+        [
+          "**Divine Law**",
+          "Religious doctrine that prohibits or requires: forbidden marriages, required unions, celibacy vows, purity requirements",
+          "Consequences that aren't just social but spiritual, including damnation, loss of divine favour, cosmic transgression"
+        ],
+        [
+          "**Sacred Duty**",
+          "Religious obligations that compete with love: vows that bind, chosen one status, priestly duties, divine purpose",
+          "The agonising choice between what the gods demand and what the heart wants"
+        ],
+        [
+          "**Faith Itself**",
+          "The internal spiritual dimension: genuine belief that makes violation feel like sin, the crisis when love conflicts with doctrine",
+          "The most profound conflict: not \"should I break this rule?\" but \"is everything I believed a lie?\""
+        ]
+      ]
+    },
+    {
+      "type": "heading4",
+      "text": "Religious Situations That Create Romance Tension"
+    },
+    {
+      "type": "data_table",
+      "headers": [
+        "Pattern",
+        "How It Works",
+        "What It Creates"
+      ],
+      "rows": [
+        [
+          "The forbidden union",
+          "Religious law prohibits their marriage",
+          "Sin, damnation stakes, crisis of faith"
+        ],
+        [
+          "The vow of celibacy",
+          "One has sworn to the gods not to love",
+          "Temptation, breaking vows, questioning calling"
+        ],
+        [
+          "The interfaith lovers",
+          "Different religions that oppose each other",
+          "Conversion pressure, family opposition, whose god wins"
+        ],
+        [
+          "The chosen one",
+          "Divine destiny that love interferes with",
+          "Duty vs. desire, sacrifice, questioning prophecy"
+        ],
+        [
+          "The priest and the profane",
+          "Holy figure loves someone \"beneath\" their calling",
+          "Scandal, fall from grace, redefining holiness"
+        ],
+        [
+          "The prophesied union",
+          "Fated to be together by divine decree",
+          "Is it real love or just destiny? Agency questions"
+        ],
+        [
+          "The divine punishment",
+          "Their love angers the gods",
+          "Curses, divine intervention, appeasing deity"
+        ],
+        [
+          "The sacred veil",
+          "One character hides a forbidden faith or magical nature from the other",
+          "Near-miss tension, the charged revelation moment, intimacy through shared sacrilege"
+        ],
+        [
+          "The heretic beloved",
+          "The love interest IS what the religion condemns, not rule-breaking but ontological taboo",
+          "Epistemic crisis, moral identity collapse, forced reclassification of \"evil\""
+        ]
+      ]
+    },
+    {
+      "type": "prose",
+      "text": "**Which of these patterns fits your romance?**"
+    },
+    {
+      "type": "hint",
+      "text": "Pick one or two from the table above. You don't need to use them all, just the ones that create the most tension for your specific characters. You can combine patterns (e.g., \"the sacred veil\" plus \"the heretic beloved\")."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What's your character's altar, the thing they're forced to lay down?**"
+    },
+    {
+      "type": "prose",
+      "text": "*The altar is the sacrifice your religion demands. In* Serpent & Dove, *Lou is literally the sacrifice the Church demands. In* Priory, *Ead must lay down her sisterhood and sacred purpose. What does your character have to give up, and is love the offering (what they place on the altar willingly) or the sacrifice (what the altar takes from them)?*"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "Integration Check: Religion and Other Systems"
+    },
+    {
+      "type": "hint",
+      "text": "Use this to verify that your religion connects logically to the other systems you've built. For a full summary of your religious worldbuilding, see the Quick Reference sheet below."
+    },
+    {
+      "type": "data_table",
+      "headers": [
+        "System",
+        "How Does Religion Interact With It?",
         "Example (*Priory of the Orange Tree*)"
       ],
       "rows": [
         [
-          "How does religion explain or relate to magic?",
-          "",
+          "Magic",
+          "How does religion explain, control, or condemn magic?",
           "Sacred tree grants magic; dragons are holy, wyrms are evil"
         ],
         [
-          "How does religion legitimise or conflict with government?",
-          "",
+          "Government",
+          "Does religion legitimise, compete with, or undermine political power?",
           "Queen rules by holy bloodline; Priory protects but operates outside the law"
         ],
         [
-          "How do cultural taboos relate to religious law?",
-          "",
-          "Celibacy is a Priory vow; breaking it means losing her place in the order"
+          "Economy",
+          "Does the religion control resources, trade, or labour through doctrine?",
+          "Priory sustains itself independently; the Western church controls tithes and land"
         ],
         [
-          "Could your characters use religion to legitimise their relationship?",
-          "",
-          "She could argue love gave her strength, redefining faith to include it"
-        ],
-        [
-          "Or does religion make legitimising impossible?",
-          "",
-          "The vows are clear: serve the queen, not your heart. No loophole exists"
-        ],
-        [
-          "Does a founding myth need to be dismantled for the romance to succeed?",
-          "",
-          "The myth of Saint Galian must be exposed as a lie before Sabran can be free"
+          "Culture & daily life",
+          "How do religious customs shape what people eat, wear, celebrate, and avoid?",
+          "Celibacy is a Priory vow; the West's gender roles flow from the Galian myth"
         ]
       ]
     },
@@ -2581,7 +3308,7 @@
         [
           "What they'd lose by violating religious law",
           "",
-          "Sisterhood, purpose, identity — everything she trained for"
+          "Sisterhood, purpose, identity, everything she trained for"
         ],
         [
           "The prophecy (if applicable)",
@@ -2639,6 +3366,27 @@
     {
       "type": "prose",
       "text": "Your characters may be religious whether you are or not. Their faith should feel genuine, not just an obstacle you created. Religious worldbuilding at its most effective allows readers to see why a person would give up their faith for someone they love, and why giving up faith would be a true loss for them. Faith gives a person comfort, community, identity, and purpose in life. So when a character risks giving all of those things up for love, it should hurt. Create a religion that is worthy of fighting for, or against, or to redefine entirely."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading2",
+      "text": "What's Next"
+    },
+    {
+      "type": "prose",
+      "text": "You've built the spiritual foundation of your world: gods, institutions, laws, myths, and the personal faith of your characters. Here's where to take it from here:"
+    },
+    {
+      "type": "bullet_list",
+      "items": [
+        "**History & Lore (Section 7).** Your religion has a past. How did it rise, reform, or fracture over time? The historical events you build there should be consistent with the myths and schisms you defined here.",
+        "**Magic System (Section 8).** If magic and religion overlap in your world, Section 8 is where you'll define the mechanics. Make sure what you established about divine gifts, heresy, and magical consequences holds up under a systematic framework.",
+        "**Government, Power & Law (Section 5).** Religious authority and political authority almost always interact. Whether your world is a theocracy or keeps church and state firmly separate, those power dynamics need to be consistent across both sections.",
+        "**Culture, Customs & Daily Life (Section 3).** The daily practices, taboos, and rituals you built here should show up in the texture of everyday life. Section 3 is where you'll flesh out how faith looks when nobody's at the altar.",
+        "**The Pressure Cooker (Section 13).** When you're ready to stress-test your religion against your romance, the Pressure Cooker will force your characters into the hardest choices. Bring your altar question with you!"
+      ]
     }
   ]
 }

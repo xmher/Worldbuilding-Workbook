@@ -220,7 +220,7 @@ ___
 
 Physical limitations are apparent: walls, geography, locks. But emotional obligations can prevent a character from leaving even when they have the technical ability to do so.
 
-This is important to recognise since many of the best pressure cookers in romantasy aren't physically inescapable at all. Feyre could technically leave the Night Court in *A Court of Mist and Fury*. Rhysand explicitly states this to her. Nevertheless, she can't leave because she'd be returning to a location where she feels smothered, abandoning the people who've provided her with the first feelings of being valued as an individual, and acknowledging that she can't manage her own freedom. Feyre's emotional barriers are far greater than any lock or wall.
+This is important to recognise since many of the best pressure cookers in romantasy aren't physically inescapable at all. Feyre could technically leave the Night Court in *A Court of Mist and Fury*. Rhysand explicitly tells her so. But she can't leave because she'd be returning to a place where she feels smothered, abandoning the people who've given her the first taste of being valued as an individual, and admitting she can't handle her own freedom. Feyre's emotional barriers are far greater than any lock or wall.
 
 When you use emotional constraints instead of physical ones, the tension you create is different. The character is constantly deciding to remain, which means they'll continually confront *why* they're staying. As soon as they admit that their motivation for staying is the other person, not duty, not survival, not obligation, the entire relationship dynamic changes.
 

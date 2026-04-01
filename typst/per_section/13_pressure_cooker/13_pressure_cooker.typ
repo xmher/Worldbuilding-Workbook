@@ -12,19 +12,74 @@
 The "only one bed" trope works because it eliminates the option for the characters to avoid each other. In romantasy, you can scale this principle up to entire settings. Academies where students are required to live in dorms and therefore don't have an opportunity to avoid each other. Ships where passengers can't escape each other. Journeys through dangerous terrain where separation means death. Think of Feyre trapped Under the Mountain in #emph[A Court of Thorns and Roses], where she has no ability to leave, and every encounter with Rhysand happens under Amarantha's surveillance. The confinement in this story isn't just a background element. It's what forces the relationship to develop under conditions neither character would have chosen.
 
 
-== The Pressure Cooker Principle
+#strong[What confined, high-pressure environments exist in your world?]
 
+
+#emph[Think about the places your world already has where people are forced into close quarters: fortresses, ships, underground networks, warded academies, besieged cities, ritual spaces.]
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+#strong[What keeps people trapped in those environments: physical barriers, social obligation, or magical constraint?]
+
+
+#emph[Most settings layer more than one type of constraint. A warded academy combines physical (the wards), social (expulsion means disgrace), and magical (bonded partnerships) all at once.]
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+#strong[How long can someone be confined there before it becomes dangerous?]
+
+
+#emph[Danger can be physical (running out of supplies, magical exposure), psychological (isolation madness, paranoia), or social (political alliances fracturing under pressure). The limit shapes the timeline of your story.]
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+#block(breakable: false)[
+
+== The Pressure Cooker Principle
 
 A pressure cooker works because it's sealed. The heat has no way of escaping so the temperature inside reaches much hotter levels quicker than it would in an open atmosphere. That's what forced proximity does to a romance. It removes the escape valve. Your characters can't walk away, can't take a break, can't give themselves time and space to process what they're feeling. The emotional temperature rises because it has no choice.
 
-
 Pressure cooker settings do three crucial things for your romance. They remove the option to leave, so your characters are trapped together by geography, obligation, or danger. They force constant interaction, because privacy is limited and they see each other daily or constantly. And they accelerate intimacy, because compressed proximity speeds up relationship development that might take months under normal circumstances.
-
 
 But the principle isn't just about physical confinement. It's about creating conditions where avoidance is impossible and confrontation, with the other person, with their own feelings, is inevitable. The pressure cooker doesn't create the attraction. It creates the conditions where attraction can't be ignored, where defences are too expensive to maintain, where pretending becomes more exhausting than honesty.
 
-
 This section will help you design how your setting functions as a pressure system. You'll build the container, fill it with the right people and constraints, and then determine how to turn up the heat until something has to give.
+
+#strong[What are the biggest sources of tension in your world right now?]
+
+#hint[Think beyond the romance. War, scarcity, political instability, class conflict, magical imbalance. The pressure cooker works best when the world itself is already under strain. Your characters aren't just trapped together; they're trapped together while everything around them is combustible.]
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+]
+
+
+#strong[Where in your world is conflict most likely to erupt?]
+
+
+#hint[Borders, disputed territories, unstable courts, overtaxed communities. Pressure cookers are most powerful when they sit on top of a fault line, when the external world's tension mirrors and amplifies the interpersonal tension inside the container.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+  fill-page: true,
+)
 
 
 #block(breakable: false)[
@@ -70,10 +125,10 @@ Most stories use a combination, and the layering is what makes the pressure feel
 )
 
 
-#strong[How do your subtypes interact to create layered pressure?]
+#strong[Where do your subtypes overlap to tighten the trap?]
 
 
-#emph[The combination matters more than either type alone. In] Fourth Wing, #emph[institutional confinement (can't leave the academy) meets magical binding (the dragon bond), so even within the institution, Violet can't avoid Xaden specifically.]
+#emph[The combination matters more than either type alone. In] Fourth Wing, #emph[institutional confinement (can't leave the academy) meets magical binding (the dragon bond), so even within the institution, Violet can't avoid Xaden specifically. Look for the point where your layers intersect. That's where avoidance becomes truly impossible.]
 
 
 #writing-box(
@@ -101,18 +156,19 @@ Beyond the subtypes, forced proximity creates romantic tension through a set of 
 )
 
 
-#strong[Which romantic tension patterns will be strongest in your story?]
+#strong[Which three romantic tension patterns fit your story best?]
 
 
-#hint[Rank your top three. This will help you prioritise which later exercises to dig deepest into.]
+#hint[Rank them below. This will help you prioritise which later exercises to dig deepest into.]
 
 
-#strong[From the forced proximity patterns listed above, which three fit your story best? Rank them and explain why each suits your story.]
+#writing-lines(count: 1)
 
 
-#answer-box(
-  height: 180pt,
-)
+#writing-lines(count: 1)
+
+
+#writing-lines(count: 1)
 
 
 == A Note Before You Begin
@@ -127,7 +183,7 @@ Not every question in this section will apply to your story. If your pressure co
 === Mistake 1: The Pressure Cooker Has No Real Grip
 
 
-#strong[What it looks like:] Your characters are technically in the same place, but either of them could leave at any time. The only thing keeping them there is that it would be rude or inconvenient to go. There are no real consequences for separation.
+#strong[What it looks like:] Your characters are technically in the same place, but either of them could leave at any time. The only thing keeping them there is that it would be rude or inconvenient to go. There aren't any real consequences for separation.
 
 
 #strong[Why it hurts your romance:] If your characters can walk away, then every moment they spend together is a choice, and that's fine for a slow burn, but it's not forced proximity. The entire point of a pressure cooker is that the characters #emph[can't] avoid each other, which means feelings they'd normally bury or run from have to be faced. Without genuine constraints, there's no pressure. Without pressure, there's no acceleration. You end up with two people who happen to be in the same place, not two people being forced to confront something they're not ready for.
@@ -169,12 +225,12 @@ Not every question in this section will apply to your story. If your pressure co
 #structured-table(
   headers: ("Mistake", "Does Your Story Risk This?", "What You'll Do About It"),
   example-rows: (
-    ([No real grip — characters could leave at any time], [Yes — my protagonist could technically walk out, and the only consequence is social awkwardness], [Add a magical ward that prevents anyone from leaving the fortress until the solstice ritual is complete]),
+    ([No real grip: characters could leave at any time], [Yes, my protagonist could technically walk out, and the only consequence is social awkwardness], [Add a magical ward that prevents anyone from leaving the fortress until the solstice ritual is complete]),
   ),
   rows: (
-    ([No real grip — characters could leave at any time], [], []),
-    ([Constant pressure with no relief — tension never lets up], [], []),
-    ([Proximity without progression — dynamic doesn't change], [], []),
+    ([No real grip: characters could leave at any time], [], []),
+    ([Constant pressure with no relief: tension never lets up], [], []),
+    ([Proximity without progression: dynamic doesn't change], [], []),
   ),
   row-height: 60pt,
 )
@@ -192,7 +248,7 @@ Each of these constraint types does something different to the romance. Physical
 
 #strong[Physical constraints] (geography, architecture, locked doors):
 
-#hint[Physical confinement forces body awareness — they notice how the other person moves, breathes, takes up space.]
+#hint[Physical confinement forces body awareness. They notice how the other person moves, breathes, takes up space.]
 
 #writing-box(
   label: "Your Answer",
@@ -229,7 +285,7 @@ Each of these constraint types does something different to the romance. Physical
 #strong[Social/political requirements] (must maintain appearances, fulfill duties):
 
 
-#hint[Social constraints create performance — and performing a relationship has a way of blurring into feeling one.]
+#hint[Social constraints create performance, and performing a relationship has a way of blurring into feeling one.]
 
 
 #writing-box(
@@ -268,7 +324,7 @@ Each of these constraint types does something different to the romance. Physical
 #strong[How long are they trapped together?]
 
 
-#hint[Duration shapes the flavour of your romance. Days create intensity and desperation — feelings ignite fast but haven't been tested. Weeks allow routines to develop, which is where real intimacy grows. Months create the deepest transformation but require more progression beats to avoid the "spinning wheels" problem.]
+#hint[Duration shapes the flavour of your romance. Days create intensity and desperation; feelings ignite fast but haven't been tested. Weeks allow routines to develop, which is where real intimacy grows. Months create the deepest transformation but require more progression beats to avoid the "spinning wheels" problem.]
 
 
 \_\_\_
@@ -277,7 +333,7 @@ Each of these constraint types does something different to the romance. Physical
 #strong[Can they physically separate within the confined space?]
 
 
-#hint[The answer determines how much control your characters have over their own exposure. Separate rooms allow strategic retreat — characters can process privately and choose when to engage. Truly shared space removes that option, which accelerates vulnerability but also risks exhausting the tension if there's no variation.]
+#hint[The answer determines how much control your characters have over their own exposure. Separate rooms allow strategic retreat; characters can process privately and choose when to engage. Truly shared space removes that option, which accelerates vulnerability but also risks exhausting the tension if there's no variation.]
 
 
 \_\_\_
@@ -286,58 +342,56 @@ Each of these constraint types does something different to the romance. Physical
 #strong[What happens if they try to leave or separate?]
 
 
-#hint[Be specific and severe. "Something bad" isn't enough — you need consequences concrete enough that the reader never questions why the characters don't just walk out. The more specific the cost, the stronger the cage.]
+#hint[Be specific and severe. "Something bad" isn't enough. You need consequences concrete enough that the reader never questions why the characters don't just walk out. The more specific the cost, the stronger the cage.]
 
 
 \_\_\_
 
+
+#block(breakable: false)[
 
 == Physical Pressure vs. Emotional Pressure
 
-
 Physical limitations are apparent: walls, geography, locks. But emotional obligations can prevent a character from leaving even when they have the technical ability to do so.
 
-
-This is important to recognise since many of the best pressure cookers in romantasy aren't physically inescapable at all. Feyre could technically leave the Night Court in #emph[A Court of Mist and Fury]. Rhysand explicitly states this to her. Nevertheless, she can't leave because she'd be returning to a location where she feels smothered, abandoning the people who've provided her with the first feelings of being valued as an individual, and acknowledging that she can't manage her own freedom. Feyre's emotional barriers are far greater than any lock or wall.
-
+This is important to recognise since many of the best pressure cookers in romantasy aren't physically inescapable at all. Feyre could technically leave the Night Court in #emph[A Court of Mist and Fury]. Rhysand explicitly tells her so. But she can't leave because she'd be returning to a place where she feels smothered, abandoning the people who've given her the first taste of being valued as an individual, and admitting she can't handle her own freedom. Feyre's emotional barriers are far greater than any lock or wall.
 
 When you use emotional constraints instead of physical ones, the tension you create is different. The character is constantly deciding to remain, which means they'll continually confront #emph[why] they're staying. As soon as they admit that their motivation for staying is the other person, not duty, not survival, not obligation, the entire relationship dynamic changes.
 
-
 #strong[Beyond physical constraints, what emotional stakes keep them there?]
-
 
 Would leaving mean abandoning someone who needs them? Admitting defeat? Breaking a promise? Losing their only chance at something they need?
 
-
 \_\_\_
-
 
 #strong[Could either character technically leave but chooses to stay?]
 
-
 If yes, why do they stay? What would leaving cost them emotionally?
 
-
 \_\_\_
-
 
 #strong[What would leaving say about them, to themselves and each other?]
 
-
 Would it mean they're a coward? That they don't care? That they've given up?
 
-
 \_\_\_
-
 
 #strong[Is there a moment when one considers leaving but doesn't?]
 
-
 What stops them: the physical constraints, or something deeper?
 
-
 \_\_\_
+
+#strong[What personal stakes does each character carry into the pressure cooker?]
+
+#hint[Not what's keeping them physically trapped, but what they personally stand to win or lose. A shot at redemption, a last chance to prove themselves, a family member's safety, their own survival. The higher the personal stakes, the more the confinement costs them emotionally.]
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+]
 
 
 #block(breakable: false)[
@@ -348,18 +402,64 @@ You've likely already identified your setting in Section 1 (Geography) or Sectio
 
 #strong[What is your primary pressure cooker setting?]
 
-#hint[Your setting isn't just a backdrop — it's the mechanism that creates and maintains the pressure. The best pressure cooker settings have built-in reasons characters can't leave, limited privacy, forced daily interaction, and at least one space where stolen moments become possible.]
+#hint[Your setting isn't just a backdrop. It's the mechanism that creates and maintains the pressure. The best pressure cooker settings have built-in reasons characters can't leave, limited privacy, forced daily interaction, and at least one space where stolen moments become possible.]
 
 \_\_\_
 
 #strong[Map the constraints:]
 
-#hint[You've already identified your constraint types above. Now map how your specific setting enforces them — the practical details of how your pressure cooker actually works.]
+#hint[You've already identified your constraint types above. Now map how your specific setting enforces them: the practical details of how your pressure cooker actually works.]
 
-#strong[Map the specific constraints of your pressure cooker setting: What are the physical constraints (size, layout, barriers)? The temporal constraints (how long they're stuck)? The survival needs? The social pressure (who's watching)? And what happens if they try to escape?]
+#strong[What are the physical constraints] (size, layout, barriers)?
 
-#answer-box(
-  height: 180pt,
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+]
+
+
+#block(breakable: false)[
+
+==== How long are they stuck there?
+
+#writing-box(
+  label: "How long are they stuck there?",
+  height: 120pt,
+)
+
+]
+
+
+#strong[What do they need to survive] (food, shelter, protection)?
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
+#block(breakable: false)[
+
+==== Who's watching them?
+
+#writing-box(
+  label: "Who's watching them?",
+  height: 120pt,
+)
+
+]
+
+
+#block(breakable: false)[
+
+==== What happens if they try to escape?
+
+#writing-box(
+  label: "What happens if they try to escape?",
+  height: 120pt,
 )
 
 ]
@@ -368,7 +468,7 @@ You've likely already identified your setting in Section 1 (Geography) or Sectio
 #strong[What's the minimum physical distance they can maintain?]
 
 
-#hint[This determines the baseline tension level. If they can stay in separate buildings, the pressure is social — they choose to avoid each other. If they're sharing a room, the pressure is physical — avoidance is a fantasy. The smaller the minimum distance, the faster the body awareness builds.]
+#hint[This determines the baseline tension level. If they can stay in separate buildings, the pressure is social; they choose to avoid each other. If they're sharing a room, the pressure is physical; avoidance is a fantasy. The smaller the minimum distance, the faster the body awareness builds.]
 
 
 \_\_\_
@@ -395,10 +495,10 @@ Allies, rivals, authority figures, servants? Others shape what your leads can sa
 \_\_\_
 
 
-#strong[How do others affect how the protagonists can interact?]
+#strong[What can't your protagonists do because other people are watching?]
 
 
-Must they hide their feelings? Maintain appearances? Compete for attention? Perform a relationship that isn't real (yet)?
+#hint[Must they hide their feelings? Maintain appearances? Compete for attention? Perform a relationship that isn't real (yet)?]
 
 
 \_\_\_
@@ -435,6 +535,15 @@ Someone watching, someone who would report them, someone dangerous?
 
 
 The words they swallow and the touches they deny create tension that demands eventual release.
+
+
+\_\_\_
+
+
+#strong[How does the confinement land differently on people with less power?]
+
+
+#hint[Servants, bystanders, lower-ranking members: the same pressure cooker squeezes everyone, but people with fewer choices feel it differently. Their experience can mirror or contrast the protagonists' situation and ground the setting in worldbuilding.]
 
 
 \_\_\_
@@ -509,7 +618,7 @@ Cooperation is one of the most powerful forced interaction types because it requ
 #strong[Shared necessities:]
 
 
-#hint[These mundane intimacies are where the real connection builds — not through dramatic moments, but through the accumulation of seeing someone eat, sleep, and exist as a human being.]
+#hint[These mundane intimacies are where the real connection builds, not through dramatic moments, but through the accumulation of seeing someone eat, sleep, and exist as a human being.]
 
 
 #structured-table(
@@ -541,13 +650,13 @@ Training, meetings, tasks, social events they must both attend:
 #strong[Enforced cooperation:]
 
 
-#hint[Cooperation is one of the most powerful forced interaction types because it requires trust, communication, and reliance — all the ingredients of intimacy, delivered under the guise of getting a job done.]
+#hint[Cooperation is one of the most powerful forced interaction types because it requires trust, communication, and reliance, all the ingredients of intimacy, delivered under the guise of getting a job done.]
 
 
 #open-table(
   headers: ("Task They Must Do Together", "What It Forces Them to Reveal", "How It Shifts the Dynamic"),
   example-rows: (
-    ([Joint combat training — must fight as a unit], [He discovers she's resourceful under pressure; she discovers he instinctively shields her], [Grudging respect replaces contempt]),
+    ([Joint combat training, must fight as a unit], [He discovers she's resourceful under pressure; she discovers he instinctively shields her], [Grudging respect replaces contempt]),
   ),
   rows: (
     ([], [], []),
@@ -567,40 +676,28 @@ What do they have to do together every single day?
 \_\_\_
 
 
+#strong[How do ordinary people in the setting cope with the same confinement?]
+
+
+#hint[Your leads aren't the only ones trapped. Servants, lower-ranking members, civilians: how do people with less power or fewer choices handle the same daily pressures? Their experience can ground the pressure cooker in your world rather than making it feel like it exists only for the romance.]
+
+
+\_\_\_
+
+
 == The Body in the Room
 
 
-Here's what proximity actually does to people: it causes a heightened sense of awareness of each other's bodies. Not in a sexual way, not at first. In the way you become aware of someone's breathing pattern when you're trying to sleep. The way you learn someone's footstep, their particular scent, the sound of their voice through a wall. When two people are in close proximity, another person's physical presence becomes impossible to turn off.
+Proximity creates a heightened awareness of another person's body. Not sexual, not at first. It's the way you learn someone's footstep, their particular scent, the sound of their voice through a wall. Physical awareness is the precursor to desire. Your characters don't jump from irritation to passion. They go from irritation to noticing: the way he rolls his shoulders when he's tired, the scar she tries to hide, the warmth that radiates from them in a cold room. At some point the noticing becomes too much to ignore.
 
 
-This matters for your romance because physical awareness is the precursor to desire. Your characters don't jump from irritation to passion. They go from irritation to noticing. Noticing the way he rolls his shoulders when he's tired, the scar she tries to hide, the warmth that radiates from them in a cold room. At some point the noticing becomes too much for them to avoid anymore.
+=== Sensory Details in Confined Spaces
 
 
-=== Scent as an Anchor
+Every pressure cooker has its own sensory landscape. The confined space smells like something: damp stone, woodsmoke, sweat, herbs drying overhead, the metallic tang of wards. Give your love interest a #emph[sensory signature] that your protagonist encounters involuntarily in close quarters: a scent, a warmth, the sound of their breathing. Something they'll associate with this person long after the proximity ends.
 
 
-Of all the senses, scent is the one that bypasses intellectual defences most effectively. It's primal, involuntary, and deeply tied to memory. The best romantasy authors know this and use olfactory details as a grounding mechanism for attraction, particularly in high-stress environments where the characters are too guarded to admit what they feel.
-
-
-The scent of Xaden, mint and leather and bergamot, in #emph[Fourth Wing] becomes Violet's sensory anchor. She registers it in the interrogation chamber, in the turret, in the moments of danger where she shouldn't be noticing anything except the threat. The fact that she can't help noticing tells the reader everything about where her attention actually lives, even when her conscious mind is focused on survival.
-
-
-Maas also utilises scent as a method to establish contrast. The Spring Court's atmosphere is cloying and floral, beautiful but suffocating. The Night Court, and Rhysand specifically, is associated with citrus and sea salt and open air. Feyre doesn't consciously choose one over the other, but her body responds to the scent that signals freedom before her mind catches up. The sensory shift between courts does the work of paragraphs of internal monologue: it tells the reader which place feels like home.
-
-
-When you're building your pressure cooker, give your love interest a scent profile. Not a perfume description, a #emph[sensory signature] that your protagonist encounters involuntarily in close quarters. Something they'll associate with this person long after the proximity ends. Something that will devastate them when they catch wind of it while walking through a crowded market, on a borrowed cloak, in an empty room the other person has just left.
-
-
-=== Touch and the Blurred Line
-
-
-In romantasy, tactile details often create an ambiguous line between violence and tenderness. Your characters are usually warriors, spies, or survivors. People who've learned weapons long before they learned to be gentle with another's skin. The friction of callused hands against skin, the grip that could restrain or protect, the brush of fingers that could be reaching for a blade or reaching for a person. That ambiguity is a major reason why forced proximity is so charged in the genre. Every touch carries the question: is this danger, or is this something else?
-
-
-Accidental contact is your best friend in forced proximity. Narrow corridors that force them to press past each other. A hand steadying someone in the dark. Fingers brushing over a shared map. These aren't grand romantic gestures. They're the incidental touches that happen when two people share a small space, and they're devastating precisely because neither person chose them. The space chose them. And now they have to deal with what they felt.
-
-
-So put the body on the page. Not just in the charged moments, but in the ordinary ones. An accidental brush of hands while both reach for the same object. The awareness of how close they're standing when the space forces it. Waking up to find one of them has moved closer in their sleep. These small physical details do more for romantic tension than any amount of internal monologue about attraction, because they show the intimacy building whether the characters want it to or not.
+Touch is equally charged. In romantasy, your characters are usually warriors, spies, or survivors, people who learned weapons before they learned gentleness. Accidental contact in close quarters (narrow corridors, a hand steadying someone in the dark, fingers brushing over a shared map) becomes devastating precisely because neither person chose it. The space chose it.
 
 
 #strong[What physical details does each character notice about the other first?]
@@ -630,19 +727,19 @@ Narrow hallways, small rooms, shared equipment, crowded meals. Where does the sp
 \_\_\_
 
 
-#strong[When does physical awareness shift into something they can't dismiss as neutral?]
+#strong[When does noticing become wanting?]
 
 
-The moment when noticing becomes wanting, even if they won't admit it yet:
+#hint[The shift from "I'm aware of them" to "I can't stop thinking about them," even if they won't admit it yet:]
 
 
 \_\_\_
 
 
-#strong[What sensory details will trigger memory and longing after the proximity ends?]
+#strong[What sensory detail will haunt them after the proximity ends?]
 
 
-A scent encountered in a market. A sound heard through a wall. The echo of warmth where someone used to stand:
+#hint[A scent encountered in a market. A sound heard through a wall. The echo of warmth where someone used to stand:]
 
 
 \_\_\_
@@ -650,31 +747,25 @@ A scent encountered in a market. A sound heard through a wall. The echo of warmt
 
 #block(breakable: false)[
 
-== Writing the Interior
+== The Gap Between Inside and Outside
 
-Forcing two characters into close proximity isn't enough to create tension; you need to give the reader a sense of the gap between how your character feels on the inside and how they act on the outside. It's this gap that allows the tension to build slowly. Your characters are keeping up appearances, performing indifference, pretending the accidental touch didn't register, and the reader knows that none of it is true because they're inside the character's head.
+The pressure cooker's real tension lives in the gap between what your character feels and what they show. They say something biting while registering the warmth of the other person standing close. They maintain a blank expression while cataloguing every detail of the love interest's face. This gap is what powers slow-burn tension, and it only works in forced proximity because the characters can't escape to a safe distance and let the feelings fade. They have to sit in them.
 
-The internal monologue is what takes mere physical closeness and turns it into almost unbearable tension. Without it, you've got two people in a room. With it, you've got two people in a room where one of them is acutely aware of every breath the other takes and fighting to keep from showing how much they're feeling.
+#hint[A note on craft: internal monologue is the tool that makes this gap visible to the reader. A character who frames their obsessive awareness as "threat assessment" or "strategic observation" lets the reader see the self-deception, and the attraction underneath it, long before the character does.]
 
-When you write forced proximity effectively, there should be an obvious gap between the inner workings of your character's mind and how they choose to present themselves outwardly. Your character says something biting while mentally registering the warmth of the other person standing close. They maintain a completely blank look on their face while internally detailing every feature of the love interest's face. This disparity is the driving force behind the slow burn, and it only works in forced proximity because the characters can't escape to a safe distance and let whatever feelings are developing fade away. They have to sit in those feelings.
+#strong[What lie does each character tell themselves about the other?]
 
-Holly Black does this brilliantly in #emph[The Cruel Prince]. Jude's internal monologue gives her reason to be hyperaware of Cardan as a survival mechanism. She's paying attention to him because he's a threat, studying his actions because he's a danger, noting the way he looks at her because she needs to stay ahead of his cruel intentions. The reader sees through this justification long before Jude does. Her hatred is also a form of obsession, and because the present-tense narrative allows the reader to experience the story alongside Jude, they remain trapped within her perspective and can't step back far enough to see the subtext clearly. When Jude thinks "Most of all, I hate you because I think of you. Often," the reader understands what Jude hasn't yet allowed herself to realise. That's the power of internal monologue in forced proximity: it lets you build romantic tension through the denial of romance.
-
-#strong[What does each character tell themselves about the other that the reader can see through?]
-
-#hint["I'm watching him because he's dangerous." "She's nothing to me." "This doesn't mean anything." The lies your characters tell themselves are the engine of slow-burn tension — the reader sees the truth before the character does.]
+#hint["I'm watching him because he's dangerous." "She's nothing to me." "This doesn't mean anything." The reader should see through these lies long before the character does. That gap is what powers slow-burn tension.]
 
 \_\_\_
 
 === Deprivation and Cognitive Hunger
 
-If your protagonist has been isolated, sheltered, or touch-starved before the forced proximity begins, their internal monologue will reflect that deprivation. Poppy in #emph[From Blood and Ash] has been denied touch, information, and freedom for her entire life. When she's suddenly in close quarters with Hawke, her mind goes into overdrive. She questions everything, is bombarded by her senses, and desperately tries to process a lifetime of deprivation all at once. Her internal monologue accelerates because she's experiencing things she was never allowed to experience, and she doesn't have the framework to make sense of them calmly.
-
-This is a powerful tool if your protagonist enters the pressure cooker from a place of deprivation. The forced proximity doesn't just bring them close to the love interest; it brings them close to experiences, sensations, and freedoms they've never had. Their internal monologue is then the arena in which they're attempting to process the sheer newness of these overwhelming experiences, and the love interest becomes tangled up in all of it. The first person who touched them gently. The first person who treated them as capable. The first person whose presence felt like safety instead of surveillance.
+If your protagonist has been isolated, sheltered, or touch-starved before the forced proximity begins, the pressure cooker hits differently. The proximity doesn't just bring them close to the love interest. It brings them close to experiences, sensations, and freedoms they've never had. The love interest becomes tangled up in all of it: the first person who touched them gently, the first person who treated them as capable, the first person whose presence felt like safety instead of surveillance.
 
 #strong[Does your protagonist enter the pressure cooker from a place of deprivation?]
 
-#hint[If they've been sheltered, isolated, touch-starved, or denied agency before the forced proximity begins, the experience will hit differently. The love interest doesn't just become a romantic possibility — they become tangled up in the protagonist's first taste of freedom, touch, or choice.]
+#hint[If they've been sheltered, isolated, touch-starved, or denied agency before the forced proximity begins, the experience will hit differently. The love interest doesn't just become a romantic possibility; they become tangled up in the protagonist's first taste of freedom, touch, or choice.]
 
 What has your protagonist been denied before the pressure cooker?
 
@@ -710,7 +801,7 @@ How does the love interest become associated with those first experiences?
 #structured-table(
   headers: ("Character", "Internal Style (what the reader sees)", "External Performance (what the other character sees)", "The Gap Between Them"),
   example-rows: (
-    ([Jude (The Cruel Prince)], [Hypervigilant, analytical — cataloguing Cardan as a threat], [Cold, controlled, fearless], [The reader sees that her "threat assessment" is actually obsession; Cardan sees only her hostility]),
+    ([Jude (The Cruel Prince)], [Hypervigilant, analytical, cataloguing Cardan as a threat], [Cold, controlled, fearless], [The reader sees that her "threat assessment" is actually obsession; Cardan sees only her hostility]),
   ),
   rows: (
     ([Protagonist], [], [], []),
@@ -720,19 +811,19 @@ How does the love interest become associated with those first experiences?
 )
 
 
-#strong[How does the internal monologue change over the course of the confinement?]
+#strong[What does each character's inner voice sound like at the start versus the end?]
 
 
-#hint[Early on, the other person might barely register. Or they might register as a threat, an annoyance, an obligation. How does the internal framing shift as proximity does its work?]
+#hint[Early on, the other person might barely register, or register as a threat, an annoyance, an obligation. Track how that framing shifts as proximity does its work.]
 
 
 \_\_\_
 
 
-#strong[Is there a moment of internal honesty, when the character admits to themselves what they actually feel?]
+#strong[When does each character stop lying to themselves about what they feel?]
 
 
-#hint[This beat is often the emotional climax of the forced proximity arc, even if nothing external changes. It's the moment when the character stops lying to themselves — and the reader finally exhales.]
+#hint[This beat is often the emotional climax of the forced proximity arc, even if nothing external changes. It's the moment the self-deception cracks, and the reader finally exhales.]
 
 
 \_\_\_
@@ -741,7 +832,7 @@ How does the love interest become associated with those first experiences?
 == Routines & Rhythms
 
 
-Daily routines that are formed during confinement develop a pattern. In these routines, individual moments are magnified. And it is the quiet beat of "I have to" becoming "I want to" that is one of the most powerful patterns in a romance.
+Daily routines that are formed during confinement develop a pattern. In these routines, individual moments are magnified. And it's the quiet beat of "I have to" becoming "I want to" that's one of the most powerful patterns in a romance.
 
 
 Consider Feyre's evening dinners with Rhysand and the Inner Circle in #emph[A Court of Mist and Fury]. The first time they happen, they're an expectation. She's moved into the townhouse and dinner is being served; there's no other option than to go. However, over time the dinners become a part of her recovery process. She begins to look forward to seeing him and the others. She even notices when someone is missing from the table. The routines become safe havens for her, and the individual that created this routine becomes a part of that sense of security.
@@ -825,7 +916,7 @@ Seek solitude? Seek each other? Process what's happening? Avoid thinking about i
 \_\_\_
 
 
-#strong[How does relief feel different as the relationship develops?]
+#strong[What does relief look like early on versus later?]
 
 
 Early on, relief might mean escaping each other. Later, it might mean finding each other.
@@ -835,10 +926,10 @@ Early on, relief might mean escaping each other. Later, it might mean finding ea
 - Later, relief means: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
-#strong[Is there a moment when one seeks out the other during a relief period, when they didn't have to?]
+#strong[When does one of them choose the other person's company over solitude?]
 
 
-The choice to be together when they could be apart:
+#hint[This is a turning point: the first time they seek each other out when they could be alone instead.]
 
 
 \_\_\_
@@ -856,7 +947,7 @@ When even the small escapes disappear, and there's no break from the pressure:
 == The Pressure-Release Moment
 
 
-There is a certain time in forced proximity when all of the tension builds up to a breaking point. That isn't necessarily the confession; that could happen later. What I'm talking about is the moment when the characters give up control, when the walls they've built and are trying to maintain start to crack and something real starts to show through.
+There's a certain time in forced proximity when all the tension builds up to a breaking point. That isn't necessarily the confession; that could happen later. What I'm talking about is the moment when the characters give up control, when the walls they've built and are trying to maintain start to crack and something real starts to show through.
 
 
 In romantasy, this is often represented by using the worldbuilding to create an image of what's occurring with the characters as the break point happens. In #emph[Fourth Wing], when Violet and Xaden let go of their control over their emotions while in close proximity, their magic explodes throughout the area creating an image of their unspoken connection. Maas represents this same concept in a similar fashion. When Feyre's powers get out of control during moments of extreme emotional intensity, the magic shows visually what she's feeling but hasn't expressed verbally. The world reacts to the breaking point.
@@ -877,10 +968,10 @@ A confession? A kiss? A fight that turns into something else? Magic that escapes
 \_\_\_
 
 
-#strong[How does your worldbuilding externalise the internal tension?]
+#strong[How does your world make the invisible tension visible?]
 
 
-Does magic respond to their emotions? Does the environment shift? Does something physical happen that makes the invisible visible?
+#hint[Does magic respond to their emotions? Does the environment shift? Does something physical happen that shows what the characters are feeling inside?]
 
 
 \_\_\_
@@ -931,7 +1022,7 @@ Space gets smaller, time gets shorter, stakes get higher, others leave so they'r
 #structured-table(
   headers: ("Scale", "Your Setting", "What They Can Still Avoid", "What Becomes Unavoidable (Romantically)"),
   example-rows: (
-    ([Large (region/territory)], [Basgiath War College — cadets can't leave campus], [Can avoid each other in crowds, eat at different times, take different routes], [Awareness — she knows he's somewhere on campus, catches glimpses]),
+    ([Large (region/territory)], [Basgiath War College, cadets can't leave campus], [Can avoid each other in crowds, eat at different times, take different routes], [Awareness: she knows he's somewhere on campus, catches glimpses]),
   ),
   rows: (
     ([Large (region/territory)], [], [], []),
@@ -940,6 +1031,15 @@ Space gets smaller, time gets shorter, stakes get higher, others leave so they'r
   ),
   row-height: 60pt,
 )
+
+
+#strong[Where inside the pressure cooker is conflict most likely to erupt?]
+
+
+#hint[Specific locations, specific moments. The mess hall after a bad day, the training yard when ranks are announced, the shared quarters at night. Identify the flashpoints where tension is hardest to contain.]
+
+
+\_\_\_
 
 
 #strong[The peak pressure moment:]
@@ -958,6 +1058,28 @@ Do they escape? Complete the mission? Confess feelings? Get external rescue? Doe
 
 
 \_\_\_
+
+
+#strong[What happens when the systems inside the pressure cooker break down?]
+
+
+#hint[Supply lines fail. Authority figures lose control. Rules stop being enforced. Alliances fracture. When the structure that held the pressure cooker together starts to crack, the characters lose their routines, their safety nets, and their excuses for maintaining distance. What breaks first in your setting, and how does that breakdown force your characters closer together, or threaten to tear them apart?]
+
+
+\_\_\_
+
+
+#strong[What does each character stand to lose personally if the pressure cooker fails?]
+
+
+#hint[Not the plot stakes, the personal ones. A shot at redemption, a family member's safety, their reputation, their sense of identity. The higher the personal cost of failure, the more the confinement weighs on them, and the more they need the other person, whether they admit it or not.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+  fill-page: true,
+)
 
 
 == How Confinement Changes Them
@@ -1013,16 +1135,16 @@ What has proximity taught them about themselves and each other?
 \_\_\_
 
 
-#strong[Map the belief shift that proximity forces.]
+#strong[What does each character believe about the other at the start versus the end?]
 
 
-#hint[What does each character believe about the other at the start of confinement? What do they believe by the end? The gap between these two beliefs is the arc that proximity creates.]
+#hint[The gap between these two beliefs is the arc that proximity creates. Track the shift and the specific moment that breaks the old assumption.]
 
 
 #structured-table(
   headers: ("", "Start of Confinement", "End of Confinement", "The Moment That Forces the Shift"),
   example-rows: (
-    ([Protagonist believes about LI], [He's cruel and calculating — allied with people who killed my family], [He's been protecting me at enormous personal cost], [She discovers Xaden has been shielding marked ones, including her, in secret]),
+    ([Protagonist believes about LI], [He's cruel and calculating, allied with people who killed my family], [He's been protecting me at enormous personal cost], [She discovers Xaden has been shielding marked ones, including her, in secret]),
   ),
   rows: (
     ([Protagonist believes about LI], [], [], []),
@@ -1048,7 +1170,7 @@ That's the beat that separates good forced proximity from great forced proximity
 === The Three Possible Responses
 
 
-There are three ways people typically react when the external pressure of their confinement is lifted, and your decision on which way they react will shape the emotional arc of your post-proximity story.
+There are three ways people typically react when the external pressure of their confinement is lifted, and your decision on which way they react will shape your post-proximity story's emotional arc.
 
 
 #strong[They cling.] Either one or both characters will attempt to keep the closeness going by trying to recreate the same confined space, seeking each other out, or simply refusing to accept that things have changed. Cloying as this may be at times, clinging can also be a signal that the character still hasn't figured out what they're feeling; they've become dependent on the closeness, not the individual themselves.
@@ -1063,13 +1185,13 @@ There are three ways people typically react when the external pressure of their 
 #strong[How does each character respond when the pressure cooker ends?]
 
 
-#hint[Characters often respond differently from each other. One might cling while the other pulls away — and that mismatch creates its own tension.]
+#hint[Characters often respond differently from each other. One might cling while the other pulls away, and that mismatch creates its own tension.]
 
 
 #structured-table(
   headers: ("Character", "Initial Response (cling / pull away / test)", "Why This Response?", "What It Reveals About Them"),
   example-rows: (
-    ([Feyre (ACOMAF)], [Pull away — she returns to the Spring Court], [She doesn't trust that what she felt was real; she's been manipulated before], [She needs to choose freely or the relationship means nothing to her]),
+    ([Feyre (ACOMAF)], [Pull away; she returns to the Spring Court], [She doesn't trust that what she felt was real; she's been manipulated before], [She needs to choose freely or the relationship means nothing to her]),
   ),
   rows: (
     ([Protagonist], [], [], []),
@@ -1082,13 +1204,13 @@ There are three ways people typically react when the external pressure of their 
 #strong[What tests does each character create?]
 
 
-#hint[After the pressure ends, characters often create small, deliberate opportunities for contact — a message that didn't need sending, a visit that didn't need to happen. These tests confirm the connection exists outside the constraints that created it.]
+#hint[After the pressure ends, characters often create small, deliberate opportunities for contact: a message that didn't need sending, a visit that didn't need to happen. These tests confirm the connection exists outside the constraints that created it.]
 
 
 #structured-table(
   headers: ("Character", "The Test (what they do)", "What They're Really Asking", "What the Response Tells Them"),
   example-rows: (
-    ([Feyre (ACOMAF)], [Returns to the Night Court after spying in Spring], [Will they still want me when I'm not broken and needing rescue?], [They welcome her as an equal, not a patient — the connection was never about her damage]),
+    ([Feyre (ACOMAF)], [Returns to the Night Court after spying in Spring], [Will they still want me when I'm not broken and needing rescue?], [They welcome her as an equal, not a patient. The connection was never about her damage]),
   ),
   rows: (
     ([Protagonist], [], [], []),
@@ -1101,13 +1223,10 @@ There are three ways people typically react when the external pressure of their 
 === The Spectrum of Separation
 
 
-Not every story ends cleanly in a pressure cooker. Some stories release the external constraints on the characters, but still maintain some form of binding. In #emph[Fourth Wing], after the conclusion of the war games, the physical constraints of Basgiath's structured training are lifted, but the dragon bond between Violet and Xaden remains. Violet and Xaden can't be separated for more than three days or they'll suffer serious physical consequences. Although the physical restrictions have been removed, the metaphysical bond remains intact. This creates a complication in the "choice" to remain together. The couple is no longer forced to be together due to external pressures; however, they're literally unable to survive apart. Thus, the test of their relationship now involves the #emph[manner] in which they're together, rather than whether or not they are: will they be together as reluctant prisoners of the magical bond, or as partners who would choose each other even if the bond didn't exist?
+Not every story removes all constraints cleanly. Some loosen them; some transform them. In #emph[Fourth Wing], the physical constraints of Basgiath's structured training end, but the dragon bond between Violet and Xaden remains. They can't be separated for more than three days or they'll suffer serious physical consequences. The test of their relationship shifts from #emph[whether] they're together to #emph[how]: will they be reluctant prisoners of the bond, or partners who would choose each other even without it?
 
 
-In #emph[A Court of Mist and Fury], Maas contrasts two relationships deliberately. The Spring Court was a pressure cooker that ultimately failed. Tamlin's overprotective behaviour turned into a cage, and when Feyre was "released" by Rhysand's bargain, she didn't choose the Night Court; she escaped the Spring Court. She left because the Spring Court was slowly killing her. The Night Court is, therefore, a different type of pressure cooker. Although Feyre could theoretically leave at any time, she chooses to stay. The transition is successful because Maas illustrates the difference between a type of proximity that kills and a type of proximity that heals. When Feyre returns to the Spring Court as a spy in #emph[A Court of Wings and Ruin], her entire presence there is purely to deceive others. She's choosing the Night Court not because she's compelled to do so by the mating bond, but because she's come to adopt the values of healing, autonomy, strength in vulnerability as her own.
-
-
-The discovery of the mating bond further complicates matters. Rhysand knows they're mates, but he doesn't tell Feyre until she can choose him based on her own desires rather than the biological imperative of the bond. He does this as a direct way to give her agency within a system that has consistently taken it away, and it clearly demonstrates that this relationship has evolved to the point of making decisions based upon mutual desire and not just proximity.
+This is a key worldbuilding question. If your world has magical bonds, institutional obligations, or political arrangements that outlast the pressure cooker itself, the "after" isn't fully free. The remaining constraint transforms the question your characters must answer.
 
 
 #strong[How completely does your pressure cooker end?]
@@ -1117,23 +1236,17 @@ The discovery of the mating bond further complicates matters. Rhysand knows they
 
 
 - Full release (all external constraints removed, choice is entirely free): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Partial release (some constraints remain — which ones?): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-- Transformation (the constraint changes form — from imposed to chosen, from physical to emotional): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Partial release (some constraints remain; which ones?): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Transformation (the constraint changes form, from imposed to chosen, from physical to emotional): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
 === What the Absence Reveals
 
 
-What is really revealed with the absence of a pressure cooker is what your character misses when there's no longer forced interaction.
+What the absence of the pressure cooker reveals is what your character actually misses. If they miss the #emph[person], the connection is real. If they miss the #emph[situation], the excitement, the danger, the intensity, the connection may not survive peacetime. Be honest about this distinction, because readers will know if you've forced a happy ending the story hasn't earned.
 
 
-If your characters miss the person they were connected to, then they have a real connection. If they're missing the situation, the excitement, the danger, the intensity, the connection may not last in the calmness of peacetime. Authors should be honest about this, since readers will know if you've forced an HEA where the story hasn't been built up to earn one. Post-proximity arcs that provide room for doubt, and allow characters to question whether what they felt was real, will ultimately prove a stronger choice, and one that earns that happy ending.
-
-
-Lara's transformation from an agent to someone who has genuinely committed to Aren in #emph[The Bridge Kingdom] is not instantaneous. She chose to be loyal to Aren over her father's goals, but she never told him about the time she spent spying. Even though she made the commitment, the shadows of what she did still linger long after the arrangement that forced her into proximity is ended. The secrets she kept during that time created a new type of prison. While she's physically free, she's emotionally trapped by her own guilt. She can't freely begin a relationship with Aren until she has fully disclosed her actions to him, proving that the pressures of the pressure cooker often resonate long after the physical confinement has ended.
-
-
-Reid and Lou's transition out of forced proximity in #emph[Serpent & Dove] was triggered by discovery of Lou's identity as a witch. The legal and social ramifications of their marriage were instantly erased due to the fact that Reid no longer had to protect Lou. His entire upbringing demanded the opposite. The test for Reid and Lou wasn't whether they could maintain closeness without outside pressures, but rather whether Reid could actively choose to be with Lou, even if doing so meant dismantling every aspect of his upbringing. The pressure cooker didn't just bring them together; it provided Reid with a justification to question everything he believed in.
+Secrets kept during confinement, habits formed together, guilt about things said or done: these pressures often resonate long after the physical confinement has ended. The pressure cooker can create a new kind of emotional prison even after the walls come down.
 
 
 #strong[When the pressure cooker ends, what changes?]
@@ -1163,17 +1276,26 @@ Be honest. The answer might be different for each character, and it might not be
 \_\_\_
 
 
-#strong[What lingers from the pressure cooker period?]
+#strong[How has the world outside the pressure cooker changed while they were inside?]
 
 
-#hint[Confinement leaves traces. Check which of these resonate for your story and fill in the specifics.]
+#hint[The world doesn't pause while your characters are confined. Alliances shift, wars progress, seasons turn. What do they walk out into, and how does the changed world create new pressures or remove old ones?]
 
 
-#strong[What lingers after the pressure cooker period? Consider: secrets kept during confinement, habits formed together, sensory memories that ambush them, guilt about things said or done, knowledge of vulnerabilities seen, and private jokes or rituals.]
+\_\_\_
 
 
-#answer-box(
-  height: 180pt,
+#strong[What lingers after the pressure cooker period?]
+
+
+#hint[Confinement leaves traces. Consider: secrets kept during confinement, habits formed together, sensory memories that ambush them, guilt about things said or done, knowledge of vulnerabilities seen, and private jokes or rituals.]
+
+
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
 )
 
 
@@ -1201,32 +1323,10 @@ This is the honest question. Some relationships are forged in the fire and tempe
 #strong[If my characters tried to walk away from each other right now, what would stop them?]
 
 
-If the answer is "nothing" or "they'd feel bad," your pressure cooker doesn't have enough grip.
+If the answer is "nothing" or "they'd feel bad," your pressure cooker doesn't have enough grip. Strong answers involve severe consequences: execution for desertion, a magical bond that would kill them, the mission failing and people dying. Weak answers (guilt, awkwardness, missing each other) can layer on top of strong constraints, but they're not enough on their own.
 
 
-=== Strong Answers:
-
-
-- They'd be executed for desertion
-- The magical bond would kill them both
-- Their families would go to war
-- They'd lose their only chance at survival/power/freedom
-- The enemy would capture them immediately
-- They'd be stripped of their magic and exiled
-- One of them would die without the other's protection
-- The mission would fail and people would die
-
-
-=== Weak Answers:
-
-
-- They'd feel guilty
-- It would be awkward
-- They'd miss each other
-- Someone might be disappointed
-
-
-Weak answers aren't useless. They can work as #emph[emotional] constraints that layer on top of strong physical ones. The problem is when they're the #emph[only] thing keeping your characters together. "They'd feel guilty" is a fine secondary reason to stay. It's a terrible primary one.
+#hint[See also the diagnostic in Section 14: Institutions & Structures, which tests whether your institutional constraints have enough grip to hold.]
 
 
 #strong[What is the cost of separation in your story?]
@@ -1262,7 +1362,7 @@ Your pressure cooker doesn't exist in isolation. It's built from the worldbuildi
 #strong[What geographic features create your pressure cooker (from Section 1)?]
 
 
-#hint[How does the land itself trap them together — and what kind of intimacy does that geographic confinement create?]
+#hint[How does the land itself trap them together, and what kind of intimacy does that geographic confinement create?]
 
 
 #writing-box(
@@ -1274,7 +1374,7 @@ Your pressure cooker doesn't exist in isolation. It's built from the worldbuildi
 #strong[What institution binds them (from Section 14)?]
 
 
-#hint[What rules or structures hold them close — and how does that institutional framework shape what their relationship can look like?]
+#hint[What rules or structures hold them close, and how does that institutional framework shape what their relationship can look like?]
 
 
 #writing-box(
@@ -1298,7 +1398,7 @@ Your pressure cooker doesn't exist in isolation. It's built from the worldbuildi
 #strong[Do cultural obligations force proximity (from Section 3)?]
 
 
-#hint[What cultural expectations keep them in each other's presence — and how does performing those obligations blur into genuine feeling?]
+#hint[What cultural expectations keep them in each other's presence, and how does performing those obligations blur into genuine feeling?]
 
 
 #writing-box(
@@ -1310,7 +1410,7 @@ Your pressure cooker doesn't exist in isolation. It's built from the worldbuildi
 #strong[How does technology level affect confinement (from Section 9)?]
 
 
-#hint[Does the tech level make escape impractical, slow communication to a crawl, or limit the alternatives available — and how does that stretch the timeline of forced proximity?]
+#hint[Does the tech level make escape impractical, slow communication to a crawl, or limit the alternatives available, and how does that stretch the timeline of forced proximity?]
 
 
 #writing-box(

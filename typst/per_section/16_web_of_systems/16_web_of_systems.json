@@ -45,7 +45,7 @@
     },
     {
       "type": "hint",
-      "text": "Pick one decision, rule, or feature in your world — a law, a magical property, a geographic barrier — and trace what happens when it changes. If changing it doesn't affect at least two other systems, it may not be woven into the web yet."
+      "text": "Pick one decision, rule, or feature in your world (a law, a magical property, a geographic barrier) and trace what happens when it changes. If changing it doesn't affect at least two other systems, it may not be woven into the web yet."
     },
     {
       "type": "open_table",
@@ -217,7 +217,7 @@
     },
     {
       "type": "hint",
-      "text": "Pick 2–3 collisions from the table above — or invent your own — and map how they generate obstacles for your romance. The more systems that collide around a single obstacle, the more earned it feels."
+      "text": "Pick 2-3 collisions from the table above, or invent your own, and map how they generate obstacles for your romance. The more systems that collide around a single obstacle, the more earned it feels."
     },
     {
       "type": "open_table",
@@ -230,7 +230,7 @@
         [
           "Magic vs. Law",
           "Feyre's powers make her a political threat in Spring Court",
-          "Tamlin's \"protection\" becomes a cage — love becomes control"
+          "Tamlin's \"protection\" becomes a cage; love becomes control"
         ]
       ],
       "rows": [
@@ -268,7 +268,7 @@
     {
       "type": "mistake_box",
       "title": "Mistake #1: The Decorative Magic Problem",
-      "body": "Magic exists in your world but doesn't affect politics, economy, or daily life. It's a cool power system that floats above the world rather than being embedded in it. Characters use magic in action scenes, but nobody farms with it, heals with it, builds with it, or fights political battles over who controls it. If magic doesn't shape the world, it can't meaningfully shape your characters' obstacles. \"Magic is forbidden\" feels hollow if there's no economic, political, or cultural reason for the ban. Stakes need roots in systems that feel real. **Does magic affect how food is grown? Messages sent? Sick healed? Buildings constructed? Wealth displayed?** *If magic touches daily life, it creates economic winners and losers — and economic inequality is one of the most grounded romantic obstacles you can build. If magic doesn't touch daily life, you need to know why, because that absence shapes your world too.* (Check against Section 9 — Technology, Section 4 — Economy) _______________________________________________________________ _______________________________________________________________ **If magic doesn't affect daily life, why not?** *The reason magic stays out of daily life — rarity, cost, prohibition, cultural taboo — is often more interesting than the magic itself. It reveals who hoards power and why, which connects directly to the obstacles your romance faces.* Too rare? Expensive? Forbidden? Unreliable? Taboo? Hoarded by elites? _______________________________________________________________",
+      "body": "Magic exists in your world but doesn't affect politics, economy, or daily life. It's a cool power system that floats above the world rather than being embedded in it. Characters use magic in action scenes, but nobody farms with it, heals with it, builds with it, or fights political battles over who controls it. If magic doesn't shape the world, it can't meaningfully shape your characters' obstacles. \"Magic is forbidden\" feels hollow if there's no economic, political, or cultural reason for the ban. Stakes need roots in systems that feel real. **Does magic affect how food is grown? Messages sent? Sick healed? Buildings constructed? Wealth displayed?** *If magic touches daily life, it creates economic winners and losers, and economic inequality is one of the most grounded romantic obstacles you can build. If magic doesn't touch daily life, you need to know why, because that absence shapes your world too.* (Check against Section 9, Technology, Section 4, Economy) _______________________________________________________________ _______________________________________________________________ **If magic doesn't affect daily life, why not?** *The reason magic stays out of daily life (rarity, cost, prohibition, cultural taboo) is often more interesting than the magic itself. It reveals who hoards power and why, which connects directly to the obstacles your romance faces.* Too rare? Expensive? Forbidden? Unreliable? Taboo? Hoarded by elites? _______________________________________________________________",
       "fix": "Ask yourself: does magic affect how food is grown, messages sent, sick healed, buildings constructed, wealth displayed? If not, why not? Is it too rare, expensive, forbidden, unreliable, hoarded by elites? Either show magic's impact on daily life or explain convincingly why it doesn't have one. In *The Priory of the Orange Tree*, magic's connection to religion and political legitimacy means it shapes everything from queenship to warfare."
     },
     {
@@ -277,7 +277,7 @@
     {
       "type": "mistake_box",
       "title": "Mistake #2: The Economyless Court",
-      "body": "Elaborate court politics. Scheming nobles, political marriages, power plays. But no sense of where wealth comes from. The kingdom seems to run on intrigue alone. Characters fight for \"power\" without any concrete resources, trade routes, or economic stakes grounding the conflict. Political marriages only feel desperate when the economic consequences of refusal are real. \"Marry him for the alliance\" is weaker than \"Marry him or our people starve when his kingdom blocks the mountain passes our grain comes through.\" Concrete economic stakes make romantic sacrifice feel earned. **What does your kingdom actually produce that makes it wealthy?** *\"Marry him for the alliance\" is weak. \"Marry him or our people starve when his kingdom blocks the mountain passes\" is earned. Concrete economic reality gives romantic sacrifice real weight.* (Reference Section 4 — Economic Foundation) Agricultural land, mines, magical resources, trade routes, manufacturing, tribute from conquered peoples? _______________________________________________________________ _______________________________________________________________ **If in conflict with another power, what are they actually fighting over?** *Not just \"power\" — specific resources, territories, economic advantages. The more concrete the stakes, the more a forced political marriage feels like a genuine sacrifice rather than a plot device.* _______________________________________________________________",
+      "body": "Elaborate court politics. Scheming nobles, political marriages, power plays. But no sense of where wealth comes from. The kingdom seems to run on intrigue alone. Characters fight for \"power\" without any concrete resources, trade routes, or economic stakes grounding the conflict. Political marriages only feel desperate when the economic consequences of refusal are real. \"Marry him for the alliance\" is weaker than \"Marry him or our people starve when his kingdom blocks the mountain passes our grain comes through.\" Concrete economic stakes make romantic sacrifice feel earned. **What does your kingdom actually produce that makes it wealthy?** *\"Marry him for the alliance\" is weak. \"Marry him or our people starve when his kingdom blocks the mountain passes\" is earned. Concrete economic reality gives romantic sacrifice real weight.* (Reference Section 4, Economic Foundation) Agricultural land, mines, magical resources, trade routes, manufacturing, tribute from conquered peoples? _______________________________________________________________ _______________________________________________________________ **If in conflict with another power, what are they actually fighting over?** *Not just \"power,\" but specific resources, territories, economic advantages. The more concrete the stakes, the more a forced political marriage feels like a genuine sacrifice rather than a plot device.* _______________________________________________________________",
       "fix": "Ground political conflicts in economic reality. Wars cost money. Political marriages secure resources. Ask: what does your kingdom actually produce? What are they fighting over, not just \"power\" but specific resources, territories, economic advantages? *Bridgerton* gets this right. The marriage market is grounded in concrete economics: dowries, estates, financial ruin, social climbing. Every match has economic stakes, which is why the romantic choices feel genuinely costly rather than decorative."
     },
     {
@@ -286,8 +286,8 @@
     {
       "type": "mistake_box",
       "title": "Mistake #3: The Costless Magic Problem",
-      "body": "Magic does anything the plot needs with no consistent cost or limitation. When characters need to escape, magic provides. When they need information, magic delivers. But when the plot needs tension, magic conveniently fails or is forgotten. If magic can solve any problem, romantic obstacles dissolve. \"We can't be together because of the magical barrier\" falls apart if magic has already been shown solving bigger problems with no consequence. Limits create stakes, and stakes create romance. **What can't magic do? What problems does it fail to solve?** *If magic can do anything the plot needs, romantic obstacles dissolve the moment a character reaches for their power. The limits you set here are what keep your stakes real — and keep readers trusting your world.* (Reference Section 10 — Magic Limits) _______________________________________________________________ _______________________________________________________________ **Why hasn't magic solved poverty, disease, war, or death?** *The answer reveals what's fundamentally broken in your world — and broken systems are where the most powerful romantic stakes live. If magic could fix everything, there'd be nothing worth fighting for.* _______________________________________________________________",
-      "fix": "Define what magic cannot do and stick to it. Ask: why hasn't magic solved poverty, disease, war, or death? The answer reveals what's fundamentally broken in your world, and what stakes remain meaningful. In *Uprooted*, magic's cost in exhaustion and corruption means every use is a genuine sacrifice."
+      "body": "Magic does anything the plot needs with no consistent cost or limitation. When characters need to escape, magic provides. When they need information, magic delivers. But when the plot needs tension, magic conveniently fails or is forgotten. If magic can solve any problem, romantic obstacles dissolve. \"We can't be together because of the magical barrier\" falls apart if magic has already been shown solving bigger problems with no consequence. Limits create stakes, and stakes create romance. **What can't magic do? What problems does it fail to solve?** *If magic can do anything the plot needs, romantic obstacles dissolve the moment a character reaches for their power. The limits you set here are what keep your stakes real, and keep readers trusting your world.* (Reference Section 10, Magic Limits) _______________________________________________________________ _______________________________________________________________ **Why hasn't magic solved poverty, disease, war, or death?** *The answer reveals what's fundamentally broken in your world, and broken systems are where the most powerful romantic stakes live. If magic could fix everything, there'd be nothing worth fighting for.* _______________________________________________________________",
+      "fix": "Define what magic can't do and stick to it. Ask: why hasn't magic solved poverty, disease, war, or death? The answer reveals what's fundamentally broken in your world, and what stakes remain meaningful. In *Uprooted*, magic's cost in exhaustion and corruption means every use is a genuine sacrifice."
     },
     {
       "type": "divider"
@@ -295,8 +295,8 @@
     {
       "type": "mistake_box",
       "title": "Mistake #4: The Culture Without History Problem",
-      "body": "Rich, detailed cultural customs, taboos, and traditions — but no sense of where they came from. The culture feels invented rather than evolved. Characters follow rules that exist because the author put them there, not because history created them. Cultural obstacles only feel earned when they have roots. \"Our people forbid this\" is weaker than \"Our people forbid this because the last time it happened, thousands died.\" A taboo with historical weight makes defying it feel genuinely dangerous, not just rebellious. **Pick your most important custom or taboo. What created it?** *If you can't trace a custom back to a specific event or pressure, it may feel arbitrary to readers — and arbitrary obstacles create weaker romantic tension.* (Reference Section 7 — History) Historical event, environmental pressure, religious revelation, social need, trauma? _______________________________________________________________ _______________________________________________________________",
-      "fix": "Trace your biggest customs and taboos back to their origin. Every prohibition was once a response to something real — a catastrophe, a war, a famine, a betrayal. Finding that origin deepens both the worldbuilding and the romantic stakes, because now your characters aren't just breaking a rule. They're challenging centuries of trauma."
+      "body": "Rich, detailed cultural customs, taboos, and traditions, but no sense of where they came from. The culture feels invented rather than evolved. Characters follow rules that exist because the author put them there, not because history created them. Cultural obstacles only feel earned when they have roots. \"Our people forbid this\" is weaker than \"Our people forbid this because the last time it happened, thousands died.\" A taboo with historical weight makes defying it feel genuinely dangerous, not just rebellious. **Pick your most important custom or taboo. What created it?** *If you can't trace a custom back to a specific event or pressure, it may feel arbitrary to readers, and arbitrary obstacles create weaker romantic tension.* (Reference Section 7, History) Historical event, environmental pressure, religious revelation, social need, trauma? _______________________________________________________________ _______________________________________________________________",
+      "fix": "Trace your biggest customs and taboos back to their origin. Every prohibition was once a response to something real: a catastrophe, a war, a famine, a betrayal. Finding that origin deepens both the worldbuilding and the romantic stakes, because now your characters aren't just breaking a rule. They're challenging centuries of trauma."
     },
     {
       "type": "divider"
@@ -345,7 +345,7 @@
     },
     {
       "type": "prose",
-      "text": "**Who controls access — and how did they get control?**"
+      "text": "**Who controls access, and how did they get control?**"
     },
     {
       "type": "prose",
@@ -362,20 +362,33 @@
     },
     {
       "type": "heading4",
-      "text": "How does resource control create inequality, tension, or power imbalance?"
+      "text": "How does resource control create inequality, tension, or power imbalance between your characters?"
     },
     {
       "type": "writing_box",
-      "label": "How does resource control create inequality, tension, or power imbalance?",
+      "label": "How does resource control create inequality, tension, or power imbalance between your characters?",
       "height": "100pt"
     },
     {
       "type": "prose",
-      "text": "**Romantasy Connection:** Does resource scarcity or control affect your characters' relationship?"
+      "text": "**What happens to ordinary people when this resource runs short?**"
+    },
+    {
+      "type": "hint",
+      "text": "Scarcity at the ground level (empty markets, rationed water, families choosing which child to feed) gives your world texture and gives your romance real stakes. If resource conflict only exists at the political level, it feels abstract."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "prose",
-      "text": "Does one control something the other needs? Does fighting over resources force proximity? Does an economic alliance require their union?"
+      "text": "**How does resource scarcity or control affect your characters' relationship?**"
+    },
+    {
+      "type": "hint",
+      "text": "Hint: Does one character control something the other needs? Does fighting over resources force proximity? Does an economic alliance require their union?"
     },
     {
       "type": "writing_box",
@@ -420,7 +433,7 @@
           "Emotional awareness of partner; shared power; physical pull",
           "End of book 2, after trust is built",
           "Pain when denied; vulnerability to enemies",
-          "Yes — Feyre can accept or reject it"
+          "Yes, Feyre can accept or reject it"
         ]
       ],
       "rows": [
@@ -448,7 +461,7 @@
     },
     {
       "type": "hint",
-      "text": "Readers trust bonds that deepen chemistry the characters have already built. If the bond originates feelings, your characters should question and resist it — choosing love on their own terms."
+      "text": "Readers trust bonds that deepen chemistry the characters have already built. If the bond originates feelings, your characters should question and resist it, choosing love on their own terms."
     },
     {
       "type": "writing_box",
@@ -457,7 +470,7 @@
     },
     {
       "type": "prose",
-      "text": "**Does the bond raise consent or agency concerns — and how do your characters grapple with that?**"
+      "text": "**What consent problems does the bond create, and how do your characters deal with them?**"
     },
     {
       "type": "hint",
@@ -481,16 +494,28 @@
       "text": "**Which other worldbuilding systems (politics, culture, religion, history, economy) does your magical bond collide with? For each relevant system, describe how it interacts with the bond and what tension that creates.**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
       "text": "Testing Magic's Economic Impact"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 10",
-      "note": "Magic System; Section 4 — Economy"
+      "type": "hint",
+      "text": "Reference: Section 10, Magic System; Section 4, Economy"
     },
     {
       "type": "prose",
@@ -502,7 +527,7 @@
     },
     {
       "type": "hint",
-      "text": "Who has access to magic determines who has power — and power imbalances are the engine of romantic tension."
+      "text": "Who has access to magic determines who has power, and power imbalances are the engine of romantic tension."
     },
     {
       "type": "prose",
@@ -519,7 +544,7 @@
     },
     {
       "type": "hint",
-      "text": "If magic generates wealth, the gap between magical haves and non-magical have-nots becomes an economic divide — and economic divides create some of the most grounded romantic obstacles."
+      "text": "If magic generates wealth, the gap between magical haves and non-magical have-nots becomes an economic divide, and economic divides create some of the most grounded romantic obstacles."
     },
     {
       "type": "prose",
@@ -536,7 +561,7 @@
     },
     {
       "type": "hint",
-      "text": "The answer to this question reveals what's fundamentally unfair about your world — and unfairness is where romantic stakes live."
+      "text": "The answer to this question reveals what's fundamentally unfair about your world, and unfairness is where romantic stakes live."
     },
     {
       "type": "prose",
@@ -549,15 +574,15 @@
     },
     {
       "type": "prose",
-      "text": "**What jobs exist because of magic — or were made obsolete by it?**"
+      "text": "**What jobs exist because of magic, or were made obsolete by it?**"
     },
     {
       "type": "hint",
-      "text": "Labour disruption creates class resentment, displaced communities, and characters whose identities are tied to skills that no longer matter — all rich ground for romance across a divide."
+      "text": "Labour disruption creates class resentment, displaced communities, and characters whose identities are tied to skills that no longer matter. All rich ground for romance across a divide."
     },
     {
       "type": "prose",
-      "text": "(Reference Section 4 for labor and economic structures)"
+      "text": "(Reference Section 4 for labour and economic structures)"
     },
     {
       "type": "writing_box",
@@ -570,7 +595,7 @@
     },
     {
       "type": "hint",
-      "text": "If magical soldiers are worth more, your love interest's value might be measured in military utility rather than personhood — and loving someone the state considers a weapon creates its own tension."
+      "text": "If magical soldiers are worth more, your love interest's value might be measured in military utility rather than personhood, and loving someone the state considers a weapon creates its own tension."
     },
     {
       "type": "prose",
@@ -587,11 +612,24 @@
     },
     {
       "type": "prose",
-      "text": "**Romantasy Connection:** How does the magic economy affect your romance?"
+      "text": "**What does magic look, sound, smell, or feel like when someone uses it?**"
+    },
+    {
+      "type": "hint",
+      "text": "Sensory details make magic real to your reader. If magic has a visible glow, a distinctive scent, or a physical sensation, it also becomes something that can give your characters away, create intimacy through shared experience, or mark them as different."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "prose",
-      "text": "Does one profit from magic while the other suffers? Economic inequality between magical and non-magical? Does magical ability determine social class and therefore marriageability?"
+      "text": "**How does the magic economy affect your romance?**"
+    },
+    {
+      "type": "hint",
+      "text": "Hint: Does one character profit from magic while the other suffers? Does magical ability determine social class and therefore marriageability?"
     },
     {
       "type": "writing_box",
@@ -619,20 +657,19 @@
     },
     {
       "type": "prose",
-      "text": "What a culture values most — honour, loyalty, freedom, magical power, wealth, lineage — shapes what characters believe about themselves and what they think love should look like. Those values should show up in the laws and political structures you've built: a culture that prizes honour will have duelling laws; one that prizes lineage will have inheritance complications. The values from Section 3 should manifest in the laws from Section 5."
+      "text": "What a culture values most (honour, loyalty, freedom, magical power, wealth, lineage) shapes what characters believe about themselves and what they think love should look like. Those values should show up in the laws and political structures you've built: a culture that prizes honour will have duelling laws; one that prizes lineage will have inheritance complications. The values from Section 3 should manifest in the laws from Section 5."
     },
     {
       "type": "prose",
-      "text": "Equally important are the taboos. The best taboos have roots that go deep — they exist because breaking them once caused real harm. Magic might be forbidden because mages once conquered. Inter-species relationships might be taboo because a past war created lasting prejudice. When taboos connect to practical realities, cultural obstacles feel earned rather than arbitrary. And when your romance violates or challenges those values, the most painful kind of obstacle emerges: the one where a character must choose between who they love and who they are."
+      "text": "Equally important are the taboos. The best taboos have roots that go deep; they exist because breaking them once caused real harm. Magic might be forbidden because mages once conquered. Inter-species relationships might be taboo because a past war created lasting prejudice. When taboos connect to practical realities, cultural obstacles feel earned rather than arbitrary. And when your romance violates or challenges those values, the most painful kind of obstacle emerges: the one where a character must choose between who they love and who they are."
     },
     {
       "type": "heading3",
       "text": "Testing Political Consistency"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 5",
-      "note": "Government, Power & Law"
+      "type": "hint",
+      "text": "Reference: Section 5, Government, Power & Law"
     },
     {
       "type": "prose",
@@ -688,11 +725,24 @@
     },
     {
       "type": "prose",
-      "text": "**Romantasy Connection:** Which law creates the biggest obstacle for your romance?"
+      "text": "**How are laws enforced in your world? Who does the enforcing?**"
+    },
+    {
+      "type": "hint",
+      "text": "Guards, magistrates, magical wards, religious police, community shaming? The enforcement mechanism determines how easy or hard it is for your characters to break a rule, and how intimate the risk of getting caught feels."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "prose",
-      "text": "Is their relationship illegal, politically inconvenient, or magically dangerous?"
+      "text": "**Which law creates the biggest obstacle for your romance?**"
+    },
+    {
+      "type": "hint",
+      "text": "Hint: Is their relationship illegal, politically inconvenient, or magically dangerous?"
     },
     {
       "type": "writing_box",
@@ -705,7 +755,7 @@
     },
     {
       "type": "prose",
-      "text": "Not just \"scandal\" — actual legal punishment (reference Section 5 for justice system):"
+      "text": "Not just \"scandal,\" but actual legal punishment (reference Section 5 for justice system):"
     },
     {
       "type": "writing_box",
@@ -720,9 +770,8 @@
       "text": "Testing Cultural Consistency"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 3",
-      "note": "Culture, Customs & Daily Life"
+      "type": "hint",
+      "text": "Reference: Section 3, Culture, Customs & Daily Life"
     },
     {
       "type": "prose",
@@ -730,7 +779,7 @@
     },
     {
       "type": "prose",
-      "text": "Honor, loyalty, freedom, magical power, wealth, lineage, martial prowess, scholarship?"
+      "text": "Honour, loyalty, freedom, magical power, wealth, lineage, martial prowess, scholarship?"
     },
     {
       "type": "writing_box",
@@ -747,7 +796,7 @@
     },
     {
       "type": "prose",
-      "text": "If honor is valued — dueling laws? If lineage matters — inheritance complications? If magical power is valued — special legal status for mages?"
+      "text": "If honour is valued, duelling laws? If lineage matters, inheritance complications? If magical power is valued, special legal status for mages?"
     },
     {
       "type": "writing_box",
@@ -756,7 +805,7 @@
     },
     {
       "type": "prose",
-      "text": "**What is taboo or shameful — and why?**"
+      "text": "**What's taboo or shameful, and why?**"
     },
     {
       "type": "prose",
@@ -777,7 +826,7 @@
     },
     {
       "type": "prose",
-      "text": "If magic is forbidden — because mages once conquered? If inter-species relationships are taboo — past war created prejudice? If showing emotion is shameful — harsh environment requires stoicism?"
+      "text": "If magic is forbidden, because mages once conquered? If inter-species relationships are taboo, past war created prejudice? If showing emotion is shameful, harsh environment requires stoicism?"
     },
     {
       "type": "writing_box",
@@ -786,11 +835,11 @@
     },
     {
       "type": "prose",
-      "text": "**Romantasy Connection:** How does your romance violate or challenge cultural values?"
+      "text": "**What cultural value does your romance threaten?**"
     },
     {
-      "type": "prose",
-      "text": "Does their relationship represent something the culture fears? Does choosing love mean rejecting cultural identity?"
+      "type": "hint",
+      "text": "Hint: Does their relationship represent something the culture fears? Does choosing love mean rejecting cultural identity?"
     },
     {
       "type": "writing_box",
@@ -814,7 +863,7 @@
     },
     {
       "type": "prose",
-      "text": "Poppy's role as the Maiden in *From Blood and Ash* is defined by religious prohibition: her life is \"solitary, never to be touched, never to experience pleasure.\" Falling in love with Hawke isn't just forbidden. It's blasphemous. Each stolen moment is a moment of divine transgression, and that weight makes each moment feel dangerously earned. In *The Priory of the Orange Tree*, Riva's vow of celibacy to the Nameless Order pits his faith against his heart, and when he chooses love over his vow, it's an act of individual autonomy and a significant moment in defining what's sacred. Obstacles like these are not arbitrary. They represent fundamental conflicts of identity in which the choice to love is also the choice to redefine what's holy."
+      "text": "Poppy's role as the Maiden in *From Blood and Ash* is defined by religious prohibition: her life is \"solitary, never to be touched, never to experience pleasure.\" Falling in love with Hawke isn't just forbidden. It's blasphemous. Each stolen moment is a moment of divine transgression, and that weight makes each moment feel dangerously earned. In *The Priory of the Orange Tree*, Riva's vow of celibacy to the Nameless Order pits his faith against his heart, and when he chooses love over his vow, it's an act of individual autonomy and a significant moment in defining what's sacred. Obstacles like these aren't arbitrary. They represent fundamental conflicts of identity in which the choice to love is also the choice to redefine what's holy."
     },
     {
       "type": "prose",
@@ -831,7 +880,7 @@
     },
     {
       "type": "hint",
-      "text": "These are the specific mechanisms that create romantic obstacles — vows of celibacy, prohibitions on cross-faction unions, arranged marriage requirements, purity rituals. Map the restrictions that matter most for your romance."
+      "text": "These are the specific mechanisms that create romantic obstacles: vows of celibacy, prohibitions on cross-faction unions, arranged marriage requirements, purity rituals. Map the restrictions that matter most for your romance."
     },
     {
       "type": "open_table",
@@ -885,14 +934,27 @@
     },
     {
       "type": "hint",
-      "text": "This is one of the richest conflicts in romantasy. The strongest versions make both bonds feel legitimate — so breaking the sacred one costs something real."
+      "text": "This is one of the richest conflicts in romantasy. The strongest versions make both bonds feel legitimate, so breaking the sacred one costs something real."
     },
     {
       "type": "prose",
       "text": "**If your world distinguishes between 'sacred bonds' (arranged, ordained, prophesied) and 'chosen bonds' (personal love), describe both, why they conflict, and what breaking the sacred bond costs.**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -900,7 +962,7 @@
     },
     {
       "type": "hint",
-      "text": "Religious enforcers carry both institutional power and moral authority — defying them feels weightier than defying a political figure alone. The High Priest in FBAA and the Celestial Emperor in Daughter of the Moon Goddess aren't just political obstacles. They claim divine mandate."
+      "text": "Religious enforcers carry both institutional power and moral authority, and defying them feels weightier than defying a political figure alone. The High Priest in FBAA and the Celestial Emperor in Daughter of the Moon Goddess aren't just political obstacles. They claim divine mandate."
     },
     {
       "type": "writing_box",
@@ -913,7 +975,7 @@
     },
     {
       "type": "hint",
-      "text": "Divine intervention can work for or against the lovers. If your world has active deities, their stance on the romance — blessing, opposing, or engineering it — raises stakes significantly."
+      "text": "Divine intervention can work for or against the lovers. If your world has active deities, their stance on the romance (blessing, opposing, or engineering it) raises stakes significantly."
     },
     {
       "type": "writing_box",
@@ -926,14 +988,27 @@
     },
     {
       "type": "hint",
-      "text": "The best faith-based romantic obstacles are ones where choosing love requires the character to redefine what's sacred — not abandon faith entirely, but find a deeper truth within it."
+      "text": "The best faith-based romantic obstacles are ones where choosing love requires the character to redefine what's sacred, not abandon faith entirely, but find a deeper truth within it."
     },
     {
       "type": "prose",
       "text": "**How does your romance interact with your world's faith system? Does it violate a religious law, break a sacred vow, fulfil an unexpected prophecy, prove a doctrine wrong, or challenge a corrupt authority? What does this cost the character, and what does it reveal about the faith?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -952,9 +1027,8 @@
       "text": "Testing Daily Life Consistency"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 3",
-      "note": "Culture; Section 9 — Technology & Infrastructure"
+      "type": "hint",
+      "text": "Reference: Section 3, Culture; Section 9, Technology & Infrastructure"
     },
     {
       "type": "prose",
@@ -993,11 +1067,11 @@
     },
     {
       "type": "prose",
-      "text": "**Romantasy Connection:** What daily life difference creates friction?"
+      "text": "**What daily life difference creates friction between your characters?**"
     },
     {
-      "type": "prose",
-      "text": "Different social classes? One takes for granted what the other struggles for? What misunderstanding arises from different lived experiences?"
+      "type": "hint",
+      "text": "Hint: Different social classes? One takes for granted what the other struggles for? What misunderstanding arises from different lived experiences?"
     },
     {
       "type": "writing_box",
@@ -1010,7 +1084,7 @@
     },
     {
       "type": "hint",
-      "text": "These aren't the big political or magical differences — they're the mundane ones. What feels normal to one and alien to the other? These small frictions reveal how far apart two people really are, and bridging them is part of falling in love."
+      "text": "These aren't the big political or magical differences; they're the mundane ones. What feels normal to one and alien to the other? These small frictions reveal how far apart two people really are, and bridging them is part of falling in love."
     },
     {
       "type": "open_table",
@@ -1050,6 +1124,19 @@
       ],
       "row_height": "55pt",
       "fill_strategy": "wider_rows"
+    },
+    {
+      "type": "prose",
+      "text": "**What is one small, sensory detail from your protagonist's daily life that the love interest would find strange or fascinating?**"
+    },
+    {
+      "type": "hint",
+      "text": "Hint: Think about food, sleep, hygiene, greetings, personal space. The most memorable romantic moments in fantasy often come from these small collisions."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "divider"
@@ -1095,7 +1182,20 @@
       "text": "**What is your biggest romantic obstacle? Trace it backward: which worldbuilding systems (politics, history, culture, magic, economy, religion) generate this obstacle, and how do they compound to make it feel earned?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
@@ -1118,7 +1218,7 @@
           "Anti-magic law (politics)",
           "History",
           "Rooted in a past mage rebellion",
-          "Culture — prejudice against mage-born"
+          "Culture: prejudice against mage-born"
         ]
       ],
       "rows": [
@@ -1150,7 +1250,7 @@
     },
     {
       "type": "hint",
-      "text": "The event doesn't need to be dramatic — a famine, a discovery, a treaty can reshape multiple systems at once."
+      "text": "The event doesn't need to be dramatic; a famine, a discovery, a treaty can reshape multiple systems at once."
     },
     {
       "type": "writing_box",
@@ -1175,7 +1275,20 @@
       "text": "**Choose one major worldbuilding element and test its connections. How does it affect geography, economy, politics, culture, and your romance? If it doesn't connect to at least three of these, it might be decorative.**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "hint",
@@ -1237,7 +1350,7 @@
     },
     {
       "type": "prose",
-      "text": "**Does defeating the antagonist require changing the system — or just removing one person?**"
+      "text": "**Does defeating the antagonist require changing the system, or just removing one person?**"
     },
     {
       "type": "prose",
@@ -1254,7 +1367,7 @@
     },
     {
       "type": "hint",
-      "text": "Map the systemic changes required for your protagonists' victory to be lasting — not just personal. If removing the antagonist leaves the oppressive system intact, the happy ending hasn't truly been earned."
+      "text": "Map the systemic changes required for your protagonists' victory to be lasting, not just personal. If removing the antagonist leaves the oppressive system intact, the happy ending hasn't truly been earned."
     },
     {
       "type": "writing_box",
@@ -1275,6 +1388,19 @@
       "height": "100pt"
     },
     {
+      "type": "prose",
+      "text": "**How does your antagonist's existence make the romance harder -- not just the plot harder?**"
+    },
+    {
+      "type": "hint",
+      "text": "Hint: The best antagonists don't just threaten the characters' lives. They threaten the relationship itself -- by representing the worldview the characters would have to share to stay safe, or by embodying the cost of the characters' defiance."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
       "type": "divider"
     },
     {
@@ -1283,7 +1409,7 @@
     },
     {
       "type": "prose",
-      "text": "The struggle between two good things creates interesting choices for characters. The natural result of connected systems is the trade-offs that drive the most compelling romantic tension. Not \"good vs. evil\" but \"good vs. good\". Two things the character values that cannot coexist."
+      "text": "The struggle between two good things creates interesting choices for characters. The natural result of connected systems is the trade-offs that drive the most compelling romantic tension. Not \"good vs. evil\" but \"good vs. good\". Two things the character values that can't coexist."
     },
     {
       "type": "prose",
@@ -1326,11 +1452,11 @@
     },
     {
       "type": "prose",
-      "text": "**Do they face the same trade-off differently, or different trade-offs entirely?**"
+      "text": "**Do they face the same trade-off from opposite sides, or completely different ones?**"
     },
     {
       "type": "hint",
-      "text": "When protagonists face the same dilemma from opposite sides, every conversation becomes charged. When they face different dilemmas, they struggle to understand each other's stakes. Both create tension — but the romantic dynamics differ."
+      "text": "When protagonists face the same dilemma from opposite sides, every conversation becomes charged. When they face different dilemmas, they struggle to understand each other's stakes. Both create tension, but the romantic dynamics differ."
     },
     {
       "type": "writing_box",
@@ -1348,7 +1474,7 @@
     },
     {
       "type": "prose",
-      "text": "**What does each character choose — and what does that choice cost?**"
+      "text": "**What does each character choose, and what does that choice cost?**"
     },
     {
       "type": "writing_box",
@@ -1407,7 +1533,7 @@
     },
     {
       "type": "prose",
-      "text": "Obstacle 1 exists because of (which law, cultural value, magical rule, political reality, economic pressure — reference specific sections):"
+      "text": "Obstacle 1 exists because of (which law, cultural value, magical rule, political reality, economic pressure; reference specific sections):"
     },
     {
       "type": "writing_box",
@@ -1459,7 +1585,7 @@
     },
     {
       "type": "prose",
-      "text": "Example: A magical bond (Section 10) required by law (Section 5) because historically bonded pairs were weapons (Section 7) and now the kingdom is at war (Section 5 — warfare)."
+      "text": "Example: A magical bond (Section 10) required by law (Section 5) because historically bonded pairs were weapons (Section 7) and now the kingdom is at war (Section 5, warfare)."
     },
     {
       "type": "writing_box",
@@ -1553,11 +1679,11 @@
     },
     {
       "type": "prose",
-      "text": "**Does their relationship model something new?**"
+      "text": "**What new possibility does their relationship show the world?**"
     },
     {
-      "type": "prose",
-      "text": "A new kind of alliance? Proof that old prejudices were wrong? A magical possibility no one knew existed? A path others might follow?"
+      "type": "hint",
+      "text": "Hint: A new kind of alliance? Proof that old prejudices were wrong? A magical possibility no one knew existed? A path others might follow?"
     },
     {
       "type": "writing_box",
@@ -1575,7 +1701,7 @@
     },
     {
       "type": "prose",
-      "text": "**What work remains after their personal story ends?**"
+      "text": "**What does the world look like one year after their story ends? What has changed, and what still needs changing?**"
     },
     {
       "type": "prose",
@@ -1640,6 +1766,18 @@
       "text": "Productive tension gives difficult choices and interesting conflict. Plot holes make readers stop trusting the world."
     },
     {
+      "type": "open_table",
+      "headers": [
+        "Contradiction",
+        "Productive Tension or Plot Hole?",
+        "Your Fix (if plot hole)"
+      ],
+      "example_rows": [],
+      "rows": [],
+      "row_height": "55pt",
+      "fill_strategy": "wider_rows"
+    },
+    {
       "type": "prose",
       "text": "If it's a plot hole, you need to:"
     },
@@ -1650,6 +1788,15 @@
         "Add a limitation explaining why both can exist",
         "Make the contradiction itself part of the plot (why doesn't anyone notice this doesn't make sense?)"
       ]
+    },
+    {
+      "type": "heading4",
+      "text": "Which contradiction, if left unfixed, would most damage your reader's trust in your romance's stakes?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Which contradiction, if left unfixed, would most damage your reader's trust in your romance's stakes?",
+      "height": "80pt"
     },
     {
       "type": "divider"
@@ -1713,7 +1860,20 @@
       "text": "**For each major system you've built (magic, politics, economy, culture, religion, geography, history), does it connect to your romance? For any that don't, either strengthen the connection or acknowledge it exists for atmosphere.**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "prose",
