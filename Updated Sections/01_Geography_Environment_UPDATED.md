@@ -745,7 +745,7 @@ _______________________________________________________________
 
 > **Cross-check:** Do your borders match the political system you'll build in Section 5? Your geography shapes who holds power, so these should feel connected.
 
-> **Checkpoint: Constraints & Boundaries.** You've defined what makes travel difficult, what seasons allow or prevent, and what borders divide peoples. Do these constraints create the friction your romance needs?
+> **Checkpoint: Constraints & Boundaries.** You've defined what makes travel difficult, what seasons allow or prevent, and what borders divide peoples. Do these constraints create the friction your romance needs? If you're nodding, you're in good shape.
 
 ---
 
@@ -1005,7 +1005,7 @@ Remember: when characters finally *could* leave but choose to stay, that choice 
 
 ---
 
-> **Checkpoint: Proximity & Distance.** You've established how far apart your characters are and what isolates them. Does the geography force them together, keep them apart, or both? Is the pressure consistent?
+> **Checkpoint: Proximity & Distance.** You've established how far apart your characters are and what isolates them. Does your geography force them together, keep them apart, or both? Is the pressure consistent? Both at once is perfectly fine, by the way.
 
 ---
 ## Geography as Emotional Landscape

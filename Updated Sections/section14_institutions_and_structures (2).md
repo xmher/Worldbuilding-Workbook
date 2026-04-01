@@ -23,7 +23,7 @@ This is the grip. The institution's rules become the grammar of the love story. 
 
 **How do your characters show they care without getting caught?**
 
-*The institution doesn't just forbid the relationship — it determines what the relationship looks like. Court characters love in coded glances; military characters love through orders and obedience; academy characters love through competition and grudging admiration. Think about what specific behaviours, rituals, or workarounds your institution forces them to adopt.*
+*The institution doesn't just forbid the relationship; it determines what the relationship looks like. Court characters love in coded glances; military characters love through orders and obedience; academy characters love through competition and grudging admiration. Think about what specific behaviours, rituals, or workarounds your institution forces them to adopt.*
 
 The way they communicate feelings (coded, stolen, indirect):
 
@@ -84,7 +84,7 @@ You don't necessarily need your institution to develop into its "default" trope.
 
 **What tropes does your institution naturally generate?**
 
-*Your institutional setting will push toward certain romantic dynamics. Knowing which ones helps you lean into your setting's strengths — or deliberately subvert them. Tick all that apply, then note which one(s) you're using.*
+*Your institutional setting will push toward certain romantic dynamics. Knowing which ones helps you lean into your setting's strengths, or deliberately subvert them. Tick all that apply, then note which one(s) you're using.*
 
 | Trope | Academy | Court | Military | Religious | Economic | Captivity | Arranged Marriage |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -209,7 +209,7 @@ _______________________________________________________________
 
 **What happens to students who wash out or fail?**
 
-*This is part of the institution's grip. If failure means death, exile, or disgrace, the stakes of every test and trial feed directly into the romance — your characters can't afford to be distracted by each other, and yet they are.*
+*This is part of the institution's grip. If failure means death, exile, or disgrace, the stakes of every test and trial feed directly into the romance. Your characters can't afford to be distracted by each other, and yet they are.*
 
 _______________________________________________________________
 
@@ -259,7 +259,7 @@ _______________________________________________________________
 
 **How did the people in charge get their positions?**
 
-*Merit, bloodline, political appointment, magical ability? This shapes whether the academy's authority feels earned or imposed — and whether your characters respect or resent it.*
+*Merit, bloodline, political appointment, magical ability? This shapes whether the academy's authority feels earned or imposed, and whether your characters respect or resent it.*
 
 _______________________________________________________________
 
@@ -267,7 +267,7 @@ _______________________________________________________________
 
 **How do ordinary students interact with the academy on a typical day?**
 
-*Map out the daily rhythm: classes, meals, free time, curfew. The schedule is the skeleton of your characters' lives — and the gaps in the schedule are where stolen moments happen.*
+*Map out the daily rhythm: classes, meals, free time, curfew. The schedule is the skeleton of your characters' lives, and the gaps in the schedule are where stolen moments happen.*
 
 _______________________________________________________________
 
@@ -275,7 +275,7 @@ _______________________________________________________________
 
 **What other institutions exist alongside the academy?**
 
-*Healing houses, religious chaplains, supply guilds, courts that oversee disputes? Knowing what surrounds the academy reveals where your characters might find allies, resources, or escape routes — and where new conflicts arise.*
+*Healing houses, religious chaplains, supply guilds, courts that oversee disputes? Knowing what surrounds the academy reveals where your characters might find allies, resources, or escape routes, and where new conflicts arise.*
 
 _______________________________________________________________
 
@@ -283,7 +283,7 @@ _______________________________________________________________
 
 **How has the academy changed over time?**
 
-*Was it once more open, or more brutal? Did a past scandal reshape the rules? Institutions with a history feel real — and old cracks in the system are exactly the kind of loopholes your characters might exploit.*
+*Was it once more open, or more brutal? Did a past scandal reshape the rules? Institutions with a history feel real, and old cracks in the system are exactly the kind of loopholes your characters might exploit.*
 
 _______________________________________________________________
 
@@ -403,7 +403,7 @@ _______________________________________________________________
 
 **What does a typical day at court look like for someone without power?**
 
-*Servants, minor nobles, petitioners — they all navigate the same political waters with far less protection. Their daily experience reveals how the court really works, and your characters may depend on these people more than they realise.*
+*Servants, minor nobles, petitioners: they all navigate the same political waters with far less protection. Their daily experience reveals how the court really works, and your characters may depend on these people more than they realise.*
 
 _______________________________________________________________
 
@@ -411,7 +411,7 @@ _______________________________________________________________
 
 **How has the court changed under its current ruler?**
 
-*Was there a recent shift in power, a purge of old families, or a loosening of old restrictions? Courts in transition are full of opportunity and danger — exactly the conditions that push people together.*
+*Was there a recent shift in power, a purge of old families, or a loosening of old restrictions? Courts in transition are full of opportunity and danger, exactly the conditions that push people together.*
 
 _______________________________________________________________
 
@@ -441,7 +441,7 @@ _______________________________________________________________
 
 **How imminent is the danger?**
 
-*Cold war creates tension through paranoia and espionage — your characters steal intimacy in the gaps between suspicion. Active combat creates urgency through proximity to death — "we might not survive this" accelerates every confession. Each generates a different romantic flavour.*
+*Cold war creates tension through paranoia and espionage; your characters steal intimacy in the gaps between suspicion. Active combat creates urgency through proximity to death; "we might not survive this" accelerates every confession. Each generates a different romantic flavour.*
 
 Cold war (tension, espionage) or active combat (battles, sieges)?
 
@@ -459,7 +459,7 @@ _______________________________________________________________
 
 **What's each character's role?**
 
-*Their military roles define the power dynamic. A commander and a soldier under her command face very different romantic obstacles than two soldiers of equal rank. The role also determines what each character has access to — information, movement, authority — and what they risk by loving the wrong person.*
+*Their military roles define the power dynamic. A commander and a soldier under her command face very different romantic obstacles than two soldiers of equal rank. The role also determines what each character has access to (information, movement, authority) and what they risk by loving the wrong person.*
 
 Soldier, commander, medic, strategist, prisoner, spy, conscript, mercenary, support staff?
 
@@ -489,7 +489,7 @@ _______________________________________________________________
 
 **Who commands this military, and how did they get that authority?**
 
-*Hereditary generals, elected war leaders, magical champions? The command structure shapes whether orders feel legitimate or resented — and whether defying them feels heroic or reckless.*
+*Hereditary generals, elected war leaders, magical champions? The command structure shapes whether orders feel legitimate or resented, and whether defying them feels heroic or reckless.*
 
 _______________________________________________________________
 
@@ -497,7 +497,7 @@ _______________________________________________________________
 
 **What happens to soldiers who can no longer fight?**
 
-*Injured, traumatised, magically spent — where do they go? This reveals whether the military values people or just uses them, and it's a real fear your characters carry into every battle.*
+*Injured, traumatised, magically spent: where do they go? This reveals whether the military values people or just uses them, and it's a real fear your characters carry into every battle.*
 
 _______________________________________________________________
 

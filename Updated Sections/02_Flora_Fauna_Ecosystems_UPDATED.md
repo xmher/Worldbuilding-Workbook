@@ -734,7 +734,7 @@ _______________________________________________________________
 
 ---
 ### ✦ Checkpoint: Danger & Magic
-*Look at your dangerous creatures, magical creatures, and creature bonds together. Does the level of danger feel consistent across your world? If magic affects your ecosystem, does it create as many problems as it solves?*
+*Look at your dangerous creatures, magical creatures, and creature bonds together. Does the level of danger feel consistent across your world? If magic affects your ecosystem, it should create as many problems as it solves. That's where the good stories live!*
 ---
 
 *With your creatures and bonds established, let's look at the larger forces that shape your world from above: weather, seasons, and the pressure they put on everyone in it.*

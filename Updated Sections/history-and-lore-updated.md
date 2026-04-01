@@ -13,7 +13,7 @@ But bedrock is just old catastrophe, compressed.
 
 That's why history is such a valuable tool in the romantasy genre. Your characters aren't fighting a war. They're fighting the *sediment* of a war that ended three hundred years ago, compressed into family names and border lines and the phrase "we don't trust their kind." They didn't choose to hate each other. They inherited so much hatred from three centuries back it feels like geology. And when they fall in love anyway, they're not just going against their families. They're cracking bedrock.
 
-The deeper the sediment is, the harder it will be to move. A grudge from last year can probably get talked out. But a grudge from five hundred years back has been compressed into identity; it's not something you believe, it's something you *are*. That's why historical enemies-to-lovers is often a better read than personal enemies-to-lovers. The barrier isn't something to be clarified or discussed. It's an entire worldview to dismantle.
+The deeper the sediment is, the harder it'll be to move. A grudge from last year can probably get talked out. But a grudge from five hundred years back has been compressed into identity; it's not something you believe, it's something you *are*. That's why historical enemies-to-lovers is often a better read than personal enemies-to-lovers. The barrier isn't something to be clarified or discussed. It's an entire worldview to dismantle.
 
 The Wall in *ACOTAR* is sediment made literal: a physical ward erected after a five-hundred-year-old war, so old by now that Feyre grew up treating it as geography rather than politics. In *Fourth Wing*, the Tyrrish rebellion happened one generation ago, but it's already compressed into identity. Xaden is "a rebel's son" before he's anything else, and he carries the 107 scars that turned a political event into a bodily fact. And in *Mistborn*, the Lord Ruler's ascension happened a thousand years ago and has been compressed into religion, class structure, and the very biology of the skaa. That's the deepest sediment in romantasy; so old it feels like the laws of nature.
 
@@ -764,7 +764,7 @@ Having famous ancestry can create expectations and obligations. Inheriting a leg
 &nbsp;
 
 **Does either character hold a position once held by someone legendary?**
-*What is the position, who held it before, and what shadow does that cast? Did the predecessor succeed or fail?*
+*What's the position, who held it before, and what shadow does that cast? Did the predecessor succeed or fail?*
 
 *(Write your answer below)*
 
@@ -901,7 +901,7 @@ _______________________________________________________________
 Objects of the past can hold many things -- weapons that killed, rings that bound, letters that told the truth. Objects can turn history into reality and force characters to have to deal with their past in a physical sense, and not just an emotional one.
 
 **What object from the past does your protagonist possess or know about?**
-*What is its history, and what does it mean to them?*
+*What's its history, and what does it mean to them?*
 
 *(Write your answer below)*
 
@@ -912,7 +912,7 @@ Objects of the past can hold many things -- weapons that killed, rings that boun
 &nbsp;
 
 **What object from the past does your love interest possess or know about?**
-*What is its history, and what does it mean to them?*
+*What's its history, and what does it mean to them?*
 
 *(Write your answer below)*
 
@@ -1157,7 +1157,7 @@ The best history-as-weapon scenes occur when a character uses the past to throw 
 
 **What historical ammunition does your love interest carry?**
 
-**What is the love interest's trump card?**
+**What's the love interest's trump card?**
 *What historical fact can they invoke that the protagonist has no answer for? When do they reach for it, and what are they really afraid of?*
 
 *(Write your answer below)*
@@ -1282,7 +1282,7 @@ A reconciliation that comes at no cost is unearned. The cost could include exile
 | 5. | | |
 
 **What does each character lose, sacrifice, or fundamentally change to be together?**
-*The larger the historical weight you have built, the larger the price tag needs to be.*
+*The larger the historical weight you've built, the larger the price tag needs to be.*
 
 *(Write your answer below)*
 

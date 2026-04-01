@@ -573,7 +573,7 @@ Daily routines establish the rhythm of life. Family is what gives that rhythm it
 
 ## Family Structure & Relationships
 
-Your characters' family is where their identity is formed prior to the story beginning; and also what they will be answering to once the story has begun. Expectations from their parents, siblings and other relatives will have commitments that conflict with those of romantic interests. In romantasy, family often acts as the first and most personal obstacle to finding true love.
+Your characters' family is where their identity is formed prior to the story beginning; and also what they'll be answering to once the story has begun. Expectations from their parents, siblings and other relatives will have commitments that conflict with those of romantic interests. In romantasy, family often acts as the first and most personal obstacle to finding true love.
 
 A character caught between their feelings for another person and their obligation to their family is making a decision that your readers will relate to on a visceral level. You can show family dynamics through the little things: who speaks first at dinner, who always gives in to whom, whose opinion really matters even if there isn't an established order of authority. Approval from family members (and the lack of it) can speed up or kill a romance, and when a love interest gains the acceptance of a difficult parent, the reader also views this as a victory.
 
@@ -613,7 +613,7 @@ _______________________________________________________________
 
 *Whose approval matters? Who will try to interfere? What power does a parent or elder hold over the match?*
 
-**What is each character's family's stance on the relationship, and what power do they have to interfere?**
+**What's each character's family's stance on the relationship, and what power do they have to interfere?**
 
 *(Write your answer below)*
 
@@ -1198,7 +1198,7 @@ Oaths define what your characters have promised. Taboos define what they must ne
 
 ## Taboos & Forbidden Things
 
-The forbidden shows what the culture fears. In romantasy, taboos are the "forbidden love" stakes, and they will only be as effective as how well defined and important they're for each character involved.
+The forbidden shows what the culture fears. In romantasy, taboos are the "forbidden love" stakes, and they'll only be as effective as how well defined and important they are for each character involved.
 
 Forbidden love has its excitement in the risk involved. Ensure that your reader understands the consequences of breaking the taboo for each character before they do so. The first transgression must feel dangerous. Subsequent transgressions may increase the risk, or they may make the previously forbidden become acceptable. Both options can be used; however, having an idea of which you plan to use is helpful.
 
@@ -1920,7 +1920,7 @@ _______________________________________________________________
 
 **Plan a gift scene.**
 
-*Slow down through all three stages: the giving (nervous or confident?), the receiving (recognition or confusion?), and the aftermath (where does the gift go, how often is it touched?). What is the gift, and why this gift specifically?*
+*Slow down through all three stages: the giving (nervous or confident?), the receiving (recognition or confusion?), and the aftermath (where does the gift go, how often is it touched?). What's the gift, and why this gift specifically?*
 
 *(Write your answer below)*
 
@@ -2438,7 +2438,7 @@ _______________________________________________________________
 
 #### What does the "slip" look like between your characters?
 
-*Describe a moment when a character breaks a class or rank rule without meaning to -- a first name used without thinking, a hand reached for instinctively. What is the slip, who makes it, who notices, and what does it reveal?*
+*Describe a moment when a character breaks a class or rank rule without meaning to -- a first name used without thinking, a hand reached for instinctively. What's the slip, who makes it, who notices, and what does it reveal?*
 
 *(Write your answer below)*
 

@@ -256,11 +256,11 @@ _______________________________________________________________
 
 Romantasy typically combines elements of magic and faith into a single system. Magic can be thought of as a gift provided by the gods, but equally, magic can represent heresy which a church will try to eliminate. Wherever the two meet, the world becomes a realm in which the consequences of moral choice are always tangible in their magical impact, and where falling in love can result in loss of magical power, protection, or your place in the divine order.
 
-The reason why this applies to romance specifically is that it changes how rebellion functions from a societal concept to a supernatural one. If losing divine favour means losing magical function, then a character who chooses a forbidden lover does not merely risk being ostracised. They risk losing their magical abilities at the same time they need them the most.
+The reason why this applies to romance specifically is that it changes how rebellion functions from a societal concept to a supernatural one. If losing divine favour means losing magical function, then a character who chooses a forbidden lover doesn't merely risk being ostracised. They risk losing their magical abilities at the same time they need them the most.
 
 In *Serpent & Dove*, Lou's magic operates on a principle of balance. Each spell costs something. When she uses her power to protect Reid, each spell causes her to lose memories and sensation. Their love literally consumes Lou one spell at a time. The Chasseurs see this as Lou "tempting" Reid; the story clearly shows that what she is doing is the greatest act of selflessness possible.
 
-In *Priory of the Orange Tree*, Ead's siden magic, drawn from the fruit of a sacred orange tree, is branded heresy in the West. She is forced to operate secretly, pretending to be a maid so no one will discover the "heresy" of her magic is what is keeping the Queen alive. The bodyguard-crush dynamic is elevated due to Ead's magic being the very source that could potentially destroy the relationship should it be discovered.
+In *Priory of the Orange Tree*, Ead's siden magic, drawn from the fruit of a sacred orange tree, is branded heresy in the West. She's forced to operate secretly, pretending to be a maid so no one will discover the "heresy" of her magic is what's keeping the Queen alive. The bodyguard-crush dynamic is elevated due to Ead's magic being the very source that could potentially destroy the relationship should it be discovered.
 
 In *From Blood and Ash*, Poppy's magical "blessing," the ability to sense others' emotions and pain, is depicted by the state faith as evidence of her divine worth. Once the lie of the predatory vampire "Ascended" gods is exposed and the entire religious system is shown to be built on lies, Poppy's magical abilities become the evidence of the lie. Her romance with Casteel is the catalyst for this theological deconstruction.
 
@@ -310,9 +310,9 @@ _______________________________________________________________
 
 ## Religious Institutions & Authority
 
-*You've defined what the gods are and how magic relates to them. Now consider who speaks for those gods on earth — because it's institutions, not deities, that your characters will actually have to face.*
+*You've defined what the gods are and how magic relates to them. Now consider who speaks for those gods on earth, because it's institutions, not deities, that your characters will actually have to face.*
 
-Gods may exist, however, it is institutions that make religion have power. The temple, the church, the priesthood: these are human structures, with human politics, human corruption, and the potential to do either great good or harm. In terms of your romance, institutions are where divine law gets enforced, where vows are administered, where forbidden unions are discovered and punished.
+Gods may exist, however, it's institutions that make religion have power. The temple, the church, the priesthood: these are human structures, with human politics, human corruption, and the potential to do either great good or harm. In terms of your romance, institutions are where divine law gets enforced, where vows are administered, where forbidden unions are discovered and punished.
 
 Religious authorities can be allies, enemies, or complex figures caught between doctrine and compassion. They represent the institution, but they're also human beings. The priest who has to enforce a law they privately question. The oracle who sees a prophecy they wish they could unsee. The inquisitor who genuinely believes they're saving souls.
 
@@ -330,7 +330,7 @@ Religious authorities can be allies, enemies, or complex figures caught between 
 &nbsp;
 
 **⬥ Core: Where do people go to worship, and what do those places look like?**
-*Grand cathedrals? Forest shrines? Home altars? Underground temples? The physical spaces of worship tell you a lot about a religion's values — and they create settings where sacred rules press down on characters. Think about who is allowed inside, what the space smells and sounds like, and what behaviour is expected there.*
+*Grand cathedrals? Forest shrines? Home altars? Underground temples? The physical spaces of worship tell you a lot about a religion's values, and they create settings where sacred rules press down on characters. Think about who's allowed inside, what the space smells and sounds like, and what behaviour is expected there.*
 
 _______________________________________________________________
 
@@ -358,7 +358,7 @@ These leaders may become allies or antagonists. Think about who holds power to h
 **How does religious authority relate to political authority?**
 *This shapes what defying religion costs. In a theocracy, religious disobedience is political treason. When church and state are separate, religious dissent may be socially costly but legally protected.*
 
-- ☐ United (theocracy — religious and political authority are one)
+- ☐ United (theocracy, religious and political authority are one)
 - ☐ Allied (separate institutions that support each other)
 - ☐ Competing (both claim authority; power struggles between them)
 - ☐ Separate (religion has no political power; dissent is a personal matter)
@@ -405,21 +405,21 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-*Cross-check: Does your religious authority complement or conflict with your government (Section 5)? If your religion holds legal or military power, make sure that aligns with — or intentionally contradicts — the political structure you've built. Theocracies, alliances, and church-state rivalries should be consistent across both sections.*
+*Cross-check: Does your religious authority complement or conflict with your government (Section 5)? If your religion holds legal or military power, make sure that aligns with, or intentionally contradicts, the political structure you've built. Theocracies, alliances, and church-state rivalries should be consistent across both sections.*
 
 ### Schisms & Reformation
 
-Religions rarely stay unified forever. Splits over doctrine, practice, or leadership create factions that characters can belong to, flee from, or exploit. A reformed branch might accept what the orthodox branch condemns — giving your characters an alternative that comes with its own costs.
+Religions rarely stay unified forever. Splits over doctrine, practice, or leadership create factions that characters can belong to, flee from, or exploit. A reformed branch might accept what the orthodox branch condemns, giving your characters an alternative that comes with its own costs.
 
 **Has the religion ever split, and if so, over what?**
-*A doctrinal disagreement? A disputed succession? A revelation that some accepted and others rejected? The cause of the split shapes what each faction cares about most — and which side your characters fall on.*
+*A doctrinal disagreement? A disputed succession? A revelation that some accepted and others rejected? The cause of the split shapes what each faction cares about most, and which side your characters fall on.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **Are there competing interpretations of doctrine that your characters could appeal to?**
-*A stricter reading that condemns them, and a more lenient one that might offer shelter? Competing interpretations give characters options — but choosing the "wrong" faction carries its own risks.*
+*A stricter reading that condemns them, and a more lenient one that might offer shelter? Competing interpretations give characters options, but choosing the "wrong" faction carries its own risks.*
 
 _______________________________________________________________
 
