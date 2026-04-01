@@ -447,7 +447,7 @@ _______________________________________________________________
 
 **What does your culture value most?**
 
-Honor, loyalty, freedom, magical power, wealth, lineage, martial prowess, scholarship?
+Honour, loyalty, freedom, magical power, wealth, lineage, martial prowess, scholarship?
 
 _______________________________________________________________
 
