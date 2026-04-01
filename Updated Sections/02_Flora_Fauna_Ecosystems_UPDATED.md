@@ -372,7 +372,9 @@ _______________________________________________________________
 
 *Stables are private, physical, domestic — two people grooming a horse side by side strips away social performance. Sharing a saddle forces contact that neither character can avoid. Where could this kind of animal-adjacent intimacy show up in your story?*
 
-**Describe a scene where an animal creates physical proximity or emotional intimacy between your characters. What's the scenario and how does it play out?**
+**Describe a scene where an animal creates physical proximity or emotional intimacy between your characters.**
+
+*What's the scenario and how does it play out?*
 
 *(Write your answer below)*
 
@@ -388,7 +390,9 @@ _______________________________________________________________
 
 *Shared encounters reveal who each person truly is. What might show your protagonist a new side of the love interest?*
 
-**Describe a wildlife encounter your characters share. How does each react differently, and what does the contrast reveal about them?**
+**Describe a wildlife encounter your characters share. How does each react differently?**
+
+*What does the contrast reveal about them?*
 
 *(Write your answer below)*
 
@@ -402,7 +406,9 @@ _______________________________________________________________
 
 *Shared caregiving builds domestic intimacy and reveals nurturing instincts. What creature might bring them together?*
 
-**Could your characters care for a creature together? What creature and why does it need care, and what does the experience create between them?**
+**Could your characters care for a creature together? What creature, and why does it need care?**
+
+*What does the shared experience create between them?*
 
 *(Write your answer below)*
 
@@ -475,7 +481,9 @@ Give a few plants unique names, appearances, and properties your readers can tra
 
 *What your characters know about wild plants reveals where they've been and how they've survived. A gap in knowledge between your characters is a gap in experience — and that's where romantic tension lives.*
 
-**What plants in your world are safe to eat and which are dangerous? Who would know the difference, and who wouldn't — and how could this knowledge gap matter in your story?**
+**What plants in your world are safe to eat and which are dangerous?**
+
+*Who would know the difference and who wouldn't? Could this knowledge gap matter in your story?*
 
 *(Write your answer below)*
 
@@ -497,7 +505,9 @@ _______________________________________________________________
 
 *One character teaching the other to find food. Fingers brushing over leaves. The "powerful" one suddenly dependent on the "ordinary" one who knows which mushrooms won't kill them. Could this reversal or intimacy work in your story?*
 
-**Which character knows about plants and which is out of their depth? What does this knowledge gap reveal about each of them, and what intimate moment could foraging create?**
+**Which character knows about plants and which is out of their depth?**
+
+*What does this knowledge gap reveal about each of them? What intimate moment could foraging create?*
 
 *(Write your answer below)*
 
@@ -551,7 +561,9 @@ The healing scene is one of romantasy's most powerful tropes -- one character ca
 
 *A cure for a curse? The only antidote to a poison? A rare ingredient for a necessary spell?*
 
-**Is there a crucial plant in your story? What is it, what does it do, where is it found, and why is it hard to obtain?**
+**Is there a crucial plant in your story? What is it and what does it do?**
+
+*Where is it found? Why is it hard to obtain?*
 
 *(Write your answer below)*
 
@@ -618,7 +630,9 @@ The moment a bond forms should feel earned, not assigned. The strongest bonding 
 
 *Consider creatures that might bond with characters, serve as obstacles, or hold symbolic meaning in your story.*
 
-**Describe your world's most important magical creatures. For each, what is their intelligence level, what magical abilities do they have, and what is their relationship with humans?**
+**What are your world's most important magical creatures?**
+
+*For each, consider: intelligence level, magical abilities, and relationship with humans.*
 
 *(Write your answer below)*
 
@@ -660,7 +674,9 @@ _______________________________________________________________
 
 *The strongest bonding scenes share a structure: crisis, then choice, then fusion. Tairn bonds with Violet because she risks her life to defend a weaker dragon. Manon chooses the battered "bait beast" everyone dismissed. What crisis and choice could trigger the bond in your story?*
 
-**If your characters bond with creatures, describe the bonding process: What crisis triggers it? What choice reveals character? Why does the bond form?**
+**How does the bond form in your world?**
+
+*What crisis triggers it? What choice reveals character? Why does the creature respond?*
 
 *(Write your answer below)*
 
@@ -739,7 +755,9 @@ Weather and seasons aren't just atmosphere -- they're engines. A blizzard remove
 
 *A blizzard that removes every option except shared warmth. A festival where desire quietly complicates everything. A spring thaw that mirrors messy healing. What weather or seasonal moment will your romance hinge on?*
 
-**Describe a weather event or seasonal moment that matters to your romance. Where are your characters when it hits, and what does it force them to do or feel?**
+**Describe a weather event or seasonal moment that matters to your romance.**
+
+*Where are your characters when it hits? What does it force them to do or feel?*
 
 *(Write your answer below)*
 
@@ -776,7 +794,9 @@ You don't need to follow this literally, and subverting it can be powerful. But 
 
 *The best environmental mirroring feels inevitable, not forced. Pick your story's most emotionally intense moment and consider what the natural world could be doing around your characters — not to explain the emotion, but to make the reader feel it in their body.*
 
-**Describe a key emotional moment in your story. What is the environment doing at that moment, and why does the combination work (what does it make the reader feel)?**
+**Describe a key emotional moment in your story. What is the natural world doing around your characters?**
+
+*Why does the combination work? What does it make the reader feel?*
 
 *(Write your answer below)*
 
@@ -792,7 +812,9 @@ You don't need to follow this literally, and subverting it can be powerful. But 
 
 *Symbols add layers to scenes without a word of dialogue. A raven landing on the windowsill the morning of the duel. A white stag appearing the night before a proposal. What creature might appear at a significant romantic moment, and what would it mean?*
 
-**What creatures carry symbolic meaning in your world (love, death, power, luck)? How could you use one in a scene to create subtext?**
+**What creatures carry symbolic meaning in your world?**
+
+*Love, death, power, luck? How could you use one in a scene to create subtext?*
 
 *(Write your answer below)*
 
@@ -806,7 +828,9 @@ You don't need to follow this literally, and subverting it can be powerful. But 
 
 *Symbols add layers to scenes without a word of dialogue. A flower given as a gift, a tree that blooms out of season, a herb burnt at a funeral. What plants carry meaning in your world, and how might you use them in a scene?*
 
-**Is there a plant in your world with symbolic meaning? What does it represent, and how could you use it in a scene?**
+**Is there a plant in your world with symbolic meaning? What does it represent?**
+
+*How could you use it in a scene?*
 
 *(Write your answer below)*
 
