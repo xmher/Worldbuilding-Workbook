@@ -36,6 +36,28 @@
       "text": "Romantasy authors who know how to create romance understand that it's the constraint that creates romance. The rule that states they can't be together is the same rule that gives their being together value. Your task isn't to remove the obstacle for your characters, it's to make the obstacle so real that their ability to overcome it is believable."
     },
     {
+      "type": "prose",
+      "text": "**What is the single most important promise your world makes to the reader?**"
+    },
+    {
+      "type": "hint",
+      "text": "Hint: The rule your entire romance depends on. \"Magic costs blood.\" \"The bond cannot be broken.\" \"Crossing the border means death.\""
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "heading4",
+      "text": "Have you kept that promise every time it mattered?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Have you kept that promise every time it mattered?",
+      "height": "80pt"
+    },
+    {
       "type": "divider"
     },
     {
@@ -107,14 +129,8 @@
       "text": "Fixing Vibes-Over-Logic Problems"
     },
     {
-      "type": "writing_box",
-      "label": "Issue",
-      "height": "55pt"
-    },
-    {
-      "type": "writing_box",
-      "label": "Which fix",
-      "height": "55pt"
+      "type": "hint",
+      "text": "For each item you checked above, describe the specific scene and how you'll fix it. Use the three options from \"Fixing Consistency Problems\" later in this section: add an in-world explanation, let the consequence happen, or change the rule from the start."
     },
     {
       "type": "writing_box",
@@ -123,7 +139,42 @@
     },
     {
       "type": "writing_box",
-      "label": "Which fix",
+      "label": "Scene/Chapter",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your fix",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Issue",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Scene/Chapter",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your fix",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Issue",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Scene/Chapter",
+      "height": "55pt"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your fix",
       "height": "55pt"
     },
     {
@@ -605,7 +656,7 @@
     },
     {
       "type": "hint",
-      "text": "If you answered \"no\" to any of those, you don't necessarily have to change the scene. But you do need to address why the rule doesn't apply here. And \"because I needed this scene to happen\" is not a valid answer."
+      "text": "If you answered \"no\" to any of those, you don't necessarily have to change the scene. But you do need to address why the rule doesn't apply here. And \"because I needed this scene to happen\" isn't a valid answer."
     },
     {
       "type": "heading3",
@@ -740,7 +791,7 @@
     },
     {
       "type": "hint",
-      "text": "A character who defeats ten soldiers in chapter five but struggles against two in chapter fifteen needs an in-world explanation for the shift. If power levels fluctuate without reason, readers lose trust in every obstacle — including the ones keeping your leads apart."
+      "text": "A character who defeats ten soldiers in chapter five but struggles against two in chapter fifteen needs an in-world explanation for the shift. If power levels fluctuate without reason, readers lose trust in every obstacle, including the ones keeping your leads apart."
     },
     {
       "type": "writing_box",
@@ -753,7 +804,7 @@
     },
     {
       "type": "hint",
-      "text": "This is especially damaging in romantic tension scenes. If a telepath could just read the love interest's mind and resolve the misunderstanding, readers will wonder why they don't. You need a reason the ability doesn't work here — emotional interference, magical shielding, or the cost being too high to risk."
+      "text": "This is especially damaging in romantic tension scenes. If a telepath could just read the love interest's mind and resolve the misunderstanding, readers will wonder why they don't. You need a reason the ability doesn't work here: emotional interference, magical shielding, or the cost being too high to risk."
     },
     {
       "type": "writing_box",
@@ -786,7 +837,7 @@
     },
     {
       "type": "hint",
-      "text": "If a three-week journey suddenly takes three days because your leads need to reunite, readers will notice. Physical distance is one of romantasy's most effective tools for building longing — but only if it's consistent."
+      "text": "If a three-week journey suddenly takes three days because your leads need to reunite, readers will notice. Physical distance is one of romantasy's most effective tools for building longing, but only if it's consistent."
     },
     {
       "type": "writing_box",
@@ -816,7 +867,7 @@
     },
     {
       "type": "hint",
-      "text": "Guards, wards, spies, magical monitoring, parental oversight — whatever enforces the rules in your world. Track where they're present, where they're absent, and whether the absence has a reason. If authority disappears precisely when your characters need privacy, readers will notice. Selective enforcement is one of the fastest ways to make a forbidden romance feel unforbidden."
+      "text": "Guards, wards, spies, magical monitoring, parental oversight: whatever enforces the rules in your world. Track where they're present, where they're absent, and whether the absence has a reason. If authority disappears precisely when your characters need privacy, readers will notice. Selective enforcement is one of the fastest ways to make a forbidden romance feel unforbidden."
     },
     {
       "type": "open_table",
@@ -831,7 +882,7 @@
           "Court guards on the east wing (The Cruel Prince)",
           "Jude's daily commute, the duel scenes",
           "Jude and Cardan's confrontation in Ch. 12",
-          "Yes — the guards were called to the Bomb's distraction"
+          "Yes, the guards were called to the Bomb's distraction"
         ]
       ],
       "rows": [
@@ -1077,7 +1128,20 @@
       "text": "**What is your fantasy plot deadline and your romantic plot deadline? Do they converge? If not, what point could fuse them -- where would the romantic choice and the fantasy choice become the same choice?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "divider"
@@ -1214,6 +1278,28 @@
     {
       "type": "hint",
       "text": "Information asymmetry is romantic fuel. Secrets, hidden identities, concealed feelings, knowledge that would change everything if shared. But it only works if the reason for keeping quiet is solid."
+    },
+    {
+      "type": "heading4",
+      "text": "What is the one secret that, if shared right now, would change everything between your characters?"
+    },
+    {
+      "type": "writing_box",
+      "label": "What is the one secret that, if shared right now, would change everything between your characters?",
+      "height": "80pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Why hasn't the character holding that secret shared it yet?**"
+    },
+    {
+      "type": "hint",
+      "text": "Hint: The reason needs to be rooted in your world or their character -- fear, cultural taboo, magical constraint, protecting someone. \"The plot needs them not to know\" isn't enough."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
     },
     {
       "type": "heading3",
@@ -1446,7 +1532,7 @@
     },
     {
       "type": "prose",
-      "text": "**The Recontextualisation Test**"
+      "text": "**The \"Read It Again\" Test**"
     },
     {
       "type": "prose",
@@ -1454,11 +1540,11 @@
     },
     {
       "type": "heading4",
-      "text": "Your major reveal or shift in understanding:"
+      "text": "What is the biggest truth your narrator discovers?"
     },
     {
       "type": "writing_box",
-      "label": "Your major reveal or shift in understanding:",
+      "label": "What is the biggest truth your narrator discovers?",
       "height": "80pt"
     },
     {
@@ -1658,7 +1744,7 @@
     },
     {
       "type": "hint",
-      "text": "The best rule-breaks in romantasy serve the love story. The impossible becomes possible because of the bond, the sacrifice, or the choice to love. That's earned. The impossible becoming possible because you needed a happy ending is not."
+      "text": "The best rule-breaks in romantasy serve the love story. The impossible becomes possible because of the bond, the sacrifice, or the choice to love. That's earned. The impossible becoming possible because you needed a happy ending isn't."
     },
     {
       "type": "open_table",
@@ -1711,6 +1797,19 @@
     {
       "type": "prose",
       "text": "**Ask yourself:** Am I bending rules to serve the story, or breaking them to avoid consequences I don't want to write?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What is one consequence you've been avoiding writing? What would happen to the story if you let it land?**"
+    },
+    {
+      "type": "hint",
+      "text": "Hint: Often the consequence you're avoiding is the scene your story most needs."
     },
     {
       "type": "writing_box",
@@ -1957,7 +2056,7 @@
     },
     {
       "type": "hint",
-      "text": "Fae who cannot lie, bond-linked characters who sense deception, oath-bound warriors, prophets who can only speak truth. If any character in your story has a speech constraint, every line of their dialogue needs to pass the literalism test."
+      "text": "Fae who can't lie, bond-linked characters who sense deception, oath-bound warriors, prophets who can only speak truth. If any character in your story has a speech constraint, every line of their dialogue needs to pass the literalism test."
     },
     {
       "type": "writing_box",
@@ -1970,7 +2069,7 @@
     },
     {
       "type": "hint",
-      "text": "Read their dialogue line by line. If you find a statement that is factually false, it needs to be rephrased. Pay special attention to romantic scenes, where characters under truth constraints might say \"I don't care about you\" or \"You mean nothing to me\" when the opposite is true."
+      "text": "Read their dialogue line by line. If you find a statement that's factually false, it needs to be rephrased. Pay special attention to romantic scenes, where characters under truth constraints might say \"I don't care about you\" or \"You mean nothing to me\" when the opposite is true."
     },
     {
       "type": "writing_box",
@@ -2256,7 +2355,7 @@
     },
     {
       "type": "hint",
-      "text": "If you're writing a series, you need a living document that tracks every promise you've made to your readers. The longer the series, the more critical this becomes. Readers who've followed your world across multiple books will remember details you've forgotten — especially details about the romance."
+      "text": "If you're writing a series, you need a living document that tracks every promise you've made to your readers. The longer the series, the more critical this becomes. Readers who've followed your world across multiple books will remember details you've forgotten, especially details about the romance."
     },
     {
       "type": "prose",
@@ -2294,7 +2393,7 @@
     },
     {
       "type": "hint",
-      "text": "Track who holds power at the end of each book. Power shifts are often tied to romantic stakes — a new ruler might change everything about whether the relationship is forbidden or permitted."
+      "text": "Track who holds power at the end of each book. Power shifts are often tied to romantic stakes; a new ruler might change everything about whether the relationship is forbidden or permitted."
     },
     {
       "type": "writing_box",
@@ -2338,11 +2437,24 @@
     },
     {
       "type": "prose",
-      "text": "**Will you need a series bible?**"
+      "text": "**What is the one detail readers would notice first if you contradicted it in a sequel?**"
     },
     {
       "type": "hint",
-      "text": "If you're writing more than one book in this world, the answer is almost certainly yes. Even if you think you'll remember everything, you won't. Start it now, while this workbook's answers are fresh."
+      "text": "Hint: Usually it's a magic rule, a bond mechanic, or a character's established power level."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Are you writing more than one book in this world? If yes, start your series bible now.**"
+    },
+    {
+      "type": "hint",
+      "text": "You won't remember everything. Start while this workbook's answers are fresh. Even a simple document with rules, dates, and character details will save you from contradicting yourself three books later."
     },
     {
       "type": "writing_box",

@@ -51,37 +51,30 @@ This is what separates the romances that stick with readers from the ones that f
 If the answer is no, you've got an agency problem.
 
 
-== The Removal Tests
+#block(breakable: false)[
 
+== The Removal Tests
 
 These tests help you figure out whether your romance depends on worldbuilding pressure or whether the connection is genuine. You explored these systems individually in earlier sections. Now strip them away, one at a time, and see what's left.
 
-
 === Test 1: Remove the Magic
 
-
-#cross-ref(
-  section: "Section 10",
-  note: [Magic System; Section 11 — Magic & Intimacy],
-)
-
+#hint[Reference: Section 10, Magic System; Section 11, Magic & Intimacy]
 
 If you designed bonds or intimate magic in Section 11, this is your reality check. The questions there helped you build a bond with romantic potential. The questions here test whether you've accidentally let the bond replace the romance.
 
-
 #strong[What magical element connects your characters?]
-
 
 #hint[Identify the specific magical mechanism that links your protagonists. This is the thing you'll be stripping away to test whether the connection underneath is strong enough to stand on its own.]
 
-
 (Fated mate bond, telepathic link, shared magic, magical contract, curse, soul bond)
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #strong[Without this magic, do they still have reasons to interact?]
@@ -114,7 +107,7 @@ In #emph[ACOTAR], strip away the mating bond and Feyre and Rhysand still share t
 #strong[Describe a scene from your story that would still work with the magic stripped out entirely.]
 
 
-#hint[If you can picture a specific moment — a conversation, a shared glance, a quiet act of care — that works without any magical enhancement, your organic connection is strong. If you're struggling to find one, magic may be doing too much of the relationship's heavy lifting.]
+#hint[If you can picture a specific moment (a conversation, a shared glance, a quiet act of care) that works without any magical enhancement, your organic connection is strong. If you're struggling to find one, magic may be doing too much of the relationship's heavy lifting.]
 
 
 #writing-box(
@@ -126,10 +119,7 @@ In #emph[ACOTAR], strip away the mating bond and Feyre and Rhysand still share t
 === Test 2: Remove the Prophecy/Destiny
 
 
-#cross-ref(
-  section: "Section 6",
-  note: [Religion, Myth & Prophecy],
-)
+#hint[Reference: Section 6, Religion, Myth & Prophecy]
 
 
 You explored the tension between prophecy and choice in Section 6. This test pushes that further. A prophecy that creates the relationship is always going to be weaker than one that confirms what would have happened anyway.
@@ -174,10 +164,7 @@ Best answer: It confirms. They fall in love organically, and prophecy is validat
 === Test 3: Remove the Political Pressure
 
 
-#cross-ref(
-  section: "Section 5",
-  note: [Government, Power & Law; Section 14 — Institutions],
-)
+#hint[Reference: Section 5, Government, Power & Law; Section 14, Institutions]
 
 
 #strong[What political/institutional element forces them together?]
@@ -222,10 +209,7 @@ Good answer: They start together because they have to, and stay because they wan
 === Test 4: Remove the Dangerous Situation
 
 
-#cross-ref(
-  section: "Section 1",
-  note: [Geography; Section 13 — Pressure Cooker],
-)
+#hint[Reference: Section 1, Geography; Section 13, Pressure Cooker]
 
 
 #strong[What external danger pushes them together?]
@@ -252,10 +236,10 @@ Good answer: They start together because they have to, and stay because they wan
 )
 
 
-#strong[Is their bond only about survival, or does it include genuine emotional intimacy?]
+#strong[What do your characters share when no one is trying to kill them?]
 
 
-#hint[Danger bonds are real, but they need more than shared adrenaline to sustain a romance past the threat. If your characters only connect when someone is trying to kill them, the relationship may feel thin once the threat passes. What emotional intimacy exists between the action beats?]
+#hint[Danger bonds are real, but they need more than shared adrenaline to sustain a romance past the threat. If your characters only connect during action scenes, the relationship may feel thin once the threat passes. What quiet emotional intimacy exists between the action beats?]
 
 
 #writing-box(
@@ -461,7 +445,7 @@ If the choice costs nothing, it doesn't prove much. The weight of the choice is 
 #hint[Look back at Section 16. Which system, law, tradition, or magical rule creates the biggest barrier between your characters? This is the force they'll need to defy.]
 
 
-(Reference Section 16 — which system creates the biggest obstacle)
+(Reference Section 16, which system creates the biggest obstacle)
 
 
 #writing-box(
@@ -639,7 +623,7 @@ Same bond. Same pull. But now the character is the one holding the verbs: she gr
 #strong[Now rewrite the same moment with your character as the subject, holding the verbs (active version):]
 
 
-#hint[Example: The bond flared hot in her chest. She planted her feet and waited for the fog to clear. Then she looked at him — really looked — and stepped forward because she wanted to, not because the magic told her to.]
+#hint[Example: The bond flared hot in her chest. She planted her feet and waited for the fog to clear. Then she looked at him, really looked, and stepped forward because she wanted to, not because the magic told her to.]
 
 
 #writing-box(
@@ -663,7 +647,7 @@ Same bond. Same pull. But now the character is the one holding the verbs: she gr
 === Audit Your Draft for Compulsion Language
 
 
-#hint[Open your manuscript or outline and search for the three agency-stripping patterns described above. Finding them isn't failure — it's an opportunity to strengthen the scene. List any examples you find below so you can revise them.]
+#hint[Open your manuscript or outline and search for the three agency-stripping patterns described above. Finding them isn't failure; it's an opportunity to strengthen the scene. List any examples you find below so you can revise them.]
 
 
 #strong[Filter words] (felt drawn to, was pulled toward, couldn't resist, something about him made her):
@@ -684,7 +668,7 @@ Same bond. Same pull. But now the character is the one holding the verbs: she gr
 )
 
 
-#strong[Bond as subject] (the bond pulled, the magic surged, the connection overwhelmed — paragraphs where the bond drives the action and the character doesn't respond):
+#strong[Bond as subject] (the bond pulled, the magic surged, the connection overwhelmed; paragraphs where the bond drives the action and the character doesn't respond):
 
 
 #writing-box(
@@ -742,34 +726,28 @@ Same bond. Same pull. But now the character is the one holding the verbs: she gr
 )
 
 
-== The Consent Question
+#block(breakable: false)[
 
+== The Consent Question
 
 === Magical Bonds and Consent
 
-
-#cross-ref(
-  section: "Section 10",
-  note: [Magic System, especially bonds; Section 11 — Magic & Intimacy, especially Part Two],
-)
-
+#hint[Reference: Section 10, Magic System, especially bonds; Section 11, Magic & Intimacy, especially Part Two]
 
 You designed your bond mechanics in Section 11. Now it's time to test them for consent. The design questions there asked #emph[what] the bond does and #emph[how] it creates romantic tension. The questions here ask whether the bond respects your characters' autonomy.
 
-
 #strong[Did both characters consent to this bond?]
-
 
 #hint[Did they choose it, agree to it, or perform a deliberate action to trigger it? Or did it happen to them without warning or input? The answer shapes how much agency work you'll need to do in the story.]
 
-
 In #emph[Fourth Wing], neither Violet nor Xaden chose the telepathic link that formed through their dragons. The bond happened #emph[to] them. What makes it work is that the story never pretends this is the same as choosing each other. The bond gives them access; trust has to be earned separately, and it's earned slowly, painfully, through choices that have nothing to do with magic.
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #strong[If the bond formed without consent, can they reject it? What would rejection look like?]
@@ -845,10 +823,7 @@ Even at the "low agency" end, good romantasy finds space for choice. The bond mi
 == The Power Dynamic Check
 
 
-#cross-ref(
-  section: "Section 5",
-  note: [Power structures; Section 4 — Economic power],
-)
+#hint[Reference: Section 5, Power structures; Section 4, Economic power]
 
 
 Power imbalances are simply a part of the romantic genre, and can create some of the most interesting tension in the story. The real issue lies not with the fact that a power gap exists, but rather with how well the narrative demonstrates awareness of it and provides the less powerful character with actual influence.
@@ -881,13 +856,13 @@ Power imbalances are simply a part of the romantic genre, and can create some of
 )
 
 
-#hint[Add more rows as needed — most romances have at least 4–5 types of power in play.]
+#hint[Add more rows as needed. Most romances have at least 4-5 types of power in play.]
 
 
-#strong[Does the power dynamic shift during the story?]
+#strong[How does the power balance change over the course of the story?]
 
 
-#hint[A static power imbalance where the powerful character stays on top and the less powerful character never gains ground makes the romance feel like a benevolent dictatorship, not a partnership. Describe how the balance changes.]
+#hint[A static power imbalance where the powerful character stays on top and the less powerful character never gains ground makes the romance feel like a benevolent dictatorship, not a partnership. Describe how the balance shifts.]
 
 
 The best power-imbalanced romances don't stay static. The dynamic should shift, complicate, even reverse over the course of the story. If the powerful character starts on top and stays there, the less powerful character's agency is going to be in question.
@@ -984,7 +959,7 @@ If they never gain this ability, the romance is fundamentally non-consensual.
 == The "Why These Two?" Test
 
 
-In addition to whatever magical or political pressures exist, you'll also need to create individualised, specific reasons why your characters have made their choices based on who they are. "The bond says so" is not a reason. "They're both attractive" is not enough. The way your characters connect needs to be personal, unique to each character and rooted in who they are.
+In addition to whatever magical or political pressures exist, you'll also need to create individualised, specific reasons why your characters have made their choices based on who they are. "The bond says so" isn't a reason. "They're both attractive" isn't enough. The way your characters connect needs to be personal, unique to each character and rooted in who they are.
 
 
 #hint[Use the table below to identify what makes this particular pairing work. The answers should be specific enough that they couldn't apply to just anyone; they should only be true for these two people.]
@@ -995,8 +970,8 @@ In addition to whatever magical or political pressures exist, you'll also need t
   example-rows: (
     ([What draws them to this specific person?], [Example (ACOTAR): His willingness to sacrifice everything without asking for credit], [Example: Her refusal to break, even when the world tried to make her]),
     ([What does this person have that no one else has?], [Example: He understands her darkness without flinching], [Example: She sees past the mask everyone else believes]),
-    ([What do they see that no one else sees?], [Example: The real Rhys — generous, funny, grieving], [Example: A survivor who chose to fight, not just endure]),
-    ([Beyond attraction, why do they work as partners?], [Example: Complementary strengths — her human perspective, his political knowledge], [Example: She challenges him; he creates space for her to grow]),
+    ([What do they see that no one else sees?], [Example: The real Rhys, generous, funny, grieving], [Example: A survivor who chose to fight, not just endure]),
+    ([Beyond attraction, why do they work as partners?], [Example: Complementary strengths; her human perspective, his political knowledge], [Example: She challenges him; he creates space for her to grow]),
   ),
   rows: (
     ([What draws them to this specific person?], [], []),
@@ -1011,7 +986,7 @@ In addition to whatever magical or political pressures exist, you'll also need t
 #strong[How will readers discover what makes these two unique to each other?]
 
 
-#hint[Pick one answer from the table above. Describe a specific scene where the reader gets to see this — not told in narration, but demonstrated through action, dialogue, or a revealing moment.]
+#hint[Pick one answer from the table above. Describe a specific scene where the reader gets to see this, not told in narration, but demonstrated through action, dialogue, or a revealing moment.]
 
 
 #writing-box(
@@ -1103,7 +1078,7 @@ Ultimately, the final decision should be made actively by the characters, rather
 
 #strong[Do your characters shape their own ending, or does the plot deliver it to them?]
 
-#hint[Describe the specific decision one or both characters make in the final act that seals their commitment. Not just "the villain is defeated and now they're together" but an active choice. If the ending feels granted (the curse just lifted, the prophecy completed itself, the villain conveniently died) rather than earned, look for a place to insert a final choice — even if external forces resolve the plot, the relationship resolution should come from the characters themselves.]
+#hint[Describe the specific decision one or both characters make in the final act that seals their commitment. Not just "the villain is defeated and now they're together" but an active choice. If the ending feels granted (the curse just lifted, the prophecy completed itself, the villain conveniently died) rather than earned, look for a place to insert a final choice. Even if external forces resolve the plot, the relationship resolution should come from the characters themselves.]
 
 #writing-box(
   label: "Your Answer",
@@ -1125,6 +1100,18 @@ Ultimately, the final decision should be made actively by the characters, rather
 )
 
 
+#strong[How does their choice ripple outward -- who else is affected by what they decide?]
+
+
+#hint[Hint: The best romantasy endings don't just resolve the couple's story. Their choice to be together (or to sacrifice) changes something for other people too.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
+
+
 #strong[What does this final choice cost them, and how do readers see it?]
 
 
@@ -1138,31 +1125,26 @@ Ultimately, the final decision should be made actively by the characters, rather
 )
 
 
-== Agency in Cultural Context
+#block(breakable: false)[
 
+== Agency in Cultural Context
 
 What agency looks like depends on the world you've built.
 
-
-#cross-ref(
-  section: "Section 3",
-  note: [Culture; Section 5 — Government],
-)
-
+#hint[Reference: Section 3, Culture; Section 5, Government]
 
 While some worlds offer greater freedom than others, that doesn't mean there's anything wrong with your worldbuilding. When you have a rigidly hierarchical society where your protagonist chooses to refer to their love interest by their first name rather than their title, that too is a form of defiance just as powerful as any dramatic declaration in a freer world. The key is developing agency consistent with your setting.
 
-
 #strong[In your world, how much choice do people typically have about their lives and relationships?]
 
-
 #hint[This establishes the baseline. In a world where everyone chooses their own partner, a love match isn't rebellious. In a world where marriages are arranged by family elders, choosing your own partner is revolution.]
-
 
 #writing-box(
   label: "Your Answer",
   height: 120pt,
 )
+
+]
 
 
 #strong[Is having any choice at all radical in your setting?]
@@ -1192,13 +1174,10 @@ In some worlds, refusing an arranged marriage is revolutionary. In others, it's 
 )
 
 
-#strong[Are your characters' acts of agency appropriately weighted for your world?]
+#strong[Does the scale of their defiance match the scale of your world's restrictions?]
 
 
-#hint[A grand public declaration in an oppressive world might get them killed. A quiet private choice in a free world might go unnoticed. Make sure the scale of their defiance matches the scale of their world's restrictions.]
-
-
-Small choices in oppressive worlds can be as powerful as dramatic choices in free ones.
+#hint[A grand public declaration in an oppressive world might get them killed. A quiet private choice in a free world might go unnoticed. Make sure their acts of rebellion fit what your world would actually punish.]
 
 
 #writing-box(
@@ -1207,13 +1186,10 @@ Small choices in oppressive worlds can be as powerful as dramatic choices in fre
 )
 
 
-#strong[Do readers from our world need context to understand why their choices matter?]
+#strong[Would a modern reader understand why this choice is dangerous without you explaining it?]
 
 
-#hint[If your world restricts choice in ways that modern readers might not immediately understand, you'll need to show the consequences for others who've defied the system. Readers need to see what's at stake before the protagonist risks it.]
-
-
-If choice is rare in your world, make sure readers understand what choosing costs. You can't assume they'll automatically grasp the weight of a small rebellion unless you've shown them what the consequences look like for people who defy the system.
+#hint[If your world restricts choice in ways that modern readers might not immediately grasp, you'll need to show the consequences for others who've defied the system. Readers need to see what's at stake before the protagonist risks it.]
 
 
 #writing-box(
@@ -1225,7 +1201,7 @@ If choice is rare in your world, make sure readers understand what choosing cost
 #strong[Who in your world has defied the system before your protagonist, and what happened to them?]
 
 
-#hint[This is how you show readers the stakes. A character who chose their own partner and was exiled, a couple who defied tradition and were separated, a rebel who was executed — these precedents tell readers what your protagonist is risking before they risk it. Name the example your story will use.]
+#hint[This is how you show readers the stakes. A character who chose their own partner and was exiled, a couple who defied tradition and were separated, a rebel who was executed. These precedents tell readers what your protagonist is risking before they risk it. Name the example your story will use.]
 
 
 #writing-box(
@@ -1247,7 +1223,7 @@ Your romantic bond will fall somewhere along this spectrum:
 
 #strong[Choice within fate:] The bond indicates a possible match, however the characters still have to develop the relationship. In essence, fate brought them together, and now they get to decide if they wish to remain together. This is the most popular approach in romantasy currently because it offers the reader the inevitable connection that feels like fate, along with the emotional connection that develops as the characters interact. In #emph[ACOMAF], the mating bond is real, but Rhysand delays its revelation until months later so Feyre can select him for who he is, not because the Cauldron said so. The bond verifies what has been developing. This method works best when the heroine's ability to make choices autonomously is central to the story.
 
-#strong[Fate as conflict:] The bond is a hindrance, an obstacle, or even a curse. The characters are actively working against the predestination. This creates the greatest amount of angst possible and presents a platform for characters to demonstrate which judgement they value more: their own, or that of the gods. In #emph[Zodiac Academy], Tory Vega rejects her Elysian Mate bond with Darius Acrux during the "Divine Moment" beneath the stars, and does so knowing it will curse her to never find love again. She says no because he bullied her, because she will not allow magic to erase what he did. The stars confirm they're mates, but she chooses her own dignity over the cosmic reward. Her decision to reject the mating bond is one of the most discussed agency moments in the genre. This approach works best in star-crossed arcs or when destiny itself is the antagonist.
+#strong[Fate as conflict:] The bond is a hindrance, an obstacle, or even a curse. The characters are actively working against the predestination. This creates the greatest amount of angst possible and presents a platform for characters to demonstrate which judgement they value more: their own, or that of the gods. In #emph[Zodiac Academy], Tory Vega rejects her Elysian Mate bond with Darius Acrux during the "Divine Moment" beneath the stars, and does so knowing it will curse her to never find love again. She says no because he bullied her, because she won't allow magic to erase what he did. The stars confirm they're mates, but she chooses her own dignity over the cosmic reward. Her decision to reject the mating bond is one of the most discussed agency moments in the genre. This approach works best in star-crossed arcs or when destiny itself is the antagonist.
 
 #strong[Where does your bond sit on this spectrum?]
 
@@ -1259,6 +1235,18 @@ Your romantic bond will fall somewhere along this spectrum:
 )
 
 ]
+
+
+#strong[What does the bond feel like to your characters -- physically, emotionally?]
+
+
+#hint[Hint: A warmth in the chest, a tug behind the ribs, a voice they can't shut out? Sensory details make bonds real on the page and help readers feel the pull your characters are choosing to follow or resist.]
+
+
+#writing-box(
+  label: "Your Answer",
+  height: 120pt,
+)
 
 
 #strong[Which does your target reader want?]
@@ -1294,8 +1282,11 @@ Some readers may enjoy the idea of a "safe harbour," the sense of knowing that t
 #strong[Where does your bond sit on the compulsion spectrum (full compulsion, choice within fate, or fate as conflict)? Based on that position, what does your story need most to preserve agency, and what is your specific plan to achieve it?]
 
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+
+#writing-box(
+  height: 150pt,
 )
 
 
@@ -1435,8 +1426,10 @@ If your removal tests or checklist revealed problems, here's where to fix them. 
 
 #strong[Look back at the systems you built in earlier sections (Religion/Prophecy, Magic, Magic & Intimacy, Pressure Cooker, Government/Law, Institutions, and your Obstacle Map from Section 16). For each one that touches your romance, does it support character agency? If any undermine agency, what needs to change?]
 
-#answer-box(
-  height: 180pt,
+#hint[(Write your answer below)]
+
+#writing-box(
+  height: 150pt,
 )
 
 ]

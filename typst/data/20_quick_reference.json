@@ -63,9 +63,8 @@
       "height": "55pt"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 9",
-      "note": "Technology; Section 10 — Magic"
+      "type": "hint",
+      "text": "Reference: Section 9, Technology; Section 10, Magic"
     },
     {
       "type": "writing_box",
@@ -93,9 +92,8 @@
       "text": "Key Locations (3-5)"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 15",
-      "note": "Key Locations"
+      "type": "hint",
+      "text": "Reference: Section 15, Key Locations"
     },
     {
       "type": "writing_lines",
@@ -122,9 +120,17 @@
       "text": "**Dangerous Regions:**"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 1",
-      "note": "Geography"
+      "type": "hint",
+      "text": "Reference: Section 1, Geography"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Why are they dangerous?** (creatures, magic, terrain, political)"
     },
     {
       "type": "writing_box",
@@ -152,9 +158,8 @@
       "text": "Who Rules"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 5",
-      "note": "Government, Power & Law"
+      "type": "hint",
+      "text": "Reference: Section 5, Government, Power & Law"
     },
     {
       "type": "writing_box",
@@ -180,6 +185,15 @@
       "type": "writing_box",
       "label": "Who has real power",
       "height": "55pt"
+    },
+    {
+      "type": "prose",
+      "text": "**How are laws enforced?** (guards, wards, spies, community shaming)"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "80pt"
     },
     {
       "type": "divider"
@@ -225,9 +239,8 @@
       "text": "**What they wear typically:**"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 3",
-      "note": "Dress, Appearance & Adornment"
+      "type": "hint",
+      "text": "Reference: Section 3, Dress, Appearance & Adornment"
     },
     {
       "type": "writing_box",
@@ -466,9 +479,8 @@
       "text": "What system they represent:"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 16",
-      "note": "Antagonist & Systems"
+      "type": "hint",
+      "text": "Reference: Section 16, Antagonist & Systems"
     },
     {
       "type": "writing_box",
@@ -510,9 +522,8 @@
       "text": "**Before story begins:**"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 7",
-      "note": "History"
+      "type": "hint",
+      "text": "Reference: Section 7, History"
     },
     {
       "type": "writing_box",
@@ -570,9 +581,8 @@
       "text": "Important Historical Dates"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 7",
-      "note": "History & Lore"
+      "type": "hint",
+      "text": "Reference: Section 7, History & Lore"
     },
     {
       "type": "writing_box",
@@ -663,9 +673,8 @@
       "text": "Titles and Forms of Address"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 3",
-      "note": "Language of Deference; Section 8 — Titles & Terms"
+      "type": "hint",
+      "text": "Reference: Section 3, Language of Deference; Section 8, Titles & Terms"
     },
     {
       "type": "writing_box",
@@ -680,9 +689,8 @@
       "text": "THE MAGIC SYSTEM"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 10",
-      "note": "Magic System"
+      "type": "hint",
+      "text": "Reference: Section 10, Magic System"
     },
     {
       "type": "heading3",
@@ -720,13 +728,21 @@
       "count": 1
     },
     {
+      "type": "heading4",
+      "text": "What magic looks/sounds/feels like when used:"
+    },
+    {
+      "type": "writing_box",
+      "label": "What magic looks/sounds/feels like when used:",
+      "height": "80pt"
+    },
+    {
       "type": "heading3",
       "text": "Magic & Romance"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 11",
-      "note": "Magic & Intimacy"
+      "type": "hint",
+      "text": "Reference: Section 11, Magic & Intimacy"
     },
     {
       "type": "writing_box",
@@ -777,9 +793,8 @@
       "text": "Bond Mechanics (if applicable)"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 11",
-      "note": "Magic & Intimacy; Section 18 — Agency Check"
+      "type": "hint",
+      "text": "Reference: Section 11, Magic & Intimacy; Section 18, Agency Check"
     },
     {
       "type": "prose",
@@ -826,9 +841,8 @@
       "text": "Creature Bonds"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 2",
-      "note": "Flora, Fauna & Ecosystems"
+      "type": "hint",
+      "text": "Reference: Section 2, Flora, Fauna & Ecosystems"
     },
     {
       "type": "writing_box",
@@ -862,9 +876,8 @@
       "text": "Keep these details consistent throughout your writing."
     },
     {
-      "type": "cross_ref",
-      "section": "Section 1",
-      "note": "Geography; Section 2 — Flora & Fauna"
+      "type": "hint",
+      "text": "Reference: Section 1, Geography; Section 2, Flora & Fauna"
     },
     {
       "type": "heading3",
@@ -970,9 +983,8 @@
       "text": "**Common foods/drinks:**"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 2",
-      "note": "What They Eat"
+      "type": "hint",
+      "text": "Reference: Section 2, What They Eat"
     },
     {
       "type": "writing_box",
@@ -997,9 +1009,8 @@
       "text": "SOCIETY & CULTURE"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 3",
-      "note": "Culture, Customs & Daily Life"
+      "type": "hint",
+      "text": "Reference: Section 3, Culture, Customs & Daily Life"
     },
     {
       "type": "heading3",
@@ -1054,9 +1065,8 @@
       "text": "Courtship & Marriage"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 3",
-      "note": "Courtship customs; Section 5 — Marriage laws"
+      "type": "hint",
+      "text": "Reference: Section 3, Courtship customs; Section 5, Marriage laws"
     },
     {
       "type": "writing_box",
@@ -1078,9 +1088,8 @@
       "text": "Language & Communication"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 8",
-      "note": "Language & Communication"
+      "type": "hint",
+      "text": "Reference: Section 8, Language & Communication"
     },
     {
       "type": "writing_box",
@@ -1115,9 +1124,8 @@
       "text": "RELIGION & BELIEF"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 6",
-      "note": "Religion, Myth & Prophecy"
+      "type": "hint",
+      "text": "Reference: Section 6, Religion, Myth & Prophecy"
     },
     {
       "type": "writing_box",
@@ -1161,11 +1169,11 @@
     },
     {
       "type": "heading4",
-      "text": "Crisis of faith — what makes them question their beliefs?"
+      "text": "Crisis of faith: what makes them question their beliefs?"
     },
     {
       "type": "writing_box",
-      "label": "Crisis of faith — what makes them question their beliefs?",
+      "label": "Crisis of faith: what makes them question their beliefs?",
       "height": "80pt"
     },
     {
@@ -1176,9 +1184,8 @@
       "text": "LAWS THAT MATTER"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 5",
-      "note": "Government, Power & Law"
+      "type": "hint",
+      "text": "Reference: Section 5, Government, Power & Law"
     },
     {
       "type": "writing_box",
@@ -1247,9 +1254,8 @@
       "text": "How They're Forced Together"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 13",
-      "note": "Pressure Cooker; Section 14 — Institutions"
+      "type": "hint",
+      "text": "Reference: Section 13, Pressure Cooker; Section 14, Institutions"
     },
     {
       "type": "prose",
@@ -1289,9 +1295,8 @@
       "text": "The \"Why Now?\""
     },
     {
-      "type": "cross_ref",
-      "section": "Section 16",
-      "note": "The \"Why Now?\" Test"
+      "type": "hint",
+      "text": "Reference: Section 16, The \"Why Now?\" Test"
     },
     {
       "type": "heading4",
@@ -1326,9 +1331,8 @@
       "text": "The Invisible Ledger"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 4",
-      "note": "Economy, Labour & Resources"
+      "type": "hint",
+      "text": "Reference: Section 4, Economy, Labour & Resources"
     },
     {
       "type": "prose",
@@ -1352,9 +1356,8 @@
       "text": "How They're Kept Apart"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 16",
-      "note": "Romantasy-Specific Integration"
+      "type": "hint",
+      "text": "Reference: Section 16, Romantasy-Specific Integration"
     },
     {
       "type": "writing_box",
@@ -1391,9 +1394,8 @@
       "text": "Power Dynamics"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 18",
-      "note": "Agency Check"
+      "type": "hint",
+      "text": "Reference: Section 18, Agency Check"
     },
     {
       "type": "writing_box",
@@ -1427,9 +1429,8 @@
       "text": "Location-Based"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 15",
-      "note": "Key Locations"
+      "type": "hint",
+      "text": "Reference: Section 15, Key Locations"
     },
     {
       "type": "writing_box",
@@ -1451,9 +1452,8 @@
       "text": "Time-Based"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 17",
-      "note": "Dual Clock"
+      "type": "hint",
+      "text": "Reference: Section 17, Dual Clock"
     },
     {
       "type": "writing_box",
@@ -1564,9 +1564,8 @@
       "text": "KEY RULES (The 5-7 That Matter Most)"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 17",
-      "note": "Consistency Check"
+      "type": "hint",
+      "text": "Reference: Section 17, Consistency Check"
     },
     {
       "type": "writing_box",
@@ -1646,9 +1645,8 @@
       "text": "THE CHOICE MOMENTS"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 18",
-      "note": "Agency Check"
+      "type": "hint",
+      "text": "Reference: Section 18, Agency Check"
     },
     {
       "type": "heading4",
@@ -1711,18 +1709,18 @@
     {
       "type": "checklist",
       "items": [
-        "Forced Proximity — How: _________________________________________",
-        "Forbidden Love — Why forbidden: __________________________________",
-        "Fated Mates — Type of bond: ______________________________________",
-        "Enemies to Lovers — Why enemies: _________________________________",
-        "Power Imbalance — Who has power: ________________________________",
-        "Arranged Marriage — Why arranged: ________________________________",
+        "Forced Proximity - How: _________________________________________",
+        "Forbidden Love - Why forbidden: __________________________________",
+        "Fated Mates - Type of bond: ______________________________________",
+        "Enemies to Lovers - Why enemies: _________________________________",
+        "Power Imbalance - Who has power: ________________________________",
+        "Arranged Marriage - Why arranged: ________________________________",
         "Only One Bed (or equivalent): _____________________________________",
         "Touch-Based Magic: _____________________________________________",
         "Telepathic/Soul Bond: ___________________________________________",
-        "Protector Romance — Who protects whom: ___________________________",
-        "Grumpy/Sunshine — Who's which: _________________________________",
-        "Slow Burn — What prevents faster resolution: _________________________",
+        "Protector Romance - Who protects whom: ___________________________",
+        "Grumpy/Sunshine - Who's which: _________________________________",
+        "Slow Burn - What prevents faster resolution: _________________________",
         "Other: ________________________________________________________"
       ]
     },
@@ -1743,9 +1741,8 @@
       "text": "THE CLIMAX"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 16",
-      "note": "Final Connection Check"
+      "type": "hint",
+      "text": "Reference: Section 16, Final Connection Check"
     },
     {
       "type": "heading4",
@@ -1805,9 +1802,8 @@
       "text": "CONSISTENCY CHECKLIST"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 17",
-      "note": "Consistency Check"
+      "type": "hint",
+      "text": "Reference: Section 17, Consistency Check"
     },
     {
       "type": "heading3",
@@ -1868,9 +1864,8 @@
       "text": "**Major holidays/festivals:**"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 6",
-      "note": "Sacred Time"
+      "type": "hint",
+      "text": "Reference: Section 6, Sacred Time"
     },
     {
       "type": "writing_box",
@@ -2039,9 +2034,8 @@
       "text": "THE INTEGRATION MANTRA"
     },
     {
-      "type": "cross_ref",
-      "section": "Section 16",
-      "note": "Web of Systems"
+      "type": "hint",
+      "text": "Reference: Section 16, Web of Systems"
     },
     {
       "type": "prose",

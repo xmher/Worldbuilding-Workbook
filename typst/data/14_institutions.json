@@ -21,15 +21,15 @@
     },
     {
       "type": "prose",
-      "text": "Grip means your characters genuinely can't leave. Not \"it would be inconvenient to leave\" or \"they'd feel guilty about leaving,\" but the institution has real, enforceable power over their lives. The academy will kill them if they fail. The courts will destroy their family if they step out of line. The military will execute them for desertion. The marriage contract is magically binding and can never be broken. There are no keys to unlock the cages."
+      "text": "Grip means your characters genuinely can't leave. Not \"it would be inconvenient to leave\" or \"they'd feel guilty about leaving,\" but the institution has real, enforceable power over their lives. The academy will kill them if they fail. The courts will destroy their family if they step out of line. The military will execute them for desertion. The marriage contract is magically binding and can never be broken. There aren't any keys to unlock the cages."
     },
     {
       "type": "prose",
-      "text": "It is the grip of the institution that allows everything else to happen. When the institution has real teeth, every stolen moment between your characters carries weight. What would normally be a flirtatious conversation late at night is now a risk of being expelled. A kiss in the wrong corridor isn't just romance; it's risking everything they've built. The institution takes something that normally occurs between lovers and makes it an act of rebellion, and rebels are very appealing to read about."
+      "text": "It's the grip of the institution that allows everything else to happen. When the institution has real teeth, every stolen moment between your characters carries weight. What would normally be a flirtatious conversation late at night is now a risk of being expelled. A kiss in the wrong corridor isn't just romance; it's risking everything they've built. The institution takes something that normally occurs between lovers and makes it an act of rebellion, and rebels are very appealing to read about."
     },
     {
       "type": "prose",
-      "text": "However, the most easily overlooked element is this: the institution shouldn't just determine whether your characters can be together. It should shape how they love each other. Because of the ranking system at the academy, she has to beat him in combat trials while wanting to kiss him. Due to the court's surveillance, they express their feelings through coded glances and plausible deniability. In the military, because of the chain of command, he gives her orders in public and falls apart in private. The institution doesn't just forbid the relationship; it defines the specific shape the relationship has to take in order to survive."
+      "text": "Here's the most easily overlooked element: the institution shouldn't just determine whether your characters can be together. It should shape how they love each other. Because of the ranking system at the academy, she has to beat him in combat trials while wanting to kiss him. Because of the court's surveillance, they express their feelings through coded glances and plausible deniability. In the military, because of the chain of command, he gives her orders in public and falls apart in private. The institution doesn't just forbid the relationship; it defines the specific shape the relationship has to take to survive."
     },
     {
       "type": "prose",
@@ -37,11 +37,11 @@
     },
     {
       "type": "prose",
-      "text": "**How does your institution shape the way your characters express love?**"
+      "text": "**How do your characters show they care without getting caught?**"
     },
     {
       "type": "hint",
-      "text": "The institution doesn't just forbid the relationship — it determines what the relationship looks like. Court characters love in coded glances; military characters love through orders and obedience; academy characters love through competition and grudging admiration. What specific behaviours, rituals, or workarounds does your institution force your characters to adopt?"
+      "text": "The institution doesn't just forbid the relationship; it determines what the relationship looks like. Court characters love in coded glances; military characters love through orders and obedience; academy characters love through competition and grudging admiration. Think about what specific behaviours, rituals, or workarounds your institution forces them to adopt."
     },
     {
       "type": "prose",
@@ -124,7 +124,7 @@
     },
     {
       "type": "prose",
-      "text": "Most of these institutional types will not be applicable to your story, and that's absolutely fine. If your world has an academy but a court doesn't exist, skip the court section. If your story uses an arranged marriage but no military, go straight there. The subsections are designed to be self-contained, so work through those areas that fit your world and ignore the rest. You can always come back to the others as your story evolves."
+      "text": "Most of these institutional types won't be applicable to your story, and that's absolutely fine. If your world has an academy but a court doesn't exist, skip the court section. If your story uses an arranged marriage but no military, go straight there. The subsections are designed to be self-contained, so work through the areas that fit your world and ignore the rest. You can always come back to the others as your story evolves."
     },
     {
       "type": "divider"
@@ -147,7 +147,7 @@
     },
     {
       "type": "hint",
-      "text": "Your institutional setting will push toward certain romantic dynamics. Knowing which ones helps you lean into your setting's strengths — or deliberately subvert them. Tick all that apply, then note which one(s) you're using."
+      "text": "Your institutional setting will push toward certain romantic dynamics. Knowing which ones helps you lean into your setting's strengths, or deliberately subvert them. Tick all that apply, then note which one(s) you're using."
     },
     {
       "type": "open_table",
@@ -248,11 +248,11 @@
     },
     {
       "type": "prose",
-      "text": "**Are you leaning into that, or deliberately subverting it? If subverting, what are you replacing it with?**"
+      "text": "**Are you leaning into that trope, or working against it?**"
     },
     {
       "type": "hint",
-      "text": "There's nothing wrong with working against the grain, but make sure you're doing it on purpose and replacing the lost tension with something equally strong."
+      "text": "There's nothing wrong with working against the grain, but make sure you're doing it on purpose and replacing the lost tension with something equally strong. If you're subverting the expected trope, name what you're replacing it with."
     },
     {
       "type": "writing_box",
@@ -430,24 +430,39 @@
       "text": "**Your academy's ranking structure:**"
     },
     {
-      "type": "prose",
-      "text": "**In your academy's ranking system, what do those at the top get and what happens to those at the bottom? Where does your protagonist sit in the hierarchy, and where does your love interest sit? How does the gap between them create tension?**"
+      "type": "heading4",
+      "text": "What do top-ranked students get, and what happens to those at the bottom?"
     },
     {
-      "type": "answer_box"
-    },
-    {
-      "type": "prose",
-      "text": "**How does ranking create tension between your characters?**"
+      "type": "writing_box",
+      "label": "What do top-ranked students get, and what happens to those at the bottom?",
+      "height": "100pt"
     },
     {
       "type": "prose",
-      "text": "Competing for the same spot? One at top, one struggling? Must choose between winning and helping each other? Assigned as partners despite rivalry?"
+      "text": "**Where does your protagonist sit in the ranking? Where does the love interest sit?**"
+    },
+    {
+      "type": "hint",
+      "text": "The gap between their ranks is where tension lives. Are they competing for the same spot? Is one at the top while the other struggles? Do they have to choose between winning and helping each other?"
     },
     {
       "type": "writing_box",
       "label": "Your Answer",
       "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What happens to students who wash out or fail?**"
+    },
+    {
+      "type": "hint",
+      "text": "This is part of the institution's grip. If failure means death, exile, or disgrace, the stakes of every test and trial feed directly into the romance. Your characters can't afford to be distracted by each other, and yet they are."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "145pt"
     },
     {
       "type": "heading3",
@@ -520,6 +535,71 @@
       "height": "80pt"
     },
     {
+      "type": "prose",
+      "text": "**How did the people in charge get their positions?**"
+    },
+    {
+      "type": "hint",
+      "text": "Merit, bloodline, political appointment, magical ability? This shapes whether the academy's authority feels earned or imposed, and whether your characters respect or resent it."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**How do ordinary students interact with the academy on a typical day?**"
+    },
+    {
+      "type": "hint",
+      "text": "Map out the daily rhythm: classes, meals, free time, curfew. The schedule is the skeleton of your characters' lives, and the gaps in the schedule are where stolen moments happen."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What other institutions exist alongside the academy?**"
+    },
+    {
+      "type": "hint",
+      "text": "Healing houses, religious chaplains, supply guilds, courts that oversee disputes? Knowing what surrounds the academy reveals where your characters might find allies, resources, or escape routes, and where new conflicts arise."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**How has the academy changed over time?**"
+    },
+    {
+      "type": "hint",
+      "text": "Was it once more open, or more brutal? Did a past scandal reshape the rules? Institutions with a history feel real, and old cracks in the system are exactly the kind of loopholes your characters might exploit."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What happens to graduates who don't fit the mould the academy was designed to produce?**"
+    },
+    {
+      "type": "hint",
+      "text": "Not everyone thrives under institutional pressure. Some wash out; others graduate but are changed in ways the institution didn't intend. Where do the misfits, the rebels, and the broken ones go?"
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
       "type": "divider"
     },
     {
@@ -583,18 +663,34 @@
     },
     {
       "type": "prose",
-      "text": "**Where does each character rank in the court hierarchy?**"
+      "text": "**Who actually runs the court day-to-day?**"
     },
     {
       "type": "hint",
-      "text": "(Reference Section 5 for class structures)"
+      "text": "The monarch may hold power in name, but stewards, advisors, spymasters, and favoured nobles often control access, information, and influence. Who are the gatekeepers your characters have to navigate?"
     },
     {
-      "type": "prose",
-      "text": "**Where does each character rank in the court hierarchy? What is your protagonist's position (title, access, limitations) and your love interest's position?**"
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
-      "type": "answer_box"
+      "type": "heading4",
+      "text": "What is your protagonist's position at court (title, access, limitations)?"
+    },
+    {
+      "type": "writing_box",
+      "label": "What is your protagonist's position at court (title, access, limitations)?",
+      "height": "80pt"
+    },
+    {
+      "type": "heading4",
+      "text": "What is your love interest's position at court?"
+    },
+    {
+      "type": "writing_box",
+      "label": "What is your love interest's position at court?",
+      "height": "80pt"
     },
     {
       "type": "heading4",
@@ -633,11 +729,11 @@
     },
     {
       "type": "prose",
-      "text": "**How could they use customs to steal intimacy while appearing to follow rules?**"
+      "text": "**What customs give them an excuse to be close while looking like they're following the rules?**"
     },
     {
-      "type": "prose",
-      "text": "The dance that allows touch, the ceremony that requires standing close, the negotiation that puts them in the same room."
+      "type": "hint",
+      "text": "The dance that allows touch, the ceremony that requires standing close, the negotiation that puts them in the same room. The best stolen moments hide inside the institution's own rituals."
     },
     {
       "type": "writing_box",
@@ -676,6 +772,58 @@
       "height": "80pt"
     },
     {
+      "type": "prose",
+      "text": "**What happens to someone who falls out of favour at court?**"
+    },
+    {
+      "type": "hint",
+      "text": "Exile, poverty, imprisonment, social death? The worse the fall, the higher the stakes for your characters. This is what keeps them playing the game even when they want to stop."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What does a typical day at court look like for someone without power?**"
+    },
+    {
+      "type": "hint",
+      "text": "Servants, minor nobles, petitioners: they all navigate the same political waters with far less protection. Their daily experience reveals how the court really works, and your characters may depend on these people more than they realise."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**How has the court changed under its current ruler?**"
+    },
+    {
+      "type": "hint",
+      "text": "Was there a recent shift in power, a purge of old families, or a loosening of old restrictions? Courts in transition are full of opportunity and danger, exactly the conditions that push people together."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What tensions exist between the court and other institutions in your world?**"
+    },
+    {
+      "type": "hint",
+      "text": "Does the court clash with the military over authority? Does it compete with a religious order for loyalty? Institutional rivalries create pressure that spills over onto your characters. Consider how your romance characters might get caught in the crossfire."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
       "type": "divider"
     },
     {
@@ -709,7 +857,7 @@
     },
     {
       "type": "hint",
-      "text": "Cold war creates tension through paranoia and espionage — your characters steal intimacy in the gaps between suspicion. Active combat creates urgency through proximity to death — \"we might not survive this\" accelerates every confession. Each generates a different romantic flavour."
+      "text": "Cold war creates tension through paranoia and espionage; your characters steal intimacy in the gaps between suspicion. Active combat creates urgency through proximity to death; \"we might not survive this\" accelerates every confession. Each generates a different romantic flavour."
     },
     {
       "type": "prose",
@@ -743,7 +891,7 @@
     },
     {
       "type": "hint",
-      "text": "Their military roles define the power dynamic. A commander and a soldier under her command face very different romantic obstacles than two soldiers of equal rank. The role also determines what each character has access to — information, movement, authority — and what they risk by loving the wrong person."
+      "text": "Their military roles define the power dynamic. A commander and a soldier under her command face very different romantic obstacles than two soldiers of equal rank. The role also determines what each character has access to (information, movement, authority) and what they risk by loving the wrong person."
     },
     {
       "type": "prose",
@@ -751,10 +899,25 @@
     },
     {
       "type": "prose",
-      "text": "**What is your protagonist's military role (rank, unit, how they earned it)? What is your love interest's military role? How do their roles create power dynamics or romantic obstacles?**"
+      "text": "**What is your protagonist's military role?**"
     },
     {
-      "type": "answer_box"
+      "type": "hint",
+      "text": "Rank, unit, and how they earned it."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "heading4",
+      "text": "What is your love interest's military role?"
+    },
+    {
+      "type": "writing_box",
+      "label": "What is your love interest's military role?",
+      "height": "100pt"
     },
     {
       "type": "prose",
@@ -777,6 +940,58 @@
       "type": "writing_box",
       "label": "What if their relationship interfered with the mission?",
       "height": "80pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Who commands this military, and how did they get that authority?**"
+    },
+    {
+      "type": "hint",
+      "text": "Hereditary generals, elected war leaders, magical champions? The command structure shapes whether orders feel legitimate or resented, and whether defying them feels heroic or reckless."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What happens to soldiers who can no longer fight?**"
+    },
+    {
+      "type": "hint",
+      "text": "Injured, traumatised, magically spent: where do they go? This reveals whether the military values people or just uses them, and it's a real fear your characters carry into every battle."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What does a typical day look like for an ordinary soldier?**"
+    },
+    {
+      "type": "hint",
+      "text": "Drills, rations, downtime, guard duty, marching. The daily grind is where bonds form, and where your characters find (or lose) chances to be alone together."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What tensions exist between the military and civilian life?**"
+    },
+    {
+      "type": "hint",
+      "text": "Do soldiers resent civilians for staying safe? Do civilians fear or distrust the military? If your characters come from opposite sides of this divide, it adds another layer to their relationship."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "heading3",
@@ -845,7 +1060,7 @@
     },
     {
       "type": "hint",
-      "text": "The weight of the sacrifice is what proves the love is real. If what they'd give up is trivial, the choice carries no tension. If it's everything — loyalty, identity, safety — then the reader understands just how much this person matters."
+      "text": "The weight of the sacrifice is what proves the love is real. If what they'd give up is trivial, the choice carries no tension. If it's everything, loyalty, identity, safety, then the reader understands just how much this person matters."
     },
     {
       "type": "writing_box",
@@ -920,6 +1135,32 @@
       "height": "100pt"
     },
     {
+      "type": "prose",
+      "text": "**Who leads this institution, and how did they rise to power?**"
+    },
+    {
+      "type": "hint",
+      "text": "Chosen by the god directly, elected by peers, inherited the role, seized it? The nature of the leadership shapes whether the institution feels sacred or corrupt, and whether defying it feels like rebellion or heresy."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**How has this religious institution changed over time?**"
+    },
+    {
+      "type": "hint",
+      "text": "Was it once more lenient, or more strict? Has it gained or lost political influence? Institutions that have shifted reveal cracks your characters can exploit, or traditions they're expected to restore."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
       "type": "heading3",
       "text": "Religious Conflict with Love"
     },
@@ -985,7 +1226,7 @@
     },
     {
       "type": "hint",
-      "text": "This internal conflict is what makes religious settings so powerful for romance. A character torn between devotion to their god and desire for another person carries a tension that no external obstacle can match — because the obstacle is inside them."
+      "text": "This internal conflict is what makes religious settings so powerful for romance. A character torn between devotion to their god and desire for another person carries a tension that no external obstacle can match, because the obstacle is inside them."
     },
     {
       "type": "writing_box",
@@ -993,12 +1234,16 @@
       "height": "100pt"
     },
     {
-      "type": "heading4",
-      "text": "How do they reconcile (or fail to reconcile) devotion and desire?"
+      "type": "prose",
+      "text": "**How do they try to make their faith and their feelings fit together?**"
+    },
+    {
+      "type": "hint",
+      "text": "Some characters reinterpret their beliefs; others compartmentalise; others break under the contradiction. There's no wrong answer, but there should be a struggle."
     },
     {
       "type": "writing_box",
-      "label": "How do they reconcile (or fail to reconcile) devotion and desire?",
+      "label": "Your Answer",
       "height": "100pt"
     },
     {
@@ -1065,12 +1310,51 @@
     },
     {
       "type": "hint",
-      "text": "Duration shapes the romance. A short-term bond creates urgency — they must figure out their feelings before the timer runs out. A lifetime bond forces them to find a way to coexist, which is slow burn territory."
+      "text": "Duration shapes the romance. A short-term bond creates urgency; they must figure out their feelings before the timer runs out. A lifetime bond forces them to find a way to coexist, which is slow burn territory."
     },
     {
       "type": "writing_box",
       "label": "Your Answer",
       "height": "80pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Who runs this institution, and how did they get that position?**"
+    },
+    {
+      "type": "hint",
+      "text": "Guild master, factory owner, creditor, trade lord? Whether they earned, inherited, or seized their role shapes how your characters feel about the authority over them, and whether defiance feels justified."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What happens to people who fall outside this institution's support?**"
+    },
+    {
+      "type": "hint",
+      "text": "Workers who are fired, apprentices who are dismissed, debtors who default. Where do they go? The answer reveals how much power the institution truly holds, and what your characters stand to lose."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**How has this institution changed over the years?**"
+    },
+    {
+      "type": "hint",
+      "text": "Was the guild once fairer? Has debt bondage gotten worse? Institutions that have shifted over time feel lived-in, and the direction of change tells your characters whether things are getting better or worse."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "heading3",
@@ -1091,15 +1375,11 @@
     },
     {
       "type": "prose",
-      "text": "**If there's a power imbalance, how does it affect the relationship?**"
+      "text": "**Who has more economic power, and what does that do to trust?**"
     },
     {
-      "type": "prose",
-      "text": "Economic dependency creates a specific kind of romantic tension that's different from physical danger or social pressure. It's the \"Do they want me or do they just need me?\" dynamic. The more powerful person carries guilt about whether genuine feeling can exist when they hold someone's livelihood. The less powerful person carries pride, resentment, and the nagging question of whether their own feelings are real or survival instinct. As long as the imbalance exists neither can fully trust the connection, which means the relationship can't truly deepen until the power dynamic shifts, or until both characters find a way to be honest about it."
-    },
-    {
-      "type": "prose",
-      "text": "Can they be equals, or does one have power over the other's livelihood? *(Reference Section 4 for economic power dynamics)*"
+      "type": "hint",
+      "text": "Economic dependency creates a specific \"Do they want me or do they just need me?\" tension. The more powerful person worries about whether genuine feeling can exist when they hold someone's livelihood. The less powerful person carries pride, resentment, and the nagging question of whether their own feelings are real or survival instinct. The relationship can't truly deepen until the power dynamic shifts or both characters confront it honestly. (Reference Section 4 for economic power dynamics.)"
     },
     {
       "type": "writing_box",
@@ -1204,6 +1484,32 @@
       "height": "80pt"
     },
     {
+      "type": "prose",
+      "text": "**Who runs this healing institution, and what are their priorities?**"
+    },
+    {
+      "type": "hint",
+      "text": "A profit-driven owner, a devoted head healer, a religious order, a government? Their priorities shape what care looks like, and whether your characters are treated as people or as problems to manage."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What happens to people who can't access or afford care?**"
+    },
+    {
+      "type": "hint",
+      "text": "Do they suffer at home, rely on underground healers, turn to dangerous magic? The gaps in institutional care reveal your world's values, and may push your characters into desperate choices."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
       "type": "heading3",
       "text": "Vulnerability & Intimacy"
     },
@@ -1235,15 +1541,15 @@
     },
     {
       "type": "prose",
-      "text": "**How does the power imbalance of caregiver/patient affect the relationship?**"
+      "text": "**What does the caregiver/patient power gap look like in your story, and how does it shift?**"
     },
     {
       "type": "prose",
-      "text": "This is perhaps the most difficult dynamic to write well, because readers can identify the imbalance regardless of whether or not the characters recognise it. The caregiver has access to the patient's body and vulnerability in ways that wouldn't normally be permitted; the patient may develop feelings rooted in gratitude and dependence rather than genuine connection. The craft challenge is making sure the relationship earns its ground. The best versions of this trope build in moments where the vulnerable character shows strength despite their condition (sharp wit, fierce independence, refusing pity) and moments where the caregiver becomes vulnerable too (exhaustion, fear of loss, accidentally revealing too much of themselves during a long vigil). If the dynamic doesn't have a two-way emotional connection, then it's weak."
+      "text": "This is perhaps the trickiest dynamic to write well, because readers can spot the imbalance whether the characters recognise it or not. The caregiver has access to the patient's body and vulnerability in ways that wouldn't normally be permitted; the patient may develop feelings rooted in gratitude and dependence rather than genuine connection. The craft challenge is making sure the relationship earns its ground. The best versions of this trope build in moments where the vulnerable character shows strength despite their condition (sharp wit, fierce independence, refusing pity) and moments where the caregiver becomes vulnerable too (exhaustion, fear of loss, accidentally revealing too much of themselves during a long vigil). If the dynamic doesn't have a two-way emotional connection, then it's weak."
     },
     {
-      "type": "prose",
-      "text": "Can genuine connection form when one person is so vulnerable? Does the dynamic shift when recovery happens?"
+      "type": "hint",
+      "text": "Think about when and how the vulnerable character shows strength, and when the caregiver lets their own walls down. The relationship needs to become two-way before it can feel earned."
     },
     {
       "type": "writing_box",
@@ -1260,7 +1566,7 @@
     },
     {
       "type": "hint",
-      "text": "Recovery is transformation. The person who emerges isn't the person who was admitted, and the caregiver has witnessed the entire journey. That shared knowledge — of weakness, of growth, of the messy in-between — becomes a bond no one else can replicate."
+      "text": "Recovery is transformation. The person who emerges isn't the person who was admitted, and the caregiver has witnessed the entire journey. That shared knowledge, of weakness, of growth, of the messy in-between, becomes a bond no one else can replicate."
     },
     {
       "type": "heading4",
@@ -1444,7 +1750,7 @@
     },
     {
       "type": "hint",
-      "text": "Arranged marriages turn ordinary domestic life into an emotional minefield. Sharing a bedroom when you're strangers, seeing each other ill or afraid, navigating servants who report every interaction — these small, inescapable intimacies are where the walls start to crack."
+      "text": "Arranged marriages turn ordinary domestic life into an emotional minefield. Sharing a bedroom when you're strangers, seeing each other ill or afraid, navigating servants who report every interaction. These small, inescapable intimacies are where the walls start to crack."
     },
     {
       "type": "prose",
@@ -1474,7 +1780,7 @@
     },
     {
       "type": "hint",
-      "text": "The performance is where arranged marriages get interesting for romance. Characters who must act like a couple in public start to blur the line between pretence and reality. Every performed kiss, every public hand-hold, every shared glance for the benefit of an audience — at some point, it stops being entirely fake, and neither of them can pinpoint when."
+      "text": "The performance is where arranged marriages get interesting for romance. Characters who must act like a couple in public start to blur the line between pretence and reality. Every performed kiss, every public hand-hold, every shared glance for the benefit of an audience. At some point, it stops being entirely fake, and neither of them can pinpoint when."
     },
     {
       "type": "writing_box",
@@ -1495,6 +1801,32 @@
       "height": "80pt"
     },
     {
+      "type": "prose",
+      "text": "**What other institutions enforce or complicate this marriage?**"
+    },
+    {
+      "type": "hint",
+      "text": "Courts that require heirs, religious orders that bless (or curse) the union, families with competing agendas. The marriage doesn't exist in a vacuum; other institutions press on it from the outside."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**How common are arranged marriages in your world, and how have attitudes toward them changed?**"
+    },
+    {
+      "type": "hint",
+      "text": "If arranged marriage is normal, your characters may not question the institution itself, only their specific match. If it's fallen out of favour, they may feel like relics of an older age. Either way, the cultural context shapes how they feel about being bound."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
       "type": "divider"
     },
     {
@@ -1503,7 +1835,7 @@
     },
     {
       "type": "prose",
-      "text": "Captivity is one of romantasy's most potent institutional settings because it strips everything else away. There are no social niceties, no schedules, no institutional hierarchy to navigate. There's just two people, a locked door, and whatever power imbalance exists between them. This creates the ultimate setting for both intense proximity and vulnerability that other institutions take chapters to build; captivity gets there in a single scene."
+      "text": "Captivity is one of romantasy's most potent institutional settings because it strips everything else away. There aren't any social niceties, no schedules, no institutional hierarchy to navigate. There's just two people, a locked door, and whatever power imbalance exists between them. This creates the ultimate setting for both intense proximity and vulnerability that other institutions take chapters to build; captivity gets there in a single scene."
     },
     {
       "type": "prose",
@@ -1565,11 +1897,46 @@
       "text": "This is the essential question. In every successful captivity romance, the captive must gain some form of leverage, whether through discovering her own power (Feyre gaining High Lord abilities, Poppy discovering her Atlantian heritage, Emilia realising she's a Star Witch), through acquiring information the captor needs, or through the captor's own transformation from seeing the captive as a tool to seeing her as a person. By the time the story ends, both parties must be able to see each other as equals. If they don't, you've got a control story, not a love story."
     },
     {
-      "type": "prose",
-      "text": "**In your captivity dynamic, who holds power at the start? What shifts the balance? When do they become equals? What proves the shift is real (not just the captor being 'nicer')?**"
+      "type": "heading4",
+      "text": "Who holds power at the start of the captivity?"
     },
     {
-      "type": "answer_box"
+      "type": "writing_box",
+      "label": "Who holds power at the start of the captivity?",
+      "height": "80pt"
+    },
+    {
+      "type": "hint",
+      "text": "Think about what changes the balance. Does the captive discover hidden strength, gain leverage, or earn respect? And how do you show they've become equals, not just that the captor started being kinder?"
+    },
+    {
+      "type": "heading4",
+      "text": "What shifts the power balance between them?"
+    },
+    {
+      "type": "writing_box",
+      "label": "What shifts the power balance between them?",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What proves they've become equals?**"
+    },
+    {
+      "type": "hint",
+      "text": "(Write your answer below)"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
+    },
+    {
+      "type": "prose",
+      "text": "&nbsp;"
     },
     {
       "type": "heading3",
@@ -1607,11 +1974,16 @@
     },
     {
       "type": "prose",
-      "text": "**What does the captive observe about the captor that she wouldn't see in any other context?**"
+      "text": "**What does the captive see about the captor that no one else gets to see?**"
     },
     {
-      "type": "prose",
-      "text": "It's these private moments that dissolve the \"villain\" archetype. A captor who is publicly ruthless but privately kind, or exhausted, or conflicted, becomes a person rather than a monster. Lara watching Aren govern Ithicana with genuine care for his people. Poppy seeing Hawke's tender side beneath the flirtation. Feyre witnessing Rhysand's burden behind his mask of cruelty. All of these things only come into existence because the characters are confined together, and they're what make the reader believe the romantic connection is real."
+      "type": "hint",
+      "text": "It's these private moments that dissolve the \"villain\" archetype. A captor who is publicly ruthless but privately kind, or exhausted, or conflicted, becomes a person rather than a monster. These glimpses only exist because the characters are confined together, and they're what make the reader believe the connection is real."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
     },
     {
       "type": "heading3",
@@ -1631,7 +2003,7 @@
     },
     {
       "type": "hint",
-      "text": "Almost every captivity romance has a moment where something is revealed — a true identity, a hidden agenda, the real reason for confinement — that shatters the trust built so far. What is that moment for your characters, and how is trust rebuilt through action rather than words?"
+      "text": "Almost every captivity romance has a moment where something is revealed, a true identity, a hidden agenda, the real reason for confinement, that shatters the trust built so far. What is that moment for your characters, and how is trust rebuilt through action rather than words?"
     },
     {
       "type": "prose",
@@ -1695,7 +2067,7 @@
     },
     {
       "type": "prose",
-      "text": "Why they choose to stay (not dependency or conditioning — a real reason):"
+      "text": "Why they choose to stay (not dependency or conditioning, but a real reason):"
     },
     {
       "type": "writing_box",
@@ -1711,7 +2083,7 @@
     },
     {
       "type": "prose",
-      "text": "Resistance movements, thieves' guilds, spy networks, and hidden orders create a unique romantic pressure: the relationship exists inside a secret, and secrets bind people together in ways that ordinary proximity can't. When two characters share membership in something forbidden, every interaction carries double meaning. They have a public life and a hidden one, and the hidden life is where the real connection forms. The secrecy itself becomes intimate — knowing someone's true allegiance, covering for them, trusting them with information that could get you killed. That's not just proximity. That's a bond."
+      "text": "Resistance movements, thieves' guilds, spy networks, and hidden orders create a unique romantic pressure: the relationship exists inside a secret, and secrets bind people together in ways that ordinary proximity can't. When two characters share membership in something forbidden, every interaction carries double meaning. They have a public life and a hidden one, and the hidden life is where the real connection forms. The secrecy itself becomes intimate: knowing someone's true allegiance, covering for them, trusting them with information that could get you killed. That's not just proximity. That's a bond."
     },
     {
       "type": "prose",
@@ -1753,7 +2125,33 @@
     },
     {
       "type": "hint",
-      "text": "This is the institutional grip. The consequence of exposure must be severe enough that every interaction between your characters carries real risk — not just for them, but for everyone they're protecting."
+      "text": "This is the institutional grip. The consequence of exposure must be severe enough that every interaction between your characters carries real risk, not just for them, but for everyone they're protecting."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**Who leads the organisation, and how did they earn that role?**"
+    },
+    {
+      "type": "hint",
+      "text": "Founder, elected leader, strongest fighter, most connected? The leader's authority, and whether it's respected or resented, shapes the internal politics your characters must navigate alongside their feelings for each other."
+    },
+    {
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "100pt"
+    },
+    {
+      "type": "prose",
+      "text": "**What happens to members who want to leave?**"
+    },
+    {
+      "type": "hint",
+      "text": "Can they walk away, or do they know too much? An organisation that won't let you go is another cage, and your characters may find themselves trapped by the very group they thought would set them free."
     },
     {
       "type": "writing_box",
@@ -1783,7 +2181,7 @@
     },
     {
       "type": "hint",
-      "text": "If both know, the shared secret is an instant bond — \"us against the world.\" If one discovers the other's involvement, the discovery becomes a turning point: do they protect the secret, exploit it, or join?"
+      "text": "If both know, the shared secret is an instant bond: \"us against the world.\" If one discovers the other's involvement, the discovery becomes a turning point: do they protect the secret, exploit it, or join?"
     },
     {
       "type": "writing_box",
@@ -1809,7 +2207,7 @@
     },
     {
       "type": "hint",
-      "text": "The gap between the public mask and the private truth is where the romantic tension lives. A noblewoman who's secretly funding the resistance. A palace guard who's reporting to the underground. The person they pretend to be and the person they actually are — the love interest gets to see both."
+      "text": "The gap between the public mask and the private truth is where the romantic tension lives. A noblewoman who's secretly funding the resistance. A palace guard who's reporting to the underground. The person they pretend to be and the person they actually are. The love interest gets to see both."
     },
     {
       "type": "structured_table",
@@ -1822,7 +2220,7 @@
         [
           "Example: Inej (Six of Crows)",
           "Acrobat and performer",
-          "Wraith — the Dregs' spy and assassin"
+          "Wraith, the Dregs' spy and assassin"
         ]
       ],
       "rows": [
@@ -1850,11 +2248,11 @@
     },
     {
       "type": "prose",
-      "text": "**How does maintaining the double life affect their ability to be honest with each other?**"
+      "text": "**Where does the habit of lying bleed into their relationship with each other?**"
     },
     {
       "type": "hint",
-      "text": "Characters who spend their days performing a lie often struggle to stop performing, even with someone they trust. The habit of secrecy can become a barrier to genuine intimacy."
+      "text": "Characters who spend their days performing a lie often struggle to stop performing, even with someone they trust. The habit of secrecy can become a barrier to genuine intimacy. The mask doesn't always come off just because you want it to."
     },
     {
       "type": "writing_box",
@@ -1904,18 +2302,16 @@
     },
     {
       "type": "prose",
-      "text": "**Do your characters believe in the institution's stated purpose?**"
+      "text": "**Does your protagonist buy into the institution's mission, or see through it? What about the love interest?**"
     },
     {
-      "type": "prose",
-      "text": "Are they idealists who believe in the mission? Cynics who see the truth? One of each? Do their views change?"
+      "type": "hint",
+      "text": "An idealist paired with a cynic creates instant friction, and a reason to keep talking. Two idealists who discover the truth together share a bond of shared betrayal. Think about where each character starts and how their view shifts."
     },
     {
-      "type": "prose",
-      "text": "**Does your protagonist believe in the institution's stated purpose, or do they see the reality beneath? What about your love interest? Are they idealists, cynics, or one of each?**"
-    },
-    {
-      "type": "answer_box"
+      "type": "writing_box",
+      "label": "Your Answer",
+      "height": "145pt"
     },
     {
       "type": "prose",
@@ -1932,11 +2328,11 @@
     },
     {
       "type": "prose",
-      "text": "**Does disillusionment bring them together or create conflict?**"
+      "text": "**When they see the truth, does it pull them together or push them apart?**"
     },
     {
-      "type": "prose",
-      "text": "Do they bond over shared revelation? Or does one still believe while the other has lost faith?"
+      "type": "hint",
+      "text": "Do they bond over the shared revelation? Or does one cling to belief while the other has lost faith?"
     },
     {
       "type": "writing_box",
@@ -2070,7 +2466,7 @@
     },
     {
       "type": "hint",
-      "text": "The scariest moment isn't the institution failing — it's the characters facing each other without any external reason to stay. What does your couple do when the cage door opens?"
+      "text": "The scariest moment isn't the institution failing. It's the characters facing each other without any external reason to stay. What does your couple do when the cage door opens?"
     },
     {
       "type": "prose",
@@ -2096,7 +2492,7 @@
     },
     {
       "type": "hint",
-      "text": "They can't go back to the way things were before the relationship. Something has to shift — their rank, their public face, their willingness to break rules, or the institution itself."
+      "text": "They can't go back to the way things were before the relationship. Something has to shift: their rank, their public face, their willingness to break rules, or the institution itself."
     },
     {
       "type": "writing_box",
@@ -2177,7 +2573,7 @@
     },
     {
       "type": "prose",
-      "text": "**How does your institution reflect or enforce government structures (from Section 5)?**"
+      "text": "**What is the relationship between your institution and the government (from Section 5)?**"
     },
     {
       "type": "prose",
@@ -2190,11 +2586,11 @@
     },
     {
       "type": "prose",
-      "text": "**How does your institution reflect cultural values (from Section 3)?**"
+      "text": "**What cultural values does your institution enforce or exploit (from Section 3)?**"
     },
     {
       "type": "prose",
-      "text": "What beliefs about honour, duty, family, or success does this institution embody or exploit?"
+      "text": "What beliefs about honour, duty, family, or success does it lean on?"
     },
     {
       "type": "writing_box",
@@ -2203,11 +2599,11 @@
     },
     {
       "type": "prose",
-      "text": "**How does economic power shape your institution (from Section 4)?**"
+      "text": "**Who funds your institution, and who profits from it (from Section 4)?**"
     },
     {
       "type": "prose",
-      "text": "Who funds it, who profits from it, and who pays the price of its existence?"
+      "text": "Follow the money. It reveals who really holds power."
     },
     {
       "type": "writing_box",
@@ -2216,11 +2612,11 @@
     },
     {
       "type": "prose",
-      "text": "**How does religion intersect with your institution (from Section 6)?**"
+      "text": "**Where does religion support or clash with your institution (from Section 6)?**"
     },
     {
       "type": "prose",
-      "text": "Does faith legitimise, condemn, or operate parallel to this institution's authority?"
+      "text": "Does faith back up the institution's authority, condemn it, or run alongside it?"
     },
     {
       "type": "writing_box",
@@ -2229,11 +2625,11 @@
     },
     {
       "type": "prose",
-      "text": "**How does magic affect how the institution functions (from Section 10)?**"
+      "text": "**What role does magic play in how your institution works (from Section 10)?**"
     },
     {
       "type": "prose",
-      "text": "Does magic enable control, create hierarchy, or offer paths to subvert the institution's rules?"
+      "text": "Does magic help the institution control people, create rankings, or give your characters ways to break the rules?"
     },
     {
       "type": "writing_box",
