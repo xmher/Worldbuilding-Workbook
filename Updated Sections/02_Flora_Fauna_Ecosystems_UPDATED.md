@@ -290,7 +290,7 @@ _______________________________________________________________
 
 #### *If your world has large magical creatures, what do they eat — and who provides it?*
 
-*A hundred dragons at one military base require tonnes of meat per week. Someone raises that livestock. The dragon-riding nobility may never have given a second thought to the farming class that sustains them — and your protagonist might be from that class. What hidden dependency exists in your world, and could it create tension between your characters?*
+*Large magical creatures need enormous resources. Who provides them, and what does that dependency cost?*
 
 **If your world has large magical creatures, what do they eat and who provides it?**
 
