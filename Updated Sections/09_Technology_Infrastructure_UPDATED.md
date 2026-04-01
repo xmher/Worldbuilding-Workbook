@@ -18,7 +18,7 @@ Consider it this way. A world where characters can teleport, communicate instant
 
 This doesn't mean low-tech is automatically better than high-tech. What it means is that every technology choice has a romantic consequence, and you should be making those choices deliberately. If you provide your characters with instant communication, you've removed the ache of waiting, so you'll need to find another source of tension. If you make healing magic simple, then you cannot use injury as your constraint, so something else will have to be. The constraint engine only stalls when everything is easy. Find something that is difficult.
 
-Technology constraints work through two mechanisms: **containment** and **conversion**. Containment is how your world manufactures unavoidable contact. Inn rooms, sleeping bags, escorted travel, shared dragon flights, carriages where there is no space to move away from each other. Conversion is how physical proximity gets translated into an emotional beat. Injury requiring touch, touch legitimising confession, shared meals revealing class difference, bathing creating vulnerability.
+Technology constraints work through two mechanisms: **containment** and **conversion**. Containment is how your world manufactures unavoidable contact. Inn rooms, sleeping bags, escorted travel, shared dragon flights, carriages where there's no space to move away from each other. Conversion is how physical proximity gets translated into an emotional beat. Injury requiring touch, touch legitimising confession, shared meals revealing class difference, bathing creating vulnerability.
 
 Effective romantasy technology choices do both simultaneously. The snowbound inn in *A Court of Mist and Fury* contains Feyre and Rhysand in the same bed while converting that closeness into confessional pacing. And the sleeping bag in *From Blood and Ash* contains Poppy and Hawke while converting body heat into erotic tension. Once you get the containment right, the conversion follows.
 
@@ -204,7 +204,7 @@ Reference points: Stone Age, Bronze/Iron Age, Medieval, Renaissance, Early Moder
 
 ## Movement & Distance
 
-Travel is the original romantic constraint. How much space there is between your characters and how difficult it is to get closer to each other will determine if the time apart is merely inconvenient or agonizing. Days together on the road create a completely different kind of intimacy than stepping through a portal. Sometimes the journey itself *is* the romance.
+Travel is the original romantic constraint. How much space there is between your characters and how difficult it is to get closer will determine if the time apart is merely inconvenient or agonising. Days together on the road create a completely different kind of intimacy than stepping through a portal. Sometimes the journey itself *is* the romance.
 
 Forced proximity works by generating iterated contact under stakes: danger, surveillance, institutional rules. All of these increase the frequency of small intimacy opportunities. Shared routines, mutual observation, training, tactical decisions. In *Fourth Wing*, Rebecca Yarros made this mechanism very clear through design: because Violet's and Xaden's dragons can't be separated for more than a few days, Xaden has to go along with her travel and postings. The proximity is dictated by the biological nature of the dragons, not character choice, which means the characters can attribute their closeness to necessity rather than desire. However, even though the characters may maintain a facade of not wanting to be close, the relationship continues to grow beneath the surface.
 
@@ -246,7 +246,7 @@ But forced proximity doesn't always require a road. In *The Cruel Prince*, Holly
 &nbsp;
 
 **What short-distance travel forces your characters into close quarters?**
-*A carriage, a small boat, a shared mount — short journeys in enclosed or cramped spaces can carry as much romantic tension as a weeks-long trek. What transport in your world creates that kind of pressurised intimacy?*
+*A carriage, a small boat, a shared mount: short journeys in enclosed or cramped spaces can carry as much romantic tension as a weeks-long trek. What transport in your world creates that kind of pressurised intimacy?*
 
 _______________________________________________________________
 
@@ -279,17 +279,17 @@ _______________________________________________________________
 &nbsp;
 
 **Who builds and maintains roads, bridges, and ports?**
-*When infrastructure breaks down, isolation follows — and isolation is where romantasy thrives. Knowing who maintains the roads and bridges tells you where they'll fail, and where your characters might find themselves stranded together.*
+*When infrastructure breaks down, isolation follows, and isolation is where romantasy thrives. Knowing who maintains the roads and bridges tells you where they'll fail, and where your characters might find themselves stranded together.*
 
 Government? Local lords? Guilds? No one?
 
 _______________________________________________________________
 
 **What happens when infrastructure breaks down?**
-*A collapsed bridge, a flooded road, a burned way station — these failures strand characters, reroute journeys, and create the kind of isolation that forces intimacy. Knowing where your infrastructure is fragile tells you where your plot can strand your characters together.*
+*A collapsed bridge, a flooded road, a burned way station: these failures strand characters, reroute journeys, and create the kind of isolation that forces intimacy. Knowing where your infrastructure is fragile tells you where your plot can strand your characters together.*
 
 **What infrastructure is most likely to fail, and what happens when it does?**
-*A collapsed bridge, a flooded road, a burned way station — these failures strand travellers and create isolation.*
+*A collapsed bridge, a flooded road, a burned way station: these failures strand travellers and create isolation.*
 
 *(Write your answer below)*
 
@@ -359,7 +359,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What is the fastest way to communicate, and what does it cost?**
-*Urgent messages carry weight — the decision to use the fastest method signals that something matters enough to pay the price. What would justify it?*
+*Urgent messages carry weight. The decision to use the fastest method signals that something matters enough to pay the price. What would justify it?*
 
 _______________________________________________________________
 
@@ -387,7 +387,7 @@ Illustrate how your characters create privacy when it's not available to them. A
 In many historical and fantasy settings, the biggest privacy issue isn't surveillance technology. It's people. Servants, attendants, family members, and household staff see and hear everything. Their presence shapes what can be said and done, and who knows the household's secrets.
 
 **How private are domestic spaces?**
-*The thickness of walls and the layout of rooms determine whether whispered words stay between two people or become public knowledge. Privacy at home — or the lack of it — shapes every intimate moment.*
+*The thickness of walls and the layout of rooms determine whether whispered words stay between two people or become public knowledge. Privacy at home (or the lack of it) shapes every intimate moment.*
 
 **How thick are the walls? Do people have separate rooms, or share space?**
 
@@ -399,12 +399,12 @@ _______________________________________________________________
 _______________________________________________________________
 
 **Who can enter someone's private space uninvited?**
-*A private space is only as private as the people who can walk in. Servants, family members, landlords, officials — if others have access, then "alone" is always conditional.*
+*A private space is only as private as the people who can walk in. Servants, family members, landlords, officials: if others have access, then "alone" is always conditional.*
 
 _______________________________________________________________
 
 **What surveillance exists?**
-*Surveillance determines how carefully your characters must perform in public. Magical scrying, spy networks, and informants all create different levels of pressure — and different risks if your characters are caught together.*
+*Surveillance determines how carefully your characters must perform in public. Magical scrying, spy networks, and informants all create different levels of pressure, and different risks if your characters are caught together.*
 
 **What methods of watching or monitoring people exist in your world?**
 *Think about magical scrying, spy networks, informants, or nothing systematic at all.*
@@ -424,7 +424,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **Design a stolen moment for your characters.**
-*In worlds where privacy is scarce, every stolen moment carries the weight of an entire scene. Think about how your characters would navigate surveillance to create a private interaction — and what the consequences would be if they were caught.*
+*In worlds where privacy is scarce, every stolen moment carries the weight of an entire scene. Think about how your characters would navigate surveillance to create a private interaction, and what the consequences would be if they were caught.*
 
 | Question | Your Answer |
 |---|---|
@@ -450,7 +450,7 @@ Cooking, cleaning, dressing, attending, managing households. Are they present fo
 Loyal retainers? Interchangeable staff? Family-like? Strictly hierarchical?
 
 **Can servants be trusted with secrets?**
-*What motivates a servant's loyalty — or disloyalty — affects whether your characters can ever truly be alone. A servant who becomes a trusted confidant can enable the romance; one who becomes an informant can destroy it.*
+*What motivates a servant's loyalty (or disloyalty) affects whether your characters can ever truly be alone. A servant who becomes a trusted confidant can enable the romance; one who becomes an informant can destroy it.*
 
 What motivates their loyalty or disloyalty?
 
@@ -469,12 +469,12 @@ What motivates their loyalty or disloyalty?
 &nbsp;
 
 **How do servants affect what your characters can do privately?**
-*The constant presence of others shapes intimacy. What strategies do your characters use to find moments alone — and what happens when those strategies fail?*
+*The constant presence of others shapes intimacy. What strategies do your characters use to find moments alone, and what happens when those strategies fail?*
 
 ---
 
 ### ✦ Checkpoint: Distance, Communication & Privacy
-*Pause and look at your answers so far. How do your travel times, communication speeds, and privacy levels work together — do they create consistent obstacles, or does one undercut the others? If your characters can teleport instantly but also can't send a message, ask yourself whether that tension is intentional or a gap you need to resolve. Adjust before moving on.*
+*Pause and look at your answers so far. How do your travel times, communication speeds, and privacy levels work together? Do they create consistent obstacles, or does one undercut the others? If your characters can teleport instantly but also can't send a message, ask yourself whether that tension is intentional or a gap you need to resolve. Adjust before moving on.*
 
 ---
 
@@ -485,7 +485,7 @@ Daily life shapes the sensory world of your story: the quality of light, the tem
 ### Time & Labour
 
 **How much of the day do ordinary people spend on survival tasks?**
-*Food preparation, water collection, heating, cleaning — how does this shape what time is left for anything else?*
+*Food preparation, water collection, heating, cleaning: how does this shape what time is left for anything else?*
 
 *(Write your answer below)*
 
@@ -546,10 +546,10 @@ _______________________________________________________________
 
 ### Water, Sanitation & Bathing
 
-Bathing technology shapes some of romantasy's most charged scenes. The setting — river, bathhouse, private chamber — determines the kind of vulnerability on display. In pre-industrial worlds, a true bath may be a luxury, making the act itself significant.
+Bathing technology shapes some of romantasy's most charged scenes. The setting (river, bathhouse, private chamber) determines the kind of vulnerability on display. In pre-industrial worlds, a true bath may be a luxury, making the act itself significant.
 
 **⬥ Core: How do people get clean water?**
-*Wells, rivers, aqueducts, pumps, magical purification — the answer shapes daily labour, disease risk, and who controls a basic necessity.*
+*Wells, rivers, aqueducts, pumps, magical purification: the answer shapes daily labour, disease risk, and who controls a basic necessity.*
 
 **Where does drinking water come from, and how far do people travel to get it?**
 
@@ -583,7 +583,7 @@ _______________________________________________________________
 **What does your world smell like?**
 A world without modern sanitation has a rich sensory landscape. Cities smell of woodsmoke, horse, tallow, and river mud. People smell of sweat, leather, and herbs. These baseline scents make your world feel lived-in.
 
-**What are the dominant smells of your world — in cities, in homes, in the countryside?**
+**What are the dominant smells of your world: in cities, in homes, in the countryside?**
 
 *(Write your answer below)*
 
@@ -637,7 +637,7 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 &nbsp;
 
 **What would a shared meal reveal about the gap between your characters?**
-*Who hosts, who serves, who speaks, who may leave — think about who would feel out of place.*
+*Who hosts, who serves, who speaks, who may leave: think about who would feel out of place.*
 
 *(Write your answer below)*
 
@@ -680,7 +680,7 @@ When writing these types of scenes, keep in mind that medical environments tend 
 ### Medicine & Healing
 
 **⬥ Core: What medical knowledge exists?**
-*Medical technology determines what injuries are survivable and what illnesses are death sentences. The gap between "hurt" and "dying" is where caretaking intimacy lives — and your world's medicine determines how wide that gap is.*
+*Medical technology determines what injuries are survivable and what illnesses are death sentences. The gap between "hurt" and "dying" is where caretaking intimacy lives, and your world's medicine determines how wide that gap is.*
 
 | Condition | Treatment Available | Effectiveness |
 |---|---|---|
@@ -702,7 +702,7 @@ Physicians, healers, midwives, herbalists, magical healers, family members:
 Cost? Location? Class? Connections?
 
 **Does magical healing exist?**
-*Magical healing can remove stakes from injuries — unless it has limits, costs, or is inaccessible to your characters. The most effective romantasy healing systems give with one hand and take with the other.*
+*Magical healing can remove stakes from injuries, unless it has limits, costs, or is inaccessible to your characters. The most effective romantasy healing systems give with one hand and take with the other.*
 
 **Does magical healing exist? How common is it, and what can't it heal?**
 *Think about effectiveness, availability, and cost. The most effective romantasy healing systems give with one hand and take with the other.*
@@ -725,12 +725,12 @@ Cost? Location? Class? Connections?
 | Usually fatal | |
 
 **What chronic conditions exist, and how are they managed?**
-*Chronic illness shapes daily life in ways acute injury doesn't. A character who lives with ongoing health concerns experiences vulnerability differently — it's not a single dramatic moment but a constant reality that the love interest must understand and accommodate.*
+*Chronic illness shapes daily life in ways acute injury doesn't. A character who lives with ongoing health concerns experiences vulnerability differently. It's not a single dramatic moment but a constant reality that the love interest must understand and accommodate.*
 
 ### Contraception & Reproduction
 
 **⬥ Core: What contraception exists?**
-*In romantasy, contraception technology — or its absence — directly affects intimate scenes and their consequences. What options your characters have shapes what intimacy means and what risks it carries.*
+*In romantasy, contraception technology (or its absence) directly affects intimate scenes and their consequences. What options your characters have shapes what intimacy means and what risks it carries.*
 
 | Method | Effectiveness | Availability |
 |---|---|---|
@@ -739,7 +739,7 @@ Cost? Location? Class? Connections?
 | Magical prevention | | |
 
 **Who has access to contraception?**
-*Access to contraception is rarely equal. Class, gender, knowledge, and cost all shape who can control the consequences of intimacy — and who can't.*
+*Access to contraception is rarely equal. Class, gender, knowledge, and cost all shape who can control the consequences of intimacy, and who can't.*
 
 Available to all? Expensive? Forbidden? Requires specific knowledge? Class-dependent?
 
@@ -764,7 +764,7 @@ _______________________________________________________________
 
 ## Identity & Documentation
 
-You've established what can heal your characters and what can hurt them. Now consider what can prove who they are — or let them hide it. Official documents allow for certain possibilities and restrict others. Where documentation is rigidly enforced, there are definitive identities, marriages can be proven, and your history will follow you. Without official documentation, you can reinvent yourself, unions can remain private and no one can verify your true identity. Each option provides potential for romantic engagement, just in vastly different ways.
+You've established what can heal your characters and what can hurt them. Now consider what can prove who they are, or let them hide it. Official documents allow for certain possibilities and restrict others. Where documentation is rigidly enforced, there are definitive identities, marriages can be proven, and your history will follow you. Without official documentation, you can reinvent yourself, unions can remain private and no one can verify your true identity. Each option provides potential for romantic engagement, just in vastly different ways.
 
 Gaps in documentation and literacy create some of romantasy's most intense moments. When Feyre is Under the Mountain in ACOTAR, she's put into a situation where she must solve a puzzle with writing on the levers. Feyre can't read the writing and the danger is created by the "tech gap" she has. Rhysand finds out that Feyre is illiterate and decides to keep it a secret, creating both leverage and protection. Readers and critics have extensively discussed how Feyre's lack of reading skills were treated, since readers consider tech gaps as moral indicators of a love interest's behaviour: does he educate, shame, hide, or use her lack of education for his own gain?
 
@@ -781,12 +781,12 @@ Whether a character conceals their identity or reveals it is entirely dependent 
 | Property records | | |
 
 **How do people prove identity?**
-*How identity is verified determines whether your characters can hide who they are — and what it takes to expose them. A world that relies on personal knowledge is very different from one with magical verification.*
+*How identity is verified determines whether your characters can hide who they are, and what it takes to expose them. A world that relies on personal knowledge is very different from one with magical verification.*
 
 Personal knowledge? Documents? Witnesses? Magical verification?
 
 **What makes a marriage legally valid and provable?**
-*Marriage documentation affects inheritance, legitimacy, and whether unions can be hidden or denied. What your characters need for a legal marriage — and what happens without it — shapes whether secret unions are possible.*
+*Marriage documentation affects inheritance, legitimacy, and whether unions can be hidden or denied. What your characters need for a legal marriage, and what happens without it, shapes whether secret unions are possible.*
 
 **What happens without documentation?**
 *If there's no proof of birth, identity, or marriage, the consequences can be liberating or devastating. A character with no records can reinvent themselves; a character who can't prove their marriage has no legal protection.*
@@ -807,7 +807,7 @@ From documents and identity, we move to the physical objects that surround your 
 ### Clothing & Textiles
 
 **What materials are clothes made from?**
-*Fabric speaks to wealth, region, and practicality. What your protagonist's clothing communicates before they say a word — and how starkly it contrasts with what the love interest wears — tells the reader everything about the gap between their worlds.*
+*Fabric speaks to wealth, region, and practicality. What your protagonist's clothing communicates before they say a word, and how starkly it contrasts with what the love interest wears, tells the reader everything about the gap between their worlds.*
 
 **How are clothes made?**
 *How clothes are produced affects how easily your characters can disguise themselves, blend into another class, or replace clothing damaged in action.*
@@ -818,7 +818,7 @@ Hand-sewn, tailored, mass-produced:
 Can people dress themselves, or do they need help? Clothing that requires assistance is a privacy issue, and undressing becomes an act that requires trust.
 
 **What does clothing signal about class and status?**
-*Clothing can be a disguise, a mark of belonging, or an insurmountable barrier. When your characters cross class lines, what they're wearing is the first thing that betrays or protects them — and the first thing a love interest notices.*
+*Clothing can be a disguise, a mark of belonging, or an insurmountable barrier. When your characters cross class lines, what they're wearing is the first thing that betrays or protects them, and the first thing a love interest notices.*
 
 **What does your protagonist typically wear? What does your love interest wear? What would each notice first about the other's clothing?**
 
@@ -839,7 +839,7 @@ _______________________________________________________________
 Height limits shape cityscapes and the symbolic power of towers. What does it mean when someone lives in the highest room, and who has to climb all those stairs to reach them?
 
 **What construction techniques exist?**
-*Construction methods determine what's physically possible in your world — and what rooms, hiding places, and escape routes your characters have access to.*
+*Construction methods determine what's physically possible in your world, and what rooms, hiding places, and escape routes your characters have access to.*
 
 _______________________________________________________________
 
@@ -859,7 +859,7 @@ _______________________________________________________________
 ### Entertainment & Leisure
 
 **What entertainment exists in your world?**
-*Dances, performances, feasts, games, competitions — these are settings where characters interact outside of duty or danger.*
+*Dances, performances, feasts, games, competitions: these are settings where characters interact outside of duty or danger.*
 
 _______________________________________________________________
 
@@ -869,10 +869,10 @@ _______________________________________________________________
 Musical instruments, game equipment, performance spaces:
 
 **What technologies are luxuries only the wealthy can afford?**
-*Luxury technologies mark class distinction. What would immediately identify someone as wealthy — or as someone pretending to be? When your characters cross class lines, these are the details that betray or protect them.*
+*Luxury technologies mark class distinction. What would immediately identify someone as wealthy, or as someone pretending to be? When your characters cross class lines, these are the details that betray or protect them.*
 
 **What technologies are available to everyone, and what is completely out of reach for the poor?**
-*Inaccessible technology creates invisible barriers. What would a poor character simply never encounter in their normal life — and how would they react when they first experienced it alongside a love interest who takes it for granted?*
+*Inaccessible technology creates invisible barriers. What would a poor character simply never encounter in their normal life, and how would they react when they first experienced it alongside a love interest who takes it for granted?*
 
 | Category | Examples in Your World |
 |---|---|
@@ -901,7 +901,7 @@ _______________________________________________________________
 ### Energy Sources
 
 **What powers your world?**
-*The energy sources available — and who controls them — shape daily life, industry, and the balance of power.*
+*The energy sources available, and who controls them, shape daily life, industry, and the balance of power.*
 
 | Energy Source | What It Powers | Who Controls It |
 |---|---|---|
@@ -927,7 +927,7 @@ _______________________________________________________________
 Daily life tells you what's normal for your characters. Now consider what disrupts that normal. Weapons shape who holds physical power and who depends on someone else for protection. The availability of weapons, who is allowed to carry them, and what training exists all determine the physical stakes your characters face.
 
 **What weapons exist?**
-*Available weapons shape both conflict and protection. What your protagonist can fight with — or against — determines the physical stakes of every dangerous scene and how much they depend on the person beside them.*
+*Available weapons shape both conflict and protection. What your protagonist can fight with, or against, determines the physical stakes of every dangerous scene and how much they depend on the person beside them.*
 
 **What weapons exist in your world?**
 *List examples of melee, ranged, siege, and magical weapons.*
@@ -944,17 +944,17 @@ Daily life tells you what's normal for your characters. Now consider what disrup
 *Armour protects but also constrains. A character in full plate is safe but untouchable; a character in leather is vulnerable but mobile. The trade-off between protection and accessibility is a physical metaphor for the emotional walls your characters build.*
 
 **What's the most advanced military technology?**
-*The cutting edge of warfare reveals what powers fear most. What weapons or defences give decisive advantage — and how does that shape the danger your characters face?*
+*The cutting edge of warfare reveals what powers fear most. What weapons or defences give decisive advantage, and how does that shape the danger your characters face?*
 
 **Who has access to weapons?**
-*A character who's forbidden from carrying weapons faces danger differently than one who is armed — and depends differently on the person beside them. Weapon restrictions also shape training dynamics: if your protagonist isn't allowed to train, learning in secret becomes an act of rebellion and trust.*
+*A character who's forbidden from carrying weapons faces danger differently than one who is armed, and depends differently on the person beside them. Weapon restrictions also shape training dynamics: if your protagonist isn't allowed to train, learning in secret becomes an act of rebellion and trust.*
 
 Restricted to military/nobility? Commonly owned? Forbidden to certain groups?
 
 **Does weapons training exist, and who has access to it?**
 Who trains, where, and under what conditions? Is training restricted by class, gender, or institution?
 
-*Training and sparring scenes carry natural romantic tension — physical proximity, sanctioned touch, one person in authority over another's body, all under the cover of "practice." If your characters train together, that dynamic can do double duty.*
+*Training and sparring scenes carry natural romantic tension: physical proximity, sanctioned touch, one person in authority over another's body, all under the cover of "practice." If your characters train together, that dynamic can do double duty.*
 
 **Is there a training or sparring dynamic between your characters?**
 
@@ -976,7 +976,7 @@ Who trains, where, and under what conditions? Is training restricted by class, g
 Weapons determine physical power. Knowledge determines every other kind. Who has access to information and who does not, shapes power dynamics in romance just as much as wealth or title. The ability to read when others can't is a particularly significant form of power. In a world where books are hard to come by, the value of giving one as a gift is based on the fact that books are scarce. And the act of teaching someone to read, sharing knowledge, or revealing a hidden library is an act of trust and intimacy that technology level makes possible.
 
 **What do people write on?**
-*Writing surfaces affect who can communicate in writing and how portable that communication is. A love letter carved into wax is a very different object from one inked on paper — and the material itself signals what the writer had access to.*
+*Writing surfaces affect who can communicate in writing and how portable that communication is. A love letter carved into wax is a very different object from one inked on paper, and the material itself signals what the writer had access to.*
 
 Paper, parchment, clay, wax tablets, magical surfaces:
 
@@ -986,7 +986,7 @@ Paper, parchment, clay, wax tablets, magical surfaces:
 _______________________________________________________________
 
 **How are books made?**
-*How books are produced determines how scarce they are — and scarcity changes their meaning. In a world where every book is hand-copied, giving one is an act of extraordinary generosity and intimacy.*
+*How books are produced determines how scarce they are, and scarcity changes their meaning. In a world where every book is hand-copied, giving one is an act of extraordinary generosity and intimacy.*
 
 Hand-copied, printed, magically reproduced:
 
@@ -1019,17 +1019,17 @@ Universal? Class-restricted? Gender-restricted? If your characters come from dif
 If your world has magic, it doesn't exist in a vacuum. It interacts with technology, replaces it, enhances it, or conflicts with it. The key question for romance isn't "how does magic work?" but "who has access to magical solutions and who doesn't?" That asymmetry drives character dynamics.
 
 **Does magic replace certain technologies?**
-*When magic fills a need that technology would otherwise serve, it changes who has access to solutions. If magical heating replaces fireplaces, then characters without magic are left in the cold — literally and figuratively.*
+*When magic fills a need that technology would otherwise serve, it changes who has access to solutions. If magical heating replaces fireplaces, then characters without magic are left in the cold, literally and figuratively.*
 
 What technology doesn't exist because magic fills the need:
 
 **Does magic enhance technology?**
-*Enchanted items and magitech create a world where some tools are more powerful than they should be — and access to those enhanced tools becomes another axis of inequality between your characters.*
+*Enchanted items and magitech create a world where some tools are more powerful than they should be, and access to those enhanced tools becomes another axis of inequality between your characters.*
 
 Enchanted items, magitech:
 
 **Do magic and technology conflict?**
-*If magic interferes with technology or vice versa, your characters may have to choose between magical and technological solutions — and that choice reveals what they value and who they trust.*
+*If magic interferes with technology or vice versa, your characters may have to choose between magical and technological solutions, and that choice reveals what they value and who they trust.*
 
 Does magic interfere with technology or vice versa?
 
@@ -1053,7 +1053,7 @@ Does magic interfere with technology or vice versa?
 ### Lost or Forbidden Technology
 
 **Did past civilisations have technology now lost?**
-*Lost technology creates mystery and possibility. What ancient wonders might your characters discover or seek — and could the quest to find them bring your characters together or drive them apart?*
+*Lost technology creates mystery and possibility. What ancient wonders might your characters discover or seek, and could the quest to find them bring your characters together or drive them apart?*
 
 **What was lost, why, and could it be rediscovered?**
 
@@ -1066,7 +1066,7 @@ Does magic interfere with technology or vice versa?
 &nbsp;
 
 **Is any technology restricted or forbidden?**
-*Forbidden technology creates temptation and danger. A character willing to risk punishment to access forbidden knowledge or tools reveals how much they're willing to sacrifice — and a shared secret about forbidden technology binds characters together.*
+*Forbidden technology creates temptation and danger. A character willing to risk punishment to access forbidden knowledge or tools reveals how much they're willing to sacrifice, and a shared secret about forbidden technology binds characters together.*
 
 **What technology is restricted or forbidden? Who restricts it, and what happens if someone uses it anyway?**
 
@@ -1082,17 +1082,17 @@ Does magic interfere with technology or vice versa?
 
 ## Technology & Your Characters: Synthesis
 
-You've covered the systems. Now pull together your answers from earlier sections into one view. This is your technology profile for these two specific people.
+You've covered the systems. Now pull together your answers from earlier sections into one view. This is your technology profile for these two specific people!
 
 | Category | Your Protagonist | Your Love Interest |
 |---|---|---|
-| Travel — how do they get around? | | |
-| Communication — how do they reach each other when apart? | | |
-| Privacy — where can they be unobserved? | | |
-| Servants/attendants — who witnesses their private life? | | |
-| Medical access — what healing is available to them? | | |
-| Contraception — what's available and what are the risks? | | |
-| Documentation — could they marry secretly? | | |
+| Travel: how do they get around? | | |
+| Communication: how do they reach each other when apart? | | |
+| Privacy: where can they be unobserved? | | |
+| Servants/attendants: who witnesses their private life? | | |
+| Medical access: what healing is available to them? | | |
+| Contraception: what's available and what are the risks? | | |
+| Documentation: could they marry secretly? | | |
 | Biggest technology advantage over the other | | |
 | Biggest technology disadvantage compared to the other | | |
 
@@ -1182,4 +1182,4 @@ Technology isn't about gadgets. It's about what your world makes easy and what i
 ---
 
 > **What's Next?**
-> You've mapped what your world makes easy and what it makes hard. Next, move to **Language & Communication (Section 10)** to explore how your characters actually speak to each other — what languages exist, who can understand whom, and how barriers of language create their own kind of intimacy and misunderstanding. The technology you've built here shapes what communication tools are available; Language & Communication explores what your characters do with them.
+> You've mapped what your world makes easy and what it makes hard. Next, move to **Language & Communication (Section 10)** to explore how your characters actually speak to each other: what languages exist, who can understand whom, and how barriers of language create their own kind of intimacy and misunderstanding. The technology you've built here shapes what communication tools are available; Language & Communication explores what your characters do with them.

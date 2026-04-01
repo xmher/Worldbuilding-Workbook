@@ -43,7 +43,7 @@ The natural world serves your romance as **backdrop** (atmosphere and texture), 
 |---------|--------------|----------|
 | **The rare ingredient quest** | Must find a specific plant, creating journey and shared purpose | Cure for poison, magical component |
 | **The poisoning and healing** | One character poisoned, other must find cure or nurse them through | Creates vulnerability and care |
-| **The foraging scene** | Gathering food together, one teaching the other what's safe | Domestic intimacy in wilderness |
+| **The forageing scene** | Gathering food together, one teaching the other what's safe | Domestic intimacy in wilderness |
 | **The meaningful flower** | Plant with symbolic meaning given as gift or appears at significant moment | Culture-specific flower language |
 
 ---
@@ -60,7 +60,7 @@ And if you're not sure whether something matters yet, skip it. You can always co
 
 ### How to Use This Section
 
-Questions marked **⬥ Core** are the foundations — answer these first and you'll have a working ecosystem. Everything else lets you go deeper. If you're short on time, the Core questions alone will get you writing.
+Questions marked **⬥ Core** are your foundations. Answer these first and you'll have a working ecosystem. Everything else lets you go deeper. If you're short on time, the Core questions alone will get you writing!
 
 ### Quick Guide to What You Need
 
@@ -72,12 +72,12 @@ Questions marked **⬥ Core** are the foundations — answer these first and you
 
 **If your world has magical ecosystems:** Focus on Magical Flora, Magical Fauna, and how magic affects ecology.
 
-**If you're not sure yet:** Start with the Brain Dump and Ecosystem Foundation — you can always come back.
+**If you're not sure yet:** Start with the Brain Dump and Ecosystem Foundation. You can always come back!
 
 ### Brain Dump
 
 **What plants and animals come to mind when you picture your world?**
-*Don't worry about being systematic. Just list what you see — forests, creatures, crops, pets, monsters, flowers.*
+*Don't worry about being systematic. Just list what you see: forests, creatures, crops, pets, monsters, flowers.*
 
 _______________________________________________________________
 
@@ -247,7 +247,7 @@ _______________________________________________________________
 
 &nbsp;
 
-*Cross-check: Does your ecosystem match the climate and terrain you built in Section 1: Geography?*
+*Cross-check: Does your ecosystem match the climate and terrain you built in Section 1: Geography? If your terrain is arid desert, lush rainforest creatures won't make sense here!*
 
 ---
 ### ✦ Checkpoint: Ecosystem Foundation
@@ -262,7 +262,7 @@ Every ecosystem operates through a food chain. Break a link and the whole system
 
 ---
 
-*If your world uses Earth-like wildlife, skip most of this — just note magical creatures or significant deviations.*
+*If your world uses Earth-like wildlife, skip most of this. Just note magical creatures or significant deviations.*
 
 #### ***⬥ Core** What's at the top of the food chain in various environments?*
 
@@ -288,7 +288,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-#### *If your world has large magical creatures, what do they eat — and who provides it?*
+#### *If your world has large magical creatures, what do they eat, and who provides it?*
 
 *Large magical creatures need enormous resources. Who provides them, and what does that dependency cost?*
 
@@ -370,7 +370,7 @@ _______________________________________________________________
 
 #### *Could a stable, shared ride, or animal-care scene create intimacy in your story?*
 
-*Stables are private, physical, domestic — two people grooming a horse side by side strips away social performance. Sharing a saddle forces contact that neither character can avoid. Where could this kind of animal-adjacent intimacy show up in your story?*
+*Stables are private, physical, domestic. Two people grooming a horse side by side strips away social performance. Sharing a saddle forces contact that neither character can avoid. Where could this kind of animal-adjacent intimacy show up in your story?*
 
 **Describe a scene where an animal creates physical proximity or emotional intimacy between your characters.**
 
@@ -418,7 +418,7 @@ _______________________________________________________________
 
 &nbsp;
 
-*Cross-check: Are your animals consistent with the technology and transport in Section 9?*
+*Cross-check: Are your animals consistent with the technology and transport in Section 9? If your world has steam engines, maybe horses aren't the main transport anymore.*
 
 ---
 ### ✦ Checkpoint: Creatures & Companions
@@ -427,7 +427,7 @@ _______________________________________________________________
 
 *Your animals need to eat, and so do your people. Let's look at what grows in your world.*
 
-## Agriculture, Wild Plants & Foraging
+## Agriculture, Wild Plants & Forageing
 
 If your world has Earth-like agriculture, skip the basics and focus on what's unique: magical crops, supernatural plants, or specific foods that matter to your story.
 
@@ -477,9 +477,9 @@ Give a few plants unique names, appearances, and properties your readers can tra
 
 ---
 
-#### ***⬥ Core** What can be gathered from the wild — and what's dangerous?*
+#### ***⬥ Core** What can be gathered from the wild, and what's dangerous?*
 
-*What your characters know about wild plants reveals where they've been and how they've survived. A gap in knowledge between your characters is a gap in experience — and that's where romantic tension lives.*
+*What your characters know about wild plants reveals where they've been and how they've survived. A gap in knowledge between your characters is a gap in experience, and that's where romantic tension lives.*
 
 **What plants in your world are safe to eat and which are dangerous?**
 
@@ -493,21 +493,21 @@ Give a few plants unique names, appearances, and properties your readers can tra
 
 &nbsp;
 
-#### *Who knows foraging skills?*
+#### *Who knows forageing skills?*
 
-*Rural common knowledge? Specialised profession? Lost art? Class-dependent? Consider whether this creates a knowledge gap between your characters — the one who knows plants holds quiet power over the one who doesn't.*
-
-_______________________________________________________________
+*Rural common knowledge? Specialised profession? Lost art? Class-dependent? Consider whether this creates a knowledge gap between your characters, because the one who knows plants holds quiet power over the one who doesn't.*
 
 _______________________________________________________________
 
-#### *Could a foraging or plant-knowledge scene build your romance?*
+_______________________________________________________________
+
+#### *Could a forageing or plant-knowledge scene build your romance?*
 
 *One character teaching the other to find food. Fingers brushing over leaves. The "powerful" one suddenly dependent on the "ordinary" one who knows which mushrooms won't kill them. Could this reversal or intimacy work in your story?*
 
 **Which character knows about plants and which is out of their depth?**
 
-*What does this knowledge gap reveal about each of them? What intimate moment could foraging create?*
+*What does this knowledge gap reveal about each of them? What intimate moment could forageing create?*
 
 *(Write your answer below)*
 
@@ -658,7 +658,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-*Cross-check: Does magical ecology align with your magic system rules in Section 8?*
+*Cross-check: Does your magical ecology align with the magic system rules you'll set in Section 8? Keep these consistent and your world will feel much more grounded.*
 
 ---
 
@@ -792,7 +792,7 @@ You don't need to follow this literally, and subverting it can be powerful. But 
 
 #### *Could the natural world mirror a key emotional moment in your romance?*
 
-*The best environmental mirroring feels inevitable, not forced. Pick your story's most emotionally intense moment and consider what the natural world could be doing around your characters — not to explain the emotion, but to make the reader feel it in their body.*
+*The best environmental mirroring feels inevitable, not forced. Pick your story's most emotionally intense moment and consider what the natural world could be doing around your characters. Not to explain the emotion, but to make the reader feel it in their body.*
 
 **Describe a key emotional moment in your story. What is the natural world doing around your characters?**
 
@@ -942,11 +942,11 @@ Biological difference should feel visceral and constant, not something mentioned
 
 #### *What biological differences exist between your species?*
 
-*Consider: strength, speed, senses, temperature, diet, sleep patterns, healing, aging, reproduction. These should feel visceral and constant — not mentioned once and then forgotten.*
+*Consider: strength, speed, senses, temperature, diet, sleep patterns, healing, ageing, reproduction. These should feel visceral and constant, not mentioned once and then forgotten.*
 
 **What are the most significant physical differences between your protagonist and love interest?**
 
-*Consider: body temperature, physical abilities, senses, diet/sleep, aging/healing. How do the biggest differences affect the relationship?*
+*Consider: body temperature, physical abilities, senses, diet/sleep, ageing/healing. How do the biggest differences affect the relationship?*
 
 *(Write your answer below)*
 
@@ -1047,7 +1047,7 @@ The non-human character's restraint should be visible and costly -- show the phy
 
 #### *What instincts or biological drives does your non-human character have?*
 
-*Consider: predator instincts, pack dynamics, territorial behaviour, mating drives, protective instincts. Which of these are most likely to create friction with a human partner — either because they're frightening, or because they reveal a vulnerability the character would rather hide?*
+*Consider: predator instincts, pack dynamics, territorial behaviour, mating drives, protective instincts. Which of these are most likely to create friction with a human partner, either because they're frightening, or because they reveal a vulnerability the character would rather hide?*
 
 _______________________________________________________________
 
@@ -1071,7 +1071,7 @@ _______________________________________________________________
 
 #### *What does restraint look like in the body?*
 
-*The romance lives in the gap between what your non-human character could do and what they choose not to. That gap needs to be visible. What physical tells show your character is holding back — and what happens in the moments when control slips?*
+*The romance lives in the gap between what your non-human character could do and what they choose not to. That gap needs to be visible. What physical tells show your character is holding back, and what happens in the moments when control slips?*
 
 **If one character has dangerous instincts, what are the physical tells of control?**
 
@@ -1112,7 +1112,7 @@ _______________________________________________________________
 
 #### *Can a mate bond be rejected?*
 
-*If yes — at what cost? Pain? Illness? Death? Permanent inability to bond with anyone else?*
+*If yes, at what cost? Pain? Illness? Death? Permanent inability to bond with anyone else?*
 
 _______________________________________________________________
 
@@ -1128,7 +1128,7 @@ _______________________________________________________________
 
 #### *Design your mate bond*
 
-*The best mate bonds create circumstances, not feelings. How does yours work — and where does it leave room for the characters to build the actual relationship?*
+*The best mate bonds create circumstances, not feelings. How does yours work, and where does it leave room for the characters to build the actual relationship?*
 
 **If your story uses a mate bond, what does it actually create -- feelings, or just proximity and awareness?**
 
@@ -1164,7 +1164,7 @@ _______________________________________________________________
 
 #### *Have they hurt people before?*
 
-*Not accidentally — deliberately. Have they killed? Hunted? Used their powers to harm?*
+*Not accidentally. Deliberately. Have they killed? Hunted? Used their powers to harm?*
 
 _______________________________________________________________
 
@@ -1180,7 +1180,7 @@ _______________________________________________________________
 
 #### *How does your protagonist feel about the danger?*
 
-*Fear and attraction coexist in monster romance. Does your protagonist find the danger thrilling? Terrifying? Both? Do they understand what's being held back — and does that understanding draw them closer or push them away?*
+*Fear and attraction coexist in monster romance. Does your protagonist find the danger thrilling? Terrifying? Both? Do they understand what's being held back, and does that understanding draw them closer, or push them away?*
 
 _______________________________________________________________
 
@@ -1234,7 +1234,7 @@ _______________________________________________________________
 
 #### *What does daily friction look like for your couple?*
 
-*The tension of living between worlds isn't one big confrontation — it's the accumulation of small moments. The conversation that stops when they enter. The friend who "forgets" to invite them. What small, recurring frictions would your couple face — and does the "insider" partner always notice?*
+*The tension of living between worlds isn't one big confrontation; it's the accumulation of small moments. The conversation that stops when they enter. The friend who "forgets" to invite them. What small, recurring frictions would your couple face, and does the "insider" partner always notice?*
 
 **What small, daily friction does the cross-species relationship create? Who experiences it, and does the other partner even notice?**
 
@@ -1254,7 +1254,7 @@ In many inter-species romances, one character can become like the other. This is
 
 Don't let the transformation be easy or painless. Give the character space to grapple with the decision, and make the process visceral on the page. Choose your metaphor carefully: if magic is a curse, use language of consumption (fire, venom, devouring); if magic is a gift, use language of construction (forging, weaving, remaking).
 
-Most importantly, transformation should not resolve the romance -- it should create new complications. In *ACOTAR*, Feyre's transformation makes her a target for fae politics and unstable magic; Tamlin's failure to recognise this new reality is what breaks them. The transformation didn't fix the relationship. It surfaced the cracks.
+Most importantly, transformation shouldn't resolve the romance -- it should create new complications. In *ACOTAR*, Feyre's transformation makes her a target for fae politics and unstable magic; Tamlin's failure to recognise this new reality is what breaks them. The transformation didn't fix the relationship. It surfaced the cracks.
 
 ---
 
@@ -1274,7 +1274,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-#### *Who wants transformation — and who doesn't?*
+#### *Who wants transformation, and who doesn't?*
 
 *Disagreement about transformation creates tension. Does one want to change and the other resist it? Why? And what are they each afraid of losing?*
 
@@ -1298,9 +1298,9 @@ _______________________________________________________________
 ---
 ### What's Next
 
-Your ecosystem is built. Here's where to take it:
+Your ecosystem is built! Here's where to take it:
 
 - **Section 3: Culture, Customs & Daily Life** → How do people live alongside the nature you've created? What do they eat, wear, celebrate?
 - **Section 4: Economy, Labour & Resources** → Your natural resources drive your economy. What's traded, farmed, hunted?
-- **Section 8: Magic System** → If magic affects your ecosystem, make sure the rules are consistent.
+- **Section 8: Magic System** → If magic affects your ecosystem, make sure the rules line up. Consistency is everything here.
 - **Section 9: Technology & Infrastructure** → What tools do people use to work with (or against) nature?

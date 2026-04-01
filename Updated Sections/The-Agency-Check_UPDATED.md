@@ -42,7 +42,7 @@ These tests help you figure out whether your romance depends on worldbuilding pr
 
 ### Test 1: Remove the Magic
 
-(Reference: Section 10 — Magic System; Section 11 — Magic & Intimacy)
+(Reference: Section 10, Magic System; Section 11, Magic & Intimacy)
 
 If you designed bonds or intimate magic in Section 11, this is your reality check. The questions there helped you build a bond with romantic potential. The questions here test whether you've accidentally let the bond replace the romance.
 
@@ -76,7 +76,7 @@ _______________________________________________________________
 
 **Describe a scene from your story that would still work with the magic stripped out entirely.**
 
-*If you can picture a specific moment — a conversation, a shared glance, a quiet act of care — that works without any magical enhancement, your organic connection is strong. If you're struggling to find one, magic may be doing too much of the relationship's heavy lifting.*
+*If you can picture a specific moment (a conversation, a shared glance, a quiet act of care) that works without any magical enhancement, your organic connection is strong. If you're struggling to find one, magic may be doing too much of the relationship's heavy lifting.*
 
 _______________________________________________________________
 
@@ -84,7 +84,7 @@ _______________________________________________________________
 
 ### Test 2: Remove the Prophecy/Destiny
 
-(Reference: Section 6 — Religion, Myth & Prophecy)
+(Reference: Section 6, Religion, Myth & Prophecy)
 
 You explored the tension between prophecy and choice in Section 6. This test pushes that further. A prophecy that creates the relationship is always going to be weaker than one that confirms what would have happened anyway.
 

@@ -321,7 +321,7 @@ For deeper language work, see *Section 11: Language & Communication*.
 | -ley / -leigh | clearing, meadow | Barnsley |
 | -dale / -vale | valley | Airedale |
 | -burgh / -bury | fortified place | Edinburgh |
-| -port | harbor, market town | Southport |
+| -port | harbour, market town | Southport |
 | -moor / -mere | marshland, lake | Windermere |
 | -fell / -mount | hill, mountain | Scafell |
 | -holme / -holm | island, water meadow | Stockholm |
@@ -433,7 +433,7 @@ _______________________________________________________________
 
 ---
 
-> **Checkpoint: Your Physical World.** You've mapped the big picture, terrain, resources, and named key places. Do your locations feel distinct from each other? Do the names fit the cultures?
+> **Checkpoint: Your Physical World.** You've mapped the big picture: terrain, resources, and key place names. Do your locations feel distinct from each other? Do the names fit the cultures? If so, you're in great shape!
 
 ---
 
@@ -501,7 +501,7 @@ _______________________________________________________________
 >
 > You've mapped where resources are found and who controls them. In Section 4: Resources & Scarcity, you'll explore how resource control creates economic stakes, cultural traditions, and romantic tension.
 
-> **Cross-check:** Do your resources match the economic system you'll build in Section 4?
+> **Cross-check:** Do your resources match the economic system you'll build in Section 4? They don't have to be perfect yet, but keep an eye on consistency.
 
 ---
 
@@ -633,7 +633,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-> **Cross-check:** Does your climate support the flora and fauna you'll build in Section 2?
+> **Cross-check:** Does your climate support the flora and fauna you'll build in Section 2? If you've got tropical creatures in a frozen wasteland, something needs adjusting!
 
 ---
 
@@ -743,7 +743,7 @@ _______________________________________________________________
 
 ---
 
-> **Cross-check:** Do your borders match the political system you'll build in Section 5?
+> **Cross-check:** Do your borders match the political system you'll build in Section 5? Your geography shapes who holds power, so these should feel connected.
 
 > **Checkpoint: Constraints & Boundaries.** You've defined what makes travel difficult, what seasons allow or prevent, and what borders divide peoples. Do these constraints create the friction your romance needs?
 
@@ -942,7 +942,7 @@ When you write separation by distance, show its weight through what characters *
 
 &nbsp;
 
-> **Cross-check:** Are your travel times consistent with your technology level (Section 9)?
+> **Cross-check:** Are your travel times consistent with your technology level (Section 9)? If your world doesn't have fast horses, that three-day journey might need rethinking.
 
 #### Do your characters undertake a significant journey?
 
@@ -1018,7 +1018,7 @@ Create "their place," a location that becomes sacred to the relationship. When c
 
 #### **⬥ Core** What's the emotional quality of your primary setting?
 
-*The emotional quality of a place shapes every scene that happens there. An oppressive setting adds urgency to a first kiss; a serene one implies safety and choice. Does your primary setting feel oppressive, expansive, peaceful, threatening, beautiful, decaying — and how does that quality interact with your romance?*
+*The emotional quality of a place shapes every scene that happens there. An oppressive setting adds urgency to a first kiss; a serene one implies safety and choice. Does your primary setting feel oppressive, expansive, peaceful, threatening, beautiful, decaying, and how does that quality interact with your romance?*
 
 _______________________________________________________________
 
@@ -1062,7 +1062,7 @@ _______________________________________________________________
 
 | Element | Your World |
 |---------|------------|
-| *Key location 1* | *The Winter Court — where protagonist is hostage and love interest is prince* |
+| *Key location 1* | *The Winter Court, where protagonist is hostage and love interest is prince* |
 | Key location 1 | |
 | Key location 2 | |
 | Key location 3 | |
@@ -1122,10 +1122,10 @@ That said, maps can help you keep travel times consistent and visualise where th
 
 ### What's Next
 
-Your geography is built. Here's where to take it:
+Your geography is built! Here's where to take it:
 
-- **Section 2: Flora, Fauna & Ecosystems** → Natural next step. What lives in the landscapes you've just created?
-- **Section 4: Economy, Labour & Resources** → Your resources shape your economy. Build the trade routes, currency, and labor systems.
+- **Section 2: Flora, Fauna & Ecosystems** → The natural next step. What lives in the landscapes you've just created?
+- **Section 4: Economy, Labour & Resources** → Your resources shape your economy. Build the trade routes, currency, and labour systems that run on what you've mapped.
 - **Section 5: Government, Power & Law** → Your borders and territories shape political power. Who controls what you've mapped?
 - **Section 9: Technology & Infrastructure** → How do people actually travel across, build in, and survive your terrain?
-- **Section 15: Designing Your Key Locations** → Zoom in on the specific places where your story happens.
+- **Section 15: Designing Your Key Locations** → Ready to zoom in? This is where you flesh out the specific places where your story happens.

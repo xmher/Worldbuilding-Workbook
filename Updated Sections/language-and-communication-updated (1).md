@@ -21,7 +21,7 @@ Not every question below will apply to your story. If your characters share a la
 
 **If secrecy or forbidden communication matters:** Focus on Sacred/Secret Languages and Literacy.
 
-**If you're not sure yet:** Start with the Brain Dump and Languages in Your World — you can always come back.
+**If you're not sure yet:** Start with the Brain Dump and Languages in Your World. You can always come back!
 
 ---
 
@@ -36,7 +36,7 @@ This is why language works so powerfully in romance. It doesn't just create a pr
 Build language that creates both barriers and bridges. Make your characters work to understand each other, and make that work meaningful.
 
 **What's the first thing that comes to mind when you think about language in your world?**
-*Don't overthink this. Just get your initial vision down — a phrase, an image, a feeling, a scene where communication matters. You'll build on it throughout this section.*
+*Don't overthink this. Just get your initial vision down: a phrase, an image, a feeling, a scene where communication matters. You'll build on it throughout this section.*
 
 *(Write your answer below)*
 
@@ -80,9 +80,9 @@ Build language that creates both barriers and bridges. Make your characters work
 
 | Mistake | Am I At Risk? | What I'll Do Instead |
 |---|---|---|
-| The Rosetta Stone Problem — characters learn each other's language too fast | | |
-| The Babel Dump — too much linguistic worldbuilding that doesn't serve the plot | | |
-| The Silent Treatment — silence treated as absence rather than communication | | |
+| The Rosetta Stone Problem: characters learn each other's language too fast | | |
+| The Babel Dump: too much linguistic worldbuilding that doesn't serve the plot | | |
+| The Silent Treatment: silence treated as absence rather than communication | | |
 
 ---
 
@@ -165,7 +165,7 @@ Where languages mix, characters are most exposed. Markets, courts, border towns,
 
 | Location | Languages Present | How Your Protagonist Navigates | How Your Love Interest Navigates | What the Other Notices |
 |---|---|---|---|---|
-| *The Night Court's starfall celebration — Fae, Illyrian, and High Fae all spoken* | *High Fae (formal), Illyrian (among warriors), Common (servants)* | *Feyre sticks to Common but catches fragments of Illyrian; feels excluded* | *Rhysand code-switches effortlessly between all three; translates for Feyre without being asked* | *Feyre notices how naturally Rhysand moves between worlds — it makes him feel both unreachable and protective* |
+| *The Night Court's starfall celebration: Fae, Illyrian, and High Fae all spoken* | *High Fae (formal), Illyrian (among warriors), Common (servants)* | *Feyre sticks to Common but catches fragments of Illyrian; feels excluded* | *Rhysand code-switches effortlessly between all three; translates for Feyre without being asked* | *Feyre notices how naturally Rhysand moves between worlds, and it makes him feel both unreachable and protective* |
 | | | | | |
 | | | | | |
 
@@ -355,10 +355,10 @@ Pick a word or phrase from the love interest's language that will become signifi
 
 | Stage | What Happens | Chapter/Scene |
 |---|---|---|
-| *Opaque — the word appears, meaning unknown* | *Rhysand says "mate" in the Old Language; Feyre doesn't understand it, and neither does the reader* | *Early encounter — the word is atmospheric, not yet meaningful* |
-| Partial — context clues suggest the meaning | | |
-| Full — the word is translated at an emotional peak | | |
-| Echo — the word returns in a new context, meaning transformed | | |
+| *Opaque: the word appears, meaning unknown* | *Rhysand says "mate" in the Old Language; Feyre doesn't understand it, and neither does the reader* | *Early encounter: the word is atmospheric, not yet meaningful* |
+| Partial: context clues suggest the meaning | | |
+| Full: the word is translated at an emotional peak | | |
+| Echo: the word returns in a new context, meaning transformed | | |
 
 **How does learning this word's full meaning change the relationship?**
 *The best staged comprehension moments don't just deliver a translation -- they reframe everything the character thought they understood. The word hasn't changed; the character has.*
@@ -487,7 +487,7 @@ How does their speech mark them in your world, and what does the protagonist not
 
 | Character | "Public" Voice (formal, guarded) | "Private" Voice (unguarded, real) | What Triggers the Switch | When the Other First Hears the Real Voice |
 |---|---|---|---|---|
-| *Jude (The Cruel Prince)* | *Perfect, formal Fae court speech — sharper and more precise than any human's* | *Blunt, human-cadence English with her sisters — shorter sentences, more emotion* | *Danger, exhaustion, being caught off guard by Cardan* | *Cardan hears her swear in human idiom during a fight — it delights him because it's the first crack in her performance* |
+| *Jude (The Cruel Prince)* | *Perfect, formal Fae court speech, sharper and more precise than any human's* | *Blunt, human-cadence English with her sisters; shorter sentences, more emotion* | *Danger, exhaustion, being caught off guard by Cardan* | *Cardan hears her swear in human idiom during a fight. It delights him because it's the first crack in her performance* |
 | Protagonist | | | | |
 | Love interest | | | | |
 

@@ -6,7 +6,7 @@ What do your characters believe about gods, death, destiny, and what it all mean
 
 ## How to Use This Section
 
-Questions marked **⬥ Core** are the essentials — answer these first to establish a working religion for your story. Everything else is a **Deep Dive** that adds richness and complexity. If you're short on time, the Core questions alone will give you enough to write convincingly. Come back to the Deep Dives when you need more detail or when a specific area (prophecy, interfaith love, religious guilt) becomes important to your plot.
+Questions marked **⬥ Core** are the essentials. Answer these first to establish a working religion for your story. Everything else is a **Deep Dive** that adds richness and complexity. If you're short on time, the Core questions alone will give you enough to write convincingly. Come back to the Deep Dives when you need more detail or when a specific area (prophecy, interfaith love, religious guilt) becomes important to your plot.
 
 ---
 
@@ -34,7 +34,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **⬥ Core: In one or two sentences, what do most people in your world believe about the divine?**
-*Don't overthink this — just get the broad shape down. You'll refine it in the exercises that follow.*
+*Don't overthink this; just get the broad shape down. You'll refine it in the exercises that follow.*
 
 _______________________________________________________________
 
@@ -58,7 +58,7 @@ If religion is background in your world, keep it simple. Not every romantasy nee
 
 **If your characters have different faiths:** Focus on Religious Difference & Interfaith Love.
 
-**If you're not sure yet:** Start with the Brain Dump and The Divine — you can always come back.
+**If you're not sure yet:** Start with the Brain Dump and The Divine. You can always come back.
 
 ---
 
