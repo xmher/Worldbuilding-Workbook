@@ -86,15 +86,13 @@ Not every hill and river needs to serve the plot. But the geography you foregrou
 
 ### The "Pressure Cooker" Principle
 
-The best romantasy settings create friction by compressing characters together, holding them apart, or forcing impossible choices. When the physical world won't let your characters walk away from each other, the setting does half the work of building the relationship.
+The best romantasy settings create friction by compressing characters together, holding them apart, or forcing impossible choices. Geography creates friction in three ways:
 
-Geography creates friction in three ways.
+**Proximity friction** forces characters together despite themselves — a snowed-in mountain pass, a ship voyage, an isolated academy. Basgiath War College in *Fourth Wing* works because once you're inside, there's no leaving.
 
-**Proximity friction** forces characters together despite themselves — a snowed-in mountain pass, a ship voyage, an isolated academy. When characters can't leave, they must confront conflict instead of avoiding it. Basgiath War College in *Fourth Wing* works because once you're inside, there's no leaving: mandatory sparring, no private space, and a dragon bond that makes physical separation painful. The setting generates the romance.
+**Separation friction** keeps characters physically apart. An ocean, a mountain range, a magical barrier. Each departure and return becomes emotionally charged.
 
-**Separation friction** keeps characters physically apart. An ocean, a mountain range, a magical barrier. Each departure and return becomes emotionally charged, and the question of who'll cross the divide — and what it costs — becomes a declaration.
-
-**Resource friction** forces characters to negotiate. Water rights, the only mountain pass, a rare magical resource in contested territory. When the people your characters represent are at odds over geography, the romance must address that tension.
+**Resource friction** forces characters to negotiate over water rights, trade routes, or contested territory. When the people your characters represent are at odds over geography, the romance must address that tension.
 
 What seals the pressure cooker tight:
 
@@ -103,7 +101,7 @@ What seals the pressure cooker tight:
 - **Environmental trapping:** Storms, seasons, magic. Forces that make leaving impossible.
 - **Social/political trapping:** Arranged marriages, hostage situations, court obligations. Leaving harms reputation, alliances, or lives.
 
-The geography you foreground should be drawing your characters together, pulling them apart, or forcing them to choose. If your characters could simply walk away, your geography needs to make that impossible, too dangerous, or too costly.
+If your characters could simply walk away, your geography needs to make that impossible, too dangerous, or too costly.
 
 ---
 
@@ -472,11 +470,7 @@ _______________________________________________________________
 
 ## Resources & Territorial Control
 
-Geography tells us who has what and thus who has the ability to have power. Fertile land, fresh water, mineral deposits, trade routes: all of these are valuable enough to fight wars over, to marry for, to die for.
-
-Resource control is probably the most consistent engine for romantic conflict within romantasy. It's behind an arranged marriage to secure a trade route, the tribute that a king demands from a conquered kingdom, the alliance sealed by sending a princess to a court she despises. But resource control does not have to be limited to kingdoms and their battles over land and resources. A character who finds out that their kingdom has been exploiting their love interest's homeland, or who has a monopoly on the one resource that the other's people desperately need. When there is an imbalance of resources there is also a perceived imbalance of power, which is why this works so well.
-
-The most effective way to demonstrate resource control on the page is to show what your characters can and cannot do, rather than telling them through exposition. For instance, a character from a land that has very little water may flinch every time they see someone leaving a tub of water running. If there is a war for control of a particular piece of land because of its strategic location for trade, then someone who is aware of this will notice the strategic advantage where others just view it as beautiful. This awareness should show itself through small reactions, casual conversations about prices or lack thereof, and the constant underlying anxiety that people in this world experience about resources. The tension that develops between two characters when one comes from a side of the battle for resources and the other comes from the opposing side will always develop in their assumptions about each other, what they choose not to comment about, and the times when privilege becomes visible.
+Resource control is the most consistent engine for romantic conflict in romantasy. It's behind the arranged marriage to secure a trade route, the tribute demanded from a conquered kingdom, the alliance sealed by sending a princess to a court she despises. When there is an imbalance of resources there is also an imbalance of power — and that imbalance shapes every interaction between characters on opposite sides of it. Show this through small reactions: a character from a water-scarce land flinching at waste, or privilege becoming visible in what one character takes for granted and the other cannot ignore.
 
 ---
 
@@ -542,11 +536,7 @@ _______________________________________________________________
 
 ## The Sensory World
 
-Geography doesn't just mean what exists in space; it also means how it feels to be in that space. Those sensory elements of your setting contribute to the emotional texture of scenes. A first kiss will have a different quality to it when done in a garden filled with the scent of night-blooming jasmine as opposed to a stone hallway with torch smoke.
-
-You want to filter the sensory details you are including through your POV character's emotional state. A person in love will notice the warmth of sun on their skin, the sweet fragrance of flowers, and the softness of the grass beneath them. On the other hand, a grieving character will see the same garden as being too light, the flower fragrance overpowering, and the bird song annoyingly loud. Do not attempt to include every detail of a scene. Choose two or three sensory elements that help to establish the mood of each scene you write and then let the rest fade away.
-
-Something to be aware of is the "weather report" style of beginning a scene. This is when you describe your setting using neutral language before anything has happened. By incorporating the sensory elements into the action and emotions of your characters, you will create a stronger scene. Instead of saying "The room was cold," say "She tightened her cloak around her body, breath misting in the unheated chamber." As a character interacts with the world, the way they interact with it creates both the setting of the scene and the feelings of the character simultaneously.
+Geography isn't just what exists in space — it's how it feels to be there. Filter sensory details through your POV character's emotional state: a person in love notices warmth and fragrance; a grieving character finds the same garden too bright and the birdsong grating. Choose two or three sensory elements per scene that establish mood, and weave them into action rather than neutral description. Instead of "The room was cold," write "She tightened her cloak around her body, breath misting in the unheated chamber."
 
 ---
 
@@ -610,11 +600,7 @@ _______________________________________________________________
 
 ## Climate, Weather & Seasons
 
-The weather is a form of immediate, physical, environmental condition, which affects everything from how people move through the world, their ability to grow food, warfare, and their day-to-day lives. In addition to providing these barriers to possibility, seasons can provide a deadline (marry before the snow blocks the pass) or a waiting period (trapped together until the spring thaw), or simply mark the passage of time as they navigate their long-term attraction to one another.
-
-Using seasonal events to show the passage of time is a nice way to avoid stating the obvious. The first frost. The smell of rain after months of drought. The way the angle of the sun changes every week. Weather is most effective in romantic stories when it creates some kind of immediate physical problem that both characters have to deal with together: wet clothes that need to come off, cold that needs to be warmed, heat that irritates. Do not simply tell the reader about the weather. Have the characters react to it, complain about it, make decisions based on it.
-
-In addition, seasonal changes can also reflect changes in emotions beautifully. A couple whose relationship begins to thaw as the last of winter melts away. Tensions that build as the temperatures rise with summer. A reckoning that arrives with autumn.
+Weather and seasons shape when things can happen in your world. Seasons provide deadlines (marry before the snow blocks the pass), waiting periods (trapped together until the spring thaw), and mark the passage of time. Weather works best in romance when it creates immediate physical problems characters must solve together — wet clothes, shared warmth, heat exhaustion. Have characters react to weather rather than narrating it neutrally.
 
 ---
 
@@ -687,11 +673,7 @@ _______________________________________________________________
 ---
 ## Dangerous Regions
 
-Every world has places that are deadly, and therefore avoided, or crossed only with preparation and company. Dangerous regions serve romance by raising stakes and forcing partnership. When two characters find themselves needing to travel across hostile territory together, survival becomes the only priority, and the walls people maintain in civilised settings collapse fast.
-
-But the danger has to land. If your characters trek through the Deadly Wastes and emerge fine, readers stop believing the world is dangerous, and if they don't believe the danger, they don't believe your characters need each other to survive it. So let the environment cause damage to your characters: exhaustion, injury, rationed supplies, wrong turns, real fear. Write one character's competence saving the other. Write one character's vulnerability forcing the other to step up. What occurs after your characters survive some horrible event together forever changes their relationship, so make sure you give that shift room to breathe on the page.
-
-Creating the decision to venture into dangerous territory as a heavy decision prior to entering helps too. Characters arguing about whether to go, preparing inadequately, or being forced in against their will. The region itself should have a reputation that precedes it: local guides who refuse to help, maps that end at the border, warnings ignored out of desperation. All of that builds dread, and dread makes the romance that blooms inside the danger feel earned.
+Dangerous regions serve romance by raising stakes and forcing partnership. When survival becomes the only priority, the walls people maintain in civilized settings collapse fast. But the danger has to land — let the environment cause real damage (exhaustion, injury, rationed supplies, fear), and let one character's competence save the other. Build dread before characters enter: local guides who refuse to help, maps that end at the border, warnings ignored out of desperation.
 
 ---
 
@@ -728,11 +710,7 @@ Creating the decision to venture into dangerous territory as a heavy decision pr
 ---
 ## Borders & Boundaries
 
-Borders convert geographic areas to identities. When a mountain range or river is defined as the "line" that separates two groups of people, the people on either side begin to define themselves relative to one another. The creation of a border creates cultural assumptions, political tension, and a kind of deep-seated distrust that leads to cross-border romance feeling like something that is strictly prohibited, as opposed to merely inconvenient.
-
-The strongest borders in romantasy are not necessarily lines on a map; they are lines in the minds of the characters. A character raised with the idea that all of the people on the other side of the mountains are barbarians or that no one from the other court can be trusted will have that border inside of them long after the physical one has been crossed. When writing the prejudices that each character holds against the other, make sure they are specific and casual: the assumptions each character makes about the other's food, manners, values, intelligence. Then write the moments when those assumptions break down.
-
-Also consider the cost of crossing a border for each character. Is crossing considered treason? Social death? Does one character risk everything to cross over while the other side doesn't even notice? The asymmetry of the cost of the border to each character can lead to the entire romantic arc. Borders can also create "in-between" space: the neutral zone, the disputed land, the meeting point where neither character is quite at home. Many of the most truthful conversations occur in these in-between zones because neither party has the comfort of home base.
+Borders convert geographic areas into identities. The strongest borders in romantasy are not lines on a map — they're lines in the characters' minds. A character raised believing everyone on the other side of the mountains is a barbarian will carry that border long after the physical one has been crossed. Write the prejudices as specific and casual (assumptions about food, manners, values), then write the moments those assumptions break down. Consider, too, the asymmetry of crossing: does one character risk treason while the other barely notices? Borders also create "in-between" spaces — neutral zones where neither character is at home, and where the most honest conversations happen.
 
 ---
 
