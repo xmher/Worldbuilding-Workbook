@@ -29,7 +29,7 @@ Not every question below will apply to your story. If your characters share a la
 
 Every word your characters learn in each other's language is a brick in a bridge. Every silence is a wall. Only language is a worldbuilding element that serves as both an obstacle between your characters and the tool that will allow them to conquer that obstacle.
 
-Most romantasy barriers are external. Political alliances, forbidden magic, rival courts. But language barriers are different because they live inside every interaction. Every conversation becomes an act of trust. Every misunderstanding is a small wound. Every time your character learns a new word in their partner's language it is an act of investment that says: *your world matters enough for me to learn how you see it.*
+Most romantasy barriers are external. Political alliances, forbidden magic, rival courts. But language barriers are different because they live inside every interaction. Every conversation becomes an act of trust. Every misunderstanding is a small wound. Every time your character learns a new word in their partner's language, it's an act of investment that says: *your world matters enough for me to learn how you see it.*
 
 This is why language works so powerfully in romance. It doesn't just create a problem to be solved. It creates a gradient of intimacy. Your characters move from strangers who can't communicate, to halting exchanges, to fluency, to private words only they share, to silence that says everything. This progression of building intimacy parallels the process of falling in love. In *ACOTAR*, Feyre's willingness to lower her mental walls for Rhysand's daemati link is a stronger declaration of love than any verbal confession could be. To allow someone to enter your mind and thoughts is to give up the last vestige of control. That's the bridge, fully built.
 
@@ -219,7 +219,7 @@ Do they share a language with the protagonist, or will communication itself beco
 &nbsp;
 
 **Who learns whose language?**
-This is a power question as much as a practical one. Does one teach the other? Do they meet in the middle? Does the love interest learn the protagonist's "lesser" language as an act of respect?
+This is as much a power question as a practical one. Does one teach the other? Do they meet in the middle? Does the love interest learn the protagonist's "lesser" language as an act of respect?
 
 _______________________________________________________________
 
@@ -342,7 +342,7 @@ S.A. Chakraborty employs untranslated Divasti phrases and a narrator who tells u
 
 ### Staged Comprehension as Romance Pacing
 
-Here's something worth playing with: in romantasy, the reader's understanding of a language can mirror the protagonist's understanding of the love interest. There is a pattern to follow: withhold meaning, indicate meaning through tone and body language, and confirm meaning at an emotionally significant time.
+Here's something worth playing with: in romantasy, the reader's understanding of a language can mirror the protagonist's understanding of the love interest. There's a pattern to follow: withhold meaning, indicate meaning through tone and body language, and confirm meaning at an emotionally significant time.
 
 This is the structure of a slow-burn reveal. At the beginning of a romance, foreign words are opaque. Both the reader and the protagonist are locked out. As intimacy develops, context clues accumulate, and the moment of complete translation will usually coincide with the moment of full emotional understanding.
 
@@ -371,7 +371,7 @@ _______________________________________________________________
 
 If your world has magical translation (a spell, an artefact, a telepathic bond), you need to be very careful not to make the solution to the problem too perfect. If you create a magical device that always provides the correct translation, you remove all the possibilities for misunderstandings, eliminate reasons for characters to learn each other's languages, and create a sense of interchangeability among multilingual cultures.
 
-One way to avoid this is to add at least one constraint.
+One way to avoid this? Add at least one constraint.
 
 | Constraint | What It Does for Your Story |
 |---|---|
@@ -548,7 +548,7 @@ _______________________________________________________________
 
 ---
 
-### Language Flavor & Sound
+### Language Flavour & Sound
 
 You've thought about how individual characters sound. Now zoom out to the languages themselves -- what impression do they leave on someone hearing them for the first time?
 
@@ -558,7 +558,7 @@ You've thought about how individual characters sound. Now zoom out to the langua
 _______________________________________________________________
 
 **Do you have any key invented words that carry cultural weight?**
-*Words for concepts that don't exist in English -- a specific type of honor, a magical state, a social role. Even 2-3 invented terms can make a language feel real.*
+*Words for concepts that don't exist in English -- a specific type of honour, a magical state, a social role. Even 2-3 invented terms can make a language feel real.*
 
 _______________________________________________________________
 
@@ -581,7 +581,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Is speaking certain languages illegal, stigmatized, or a mark of resistance?**
+**Is speaking certain languages illegal, stigmatised, or a mark of resistance?**
 *Can language itself be an act of rebellion? What happens to someone caught speaking a forbidden tongue?*
 
 _______________________________________________________________
@@ -650,7 +650,7 @@ _______________________________________________________________
 
 Written words can be read and re-read; they can be hidden or rediscovered. A separation created by pen and paper allows for confessions to occur at times when verbal conversation can't.
 
-In *Romancing Mister Bridgerton*, Penelope's secret life as Lady Whistledown gives her a written voice that is sharp, biting, and powerful, everything her public wallflower persona is not. When Colin finds her journals and eventually learns it was her who wrote them, the tension shifts from romantic pursuit to a clash of egos: he realises he never truly knew the woman he'd spent years overlooking. A written self can be braver than a spoken self, and the space between the page and the person is nothing but fuel for the fire of romance.
+In *Romancing Mister Bridgerton*, Penelope's secret life as Lady Whistledown gives her a written voice that is sharp, biting, and powerful, everything her public wallflower persona isn't. When Colin finds her journals and eventually learns it was her who wrote them, the tension shifts from romantic pursuit to a clash of egos: he realises he never truly knew the woman he'd spent years overlooking. A written self can be braver than a spoken self, and the space between the page and the person is nothing but fuel for the fire of romance.
 
 **Do your characters communicate in writing?**
 *Written words can be reread, hidden, and discovered. A letter allows for confessions that spoken conversation can't -- and creates physical evidence of feeling that can be found by the wrong person.*

@@ -20,7 +20,7 @@ What does your character take for granted that love will make them realise?
 - **Unquestioned norms:** "This is just how things are done." Until doing things differently becomes the only way to be with the person they want.
 - **Invisible hierarchies:** Differences in status that are normal to the character with the higher status but felt to be oppressive to the other character. The tension exists at the point when the privileged one finally sees it.
 - **Internalised shame:** Characters that feel unworthy of love because their culture taught them they're less than others. Their partner will need to battle those feelings along with each external challenge.
-- **Loyalty costs:** To choose love is to betray community, family, and tradition. The identity that the character held prior to love will no longer exist; the new identity will be one that their previous self wouldn't recognise. That transformation *is* the story.
+- **Loyalty costs:** To choose love is to betray community, family, and tradition. The identity that the character held prior to love won't exist any more; the new one will be something that their previous self wouldn't recognise. That transformation *is* the story.
 
 The invisible cage works because culture creates identity. Disobeying the law is an action. Defying your culture is an identity crisis. When your characters choose to follow their heart rather than their traditions, they aren't merely breaking rules. They're creating an entirely new identity for themselves, and that *is* the story.
 
@@ -279,7 +279,7 @@ List 3-5 core values in order of importance:
 
 5. _______________________________________________________________
 
-**What does your culture consider shameful or dishonorable?**
+**What does your culture consider shameful or dishonourable?**
 
 The flip side of values, what brings disgrace:
 
@@ -517,7 +517,7 @@ You've established how your characters move through the world. Now consider the 
 
 ## Home & Household
 
-Your home is the most intimate space in your world. It's the place where characters are most themselves. The way homes are constructed, how many people share them, and the amount of privacy they provide will determine when and where your characters can be vulnerable with each other. Homes shared with servants or other people create vastly different possibilities for romance than homes lived in alone.
+Your home is the most intimate space in your world. It's the place where characters are most themselves. The way homes are constructed, how many people share them, and the amount of privacy they provide all shape when and where your characters can be vulnerable with each other. Homes shared with servants or other people create vastly different possibilities for romance than homes lived in alone.
 
 How your point-of-view character reacts (or doesn't react) to what they see upon entering a home is an indicator of their past experience. A character raised in poverty will count every single thing of value; a character from wealth will likely never recognise anything about their surroundings as luxurious, but rather notice immediately if something feels wrong. Instead of saying "the home was rich" use specific objects like "silver candlesticks left casually on a side table, more books than she'd seen in her life, a fire burning in an empty room."
 
@@ -916,7 +916,7 @@ Show transgressions through reactions: the gasp, the shared look, the pause in c
 
 **What's considered rude in everyday interaction?**
 
-Behaviours that give offense, things that aren't done:
+Behaviours that give offence, things that aren't done:
 
 _______________________________________________________________
 
@@ -1026,7 +1026,7 @@ Leisure time provides natural settings for characters to meet outside their norm
 
 *Leisure activities give your characters excuses to spend time together outside their normal roles. A dance requires touch. A game reveals personality. A shared story creates inside jokes. What does your world offer?*
 
-Music, theater, games, sports, storytelling, gambling. What do people do for enjoyment?
+Music, theatre, games, sports, storytelling, gambling. What do people do for enjoyment?
 
 _______________________________________________________________
 
@@ -1604,7 +1604,7 @@ Physical boundaries govern what touch means. Dress and appearance govern what th
 
 ## Dress, Appearance & Adornment
 
-Dressing tells us who we're: our social standing, how available we're, our values and beliefs. In addition, clothing creates its own romantic tension. The veil that can't be removed, the colour that says "don't speak to me," the hair that only your spouse can see unbound.
+Dressing tells us who we are: our social standing, how available we are, our values and beliefs. Clothing also creates its own romantic tension. The veil that can't be removed, the colour that says "don't speak to me," the hair that only your spouse can see unbound.
 
 Dress in detail and observe what your characters pay attention to when it comes to each other's clothes. What your protagonist focuses on with regards to another character's appearance will give your readers an idea of where their eyes keep going back to: how fabric falls, a scar that's hidden under the edge of a collar, a ring that is or isn't being worn.
 
@@ -1938,7 +1938,7 @@ Tokens declare intent. Marriage is what makes it official, and the ceremony itse
 
 Marriage is where individualised love becomes a public rite of passage. Who can marry whom? What rituals must be performed? What makes a union legitimate? These customs define the endgame of your romance and the obstacles standing in its way.
 
-These customs will determine whether your characters are rushing towards marriage or trying to escape it. Weddings create great set-piece moments. Since they're public, the ceremony can increase tension: the vows have to be said out loud, the witnesses can watch for hesitation, the moment when an objection can be raised. No matter whether the couple is getting married with open arms or against their will, the ceremony should have a sense of finality. Take your time to describe what your character sees, hears, and feels during the ceremony, and let the ritual carry the emotional weight.
+These customs shape whether your characters are rushing towards marriage or trying to escape it. Weddings create great set-piece moments. Since they're public, the ceremony can increase tension: the vows have to be said out loud, the witnesses can watch for hesitation, the moment when an objection can be raised. No matter whether the couple is getting married with open arms or against their will, the ceremony should have a sense of finality. Take your time to describe what your character sees, hears, and feels during the ceremony, and let the ritual carry the emotional weight.
 
 **⬥ Core: What makes a marriage "real" in cultural terms, beyond legal requirements?**
 
@@ -2046,7 +2046,7 @@ Death customs shape how a culture approaches romance at its most emotional. Ritu
 
 The most direct romantic obstacle is the **mourning period**: a socially or magically enforced time where the bereaved are separated from the world of romance. In romantasy, mourning customs can be highly restrictive, including prohibitions against dancing, socialising, wearing colours, and being visible in public. Developing romantic feelings during this time carries guilt, because wanting someone while grieving is seen as betrayal of the deceased.
 
-Death customs also define character. How your characters treat the dead reveals who they're at their deepest level. A character willing to risk their safety to retrieve a body for proper burial shows capacity for selfless caring. A character who refuses outward mourning but displays deep grief in private reads as emotionally honest and complex. When two characters grieve together, the experience creates a bond unlike anything else: they have witnessed each other completely raw, with no social masks.
+Death customs also define character. How your characters treat the dead reveals who they are at their deepest level. A character willing to risk their safety to retrieve a body for proper burial shows capacity for selfless caring. A character who refuses outward mourning but displays deep grief in private reads as emotionally honest and complex. When two characters grieve together, the experience creates a bond unlike anything else: they have witnessed each other completely raw, with no social masks.
 
 **What are the mourning customs in your world?**
 
@@ -2290,7 +2290,7 @@ Exile in romantasy takes several forms, and the form matters for your romance:
 - **Social ostracism:** The character remains physically present but is treated as invisible, contaminated, or dead. Generational guilt, racial branding, or species-based prejudice mark them as permanent outsiders within their own community.
 - **Cultural divorce:** The character rejects the beliefs, religion, or traditions of their people. They're not cast out by others; they walk away. But the safety net vanishes, and the romantic relationship must replace the entire support structure they've abandoned.
 
-What makes exile such a potent romantic stake is that it forces a character to redefine who they're without their community, title, or social position. That vulnerability is also the prerequisite for the kind of raw honesty the strongest romances require.
+What makes exile such a potent romantic stake is that it forces a character to redefine who they are without their community, title, or social position. That vulnerability is also the prerequisite for the kind of raw honesty the strongest romances require.
 
 Jude's exile at the end of *The Wicked King* illustrates this perfectly. Cardan sends her back to the mortal world, stripping away her status, authority, and sense of purpose. The exile comes directly from the love interest, making it both deeply personal and politically motivated. When Jude returns, her restoration as High Queen carries greater weight because she earned it back from nothing.
 
@@ -2580,7 +2580,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**When do they realize they've been misunderstanding each other?**
+**When do they realise they've been misunderstanding each other?**
 
 The revelation scene:
 

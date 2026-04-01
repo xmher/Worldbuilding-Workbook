@@ -175,7 +175,7 @@ Now that you've mapped the defining events, think about what happened when those
 
 ### Historical Conflicts
 
-Wars and conflicts create deep divisions that will be remembered for centuries to come. People will grow up knowing which side their ancestors fought on, and they may define their allegiance based on family history, geography, or the culture in which they were raised.
+Wars and conflicts create deep divisions that'll be remembered for centuries to come. People grow up knowing which side their ancestors fought on, and they may define their allegiance based on family history, geography, or the culture in which they were raised.
 
 **⬥ Core: What major conflicts shaped your world?**
 
@@ -597,7 +597,7 @@ Using the table above as a guide, identify what forms of historical propaganda e
 | | | |
 | | | |
 
-*Cross-check: Does propaganda match your government type (Section 5)? A decentralized tribal federation wouldn't have centralized monuments and Victory Tours -- make sure the propaganda methods here reflect who actually holds power in your world.*
+*Cross-check: Does propaganda match your government type (Section 5)? A decentralised tribal federation wouldn't have centralised monuments and Victory Tours -- make sure the propaganda methods here reflect who actually holds power in your world.*
 
 **How does the built environment intrude on your characters' private moments?**
 *Monuments, barriers, and public symbols are strongest when they follow characters into personal spaces.* When Feyre and Rhysand act out their relationship in the Court of Nightmares in *ACOMAF*, it's not just that they're being forced to perform their love for each other; the court itself is a monument to the violence done to them, and their intimacy becomes political theatre. In *Mistborn*, Vin's first experiences of romance occur at noble balls, where the grey ashfalls outside contrast with the lavish gowns inside. It creates a moral dissonance she can't ignore.
@@ -1247,7 +1247,7 @@ Earned reconciliations are the ones that create closure on many different levels
 
 ### Pacing the Resolution
 
-Historical hatreds are seldom broken down by one incident. The best earned reconciliations are slow burn paced; when shared peril brings individuals together, cracks in the armour begin to develop. A time when either side realises an act of kindness or courage from the opposing side that contradicts how they view their enemy. Jude and Cardan's relationship in *The Cruel Prince* is formed through mutual double-crossing and betrayal, so when Jude ultimately trusts Cardan, it's a reward for their prolonged efforts rather than a quick plot fix. In *The Serpent and the Wings of Night*, Oraya and Raihn build trust through the crucible of a deadly tournament and learn to trust each other's skills before they will ever trust each other's hearts.
+Historical hatreds are seldom broken down by one incident. The best earned reconciliations are slow burn paced; when shared peril brings individuals together, cracks in the armour begin to develop. A time when either side realises an act of kindness or courage from the opposing side that contradicts how they view their enemy. Jude and Cardan's relationship in *The Cruel Prince* is formed through mutual double-crossing and betrayal, so when Jude ultimately trusts Cardan, it's a reward for their prolonged efforts rather than a quick plot fix. In *The Serpent and the Wings of Night*, Oraya and Raihn build trust through the crucible of a deadly tournament and learn to trust each other's skills before they'll ever trust each other's hearts.
 
 Another hazard is the "easy epiphany," the single moment when all of the prejudices that have existed for centuries just melt away. *Mistborn* has been criticised for using a Cinderella analogy to facilitate Vin and Elend's cross-class reconciliation; many readers feel that the gradual emotional progression needed to bring about such a great systemic change was missing from the story.
 
