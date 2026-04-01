@@ -1253,7 +1253,7 @@ The key question isn't *what languages exist in your world*. It's this: what lan
 &nbsp;
 
 **What role does language play in your story's central relationship?**
-*Is there a language barrier between your characters? Do they share a tongue but speak it differently? Is communication itself part of the tension, or is it something else — silence, lies, private codes?*
+*Is there a language barrier between your characters? Do they share a tongue but speak it differently? Is communication itself part of the tension, or is it something else: silence, lies, private codes?*
 
 *(Write your answer below)*
 
@@ -1268,7 +1268,7 @@ The key question isn't *what languages exist in your world*. It's this: what lan
 Now that you've built your world's languages, communication systems, and the emotional landscape between your characters, return to the Bridge & Barrier Principle from the opening of this section. Map where your characters start and where they end.
 
 **Where do your characters start and end on this progression?**
-*Language intimacy builds in stages. Mark the ones present in your story and note when each happens — these become scenes to write. Stages might include: complete inability to communicate, halting exchanges, functional but nuance-missing conversation, real conversation (arguing, joking, confessing), private language only they share, and silence that says everything.*
+*Language intimacy builds in stages. Mark the ones present in your story and note when each happens. These become scenes to write! Stages might include: complete inability to communicate, halting exchanges, functional but nuance-missing conversation, real conversation (arguing, joking, confessing), private language only they share, and silence that says everything.*
 
 *(Write your answer below)*
 

@@ -251,7 +251,7 @@ _______________________________________________________________
 
 ---
 ### ✦ Checkpoint: Ecosystem Foundation
-*Pause and look at your answers so far. Does the relationship between people and nature feel consistent with the climate and terrain you described? If magic affects your ecosystem, can you explain how in one sentence?*
+*Pause and look at your answers so far. Does the relationship between people and nature feel consistent with the climate and terrain you described? If magic affects your ecosystem, try explaining how in one sentence. If you can, you're on solid ground!*
 ---
 
 *Now that you have the foundation, let's look at what lives in your world and how it all connects.*
@@ -422,7 +422,7 @@ _______________________________________________________________
 
 ---
 ### ✦ Checkpoint: Creatures & Companions
-*Pause and review. Do your domesticated animals, companions, and wildlife encounters feel like they belong in the same world? Could a reader picture a typical day with these animals in it?*
+*Pause and review. Do your domesticated animals, companions, and wildlife encounters feel like they belong in the same world? Could a reader picture a typical day with these animals in it? If so, brilliant!*
 ---
 
 *Your animals need to eat, and so do your people. Let's look at what grows in your world.*

@@ -110,7 +110,7 @@ _______________________________________________________________
 
 ### Test 3: Remove the Political Pressure
 
-(Reference: Section 5 — Government, Power & Law; Section 14 — Institutions)
+(Reference: Section 5, Government, Power & Law; Section 14, Institutions)
 
 **What political/institutional element forces them together?**
 
@@ -136,7 +136,7 @@ _______________________________________________________________
 
 ### Test 4: Remove the Dangerous Situation
 
-(Reference: Section 1 — Geography; Section 13 — Pressure Cooker)
+(Reference: Section 1, Geography; Section 13, Pressure Cooker)
 
 **What external danger pushes them together?**
 
@@ -277,7 +277,7 @@ _______________________________________________________________
 
 *Look back at Section 16. Which system, law, tradition, or magical rule creates the biggest barrier between your characters? This is the force they'll need to defy.*
 
-(Reference Section 16 — which system creates the biggest obstacle)
+(Reference Section 16, which system creates the biggest obstacle)
 
 _______________________________________________________________
 
@@ -395,7 +395,7 @@ _______________________________________________________________
 
 **Now rewrite the same moment with your character as the subject, holding the verbs (active version):**
 
-*Example: The bond flared hot in her chest. She planted her feet and waited for the fog to clear. Then she looked at him — really looked — and stepped forward because she wanted to, not because the magic told her to.*
+*Example: The bond flared hot in her chest. She planted her feet and waited for the fog to clear. Then she looked at him, really looked, and stepped forward because she wanted to, not because the magic told her to.*
 
 _______________________________________________________________
 
@@ -413,7 +413,7 @@ _______________________________________________________________
 
 ### Audit Your Draft for Compulsion Language
 
-*Open your manuscript or outline and search for the three agency-stripping patterns described above. Finding them isn't failure — it's an opportunity to strengthen the scene. List any examples you find below so you can revise them.*
+*Open your manuscript or outline and search for the three agency-stripping patterns described above. Finding them isn't failure; it's an opportunity to strengthen the scene. List any examples you find below so you can revise them.*
 
 **Filter words** (felt drawn to, was pulled toward, couldn't resist, something about him made her):
 
@@ -427,7 +427,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Bond as subject** (the bond pulled, the magic surged, the connection overwhelmed — paragraphs where the bond drives the action and the character doesn't respond):
+**Bond as subject** (the bond pulled, the magic surged, the connection overwhelmed; paragraphs where the bond drives the action and the character doesn't respond):
 
 _______________________________________________________________
 

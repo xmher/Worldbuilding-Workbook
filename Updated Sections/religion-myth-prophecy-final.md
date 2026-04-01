@@ -93,10 +93,10 @@ If religion is background in your world, keep it simple. Not every romantasy nee
 
 | Mistake | Could This Apply to Your Story? | How You'd Fix It |
 |---------|-------------------------------|-----------------|
-| *The Convenient Religion — religious rules exist but are bypassed without real cost* | *Yes — I have a "friendly priest" figure who helps them get around the marriage ban, and I haven't thought about what that costs the priest* | *Give the priest real consequences for helping: excommunication, loss of community, personal guilt* |
-| The Convenient Religion — religious rules exist but are bypassed without real cost | | |
-| The Strawman Faith — the religion is obviously corrupt and no reasonable person would believe it | | |
-| The Painless Faith Departure — a character abandons deep faith without grief or struggle | | |
+| *The Convenient Religion, religious rules exist but are bypassed without real cost* | *Yes, I have a "friendly priest" figure who helps them get around the marriage ban, and I haven't thought about what that costs the priest* | *Give the priest real consequences for helping: excommunication, loss of community, personal guilt* |
+| The Convenient Religion, religious rules exist but are bypassed without real cost | | |
+| The Strawman Faith, the religion is obviously corrupt and no reasonable person would believe it | | |
+| The Painless Faith Departure, a character abandons deep faith without grief or struggle | | |
 
 ---
 
@@ -131,14 +131,14 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What do ordinary people in your world believe, and how does that differ from what priests or scholars officially teach?**
-*In most worlds, the average person's faith is simpler, stranger, or more superstitious than formal doctrine. A farmer might pray to a river spirit the temple doesn't recognise. A soldier might carry a charm the priests call heresy. These gaps between folk belief and official religion create texture — and romantic tension when characters from different levels of belief fall in love.*
+*In most worlds, the average person's faith is simpler, stranger, or more superstitious than formal doctrine. A farmer might pray to a river spirit the temple doesn't recognise. A soldier might carry a charm the priests call heresy. These gaps between folk belief and official religion create texture, and romantic tension when characters from different levels of belief fall in love.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **⬥ Core: What happens to people in your world who don't believe, or who follow a different faith?**
-*Are nonbelievers tolerated, pitied, shunned, or punished? Is there a difference between quiet doubt and open defiance? The answer shapes how dangerous it is for a character to question their faith — or to love someone who does.*
+*Are nonbelievers tolerated, pitied, shunned, or punished? Is there a difference between quiet doubt and open defiance? The answer shapes how dangerous it is for a character to question their faith, or to love someone who does.*
 
 _______________________________________________________________
 
@@ -220,7 +220,7 @@ Identify the gods or spiritual forces that exist in your world. Focus on those r
 
 #### Deity/Power 3 (if applicable):
 
-**Is there a deity specifically relevant to your romance — a god of love, forbidden things, or liminal spaces? Describe their name, domain, personality, demands, and offerings.**
+**Is there a deity specifically relevant to your romance, a god of love, forbidden things, or liminal spaces? Describe their name, domain, personality, demands, and offerings.**
 
 *(Write your answer below)*
 
@@ -252,7 +252,7 @@ _______________________________________________________________
 
 ## Magic & Religion
 
-*Now that you know what gods exist in your world, the next question is how their power manifests — and whether magic is a gift from the divine or a threat to it.*
+*Now that you know what gods exist in your world, the next question is how their power manifests, and whether magic is a gift from the divine or a threat to it.*
 
 Romantasy typically combines elements of magic and faith into a single system. Magic can be thought of as a gift provided by the gods, but equally, magic can represent heresy which a church will try to eliminate. Wherever the two meet, the world becomes a realm in which the consequences of moral choice are always tangible in their magical impact, and where falling in love can result in loss of magical power, protection, or your place in the divine order.
 

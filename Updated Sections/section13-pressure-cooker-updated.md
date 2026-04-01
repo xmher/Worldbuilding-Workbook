@@ -506,7 +506,7 @@ ___
 
 ## Routines & Rhythms
 
-Daily routines that are formed during confinement develop a pattern. In these routines, individual moments are magnified. And it is the quiet beat of "I have to" becoming "I want to" that is one of the most powerful patterns in a romance.
+Daily routines that are formed during confinement develop a pattern. In these routines, individual moments are magnified. And it's the quiet beat of "I have to" becoming "I want to" that's one of the most powerful patterns in a romance.
 
 Consider Feyre's evening dinners with Rhysand and the Inner Circle in *A Court of Mist and Fury*. The first time they happen, they're an expectation. She's moved into the townhouse and dinner is being served; there's no other option than to go. However, over time the dinners become a part of her recovery process. She begins to look forward to seeing him and the others. She even notices when someone is missing from the table. The routines become safe havens for her, and the individual that created this routine becomes a part of that sense of security.
 
@@ -579,7 +579,7 @@ ___
 
 ## The Pressure-Release Moment
 
-There is a certain time in forced proximity when all of the tension builds up to a breaking point. That isn't necessarily the confession; that could happen later. What I'm talking about is the moment when the characters give up control, when the walls they've built and are trying to maintain start to crack and something real starts to show through.
+There's a certain time in forced proximity when all the tension builds up to a breaking point. That isn't necessarily the confession; that could happen later. What I'm talking about is the moment when the characters give up control, when the walls they've built and are trying to maintain start to crack and something real starts to show through.
 
 In romantasy, this is often represented by using the worldbuilding to create an image of what's occurring with the characters as the break point happens. In *Fourth Wing*, when Violet and Xaden let go of their control over their emotions while in close proximity, their magic explodes throughout the area creating an image of their unspoken connection. Maas represents this same concept in a similar fashion. When Feyre's powers get out of control during moments of extreme emotional intensity, the magic shows visually what she's feeling but hasn't expressed verbally. The world reacts to the breaking point.
 
@@ -715,7 +715,7 @@ That's the beat that separates good forced proximity from great forced proximity
 
 ### The Three Possible Responses
 
-There are three ways people typically react when the external pressure of their confinement is lifted, and your decision on which way they react will shape the emotional arc of your post-proximity story.
+There are three ways people typically react when the external pressure of their confinement is lifted, and your decision on which way they react will shape your post-proximity story's emotional arc.
 
 **They cling.** Either one or both characters will attempt to keep the closeness going by trying to recreate the same confined space, seeking each other out, or simply refusing to accept that things have changed. Cloying as this may be at times, clinging can also be a signal that the character still hasn't figured out what they're feeling; they've become dependent on the closeness, not the individual themselves.
 
