@@ -1,9 +1,9 @@
 # Culture, Customs & Daily Life
 **Daily routines, social rules, forbidden desires, slow-burn tension, courtship customs**
 
-> **How to Use This Section:** This is the largest section in the workbook — it covers everything from daily routines to courtship to exile. You do not need to answer every question. Questions marked **⬥ Core** are the essentials; start there. All other questions are Deep Dive — use them when you need more detail for a specific area of your story. Use the Section Map below to jump to what matters most, and skip anything that doesn't serve your romance.
+> **How to Use This Section:** This is the largest section in the workbook, covering everything from daily routines to courtship to exile. You don't need to answer every question. Questions marked **⬥ Core** are the essentials; start there. All other questions are Deep Dive, so use them when you need more detail for a specific area of your story. Use the Section Map below to jump to what matters most, and skip anything that doesn't serve your romance.
 
-Culture is the texture of your world. It's the unwritten rules everyone knows, the rituals that mark important moments, the things people do without thinking about them. How they greet each other, what they eat, what they believe about luck, how they raise their children, and what they do for fun. And in romantasy, culture is the invisible architecture that determines what your characters can and can't do, what it costs them to step out of line, and what hoops they have to jump through to be together.
+Culture is the texture of your world. It's the unwritten rules everyone knows, the rituals that mark important moments, the things people do without thinking about them. How they greet each other, what they eat, what they believe about luck, how they raise their children, and what they do for fun. And in romantasy, culture is the invisible architecture that determines what your characters can and can't do, what it costs them to step out of line, and what hoops they've got to jump through to be together.
 
 ---
 
@@ -11,9 +11,9 @@ Culture is the texture of your world. It's the unwritten rules everyone knows, t
 
 Cultural boundaries create some of the most compelling constraints when they're so much a part of your character's world view that they are unseen by themselves. What we call love is what brings these into focus.
 
-A character who has never questioned arranged marriage doesn't experience it as oppression until they want to marry someone else. A character who assumes certain others are inferior to them does not recognise the limitations of their assumptions until they develop romantic feelings for one of those people. Those bars were always there. It's when your character wants something on the other side of those bars that they begin to realise there are limits.
+A character who's never questioned arranged marriage doesn't experience it as oppression until they want to marry someone else. A character who assumes certain others are inferior to them doesn't recognise the limitations of their assumptions until they develop romantic feelings for one of those people. Those bars were always there. It's when your character wants something on the other side of those bars that they begin to realise there are limits.
 
-Feyre in *ACOTAR* is an excellent illustration of this. She never questions Tamlin's protective nature or the rules of the Spring Court until she experiences Rhysand's Night Court, where she's given autonomy and actual choice. It was only through experiencing love from someone who treats her differently that Feyre realises the cage she has been living in. And the cage she had been living in was not due to Tamlin's cruelty. It was Feyre genuinely believing that was what love looked like.
+Feyre in *ACOTAR* is an excellent illustration of this. She never questions Tamlin's protective nature or the rules of the Spring Court until she experiences Rhysand's Night Court, where she's given autonomy and actual choice. It was only through experiencing love from someone who treats her differently that Feyre realises the cage she has been living in. And the cage she had been living in was not due to Tamlin's cruelty. It was Feyre genuinely believing that's what love looked like.
 
 What does your character take for granted that love will make them realise?
 

@@ -1,4 +1,4 @@
-# Section 13: The Pressure Cooker — Forced Proximity by Design
+# Section 13: The Pressure Cooker, Forced Proximity by Design
 **Confinement, forced proximity, slow burn, enemies-to-lovers, shared spaces, stolen moments**
 
 You've already created geographical barriers that isolate (Section 1) and institutional constraints that bind (Section 14). This section is about how to use these two types of elements to create sustained proximity. Settings that function as pressure systems, compressing your characters together until avoiding each other becomes impossible.
@@ -6,7 +6,7 @@ You've already created geographical barriers that isolate (Section 1) and instit
 The "only one bed" trope works because it eliminates the option for the characters to avoid each other. In romantasy, you can scale this principle up to entire settings. Academies where students are required to live in dorms and therefore don't have an opportunity to avoid each other. Ships where passengers can't escape each other. Journeys through dangerous terrain where separation means death. Think of Feyre trapped Under the Mountain in *A Court of Thorns and Roses*, where she has no ability to leave, and every encounter with Rhysand happens under Amarantha's surveillance. The confinement in this story isn't just a background element. It's what forces the relationship to develop under conditions neither character would have chosen.
 
 **What confined, high-pressure environments exist in your world?**
-*Think about the places your world already has where people are forced into close quarters — fortresses, ships, underground networks, warded academies, besieged cities, ritual spaces.*
+*Think about the places your world already has where people are forced into close quarters: fortresses, ships, underground networks, warded academies, besieged cities, ritual spaces.*
 
 _______________________________________________________________
 

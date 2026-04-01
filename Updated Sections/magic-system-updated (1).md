@@ -45,15 +45,15 @@ _______________________________________________________________________________
 
 ### How to Use This Section
 
-**⬥ Core questions** are the essential building blocks every magic system needs. If you're short on time, answer these first — they give you a functional magic system you can write with.
+**⬥ Core questions** are the essential building blocks every magic system needs. If you're short on time, answer these first. They'll give you a functional magic system you can write with.
 
-Everything else is **Deep Dive** — important for adding nuance and complexity, but you can return to these as your story develops. If a subsection doesn't apply (no bonded creatures, no forbidden magic), skip it entirely.
+Everything else is **Deep Dive**, important for adding nuance and complexity, but you can return to these as your story develops. If a subsection doesn't apply (no bonded creatures, no forbidden magic), skip it entirely!
 
 ---
 
 ## How to Think About Magic in Romantasy
 
-Magic in romantasy serves three functions simultaneously. Understanding all three helps you build a system that does real work for your story.
+Magic in romantasy serves three functions simultaneously. Understanding all three will help you build a system that does real work for your story.
 
 | Function | What It Does | Example |
 |---|---|---|
@@ -67,9 +67,9 @@ Not every magical ability needs to directly advance the romance. Winnowing in *A
 
 ## A Note Before You Begin
 
-You don't need to answer every question in this section. Some magic systems are simple: one type of power, one clear cost, a few firm limits. Others are elaborate, with multiple types, complex hierarchies, and layered costs. Both work.
+You don't need to answer every question in this section. Some magic systems are simple: one type of power, one clear cost, a few firm limits. Others are elaborate, with multiple types, complex hierarchies, and layered costs. Both work!
 
-Answer what matters for your story. If a question doesn't apply, skip it. If you're unsure about something, write it down anyway because you may figure it out as you draft.
+Answer what matters for your story. If a question doesn't apply, skip it. If you're unsure about something, write it down anyway. You may figure it out as you draft.
 
 The most important thing is that your magic feels consistent and has real consequences. Everything else is detail.
 
