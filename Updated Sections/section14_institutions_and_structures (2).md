@@ -265,8 +265,6 @@ _______________________________________________________________
 
 **Who watches everyone, and why?**
 
-*The surveillance system determines what your characters can get away with. Magical scrying means nothing is truly private; a network of gossips means information travels unpredictably. The nature of the watching shapes how your characters steal their moments together.*
-
 Spies, rivals, servants who report, magical surveillance, gossips?
 
 _______________________________________________________________
@@ -283,27 +281,21 @@ _______________________________________________________________
 
 **Who actually runs the court day-to-day?**
 
-*The monarch may hold power in name, but stewards, advisors, spymasters, and favoured nobles often control access, information, and influence. Who are the gatekeepers your characters have to navigate?*
+*Stewards, advisors, spymasters, and favoured nobles often control access more than the monarch does. Who are the gatekeepers?*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What is your protagonist's position at court (title, access, limitations)?**
-
-_______________________________________________________________
-
-**What is your love interest's position at court?**
-
-_______________________________________________________________
-
-**What spaces can each access? Where would they naturally encounter each other?**
+**What is your protagonist's position at court? Your love interest's?**
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Where could they have a truly private conversation?**
+**Where would they naturally encounter each other, and where could they have a truly private conversation?**
+
+_______________________________________________________________
 
 _______________________________________________________________
 
@@ -318,8 +310,6 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What customs give them an excuse to be close while looking like they're following the rules?**
-
-*The dance that allows touch, the ceremony that requires standing close, the negotiation that puts them in the same room. The best stolen moments hide inside the institution's own rituals.*
 
 _______________________________________________________________
 
@@ -365,17 +355,9 @@ War is an accelerator for everything. When you're facing death, all pretences fa
 
 _______________________________________________________________
 
-**How imminent is the danger?**
+**How imminent is the danger, and what does "we might die tomorrow" actually mean for them?**
 
-*Cold war creates tension through paranoia and espionage; your characters steal intimacy in the gaps between suspicion. Active combat creates urgency through proximity to death; "we might not survive this" accelerates every confession. Each generates a different romantic flavour.*
-
-Cold war (tension, espionage) or active combat (battles, sieges)?
-
-_______________________________________________________________
-
-**What does "we might die tomorrow" actually mean for them?**
-
-Is death a real possibility they face? How does this urgency affect what they're willing to say or do?
+*Cold war creates tension through paranoia; active combat creates urgency through proximity to death. Each generates a different romantic flavour.*
 
 _______________________________________________________________
 
@@ -383,25 +365,15 @@ _______________________________________________________________
 
 ### Military Structure
 
-**What's each character's role?**
+**What's each character's military role?**
 
-*Their military roles define the power dynamic. A commander and a soldier under her command face very different romantic obstacles than two soldiers of equal rank. The role also determines what each character has access to (information, movement, authority) and what they risk by loving the wrong person.*
+*A commander and a soldier under her command face very different romantic obstacles than two soldiers of equal rank. The role determines what each character has access to and what they risk by loving the wrong person.*
 
 Soldier, commander, medic, strategist, prisoner, spy, conscript, mercenary, support staff?
 
-**What is your protagonist's military role?**
+Protagonist's role: _______________________________________________________________
 
-*Rank, unit, and how they earned it.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What is your love interest's military role?**
-
-_______________________________________________________________
-
-_______________________________________________________________
+Love interest's role: _______________________________________________________________
 
 **What rules govern relationships between ranks?**
 
