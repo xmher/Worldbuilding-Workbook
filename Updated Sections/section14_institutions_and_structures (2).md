@@ -954,22 +954,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What other institutions enforce or complicate this marriage?**
-
-*Courts that require heirs, religious orders that bless (or curse) the union, families with competing agendas. The marriage doesn't exist in a vacuum; other institutions press on it from the outside.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How common are arranged marriages in your world, and how have attitudes toward them changed?**
-
-*If arranged marriage is normal, your characters may not question the institution itself, only their specific match. If it's fallen out of favour, they may feel like relics of an older age. Either way, the cultural context shapes how they feel about being bound.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ---
 
 ## Prison & Captivity
