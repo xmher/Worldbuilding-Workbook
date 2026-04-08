@@ -130,19 +130,13 @@ Magic doesn't have to mean spellcasting. Here are different approaches to inspir
 | Type | How It Works | Romantic Potential | Example |
 |---|---|---|---|
 | Elemental | Control over natural forces (fire, water, earth, air) | Complementary or opposing elements between leads; loss of control reflecting emotional state | *Avatar*, *The Priory of the Orange Tree* |
-| Spellcasting | Words, gestures, or rituals produce specific effects | Shared rituals as intimacy; spells gone wrong creating vulnerability | *Harry Potter*, *The Name of the Wind* |
-| Innate/Inborn | Powers you're born with, often tied to bloodline | Bloodline politics affecting who can love whom; awakening powers tied to emotional growth | *X-Men*, *Graceling*, *Ninth House* |
+| Innate/Inborn | Powers you're born with, often tied to bloodline | Bloodline politics affecting who can love whom; awakening powers tied to emotional growth | *Graceling*, *Ninth House* |
 | Blood/Sacrifice | Power drawn from blood, pain, or giving something up | Sacrificing for each other; shared pain as connection | *Blood and Ash*, *Daughter of No Worlds* |
 | Emotional/Will-Based | Magic fuelled by feelings, desire, or force of will | Falling in love makes magic stronger or more dangerous; emotions as vulnerability | *The Rage of Dragons* |
 | Bond-Based | Magic tied to a connection with another being | The bond itself becomes the romantic vehicle; forced proximity through magical partnership | *Fourth Wing*, *His Dark Materials* |
-| Artifact-Based | Power resides in objects, not people | Shared custody of powerful objects; gifting enchanted items as intimacy | *Lord of the Rings* |
 | Transformation | Ability to change form | True form as vulnerability; accepting someone's other shape as acceptance of their whole self | *ACOTAR* (shifting) |
-| Necromancy | Power over death, spirits, or life's boundary | Stigma and secrecy; raising stakes around mortality; "I'd bring you back" as ultimate declaration | *Gideon the Ninth*, *Sabriel* |
 | Bargain/Contract | Power gained through deals or binding agreements | Bargains that force proximity or create obligation; loopholes as plot devices | *ACOTAR* (bargains) |
-| Symbiotic/Parasitic | Magic requires or is enhanced by another being | Dependency as vulnerability; needing someone as both power source and person | *Venom*, *The Fifth Season* |
-| Music/Art-Based | Creation through song, art, or expression | Creating something together; art as emotional revelation; songs that only mean something to two people | *Wintersong* |
-| True Names | Power from knowing the true nature of things | Knowing someone's true name as ultimate intimacy and ultimate weapon | *Earthsea*, *The Name of the Wind* |
-| Psychic/Mental | Mind-reading, telekinesis, mental influence | Thoughts you can't hide; mental shields as emotional walls; choosing to let someone in | *Shatter Me*, *Carrie* |
+| Psychic/Mental | Mind-reading, telekinesis, mental influence | Thoughts you can't hide; mental shields as emotional walls; choosing to let someone in | *Shatter Me* |
 
 **Which type(s) best describe your magic system?**
 You can combine multiple approaches.

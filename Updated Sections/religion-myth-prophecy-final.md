@@ -425,26 +425,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-### Religious Education
-
-How faith is transmitted to the next generation determines how deeply it takes root, and how hard it is to question later.
-
-**How do people in your world learn their faith?**
-*Formal temple schools? Oral tradition passed from parent to child? Apprenticeship with a priest or elder? Sacred texts studied independently? The method of transmission shapes how flexible or rigid belief becomes. A faith learned through storytelling may be more adaptable than one drilled through catechism.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What happens to someone who was never properly educated in the faith, or who was educated in the "wrong" version?**
-*Are they pitied, distrusted, or seen as a blank slate? This matters for characters who cross religious boundaries: a love interest from outside the faith may be seen as ignorant rather than heretical, which creates different obstacles.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
 ### ✦ Checkpoint: Institutions & Authority
 *Pause and look at your answers so far. Do your religious institutions have enough power to actually enforce the rules that create obstacles for your characters? Does the relationship between religious and political authority make sense with what you established about your gods? If something doesn't fit, adjust before moving on.*
 
@@ -466,48 +446,37 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Beyond love and marriage, what does religious law govern in everyday life?**
-*Dietary restrictions, dress codes, economic rules (usury, fair trade, tithes), behavioural codes (hospitality obligations, truth-telling, treatment of strangers), rules about work and rest days. These laws shape the texture of daily life and reveal what the religion truly values. They also create small, constant friction points between characters who follow different rules.*
+### Religious Rules & Prohibitions
 
-_______________________________________________________________
+*Beyond the big question of love and marriage, religion governs daily life in ways that create constant, small friction points between characters, and reveal how seriously violations are taken.*
 
-_______________________________________________________________
-
-**What are the penalties for breaking non-romantic religious laws, and who enforces them?**
-*Is eating forbidden food a minor social embarrassment or a serious offence? Does breaking a Sabbath-like rest day bring divine punishment or just community disapproval? The severity of enforcement for everyday rules tells your reader how much more dangerous breaking the big rules, like forbidden love, will be.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does religious law say about who can marry whom?**
-Restrictions based on faith, role, gender, species, class?
-
+**What does religious law govern in everyday life, and how strictly is it enforced?**
+*Think about dietary restrictions, behavioural codes, work and rest days, rules about who can associate with whom. The severity of enforcement for small rules tells your reader how dangerous breaking the big rules will be.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **What religious restrictions specifically affect your characters' relationship?**
-Identify the specific rules that create obstacles. These become the stakes your characters must navigate.
+*Check all that apply, and note the consequences for violation: spiritual, magical, institutional, or social.*
 
 - ☐ Forbidden to marry outside the faith
 - ☐ Celibacy required for certain roles
-- ☐ Must marry within specific group
+- ☐ Must marry within specific group (by class, species, bloodline)
 - ☐ Specific intimacy prohibitions
 - ☐ One character serves a deity that forbids attachment
 - ☐ The beloved's magic/nature is classified as heretical
 - ☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **⬥ Core: What are the consequences for violating religious law?**
-Not just social disapproval. What are the spiritual, magical, and institutional consequences? Excommunication? Damnation? Loss of divine favour or magic? Ritual punishment? Social ostracism?
+*Not just social disapproval. What are the spiritual, magical, and institutional consequences? Excommunication? Damnation? Loss of divine favour or magic? Ritual punishment? Social ostracism?*
 
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-*Cross-check: Do your religious restrictions align with your cultural taboos (Section 3)? Religious law and cultural norms often reinforce each other, but where they diverge (a culture that tolerates what the religion forbids, or vice versa) you get interesting friction. Make sure the overlap or tension is intentional.*
+*Cross-check: Do your religious restrictions align with your cultural taboos (Section 3)? Religious law and cultural norms often reinforce each other, but where they diverge you get interesting friction. Make sure the overlap or tension is intentional.*
 
 **Which character believes the religious law is right, even as they fall in love?**
 *This character creates the most interesting tension. What would it take for them to choose love over religious duty, and what do they tell themselves while they resist?*
