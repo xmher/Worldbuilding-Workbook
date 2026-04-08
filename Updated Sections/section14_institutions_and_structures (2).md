@@ -1,11 +1,9 @@
 # Section 14: Institutions & Structures
 **Academies, courts, militaries, prisons, arranged marriages, and how they trap your characters together**
 
-Institutions aren't just settings. They're systems built to control, rank, test, and bind people, and in romantasy, the right institution becomes something wonderful for your story: a container your characters can't escape from. An institution will force characters to spend time together, build hierarchies they have to navigate, and create consequences that make leaving impossible or genuinely dangerous.
+Institutions aren't just settings. They're systems built to control, rank, test, and bind people, and in romantasy, the right institution becomes a container your characters can't escape from. Your characters can't just walk away from an academy mid-semester or abandon a military post during wartime. The institution creates the box; your job is to make sure that box compresses your characters together.
 
-An institutional setting also has built-in rules, schedules, and power structures. Your characters can't just walk away from an academy mid-semester or abandon a military post during wartime. The institution creates the box; your job is to make sure that box compresses your characters together.
-
-This section continues to build upon the political structures from Section 5 (Government), the cultural expectations from Section 3 (Culture), and the economic bindings from Section 4 (Economy). Here, we're focusing specifically on how institutions function as romantic pressure systems.
+This section builds upon Section 5 (Government), Section 3 (Culture), and Section 4 (Economy). Here, we're focusing specifically on how institutions function as romantic pressure systems.
 
 ---
 
@@ -335,7 +333,7 @@ _______________________________________________________________
 
 **What happens to someone who falls out of favour at court?**
 
-*Exile, poverty, imprisonment, social death? The worse the fall, the higher the stakes for your characters. This is what keeps them playing the game even when they want to stop.*
+*Exile, poverty, imprisonment, social death? The worse the fall, the higher the stakes.*
 
 _______________________________________________________________
 
@@ -417,8 +415,6 @@ _______________________________________________________________
 
 **What would each sacrifice to be together?**
 
-*The weight of the sacrifice is what proves the love is real. If what they'd give up is trivial, the choice carries no tension. If it's everything, loyalty, identity, safety, then the reader understands just how much this person matters.*
-
 _______________________________________________________________
 
 **At what point does love become treason?**
@@ -435,17 +431,11 @@ Temples, monasteries, and religious orders create unique pressure: vows that con
 
 ### The Religious Setting
 
-**What religious institution are your characters part of or connected to?**
+**What religious institution are your characters part of, and what is its stated purpose?**
 
-Temple, monastery, convent, religious order, pilgrimage site, sacred academy?
-
-_______________________________________________________________
+Temple, monastery, convent, religious order, pilgrimage site, sacred academy? Training priests, preserving knowledge, serving a deity, healing, protection, isolation?
 
 _______________________________________________________________
-
-**What is the institution's stated purpose?**
-
-Training priests? Preserving knowledge? Serving a deity? Healing? Protection? Isolation from the world?
 
 _______________________________________________________________
 
@@ -482,23 +472,13 @@ _______________________________________________________________
 
 **Does either character struggle between faith and feeling?**
 
-*This internal conflict is what makes religious settings so powerful for romance. A character torn between devotion to their god and desire for another person carries a tension that no external obstacle can match, because the obstacle is inside them.*
+*A character torn between devotion to their god and desire for another person carries a tension no external obstacle can match, because the obstacle is inside them.*
 
 _______________________________________________________________
 
-_______________________________________________________________
+**How do they try to make their faith and their feelings fit together, and is there a way to have both?**
 
-**How do they try to make their faith and their feelings fit together?**
-
-*Some characters reinterpret their beliefs; others compartmentalise; others break under the contradiction. There's no wrong answer, but there should be a struggle.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Is there a way to have both, the relationship and their faith?**
-
-Or must they choose? *(Reference Section 6 for how religion might adapt or condemn)*
+*Some reinterpret their beliefs; others compartmentalise; others break under the contradiction. (Reference Section 6 for how religion might adapt or condemn.)*
 
 _______________________________________________________________
 
@@ -522,17 +502,11 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Why can't they simply leave?**
+**Why can't they simply leave, and how long are they bound?**
 
-Debt that must be repaid? Contract with penalties? No other options? Would lose everything they've worked for? Legal consequences?
-
-_______________________________________________________________
+*Debt, contract penalties, no other options? A short-term bond creates urgency; a lifetime bond forces coexistence.*
 
 _______________________________________________________________
-
-**How long are they bound?**
-
-*Duration shapes the romance. A short-term bond creates urgency; they must figure out their feelings before the timer runs out. A lifetime bond forces them to find a way to coexist, which is slow burn territory.*
 
 _______________________________________________________________
 
@@ -548,7 +522,7 @@ _______________________________________________________________
 
 **Who has more economic power, and what does that do to trust?**
 
-*Economic dependency creates a specific "Do they want me or do they just need me?" tension. The more powerful person worries about whether genuine feeling can exist when they hold someone's livelihood. The less powerful person carries pride, resentment, and the nagging question of whether their own feelings are real or survival instinct. The relationship can't truly deepen until the power dynamic shifts or both characters confront it honestly. (Reference Section 4 for economic power dynamics.)*
+*Economic dependency creates a "Do they want me or do they just need me?" tension. The relationship can't truly deepen until the power dynamic shifts or both characters confront it honestly. (Reference Section 4.)*
 
 _______________________________________________________________
 
@@ -600,25 +574,15 @@ _______________________________________________________________
 
 **What's the other character's role?**
 
-*Their role determines the initial power dynamic. A professional healer carries duty and ethical boundaries. A fellow patient shares vulnerability. A reluctant caretaker brings resentment that can transform into tenderness. Each starting point shapes the arc differently.*
-
-Healer, fellow patient, visitor, guard, staff, reluctant caretaker?
+Healer, fellow patient, visitor, guard, staff, reluctant caretaker? *Each starting point shapes the power dynamic and arc differently.*
 
 _______________________________________________________________
 
 ### Vulnerability & Intimacy
 
-**What makes the patient vulnerable?**
+**What makes the patient vulnerable, and what intimate care creates connection?**
 
-Physical weakness, dependence, loss of privacy, inability to leave, altered mental state, need for constant care?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What intimate care creates connection?**
-
-Feeding, bathing, wound care, sitting vigil, sharing confined space, witnessing pain, providing comfort?
+Physical weakness, dependence, loss of privacy? Feeding, bathing, wound care, sitting vigil, witnessing pain?
 
 _______________________________________________________________
 
@@ -634,21 +598,13 @@ _______________________________________________________________
 
 ### Recovery & Change
 
-**How does the patient change during recovery?**
+**How does the patient change during recovery, and what does the caregiver witness?**
 
-*Recovery is transformation. The person who emerges isn't the person who was admitted, and the caregiver has witnessed the entire journey. That shared knowledge, of weakness, of growth, of the messy in-between, becomes a bond no one else can replicate.*
-
-**What does the caregiver witness? What do they learn about each other?**
+*The person who emerges isn't the person who was admitted. That shared knowledge of weakness and growth becomes a bond no one else can replicate.*
 
 _______________________________________________________________
 
-_______________________________________________________________
-
-**What happens when recovery is complete?**
-
-Does the connection survive when vulnerability ends? Does the relationship need to be rebuilt as equals?
-
-_______________________________________________________________
+**What happens when recovery is complete?** Does the connection survive when vulnerability ends?
 
 _______________________________________________________________
 
@@ -670,13 +626,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Who arranged it? Do the characters have any say?**
-
-*Whether the characters had input shapes their initial attitude toward each other. A marriage imposed without consent breeds resentment that must be overcome. A marriage they reluctantly agreed to carries guilt and second-guessing. Either way, the arrangement is the inciting incident of the romance.*
+**Who arranged it, do the characters have any say, and what happens if they refuse?**
 
 _______________________________________________________________
-
-**What happens if they refuse?**
 
 _______________________________________________________________
 
@@ -700,23 +652,13 @@ _______________________________________________________________
 
 ### Starting Point
 
-**Does the story begin before or after the marriage?**
+**Does the story begin before or after the marriage, and what's their relationship like at the start?**
 
-Before means the arrangement is an obstacle to escape or accept. After means they're already bound and must learn to live together.
-
-_______________________________________________________________
-
-**If already married, what's their relationship like at the start?**
-
-Strangers? Cold distance? Active hostility? Tentative curiosity? Grudging respect?
-
-_______________________________________________________________
+*Before means the arrangement is an obstacle to escape or accept. After means they're already bound: strangers, cold distance, active hostility, tentative curiosity?*
 
 _______________________________________________________________
 
 **What begins to shift how they see each other?**
-
-_______________________________________________________________
 
 _______________________________________________________________
 
@@ -734,11 +676,7 @@ _______________________________________________________________
 
 **What domestic situation forces vulnerability?**
 
-*Arranged marriages turn ordinary domestic life into an emotional minefield. Sharing a bedroom when you're strangers, seeing each other ill or afraid, navigating servants who report every interaction. These small, inescapable intimacies are where the walls start to crack.*
-
 Sharing a bedroom, seeing each other sick, navigating servants who report everything, facing a crisis together?
-
-_______________________________________________________________
 
 _______________________________________________________________
 
@@ -750,15 +688,11 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What public performance is required?**
+**What public performance is required, and what happens behind closed doors when it ends?**
 
-*The performance is where arranged marriages get interesting for romance. Characters who must act like a couple in public start to blur the line between pretence and reality. Every performed kiss, every public hand-hold, every shared glance for the benefit of an audience. At some point, it stops being entirely fake, and neither of them can pinpoint when.*
+*Characters who must act like a couple in public start to blur the line between pretence and reality. At some point, it stops being entirely fake, and neither of them can pinpoint when.*
 
 _______________________________________________________________
-
-**What happens behind closed doors when performance ends?**
-
-*The gap between the public act and the private reality is where the real relationship lives. When the audience is gone and the masks come off, what remains? Awkward silence? Relief? The unsettling realisation that they miss the pretence?*
 
 _______________________________________________________________
 
@@ -802,17 +736,9 @@ _______________________________________________________________
 
 **What proves they've become equals?**
 
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 ### Forced Proximity in Captivity
-
-Captivity creates the most extreme version of forced proximity in romantasy. The characters can't retreat to separate lives at the end of the day. There's no break from each other.
 
 **What does the physical space of confinement look like?**
 
@@ -828,7 +754,7 @@ _______________________________________________________________
 
 **What does the captive see about the captor that no one else gets to see?**
 
-*It's these private moments that dissolve the "villain" archetype. A captor who is publicly ruthless but privately kind, or exhausted, or conflicted, becomes a person rather than a monster. These glimpses only exist because the characters are confined together, and they're what make the reader believe the connection is real.*
+*A captor who is publicly ruthless but privately kind, exhausted, or conflicted becomes a person rather than a monster. These glimpses are what make the reader believe the connection is real.*
 
 _______________________________________________________________
 
@@ -836,13 +762,9 @@ _______________________________________________________________
 
 ### The Betrayal Beat
 
-Almost all captivity romances include a betrayal or reveal that resets the power dynamic. There will be some sort of revelation about who the captor really is, what the captive's true nature is, or why they were confined in the first place, and the connection that's been building has to survive the aftermath.
-
-This can't happen through words alone. Trust is rebuilt through action, through risk, through one character choosing the other at personal cost. Lara going back to rescue Aren from her own father's palace. Casteel putting Poppy's wellbeing above his original mission. The redemption has to be earned, not declared.
+Almost all captivity romances include a betrayal or reveal that resets the power dynamic, and the connection that's been building has to survive the aftermath. Trust is rebuilt through action, not words: Lara going back to rescue Aren from her own father's palace, Casteel putting Poppy's wellbeing above his original mission. The redemption has to be earned, not declared.
 
 **What is the betrayal or reveal that resets your captivity dynamic?**
-
-*Almost every captivity romance has a moment where something is revealed, a true identity, a hidden agenda, the real reason for confinement, that shatters the trust built so far. What is that moment for your characters, and how is trust rebuilt through action rather than words?*
 
 The reveal/betrayal:
 
@@ -858,15 +780,9 @@ _______________________________________________________________
 
 ### The Stockholm Syndrome Question
 
-Your readers are going to want to know how the captive was able to move past being held captive, so you need to have an answer built into your story. Modern romantasy handles it through choice and consequence. The captive must, at some point, have a genuine opportunity to leave and choose to stay, or choose to return. Not because she's been conditioned to, but because she's seen something real and decided it matters more than her freedom from this specific person.
-
-Maas uses the Night Court as a counter-narrative to the Spring Court: Feyre chooses Rhysand's world of autonomy over Tamlin's world of safety. Jensen gives Lara a full escape; she returns to Ithicana not because she's bonded to Aren but because she's decided to fight for what's right. Armentrout builds Poppy's arc so that by the time she has the power to destroy Casteel, she has enough information to choose him freely.
-
-It's essential that the choice is informed and free. The captive must know the full truth, have the power to leave, and choose to stay anyway. If you don't do this, you haven't resolved the power imbalance. You've just dressed it up.
+Your readers are going to want to know how the captive was able to move past being held captive, so you need to have an answer built into your story. The captive must, at some point, have a genuine opportunity to leave and choose to stay, or choose to return. Not because she's been conditioned to, but because she's seen something real. Feyre chooses Rhysand's autonomy over Tamlin's safety. Lara returns to Ithicana because she's decided to fight for what's right. Poppy, by the time she has the power to destroy Casteel, has enough information to choose him freely. The choice must be informed and free. If you don't do this, you haven't resolved the power imbalance. You've just dressed it up.
 
 **When does your captive freely choose to stay (or return)?**
-
-*Your reader needs to see a moment where the captive has full information, the genuine power to leave, and chooses to stay anyway. Without this, the romance reads as coercion, not love. Design that moment.*
 
 What truth does the captive now know:
 
@@ -894,9 +810,7 @@ The danger in these settings isn't institutional punishment in the traditional s
 
 ### The Secret Organisation
 
-**What kind of secret organisation are your characters part of?**
-
-*The type of organisation determines what's at stake. A resistance movement fighting tyranny carries moral weight. A thieves' guild operates on self-interest and loyalty codes. A spy network runs on deception. Each creates different romantic tension.*
+**What kind of secret organisation are your characters part of, and what is its purpose?**
 
 Resistance movement, thieves' guild, spy network, hidden magical order, underground religion, smuggling ring, assassin brotherhood, revolutionary cell?
 
@@ -904,43 +818,25 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What is the organisation's purpose? What are they working toward or against?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 **What happens if the organisation is discovered?**
-
-*This is the institutional grip. The consequence of exposure must be severe enough that every interaction between your characters carries real risk, not just for them, but for everyone they're protecting.*
-
-_______________________________________________________________
 
 _______________________________________________________________
 
 **What happens to members who want to leave?**
 
-*Can they walk away, or do they know too much? An organisation that won't let you go is another cage, and your characters may find themselves trapped by the very group they thought would set them free.*
-
-_______________________________________________________________
+*Can they walk away, or do they know too much?*
 
 _______________________________________________________________
 
 ### Secrecy & Trust
 
-**How does someone join? What binds them to silence?**
+**How does someone join, and what binds them to silence?**
 
-*Oaths, magical bonds, mutual blackmail, shared guilt, initiation rituals? The binding mechanism determines how trapped your characters are.*
-
-_______________________________________________________________
+Oaths, magical bonds, mutual blackmail, shared guilt, initiation rituals?
 
 _______________________________________________________________
 
 **Do both characters know each other's involvement from the start, or does one discover the other's secret?**
-
-*If both know, the shared secret is an instant bond: "us against the world." If one discovers the other's involvement, the discovery becomes a turning point: do they protect the secret, exploit it, or join?*
-
-_______________________________________________________________
 
 _______________________________________________________________
 
@@ -952,7 +848,7 @@ _______________________________________________________________
 
 **What public personas do your characters maintain?**
 
-*The gap between the public mask and the private truth is where the romantic tension lives. A noblewoman who's secretly funding the resistance. A palace guard who's reporting to the underground. The person they pretend to be and the person they actually are. The love interest gets to see both.*
+*The gap between the public mask and the private truth is where romantic tension lives. The love interest gets to see both.*
 
 | | Public Persona | Secret Truth |
 | --- | --- | --- |
@@ -968,7 +864,7 @@ _______________________________________________________________
 
 **Where does the habit of lying bleed into their relationship with each other?**
 
-*Characters who spend their days performing a lie often struggle to stop performing, even with someone they trust. The habit of secrecy can become a barrier to genuine intimacy. The mask doesn't always come off just because you want it to.*
+*The habit of secrecy can become a barrier to genuine intimacy. The mask doesn't always come off just because you want it to.*
 
 _______________________________________________________________
 
@@ -980,7 +876,7 @@ _______________________________________________________________
 
 *Answer these for whichever institution type you're building.*
 
-Every institution claims to serve a purpose, and the gap between what it claims and what it actually does creates brilliant story opportunities. Basgiath War College in Fourth Wing claims to train the next generation of dragon riders to defend the kingdom; in reality, it's a brutal selection process that treats cadets as expendable. The Spring Court in ACOTAR presents itself as a safe haven of beauty and tradition; in reality, it's a gilded cage where Feyre's autonomy is slowly suffocated. Once your characters find out about that gap, it changes everything, not just how they see the institution, but how they see each other. Disappointment can be a strong bond. Two people who've both looked behind the same curtain share something no one else can understand.
+Every institution claims to serve a purpose, and the gap between what it claims and what it actually does creates brilliant story opportunities. Basgiath claims to train dragon riders; in reality, it treats cadets as expendable. The Spring Court presents itself as a safe haven; in reality, it's a gilded cage. Once your characters find that gap, it changes everything. Disappointment can be a strong bond. Two people who've both looked behind the same curtain share something no one else can understand.
 
 **What does your institution claim to do?**
 The stated mission, the noble purpose, what it tells the world:
@@ -998,24 +894,13 @@ _______________________________________________________________
 
 **Does your protagonist buy into the institution's mission, or see through it? What about the love interest?**
 
-*An idealist paired with a cynic creates instant friction, and a reason to keep talking. Two idealists who discover the truth together share a bond of shared betrayal. Think about where each character starts and how their view shifts.*
-
 _______________________________________________________________
 
 _______________________________________________________________
 
-_______________________________________________________________
+**What happens when they see behind the curtain, and does the truth pull them together or push them apart?**
 
-**What happens when they see behind the curtain?**
-When the gap between ideal and reality becomes undeniable:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**When they see the truth, does it pull them together or push them apart?**
-
-*Do they bond over the shared revelation? Or does one cling to belief while the other has lost faith?*
+*An idealist paired with a cynic creates instant friction. Two idealists who discover the truth together share a bond of shared betrayal.*
 
 _______________________________________________________________
 
@@ -1029,43 +914,23 @@ _______________________________________________________________
 
 Every institution has people who know how to work it, and people who suffer under it.
 
-**Who benefits from this institution?**
-Who has power, comfort, and advantage within the system?
+**Who benefits from this institution, and who suffers under it?**
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Who suffers under it?**
-Who is exploited, trapped, or disadvantaged by the system?
+**Where are your characters in this hierarchy?** Beneficiaries, victims, or somewhere in between?
 
 _______________________________________________________________
 
-_______________________________________________________________
-
-**Where are your characters in this hierarchy?**
-Are they beneficiaries, victims, or somewhere in between? Do their positions differ?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Who knows how to game the system?**
-Someone who knows the loopholes, who to bribe, how to bend rules.
-
-_______________________________________________________________
-
-**Do your characters learn to work the system?**
-Do they find ways around the rules? Use the institution against itself?
+**Do your characters learn to game the system?** Loopholes, bribes, bending rules, using the institution against itself?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **Is there corruption they could exploit, or that threatens them?**
-Bribes, favouritism, blackmail, secret deals, people who can be bought.
-
-_______________________________________________________________
 
 _______________________________________________________________
 
@@ -1075,9 +940,7 @@ _______________________________________________________________
 
 Graduation. The war's over. The court is dissolved. The contract expires. What then?
 
-Institutions create the container for the relationship, and when that container is removed, the relationship has to survive on its own. Planning for this area of tension is important, because "were we only together because we were trapped?" is one of the most painful questions a character can ask.
-
-Not because they love the institution, but because they fear what will happen to the relationship without it. The structure gave them excuses to be near each other, reasons to touch, justification for needing each other. Without it, they'd have to choose each other on purpose, and that's terrifying.
+Institutions create the container for the relationship, and when that container is removed, the relationship has to survive on its own. "Were we only together because we were trapped?" is one of the most painful questions a character can ask. The structure gave them excuses to be near each other, reasons to touch, justification for needing each other. Without it, they'd have to choose each other on purpose, and that's terrifying.
 
 **Does the institution end in your story, or does it persist?**
 
@@ -1085,29 +948,13 @@ _______________________________________________________________
 
 **If the institution ends, what proves the relationship is real without it?**
 
-*The scariest moment isn't the institution failing. It's the characters facing each other without any external reason to stay. What does your couple do when the cage door opens?*
-
-What the institution provided that they must now provide for themselves (excuses to be near, shared purpose, routines):
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-The moment that proves they're choosing each other, not the institution:
-
 _______________________________________________________________
 
 _______________________________________________________________
 
 **If the institution persists, what changes about how they exist within it?**
 
-*They can't go back to the way things were before the relationship. Something has to shift: their rank, their public face, their willingness to break rules, or the institution itself.*
-
 _______________________________________________________________
-
-_______________________________________________________________
-
-If it persists, the characters must find a way to exist within it on new terms. If it ends, they must find a way to exist without it. Both are interesting. Neither is easy.
 
 ---
 
@@ -1135,9 +982,6 @@ If the answer is "nothing" or "they'd feel bad," your institution doesn't have e
 - Someone might be disappointed
 
 **What is that cost in your story?**
-Name the specific consequences that make walking away impossible, not just inconvenient.
-
-_______________________________________________________________
 
 _______________________________________________________________
 
