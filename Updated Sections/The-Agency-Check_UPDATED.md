@@ -84,53 +84,41 @@ _______________________________________________________________
 
 ### Test 2: Remove the Prophecy/Destiny
 
+*(Skip to Test 3 if your story doesn't include prophecy or destiny.)*
+
 (Reference: Section 6, Religion, Myth & Prophecy)
 
-You explored the tension between prophecy and choice in Section 6. This test pushes that further. A prophecy that creates the relationship is always going to be weaker than one that confirms what would have happened anyway.
+**What prophecy or destiny element affects your romance, and without it, do they still have reason to be together?**
 
-**What prophecy or destiny element affects your romance?**
-
-*Name the specific prediction, divine decree, or fated element that touches the relationship. If your story doesn't include prophecy or destiny, skip to Test 3.*
+*Name the specific prediction, divine decree, or fated element, then strip it away. Are there personal, emotional, or situational reasons for these two to find each other? If the only answer is "the prophecy says so," the connection needs more foundation.*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**Without the prophecy, do they still have reason to be together?**
-
-*Strip the cosmic layer away. Are there personal, emotional, or situational reasons for these two to find each other? If the only answer is "the prophecy says so," the connection needs more foundation.*
 
 _______________________________________________________________
 
 **Does prophecy create their connection, or confirm what would happen anyway?**
 
-Best answer: It confirms. They fall in love organically, and prophecy is validation, not cause. In *Twilight*, there's no prophecy at all. Edward and Bella choose each other despite every practical reason not to. His vampirism is a reason to stay apart, not a magical matchmaking mechanism. The danger is an obstacle, not a destiny.
+Best answer: It confirms. They fall in love organically, and prophecy is validation, not cause.
 
 _______________________________________________________________
 
 ### Test 3: Remove the Political Pressure
 
+*(Skip to Test 4 if your story doesn't include arranged marriage, political alliance, or institutional pressure.)*
+
 (Reference: Section 5, Government, Power & Law; Section 14, Institutions)
 
-**What political/institutional element forces them together?**
+**What political/institutional element forces them together, and without it, would they choose to spend time together?**
 
-*Arranged marriage, treaty alliance, shared military unit, court obligations, hostage situation? Identify the external structure that puts them in each other's path.*
-
-_______________________________________________________________
+*Arranged marriage, treaty alliance, shared military unit, court obligations? Identify the structure, then imagine your characters meeting at a tavern with no political stakes. Would they be drawn to each other, or would they walk past without a second glance?*
 
 _______________________________________________________________
-
-**Without this force, would they choose to spend time together?**
-
-*Imagine your characters meeting at a tavern with no political stakes. Would they be drawn to each other, or would they walk past without a second glance? The answer reveals how much your romance depends on external pressure versus personal chemistry.*
 
 _______________________________________________________________
 
 **Do they develop reasons to want to be together beyond obligation?**
 
-The strongest political romances follow a clear arc: obligation first, then genuine connection that outgrows it. In *Bridgerton* (*The Viscount Who Loved Me*), Anthony's duty to marry well and continue the family line creates the initial framework, but his connection with Kate develops entirely outside that obligation. She's the wrong sister, the inconvenient choice. When he chooses her, it's against duty, not because of it.
-
-Good answer: They start together because they have to, and stay because they want to.
+The strongest political romances follow a clear arc: obligation first, then genuine connection that outgrows it. Good answer: They start together because they have to, and stay because they want to.
 
 _______________________________________________________________
 
@@ -138,21 +126,11 @@ _______________________________________________________________
 
 (Reference: Section 1, Geography; Section 13, Pressure Cooker)
 
-**What external danger pushes them together?**
+**What external danger pushes them together, and in peacetime, would they still connect?**
 
-*War, quest, survival situation, magical threat, enemy pursuit? Name the specific threat that creates their proximity and forced reliance on each other.*
-
-_______________________________________________________________
-
-**In peacetime, with no danger, would they still connect?**
-
-*Picture them in a quiet moment with nothing at stake. Do they have things to talk about? Do they enjoy each other's company when no one is trying to kill them? If the answer feels unclear, your romance might need more quiet character moments between the action beats.*
+*Name the specific threat, then picture them in a quiet moment with nothing at stake. Do they have things to talk about? Do they enjoy each other's company when no one is trying to kill them? If your characters only connect during action scenes, the relationship may feel thin once the threat passes.*
 
 _______________________________________________________________
-
-**What do your characters share when no one is trying to kill them?**
-
-*Danger bonds are real, but they need more than shared adrenaline to sustain a romance past the threat. If your characters only connect during action scenes, the relationship may feel thin once the threat passes. What quiet emotional intimacy exists between the action beats?*
 
 _______________________________________________________________
 
@@ -172,32 +150,13 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Does this goal still matter after they meet the love interest?**
+**Does this goal still matter after they meet the love interest, and how does the romance complicate it?**
 
-*Track whether the goal persists, evolves, or vanishes. If it disappears entirely, the romance may have consumed the character's identity.*
+*Track whether the goal persists, evolves, or vanishes. If it disappears entirely, the romance may have consumed the character's identity. The best romantasy romances don't exist alongside the plot; they tangle with it. Does loving this person make the goal harder, force a choice, or change what the goal means?*
 
-If abandoned entirely: Character may have lost agency. Romance consumed their identity.
-If it still matters: Good. They're a full person with their own life.
-
-In *The Cruel Prince*, Jude wants power and belonging in the faerie world. She wants to be more than a mortal plaything. Meeting Cardan doesn't replace that drive; it complicates it. She's still fighting for her place in Elfhame even as she's falling for him. Her goal and her romance are intertwined, but neither consumes the other. In *Serpent & Dove*, Lou's goal is survival: hiding from her mother, concealing her identity as a witch while living among witch-hunters. Marrying Reid is a strategic choice, not a romantic one. Her goals don't evaporate when the romance develops; they become more complicated because falling for a man who'd kill her if he knew what she was raises the stakes on everything she's already fighting for.
+In *The Cruel Prince*, Jude wants power and belonging in the faerie world. Meeting Cardan doesn't replace that drive; it complicates it. In *Serpent & Dove*, Lou's goals don't evaporate when the romance develops; they become more complicated because falling for a man who'd kill her if he knew what she was raises the stakes on everything she's already fighting for.
 
 _______________________________________________________________
-
-**How does the romance complicate their goal?**
-
-*The best romantasy romances don't exist alongside the plot; they tangle with it. Does loving this person make the goal harder, force a choice, or change what the goal means?*
-
-Best: Romance and goal conflict, forcing hard choices.
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Does your protagonist have to choose between their original goal and the relationship?**
-
-*This is the moment that proves agency. If the protagonist never has to sacrifice or compromise anything for love, the choice doesn't carry weight.*
-
-If yes: Good. Meaningful choice demonstrates agency.
 
 _______________________________________________________________
 

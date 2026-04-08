@@ -353,12 +353,6 @@ _______________________________________________________________
 
 ---
 
-### ✦ Checkpoint: Values & Identity
-
-*Pause and look at your answers so far. Do your culture's core values create a genuine obstacle for your romance, or could your characters get together without much resistance? If the values you picked don't generate real tension, consider swapping in ones that do.*
-
----
-
 Values shape what your culture believes. Gender roles shape what your culture expects people to *do*, and that distinction matters for every relationship in your story.
 
 ## Gender Roles & Expectations
@@ -379,14 +373,6 @@ Show gender constraints through small friction points rather than big dramatic c
 
 &nbsp;
 
-**⬥ Core: How can you tell someone's social class just by looking at them?**
-
-*Think about clothing, posture, speech patterns, where they walk, what they carry. What signals status at a glance?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 **How do gender expectations limit your protagonist? Your love interest?**
 
 *What can't they do, say, or want because of their gender?*
@@ -399,27 +385,9 @@ _______________________________________________________________
 
 &nbsp;
 
-**How does either character break gender expectations?**
-
-What do they do, and what consequences do they face?
+**How does either character break gender expectations, and what consequences do they face?**
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How do gender expectations shape courtship?**
-
-Who pursues? Who waits? Who controls the pace?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What happens when the "wrong" person takes the lead in courtship?**
-
-*What happens when someone defies the expected courtship dynamic -- the woman proposing, the lower-status person initiating? The reaction shows how rigid your culture really is.*
 
 _______________________________________________________________
 
@@ -449,33 +417,9 @@ As soon as romance enters into a character's routine, the reader will be able to
 
 &nbsp;
 
-**How does this rhythm differ by class or profession?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 **What does your world sound, smell, and feel like during a typical day?**
 
 *Think about the morning market, the midday heat, the evening fires. What would a stranger notice first?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What's the weekly or monthly rhythm?**
-
-Market days? Rest days? Religious observances? Regular social gatherings?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What do people do when they're not working?**
-
-Leisure, entertainment, socialising. What fills non-work hours?
 
 _______________________________________________________________
 
@@ -517,13 +461,11 @@ You've established how your characters move through the world. Now consider the 
 
 ## Home & Household
 
-Your home is the most intimate space in your world. It's the place where characters are most themselves. The way homes are constructed, how many people share them, and the amount of privacy they provide all shape when and where your characters can be vulnerable with each other. Homes shared with servants or other people create vastly different possibilities for romance than homes lived in alone.
+Your home is the most intimate space in your world. The way homes are constructed, how many people share them, and the amount of privacy they provide all shape when and where your characters can be vulnerable with each other.
 
-How your point-of-view character reacts (or doesn't react) to what they see upon entering a home is an indicator of their past experience. A character raised in poverty will count every single thing of value; a character from wealth will likely never recognise anything about their surroundings as luxurious, but rather notice immediately if something feels wrong. Instead of saying "the home was rich" use specific objects like "silver candlesticks left casually on a side table, more books than she'd seen in her life, a fire burning in an empty room."
+**What does home look like, and how does it differ by class?**
 
-As your character first enters their love interest's home, take some time to allow them to understand who this person is based upon where they live. That's a type of intimacy in itself.
-
-**What does home look like for the wealthy, the middle class, and the poor?**
+*Think about who lives together (nuclear families, extended families, servants), how much privacy exists (private bedrooms vs. shared sleeping spaces), and what makes a house a "home" in your culture.*
 
 *(Write your answer below)*
 
@@ -533,33 +475,9 @@ As your character first enters their love interest's home, take some time to all
 
 &nbsp;
 
-**Who lives together?**
-
-Nuclear families? Extended families? Multiple generations? Servants in the household? Unmarried adults with parents?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How much privacy exists within a home?**
-
-Private bedrooms? Shared sleeping spaces? Thin walls? Servants everywhere?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What makes a house a "home"?**
-
-What objects, rituals, or elements make a space feel like home in your culture?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 **What does your protagonist notice when they first enter the love interest's home?**
 
-*A home reveals who someone truly is. What details catch your protagonist's eye. What do those details tell them?*
+*A home reveals who someone truly is. A character raised in poverty will count every thing of value; a character from wealth will notice immediately if something feels wrong. What details catch your protagonist's eye?*
 
 _______________________________________________________________
 
@@ -577,43 +495,21 @@ Your characters' family is where their identity is formed prior to the story beg
 
 A character caught between their feelings for another person and their obligation to their family is making a decision that your readers will relate to on a visceral level. You can show family dynamics through the little things: who speaks first at dinner, who always gives in to whom, whose opinion really matters even if there isn't an established order of authority. Approval from family members (and the lack of it) can speed up or kill a romance, and when a love interest gains the acceptance of a difficult parent, the reader also views this as a victory.
 
-**What's the typical family structure?**
+**What's the typical family structure, and what obligations exist between members?**
 
-Who heads the household? How are decisions made? What's the hierarchy within a family?
+*Who heads the household? What do children owe parents? Who raises children? What happens to orphans or adults without family?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-**What obligations exist between family members?**
+&nbsp;
 
-What do children owe parents? What do parents owe children? What about siblings, extended family?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How are children raised?**
-
-Who raises them (parents, extended family, nurses, community)? What are they taught? When do they start working or training?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What happens to orphans, unmarried adults, elderly without children?**
-
-How does the culture handle people outside the typical family structure?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How does family affect your characters' romance?**
-
-*Whose approval matters? Who will try to interfere? What power does a parent or elder hold over the match?*
+&nbsp;
 
 **What's each character's family's stance on the relationship, and what power do they have to interfere?**
+
+*Whose approval matters? Who will try to interfere? What power does a parent or elder hold over the match?*
 
 *(Write your answer below)*
 
@@ -629,15 +525,11 @@ Family determines who your characters answer to. Food determines how they gather
 
 ## Food & Meals
 
-Food shows culture. The foods we eat, the ways we prepare them, and with whom we eat them can tell you a great deal about values, resources, and social bonds.
-
-Don't have to invent a whole cuisine. Just focus on those aspects of food which will be relevant to your story: what would your characters share over a meal? What meal will they make for someone they love?
-
-Eating together is one of the most simple ways to develop intimacy. When characters first begin to eat together, pay close attention to what they notice about each other's habits. Is she picking at her food? Is he eating as if he has no idea when his next meal will come? Cooking for someone is an act of caring. Use this in your writing. Refusing to eat with someone, or eating by yourself when you can be sharing a meal, also means something. To create a food scene that works well, you should slow down on the detail of the senses: the smell of the food, the warmth of a shared cup, the way a character tears apart their bread. Let the physical action of eating together do all the emotional work.
+Food shows culture. You don't need to invent a whole cuisine -- just focus on what's relevant to your story. Eating together is one of the simplest ways to develop intimacy: cooking for someone is an act of caring, and refusing to share a meal also means something.
 
 **⬥ Core: What do people eat, and how do they eat it?**
 
-*Describe morning, midday, and evening meals. Do people eat alone, communally, or formally? Meals give you the raw material for scenes that do emotional heavy lifting.*
+*Describe typical meals. Do people eat alone, communally, or formally? What food rules or restrictions exist (religious, class-based, seasonal)? What does sharing a meal signify -- friendship, alliance, courtship?*
 
 *(Write your answer below)*
 
@@ -647,71 +539,15 @@ Eating together is one of the most simple ways to develop intimacy. When charact
 
 &nbsp;
 
-**What's "special occasion" food vs. everyday food?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What food rules or restrictions exist?**
-
-Religious restrictions? Class-based foods? Regional specialties? Seasonal availability?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What's the culture around drinking (alcohol or otherwise)?**
-
-When is drinking appropriate? What's drunk? What are drinking customs?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-**What are the rules around shared meals?**
-
-Who can eat together? Who eats first? Who serves? Are there forbidden combinations (class, gender, species)?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does sharing a meal signify?**
-
-Friendship? Alliance? Courtship? Family acceptance? Sealing a deal?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 **What foods or drinks have romantic or special meaning?**
 
-Aphrodisiacs, festival foods, courting treats, magical foods:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Is there a meal where something important happens between your characters?**
-
-*Food scenes do emotional heavy lifting: the shared cup, the meal cooked with care, the silence over a table. What's the setting? What's eaten? What happens?*
+*Aphrodisiacs, festival foods, courting treats, magical foods. Is there a meal where something important happens between your characters?*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 _______________________________________________________________
-
----
-
-### ✦ Checkpoint: Daily Life & Domestic World
-
-*Look back at your answers on daily routines, home life, family, and food. Does everything fit together? If your culture prizes communal meals but you described nuclear families living alone, decide which one wins. Small contradictions now become plot holes later.*
 
 ---
 
@@ -719,31 +555,13 @@ From the intimate spaces of home and table, we move outward to the built environ
 
 ## Architecture & Building
 
-The way that people construct buildings can tell us a lot about who they are. A desert palace won't look anything like a northern fortress. No degree in architecture is required to recognise this.
+Buildings tell readers about your world's climate, resources, and values. A desert palace won't look anything like a northern fortress. Think about what would make sense for each environment. (For more on how climate shapes building, see Section 1: Geography & Environment.)
 
-All you really need to do is think about what would make sense with regards to each environment. In hot climates it's essential to create shade and allow for airflow. In cold climates, it's necessary to create thick walls that can keep the cold out, as well as large fireplaces that provide warmth. These differences in climate will give your readers a sense of place when travelling from one region to another. (For more on how climate shapes building, see Section 1: Geography & Environment.)
+Architecture also shapes scenes in practical ways. Narrow corridors force characters to stand close together. Great halls allow for wide separation. The person who knows the hidden passages has the upper hand.
 
-The way you construct your scenes can also impact the development of those scenes in practical ways. Narrow corridors force characters to stand close together. Great halls allow for a wide separation of characters across large tables. And the person that knows where all of the hidden passages are has the upper hand over the person that doesn't. When you're thinking about romantic scenes, consider how the layout of the room impacts the distance between characters, the amount of privacy they have, and the power dynamic of the scene.
+**What architectural style dominates your main setting, and what are buildings made from?**
 
-**What architectural style dominates your main setting?**
-
-Research real-world architecture that inspires your world. Note distinctive elements like columns, arches, domes, and materials.
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What are buildings made from, and why?**
-
-*Building materials tell readers about the landscape and climate. Stone in a quarry region, wood where forests are thick, adobe in dry heat. What's available, and what does it say about the environment?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What makes different buildings recognisable at a glance?**
-
-*How can your protagonist tell a temple from a tavern? Think about palaces, temples, merchant homes, common dwellings, and fortifications.*
+*Building materials tell readers about the landscape and climate. Note distinctive elements like columns, arches, domes. How can your protagonist tell a temple from a tavern?*
 
 *(Write your answer below)*
 
@@ -755,15 +573,13 @@ _______________________________________________________________
 
 **How does a specific building's layout shape a scene between your characters?**
 
-*Narrow corridors force proximity. Great halls create distance. Hidden passages give one character power over another. Pick a key setting and describe how its layout affects the dynamic.*
+*Pick a key setting and describe how its layout affects the dynamic -- proximity, privacy, power.*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 ---
 
@@ -779,45 +595,15 @@ Most religions are rooted in the small things: how someone prays before a meal, 
 
 **⬥ Core: What role does religion/spirituality play in daily life?**
 
-*These details will determine whether your characters share a spiritual vocabulary or must navigate different faiths, both of which shape the intimacy available to them.*
+*Daily prayers or rituals? Religious dietary restrictions? What life events (birth, marriage, death) have religious significance? How present are temples, priests, and shrines in ordinary life?*
 
-Daily prayers or rituals? Religious dietary restrictions? Spiritual interpretations of everyday events?
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-**What life events have religious significance?**
-
-Birth, coming of age, marriage, death. What rituals mark these transitions?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How do people interact with religious institutions or figures?**
-
-Priests, temples, shrines. How present are they in ordinary life?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What's considered sacred or profane?**
-
-What places, objects, words, or actions carry spiritual weight?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How religious is an ordinary person compared to a devout one?**
-
-*What's the difference between someone who goes through the motions and someone who truly believes? Where do your characters fall on that spectrum?*
-
-_______________________________________________________________
-
-_______________________________________________________________
+&nbsp;
 
 **How does religion create tension or intimacy between your characters?**
 
@@ -855,31 +641,11 @@ Use this list for inspiration. Pick a few that fit your world's mood and culture
 | Threshold Beliefs | Don't step on cracks, carry brides over doorways, leave offerings at crossroads, dawn/dusk are dangerous |
 | Dreams & Visions | Dreams of water mean change, falling dreams warn of pride, dreaming of someone means they're thinking of you |
 
-**What common superstitions exist?**
+**What common superstitions and folk beliefs exist?**
 
-Lucky/unlucky numbers, colours, animals? Actions that invite bad fortune? Protective gestures or phrases?
-
-_______________________________________________________________
+*Lucky/unlucky numbers, colours, animals? Protective gestures or phrases? Beliefs about dreams, omens, or signs? Folk remedies around health, love, or fortune?*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**What everyday rituals do people perform without thinking?**
-
-Knocking on wood, crossing fingers, small offerings, phrases spoken at certain moments:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What do people believe about dreams, omens, or signs?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What folk remedies or beliefs exist around health, love, or fortune?**
 
 _______________________________________________________________
 
@@ -903,44 +669,9 @@ Etiquette is an unwritten set of rules: which person says hello first, when does
 
 Show transgressions through reactions: the gasp, the shared look, the pause in conversation. A small social infraction is usually more effective than a large offence: the cutting remark, the incorrect form of address, the turned shoulder. And one character watching another learn the "rules" of a new world creates its own form of intimacy.
 
-**How do people greet each other?**
+**How do people greet each other, and how does it change by relationship?**
 
-| Relationship | Greeting |
-|--------------|----------|
-| Strangers | |
-| Acquaintances | |
-| Friends | |
-| Family | |
-| Superior to inferior (class/age/rank) | |
-| Inferior to superior | |
-
-**What's considered rude in everyday interaction?**
-
-Behaviours that give offence, things that aren't done:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What's considered polite or hospitable?**
-
-Offering food/drink to guests? Specific gestures of respect? Customs around visiting someone's home?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How do people handle conflict or disagreement?**
-
-Direct confrontation? Indirect communication? Mediation through third parties?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What social mistake does one character make that the other notices?**
-
-*What faux pas creates a charged moment between them? Describe the mistake, who makes it, and how the other reacts.*
+*Think about strangers vs. friends vs. superiors. What's considered rude? What's considered polite or hospitable? How do people handle conflict -- directly or indirectly?*
 
 *(Write your answer below)*
 
@@ -949,6 +680,14 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
+
+**What social mistake does one character make that the other notices?**
+
+*What faux pas creates a charged moment between them?*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 
@@ -964,49 +703,21 @@ Hospitality builds romantic tension because both sides are vulnerable. The guest
 
 Three hospitality patterns shape romantic dynamics: the **gilded cage** (luxury without autonomy), **the host's exposure** (the home reveals truths the host would rather hide), and **the violation** (one party breaks the sacred contract, and the betrayal cuts deeper because it occurred under the protection of hospitality). The more elaborate your welcoming rituals, the greater the weight when they're violated.
 
-**What does your culture owe a guest?**
+**What does your culture owe a guest, and what does a guest owe their host?**
 
-Protection? Food and shelter? Safe passage? How long do guest rights last? Is there a formal ritual of welcome that activates these obligations?
+*Think about protection, food, shelter, safe passage. What behaviour would violate guest rights? What are the consequences -- social, legal, magical, or divine?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-**What does a guest owe their host?**
+&nbsp;
 
-Respect for house rules? Gifts? Restraint? What behaviour would violate guest rights? Are there things a guest must never do (ask certain questions, enter certain rooms, refuse offered food)?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What happens when hospitality is violated?**
-
-By either party. What are the consequences of betraying a guest or dishonouring a host? Is the penalty social, legal, magical, or divine?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What threshold rituals exist in your world?**
-
-*The more elaborate the welcoming ritual, the greater the weight when it's violated. What must happen when a guest arrives. What does it mean when someone skips a step?*
-
-_______________________________________________________________
-
-_______________________________________________________________
+&nbsp;
 
 **How does your protagonist's guest status affect the romance?**
 
-Are they a willing guest, a reluctant one, or a prisoner in all but name? How does the power imbalance of guest and host shape the early dynamic between your characters?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Which hospitality pattern does your romance use?**
-
-*These three patterns shape some of the most effective romantic dynamics in the genre. The gilded cage traps through luxury, the host's exposure creates accidental vulnerability, and the violation cuts deepest because it breaks a sacred trust.*
+*Are they a willing guest, a reluctant one, or a prisoner in all but name? Which hospitality pattern does your romance use?*
 
 | Pattern | Does It Apply? | How It Shows Up in Your Story |
 |---|---|---|
@@ -1024,39 +735,9 @@ Leisure time provides natural settings for characters to meet outside their norm
 
 **⬥ Core: What entertainment is common?**
 
-*Leisure activities give your characters excuses to spend time together outside their normal roles. A dance requires touch. A game reveals personality. A shared story creates inside jokes. What does your world offer?*
-
-Music, theatre, games, sports, storytelling, gambling. What do people do for enjoyment?
+*Music, theatre, games, sports, storytelling, gambling. What stories or legends does everyone know? What art forms are valued? Leisure activities give your characters excuses to spend time together outside their normal roles.*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**What stories or legends does everyone know?**
-
-The cultural touchstones, tales children grow up hearing, references everyone understands:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What music exists? When is it played?**
-
-Instruments, styles, occasions for music:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What games or sports do people play?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What art forms are valued?**
-
-Visual arts, crafts, performance, literature. What does this culture create and prize?
 
 _______________________________________________________________
 
@@ -1066,47 +747,19 @@ _______________________________________________________________
 
 *What activity gives them an excuse to spend time together? What does it allow -- touch, conversation, competition? Does everyone else see through the excuse?*
 
-*(Write your answer below)*
+_______________________________________________________________
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+_______________________________________________________________
 
 ### Humour & Social Play
 
-What makes people laugh reveals what they value, what they fear, and where the social fault lines run. Humour can bond characters instantly (a shared joke no one else gets) or divide them (a joke that lands as an insult across cultural lines). In romantasy, banter is often the first form of intimacy -- it's how characters test each other's intelligence and boundaries before anything physical happens.
+In romantasy, banter is often the first form of intimacy -- it's how characters test each other's intelligence and boundaries before anything physical happens.
 
-**What makes people laugh in your world? What kind of humour is prized?**
+**What kind of humour is prized in your world, and what's off-limits?**
 
-*Wordplay and wit? Physical comedy? Dark humour? Sarcasm? Irreverence toward authority? What does "clever" look like here?*
-
-_______________________________________________________________
+*Wordplay and wit? Dark humour? Sarcasm? What joke could get someone in real trouble? How do your characters use humour with each other?*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**What jokes are told, and what do they reveal about the culture's anxieties?**
-
-*People joke about what they fear or resent. What topics show up in popular humour -- class, magic, outsiders, the powerful?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What humour is off-limits or dangerous?**
-
-*Mocking the gods? Joking about the monarch? Making light of death? What joke could get someone in real trouble?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How do your characters use humour with each other?**
-
-*Is banter their first language of intimacy? Does one character's humour disarm the other? Does a joke ever land wrong between them?*
 
 _______________________________________________________________
 
@@ -1134,49 +787,21 @@ Rhysand and Feyre's bargain in *A Court of Thorns and Roses* is the genre's most
 
 The loophole is one of the most rewarding elements of oath-based romance: the moment a character honours the letter of their promise while violating its spirit. Agency within constraint is the entire premise of romantasy. When creating your oath culture, consider where the tension between literal and implied meanings could create romantic conflict. Even in cultures where oaths are entirely symbolic, breaking a vow for love doesn't just cost a reputation; it costs an identity. The question becomes "Who am I if I break this?"
 
-**What oaths or promises bind your characters?**
+**What oaths or promises bind your characters, and what does breaking one's word cost?**
 
-Military oaths? Family promises? Honour debts? Sworn service? Magical bargains? A promise to the dead?
+*Military oaths? Family promises? Magical bargains? Are oaths purely cultural, or do they carry magical weight (tattoos, compulsions, physical pain)? Can precise wording be exploited -- does the letter or spirit matter?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-**What does breaking one's word cost in your culture?**
+&nbsp;
 
-Social disgrace? Exile? Loss of rank or magic? Physical pain? Somatic illness? Something worse?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Are oaths in your world purely cultural, or do they carry magical weight?**
-
-Can a bargain be literally binding? Does it manifest physically (a tattoo, a mark, a compulsion)? What happens if someone tries to break a magically enforced oath?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Does your world's oath system have loopholes?**
-
-Can precise wording be exploited? Is the letter or the spirit of the promise what matters? How might your characters use the system's rigidity to create space for personal choice?
-
-_______________________________________________________________
-
-_______________________________________________________________
+&nbsp;
 
 **What oath stands between your characters?**
 
-Which promise must be broken or bent for them to be together? Did the character know what they were giving up when they made it?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Write the oath.**
-
-*Draft the actual words of the promise. Who was it sworn to? What was it supposed to mean? Now look for the loophole -- what could those words literally mean that the speaker didn't intend?*
+*Which promise must be broken or bent for them to be together? Did the character know what they were giving up when they made it? Draft the actual words -- then look for the loophole.*
 
 *(Write your answer below)*
 
@@ -1188,9 +813,11 @@ _______________________________________________________________
 
 ---
 
-### ✦ Checkpoint: Social Rules & Obligations
+---
 
-*Pause and review your answers on manners, hospitality, entertainment, and oaths. Are the social rules you've built consistent with the values you established in Part 1? If your culture prizes individual freedom but your hospitality customs are rigidly formal, decide which one gives. Or explain why the contradiction exists.*
+### ✦ Checkpoint: Foundations & Social Rules
+
+*Pause and review everything so far -- values, gender, daily life, family, food, architecture, religion, manners, hospitality, and oaths. Do your culture's core values create a genuine obstacle for your romance? Are the social rules consistent with those values? If your culture prizes individual freedom but your hospitality customs are rigidly formal, decide which one gives. Small contradictions now become plot holes later.*
 
 ---
 
@@ -1204,19 +831,7 @@ Forbidden love has its excitement in the risk involved. Ensure that your reader 
 
 **⬥ Core: What behaviours are taboo in your world?**
 
-*Consider physical taboos (touch, proximity, eye contact), verbal taboos, social taboos, magical taboos, and sexual taboos.*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**What happens when someone breaks a taboo?**
-
-Consequences should escalate with severity:
+*Consider physical taboos (touch, proximity, eye contact), verbal taboos, social taboos, magical taboos, and sexual taboos. What happens when someone breaks a taboo? Consequences should escalate with severity.*
 
 | Severity | Consequence |
 |----------|-------------|
@@ -1224,9 +839,9 @@ Consequences should escalate with severity:
 | Moderate taboo broken | |
 | Major taboo broken | |
 
-**Which taboos directly affect your romance?**
+**Which taboos directly affect your romance -- and what's the progression?**
 
-*Pick 2-3 that create real obstacles and describe how each one gets in the way.*
+*What taboo do your characters break first (the pivotal early scene)? What taboo must they break to be together fully (the climactic choice)?*
 
 *(Write your answer below)*
 
@@ -1235,26 +850,6 @@ Consequences should escalate with severity:
 &nbsp;
 
 &nbsp;
-
-**What taboo do your characters break first?**
-
-This is often a pivotal early scene, the first boundary crossed:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What taboo must they break to be together fully?**
-
-This might be the climactic choice, the line they can't uncross:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
 
 ---
 
@@ -1270,59 +865,21 @@ The **double standard** is what gives these obstacles their teeth: in most roman
 
 The most powerful moment is when your protagonist recognises these norms for what they are. This connects to the Invisible Cage principle: the protagonist doesn't see the restriction as oppressive until they meet someone who views desire as normal. When writing the transition, frame the protagonist's choice as a reclaiming of agency rather than a loss of virtue, and give the protagonist their own desire and curiosity rather than treating them as a blank slate.
 
-**What are your culture's expectations around sexual behaviour?**
+**What are your culture's expectations around sexual behaviour, and how are they enforced?**
 
-Is virginity prized? For whom? What's the double standard? Are there visible markers of sexual status (clothing, rituals, titles)?
+*Is virginity prized? For whom? What's the double standard -- what's permitted for one gender that would destroy the other? How is enforcement handled: social shame, physical punishment, religious consequence, loss of marriageability?*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-_______________________________________________________________
+&nbsp;
 
-**How are these norms enforced?**
-
-Social shame? Physical punishment? Religious consequence? Loss of status or marriageability? Who does the enforcing: family, religious authorities, the community at large?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What happens to someone who violates these norms?**
-
-Particularly for women. What are the consequences of being perceived as sexually transgressive? Are they the same for men?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
+&nbsp;
 
 **How does your protagonist feel about wanting someone?**
 
-Do they feel shame? Freedom? Confusion? Curiosity they've been taught to suppress?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Where does the double standard live in your world?**
-
-*What's permitted for one gender that would destroy the other? How does this asymmetry create tension between your characters?*
-
-| Behaviour | Consequence for the Protagonist | Consequence for the Love Interest |
-|---|---|---|
-| Being seen alone with someone | | |
-| Sexual experience/history | | |
-| Expressing desire openly | | |
-
-**What moment makes your protagonist see these norms differently?**
-
-*Who or what shows them that wanting isn't something to be ashamed of? Is it a conversation, an experience, or seeing how someone else's culture handles desire?*
+*Do they feel shame? Freedom? Confusion? Curiosity they've been taught to suppress? What moment makes them see these norms differently?*
 
 _______________________________________________________________
 
@@ -1349,21 +906,11 @@ What your characters do behind closed doors matters. But what other people *thin
 
 ## Reputation, Gossip & Public Opinion
 
-In many cultures, how others perceive you can be just as important as your actions. Rumours spread quickly and reputation is often delicate. What once was, in some cases, could be irreversibly lost forever.
+In many cultures, how others perceive you can be just as important as your actions. Show the pressure of public perception through subtleties: the room that falls silent, the intentional glances, the closing of the door.
 
-The way people react to your character when they enter a space can represent their feelings toward them. Does the room fall silent? Do people move closer or edge away? The quiet, unspoken comments your character can't quite catch will heighten the reader's tension. Represent the pressure of the public's perception with the subtleties: the small, almost unnoticed slights, the intentional glances, and the closing of the door.
+**What destroys a reputation, and can it be recovered?**
 
-**How does information travel in your society?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What destroys a reputation?**
-
-*What scandal follows someone forever? What would destroy someone in the protagonist's position? The love interest's position? Is it the same for all classes and genders?*
+*What scandal follows someone forever? Is it the same for all classes and genders? Is there a path back, or is ruin permanent?*
 
 *(Write your answer below)*
 
@@ -1372,50 +919,10 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
-
-**Can a ruined reputation be recovered? How?**
-
-Some cultures allow redemption; others don't. Is there a path back, or is ruin permanent?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Who are the gossips and rumormongers in your story?**
-
-Who spreads information, maliciously or carelessly? Who might your characters need to avoid, bribe, or silence?
-
-_______________________________________________________________
-
-_______________________________________________________________
 
 **What rumors might circulate about your characters' relationship?**
 
-Even if nothing has happened yet, what might people *say* is happening?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What's the worst rumor that could circulate about each character?**
-
-*The thing that would destroy them -- true or not.*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**How do your characters protect their reputations while pursuing each other?**
-
-What precautions do they take? What lies do they tell? What image do they maintain?
+*Even if nothing has happened yet, what might people say? How do your characters protect their reputations while pursuing each other?*
 
 _______________________________________________________________
 
@@ -1429,37 +936,11 @@ Reputation is shaped by what people see. Privacy determines how much they get to
 
 ## Privacy, Surveillance & Being Watched
 
-Privacy is earned in most romantasy worlds, and that scarcity is what makes every stolen moment matter. A near-discovery builds tension: the footsteps in the hallway, the knock on the door, the voice in the next room. The process of creating privacy together -- discovering a secluded place, fabricating reasons to be alone, learning each other's schedules -- is itself a form of intimacy.
+Privacy is earned in most romantasy worlds, and that scarcity is what makes every stolen moment matter. The process of creating privacy together -- discovering a secluded place, fabricating reasons to be alone -- is itself a form of intimacy.
 
-**How much privacy exists in your world?**
+**How much privacy exists in your world, and where can your characters be alone together?**
 
-Consider: Do servants see everything? Do nobles have private chambers? Do commoners share living spaces? Is magical surveillance possible?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Where are people always watched?**
-
-Courts, public spaces, family homes, workplaces. Where is privacy impossible?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Who might be watching or listening?**
-
-Servants, guards, family members, rivals, magical surveillance, spies:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Where can your characters be alone together?**
-
-*List the spaces where privacy is possible and the risk of discovery at each location.*
+*Do servants see everything? Is magical surveillance possible? Where is privacy impossible? List the spaces where privacy is possible and the risk of discovery at each.*
 
 *(Write your answer below)*
 
@@ -1477,62 +958,24 @@ _______________________________________________________________
 | Seen alone together | |
 | Seen in physical contact | |
 
-**What excuse or cover story do they use when almost caught?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Is there a moment in your story when they ARE seen?**
-
-Who sees them? What happens next?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ---
 
 You've mapped where your characters can be alone. Now define what they can and can't do when they get there.
 
 ## Physical & Romantic Boundaries
 
-Touch, proximity, gestures, and tokens all work together to form your culture's romantic code. When a simple brush of fingers is taboo, it carries a charge that explicit contact in a more permissive culture can't match. When a specific gift or garment signals courtship, giving or wearing it becomes a declaration. The more forbidden these signals are, the more weight each one carries.
+Touch, proximity, and gestures form your culture's romantic code. When a simple brush of fingers is taboo, it carries a charge that explicit contact in a more permissive culture can't match. The more forbidden these signals are, the more weight each one carries.
 
 **What touch is considered appropriate between unmarried people?**
-
-Map the boundaries:
 
 | Category | What's Included |
 |----------|-----------------|
 | Always acceptable | |
-| Acceptable in certain contexts (chaperoned, public, formal) | |
+| Acceptable in certain contexts | |
 | Borderline or scandalous | |
 | Absolutely forbidden | |
 
-**What physical distance is expected between unmarried people?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 **What touch feels more intimate than a kiss in your world?**
-
-*Every culture has its own unexpected intimacy. What's yours?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Are unmarried people allowed to be alone together?**
-
-If no, who must be present? Under what circumstances can they be unchaperoned? If they ARE alone together, what does that imply?
-
-_______________________________________________________________
 
 _______________________________________________________________
 
@@ -1540,17 +983,13 @@ _______________________________________________________________
 
 **What gestures signal romantic interest, and what crosses the line?**
 
-*This is your culture's romantic body language. For the full courtship progression (who initiates, expected steps, family involvement), see Courtship Customs below. For courtship gifts and tokens, see Tokens, Gifts & Symbols.*
-
 | Gesture Type | Examples in Your World |
 |---|---|
 | Acceptable signals of interest | |
 | Borderline, could be read as too forward | |
 | Clearly transgressive, would cause scandal | |
 
-**Who acts as chaperone for your characters?**
-
-Is this person sympathetic, oblivious, or hostile to the romance? How do the characters evade supervision?
+**When do your characters first break a physical boundary, and what do they share in private that they couldn't share in public?**
 
 _______________________________________________________________
 
@@ -1559,90 +998,22 @@ _______________________________________________________________
 _______________________________________________________________
 
 ---
-
-**When do your characters first break a physical or romantic boundary?**
-
-Describe the scene. What boundary do they cross? Was it intentional or accidental? How do they react?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What touch do they share in private that they couldn't share in public?**
-
-The contrast between public restraint and private contact creates tension:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What romantic gesture does one character make that surprises the other?**
-
-Something that reveals more than they intended, or that the other didn't expect:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
 
 ---
 
 ### ✦ Checkpoint: Boundaries & Identity
 
-*Review your answers on taboos, sexuality, reputation, privacy, and touch. Do the boundaries you've built escalate logically. Is a forbidden glance less dangerous than forbidden touch, which is less dangerous than a forbidden night together? If two taboos contradict each other, resolve that now.*
+*Review your answers on taboos, sexuality, reputation, privacy, and touch. Do the boundaries you've built escalate logically? Is a forbidden glance less dangerous than forbidden touch, which is less dangerous than a forbidden night together? If two taboos contradict each other, resolve that now.*
 
 ---
 
-Physical boundaries govern what touch means. Dress and appearance govern what the body itself communicates before anyone is touched at all.
+## Appearance, Clothing & Intimacy
 
-## Dress, Appearance & Adornment
+Clothing tells us who we are: social standing, availability, values. It also creates its own romantic tension -- the veil that can't be removed, the colour that says "don't speak to me," the hair only a spouse can see unbound. Each layer removed over the course of a relationship is a layer of distance removed.
 
-Dressing tells us who we are: our social standing, how available we are, our values and beliefs. Clothing also creates its own romantic tension. The veil that can't be removed, the colour that says "don't speak to me," the hair that only your spouse can see unbound.
+**⬥ Core: What does clothing tell you about a person in your world?**
 
-Dress in detail and observe what your characters pay attention to when it comes to each other's clothes. What your protagonist focuses on with regards to another character's appearance will give your readers an idea of where their eyes keep going back to: how fabric falls, a scar that's hidden under the edge of a collar, a ring that is or isn't being worn.
-
-Transitions in wardrobe also serve well as indicators of how intimate the relationship has become. Armour removed, hair unbound, formal wear discarded. Each layer of clothing that's removed is a layer of distance that's been removed.
-
-### What Clothing Signals
-
-**What does clothing tell you about a person?**
-
-*What markers indicate class, profession, marital status, and religion?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Are there sumptuary laws, rules about who can wear what?**
-
-Certain fabrics, colours, or styles restricted to certain classes? Penalties for dressing "above your station"?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What would it mean for your character to dress outside their station?**
-
-Disguise? Scandal? Crime? Social death?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What do people actually wear?**
-
-*You don't need every stitch -- just know enough to make descriptions feel true. How does clothing differ between wealthy and common people for daily life, formal events, work, and celebrations?*
+*What markers indicate class, profession, marital status? Are there sumptuary laws (who can wear what)? What would it mean for your character to dress outside their station? You don't need every stitch -- just enough to make descriptions feel true.*
 
 *(Write your answer below)*
 
@@ -1654,21 +1025,9 @@ _______________________________________________________________
 
 *For historical fashion terminology (chemise, doublet, kirtle, stays, etc.), see Section 20: Quick Reference Sheets.*
 
-**What are your world's distinctive garments?**
+**What does your culture consider beautiful, and what's considered undesirable?**
 
-What clothing exists in your world that doesn't exist in ours? Magical garments? Cultural specifics?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-### Beauty & Attractiveness
-
-Every culture has its own definition of beauty, and those standards shape how your characters see themselves and each other. What's considered attractive often reflects deeper values: a warrior culture may prize scars and strength; a court culture may prize pale skin and delicate hands. When your protagonist finds someone beautiful in a way their culture wouldn't endorse, it reveals something about who they really are.
-
-**What does your culture consider physically beautiful?**
-
-*Think about body type, skin, hair, features, bearing. How do beauty standards differ between genders?*
+*Beauty standards often reflect deeper values: a warrior culture may prize scars and strength; a court culture may prize pale skin and delicate hands. What physical trait does your protagonist find attractive in the love interest that surprises them or defies the cultural standard?*
 
 _______________________________________________________________
 
@@ -1676,53 +1035,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How do beauty standards differ by class, region, or species?**
+**What's considered modest or scandalous? What do hairstyles signify?**
 
-*Does the court ideal differ from the rural ideal? Do different peoples prize different traits? Is there a "look" associated with power or wealth?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What physical trait does your protagonist find attractive in the love interest that surprises them or defies the cultural standard?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does your culture consider ugly, flawed, or undesirable -- and how does that affect someone's romantic prospects?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-### Covered & Revealed
-
-**What parts of the body are typically covered?**
-
-What's modest dress in your culture? Does it differ by gender, class, or context?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What's considered scandalous or provocative to reveal?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does revealing something usually hidden mean?**
-
-If someone shows skin they normally cover, what does that signal? Trust? Intimacy? Invitation? Shame?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Is there something one character shows the other that they don't show anyone else?**
-
-A physical vulnerability? A hidden mark? Simply their unguarded appearance?
+*What parts of the body are typically covered? What does revealing something usually hidden signal -- trust, intimacy, invitation? Is hair bound vs. loose meaningful? Can only certain people touch someone's hair?*
 
 _______________________________________________________________
 
@@ -1730,51 +1045,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-### Hair & Its Meanings
+**Map the progression of physical reveal over the course of the relationship.**
 
-**What do hairstyles signify in your culture?**
-
-Bound vs. loose? Cut vs. uncut? Covered vs. uncovered? Specific styles for specific statuses?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Is there significance to who can touch someone's hair?**
-
-Is it intimate? Forbidden? Reserved for family or spouse?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Is there a moment when one character sees the other's hair differently than usual?**
-
-Unbound, wet, disheveled, cut, and what does it mean?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-### Undressing as Intimacy
-
-**What does it mean to see someone in states of undress?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**When do your characters first see each other less than fully dressed?**
-
-What are the circumstances? What does each see?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### What layers come off over the course of the relationship?
-
-*Map the progression from the first small reveal to the moment when they're fully unguarded. Describe an early, middle, and late-stage moment where something is removed or revealed.*
+*From the first small moment (seeing unbound hair, removing a glove) to full vulnerability. Is there a garment that represents armour or protection that one character removes around the other -- literal armour, a mask, formal court dress?*
 
 *(Write your answer below)*
 
@@ -1784,16 +1057,6 @@ _______________________________________________________________
 
 &nbsp;
 
-**Is there a garment that represents armor or protection that one character removes around the other?**
-
-Literal armor? A mask? Formal court dress? Religious garments? What does removing it signify?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ---
 
 You've defined what the body says and what it wears. Now define the script your culture has written for how love is supposed to proceed.
@@ -1802,19 +1065,9 @@ You've defined what the body says and what it wears. Now define the script your 
 
 All cultures have a romantic script: the expected ways to indicate interest and the approved sequence from stranger to spouse. The romantic tension comes from the gap between what's expected and what's felt. Characters who are acutely aware of which step they're on, frustrated with a rigid pacing that doesn't match their feelings, constantly calculating whether they can skip ahead. Once a couple deviates from the script, it should be apparent that both know what they're doing. The script becomes most important once they deviate from it.
 
-**⬥ Core: How do people show romantic interest?**
-
-What's the cultural script for "I'm interested in you"?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 **⬥ Core: What's the expected progression of a relationship?**
 
-Map the steps from "strangers" to "married":
+*Map the steps from "strangers" to "married." Who initiates courtship -- one gender, either, families? Must families approve or give formal consent? How long is a typical courtship?*
 
 1. _______________________________________________________________
 
@@ -1826,45 +1079,9 @@ Map the steps from "strangers" to "married":
 
 5. _______________________________________________________________
 
-**Who initiates courtship?**
+**How do your characters violate courtship expectations, and what happens?**
 
-One gender? Either? Families? Does it vary by class?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What's the role of family in courtship?**
-
-Must families approve? Arrange meetings? Give formal consent? Or do individuals choose freely?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How long is a typical courtship?**
-
-Weeks? Months? Years? Is a long courtship expected, or can people marry quickly?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How do your characters violate courtship expectations?**
-
-Do they skip steps? Move too fast? Pursue when they shouldn't? Ignore family involvement?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What happens when someone skips steps or moves too fast?**
-
-*What signals does it send when someone rushes courtship, skips family involvement, or pursues someone above their station?*
+*Do they skip steps? Move too fast? Pursue when they shouldn't? What signals does it send when someone rushes courtship or pursues someone above their station?*
 
 *(Write your answer below)*
 
@@ -1880,27 +1097,11 @@ Courtship provides the script. Tokens and gifts are the physical objects that ma
 
 ## Tokens, Gifts & Symbols
 
-Gifts in courtship are their own form of communication. Each gift scene has three components worth slowing down through: the giving (nervous or confident?), the receiving (recognition or confusion?), and the aftermath (where does the gift go, how often is it touched?). A gift that reflects the giver's awareness of the receiver -- a remembered preference, a noticed need -- will always land harder than an expensive gift that merely demonstrates wealth.
+Gifts in courtship are their own form of communication. A gift that reflects the giver's awareness of the receiver -- a remembered preference, a noticed need -- will always land harder than an expensive gift that merely demonstrates wealth.
 
-**Are there traditional courtship gifts or tokens?**
+**Are there traditional courtship gifts or tokens, and what does giving or accepting one signify?**
 
-What objects carry romantic meaning? (Flowers, jewelry, handkerchiefs, enchanted items, etc.)
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does giving or accepting such a token signify?**
-
-Interest? Serious intent? Engagement? Binding commitment?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Does either of your characters give such a token, or refuse one?**
-
-What happens and what does it mean?
+*What objects carry romantic meaning? Interest, serious intent, engagement, binding commitment?*
 
 _______________________________________________________________
 
@@ -1910,49 +1111,25 @@ _______________________________________________________________
 
 **Is there an object that becomes meaningful to your couple specifically?**
 
-Not a traditional token, but something that gains significance between them:
+*Not a traditional token, but something that gains significance between them. Does either character give a token, or refuse one?*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 _______________________________________________________________
-
-**Plan a gift scene.**
-
-*Slow down through all three stages: the giving (nervous or confident?), the receiving (recognition or confusion?), and the aftermath (where does the gift go, how often is it touched?). What's the gift, and why this gift specifically?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 ---
 
 Tokens declare intent. Marriage is what makes it official, and the ceremony itself is where private love becomes a public act.
 
-## Marriage Customs & Ceremonies
+## Marriage Customs
 
-Marriage is where individualised love becomes a public rite of passage. Who can marry whom? What rituals must be performed? What makes a union legitimate? These customs define the endgame of your romance and the obstacles standing in its way.
+Marriage is where private love becomes a public act. These customs shape whether your characters are rushing towards marriage or trying to escape it.
 
-These customs shape whether your characters are rushing towards marriage or trying to escape it. Weddings create great set-piece moments. Since they're public, the ceremony can increase tension: the vows have to be said out loud, the witnesses can watch for hesitation, the moment when an objection can be raised. No matter whether the couple is getting married with open arms or against their will, the ceremony should have a sense of finality. Take your time to describe what your character sees, hears, and feels during the ceremony, and let the ritual carry the emotional weight.
+**⬥ Core: What makes a marriage "real" in your culture?**
 
-**⬥ Core: What makes a marriage "real" in cultural terms, beyond legal requirements?**
-
-Religious ceremony? Community witness? Consummation? Exchange of vows? Magical binding? Family blessing?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Describe a traditional wedding ceremony in your world.**
-
-*Where does it happen? Who performs it? What are the key rituals? What vows are spoken? What objects or symbols are used?*
+*Religious ceremony? Community witness? Consummation? Magical binding? Family blessing? What are the key rituals and vows? Can marriages be dissolved, and what does it cost?*
 
 *(Write your answer below)*
 
@@ -1962,29 +1139,9 @@ _______________________________________________________________
 
 &nbsp;
 
-**What happens after the ceremony?**
-
-Reception? Consummation rituals? Wedding night traditions? Period of seclusion?
+**Can people marry secretly or elope? If so, what makes it feel "real" without official ceremony?**
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Are there different marriage customs for different classes, species, or magical groups?**
-
-If so, what are the key differences?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Can marriages be dissolved? How?**
-
-*Divorce, annulment, magical unbinding? What does it cost, and who suffers more -- socially, financially, spiritually?*
 
 _______________________________________________________________
 
@@ -1992,49 +1149,15 @@ _______________________________________________________________
 
 **If your characters marry, how does their ceremony differ from tradition?**
 
-Do they follow all customs, some, or none? What does this choice reveal?
+*Do they follow all customs, some, or none? What does this choice reveal?*
 
 _______________________________________________________________
 
 _______________________________________________________________
+
+> *Cross-check: Do the marriage customs here match the legal requirements in your government? See Section 5: Government, Power & Law.*
 
 ---
-
-**Can people marry secretly or elope?**
-
-Is this culturally acceptable, scandalous, or meaningless without public recognition?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What makes a secret marriage feel "real" to the people in it?**
-
-Even without official ceremony, what ritual or words would make it meaningful?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**If your characters had a secret ceremony, what would it look like?**
-
-Where would it happen? What would they say or do? Who (if anyone) would witness?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-> *Cross-check: Do the marriage customs here match the legal requirements in your government? If your government regulates who can marry, requires permits, or bans certain unions, those laws should align with, or deliberately conflict with, the cultural customs above. See Section 5: Government, Power & Law.*
-
----
-
-### ✦ Checkpoint: Courtship & Commitment
-
-*Look back at your courtship customs, tokens, and marriage traditions. Does the progression make sense. Do the steps from first interest to marriage build logically? Does your secret marriage option (if you have one) actually conflict with your public ceremony, or could characters easily have both? Tension lives in the gap between what's felt and what's allowed.*
 
 ---
 
@@ -2042,15 +1165,11 @@ Marriage marks the beginning of a shared life. Death marks its end, and how your
 
 ## Death, Grief & Mourning
 
-Death customs shape how a culture approaches romance at its most emotional. Rituals surrounding the dead, what is owed to the deceased, whether grief is performed publicly or hidden away, and whether remarriage is permitted or shameful will all influence your romance. What your characters believe about the end of life colours how they view love.
-
-The most direct romantic obstacle is the **mourning period**: a socially or magically enforced time where the bereaved are separated from the world of romance. In romantasy, mourning customs can be highly restrictive, including prohibitions against dancing, socialising, wearing colours, and being visible in public. Developing romantic feelings during this time carries guilt, because wanting someone while grieving is seen as betrayal of the deceased.
-
-Death customs also define character. How your characters treat the dead reveals who they are at their deepest level. A character willing to risk their safety to retrieve a body for proper burial shows capacity for selfless caring. A character who refuses outward mourning but displays deep grief in private reads as emotionally honest and complex. When two characters grieve together, the experience creates a bond unlike anything else: they have witnessed each other completely raw, with no social masks.
+Death customs shape how a culture approaches romance at its most emotional. The most direct romantic obstacle is the **mourning period**: a time where the bereaved are separated from the world of romance. Developing romantic feelings during mourning carries guilt, because wanting someone while grieving is seen as betrayal of the deceased. When two characters grieve together, the experience creates a bond unlike anything else: they have witnessed each other completely raw, with no social masks.
 
 **What are the mourning customs in your world?**
 
-*How long is the mourning period? What mourning dress or symbols are used? What restrictions apply -- social, romantic, business?*
+*How does your culture treat the dead (burial, cremation, magical dissolution)? How long is the mourning period? What restrictions apply? Are the rules around remarriage or courting during mourning strict or flexible?*
 
 *(Write your answer below)*
 
@@ -2060,45 +1179,11 @@ Death customs also define character. How your characters treat the dead reveals 
 
 &nbsp;
 
-**How does your culture treat the dead?**
-
-Burial, cremation, sky burial, magical dissolution? Is there a ritual that must be performed? What happens if the rites aren't completed? Does it affect the dead, the living, or both?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What are the rules around loving again after loss?**
-
-Is remarriage permitted? Expected? Shameful? Does it depend on how long they wait, who died, or how they died?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Can someone in mourning pursue romance?**
-
-Is courtship forbidden during mourning? For how long? What happens if they violate this?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 **How does grief affect your characters or their relationship?**
 
-If one character is mourning, how does this impact what's possible between them? Does shared grief bring them together?
+*If one character is mourning, how does this impact what's possible between them? Does shared grief bring them together?*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How do your characters treat the dead they encounter?**
-
-*A character who pauses to close a stranger's eyes or say a prayer reveals something about their capacity for tenderness. A character who walks past without looking reveals something too.*
 
 _______________________________________________________________
 
@@ -2110,39 +1195,13 @@ Death marks the end of a life's journey. Coming of age marks its true beginning,
 
 ## Life Stages & Coming of Age
 
-Each culture establishes a point at which an individual is no longer a child, and that threshold indicates when they become eligible for romance, responsibility, and independent choice. The traditions surrounding this transition are crucial to understanding your character's past and can provide a pivotal moment within your story.
+Each culture establishes a point at which an individual is no longer a child, and that threshold indicates when they become eligible for romance, responsibility, and independent choice. In romantasy, the coming-of-age moment often coincides with the beginning of the romantic plot.
 
-These transitions also establish natural turning points. A character who wasn't allowed to marry yesterday may have no problem getting married today, and that creates decisions they weren't prepared to face. The transition from childhood to adulthood could occur over a single night. In romantasy, the coming-of-age moment often coincides with the beginning of the romantic plot: the character becomes eligible, visible, or available in a way they weren't before.
+**What marks the transition to adulthood, and what does it unlock?**
 
-**What marks the transition to adulthood?**
-
-Age? Ceremony? Achievement? Magical awakening? Physical maturity?
+*Age, ceremony, achievement, magical awakening? What can adults do that children can't -- marry without consent, own property, use certain magic?*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**What can people do as adults that they couldn't do as children?**
-
-Marry without consent? Own property? Make contracts? Use certain magic? Live independently?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Are your characters considered adults?**
-
-If not, how does this create obstacles? Are they defying expectations by acting before they're "ready"?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Are there other significant life transitions that affect your story?**
-
-Coming-of-age ceremonies, magical awakenings, trials, presentations at court, etc.?
 
 _______________________________________________________________
 
@@ -2150,7 +1209,7 @@ _______________________________________________________________
 
 **Does a life transition trigger the romantic plot?**
 
-*Does your character become eligible for courtship, gain new powers, or enter a new social context? How does this change what's possible between them and the love interest?*
+*Does your character become eligible for courtship, gain new powers, or enter a new social context?*
 
 _______________________________________________________________
 
