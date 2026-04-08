@@ -120,129 +120,32 @@ Check if you've done any of these:
 
 ---
 
-## Part One: Testing Your Promises
+## Testing Your Promises
 
-You've built systems across every section of this workbook. Now you need to test whether those systems hold up under pressure, specifically the pressure of your romance plot. The following exercises walk you through each major system and ask one question: are the rules you established still standing?
+You've built systems across every section of this workbook. Now test whether they hold up under the pressure of your romance plot. Use the table below for each system that matters to your story — magic, political/legal, cultural, environmental, religious. Start with whichever system creates the biggest obstacle for your romance.
 
-You've already developed your magic system with sources, costs, limitations, and forbidden applications. This isn't an exercise in redesigning it. It's about checking whether your story actually respects what you built.
+**System:** ☐ Magic ☐ Political/Legal ☐ Cultural/Social ☐ Environmental ☐ Religious
 
-### Magic Rules
-
-*(Reference: Your magic system section)*
-
-**What are the 3-5 most important rules of your magic system?**
-
-*These are the rules your plot depends on. If magic costs blood, write that down. If certain types of magic are forbidden, write that down. If there's a hard limit on what magic can do, write that down. These are the promises you've made to your reader.*
-
-| Rule | Where It's Established | Has It Held Consistently? |
-| --- | --- | --- |
-| *Winnowing costs energy and can be tracked (ACOMAF)* | *Ch. 4, Rhysand explains the cost* | *Yes* |
-| 1. | | Yes / No |
-| 2. | | Yes / No |
-| 3. | | Yes / No |
-| 4. | | Yes / No |
-| 5. | | Yes / No |
-
-**For any rule marked "No":** Was there an in-world explanation for the exception, or did you just need it to work differently?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-*If the answer is "I just needed it to work differently," you've got a consistency problem. Jump to the Fixing Consistency Problems section at the end of this part.*
-
-### Political and Legal Rules
-
-*(Reference: Your government, power and law section)*
-
-Political rules create some of the most powerful obstacles in romance. But they're only obstacles if they're being followed. A law that forbids their union is nothing more than a piece of paper if there's no consequence for breaking it.
-
-**What laws or political realities create the biggest obstacles for your romance?**
-
-| Law or Political Reality | What Happens If It's Broken | Has It Been Enforced Consistently? |
-| --- | --- | --- |
-| *Humans cannot hold power in Elfhame (The Cruel Prince)* | *Execution or exile* | *Yes, which is why Jude's rise is so dangerous* |
-| 1. | | Yes / No |
-| 2. | | Yes / No |
-| 3. | | Yes / No |
-
-**Have your characters broken any of these laws?**
-
-If yes: did they face the stated consequences? If not, will readers accept the reason they didn't?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-### Social and Cultural Rules
-
-*(Reference: Your culture, customs and daily life section)*
-
-Cultural rules work differently from legal ones. No one arrests you for breaking a taboo, but the social stigma can be just as devastating. Your culture section established what's acceptable, what's shameful, and what's unforgivable. It's time to check whether those boundaries are still holding.
-
-**What cultural rules or taboos affect your romance most directly?**
-
-| Cultural Rule or Taboo | Social Consequence for Breaking It | Have Characters Broken It? | Was There a Reaction? |
+| Rule or Constraint | Where It's Established | What Happens If Broken | Has It Held Consistently? |
 | --- | --- | --- | --- |
-| *The Maiden must not be touched (FBAA)* | *Religious scandal, loss of Maiden status* | *Yes, Poppy and Hawke* | *Yes, multiple characters register the transgression* |
-| 1. | | Yes / No | Yes / No |
-| 2. | | Yes / No | Yes / No |
-| 3. | | Yes / No | Yes / No |
-
-*If a character breaks a taboo and no one reacts, readers notice. Even if the main characters get away with it temporarily, someone in the world should register that a line has been crossed.*
-
-*Who in your world would notice the transgression, even if they don't act on it immediately? A servant, a rival, a parent, a religious figure?*
-
-_______________________________________________________________
-
-### Physical and Environmental Rules
-
-*(Reference: Your geography and technology sections)*
-
-Your geography section defined distances, travel times, and environmental dangers. Your technology section established what's easy and what's hard in your world. These physical constraints should stay consistent throughout your story.
-
-**What are the physical limitations that affect your romance?**
-
-*Travel times, communication speed, environmental dangers, seasonal constraints, technological limits:*
-
-| Physical Limitation | How It Affects Your Romance | Has It Remained Consistent? |
-| --- | --- | --- |
-| *Three-week journey between Velaris and the Spring Court (ACOMAF)* | *Creates agonising separation; reunion carries emotional weight* | *Yes* |
-| 1. | | Yes / No |
-| 2. | | Yes / No |
-| 3. | | Yes / No |
-
-**Have any of these limitations stopped mattering when they became inconvenient?**
-
-*If a journey that took weeks in chapter two takes days in chapter fifteen, you need a reason. New transportation? A shortcut that carries risk? Desperation overriding safety? Name the limitation and what changed.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-*Physical inconsistencies are among the easiest for readers to spot. If it takes three weeks to travel between cities in chapter two, it should still take three weeks in chapter twenty. Unless something has genuinely changed: new route, magical transportation, extreme urgency forcing dangerous shortcuts.*
-
-### Religious Rules
-
-*(Reference: Your religion, myth and prophecy section)*
-
-Religious obstacles carry a specific weight because they're tied to identity, not just law. If your world's faith system creates obstacles for your romance, those obstacles should feel absolute and unyielding.
-
-**What religious rules, vows, or prohibitions affect your romance?**
-
-| Religious Obligation | What It Demands | What Breaking It Costs | Has It Been Enforced? |
-| --- | --- | --- | --- |
-| *The Maiden's vow of purity (FBAA)* | *No physical contact, no pleasure, no romantic attachment* | *Loss of divine status, endangers the kingdom's protection* | *Yes, consistently until the reveal changes the reason* |
+| *Winnowing costs energy and can be tracked (ACOMAF)* | *Ch. 4, Rhysand explains* | *Exhaustion, weakness, trail left behind* | *Yes* |
 | 1. | | | Yes / No |
 | 2. | | | Yes / No |
+| 3. | | | Yes / No |
 
-**Is the religious obstacle treated with the same weight throughout?**
+**For any rule marked "No":** Was there an in-world explanation, or did you just need it to work differently?
 
-*A vow that feels absolute in chapter one but gets waved away in chapter fifteen is a broken promise. If the obstacle lessens, there should be a story reason for it: a crisis of faith, a doctrinal revelation, a divine intervention that changes the rules.*
+_______________________________________________________________
+
+**Have your characters broken any of these rules? Did they face the stated consequences?**
 
 _______________________________________________________________
 
+*If a character breaks a taboo and no one reacts, readers notice. Who in your world would notice the transgression, even if they don't act immediately?*
+
 _______________________________________________________________
+
+*Repeat this table for each system that affects your romance. Physical inconsistencies (travel times, environmental dangers) are the easiest for readers to spot. Cultural and religious rules carry specific weight because they're tied to identity.*
 
 ---
 
@@ -345,67 +248,7 @@ _______________________________________________________________
 
 ---
 
-## The Convenience Check
-
-### Powers and Abilities
-
-**Do abilities remain consistent in power level throughout your story?**
-
-*A character who defeats ten soldiers in chapter five but struggles against two in chapter fifteen needs an in-world explanation for the shift. If power levels fluctuate without reason, readers lose trust in every obstacle, including the ones keeping your leads apart.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Does anyone conveniently forget an ability that would solve the current problem?**
-
-*This is especially damaging in romantic tension scenes. If a telepath could just read the love interest's mind and resolve the misunderstanding, readers will wonder why they don't. You need a reason the ability doesn't work here: emotional interference, magical shielding, or the cost being too high to risk.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-### Environmental Consistency
-
-**Map key locations and travel times:**
-
-| From | To | Travel Time |
-|------|-----|-------------|
-| | | |
-| | | |
-| | | |
-
-**Have you changed these times for plot convenience?**
-
-*If a three-week journey suddenly takes three days because your leads need to reunite, readers will notice. Physical distance is one of romantasy's most effective tools for building longing, but only if it's consistent.*
-
-_______________________________________________________________
-
-**Do environmental dangers remain consistent?**
-
-*A forest that's deadly in chapter two should still be deadly in chapter eighteen. If your characters cross it safely later, there should be a reason: they've gained knowledge, protection, or allies that weren't available before. Environmental dangers that vanish when they're inconvenient undermine the sense that your world is real.*
-
-_______________________________________________________________
-
-### Authority and Surveillance
-
-**Where do authority figures and surveillance systems appear in your story, and are they consistent?**
-
-*Guards, wards, spies, magical monitoring, parental oversight: whatever enforces the rules in your world. Track where they're present, where they're absent, and whether the absence has a reason. If authority disappears precisely when your characters need privacy, readers will notice. Selective enforcement is one of the fastest ways to make a forbidden romance feel unforbidden.*
-
-| Authority/Surveillance System | Scenes Where It's Present | Scenes Where It's Absent | Is There an In-World Reason for the Absence? |
-| --- | --- | --- | --- |
-| *Court guards on the east wing (The Cruel Prince)* | *Jude's daily commute, the duel scenes* | *Jude and Cardan's confrontation in Ch. 12* | *Yes, the guards were called to the Bomb's distraction* |
-| 1. | | | Yes / No |
-| 2. | | | Yes / No |
-| 3. | | | Yes / No |
-
-*For any "No": this is a selective enforcement problem. Jump to the Fixing Consistency Problems section and apply one of the three options.*
-
----
-
-
-## Part Three: Romance Under Pressure
+## Romance Under Pressure
 
 One of the biggest consistency issues in romantasy isn't actually a broken rule. It's the fantasy plot stopping dead so the romance can happen. This isn't necessarily a logical flaw; it's more of a pacing issue that feels like a consistency problem because the outside forces of the world are somehow magically turned off to make room for their love.
 
@@ -797,106 +640,33 @@ _______________________________________________________________
 
 ### The Ignorance Shield
 
-It's possible the problem with the lack of consistency in your story isn't that there are broken rules. It may just be that your world has grown beyond what you originally envisioned. The simplicity of your original magic system will need to grow into complexity, and the clarity of your mythology may become layered in ways you never anticipated. As well, your protagonist's parentage, heritage, or nature will likely have changed since you started drafting.
+If your world has outgrown its original mythology, frame early worldbuilding as your narrator's limited understanding rather than objective truth. In *From Blood and Ash*, Poppy's perception of the Ascended evolves from "divine chosen ones" to "parasitic vampyres" — the rule "the Maiden must remain pure" was always consistent; only the *reason* behind it changed. **The rule:** One major Ignorance Shield reveal per book. Maybe two if the second is smaller. Beyond that, readers lose trust.
 
-The Ignorance Shield provides a way to approach your early worldbuilding by framing it as your narrator's limited understanding, rather than the objective truth. When your protagonist was either sheltered and isolated from the rest of the world or received education from institutions with their own biases and agendas, and/or was fed deliberately deceitful propaganda, then all of the things they "knew" in the early chapters were distorted through that prism. When your protagonist learns something new that changes how they understand their world, that new knowledge won't contradict anything from the earlier chapters. It'll simply expose the fact that those earlier chapters were showing them lies.
+**What did your narrator believe early on that turns out to be wrong? Is that early belief logical given their background?**
 
-One of Jennifer L. Armentrout's greatest uses of this tool is throughout her *From Blood and Ash* series. Poppy's perception of the Ascended begins as "divine chosen ones", evolves into "parasitic vampyres", and ultimately becomes a discovery that the entire theological construct of her world was created to keep people complacent. Every time Poppy discovers something new, she doesn't discover something that contradicts what she already believed. She only finds out why she previously believed it. The rule "the Maiden must remain pure" was always consistent; only the reason behind it changed.
-
-As effective as this tool can be, it also has its limits. If you overuse it, readers will begin to feel like the ground beneath their feet is constantly shifting, and they'll have nowhere to stand firm. Every additional "everything you knew was a lie" moment diminishes the impact of the previous ones. In some of Armentrout's later books, the ancestry revelations escalated to such a degree (Maiden to half-Atlantian to deity to Primal) that the reactions from readers became increasingly varied and less positive, largely because there wasn't enough emotional connection between each shift.
-
-**The rule:** One major Ignorance Shield reveal per book. Maybe two, if the second is smaller and more personal. Beyond that, readers lose trust in the world entirely, which is the opposite of what you're going for.
-
-| What Your Narrator Believed Early On | What's Actually True | Is the Early Belief Logical Given Their Background? | Does the Reveal Add Emotional Depth or Just Complexity? |
-| --- | --- | --- | --- |
-| *Poppy believes "Ascension" is divine transcendence (FBAA)* | *It's parasitic death* | *Yes, she was raised by the Ascended themselves* | *Depth: reframes every relationship she's ever had* |
-| | | Yes / No | Depth / Complexity |
-| | | Yes / No | Depth / Complexity |
-
-*If you answered "just complexity," have a think about whether the reveal is serving the story or just making the mythology bigger. Bigger isn't better. Deeper is better.*
+_______________________________________________________________
 
 ### Linguistic Literalism
 
-Your writing will likely create a situation where a character says something that, upon reflection, shouldn't have been possible under your own rules about what that character is allowed to say. Holly Black's handling of faerie truth-telling in *The Cruel Prince* provides the fix.
+If a truth-constrained character (Fae who can't lie, bond-linked characters who sense deception) has said something false in your draft, don't change the rules — change how they said it. In *The Cruel Prince*, faeries mislead through questions, omissions, and technically true phrasings. "I don't want you" becomes "Do you think I want this?" (question). "I feel nothing" becomes silence (omission).
 
-In Holly Black's Elfhame, faeries can't tell lies. This is a mechanical, absolute rule. But they can also mislead by using questions as opposed to statements, not answering when a question is asked, and using a series of technically correct but deeply deceptive phrasings. If a faerie was asked where a prisoner is being held, their response could be: "Why would I keep such a wretched creature in my own house?" The above response isn't a lie (the faerie didn't say anything that was untrue), but the listener will assume based on the faerie's question that the prisoner isn't being kept there.
-
-If you come across a character who's said something in your manuscript that wasn't truthful according to the rules you established, don't alter the rules you created. Instead, change how the character said what they said.
-
-Using this technique, a limitation you establish through worldbuilding becomes a major reason why readers enjoy fantasy. People enjoy trying to decipher faerie language, loophole-hunting in mate bonds, and wordplay in prophecies because these provide readers with the feeling of participating in the narrative.
-
-**Do any of your characters operate under a speech or honesty constraint?**
-
-*Fae who can't lie, bond-linked characters who sense deception, oath-bound warriors, prophets who can only speak truth. If any character in your story has a speech constraint, every line of their dialogue needs to pass the literalism test.*
-
-_______________________________________________________________
-
-**Have they said anything in your draft that technically breaks that constraint?**
-
-*Read their dialogue line by line. If you find a statement that's factually false, it needs to be rephrased. Pay special attention to romantic scenes, where characters under truth constraints might say "I don't care about you" or "You mean nothing to me" when the opposite is true.*
-
-_______________________________________________________________
-
-**How can you rephrase it as a question, omission, or technical truth?**
-
-*"I don't want you" becomes "Do you think I want this?" (question). "I feel nothing" becomes silence or a subject change (omission). "You're safe" becomes "No one will harm you while I'm here" (technically true, different implication).*
+**Do any characters operate under a speech constraint? Have they said anything that breaks it?**
 
 _______________________________________________________________
 
 ### The Sacrificial Reset
 
-There comes a point when a character becomes so powerful that there's no longer enough tension in the story. At that point, you have to remove something from them. It can be a very blunt instrument, but when used with emotional force, it works well.
+When a character becomes too powerful for stakes to hold, make them *choose* to give up power for someone they love. In *ACOSF*, Nesta surrenders her death-magic to the Cauldron to save Feyre — a sacrifice rooted in love, not plot mechanics. The key: let the character be powerful first, then make the sacrifice serve the romance.
 
-By the time *A Court of Silver Flames* is finished, Nesta Archeron has both the ability of death, as well as control over silver fire which, in theory, would allow her to fix every possible problem in the future. Maas handles this by having Nesta intentionally turn over all of her power to the Cauldron, so that she may save her sister and her unborn child. The reset through voluntary sacrifice works because it's based on a character choice rooted in love, rather than an external constraint being placed upon the character.
-
-The writing lesson here: if you're going to remove power from your character, make the removal a *choice* that defines who they are. Removing power from a character involuntarily makes it appear as though you as the author have removed their strength. When a character sacrifices their own power for someone they love, it can feel like the culmination of a character's journey.
-
-**Before you use this technique, check two things:**
-
-1. Has the character had at least one moment of genuine mastery with their power? Readers need to see what the power can do at full strength before they'll accept it being given up. If the character never gets to be powerful, the sacrifice feels hollow.
-2. Does the sacrifice serve the romance, not just the plot? In Nesta's case, the sacrifice is an act of love for her sister. That's what makes it emotionally satisfying rather than mechanically convenient.
-
-**Is any character in your story too powerful for the stakes to feel real?**
-
-*If your protagonist or love interest could solve every problem with their magic, your romantic obstacles dissolve. There's no tension in "will they survive?" if the answer is obviously yes.*
-
-_______________________________________________________________
-
-**What could they sacrifice, and for whom?**
-
-*The most emotionally powerful sacrifices in romantasy are for the love interest or for someone the love interest cares about. Nesta sacrifices her power for Feyre. The sacrifice serves the romance because it proves the depth of feeling that Nesta spent the whole book denying.*
-
-_______________________________________________________________
-
-**Does the sacrifice come from love, duty, or plot mechanics?**
-
-*If the answer is "plot mechanics," reconsider. Readers can tell the difference.*
+**Is any character too powerful for the stakes to feel real? What could they sacrifice, and for whom?**
 
 _______________________________________________________________
 
 ### The Perspective Upgrade
 
-Sometimes you need to change a character's origin, nature, or history after you've already established something different. The fix: give your narrator a new way of seeing.
+If you need to reveal a character's hidden nature, grant your narrator a new lens (magical ability, emotional growth, experience) that lets them see what was always there. In *ACOWAR*, Feyre only notices Lucien resembles Helion once she gains spell-cleaving vision. The parentage was always true; she just didn't have the right lens yet.
 
-In *A Court of Wings and Ruin*, Feyre notices for the first time that Lucien resembles Helion, the High Lord of the Day Court, rather than Beron, the High Lord of the Autumn Court. Readers wouldn't have been able to pick up on this detail earlier because Feyre didn't have the "spell-cleaving" vision that Helion's power grants her. The parentage was always true; Feyre simply didn't have the correct lens to see it until then.
-
-If you need to change a character's backstory or reveal a hidden nature, you can grant your narrator a new capability (magical, emotional, or simply experiential) that lets them see what was always there. The contradiction becomes a moment of growth.
-
-**What do you need your narrator to see differently?**
-
-*In romantasy, this is often about the love interest. Your narrator saw them one way; now they need to see the truth. What changes their perception: the bond deepening, a new magical ability, or simply spending enough time together to see past the mask?*
-
-_______________________________________________________________
-
-**What new lens could make that possible?**
-
-*A magical ability, a new perspective gained through experience, the bond revealing something it previously concealed, or a piece of information that reframes what they've already observed?*
-
-_______________________________________________________________
-
-**Can you establish this lens before the scene where they need it?**
-
-*The lens should feel like character growth, not a plot device. If it's a magical ability, let them struggle with it before it becomes useful. If it's emotional growth, show the incremental shifts.*
+**What do you need your narrator to see differently? What new lens could make that possible?**
 
 _______________________________________________________________
 
@@ -949,35 +719,9 @@ _______________________________________________________________
 
 ## Series Consistency
 
-### Create a Series Bible
-
-*If you're writing a series, you need a living document that tracks every promise you've made to your readers. Readers who've followed your world across multiple books will remember details you've forgotten, especially details about the romance.*
-
-Document and maintain:
-
-☐ Magic rules and limitations (note which book established each rule)
-
-☐ Travel times between key locations
-
-☐ Political structures and current power holders
-
-☐ Character abilities and their established limits
-
-☐ Romantic relationship progression and bond mechanics
-
-☐ Major worldbuilding facts that can't change
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
+*If you're writing a series, start a series bible now. Track: magic rules and limitations, travel times, political power holders, character abilities, romantic progression and bond mechanics, and major worldbuilding facts that can't change. Readers who've followed your world across multiple books will remember details you've forgotten.*
 
 **What is the one detail readers would notice first if you contradicted it in a sequel?**
-
-_______________________________________________________________
-
-**Are you writing more than one book in this world? If yes, start your series bible now.**
 
 _______________________________________________________________
 
