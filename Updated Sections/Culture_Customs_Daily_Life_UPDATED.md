@@ -1221,7 +1221,7 @@ Coming of age determines when your characters enter adult life. Education and wo
 
 ## Daily Roles & Education
 
-How a culture raises its children and organises its labour reveals what it values most. A child raised to fight shows affection differently than one raised to charm, and a culture that locks people into inherited professions creates different romantic obstacles than one where anyone can reinvent themselves. The way your characters were brought up shaped them into the adults they are, and when two characters discuss how they would raise children together, they reveal their deepest values.
+How a culture raises its children and organises its labour reveals what it values most. A culture that locks people into inherited professions creates different romantic obstacles than one where anyone can reinvent themselves.
 
 **How are children educated, and how does that lead to adult roles?**
 
@@ -1232,50 +1232,9 @@ How a culture raises its children and organises its labour reveals what it value
 | Common/poor | *e.g., Learn parents' trade by working alongside them* | *e.g., Farming, crafts, manual labour* |
 | Magical children | | |
 
-**How do most people learn skills and knowledge?**
-
-Apprenticeship? Formal schools? Family teaching? Religious institutions?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Who has access to education, and what knowledge is valued vs. dismissed?**
-
-*Is literacy common? Are schools available to all classes? Is book learning respected more than practical skills, or the reverse?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Are there institutions that take children from their families?**
-
-Temples, military academies, magical schools, noble fostering arrangements? What does separation mean?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What professions are respected? Looked down upon?**
-
-| Status | Professions |
-|--------|-------------|
-| Highly respected | |
-| Respectable | |
-| Necessary but low-status | |
-| Disreputable or shameful | |
-
-**How do people typically end up in their professions?**
-
-Family tradition? Personal choice? Assignment? Class restrictions?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 **How were your protagonist and love interest raised, and what do they do now?**
 
-*What was childhood like for each of them? What skills did they gain, what gaps does each have, and how do they spend their working hours? Does their work bring them together or keep them apart?*
+*What was childhood like for each of them? What skills did they gain, what gaps does each have? Does their work bring them together or keep them apart?*
 
 *(Write your answer below)*
 
@@ -1298,7 +1257,7 @@ Festivals are classic romance settings because rules relax, emotions heighten, a
 
 **What major festivals or celebrations exist in your world?**
 
-*Describe 1-3 that matter for your story. For each, when does it happen, what does it celebrate, and what are the key traditions?*
+*Describe 1-3 that matter for your story. When does each happen, what does it celebrate, and what are the key traditions? Do any festivals relax normal rules -- masquerades where identity is hidden, nights when class mingles freely?*
 
 *(Write your answer below)*
 
@@ -1308,25 +1267,7 @@ Festivals are classic romance settings because rules relax, emotions heighten, a
 
 &nbsp;
 
-**Do festivals allow any relaxation of normal rules?**
-
-Masquerades where identity is hidden? Festivals where class mingles? Nights when normal rules are suspended?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 **Which festival provides a romantic opportunity for your characters, and why?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What festival tradition do your characters participate in together?**
-
-Describe the scene:
 
 _______________________________________________________________
 

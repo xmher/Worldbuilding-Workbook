@@ -862,13 +862,9 @@ _______________________________________________________________
 
 ## Magic & Physical Intimacy
 
-Your readers enjoy spicy romantasy. At some point, your characters are probably going to end up in bed (or against a wall, or in a hot spring). And when they do, their magic doesn't politely wait outside the door. It surges, breaks loose, amplifies, exposes, and transforms. That's the key difference between creating an intimate scene that belongs in your world versus one that could have been copied from any contemporary romance.
+Physical intimacy is the moment when magical power is hardest to control -- and control is what your characters have been maintaining all book. When Violet and Xaden are finally together in Fourth Wing, her lightning signet discharges into the atmosphere, causing a literal storm. In A Court of Silver Flames, Nesta's destructive silver fire simmers beneath the surface during her encounters with Cassian, because the same power she refuses to control is the power she can't contain when she finally lets someone close.
 
-This isn't about writing explicit content for its own sake. It's about the fact that in your world your characters possess magical power inside of themselves and physical intimacy is the moment when that power is hardest to control. And control is what they've been maintaining all book. Losing control in an intimate encounter represents losing psychological control, and the magical consequences of that surrender raise the stakes beyond the personal.
-
-When Violet and Xaden are finally together in Fourth Wing, her lightning signet discharges into the atmosphere, causing a literal storm. Windows shatter. Possessions break. The physical environment mirrors the emotional magnitude of what's happening between them. In ACOTAR, Rhysand's power manifests as tremors and vibrations that Feyre feels in her bones. In A Court of Silver Flames, Nesta's destructive silver fire simmers just beneath the surface during her encounters with Cassian, because the same power she refuses to learn to control is the power she can't contain when she finally lets someone close.
-
-Across the board, the theme of the genre is the same: magic breaks its constraints when the character does. And this serves the story because it makes the intimate scene do narrative work. The lightning storm tells readers this relationship is seismic. The silver fire tells them Nesta's power and her trauma are two sides of the same coin when it comes to her capacity for connection. The magical discharge isn't decoration. It's characterisation.
+The theme across the genre: magic breaks its constraints when the character does. The magical discharge isn't decoration. It's characterisation. The lightning storm tells readers this relationship is seismic. The silver fire tells them Nesta's power and her trauma are two sides of the same coin.
 
 **What happens to your character's magic when they lose control emotionally or physically?**
 
@@ -1188,8 +1184,6 @@ _______________________________________________________________
 _______________________________________________________________
 
 ### Forbidden or Hunted Magic
-
-Writing about concealed magic is all about the constant low-level dread of hiding. Show the daily cost: the way your character monitors every word, every gesture, every instinctive reach for power that has to be suppressed. Show what they do instead of using magic. The workarounds, the lies, the exhausting performance of being ordinary.
 
 The romantic turning point isn't the dramatic reveal; it's the moment just before it, when they decide this person is worth the risk of being known. In *Serpent & Dove*, Lou hides her witchcraft from Reid, who is literally a witch hunter. The tension isn't just "will he find out?" It's "what happens to us when he does?"
 

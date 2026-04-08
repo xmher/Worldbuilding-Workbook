@@ -192,69 +192,39 @@ If both answers are "yes," then when they choose to stay, it means something. Th
 
 ---
 
-## The Choice Moment
+## The Choice Test
 
-There should be a specific moment where your characters actively choose the relationship. Not passively accept what fate decided. This is the scene readers remember. It's the moment that earns the happily ever after.
+There should be a specific moment where your characters actively choose the relationship. Not passively accept what fate decided. This is the scene readers remember. It's the moment that earns the happily ever after. "Can they resist?", "Do they choose anyway?", and "What do they sacrifice?" are all part of the same question. Answer it here.
 
-**When does your protagonist actively choose the love interest?**
+**When does your protagonist actively choose the love interest, and what does it cost them?**
 
-*Describe the specific scene or decision point. Not a vague feeling of "falling for them," but a moment where they make a concrete choice that commits them to this person.*
+*Describe the specific scene or decision point, then identify the cost. Not a vague feeling of "falling for them," but a moment where they make a concrete choice that commits them to this person. A cost-free choice doesn't prove anything. The weight of what they give up is what makes the choice matter to readers.*
 
-(Specific scene or decision point)
+(Cost examples: safety, power, family approval, original goal, magic, freedom, identity, belonging)
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does this choice cost them?**
-
-*A cost-free choice doesn't prove anything. The weight of what they give up is what makes the choice matter to readers.*
-
-(Safety, power, family approval, original goal, magic, freedom, identity, belonging)
-
-If the choice costs nothing, it doesn't prove much. The weight of the choice is what makes it matter. In *ACOMAF*, Feyre choosing to return to the Spring Court to spy for Rhysand costs her safety, comfort, and honesty with the man she's falling for. It's a choice that proves she's acting with agency, not being swept along.
-
-_______________________________________________________________
-
-**When does your love interest actively choose the protagonist?**
-
-*The love interest needs a choice moment too. If only the protagonist actively chooses, the love interest is a destination, not a partner. Describe their specific scene or turning point.*
+In *ACOMAF*, Feyre choosing to return to the Spring Court to spy for Rhysand costs her safety, comfort, and honesty with the man she's falling for. It's a choice that proves she's acting with agency, not being swept along.
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What does this choice cost them?**
-
-*What do they sacrifice, risk, or give up? The cost should be proportional to their power. A High Lord risking his court for a mortal carries different weight than a mortal risking her life for a High Lord, but both need to lose something real.*
-
 _______________________________________________________________
 
-### The "Defying the World" Moment
+**When does your love interest actively choose the protagonist, and what does it cost them?**
 
-**What worldbuilding element most strongly opposes your romance?**
-
-*Look back at Section 16. Which system, law, tradition, or magical rule creates the biggest barrier between your characters? This is the force they'll need to defy.*
-
-(Reference Section 16, which system creates the biggest obstacle)
-
-_______________________________________________________________
-
-**Is there a moment where your character defies this force to be with their love interest?**
-
-*Describe the scene. Defiance can be loud (public declaration, breaking a law) or quiet (a whispered name, a secret meeting, a refused order). What matters is that the character acts against the world's rules for the sake of the relationship.*
+*The love interest needs a choice moment too. If only the protagonist actively chooses, the love interest is a destination, not a partner. The cost should be proportional to their power.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What do they risk in this defiance?**
+**What worldbuilding element most strongly opposes your romance, and how do your characters defy it?**
 
-*Exile, execution, loss of magic, family rejection, war? The risk is what gives the defiance its weight. If defiance is cost-free, the worldbuilding obstacle wasn't real.*
+*Look back at Section 16. Which system, law, tradition, or magical rule creates the biggest barrier? Describe the moment of defiance. It can be loud (public declaration, breaking a law) or quiet (a whispered name, a secret meeting, a refused order). If defiance is cost-free, the worldbuilding obstacle wasn't real.*
 
 _______________________________________________________________
 
-This defiance is proof of agency. It's your character making their own choice against the world's rules.
+_______________________________________________________________
 
 ---
 

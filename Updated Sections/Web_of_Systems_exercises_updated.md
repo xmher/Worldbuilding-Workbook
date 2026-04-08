@@ -425,65 +425,31 @@ At the cost of: _________________________________________________
 
 ---
 
-Romantasy is at its best when the relationship has weight beyond the couple themselves. Every choice of the couple affects the systems you've built, because in a web, nothing moves in isolation.
+Romantasy is at its best when the relationship has weight beyond the couple themselves. Every choice the couple makes should send vibrations through the systems you've built.
 
 ## Romantasy-Specific Integration
 
-### The Obstacle Test
+### The Three Tests
 
-**List the three biggest obstacles keeping your characters apart:**
+**List the three biggest obstacles keeping your characters apart, and trace each to specific worldbuilding:**
 
-1. ____________________________________________________________
+| Obstacle | Which Systems Generate It (law, culture, magic, economy, religion, history?) |
+| --- | --- |
+| 1. | |
+| 2. | |
+| 3. | |
 
-2. ____________________________________________________________
+*If any obstacle connects to only one system, strengthen it by adding roots in a second or third.*
 
-3. ____________________________________________________________
+**What worldbuilding element forces your characters into proximity, and does it connect to at least two systems?**
 
-**Trace each obstacle to specific worldbuilding:**
-
-Obstacle 1 exists because of (which law, cultural value, magical rule, political reality, economic pressure; reference specific sections):
-
-_______________________________________________________________
-
-Obstacle 2 exists because of:
-
-_______________________________________________________________
-
-Obstacle 3 exists because of:
-
-_______________________________________________________________
-
-**If any obstacle feels arbitrary, strengthen it by connecting to multiple systems.**
-
-### The Proximity Test
-
-**What worldbuilding element forces your characters into proximity?**
-
-Shared mission, institutional requirement (Section 14), magical bond (Section 10), political arrangement (Section 5), geographic isolation (Section 1), economic necessity (Section 4)?
+*Example: A magical bond (Section 10) required by law (Section 5) because historically bonded pairs were weapons (Section 7).*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Does this forced proximity connect to at least two other systems?**
-
-Example: A magical bond (Section 10) required by law (Section 5) because historically bonded pairs were weapons (Section 7) and now the kingdom is at war (Section 5, warfare).
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-### The Stakes Test
-
-**What would they lose if their relationship was discovered or if they chose each other?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Are these losses connected to concrete worldbuilding?**
-
-Loss of political power (Section 5), economic ruin (Section 4), magical consequences (Section 10), cultural exile (Section 3), legal punishment (Section 5), religious condemnation (Section 6)?
+**What would they lose if they chose each other?** Loss of political power, economic ruin, magical consequences, cultural exile, legal punishment, religious condemnation?
 
 _______________________________________________________________
 
@@ -493,35 +459,15 @@ _______________________________________________________________
 
 ## How the Romance Changes the World
 
-This is what takes the ACOTAR series from being a personal love story to something with real impact. Feyre and Rhys's union doesn't just make them happy. It reshapes the political landscape of Prythian. Courts that never spoke begin to ally. Power structures that kept entire populations oppressed start to crack. The way their relationship models a new kind of partnership, one based on equality rather than possession, has real political consequences. Their love matters to the world, not just to them.
+This is what takes the ACOTAR series from being a personal love story to something with real impact. Feyre and Rhys's union doesn't just make them happy. It reshapes the political landscape of Prythian. Courts that never spoke begin to ally. Power structures that kept entire populations oppressed start to crack. Their relationship models a new kind of partnership, one based on equality rather than possession, and that has real political consequences. Their love matters to the world, not just to them.
 
-**If your characters choose each other despite obstacles, what changes?**
-
-Do laws get challenged? Alliances shift? Cultural prejudices erode? Magical systems reveal new possibilities? Economic structures reorganise?
+**If your characters choose each other despite obstacles, what changes?** Do laws get challenged? Alliances shift? Cultural prejudices erode?
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-_______________________________________________________________
-
-**What system that tried to keep them apart is affected by their union?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Who else benefits if they succeed?**
-
-Others in similar situations? The oppressed? The kingdom? The magical community? Future generations?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Who loses if they succeed?**
-
-Those who benefited from keeping them apart? The antagonist? The old order? People who depended on the systems that are now changing?
+**Who else benefits if they succeed, and who loses?**
 
 _______________________________________________________________
 
@@ -529,21 +475,13 @@ _______________________________________________________________
 
 **What new possibility does their relationship show the world?**
 
-*Hint: A new kind of alliance? Proof that old prejudices were wrong? A magical possibility no one knew existed? A path others might follow?*
+*A new kind of alliance? Proof that old prejudices were wrong? A path others might follow?*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Is their happy ending just personal, or does it change things for others?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does the world look like one year after their story ends? What has changed, and what still needs changing?**
-
-If systems need changing, does their union start that work? Continue it? Complete it? Or is their victory just the beginning of larger change?
+**Is their happy ending just personal, or does it change things for others? What does the world look like one year after their story ends?**
 
 _______________________________________________________________
 
