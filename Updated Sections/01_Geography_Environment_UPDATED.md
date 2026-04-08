@@ -271,93 +271,32 @@ Most come from geography (Blackwood, Riverside), historical figures (Washington)
 
 In romantasy, naming matters most when your characters come from different cultures. Distinct naming conventions instantly signal "these people are not the same," and a character learning to pronounce names from their love interest's language, or discovering what a place name means, can be a quiet intimacy beat. If your two kingdoms share naming patterns, readers will assume shared heritage. If the names feel completely alien to each other, readers feel the cultural distance your characters have to cross.
 
-### Researching Naming Conventions
-
-If you want place names that evoke a particular culture or aesthetic, here's how to find patterns yourself:
-
-- **Search "[language] place name meanings"** e.g., "Old Norse place name meanings" or "Welsh place name elements"
-- **Search "[language] words for [terrain]"** e.g., "Japanese words for mountain" or "Gaelic words for river"
-- **Look up real places.** Search "etymology of [real place name]" to see how actual names were constructed.
-- **Wikipedia's toponymy pages.** Search "[language] toponymy" for organised lists of place name elements.
-- **Behind the Name.** The website behindthename.com has a place names section with etymologies.
-
-For deeper language work, see *Section 11: Language & Communication*.
-
 ---
 
-## Reference: Common English Place Name Patterns
+## Reference: Place Name Patterns by Tradition
 
-*Mix prefixes and suffixes to generate names. "Ash" + "ford" = Ashford. "Black" + "moor" = Blackmoor.*
+*Mix prefixes and suffixes to generate names. "Ash" + "ford" = Ashford. "Black" + "moor" = Blackmoor. Pick a tradition that fits your world's aesthetic, or blend elements from several.*
 
-| Suffix | Meaning | Example |
-|--------|---------|---------|
-| -ham | homestead, village | Nottingham |
-| -ton / -town | fenced settlement | Brighton |
-| -ford | river crossing | Oxford |
-| -ley / -leigh | clearing, meadow | Barnsley |
-| -dale / -vale | valley | Airedale |
-| -burgh / -bury | fortified place | Edinburgh |
-| -port | harbour, market town | Southport |
-| -moor / -mere | marshland, lake | Windermere |
-| -fell / -mount | hill, mountain | Scafell |
-| -holme / -holm | island, water meadow | Stockholm |
+| Tradition | Element | Meaning | Example |
+|-----------|---------|---------|---------|
+| **English** | -ham / -ton | homestead / settlement | Nottingham, Brighton |
+| | -ford / -port | river crossing / harbour | Oxford, Southport |
+| | -ley / -dale | clearing / valley | Barnsley, Airedale |
+| | -burgh / -bury | fortified place | Edinburgh |
+| | -moor / -mere | marshland / lake | Windermere |
+| **Nordic** | -vik / -fjord | bay / narrow inlet | Reykjavik, Sognefjord |
+| | -heim / -berg | home / mountain | Trondheim, Gothenburg |
+| | -by / -ness | farm / headland | Whitby, Skagen |
+| | -dal / -land | valley / territory | Gudvangen, Iceland |
+| **Celtic** | Caer- / Dun- | fort / hill fort | Caernarfon, Edinburgh |
+| | Llan- / Pen- | sacred place / head, top | Llandudno, Penrith |
+| | Glen- / Loch- | valley / lake | Glencoe, Lochaber |
+| | Aber- / Inver- | river mouth | Aberdeen, Inverness |
+| **Slavic** | -grad / -gorod | city, fortress | Belgrade, Novgorod |
+| | Novo- / Staro- | new / old | Novosibirsk, Starograd |
+| | -ov / -sk | possessive / place suffix | Krakow, Gdansk |
 
----
-
-## Reference: Nordic/Scandinavian Place Name Patterns
-
-*Good for cold, northern, Viking-inspired settings. Old Norse roots appear in many English place names too.*
-
-| Element | Meaning | Example |
-|---------|---------|---------|
-| -by | farm, settlement | Whitby, Grimsby |
-| -vik / -wick | bay, inlet | Reykjavik, Lerwick |
-| -fjord / -firth | long narrow inlet | Sognefjord |
-| -heim / -hem | home, world | Trondheim |
-| -berg / -borg | mountain / fortress | Gothenburg |
-| -dal / -dalen | valley | Gudvangen |
-| -ness / -nes | headland, promontory | Skagen |
-| -stad / -sted | place, site | Halstead |
-| -land | land, territory | Iceland, Gotland |
-| -thwaite | clearing, meadow | Braithwaite |
-
----
-
-## Reference: Celtic/Welsh Place Name Patterns
-
-*Good for mystical, ancient, fae-adjacent settings. Celtic names often describe landscape features poetically.*
-
-| Element | Meaning | Example |
-|---------|---------|---------|
-| Aber- | river mouth | Aberdeen, Aberystwyth |
-| Caer- / Car- | fort, stronghold | Caernarfon, Cardiff |
-| Llan- | church, sacred enclosure | Llandudno |
-| Pen- | head, top, end | Penrith, Penzance |
-| Tre- / Tref- | homestead, town | Tremaine |
-| Dun- / Din- | hill fort | Edinburgh (Dun Edin) |
-| -combe / -cwm | valley | Ilfracombe |
-| Glyn- / Glen- | valley | Glencoe |
-| Loch- / Lough- | lake | Lochaber |
-| Inver- / Innis- | river mouth / island | Inverness |
-
----
-
-## Reference: Slavic Place Name Patterns
-
-*Good for Eastern European-inspired settings. Slavic names often use descriptive compounds.*
-
-| Element | Meaning | Example |
-|---------|---------|---------|
-| -grad / -gorod | city, fortified place | Belgrade, Novgorod |
-| -ov / -ova / -ovo | belonging to (possessive) | Sarajevo, Krakow |
-| Novo- / Novy- | new | Novosibirsk |
-| Staro- / Stary- | old | Starograd |
-| -pol / -pole | field | Sevastopol |
-| Belo- / Byelo- | white | Belgrade (Beograd) |
-| Cerno- / Cherno- | black | Chernobyl |
-| -ice / -itz | place suffix | Katowice |
-| -sk / -sko | place/region suffix | Gdansk, Minsk |
-| Veliko- / Veliky- | great, large | Veliky Novgorod |
+*For deeper naming work, including character names and constructed languages, see Section 11: Language & Communication. You can also search "[language] place name meanings" or "[language] toponymy" online for additional traditions.*
 
 ---
 
@@ -463,14 +402,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-#### How does geographic resource control affect your characters?
-
-*Does one character's family/nation control something the other's needs? Is there territorial dispute between their peoples?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 > **Continue in Section 4**
 >
 > *Resources & Scarcity*
@@ -491,27 +422,9 @@ Geography isn't just what exists in space; it's how it feels to be there. Filter
 
 ## The Sensory World
 
-#### What does your primary setting look, sound, smell, and feel like?
-
-*Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?*
-
 **⬥ Core** **Close your eyes and walk through your primary setting. Describe what you see, hear, smell, and feel (temperature, humidity, wind).**
 
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#### How does the environment change at different times of day?
-
-*Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?*
-
-**How does your primary setting change throughout the day?**
-
-*Describe morning, midday, evening, and night. What time of day best suits a romantic scene? A dangerous one?*
+*What hits your senses first? What would your protagonist notice? How does it change from dawn to midnight?*
 
 *(Write your answer below)*
 
@@ -521,29 +434,17 @@ Geography isn't just what exists in space; it's how it feels to be there. Filter
 
 &nbsp;
 
-#### What's beautiful about this place?
+#### What's beautiful about this place, and what's harsh?
 
-*The details a character falling in love would notice. What would make someone homesick for this place?*
+*Every setting has both. The beautiful details are what a character falling in love would notice, what would make someone homesick. The harsh details are what people endure, complain about, or need to get used to. Both matter for romance.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-#### What's harsh or uncomfortable about this place?
+&nbsp;
 
-*What do people endure or complain about? What takes getting used to?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does the landscape look like between your key locations?**
-
-*Not every reader needs to know what's between cities, but your characters who travel there do. What's the terrain like on the road?*
-
-_______________________________________________________________
-
-_______________________________________________________________
+&nbsp;
 
 ---
 

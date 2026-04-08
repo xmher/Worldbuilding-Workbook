@@ -586,11 +586,11 @@ Effect on romance: ________________________________________________
 
 ## ★ THE ROMANCE MECHANICS
 
-### How They're Forced Together
+### Stakes & Proximity
 
-(Reference: Section 13, Pressure Cooker; Section 14, Institutions)
+(Reference: Section 13, Pressure Cooker; Section 14, Institutions; Section 15, Key Locations)
 
-**Primary mechanism:**
+**What forces them together:**
 
 ☐ Fated mates/magical bond
 ☐ Arranged marriage/political alliance
@@ -599,21 +599,9 @@ Effect on romance: ________________________________________________
 ☐ Geographical isolation
 ☐ Other: _______________________________________________________
 
-**Details:** ______________________________________________________
-
-_______________________________________________________________
-
 **Can they escape it?** ☐ Yes ☐ No ☐ At great cost
 
-### The "Why Now?"
-
-(Reference: Section 16, The "Why Now?" Test)
-
 **What worldbuilding event kicks off their relationship?**
-
-_______________________________________________________________
-
-**Why couldn't they have gotten together earlier?**
 
 _______________________________________________________________
 
@@ -621,17 +609,13 @@ _______________________________________________________________
 
 **What happens if the deadline passes:** ______________________________
 
-### The Invisible Ledger
+**Where they're trapped together:** ___________________________________
 
-(Reference: Section 4, Economy, Labour & Resources)
+**Where discovery is most dangerous:** ________________________________
 
-**Who starts with more economic/resource power?** _____________________
-
-**The biggest entry on the ledger:** (the debt, gift, or sacrifice neither can forget)
+**Who's watching / consequences of being caught:**
 
 _______________________________________________________________
-
-**When does the ledger stop mattering?** ______________________________
 
 ### How They're Kept Apart
 
@@ -655,115 +639,51 @@ Worldbuilding source: _____________________________________________
 
 **Who starts with more power:** _____________________________________
 
-**Type of power:** _________________________________________________
-
 **What leverage the weaker character holds:** ___________________________
 
 **How power shifts:** ______________________________________________
 
 ---
 
-## PRESSURE POINTS
+## ◇ CONFLICT ENGINES
 
-### Location-Based
-
-(Reference: Section 15, Key Locations)
-
-**Where they're trapped together:** ___________________________________
-
-**Where they must be apart:** _______________________________________
-
-**Where discovery is most dangerous:** ________________________________
-
-### Time-Based
-
-(Reference: Section 17, Dual Clock)
-
-**The deadline:** __________________________________________________
-
-**What happens if missed:** _________________________________________
-
-### Social-Based
-
-**Who's watching:** ________________________________________________
-
-**Consequences of being caught:** ____________________________________
-
----
-
-## CONFLICT ENGINES
-
-### External Conflict
-
-**The main threat/problem:** ________________________________________
-
-_______________________________________________________________
+**The main external threat:** ________________________________________
 
 **Why they must face it together:** ___________________________________
 
-**What happens if they fail:** ________________________________________
-
-### Internal Conflict
-
-**Protagonist's emotional wound:** ____________________________________
-
-**How it makes them resist the relationship:** ___________________________
-
-**Love interest's emotional wound:** __________________________________
-
-**How it makes them resist:** ________________________________________
-
-### Where They Intersect
-
-**How external conflict forces them to face internal wounds:**
+**Protagonist's emotional wound and how it makes them resist love:**
 
 _______________________________________________________________
 
-_______________________________________________________________
-
-**How resolving relationship helps solve external problem:**
+**Love interest's emotional wound and how it makes them resist love:**
 
 _______________________________________________________________
+
+**How resolving the relationship helps solve the external problem:**
 
 _______________________________________________________________
 
 ---
 
-## KEY RULES (The 5-7 That Matter Most)
+## ◇ KEY RULES (The 3-5 That Matter Most)
 
 (Reference: Section 17, Consistency Check)
 
 **Rule #1:** _______________________________________________________
 
-Romance relevance: ________________________________________________
-
 **Rule #2:** _______________________________________________________
-
-Romance relevance: ________________________________________________
 
 **Rule #3:** _______________________________________________________
 
-Romance relevance: ________________________________________________
-
 **Rule #4:** _______________________________________________________
-
-Romance relevance: ________________________________________________
 
 **Rule #5:** _______________________________________________________
 
-Romance relevance: ________________________________________________
-
-**Rule #6:** _______________________________________________________
-
-Romance relevance: ________________________________________________
-
-**Rule #7:** _______________________________________________________
-
-Romance relevance: ________________________________________________
+**The rule their romance will break:** _________________________________
 
 ---
 
-## THE CHOICE MOMENTS
+## ◇ THE CHOICE MOMENTS
 
 (Reference: Section 18, Agency Check)
 
@@ -789,45 +709,31 @@ _______________________________________________________________
 
 ---
 
-## ROMANTIC TROPES IN USE
+## ◇ ROMANTIC TROPES IN USE
 
-Check all that apply and note specifics:
+Check all that apply:
 
-☐ Forced Proximity - How: _________________________________________
-
-☐ Forbidden Love - Why forbidden: __________________________________
-
-☐ Fated Mates - Type of bond: ______________________________________
-
-☐ Enemies to Lovers - Why enemies: _________________________________
-
-☐ Power Imbalance - Who has power: ________________________________
-
-☐ Arranged Marriage - Why arranged: ________________________________
-
-☐ Only One Bed (or equivalent): _____________________________________
-
-☐ Touch-Based Magic: _____________________________________________
-
-☐ Telepathic/Soul Bond: ___________________________________________
-
-☐ Protector Romance - Who protects whom: ___________________________
-
-☐ Grumpy/Sunshine - Who's which: _________________________________
-
-☐ Slow Burn - What prevents faster resolution: _________________________
-
+☐ Forced Proximity
+☐ Forbidden Love
+☐ Fated Mates
+☐ Enemies to Lovers
+☐ Power Imbalance
+☐ Arranged Marriage
+☐ Only One Bed (or equivalent)
+☐ Touch-Based Magic
+☐ Telepathic/Soul Bond
+☐ Protector Romance
+☐ Grumpy/Sunshine
+☐ Slow Burn
 ☐ Other: ________________________________________________________
 
 **What makes your use of these tropes unique:**
 
 _______________________________________________________________
 
-_______________________________________________________________
-
 ---
 
-## THE CLIMAX
+## ◇ THE CLIMAX
 
 (Reference: Section 16, Final Connection Check)
 
@@ -863,7 +769,7 @@ _______________________________________________________________
 
 ---
 
-## CONSISTENCY CHECKLIST
+## ◇ CONSISTENCY CHECKLIST
 
 (Reference: Section 17, Consistency Check)
 
@@ -885,7 +791,7 @@ _______________________________________________________________
 
 ---
 
-## QUICK FACTS
+## ◇ QUICK FACTS
 
 **Currency:** _____________________________________________________
 
@@ -917,7 +823,7 @@ _______________________________________________________________
 
 ---
 
-## THE ELEVATOR PITCH
+## ◇ THE ELEVATOR PITCH
 
 **The world:** ____________________________________________________
 
@@ -937,7 +843,7 @@ _______________________________________________________________
 
 ---
 
-## COMMON READER QUESTIONS
+## ◇ COMMON READER QUESTIONS
 
 (Useful for marketing, queries, and pitch materials)
 

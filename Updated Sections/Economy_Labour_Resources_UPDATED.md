@@ -335,93 +335,19 @@ Resources don't just create cultures. They create the conditions for love storie
 
 ---
 
-*Resources create wealth, but governments take a cut. How the state extracts from its people shapes what your characters actually keep, and what they resent.*
+## Taxation, Banking & the State
 
-## Taxation & Government Revenue
+**How does the government fund itself, and what happens when people can't pay?**
 
-**How does the government fund itself?**
-
-*Taxes, tribute, tariffs, and tithes all take from ordinary people. What your characters pay, and to whom, shapes how they feel about the powers that govern them.*
-
-What do ordinary people pay? (Land tax, head tax, harvest tithe, labour conscription, magical tribute?) Who collects it, and how fairly?
+*Taxes, tribute, tariffs, and tithes all take from ordinary people. The consequences of failing to pay (seizure, debtor's prison, forced labour) reveal how harsh or merciful the system is, and can drive characters into desperate choices.*
 
 _______________________________________________________________
 
 _______________________________________________________________
-
-**What happens when people can't pay?**
-
-*Seizure of property? Debtor's prison? Forced labour? The consequences of failing to pay reveal how harsh or merciful the system really is, and can drive characters into desperate choices.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Are there taxes or tariffs that specifically affect your characters or their community?**
-
-*A border tariff might strangle a merchant's livelihood. A magic-user levy might make gifted people into targets. Name the specific tax pressure your characters feel.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-## Banking & Credit
 
 **How does lending work in your world?**
 
-*Can people borrow money? From whom? A guild, a temple, a moneylender, a noble patron? What are the terms, and what happens to those who default? Debt is one of the most powerful drivers of romantic tension, and it starts here.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Do formal financial institutions exist?**
-
-*Banks, lending houses, temples that hold deposits, merchant exchanges, or is everything informal? The presence or absence of financial institutions determines whether debt is regulated or lawless.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-## Economic History
-
-**How did the current economy develop?**
-
-*Was there a golden age that's now fading? A recent war that reshuffled who has what? A magical discovery that created new industries? The economy your characters live in was shaped by what came before.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Is the economy in transition?**
-
-*Economies rarely sit still. Is an old order collapsing? Is new wealth displacing old power? Are people nostalgic for how things used to be? Economic transition creates winners and losers, and characters on opposite sides of that shift.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-*The formal economy (taxes, banks, currency) doesn't reach everyone. Some people survive outside it entirely, and their world operates by different rules.*
-
-## Informal & Subsistence Economies
-
-**Who doesn't participate in the formal economy, and how do they survive?**
-
-*Not everyone uses coins or trades in markets. Subsistence farmers, nomadic groups, isolated communities, refugees, the very poor. They may barter, forage, or rely on mutual aid. If your characters come from or encounter these communities, their economic assumptions will clash.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does the formal economy fail to provide, and how do people fill the gap?**
-
-*Mutual aid networks, communal farming, barter circles, scavenging, charity from temples. The gaps in the official economy tell you where the system breaks down and where different forms of community take over.*
+*Can people borrow money? From whom (guild, temple, moneylender, noble patron)? What happens to those who default? Debt is one of the most powerful drivers of romantic tension, and it starts here.*
 
 _______________________________________________________________
 
@@ -448,40 +374,38 @@ Use this list for inspiration. What does each profession contribute to your worl
 | Scholarly & Learned | Scribe, scholar, tutor, librarian, alchemist | Preserving knowledge, educating the next generation, research and innovation | Intellectual equals from different worlds; tutor/student tension |
 | Underworld & Shadows | Thief, smuggler, spy, bounty hunter, poisoner | Moving contraband, gathering intelligence, filling gaps the legal economy won't | Secret lives; moral conflict; "if you knew what I really do" |
 
-Work shows on the body and shapes the mind. A blacksmith knows whether metal has been worked well or poorly. A merchant will calculate worth with little effort. A soldier will assess a threat in less than a second. When characters from different work worlds meet, let them discover each other through these competencies.
+Work shows on the body and shapes the mind. A blacksmith knows whether metal has been worked well or poorly. A merchant calculates worth without effort. A soldier assesses a threat in less than a second. When characters from different work worlds meet, let them discover each other through these competencies.
 
-**What professions are respected? Looked down upon?**
-Occupational status shapes how people are treated and what doors open or close. If your characters have different occupations, how might society view their pairing?
+**⬥ Core: What work do most people do, and what's the occupational hierarchy?**
+
+*The baseline tells you what's normal, and your characters' deviations from it are what create tension. Fill in the table below, then note what dangerous or shameful work exists. Dangerous work creates specific romantic tension: the fear of loss, the physical toll, the secrecy about what the job really involves.*
 
 | Status | Occupations |
 |---|---|
-| Highly respected | |
+| Highly respected | *Example: Court mages, landed nobility* |
 | Respectable/ordinary | |
 | Necessary but low-status | |
-| Disreputable or shameful | |
+| Dangerous or disreputable | *Example: Hedge witches, mercenaries, gravediggers* |
 
-*Examples:*
+**How do people enter occupations, and can they change?**
 
-| Status | Occupations |
-|---|---|
-| Highly respected | Court mages, master healers, high priests, landed nobility |
-| Disreputable or shameful | Hedge witches, fortune-tellers, gravediggers, money-lenders |
+*The path into work shapes your characters' backstories. A character locked into a trade by birth has different options (and different resentments) than one who chose their profession. If leaving a job means losing everything, that's a constraint the romance has to navigate.*
 
-**⬥ Core: What work do most people do?**
+| Path Into Work | Exists in Your World? | Romantic Implications |
+|---|---|---|
+| *Born into it (family trade, caste)* | *Example: Yes, for most commoners* | *Can't leave their work to be with someone from another world* |
+| Apprenticeship/guild | | |
+| Education/academy | | |
+| Military/conscription | | |
+| Magical selection | | |
+| Economic necessity | | |
 
-*The baseline tells you what's normal, and normal is important because your characters' deviations from it are what create tension. If most people farm, a character who refuses to farm is making a statement.*
+*Cross-check: Does your technology level (Section 9) support these types of work?*
 
-In an agrarian society, most people farm. In a trade economy, many are merchants, sailors, or craftspeople. What's the baseline?
+**⬥ Core: What do your protagonist and love interest do to survive?**
+Work shapes who we become. For each character: What do they do? What skills has work given them? How does the work show on their body? What do they notice that others don't because of their training? Do their occupations create proximity or distance?
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What occupations exist in your world?**
-
-List occupations that appear or matter in your story:
-
-**Describe 2-3 key occupations in your world. For each, what do they do, what is their social status, and who typically does this work?**
+**Protagonist:**
 
 *(Write your answer below)*
 
@@ -491,64 +415,7 @@ List occupations that appear or matter in your story:
 
 &nbsp;
 
-**What work is considered beneath certain people?**
-
-*Class-based work taboos reveal a world's values. If a noble can't be seen doing manual labour, or a mage refuses healing work because it's "servant's magic," those taboos become walls between characters from different backgrounds.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What dangerous or unpleasant work exists?**
-
-*Dangerous work creates specific romantic tension: the fear of loss, the physical toll on the body, the secrecy about what the job really involves. If your character does dangerous work, their partner lives with that fear.*
-
-Mining? Soldiering? Magical labour with costs? Work that shortens lives?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-### How People Enter Occupations
-
-**How do people end up in their occupations?**
-
-*The path into work shapes your characters' backstories and creates constraints. A character locked into a trade by birth has different options than one who chose their profession, and different resentments.*
-
-| Path Into Work | Exists in Your World? | Who Takes This Path | Romantic Implications |
-|---|---|---|---|
-| *Born into it (family trade, caste)* | *Yes: blacksmith families, farming families* | *Most commoners* | *Character can't leave their work to be with someone from another world* |
-| Apprenticeship | | | |
-| Education/academy | | | |
-| Military/conscription | | | |
-| Magical selection | | | |
-| Economic necessity | | | |
-| Other: | | | |
-
-**Can people change occupations?**
-
-*If your protagonist is stuck in a job they hate, can they leave? If leaving means losing everything (guild membership, family ties, their only income), that's a constraint the romance has to navigate.*
-
-Is mobility possible, or are you locked into your work for life?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How is labour organised in your world?**
-
-*Guilds, unions, apprenticeship systems, military conscription, indentured service. These structures that control who can do what work also control who your characters can become. A guild that forbids outsiders is a wall between lovers from different trades. A conscription system decides your character's future for them.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-*Cross-check: Does your technology level (Section 9) support these types of work? A pre-industrial world probably doesn't have factory labour, and a high-magic world may have replaced certain trades entirely.*
-
-**⬥ Core: What does your protagonist do to survive?**
-Work shapes who we become. What skills, knowledge, and worldview has their occupation given them?
-
-**Describe your protagonist's occupation: What do they do? What skills have they learned through work? How does the work show on their body? What do they notice that others don't because of their training?**
+**Love interest:**
 
 *(Write your answer below)*
 
@@ -557,25 +424,6 @@ Work shapes who we become. What skills, knowledge, and worldview has their occup
 &nbsp;
 
 &nbsp;
-
-**What does your love interest do to survive?**
-How does their work connect to or conflict with your protagonist's world? Do their occupations create proximity or distance?
-
-**Describe your love interest's occupation: What do they do? What skills have they learned through work? How does the work show on their body? What do they notice that others don't because of their training?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
----
-
-### ✦ Checkpoint: World and Work
-
-*Pause and look at your answers so far. Do your characters' occupations make sense within the economic system you built? Does the work they do match the world's resources, trade routes, and class structure? If a character is a merchant in a world with no trade routes, or a mage in an economy that doesn't value magic, now's a good time to adjust before moving on.*
 
 ---
 

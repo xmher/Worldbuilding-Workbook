@@ -119,18 +119,6 @@ _______________________________________________________________
 
 ---
 
-#### Flora & Fauna Self-Check
-
-*Review what you've built so far. Check any that apply, then address the ones that need fixing.*
-
-| Mistake | Does This Apply to You? | What to Fix |
-|---------|------------------------|-------------|
-| **Decorative Ecosystem:** Nature exists in your world but characters never interact with it meaningfully | | |
-| **Convenient Creature:** A creature exists solely to bond characters or give powers, with no ecology or independent life | | |
-| **Bond That Does Everything:** A creature bond creates the romance automatically, skipping the work of building love and trust | | |
-
----
-
 *With those pitfalls in mind, let's lay the groundwork for your world's ecosystem.*
 
 ## The Ecosystem Foundation
@@ -158,13 +146,6 @@ _______________________________________________________________
 #### *What's the overall health of the ecosystem?*
 
 *Thriving? Balanced? Under pressure from civilization? Recovering from past damage? Dying?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### **What do people eat in your world?**
-*What crops grow, what animals are raised for food, what's foraged from the wild? Food shapes daily life more than almost anything else.*
 
 _______________________________________________________________
 
@@ -198,22 +179,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-#### **What do seasonal changes look like for plants and animals?**
-*Migration, hibernation, blooming, leaf fall, breeding seasons? These cycles shape daily life and can create natural story deadlines.*
+#### **How do the seasons shape life in your world?**
+*What changes with the seasons -- migration, harvest deadlines, blooming cycles, dangerous weather? Pick one or two seasonal shifts that matter most to daily life or your story.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-#### **Has anything gone extinct or become endangered?**
-*A species hunted out, a plant overharvested, a creature lost to magical catastrophe? Extinction reshapes ecosystems and can carry cultural grief.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### **Are there any invasive or problematic species?**
-*A plant that chokes out crops, an animal that destroys livestock, a magical creature that's spread beyond its original territory? Ecological problems create conflict and story hooks.*
+#### **Has anything gone extinct, become endangered, or invaded from elsewhere?**
+*A species hunted out, a plant overharvested, a creature that's spread beyond its territory? Ecological disruptions create conflict and carry cultural weight.*
 
 _______________________________________________________________
 

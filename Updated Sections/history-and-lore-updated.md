@@ -455,42 +455,21 @@ _______________________________________________________________
 
 ---
 
-Your characters can't merely think of history in terms of stories and memories. Many histories are embedded in the very fabric of the land: monuments, walls, streets named after wars, required rituals, altered texts, even the climate itself. When the government has control over the physical world, the history of the culture becomes indistinguishable from the world itself. Your characters may stroll through the market place, pass by a statue honouring the war which prohibits their love; this is propaganda in its purest form and provides some of the most intense scene-level tension in romantasy.
+Many histories are embedded in the very fabric of the land: walls, monuments, streets named after wars, altered texts, even the climate itself. The Wall in *ACOTAR* isn't a metaphor for the fae-human divide -- it *is* the divide, and every time a character crosses it they're committing a political act. In *Mistborn*, ash falls from the sky because the Lord Ruler reshaped the planet, erasing the memory of green living things from an entire civilisation. When the government controls the physical world, history becomes indistinguishable from geography, and that's where some of romantasy's most intense scene-level tension lives.
 
-The Wall in *ACOTAR* is the most graphic example: a magical barrier that separates the world into two parts and crackles with energy, leaving the tongue coated with the sensation of division. It's not a metaphor for the fae-human divide. It *is* the divide, and every time a character steps across the Wall they're committing a political act. In *Mistborn*, the propaganda takes on an environmental form: ash falls from the sky covering Scadrial in grey soot. These ash falls were caused by the Lord Ruler's reshaping of the planet, and he was able to erase the memory of green living things from an entire civilisation. Vin's confusion at hearing of green plants is a direct result of the propaganda working exactly as desired. The Steel Ministry is responsible for "soothing stations" located throughout skaa neighbourhoods where Allomancers maintain the mood of the citizens to inhibit rebellion. These stations create physical spaces where the emotional state of the citizens is manipulated, reduced to a level of complacency, thereby making the thought of resistance feel impossible. In *The Cruel Prince*, the topography of Elfhame itself reinforces the social structure of the fae kingdom: the islands are connected by narrow, partially submerged rock paths that require jumping to traverse. This serves as a constant reminder of Jude's mortality compared to the seemingly effortless agility of the fae.
+Think about physical barriers, monuments, mandatory commemorations, altered or banned texts, environmental propaganda, and architectural hierarchy. Each of these normalises the divisions your characters must cross to be together.
 
-| Propaganda Type | How It Works | What It Creates for Romance |
-|---|---|---|
-| Physical barriers (walls, wards, borders) | Normalises separation; makes crossing feel transgressive | Every meeting is a political act; the barrier is a "silent witness" to forbidden intimacy |
-| Monumental statuary (statues, portraits, memorials) | Deifies the powerful; makes individuals feel insignificant | Your character walks past a statue of the hero who conquered their lover's people every day |
-| Mandatory commemorations (festivals, rituals, Victory Tours) | Refreshes historical trauma on a schedule | A celebration of your character's people's victory is a mourning of their lover's people's defeat |
-| Altered or banned texts | Controls the conceptual boundaries of the past | Characters who find the real text discover the foundation of their enmity is a lie |
-| Environmental propaganda (ashfalls, blighted landscapes, cursed lands) | Makes the consequences of history sensory and inescapable | The world itself reminds your characters of what happened, and whose fault it was |
-| Architectural hierarchy (spires, palaces, slums, restricted zones) | Physicalises the social order | Where your characters are *allowed to be* in the landscape reflects the power dynamics of the romance |
-
-**Map your world's propaganda landscape:**
-Using the table above as a guide, identify what forms of historical propaganda exist in your world and how they affect your characters' relationship.
-
-| Propaganda Type | What It Looks Like in Your World | How It Intrudes on Your Romance |
-|---|---|---|
-| *Physical barriers* | *e.g., ACOTAR: The Wall separating fae and human territories* | *Every time Feyre crosses it, she's committing a political act* |
-| | | |
-| | | |
-| | | |
-
-*Cross-check: Does propaganda match your government type (Section 5)? A decentralised tribal federation wouldn't have centralised monuments and Victory Tours -- make sure the propaganda methods here reflect who actually holds power in your world.*
-
-**How does the built environment intrude on your characters' private moments?**
-*Monuments, barriers, and public symbols are strongest when they follow characters into personal spaces.* When Feyre and Rhysand act out their relationship in the Court of Nightmares in *ACOMAF*, it's not just that they're being forced to perform their love for each other; the court itself is a monument to the violence done to them, and their intimacy becomes political theatre. In *Mistborn*, Vin's first experiences of romance occur at noble balls, where the grey ashfalls outside contrast with the lavish gowns inside. It creates a moral dissonance she can't ignore.
+**What forms of historical propaganda exist in your world?**
+*Identify 2-3 ways the built environment reinforces historical divisions. How do these intrude on your characters' private moments?*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-The way for characters to find resistance is to look for the cracks in the wall, the truth beneath the ash, the banned text that tells a different story. Feyre utilises her own art as a means of resistance, painting vivid, misleading images so that she can keep her real emotions hidden. In *Mistborn*, the truth is literally etched in metal, a medium that can't be altered by the entity who corrupted the paper records. And in *The Hunger Games*, the three-finger salute becomes an organic counter-symbol that outpaces the state's manufactured propaganda.
+_______________________________________________________________
 
 **What "holes" exist in your world's propaganda?**
-Clandestine meeting places? Forbidden archives? Subversive art? Underground networks? These gaps in the propaganda landscape are where your romance lives. The spaces where the state's version of history fails and something truer can grow.
+*Clandestine meeting places, forbidden archives, subversive art, underground networks? These gaps are where your romance lives -- the spaces where the state's version of history fails and something truer can grow.*
 
 _______________________________________________________________
 
@@ -565,28 +544,8 @@ _______________________________________________________________
 
 &nbsp;
 
-**How does each character feel about the comparison?**
-*One might embrace it while the other resists it. Do they find it flattering, suffocating, or ominous?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Does the comparison create pressure or expectation?**
-
-Are they expected to follow the same path? Avoid the same mistakes?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What do your characters know about the legendary couple that others don't?**
-
-Is the famous story accurate? Romanticised? Missing crucial context?
+**Does the comparison create pressure, and is the famous story even accurate?**
+*Are they expected to follow the same path? Avoid the same mistakes? Is the accepted version romanticised or missing crucial context?*
 
 _______________________________________________________________
 
@@ -595,34 +554,9 @@ _______________________________________________________________
 ---
 
 **Does history repeat in your world?**
-Cyclical history creates a specific kind of romantic dread: the sense that your characters are walking a path others have walked before, and everyone watching knows how it ended. Are there patterns, prophecies, or recurring doom that your characters are expected to repeat?
+*Cyclical history creates a specific kind of romantic dread: the sense that your characters are walking a path others have walked before, and everyone watching knows how it ended. Are they doomed to repeat the cycle, or determined to break it -- and what would breaking it require?*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**What previous love story mirrors your characters' situation, and how did it end?**
-*A past pair of lovers from opposing sides, a forbidden romance that was crushed or triumphed -- whatever precedent people might point to.*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Do people compare your characters to this historical precedent?**
-
-_______________________________________________________________
-
-**Are they doomed to repeat history, or determined to break the cycle?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What would breaking the cycle require?**
 
 _______________________________________________________________
 
@@ -632,9 +566,8 @@ _______________________________________________________________
 
 Having famous ancestry can create expectations and obligations. Inheriting a legendary role means living in someone's shadow, and that shadow falls over the relationship too. If the last person who held your character's position loved unwisely and caused a catastrophe, everyone will be watching to see if your character makes the same mistake. If their ancestor was the one who ended the last forbidden romance, there's a grim irony in your character falling into one. The legend doesn't have to be about love to distort a love story, either. A military hero's descendant may feel obligated to put duty first, and a traitor's descendant may feel they don't deserve love at all.
 
-**Is either character descended from a famous historical figure?**
-*Who was the ancestor, and what expectations does that legacy create?*
-*Name the character, their famous forebear, and the weight that connection carries.*
+**Is either character descended from a famous figure, or does either hold a position once held by someone legendary?**
+*Name the character, the ancestor or predecessor, and the weight that connection carries. Do they try to live up to the legend, rebel against it, or feel crushed by it? Does it make their love feel inevitable, or doomed?*
 
 *(Write your answer below)*
 
@@ -643,24 +576,6 @@ Having famous ancestry can create expectations and obligations. Inheriting a leg
 &nbsp;
 
 &nbsp;
-
-**Does either character hold a position once held by someone legendary?**
-*What's the position, who held it before, and what shadow does that cast? Did the predecessor succeed or fail?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**How does living in a legend's shadow affect your character?**
-Do they try to live up to it? Rebel against it? Feel crushed by impossible expectations? Does the legend's story make their own love feel inevitable, or doomed?
-
-_______________________________________________________________
-
-_______________________________________________________________
 
 ---
 

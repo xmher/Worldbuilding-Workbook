@@ -54,12 +54,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Could your romance happen in a generic fantasy castle with none of your specific worldbuilding? If yes, what world-specific detail could you add to make it impossible anywhere else?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ---
 
 ## Mistake #2: Forgetting the Non-Romantic Story
@@ -87,12 +81,6 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What goal does your protagonist have that has nothing to do with the love interest?**
-
-_______________________________________________________________
-
-**If you removed the romance entirely, would the fantasy plot still hold a reader's attention? What would be missing?**
-
-*Hint: If the answer is "not much," your fantasy conflict line needs its own stakes, surprises, and consequences.*
 
 _______________________________________________________________
 
@@ -124,13 +112,7 @@ _______________________________________________________________
 
 **What's happening in your world right now that your protagonists don't know or care about?**
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Does every custom, law, or historical event in your world exist to serve the romance? Name one that exists just because your world is a real place.**
-
-*Hint: If you can't think of one, add a detail that makes the world feel lived-in -- a local holiday, a trade dispute, a neighbourhood rivalry.*
+*Hint: If you can't think of anything, add a detail that makes the world feel lived-in -- a local holiday, a trade dispute, a neighbourhood rivalry.*
 
 _______________________________________________________________
 
@@ -230,10 +212,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Where in your story could a romantic moment happen during danger rather than between dangers?**
-
-_______________________________________________________________
-
 ---
 
 ## Mistake #6: The Soft-Boiled World
@@ -265,10 +243,6 @@ _______________________________________________________________
 *Hint: If the answer is "most of them," pick the one your story most needs to deliver on.*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**Does your antagonist win at least once in a way that actually sticks?**
 
 _______________________________________________________________
 
@@ -350,10 +324,6 @@ And be honest with yourself about the story you wish to tell. Captivity romance 
 
 _______________________________________________________________
 
-**When does the less powerful character gain a genuine ability to leave?**
-
-_______________________________________________________________
-
 **What scene shows the less powerful character making a real choice -- not just accepting what's happening to them?**
 
 *Hint: If you can't point to a specific moment, write one. Even a small refusal that gets respected proves the character has agency.*
@@ -397,10 +367,6 @@ _______________________________________________________________
 *Hint: If the bond makes everything easy, there's no story. Friction within a fated pairing is what makes it feel real.*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**If the bond disappeared tomorrow, what would keep them together?**
 
 _______________________________________________________________
 

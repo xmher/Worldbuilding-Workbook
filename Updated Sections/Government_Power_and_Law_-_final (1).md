@@ -1024,13 +1024,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
----
+**Who has political reason to keep your characters apart, and what will they do to stop them?**
 
-### Political Enemies
-
-**Who has political reason to keep your characters apart?**
-
-*Name specific people. What position do they hold, and what do they stand to lose if your characters unite?*
+*Name specific people. Threats, sabotage, legal action, violence? The more specific, the more real the danger feels.*
 
 _______________________________________________________________
 
@@ -1038,38 +1034,11 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What will this person do to stop them?**
-
-*Threats, sabotage, legal action, violence? The more specific, the more real the danger feels.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-### Political Allies
-
-**Who supports your characters despite the political risk?**
-
-*Name the ally. What position do they hold, and why do they help?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does helping your characters cost this ally?**
+**Who supports your characters despite the political risk, and what does it cost them?**
 
 *Allies who risk nothing feel like plot devices. What do they stand to lose by supporting the relationship?*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**Is there current factional conflict that affects your story?**
-Political instability creates both danger and opportunity. Could your characters use factional conflict to their advantage?
 
 _______________________________________________________________
 
@@ -1079,19 +1048,15 @@ _______________________________________________________________
 
 ## Court Politics & Intrigue
 
-Courts represent the world where romantasy thrives. Wherever you find your characters, whether it's a Fae high court, a demon prince's hall, or a Regency ballroom, the court is a stage where every single interaction is both personal and political. So why do courts make such great romantic settings? Because everyone at court is "on stage," performing their roles, and the romantic tension arises from the disconnect between what they claim to be publicly and who they truly are privately. In a court setting, all eyes are on your characters, creating a constant sense of surveillance. Any small act of private truth performed in a court setting can become revolutionary due to this constant observation. A lingering look becomes a political statement. A dance can be a form of negotiation. One whispered word to the wrong person can be enough to topple an alliance or spark a war. In *ACOTAR*, Feyre and Rhysand attend the Court of Nightmares, which requires them to portray themselves as the wicked, untouchable High Lord and Lady. Feyre must fight the urge to say "thank you" to the servants, and therefore appear cruel, while Rhysand objectifies her in front of his enemies. Their performance is strategic: it keeps their enemies from discovering the private truth of Velaris. However, the tension generated comes from the emotional cost to Feyre and Rhysand, and the intimacy of being the only two individuals in the room who understand the truth. In *Bridgerton*, the London Season is a social whirlwind of balls and assemblies where young people are placed on exhibit. The rules for ballroom etiquette are rigid: men must ask to dance, women can only refuse to dance if she rejects all other dances offered, and there can be no physical contact outside of the momentary possibility of touching hands. Every dance is a spectator event, with chaperones and gossip columnists watching for even the slightest sign of scandal. If yes, consider how the court environment affects your characters. What role must they portray? What happens when the mask falls?
+Courts are where romantasy thrives. Whether it's a Fae high court, a demon prince's hall, or a Regency ballroom, the court is a stage where every interaction is both personal and political. The romantic tension arises from the disconnect between what characters claim publicly and who they truly are privately. A lingering look becomes a political statement. A dance can be a form of negotiation. One whispered word to the wrong person can topple an alliance or spark a war.
 
-### Masks
+In *ACOTAR*, Feyre and Rhysand attend the Court of Nightmares, performing as the wicked, untouchable High Lord and Lady. The tension comes from the emotional cost and the intimacy of being the only two people in the room who understand the truth. In *Bridgerton*, the London Season's rigid etiquette means every dance is a spectator event, with chaperones and gossip columnists watching for the slightest sign of scandal.
 
-The mask is the main obstacle to an emotional connection in a court setting and also the primary source of suspense. All court characters wear a mask, and the romantic tension is created by the moments when those masks crack. Both leads in *The Cruel Prince* use cruelty as a shield. Cardan uses his casual cruel behaviour and bullying to hide his deep-rooted fear of being vulnerable and the abuse he experienced within his family. Jude wears a mask of complete coldness and calculated strategy to cover her mortal fragility. The romantic spark ignites in the moments these masks slip: when Cardan stops someone from hurting Jude and then quickly puts back on his mask of cruelty, or when Jude uses a kiss to test her power over him, whether she intends it as punishment or desire. In *Kingdom of the Wicked*, the names of the Seven Demon Brethren houses are titles of sin and serve as masks. Wrath isn't simply a name; it's a performance that hides his real name, his personal history, and his developing feelings for Emilia. The fact that characters must shut down their emotions to avoid detection from magical surveillance makes suppressing feelings a type of romantic torture. When a character shares a private truth with their love interest alone, the most powerful romantic moments occur. The mask remains intact for the sake of the court. It falls away in the space of a stolen moment, behind a closed door, or in the time between performances. This selective exposure of vulnerability is what builds intimacy. Unity? Hostility? Indifference? Must they perform indifference towards one another, or pretend to care?
+### Masks, Rituals, and Private Spaces
 
-### Rituals as Pressure Points
+All court characters wear a mask, and the romantic tension is created by moments when those masks crack. In *The Cruel Prince*, both Jude and Cardan use cruelty as a shield. The romantic spark ignites when those shields slip: when Cardan stops someone from hurting Jude and then quickly puts his mask back on, or when Jude uses a kiss to test her power over him. The most powerful romantic moments occur when a character shares a private truth with their love interest alone.
 
-Romantic tension reaches its peak when your characters are at their most vulnerable during high-stakes, very public events: balls, coronations, galas, tournaments. All of these occasions are designed as a form of surveillance for reputation management, so even the smallest acts of private truth become significant risks. In *The Cruel Prince*, the coronation is the pinnacle of power, politics, and ambition. During the coronation, chaos erupts and Jude takes advantage of the commotion to crown Cardan and bind him to her with a faerie oath. While the coronation may be simply the transfer of political power, for Jude it is also the moment where her ambitions and desires intersect, and a kiss has become indistinguishable from a power play. Coronations? Balls? Tournaments? Religious ceremonies? Trade summits? Seasonal celebrations? Your best court rituals will put your characters in close proximity to each other in a public space when the pressure is at its greatest, and they'll have to perform while their true feelings are struggling to emerge. What kind of ritual in your world would create this dynamic?
-
-### Navigating Court Together
-
-When two characters share an adversarial environment at court as partners, that shared risk builds intimacy. Through this shared experience, they begin to develop private codes of communication, secret signals, shared secrets. They become attuned to reading each other's subtle facial expressions from across a crowded room. The court transforms into a battleground they've survived together, and surviving together is one of the best possible paths towards building a strong romantic connection. In *ACOTAR*, Feyre and Rhysand create a deeper level of commitment to one another by way of performing for the Court of Nightmares as a duo. Their performances are a balancing act of romantic loyalty and the cold calculation of political theatre, using their public roles to protect their people while their private bond continues to grow because of the contrast. The juxtaposition between duties in the public sphere (the House of Wind, the Hewn City) and their personal relationship (the Townhouse in Velaris) mirrors their emotional journey from allies to lovers. Navigating as partners builds intimacy through shared burdens. Navigating as adversaries builds tension through strategic counterplay. Both can lead to romance, but through very different paths. Codes, glances, ways of positioning themselves in a room that only they understand? Where do the masks come off? It doesn't matter if it's a hidden garden, a borrowed room, or a rooftop. It'll always be the contrast between public and private spaces that drives the romantic arc.
+Romantic tension peaks during high-stakes public events: balls, coronations, tournaments. These occasions put your characters in close proximity under maximum pressure, performing while their true feelings struggle to emerge. And when two characters navigate court together, the shared risk builds intimacy. They develop private codes, secret signals, an ability to read each other across a crowded room. The court becomes a battleground they've survived together.
 
 **Does your story take place in a court setting?**
 

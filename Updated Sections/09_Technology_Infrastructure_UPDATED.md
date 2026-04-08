@@ -604,90 +604,23 @@ How difficult is it? What would it require? What are the risks?
 
 ---
 
-## Material Culture
+## Material Culture: Manufacturing & Energy
 
-From documents and identity, we move to the physical objects that surround your characters every day. What characters wear, where they live, and how they spend leisure time creates the sensory texture of your world, and all of it communicates class, status, and belonging. These details are often where characters from different backgrounds first notice the gulf between them.
-
-### Clothing & Textiles
-
-**What materials are clothes made from?**
-*Fabric speaks to wealth, region, and practicality. What your protagonist's clothing communicates before they say a word, and how starkly it contrasts with what the love interest wears, tells the reader everything about the gap between their worlds.*
-
-**How are clothes made?**
-*How clothes are produced affects how easily your characters can disguise themselves, blend into another class, or replace clothing damaged in action.*
-
-Hand-sewn, tailored, mass-produced:
-
-**How complicated is getting dressed?**
-Can people dress themselves, or do they need help? Clothing that requires assistance is a privacy issue, and undressing becomes an act that requires trust.
-
-**What does clothing signal about class and status?**
-*Clothing can be a disguise, a mark of belonging, or an insurmountable barrier. When your characters cross class lines, what they're wearing is the first thing that betrays or protects them, and the first thing a love interest notices.*
-
-**What does your protagonist typically wear? What does your love interest wear? What would each notice first about the other's clothing?**
-
-_______________________________________________________________
-
-### Construction & Architecture
-
-Architecture shapes where intimacy is possible. Thick stone walls muffle sound; timber partitions don't. A tower room isolates; an open longhouse exposes. Whether your characters live in a sprawling palace or a single-room dwelling determines what privacy looks like and what "alone together" actually means.
+The physical infrastructure of your world, how things are made, what powers them, and where people live, shapes what's available, what's scarce, and who holds economic power. For clothing, entertainment, and architecture as cultural expression, see Culture & Customs (Section 3). Here, focus on what's uniquely about technology: how your world produces and powers itself.
 
 **⬥ Core: What are buildings made from, and what does that mean for privacy?**
-*Stone castles, timber halls, mud-brick dwellings. Each creates different atmospheres and different levels of sound isolation.*
+*Stone castles muffle sound; timber partitions don't. A tower room isolates; an open longhouse exposes. What your characters live in determines what "alone together" actually means.*
 
-**What are the most common building materials in your world? Can your characters be heard through the walls?**
-
-_______________________________________________________________
-
-**How tall can buildings be?**
-Height limits shape cityscapes and the symbolic power of towers. What does it mean when someone lives in the highest room, and who has to climb all those stairs to reach them?
-
-**What construction techniques exist?**
-*Construction methods determine what's physically possible in your world, and what rooms, hiding places, and escape routes your characters have access to.*
-
-_______________________________________________________________
-
-**What architectural features are common?**
-
-_______________________________________________________________
-
-**What does a typical home look like for different classes?**
-*Housing shapes daily intimacy. A single-room dwelling where a whole family sleeps means no privacy at all; a sprawling estate means characters can avoid each other for days. What your characters live in determines what "alone together" actually means.*
-
-| Class | Rooms / Layout | Who Shares Space | Where Is Privacy Possible? |
+| Class | Building Type | Sound Isolation | Where Is Privacy Possible? |
 |---|---|---|---|
 | Wealthy | | | |
 | Ordinary | | | |
 | Poor | | | |
 
-### Entertainment & Leisure
-
-**What entertainment exists in your world?**
-*Dances, performances, feasts, games, competitions: these are settings where characters interact outside of duty or danger.*
-
-_______________________________________________________________
-
-**What technology enables entertainment?**
-*The instruments, spaces, and equipment that make entertainment possible also shape where characters gather and what they do together. A ballroom requires musicians; a tournament requires a field. What does your world's entertainment infrastructure look like?*
-
-Musical instruments, game equipment, performance spaces:
-
-**What technologies are luxuries only the wealthy can afford?**
-*Luxury technologies mark class distinction. What would immediately identify someone as wealthy, or as someone pretending to be? When your characters cross class lines, these are the details that betray or protect them.*
-
-**What technologies are available to everyone, and what is completely out of reach for the poor?**
-*Inaccessible technology creates invisible barriers. What would a poor character simply never encounter in their normal life, and how would they react when they first experienced it alongside a love interest who takes it for granted?*
-
-| Category | Examples in Your World |
-|---|---|
-| Available to everyone | |
-| Affordable for middle class only | |
-| Exclusive to the wealthy or powerful | |
-
 ### Manufacturing & Production
 
 **How are goods made in your world?**
-*Individual artisans, guild workshops, magical fabrication, and early factories all produce very different economies and daily lives. How things are made determines what's available, what's scarce, and what counts as valuable.*
+*Individual artisans, guild workshops, magical fabrication, and early factories all produce very different economies. How things are made determines what's available, what's scarce, and what counts as valuable.*
 
 Artisan craftwork? Guild workshops? Magical fabrication? Proto-industrial methods?
 
@@ -717,10 +650,6 @@ _______________________________________________________________
 | Other | | |
 
 **What happens when the primary energy source fails or is cut off?**
-
-_______________________________________________________________
-
-**Is energy access equal, or does it follow class and geographic lines?**
 
 _______________________________________________________________
 
@@ -775,37 +704,23 @@ Who trains, where, and under what conditions? Is training restricted by class, g
 
 ---
 
-## Knowledge & Education
+## Knowledge & Literacy
 
-Weapons determine physical power. Knowledge determines every other kind. Who has access to information and who doesn't, shapes power dynamics in romance just as much as wealth or title. The ability to read when others can't is a particularly significant form of power. In a world where books are hard to come by, the value of giving one as a gift is based on the fact that books are scarce. And the act of teaching someone to read, sharing knowledge, or revealing a hidden library is an act of trust and intimacy that technology level makes possible.
+Knowledge determines who holds power beyond the physical. The ability to read when others can't is a particularly significant form of power. In a world where books are hard to come by, the value of giving one as a gift is based on the fact that books are scarce. And the act of teaching someone to read, sharing knowledge, or revealing a hidden library is an act of trust and intimacy that technology level makes possible.
 
-**What do people write on?**
-*Writing surfaces affect who can communicate in writing and how portable that communication is. A love letter carved into wax is a very different object from one inked on paper, and the material itself signals what the writer had access to.*
+**⬥ Core: Who can read and write, and who can't?**
+*Literacy shapes the power dynamic between your characters more than almost any other technology. If one can read and the other can't, that gap becomes a source of dependency, shame, or intimacy. Teaching someone is an act of trust; being taught is an act of vulnerability.*
 
-Paper, parchment, clay, wax tablets, magical surfaces:
-
-**What do people write with?**
-*Writing tools affect who can communicate in writing and how portable that communication is. A quill and ink require a desk; a charcoal stick works anywhere. What your characters have access to shapes what they can say and where they can say it.*
+Universal literacy? Class-restricted? Gender-restricted?
 
 _______________________________________________________________
 
-**How are books made?**
-*How books are produced determines how scarce they are, and scarcity changes their meaning. In a world where every book is hand-copied, giving one is an act of extraordinary generosity and intimacy.*
+**How scarce is written knowledge?**
+*In a world where every book is hand-copied, giving one is an act of extraordinary generosity. How books are made (hand-copied, printed, magically reproduced) and what people write on (paper, parchment, wax, magical surfaces) determines what knowledge is accessible and to whom.*
 
-Hand-copied, printed, magically reproduced:
+_______________________________________________________________
 
-**How expensive and rare are books?**
-*The scarcity of books affects who has access to knowledge, and how precious a single volume might be as a gift, an inheritance, or a sign of trust between two people who share what others can't access.*
-
-**Who can access education?**
-*Education access shapes the power dynamic between your characters more than almost any other technology. If one can read and the other can't, if one has been trained and the other hasn't, that gap becomes a source of dependency, shame, or intimacy. Teaching someone is an act of trust; being taught is an act of vulnerability.*
-
-Universal? Class-restricted? Gender-restricted? If your characters come from different education levels, how does that gap affect their dynamic? Does one teach the other, and what does that teaching look like?
-
-**Does knowledge create a power dynamic between your characters?**
-*When one character can read and the other can't, when one has access to information the other is denied, the knowledge gap becomes a source of dependency, shame, or intimacy. Teaching someone is an act of trust. Withholding knowledge is an act of control.*
-
-**Does either character have knowledge the other lacks? How does the gap affect their dynamic?**
+**Does either character have knowledge the other lacks, and how does the gap affect their dynamic?**
 *Think about whether one teaches the other, and whether the gap creates dependency, shame, wonder, or trust.*
 
 *(Write your answer below)*
@@ -822,29 +737,17 @@ Universal? Class-restricted? Gender-restricted? If your characters come from dif
 
 If your world has magic, it doesn't exist in a vacuum. It interacts with technology, replaces it, enhances it, or conflicts with it. The key question for romance isn't "how does magic work?" but "who has access to magical solutions and who doesn't?" That asymmetry drives character dynamics.
 
-**Does magic replace certain technologies?**
-*When magic fills a need that technology would otherwise serve, it changes who has access to solutions. If magical heating replaces fireplaces, then characters without magic are left in the cold, literally and figuratively.*
+**How does magic interact with technology in your world?**
+*Magic can replace technology (magical heating instead of fireplaces), enhance it (enchanted items, magitech), or conflict with it (magic interferes with mechanisms). What's the relationship in your world, and what technology doesn't exist because magic fills the need?*
 
-What technology doesn't exist because magic fills the need:
-
-**Does magic enhance technology?**
-*Enchanted items and magitech create a world where some tools are more powerful than they should be, and access to those enhanced tools becomes another axis of inequality between your characters.*
-
-Enchanted items, magitech:
-
-**Do magic and technology conflict?**
-*If magic interferes with technology or vice versa, your characters may have to choose between magical and technological solutions, and that choice reveals what they value and who they trust.*
-
-Does magic interfere with technology or vice versa?
-
-**Who has access to magical vs. technological solutions?**
-*Magic and technology may solve similar problems differently. Which solution is available to your protagonist, and which is beyond reach? The gap between magical and mundane solutions is often the gap between your characters' worlds.*
-
-**How does the magic/technology divide affect your characters' relationship?**
-*When one character has access to magical solutions and the other relies on slower, harder alternatives, the gap creates dependency, resentment, or wonder. This asymmetry is fuel for romantic tension.*
+| Relationship | Does this apply? | Details |
+|---|---|---|
+| Magic replaces technology | | |
+| Magic enhances technology | | |
+| Magic conflicts with technology | | |
 
 **What magical solution does one character have that the other doesn't?**
-*Think about how the character without magic solves the same problem, and whether the divide creates dependency, resentment, wonder, or something else.*
+*The gap between magical and mundane solutions is often the gap between your characters' worlds. Think about how the character without magic solves the same problem, and whether the divide creates dependency, resentment, or wonder.*
 
 *(Write your answer below)*
 
@@ -856,23 +759,8 @@ Does magic interfere with technology or vice versa?
 
 ### Lost or Forbidden Technology
 
-**Did past civilisations have technology now lost?**
-*Lost technology creates mystery and possibility. What ancient wonders might your characters discover or seek, and could the quest to find them bring your characters together or drive them apart?*
-
-**What was lost, why, and could it be rediscovered?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Is any technology restricted or forbidden?**
-*Forbidden technology creates temptation and danger. A character willing to risk punishment to access forbidden knowledge or tools reveals how much they're willing to sacrifice, and a shared secret about forbidden technology binds characters together.*
-
-**What technology is restricted or forbidden? Who restricts it, and what happens if someone uses it anyway?**
+**Is any technology lost, restricted, or forbidden?**
+*Lost technology creates mystery and quest opportunities. Forbidden technology creates temptation and danger. A shared secret about forbidden technology binds characters together. What technology is lost, restricted, or forbidden in your world, and what happens if someone seeks it out?*
 
 *(Write your answer below)*
 

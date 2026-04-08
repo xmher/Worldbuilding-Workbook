@@ -30,21 +30,14 @@ _______________________________________________________________
 
 A pressure cooker works because it's sealed. The heat has no way of escaping so the temperature inside reaches much hotter levels quicker than it would in an open atmosphere. That's what forced proximity does to a romance. It removes the escape valve. Your characters can't walk away, can't take a break, can't give themselves time and space to process what they're feeling. The emotional temperature rises because it has no choice.
 
-Pressure cooker settings do three crucial things for your romance. They remove the option to leave, so your characters are trapped together by geography, obligation, or danger. They force constant interaction, because privacy is limited and they see each other daily or constantly. And they accelerate intimacy, because compressed proximity speeds up relationship development that might take months under normal circumstances.
-
 But the principle isn't just about physical confinement. It's about creating conditions where avoidance is impossible and confrontation, with the other person, with their own feelings, is inevitable. The pressure cooker doesn't create the attraction. It creates the conditions where attraction can't be ignored, where defences are too expensive to maintain, where pretending becomes more exhausting than honesty.
 
 This section will help you design how your setting functions as a pressure system. You'll build the container, fill it with the right people and constraints, and then determine how to turn up the heat until something has to give.
 
 **What are the biggest sources of tension in your world right now?**
-*Think beyond the romance. War, scarcity, political instability, class conflict, magical imbalance. The pressure cooker works best when the world itself is already under strain. Your characters aren't just trapped together; they're trapped together while everything around them is combustible.*
+*Think beyond the romance. War, scarcity, political instability, class conflict, magical imbalance. The pressure cooker works best when the world itself is already under strain.*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**Where in your world is conflict most likely to erupt?**
-*Borders, disputed territories, unstable courts, overtaxed communities. Pressure cookers are most powerful when they sit on top of a fault line, when the external world's tension mirrors and amplifies the interpersonal tension inside the container.*
 
 _______________________________________________________________
 
@@ -103,12 +96,6 @@ Beyond the subtypes, forced proximity creates romantic tension through a set of 
 
 ---
 
-## A Note Before You Begin
-
-Not every question in this section will apply to your story. If your pressure cooker is a journey, you won't need the "who else is watching" prompts the same way someone writing a court setting would. If your characters are magically bonded, the physical confinement questions might matter less than the emotional ones. Skip what doesn't serve your story, dig deep into what does, and come back to the rest if your plot shifts.
-
----
-
 ## Common Mistakes with Forced Proximity
 
 ### Mistake 1: The Pressure Cooker Has No Real Grip
@@ -152,8 +139,6 @@ Not every question in this section will apply to your story. If your pressure co
 Before anything else, answer this: **What prevents your characters from simply avoiding each other?**
 
 The strongest pressure cookers have multiple layers of constraint. When there's one thing holding you back, you may argue with it, bargain for it or get through it. But when physical danger, social obligation, magical binding, and emotional stakes all point in the same direction, avoidance stops being an option and starts being a fantasy the character can't afford.
-
-Each of these constraint types does something different to the romance. Physical constraints create body awareness; when the space is small, you notice how the other person moves, breathes, takes up room. Obligation creates resentment that can curdle into something more complicated. Danger creates reliance, which is one of the fastest routes to intimacy in fiction. Social constraints create performance, and performing a relationship has a way of blurring into feeling one. Magical binding creates an intimacy that bypasses consent, which forces characters to negotiate boundaries they never expected to need.
 
 **Physical constraints** (geography, architecture, locked doors):
 *Physical confinement forces body awareness. They notice how the other person moves, breathes, takes up space.*
@@ -305,28 +290,13 @@ Allies, rivals, authority figures, servants? Others shape what your leads can sa
 
 ___
 
-**What can't your protagonists do because other people are watching?**
-*Must they hide their feelings? Maintain appearances? Compete for attention? Perform a relationship that isn't real (yet)?*
+**What can't your protagonists say or do because other people are watching?**
+*Must they hide their feelings? Maintain appearances? Perform a relationship that isn't real (yet)? The words they swallow and the touches they deny create tension that demands eventual release.*
 
 ___
 
-**Is there a rival for either character's attention?**
-Someone else interested in one of them? A former lover present? Someone they're "supposed" to be with?
-
-___
-
-**Is there an ally who helps them find private moments?**
-Someone who covers for them, creates distractions, keeps secrets?
-
-___
-
-**Is there a threat, someone who would expose or harm them?**
-Someone watching, someone who would report them, someone dangerous?
-
-___
-
-**What can't they say or do because others are present?**
-The words they swallow and the touches they deny create tension that demands eventual release.
+**Is there a rival, an ally, or a threat among the other people present?**
+*A rival competing for attention. An ally who covers for them and creates private moments. A threat who would expose or harm them. These roles shape the social landscape of the pressure cooker.*
 
 ___
 
@@ -356,13 +326,8 @@ Solitude becomes precious in forced proximity. Where do they retreat to process 
 
 ___
 
-**What happens when they're finally alone, truly alone, for the first time?**
-After constant company, the first real privacy:
-
-___
-
-**When do they have extended true privacy?**
-Circumstances that allow them to be genuinely alone together for more than a stolen moment, and what happens:
+**What happens when they're finally alone together for the first time?**
+*After constant company and performance, the first real privacy changes the air. What becomes possible that wasn't before?*
 
 ___
 
@@ -370,11 +335,7 @@ ___
 
 ## Forced Interaction Points
 
-Within your pressure cooker, what specific situations force interaction? There are many of these and they'll be ones you go back to over and over again. So it's worth thinking about why each one matters for the romance, not just the plot.
-
-These are the mundane intimacies, the daily needs that become charged when you're meeting them in someone else's presence. When you share meals, you see how they eat; you watch their choices; you see if they even eat when they're stressed. Sleeping nearby means hearing them breathe, knowing when they have nightmares, being aware of them in the dark. As you repeatedly experience these ordinary yet significant moments of exposure, they build familiarity that bypasses both characters' defences because there's nothing to defend against. It's just breakfast. It's just sleep. Except it isn't.
-
-Cooperation is one of the most powerful forced interaction types because it requires trust, communication, and mutual reliance, all the ingredients of intimacy delivered under the guise of getting a job done.
+Within your pressure cooker, what specific situations force interaction? These are the mundane intimacies, the daily needs that become charged when you're meeting them in someone else's presence. When you share meals, you see how they eat. Sleeping nearby means hearing them breathe, knowing when they have nightmares. These ordinary moments build familiarity that bypasses both characters' defences because there's nothing to defend against. It's just breakfast. It's just sleep. Except it isn't.
 
 **Shared necessities:**
 *These mundane intimacies are where the real connection builds, not through dramatic moments, but through the accumulation of seeing someone eat, sleep, and exist as a human being.*
@@ -395,7 +356,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **Enforced cooperation:**
-*Cooperation is one of the most powerful forced interaction types because it requires trust, communication, and reliance, all the ingredients of intimacy, delivered under the guise of getting a job done.*
+*Tasks that require trust, communication, and reliance deliver all the ingredients of intimacy under the guise of getting a job done.*
 
 | Task They Must Do Together | What It Forces Them to Reveal | How It Shifts the Dynamic |
 | --- | --- | --- |
@@ -405,11 +366,6 @@ _______________________________________________________________
 
 **What daily contact is absolutely unavoidable?**
 What do they have to do together every single day?
-
-___
-
-**How do ordinary people in the setting cope with the same confinement?**
-*Your leads aren't the only ones trapped. Servants, lower-ranking members, civilians: how do people with less power or fewer choices handle the same daily pressures? Their experience can ground the pressure cooker in your world rather than making it feel like it exists only for the romance.*
 
 ___
 

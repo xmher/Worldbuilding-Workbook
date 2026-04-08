@@ -273,19 +273,15 @@ What they want that this location won't allow: ___________________________
 
 ---
 
-#### Time, Atmosphere and Weather
+#### Time and Weather
 
-Locations are fluid. Time and weather alter them as well as the possibilities they create. A garden at noon is exposed; at midnight, it's a different world entirely. Rain forces characters under the same shelter. Snow isolates. Fog hides. The same location can serve entirely different scenes depending on when your characters arrive.
+Locations are fluid. A garden at noon is exposed; at midnight, it's a different world entirely. Rain forces characters under the same shelter. Snow isolates. Fog hides. The same location can serve entirely different scenes depending on when your characters arrive and what the weather is doing.
 
-Time of day also shapes the *type* of romantic tension a space creates. At dawn, there's a sense of vulnerability because both partners were awake all night and the defences each has erected throughout the day have been lowered, and the coming daylight forces a reckoning with what happened in the dark. Midday is exposure, public, nowhere to hide. Dusk is transition, the moment the public person begins to shed their skin to become the private one, the moment the rules of the day start loosening. And midnight is transgression. Nothing good and proper happens at midnight, which is exactly why the best scenes do.
+Time of day shapes the *type* of romantic tension a space creates. Dawn lowers defences -- both partners were awake all night and the coming daylight forces a reckoning. Midday is exposure, public, nowhere to hide. Dusk is transition, the moment the rules of the day start loosening. And midnight is transgression. Nothing good and proper happens at midnight, which is exactly why the best scenes do.
 
-**How does this location change at different times?**
+**What time does your pivotal scene happen here, and why is this the right time?**
 
-*The same space creates completely different romantic tension depending on when your characters arrive. Think about which version serves your scene best.*
-
-**What time of day does your pivotal scene happen here, and how does the space look and feel at that hour?**
-
-*Timing should feel deliberate -- chosen because this version of the space creates the right pressure. Dawn lowers defences. Midday exposes. Dusk loosens rules. Midnight invites transgression.*
+*Timing should feel deliberate -- chosen because this version of the space creates the right pressure. Think about how the space looks, sounds, and feels at the hour your characters arrive.*
 
 *(Write your answer below)*
 
@@ -295,21 +291,9 @@ Time of day also shapes the *type* of romantic tension a space creates. At dawn,
 
 &nbsp;
 
-**Why is this the right time for what happens between your characters?**
+**How do weather or seasons change what's possible in this space?**
 
-_______________________________________________________________
-
-**How does weather change what's possible in this space?**
-
-*Rain forces characters under the same shelter. Snow isolates. Fog hides. Wind makes whispered conversation impossible unless they lean close. Think about whether weather plays a role in the scene that happens here.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How does this location change across seasons?**
-
-*A frozen lake is a road in winter and a barrier in summer. A garden is lush in spring and skeletal in autumn. If your story spans time, the season shapes what the location offers and what it denies.*
+*Rain forces characters under the same shelter. Wind makes whispered conversation impossible unless they lean close. A frozen lake is a road in winter and a barrier in summer. Think about whether weather or seasonal change plays a role in the scene that happens here.*
 
 _______________________________________________________________
 
@@ -377,75 +361,15 @@ _______________________________________________________________
 
 Some of the most electrifying romantic moments happen when the reader knows something about a location that one or both characters don't. This is spatial dramatic irony, and romantasy absolutely thrives on it.
 
-When the reader finds out that Velaris is a hidden paradise before Feyre understands what it means about Rhysand's character, the entire Night Court is operating under a geographic deception; what looks like a kingdom of cruelty is actually a shield protecting a city of starlight. Every scene where Feyre fears Rhysand is charged with the reader's knowledge that he's been protecting something beautiful. In *Fourth Wing*, Xaden knows the truth about Aretia and the venin while Violet navigates Basgiath believing official history. His inability to share the map creates a wall she reads as a lack of trust, when it's actually the opposite.
+When the reader finds out that Velaris is a hidden paradise before Feyre understands what it means about Rhysand's character, every scene where Feyre fears Rhysand is charged with the reader's knowledge that he's been protecting something beautiful. In *Fourth Wing*, Xaden knows the truth about Aretia while Violet navigates Basgiath believing official history. His inability to share the map creates a wall she reads as a lack of trust, when it's actually the opposite.
 
-Spatial irony gives the reader a sense of being complicit. When we know the secret of a location before the protagonist does, we inhabit the same lonely space as the love interest who's keeping that secret. We watch the protagonist misread the geography and ache for the moment of unveiling, which is almost always the moment the romance breaks through.
+Spatial irony gives the reader a sense of being complicit. When we know the secret of a location before the protagonist does, we inhabit the same lonely space as the love interest who's keeping that secret.
 
-**Does the reader know something about this location that one or both characters don't?**
+**Is there a knowledge gap about this location -- between the reader and characters, or between one character and another?**
 
-*Spatial dramatic irony, where the reader knows a location's secret before the characters do, creates complicity between the reader and whoever holds the secret. It's one of the most powerful tools for making readers ache for the reveal.*
-
-_______________________________________________________________
+*Think about: Does the reader know something the characters don't? Does one character know the history, the danger, or the secret of this place while the other is in the dark? Is this location actually something different than what characters believe it to be (a "geographic lie" -- a safe place that's compromised, a feared place that's actually sanctuary)? Knowledge asymmetry turns a location into an emotional minefield and makes the reveal a turning point.*
 
 _______________________________________________________________
-
-**Does one character know something about this space that the other doesn't?**
-
-*Knowledge asymmetry turns a location into an emotional minefield. The character who knows this was a massacre site, or that the room is being watched, carries weight the other can't see, and that invisible weight shapes every interaction.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Does your story have a "geographic lie" -- a place that isn't what characters believe it to be?**
-
-*A place presented as safe that's actually compromised, a place feared that's actually sanctuary, a place believed destroyed that still exists. Geographic lies create powerful tension because revealing the truth about a place is an act of trust.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### Magical Properties
-
-*(Skip if this location has no magical features. Reference Section 10 for your magic system.)*
-
-Some of the most compelling romantasy locations aren't just physical spaces. These settings are often "alive" with magic, responding to, constraining, or transforming the characters within them. In ACOTAR, the House of Wind is aware of Nesta's traumatic fear of fire, so it warms the floors instead of lighting a hearth. The wards in *Fourth Wing* physically bind bonded riders to each other's proximity. The Sin Corridor in *Kingdoms of the Wicked* has the ability to elicit specific emotions from every person that passes through it, bypassing conscious defences entirely.
-
-Why do magical location properties matter for romance? Because they can accomplish things that real-world locations can't: strip away masks, force emotional transparency, mandate proximity through metaphysical bonds, or create sanctuary so complete that even traumatised characters can begin to feel safe. They're not just cool worldbuilding details. They're mechanical tools that enable the intimate moments your story needs.
-
-Does this location have active magical properties -- wards, enchantments, sentience, shifting geography, emotion-responsiveness, truth-compelling features, magical barriers?
-
-**What magical properties does this location have, and how do they affect the characters?**
-
-*Consider wards, sentience, emotional influence, shifting geography, bonding or tethering magic. For each that applies, describe how the magic works here.*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Does the magic here bypass your characters' defences?**
-
-*Emotion-responsive environments, truth-compelling pools, sin-testing corridors -- these spaces force a transparency that characters would never choose voluntarily. If your location has this property, it can accelerate intimacy in a way that feels earned because the space is doing the work, not a convenient change of heart.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Does the magic here create safety, danger, or both?**
-
-*The best magical locations offer something your characters desperately need while simultaneously taking something away. The House of Wind provides sanctuary but also isolation. The wards of Navarre protect but also trap.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How might this location's magical properties change over the course of the story?**
-
-*Wards that weaken, sentient spaces that grow hostile, enchantments that fade or intensify. Shifting magical properties can mirror the shifting relationship.*
 
 _______________________________________________________________
 
