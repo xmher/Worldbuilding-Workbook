@@ -188,15 +188,7 @@ Reference points: Stone Age, Bronze/Iron Age, Medieval, Renaissance, Early Moder
 
 &nbsp;
 
-**How does magic affect technology?**
-*The relationship between magic and technology shapes what solutions are available, and to whom. Crucially, which character has access to magical solutions and which is left relying on slower, harder, non-magical alternatives?*
-
-| Relationship | Does this apply in your world? | Details |
-|---|---|---|
-| Magic replaces technology | | |
-| Magic and technology coexist | | |
-| Magic stunts technological development | | |
-| Magic enhances technology | | |
+*If your world has magic, you'll explore its relationship with technology in detail in the Magic & Technology Integration section below.*
 
 *Cross-check: Does your tech level match your economic system (Section 4)? An industrial economy needs industrial technology. A subsistence economy with advanced tech needs an explanation for why that tech hasn't changed the economy.*
 
@@ -475,11 +467,8 @@ Physicians, healers, midwives, herbalists, magical healers, family members:
 
 Cost? Location? Class? Connections?
 
-**Does magical healing exist?**
-*Magical healing can remove stakes from injuries, unless it has limits, costs, or is inaccessible to your characters. The most effective romantasy healing systems give with one hand and take with the other.*
-
 **Does magical healing exist? How common is it, and what can't it heal?**
-*Think about effectiveness, availability, and cost. The most effective romantasy healing systems give with one hand and take with the other.*
+*Magical healing can remove stakes from injuries, unless it has limits, costs, or is inaccessible to your characters. The most effective romantasy healing systems give with one hand and take with the other. Think about effectiveness, availability, and cost.*
 
 *(Write your answer below)*
 
@@ -629,11 +618,8 @@ _______________________________________________________________
 
 Daily life tells you what's normal for your characters. Now consider what disrupts that normal. Weapons shape who holds physical power and who depends on someone else for protection. The availability of weapons, who is allowed to carry them, and what training exists all determine the physical stakes your characters face.
 
-**What weapons exist?**
-*Available weapons shape both conflict and protection. What your protagonist can fight with, or against, determines the physical stakes of every dangerous scene and how much they depend on the person beside them.*
-
 **What weapons exist in your world?**
-*List examples of melee, ranged, siege, and magical weapons.*
+*Available weapons shape both conflict and protection. What your protagonist can fight with, or against, determines the physical stakes of every dangerous scene and how much they depend on the person beside them. List examples of melee, ranged, siege, and magical weapons.*
 
 *(Write your answer below)*
 

@@ -333,25 +333,11 @@ _______________________________________________________________
 
 ---
 
-**Does this location feel like it has a will of its own?**
+**If this location were a character, what would its personality be -- and how does it seem to respond to the characters?**
 
-*A house that feels welcoming or hostile, a forest that seems to lead them somewhere, a room that holds secrets. Even non-magical locations can feel alive to the characters moving through them.*
-
-_______________________________________________________________
+*Even non-magical locations can feel alive. A house that feels welcoming or hostile, a forest that seems to lead them somewhere, a room that holds secrets. Think about whether the space feels cooperative, obstructive, or indifferent -- and whether it helps them (convenient shelter, paths that lead where they need) or resists them (doors that stick, paths that mislead).*
 
 _______________________________________________________________
-
-**How does the location seem to respond to the characters?**
-
-*Does it help them -- convenient shelter, paths that lead where they need? Resist them -- doors that stick, paths that mislead? Reveal things to them -- hidden rooms, unexpected views? Think about whether the space feels cooperative, obstructive, or indifferent.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**If this location were a character, what would its personality be?**
-
-*Protective, threatening, indifferent, playful, melancholy, ancient, patient? A location's "personality" shapes how characters feel within it -- and a space that feels hostile creates very different scenes than one that feels welcoming.*
 
 _______________________________________________________________
 
@@ -528,33 +514,17 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What did this location mean to them?**
+**What did this location mean to them, and what do they wish they'd done there?**
 
-*What happened there? What did it represent? What possibility did it hold? The weight of a lost location comes from what it meant, not just what it was.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How does losing this place affect them?**
-
-*Grief, loss of sanctuary, loss of possibility, motivation for action? The loss of a meaningful place can drive a character forward or hold them back.*
+*The weight of a lost location comes from what it meant, not just what it was. A conversation never had, a moment never taken, a chance lost -- regret tied to a specific place is one of the most powerful emotional anchors in a story.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What do they wish they'd done there -- but now can't?**
-
-*A conversation never had, a moment never taken, a chance lost. Regret tied to a specific place is one of the most powerful emotional anchors in a story.*
+**How does losing this place affect them -- and does it drive them forward or hold them back?**
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**Does the lost location exist only in memory by the end?**
-
-*A place that lives on only in memory becomes a different kind of location -- one that can never change, only be reinterpreted. This can be a source of comfort or pain.*
 
 _______________________________________________________________
 
@@ -562,37 +532,19 @@ _______________________________________________________________
 
 ## Cross-Location Connections
 
-The transition from one significant location to another is often where the most charged moments happen. The walk from the ballroom to the garden is where hands almost touch. The journey from the city to the wilderness is where the masks of civilisation start slipping. The climb from the base of the tower to the top is where the silence between them says everything. Don't skip transitions just because "nothing happens". The transition between locations is where anticipation builds, where characters are between roles, where the rules of one space have ended but the rules of the next haven't started yet.
-
-**What does the landscape look like between your key locations?**
-
-*Readers need to feel the world between destinations -- not just the destinations themselves. Dense forest, open plains, crowded streets, underground tunnels? The terrain between locations shapes travel time, danger, and how exposed or hidden characters are on the journey.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How do your locations physically connect to each other -- roads, paths, waterways, portals?**
-
-*The route between locations matters as much as the locations themselves. A single narrow road means characters can be tracked or ambushed. A secret tunnel means they can meet unseen. A river means they share a boat. The connection shapes the story.*
-
-_______________________________________________________________
-
-_______________________________________________________________
+The transition from one significant location to another is often where the most charged moments happen. The walk from the ballroom to the garden is where hands almost touch. The journey from the city to the wilderness is where the masks of civilisation start slipping. Don't skip transitions just because "nothing happens." The transition between locations is where anticipation builds, where characters are between roles, where the rules of one space have ended but the rules of the next haven't started yet.
 
 **Pick one transition between two of your key locations. What happens emotionally during the journey?**
 
-*The space between locations is where characters are between roles. The rules of one space have ended but the rules of the next haven't started yet. This liminal zone is where hands almost touch, where silence says everything, where masks start slipping. Don't skip it.*
+*The space between locations is where characters are between roles. This liminal zone is where hands almost touch, where silence says everything, where masks start slipping. Think about the terrain, the route (road, tunnel, portal?), and whether they travel together or apart.*
 
 _______________________________________________________________
 
 _______________________________________________________________
-
-### Variety Check
 
 **Do your key locations feel different from each other?**
 
-Look at your key locations. Do you have a mix of:
+*Look at your key locations and check whether you have variety across these dimensions:*
 
 ☐ Public vs. private
 
@@ -600,49 +552,17 @@ Look at your key locations. Do you have a mix of:
 
 ☐ Forced proximity vs. chosen meeting
 
-☐ Beautiful vs. harsh
-
-☐ Familiar vs. unknown
-
 ☐ Their territory vs. neutral ground vs. enemy territory
 
-**If several of your locations feel similar, what could you change about one to create more contrast?**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What one detail makes each key location instantly recognisable?**
-
-*Every location needs a signature -- something a reader could identify in a single sentence. The constant wind, the smell of sulfur, the way sound echoes. If you can't name it, the location may not be distinct enough yet.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-### Movement Between Locations
-
-**How do your characters travel between key locations -- and do they travel together or apart?**
-
-*A shared journey builds anticipation. Arriving separately creates the electric moment of seeing each other in a new context. Think about the mode of travel too: horseback, carriage, on foot, by portal. Each shapes the journey differently.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What happens between your characters during the journey from one key location to the next?**
-
-*Transitions aren't dead space. They're the moments where the rules of one space have ended and the rules of the next haven't started yet. Characters are between roles, and that's when the most honest moments slip through.*
-
-_______________________________________________________________
+*If several of your locations feel similar, what could you change about one to create more contrast?*
 
 _______________________________________________________________
 
 ### The Arc of Locations
 
-**How do your locations progress through the story?**
+**How do your locations progress through the story, and where does the romantic climax happen?**
 
-*Do they move from public to private? Safe to dangerous? Familiar to unknown? Constraint to freedom? The arc of locations should mirror the arc of the relationship.*
+*The arc of locations should mirror the arc of the relationship -- public to private, safe to dangerous, constraint to freedom. Your romantic climax location is probably the most important one you'll choose. It should tie in with events at prior locations while offering something new, rewarding readers who've been paying attention to the geography of the relationship.*
 
 Beginning locations: ______________________________________________
 
@@ -652,50 +572,13 @@ Climax location: _________________________________________________
 
 Resolution location: ______________________________________________
 
----
+**Why is the climax location the right place for the decisive moment?**
 
-## The Final Location
-
-Your romantic climax location is probably the most important location you'll choose in your entire novel. This is where everything converges: the moment of greatest emotional vulnerability, the final confession, the decisive choice. A well-chosen final location should tie in with events that occurred at prior locations while offering something new. They reward readers who've been paying attention to the geography of the relationship.
-
-**Where does the romantic climax happen?**
-
-The moment of greatest emotional vulnerability, final confession, or decisive choice:
-
-_______________________________________________________________
-
-**Why is this the right place for this moment?**
-
-Does it echo earlier locations? Represent how far they've come? Offer something they've never had before? Force a final confrontation they've been avoiding?
+*Does it echo earlier locations? Represent how far they've come? Force a final confrontation they've been avoiding? The contrast between the first significant location and the last tells the story of the relationship in spatial terms.*
 
 _______________________________________________________________
 
 _______________________________________________________________
-
-**How is this location different from where they started?**
-
-The contrast between the first significant location and the last tells readers the story of the relationship in spatial terms. If they started in a public court and end in a private room, that's a story about finding intimacy. If they started in safety and end on a battlefield, that's a story about what they're willing to risk.
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-## The Location Test
-
-A well-designed location does at least two of these:
-
-- ☐ Forces physical proximity (must stand close, touch, share space)
-- ☐ Creates danger requiring cooperation (must work together to survive)
-- ☐ Provides privacy for vulnerability (can finally speak freely)
-- ☐ Makes intimacy risky (discovery would have consequences)
-- ☐ Offers something one character needs (forcing them into the other's domain)
-- ☐ Mirrors emotional state (space reflects their bond)
-- ☐ Changes meaning as the relationship evolves (same place, different significance)
-- ☐ Has history that resonates (past events echo in the present moment)
-
-For each of your key locations, check at least two boxes. If a location doesn't manage at least two, revise it: add a constraint, raise the stakes, build in history, adjust the symbolism.
 
 ---
 
@@ -712,41 +595,41 @@ Your key locations don't exist in isolation. They're shaped by every system you'
 | Technology (Section 9) | How do lighting, heating, construction, and tools shape what's possible? | No magical lighting means firelight only, which means closeness, shadows, intimacy |
 | Institutions (Section 14) | Do locations exist within institutional spaces: academies, courts, military camps? | A stolen moment in a corner of the academy carries institutional risk: expulsion, punishment, scandal |
 
-*Locations that are grounded in your existing world feel real, and real places create more powerful romantic moments than invented-on-the-spot ones. These connections also ensure your locations don't contradict what you've already established.*
+*Locations that are grounded in your existing world feel real, and real places create more powerful romantic moments than invented-on-the-spot ones.*
 
-**How do terrain, climate, and natural features shape your key locations (Section 1)?**
-
-*Think about how the physical geography constrains or enables what happens in each space -- a mountain pass is narrow and exposed, a coastal cave floods at high tide.*
+**For each of your key locations, note any connections to the systems above that you haven't yet considered.**
 
 _______________________________________________________________
 
-**What plants, creatures, or natural elements appear at your locations (Section 2)?**
-
-*Flora and fauna create atmosphere, danger, and sensory detail. Bioluminescent moss provides eerie light. Predators limit when characters can travel. Medicinal herbs give a reason to visit.*
+_______________________________________________________________
 
 _______________________________________________________________
 
-**What cultural meaning do any of your locations carry (Section 3)?**
+---
 
-*Sacred sites, forbidden zones, traditional gathering places -- cultural significance adds weight to any scene set there, especially if characters are breaking taboos.*
+## Optional Deep Dive: Magical Properties
+
+*(Skip if your key locations have no magical features. Reference Section 10 for your magic system.)*
+
+Some of the most compelling romantasy locations are "alive" with magic -- responding to, constraining, or transforming the characters within them. The House of Wind in ACOTAR senses Nesta's fear of fire and warms the floors instead of lighting a hearth. The wards in *Fourth Wing* physically bind bonded riders to each other's proximity. The Sin Corridor in *Kingdoms of the Wicked* elicits specific emotions from every person that passes through it, bypassing conscious defences entirely. Magical properties matter for romance because they can strip away masks, force emotional transparency, mandate proximity, or create sanctuary so complete that even traumatised characters can begin to feel safe.
+
+**What magical properties does this location have, and how do they affect the characters?**
+
+*Consider wards, sentience, emotional influence, shifting geography, bonding or tethering magic, truth-compelling features. The best magical locations offer something your characters desperately need while simultaneously taking something away -- the House of Wind provides sanctuary but also isolation.*
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**Does the magic here bypass your characters' defences, and how might it change over the course of the story?**
+
+*Emotion-responsive environments and truth-compelling spaces force a transparency that characters would never choose voluntarily. And magical properties that shift -- wards that weaken, enchantments that intensify -- can mirror the shifting relationship.*
 
 _______________________________________________________________
-
-**What historical events happened at or near your locations (Section 7)?**
-
-*Battlefields, ruins, sites of tragedy or triumph. Historical weight gives a location gravity that pure description can't.*
-
-_______________________________________________________________
-
-**How do your world's technology and infrastructure shape these spaces (Section 9)?**
-
-*Lighting, heating, construction, and tools shape what's possible. No magical lighting means firelight only -- which means closeness, shadows, and intimacy.*
-
-_______________________________________________________________
-
-**Do any of your locations sit within institutional spaces (Section 14)?**
-
-*Academies, courts, military camps, temples. Institutional locations carry built-in rules and consequences -- a stolen moment in the academy risks expulsion, not just embarrassment.*
 
 _______________________________________________________________
 

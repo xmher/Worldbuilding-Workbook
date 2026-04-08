@@ -1138,17 +1138,9 @@ _______________________________________________________________
 
 ### Espionage as Proximity
 
-What spying does for characters is put them in charged close proximity. Intelligence gathering involves being close, observing behaviour patterns, finding vulnerabilities. As soon as the intelligence-gathering targets the same individual as the character's potential love interest, the lines of distinction become blurred rapidly between professional surveillance and obsessive personal focus. In *The Cruel Prince*, Jude accepts membership into Prince Dain's intelligence organisation, the Court of Shadows, as a strategic move to gain leverage in a world where her mortality has made her extremely vulnerable. As a spy, she's required to observe the royal family closely, and through that observation she comes to know Cardan's private vulnerabilities: the abuse he endured, the isolation beneath his cruelty. The dynamic between them is fuelled by this difference in knowledge. Jude now understands the private pain Cardan has experienced, and that understanding is beginning to become entwined with her growing, unwanted desire for him. In *ACOTAR*, Feyre goes back to the Spring Court in *A Court of Wings and Ruin* to deliberately act as a spy and create events that will disassemble Tamlin's power from within. The difference that makes this a romantic beat is the comparison to her prior relationship: Tamlin used "safety" as a reason to control her, while Rhysand trusts her enough to share intelligence at a very high level and allows her to maintain complete autonomy over her decisions. Together they develop a deeper connection through the burden of strategy they share. The espionage serves not just the war plot; it demonstrates the equal partnership they have. Formally (as an assigned spy) or informally (watching, learning, figuring out who they really are)? When a spy finds out something that humanises their subject, something that causes them to see beyond the political role to the person beneath, that's one of the most powerful romantic beats in the genre. What does your character find out?
+Spying puts characters in charged close proximity. Intelligence gathering involves being close, observing behaviour patterns, finding vulnerabilities, and the lines between professional surveillance and personal fascination blur fast. In *The Cruel Prince*, Jude's work as a spy requires her to observe the royal family closely, and through that observation she comes to know Cardan's private vulnerabilities. In *ACOTAR*, Feyre's espionage at the Spring Court demonstrates her equal partnership with Rhysand, who trusts her with intelligence and autonomy in ways Tamlin never did.
 
-**Is either character spying on or gathering intelligence about the other?**
-
-*Espionage creates charged proximity. When your character is watching someone closely for strategic reasons, that observation often blurs into personal fascination.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does your character discover that humanises their target?**
+**Is either character spying on or gathering intelligence about the other? What do they discover that humanises their target?**
 
 *The moment a spy sees past the political role to the person beneath is one of the most powerful romantic beats in the genre.*
 
@@ -1160,39 +1152,15 @@ _______________________________________________________________
 
 ### The Revelation
 
-The moment a secret is revealed is the most structurally important romantic beat in any story built on hidden identities. It's the point where the relationship either deepens or shatters, and it forces both characters to choose what they value more: the safety of the lie or the risk of the truth.
+The moment a secret is revealed is the most structurally important romantic beat in any story built on hidden identities. It forces both characters to choose what they value more: the safety of the lie or the risk of the truth.
 
-In *Serpent & Dove*, when Reid discovers Lou is a witch, his first response is to declare they're "not really married." Both of them have to address their preconceived notions due to this revelation. But the story doesn't stop there. Reid's own identity crisis, discovering that he possesses magic himself, dismantles his certainty and forces him to choose between the Church's doctrine and the woman he loves. The revelation isn't a single moment; it's a cascade that strips away everything both characters thought they knew.
+Craft note: the most effective revelations aren't clean. They cascade. One secret leads to another. The first revelation forces a re-evaluation; the second forces a crisis; the third forces a choice. In *Serpent & Dove*, the revelation isn't just that Lou is a witch. Reid's own identity crisis, discovering that he possesses magic himself, dismantles his certainty and forces him to choose between the Church's doctrine and the woman he loves. In *Fourth Wing*, the political secret (the Venin exist) is forgivable. The personal betrayal (Xaden knew Violet's brother was alive for six years) is what nearly destroys them.
 
-In *Fourth Wing*, the revelation that the Venin exist and that Navarre has lied for centuries is a seismic shift. But what nearly destroys the relationship is the discovery that Xaden knew Violet's brother Brennan was alive for six years while she grieved him. The political secret is forgivable. The personal betrayal, layered on top of the political one, is what turns the relationship from a forbidden romance into an ideological conflict.
+After the reveal comes the hard work. Words aren't enough. What concrete action does the character who lied take to rebuild trust? Understanding someone's motivations doesn't mean automatically forgiving them, but understanding is usually the first step.
 
-Craft note: the most effective revelations aren't clean. They don't happen in one conversation. They cascade. One secret leads to another. The first revelation forces a re-evaluation; the second forces a crisis; the third forces a choice. With each layer stripped away, your characters are left standing in front of each other with nothing left to hide.
+**When and how is the secret revealed?**
 
-Early (and the story is about navigating the aftermath)? At the midpoint (raising the stakes for the second half)? At the climax (forcing the final choice)?
-
-Voluntary confession? Accidental discovery? Betrayal by a third party? Forced by circumstances?
-
-Some revelations deepen the bond. Some shatter it. Some do both at once. The answer depends on what was hidden, why it was hidden, and whether the one who lied can offer something more than "sorry."
-
-### Trust After Betrayal
-
-After the big reveal, the heavy lifting begins. The cat's out of the bag. Now what? A great many romantasy novels will put the two main characters through a time of separation after the reveal: the third-act breakup. Not only is this dramatic, it provides a lot of room for character growth for each of them. The party who kept the secret has to come to terms with the damage their actions caused. The party who was deceived has to figure out if knowing why someone betrayed them is enough, or if they require some other type of reconciliation. In *Fourth Wing*, Violet comes to realise she's in the same boat with her friends that Xaden was in with her: lying to the people you love to protect them. That comparison doesn't take away from the betrayal, but it gives Violet a new way to view it. Their relationship grows into maturity when she goes from "you lied to me" to "I see why, and I am still hurt." Words aren't nearly as important as actions at this point. What tangible, concrete item can they provide? Just because you understand why someone acted a certain way, it doesn't mean you're automatically forgiving them. You can understand someone's motivations and still be hurt by what they did. However, most times, understanding is the first step. Usually the person who was deceived gains the upper hand morally, and the person who lied typically has their standing diminished. How does this shift affect the relationship going forward?
-
-**When in the story is the secret revealed?**
-
-*Early (and the story is about the aftermath)? Midpoint (raising second-half stakes)? Climax (forcing the final choice)?*
-
-_______________________________________________________________
-
-**How is the secret revealed?**
-
-*Voluntary confession? Accidental discovery? Betrayal by a third party? Forced by circumstances?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Does the revelation deepen or shatter the bond?**
+*Early (story is about the aftermath)? Midpoint (raising stakes)? Climax (forcing the final choice)? Voluntary confession, accidental discovery, or betrayal by a third party?*
 
 _______________________________________________________________
 
@@ -1200,20 +1168,16 @@ _______________________________________________________________
 
 **If your secret unravels in layers, map the cascade:**
 
-*The most effective revelations aren't one conversation. They're a chain reaction. Each layer stripped away raises the stakes.*
-
 | Layer | What's Revealed | What It Forces |
 |-------|----------------|----------------|
-| *First revelation* | *Xaden knew about the Venin* | *Re-evaluation of everything he's said* |
+| *Example* | *Xaden knew about the Venin* | *Re-evaluation of everything he's said* |
 | First revelation | | |
 | Second revelation (deeper) | | |
 | Third revelation (forces the choice) | | |
 
 **What does trust look like after the betrayal?**
 
-*Words aren't enough. What concrete action does the character who lied take to rebuild trust?*
-
-_______________________________________________________________
+*What concrete action does the character who lied take to rebuild trust?*
 
 _______________________________________________________________
 

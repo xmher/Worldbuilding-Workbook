@@ -274,7 +274,7 @@ The animals people have tamed shape daily life, economy, and culture. How someon
 
 #### ***⬥ Core** What animals have been domesticated in your world?*
 
-*Think about what your protagonist interacts with daily. Which animals reveal character through how people treat them?*
+*Think about what your protagonist interacts with daily. Which animals reveal character through how people treat them? Include magical creatures if any have been domesticated.*
 
 **What domesticated animals exist in your world? For the 2-3 most important, describe their purpose, what they are, and who keeps them.**
 
@@ -286,21 +286,11 @@ The animals people have tamed shape daily life, economy, and culture. How someon
 
 &nbsp;
 
-#### *Are there domesticated magical creatures?*
+#### *Do your main characters have animal companions?*
 
-*If so, what are they used for and who has access to them?*
+*How someone treats their animal reveals character. Does the animal accept or resist the other character? That small moment of acceptance can mark relationship progression.*
 
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-#### *Does your protagonist have an animal companion?*
-
-*How someone treats their animal reveals character. What does this companion show readers about your protagonist?*
-
-**Does your protagonist have an animal companion? If so, what is it, what is its name, and what does the animal mean to them?**
+**Does your protagonist or love interest have an animal companion? Describe the animal, its name, what it means to them, and how it reacts to the other character.**
 
 *(Write your answer below)*
 
@@ -310,63 +300,11 @@ _______________________________________________________________
 
 &nbsp;
 
-#### *Does your love interest have an animal companion?*
+#### *Could an animal create intimacy or reveal character in your story?*
 
-*Does the animal accept your protagonist? That small moment of acceptance can mark relationship progression.*
+*Stables are private and physical. Sharing a saddle forces contact. Caring for an injured creature together builds domestic intimacy. A wildlife encounter where each reacts differently reveals who they really are. What animal-adjacent moment could show up in your story?*
 
-**Does your love interest have an animal companion? If so, what is it, what is its name, and what does the animal mean to them?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
----
-
-#### *Could a stable, shared ride, or animal-care scene create intimacy in your story?*
-
-*Stables are private, physical, domestic. Two people grooming a horse side by side strips away social performance. Sharing a saddle forces contact that neither character can avoid. Where could this kind of animal-adjacent intimacy show up in your story?*
-
-**Describe a scene where an animal creates physical proximity or emotional intimacy between your characters.**
-
-*What's the scenario and how does it play out?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
----
-
-#### *Do your characters encounter wildlife together?*
-
-*Shared encounters reveal who each person truly is. What might show your protagonist a new side of the love interest?*
-
-**Describe a wildlife encounter your characters share. How does each react differently?**
-
-*What does the contrast reveal about them?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#### *Do your characters care for an animal together?*
-
-*Shared caregiving builds domestic intimacy and reveals nurturing instincts. What creature might bring them together?*
-
-**Could your characters care for a creature together? What creature, and why does it need care?**
-
-*What does the shared experience create between them?*
+**Describe a scene where an animal creates physical proximity, emotional intimacy, or character revelation between your characters.**
 
 *(Write your answer below)*
 
@@ -535,16 +473,13 @@ The moment a bond forms should feel earned, not assigned. The strongest bonding 
 
 | Category | Examples |
 |----------|----------|
-| **Flying Creatures** | Dragons, wyverns, griffins, phoenixes, rocs, pegasi, hippogriffs, thunderbirds, harpies |
-| **Shapeshifters** | Werewolves, werecats, skinwalkers, selkies, kitsune, tanuki, doppelgangers, mimics |
-| **Aquatic** | Merfolk, sea serpents, krakens, sirens, kelpies, selkies, leviathans, water horses, naiads |
-| **Forest & Nature** | Unicorns, treants, dryads, will-o'-wisps, sprites, satyrs, centaurs, giant spiders, dire wolves |
-| **Undead & Dark** | Vampires, wraiths, banshees, revenants, liches, specters, ghouls, wights, death hounds |
-| **Elemental** | Fire salamanders, ice wyrms, earth golems, storm spirits, magma beasts, frost giants, djinn |
-| **Fae & Spirits** | Pixies, brownies, redcaps, bogarts, pucks, changelings, banshees, will-o'-wisps, sluagh |
-| **Chimeric & Hybrid** | Chimeras, manticores, sphinxes, cockatrices, basilisks, hydras, perytons, owlbears |
-| **Bonded/Familiar Types** | Ravens, cats, owls, snakes, foxes, wolves, small dragons, fire lizards, shadow hounds |
-| **Giant Versions** | Giant eagles, dire bears, mammoth wolves, enormous boars, colossal serpents, titanic stags |
+| **Flying** | Dragons, wyverns, griffins, phoenixes, pegasi, thunderbirds |
+| **Shapeshifters** | Werewolves, selkies, kitsune, skinwalkers |
+| **Aquatic** | Merfolk, sea serpents, krakens, sirens, kelpies |
+| **Forest & Nature** | Unicorns, dryads, centaurs, dire wolves, treants |
+| **Fae & Spirits** | Pixies, brownies, redcaps, changelings, will-o'-wisps |
+| **Chimeric & Dark** | Chimeras, manticores, basilisks, vampires, wraiths, banshees |
+| **Bonded/Familiar Types** | Ravens, cats, wolves, small dragons, fire lizards, shadow hounds |
 
 #### ***⬥ Core** What magical creatures exist in your world?*
 
@@ -582,21 +517,17 @@ _______________________________________________________________
 
 ---
 
-#### *Do any creatures in your world bond with humans?*
+### Creature Bonds
 
-*If no, skip to the next section.*
+*If no creatures in your world bond with humans, skip to the next section.*
 
-_______________________________________________________________
+The creature bond often parallels the romantic bond -- two beings learning to trust each other. The strongest bonding scenes share a structure: crisis, then choice, then fusion. Tairn bonds with Violet because she risks her life to defend a weaker dragon. Manon chooses the battered "bait beast" everyone dismissed.
 
-_______________________________________________________________
+#### ***⬥ Core** How do creature bonds work in your world?*
 
-#### *How does the bond form?*
+*How does the bond form -- what crisis or choice triggers it? What does it provide (communication, shared senses, extended lifespan)? What does it cost (shared pain, responsibility, behavioural changes)?*
 
-*The strongest bonding scenes share a structure: crisis, then choice, then fusion. Tairn bonds with Violet because she risks her life to defend a weaker dragon. Manon chooses the battered "bait beast" everyone dismissed. What crisis and choice could trigger the bond in your story?*
-
-**How does the bond form in your world?**
-
-*What crisis triggers it? What choice reveals character? Why does the creature respond?*
+**Describe your creature bond: how it forms, what it gives, and what it demands.**
 
 *(Write your answer below)*
 
@@ -606,27 +537,11 @@ _______________________________________________________________
 
 &nbsp;
 
-#### *What does the bond provide?*
+#### *Do your main characters have bonded creatures?*
 
-*Communication? Shared senses? Telepathy? Empathic connection? Shared magic? Extended lifespan?*
+*Bonded creatures create shared responsibility and parallel romantic bonds. If both characters have bonded creatures, how do the creatures relate to each other -- do they mirror the romantic tension?*
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### *What does the bond cost or demand?*
-
-*Responsibility? Shared pain? Shortened human lifespan? Behavioral changes?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### *Do your characters have bonded creatures?*
-
-*Bonded creatures create shared responsibility and parallel romantic bonds. How might these relationships mirror or contrast with the romance?*
-
-**If both characters have bonded creatures, describe each: What type of creature, what is its name, and what is the nature of the bond?**
+**Describe each character's bonded creature (type, name, nature of bond) and how the creatures interact with each other.**
 
 *(Write your answer below)*
 
@@ -636,17 +551,9 @@ _______________________________________________________________
 
 &nbsp;
 
-#### *If both characters have bonded creatures, how do the creatures relate to each other?*
+#### *Is the creature bond separate from romance?*
 
-*Do the creatures reflect the romantic tension? Mirror the relationship's progression? Create obstacles or opportunities for the characters?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### *Could the characters have the creature bond without having a romantic relationship?*
-
-*Are there bonded rider pairs who aren't romantically involved? Is romance a separate thing from creature partnership?*
+*Are there bonded pairs who aren't romantically involved? Does the bond create circumstances for love, or does it dictate romantic outcomes? (The best bonds create proximity and shared responsibility, but love still has to be built.)*
 
 _______________________________________________________________
 

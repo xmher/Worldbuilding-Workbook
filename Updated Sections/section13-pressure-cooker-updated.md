@@ -529,9 +529,7 @@ There's a certain time in forced proximity when all the tension builds up to a b
 
 In romantasy, this is often represented by using the worldbuilding to create an image of what's occurring with the characters as the break point happens. In *Fourth Wing*, when Violet and Xaden let go of their control over their emotions while in close proximity, their magic explodes throughout the area creating an image of their unspoken connection. Maas represents this same concept in a similar fashion. When Feyre's powers get out of control during moments of extreme emotional intensity, the magic shows visually what she's feeling but hasn't expressed verbally. The world reacts to the breaking point.
 
-One of the most obvious ways that romantasy has an advantage over contemporary romance is in providing a clear visual representation of the breaking point. The ice cracking beneath her feet. The shadows reaching out to her involuntarily. The wards flaring when he gets too close. The use of magic provides a vocabulary to describe the moment of transition from internal strain to an external release, and the end product is a satisfying, visceral payoff for the prolonged build-up of slow-burn pressure.
-
-However, the breaking point needs to feel like it was earned. There needs to be multiple examples of the character resisting their desires, staying composed in a situation that would normally elicit a reaction, swallowing words, and carefully maintaining distance. The reason the release is so effective is that the reader has witnessed the characters holding themselves back for such a long period of time that the eventual breakdown seems almost unavoidable. The longer the restraint, the bigger the release.
+One of the most obvious ways that romantasy has an advantage over contemporary romance is in providing a clear visual representation of the breaking point. The ice cracking beneath her feet. The shadows reaching out to her involuntarily. The wards flaring when he gets too close. Magic provides a vocabulary for the moment of transition from internal strain to external release, and the end product is a satisfying, visceral payoff for the prolonged build-up of slow-burn pressure. But the breaking point needs to feel earned. The reader must have witnessed the characters holding themselves back long enough that the eventual breakdown seems almost unavoidable. The longer the restraint, the bigger the release.
 
 **What does the pressure-release moment look like in your story?**
 A confession? A kiss? A fight that turns into something else? Magic that escapes? A moment of vulnerability that can't be taken back?
@@ -592,18 +590,6 @@ Do they escape? Complete the mission? Confess feelings? Get external rescue? Doe
 
 ___
 
-**What happens when the systems inside the pressure cooker break down?**
-*Supply lines fail. Authority figures lose control. Rules stop being enforced. Alliances fracture. When the structure that held the pressure cooker together starts to crack, the characters lose their routines, their safety nets, and their excuses for maintaining distance. What breaks first in your setting, and how does that breakdown force your characters closer together, or threaten to tear them apart?*
-
-___
-
-**What does each character stand to lose personally if the pressure cooker fails?**
-*Not the plot stakes, the personal ones. A shot at redemption, a family member's safety, their reputation, their sense of identity. The higher the personal cost of failure, the more the confinement weighs on them, and the more they need the other person, whether they admit it or not.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ---
 
 ## How Confinement Changes Them
@@ -661,13 +647,13 @@ That's the beat that separates good forced proximity from great forced proximity
 
 ### The Three Possible Responses
 
-There are three ways people typically react when the external pressure of their confinement is lifted, and your decision on which way they react will shape your post-proximity story's emotional arc.
+There are three ways people typically react when the external pressure is lifted, and your decision shapes the post-proximity emotional arc.
 
-**They cling.** Either one or both characters will attempt to keep the closeness going by trying to recreate the same confined space, seeking each other out, or simply refusing to accept that things have changed. Cloying as this may be at times, clinging can also be a signal that the character still hasn't figured out what they're feeling; they've become dependent on the closeness, not the individual themselves.
+**They cling.** One or both characters attempt to keep the closeness going, seeking each other out, refusing to accept that things have changed. Clinging can signal that the character has become dependent on the closeness itself, not the individual.
 
-**They pull away.** Upon achieving freedom, the panic sets in. Because there's no longer an external justification for the feelings, they now stand revealed as a choice rather than a requirement. That's frightening. Pulling away is the most common and generally the most interesting response, since it requires the character to endure the pain of the absence and ultimately find out what they truly miss. Once two people are separated, there's an unexplainable feeling of loss, and a different type of ache that can't be rationalised or explained away.
+**They pull away.** Without external justification, the feelings stand revealed as a choice rather than a requirement. That's frightening. Pulling away requires the character to endure the pain of absence and ultimately discover what they truly miss.
 
-**They test.** After a while, the character begins to create opportunities for contact. Not the forced, daily, unavoidable contact of the pressure cooker, but deliberate, chosen moments. Sending a message that didn't need to be sent. Making a visit that didn't need to happen. These tests allow your characters to confirm that the relationship exists outside of the confines that made it necessary.
+**They test.** The character creates deliberate opportunities for contact. Sending a message that didn't need to be sent. Making a visit that didn't need to happen. These tests confirm the relationship exists outside the confines that made it necessary.
 
 **How does each character respond when the pressure cooker ends?**
 *Characters often respond differently from each other. One might cling while the other pulls away, and that mismatch creates its own tension.*
@@ -702,63 +688,25 @@ This is a key worldbuilding question. If your world has magical bonds, instituti
 
 ### What the Absence Reveals
 
-What the absence of the pressure cooker reveals is what your character actually misses. If they miss the *person*, the connection is real. If they miss the *situation*, the excitement, the danger, the intensity, the connection may not survive peacetime. Be honest about this distinction, because readers will know if you've forced a happy ending the story hasn't earned.
-
-Secrets kept during confinement, habits formed together, guilt about things said or done: these pressures often resonate long after the physical confinement has ended. The pressure cooker can create a new kind of emotional prison even after the walls come down.
+What the absence reveals is what your character actually misses. If they miss the *person*, the connection is real. If they miss the *situation*, the excitement, the danger, the intensity, the connection may not survive peacetime. Be honest about this distinction, because readers will know if you've forced a happy ending the story hasn't earned.
 
 **When the pressure cooker ends, what changes?**
 Is it sudden (the siege breaks, the mission ends) or gradual (the constraints loosen over time)?
 
 ___
 
-**What does each character do first when they're free?**
-Do they seek each other out, or do they pull away? Why?
-
-___
-
 **What do they miss: the person, or the situation?**
-Be honest. The answer might be different for each character, and it might not be flattering.
-
-___
-
-**How has the world outside the pressure cooker changed while they were inside?**
-*The world doesn't pause while your characters are confined. Alliances shift, wars progress, seasons turn. What do they walk out into, and how does the changed world create new pressures or remove old ones?*
+*Be honest. The answer might be different for each character, and it might not be flattering.*
 
 ___
 
 **What lingers after the pressure cooker period?**
-*Confinement leaves traces. Consider: secrets kept during confinement, habits formed together, sensory memories that ambush them, guilt about things said or done, knowledge of vulnerabilities seen, and private jokes or rituals.*
+*Confinement leaves traces: secrets kept, habits formed together, sensory memories that ambush them, knowledge of vulnerabilities seen, private jokes or rituals.*
 
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+___
 
 **What act of choice proves the connection is real?**
 Not a grand gesture necessarily. Sometimes it's small: a message sent, a door left open, a return that didn't have to happen. What does the character do when they're free that proves they'd choose this person without the pressure?
-
-___
-
-**Can the relationship survive without the external pressure that created it?**
-This is the honest question. Some relationships are forged in the fire and tempered by freedom. Others were only possible because the fire was burning. Which is yours?
-
-___
-
----
-
-## The Diagnostic Question
-
-**If my characters tried to walk away from each other right now, what would stop them?**
-
-If the answer is "nothing" or "they'd feel bad," your pressure cooker doesn't have enough grip. Strong answers involve severe consequences: execution for desertion, a magical bond that would kill them, the mission failing and people dying. Weak answers (guilt, awkwardness, missing each other) can layer on top of strong constraints, but they're not enough on their own.
-
-*See also the diagnostic in Section 14: Institutions & Structures, which tests whether your institutional constraints have enough grip to hold.*
-
-**What is the cost of separation in your story?**
-The consequences should be severe enough that staying together isn't just convenient but necessary.
 
 ___
 
@@ -766,7 +714,9 @@ ___
 
 ## Integration Check
 
-Your pressure cooker doesn't exist in isolation. It's built from the worldbuilding you've already done. Check these connections:
+**Diagnostic question: If my characters tried to walk away from each other right now, what would stop them?** If the answer is "nothing" or "they'd feel bad," your pressure cooker doesn't have enough grip. Strong answers involve severe consequences: execution for desertion, a magical bond that would kill them, the mission failing and people dying. Weak answers (guilt, awkwardness, missing each other) can layer on top of strong constraints, but they're not enough on their own. *(See also Section 14: Institutions & Structures, which tests whether your institutional constraints have enough grip to hold.)*
+
+Your pressure cooker is built from the worldbuilding you've already done. Check these connections:
 
 | Worldbuilding Element | How It Feeds Your Pressure Cooker | Example |
 | --- | --- | --- |

@@ -163,6 +163,22 @@ If your characters could simply walk away, your geography needs to make that imp
 
 ---
 
+## Reference: Travel Times
+
+*These are real-world estimates. Feel free to adjust for your world; magic, flying creatures, or difficult terrain will change things. Refer back to this table when planning distances between locations.*
+
+| Mode of Travel | Distance per Day | Notes |
+|----------------|------------------|-------|
+| Walking (comfortable pace) | 15-20 miles / 25-32 km | Healthy adult with breaks |
+| Forced march | 25-30 miles / 40-50 km | Exhausting, not sustainable |
+| Riding (sustainable) | 25-35 miles / 40-55 km | One horse, regular rest |
+| Hard ride | 40-50 miles / 65-80 km | Tiring the horse |
+| Changing horses (relay) | 80-100 miles / 130-160 km | Fresh mounts at stations |
+| Sailing ship (favorable wind) | 100-150 miles / 160-240 km | Highly variable |
+| Carriage/wagon | 20-30 miles / 32-50 km | Roads required |
+
+---
+
 ## The Big Picture: Your World's Scale
 
 #### **⬥ Core** What's the geographic scope of your story?
@@ -332,15 +348,7 @@ In romantasy, naming matters most when your characters come from different cultu
 
 #### Do your characters' naming conventions signal cultural distance?
 
-*If your characters come from different cultures, distinct naming patterns instantly tell readers "these people are not the same." Would someone from Kingdom A struggle to pronounce names from Kingdom B?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### Where could naming differences create a quiet intimacy beat?
-
-*A character stumbling over an unfamiliar name, asking what a place name means, or learning that their love interest's homeland translates to something beautiful: these are small moments that build closeness. Where in your story could the act of learning someone's language or place names become a romantic gesture?*
+*If your characters come from different cultures, distinct naming patterns instantly tell readers "these people are not the same." A character stumbling over an unfamiliar name, asking what a place name means, or learning that their love interest's homeland translates to something beautiful can be a quiet intimacy beat.*
 
 _______________________________________________________________
 
@@ -393,14 +401,6 @@ Resource control drives romantic conflict: the arranged marriage to secure a tra
 &nbsp;
 
 &nbsp;
-
-#### What geographic resource creates tension or conflict in your world?
-
-*Water rights? Arable land? Trade routes? Does the conflict show up as war, political marriage, trade embargo, or something subtler?*
-
-_______________________________________________________________
-
-_______________________________________________________________
 
 > **Continue in Section 4**
 >
@@ -625,35 +625,9 @@ _______________________________________________________________
 
 ## Home & Belonging
 
-#### **⬥ Core** Where does your protagonist feel at home?
+#### **⬥ Core** Where does your protagonist feel at home, and where does your love interest feel at home?
 
-*The place that shaped them, where they feel most themselves:*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### What does home look, smell, sound like to them?
-
-*The sensory details that mean "home":*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### Where does your love interest feel at home?
-
-*The place that shaped them, where they're most themselves. How different is it from your protagonist's home?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### Where does each character feel like an outsider?
-
-*Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?*
-
-**Where does each of your main characters feel most out of place, alien, uncomfortable, or unwelcome? Why?**
+*The places that shaped them, where they feel most themselves. How different are these two places? What sensory details mean "home" for each of them?*
 
 *(Write your answer below)*
 
@@ -662,6 +636,14 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
+
+#### Where does each character feel like an outsider?
+
+*Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 ## Entering Each Other's Worlds
@@ -672,13 +654,9 @@ Bringing someone to your home territory is an act of vulnerability. The visitor'
 
 ## Entering Each Other's Worlds
 
-#### Does one character visit the other's home territory?
-
-*Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?*
-
 **When one character visits the other's world, what does the visitor notice first?**
 
-*Who visits whom? What is the host proud of, and what would they rather hide? What everyday moment creates unexpected intimacy?*
+*Who visits whom? What is the host proud of, and what would they rather hide? What everyday moment creates unexpected intimacy? Bringing someone home is an act of vulnerability.*
 
 *(Write your answer below)*
 
@@ -688,27 +666,9 @@ Bringing someone to your home territory is an act of vulnerability. The visitor'
 
 &nbsp;
 
-#### What's the sensory experience of entering unfamiliar territory?
+#### How does seeing each other's world change both characters?
 
-*What do they notice first? What's strange? What's beautiful? What's uncomfortable?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### How does the "native" character see their home differently through the visitor's eyes?
-
-*Pride? Shame? New appreciation? Defensiveness?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### What does the visitor understand about their partner after seeing where they come from?
-
-*Place explains people. What becomes clear about your love interest once you see where they grew up?*
+*Place explains people. What does the visitor understand about their partner after seeing where they grew up? How does the "native" see their own home differently through a visitor's eyes: pride, shame, new appreciation, defensiveness?*
 
 _______________________________________________________________
 

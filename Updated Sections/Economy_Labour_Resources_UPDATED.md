@@ -582,9 +582,6 @@ _______________________________________________________________
 
 Debt muddies the waters of consent. Every time one character owes another (money, a life debt, magical service, bonded labour), every interaction is shadowed by the question: are they choosing this freely, or because they have to? In romantasy, debt is often both literal and magical: bargain tattoos, supernatural obligations, souls signed as collateral. The best debt romances let both characters wrestle with the ambiguity rather than resolving it quickly.
 
-**Is either character in debt?**
-Debt creates obligation, and obligation clouds consent. Does debt to the love interest (or a third party) complicate the romance?
-
 **If a character carries a debt: To whom is it owed? For what? What happens if they can't repay? Is it magically enforced? How does the debt affect their ability to say yes or no to the romance?**
 
 *(Write your answer below)*
@@ -595,86 +592,21 @@ Debt creates obligation, and obligation clouds consent. Does debt to the love in
 
 &nbsp;
 
-**How does this debt affect the romance?**
+**Does a life debt, magical obligation, or economic arrangement bind your characters together?**
 
-Does it force them together? Keep them apart? Create shame or obligation between them?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Life Debts & Magical Obligations**
-
-**In your world, can saving someone's life create a binding debt?**
-
-*A life debt between lovers poisons every tender moment with the question: is this gratitude or love? Name the debt so you can track how it shadows the romance.*
-
-| Type of Life Debt | Does It Exist in Your World? | How Is It Enforced? | How Does It End? |
-|---|---|---|---|
-| Cultural obligation | | | |
-| Magical compulsion | | | |
-| Legal requirement | | | |
-| Other: | | | |
-
-**Does either character owe such a debt, or is owed one?**
-
-*If the answer is yes, every romantic gesture between them is shadowed by obligation. The reader needs to feel that shadow before the characters can step out of it.*
+*Life debts between lovers poison every tender moment with the question: is this gratitude or love? Economic arrangements (marriage of convenience, employment, alliance for mutual benefit) force the same question. Name the binding and how it shadows the romance.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
----
+**Could the wealthy character simply buy their way out of obstacles? If yes, why don't they?**
 
-## Economic Arrangements
-
-**Could economic necessity force your characters into an arrangement?**
-
-Marriage for money? Employment? Alliance for mutual benefit?
-
-**If your characters have an economic arrangement (marriage of convenience, etc.), describe: What is the arrangement? Why is it necessary? What does each party get?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**How does each character deal with being pushed into this arrangement?**
-
-Do they resent it? Accept it? Try to escape it? Fall in love despite it, or struggle to trust their feelings because of it?
+*If someone offered your character money to walk away from the relationship, what would they do? This question reveals what the relationship is really worth.*
 
 _______________________________________________________________
 
 _______________________________________________________________
-
-**The "Buying" Problem**
-
-Could the wealthy character simply buy their way out of obstacles? If yes, why don't they?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-Could someone try to buy one of your characters, offer money to leave, marry someone else, betray their partner?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**If someone offered your character money to walk away from the relationship, what would they do?**
-
-*This question reveals what the relationship is really worth to each character. Think about who might make the offer: a disapproving parent, a rival, an employer, and what amount would even make your character hesitate.*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 ---
 
@@ -682,9 +614,7 @@ _______________________________________________________________
 
 When one character employs the other (bodyguard and monarch, healer and commander, governess and lord), work creates proximity, but it also creates a power dynamic. The employer can terminate, punish, or destroy the employee's livelihood. If you're writing this dynamic, you need to address the imbalance directly.
 
-**Does one character employ the other?**
-
-**If one character employs the other: Who employs whom? What is the nature of the employment? Can the employee leave freely? What would they lose by refusing advances? What would they lose by accepting?**
+**If one character employs the other: Who employs whom? Can the employee leave freely? What would they lose by leaving, and what do they risk by staying?**
 
 *(Write your answer below)*
 
@@ -694,37 +624,21 @@ When one character employs the other (bodyguard and monarch, healer and commande
 
 &nbsp;
 
-**What type of binding keeps the employee in place, and can they leave?**
-
-| Binding Type | Can They Leave? | How You'll Show Consent Is Real |
-|---|---|---|
-| Hired for wages | Yes, but may lose livelihood | |
-| Bonded service / apprenticeship | Not without cost: loss of magic, status, or protection | |
-| Institutional conscription | No: the institution owns their service | |
-| Magical contract / soul oath | No: breaking the bond has supernatural consequences | |
-
 **How does the less powerful character demonstrate genuine choice?**
 
-*The reader needs evidence that the less powerful character is choosing freely. Consider: Do they develop feelings independently of the power dynamic? Does the powerful character prove that "no" has no consequences? Does the less powerful character hold moral authority the other needs?*
+*The reader needs evidence that the less powerful character is choosing freely. Do they develop feelings independently of the power dynamic? Does the powerful character prove that "no" has no consequences? Does the less powerful character hold moral authority the other needs?*
 
 _______________________________________________________________
 
 _______________________________________________________________
-
-**What would it cost the employee to walk away, and what would it cost them to stay?**
-
-| If They Walk Away | If They Stay |
-|---|---|
-| What do they lose? (income, protection, access, proximity to the person they want) | What do they risk? (reputation, autonomy, being seen as bought) |
-| What do they gain? (freedom, self-respect, independence) | What do they gain? (security, closeness, the relationship itself) |
 
 ---
 
 ## Economic Independence & Dependence
 
-**Before the relationship, how economically independent is each character?**
-
 **How economically independent is each character? Could they survive on their own?**
+
+*What changes about each character's financial life because of the relationship? Does one gain security they never had? Does one lose independence? If one becomes dependent, how do they feel: secure, trapped, grateful, resentful? Could they survive financially if the relationship ended?*
 
 *(Write your answer below)*
 
@@ -734,57 +648,9 @@ _______________________________________________________________
 
 &nbsp;
 
-**What changes about each character's financial life because of the relationship?**
-
-*Does one gain security they never had? Does one lose independence they took for granted? The economic shift that comes with partnership can feel like rescue or like a trap, sometimes both at once.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**If one becomes economically dependent on the other, how do they feel about it?**
-
-Secure? Trapped? Grateful? Resentful? Anxious about what happens if the relationship ends?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What would each character do if the relationship ended?**
-
-Could they survive financially? Would they be ruined? Is economic fear part of what keeps them together?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What power does the provider hold, and do they know it?**
-
-*Economic dependence gives the provider leverage whether they want it or not. Does the dependent partner resent it? Does the provider use it, consciously or not?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-## Labour & Occupation in Romance
-
-What people do for work isn't just how they earn money. It's how they spend most of their waking hours, what skills they develop, and often how they see themselves.
-
-*You've already mapped your characters' occupations and economic positions in the exercises above. Now focus on how their work shapes the romance itself: the daily rhythms, the proximity or distance, and the friction between their professional worlds.*
-
 **Where and when can your characters actually see each other, given their jobs?**
 
-*Same workplace? Completely separate worlds? Does one employ the other? Do their schedules mean they can only meet at midnight? The logistics of work create the logistics of love.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What work does either character hide or feel ashamed of?**
-
-*Shameful work carries a specific kind of romantic weight. If the love interest discovers what the protagonist really does, is that a betrayal of trust or an invitation to deeper intimacy? The shame shapes what they hide and what they reveal.*
+*Same workplace? Completely separate worlds? Do their schedules mean they can only meet at midnight? The logistics of work create the logistics of love.*
 
 _______________________________________________________________
 
