@@ -466,19 +466,17 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-#### What seasons exist and how distinct are they?
+#### What seasons exist and what season is your story set in?
 
-*Traditional four seasons? A long winter and brief summer? Magical seasons tied to something other than the sun?*
-
-_______________________________________________________________
+*Traditional four seasons? A long winter and brief summer? Magical seasons? Seasons create mood and constraint. What does this season make possible for your romance, and what does it prevent?*
 
 _______________________________________________________________
 
-#### What season is your story set in?
+_______________________________________________________________
 
-*Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent?*
+#### How do seasons create pressure in your world?
 
-**Pick the most story-relevant season in your world. What does this season make possible, and what does it make impossible?**
+*When can armies march? When do ships sail? When must everyone stay indoors? Is there a deadline tied to the season, like racing against winter or waiting for spring thaw?*
 
 *(Write your answer below)*
 
@@ -487,28 +485,6 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
-
-#### How do seasons affect life in your world?
-
-*When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors?*
-
-**For each season (summer/warm, winter/cold, transitional), what becomes possible and what becomes impossible in your world?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#### Does the season create pressure or opportunity in your story?
-
-*Racing against winter? Waiting for spring thaw? Only able to travel in summer?*
-
-_______________________________________________________________
-
-_______________________________________________________________
 
 > **Cross-check:** Does your climate support the flora and fauna you'll build in Section 2? If you've got tropical creatures in a frozen wasteland, something needs adjusting!
 
@@ -562,53 +538,27 @@ Dangerous regions raise stakes and force partnership. When survival becomes the 
 &nbsp;
 
 ---
-## Borders & Boundaries
+## Borders, Barriers & Boundaries
 
 The strongest borders aren't lines on a map. They're lines in the characters' minds. A character raised believing everyone across the mountains is a barbarian will carry that border long after the physical one has been crossed. Borders also create "in-between" spaces, neutral zones where the most honest conversations happen.
 
+Geographic barriers create romantic stakes: mountains that make travel seasonal, oceans that make departure feel permanent, magical borders that one character can cross and the other can't, class geography where crossing from the slums to the palace district means social ruin. The type of barrier you choose shapes how crossable it feels, and how much it costs when someone pays that price.
+
 ---
 
-## Borders & Boundaries
+## Borders, Barriers & Boundaries
 
-#### **⬥ Core** What geographic features create borders?
+#### **⬥ Core** What geographic features create borders in your world, and how crossable are they?
 
-*Mountains, rivers, and oceans don't just separate land; they separate peoples, and the assumptions each side makes about the other. The feature you choose shapes how crossable the border feels.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### How permeable are these borders?
-
-*A border that's easy to cross creates a different kind of forbidden love than one that's physically impassable. The harder the crossing, the more it costs, and the more that cost means when someone pays it.*
+*Mountains, rivers, oceans, magical barriers, class geography? A border that's easy to cross creates a different kind of forbidden love than one that's physically impassable. The harder the crossing, the more it costs, and the more that cost means when someone pays it.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-#### Do your characters come from opposite sides of a significant border?
+#### **What geographic or political border separates your characters, and what does crossing it cost?**
 
-*Borders create "us" and "them." What assumptions would each character have about someone from the other side?*
-
-**What geographic or political border separates your characters, and what does crossing it cost?**
-
-*Consider: legal, social, and personal consequences. Is there any in-between space where they can meet?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#### What assumptions does each character carry about the other side?
-
-*The strongest borders are internal. What does each character believe, casually, without thinking, about people from their love interest's side? And what moment first cracks that assumption?*
-
-**What does your protagonist assume about the love interest's people, and what moment shatters that assumption?**
-
-*Answer for the love interest too: what do they assume about the protagonist's people, and when does that break?*
+*Consider: legal, social, and personal consequences. Is there any in-between space where they can meet? What assumptions does each character carry about the other side, and what moment shatters those assumptions?*
 
 *(Write your answer below)*
 
@@ -790,20 +740,6 @@ When you write separation by distance, show its weight through what characters *
 &nbsp;
 
 &nbsp;
-
-#### Travel Time Reference
-
-*These are real-world estimates. Feel free to adjust for your world; magic, flying creatures, or difficult terrain will change things.*
-
-| Mode of Travel | Distance per Day | Notes |
-|----------------|------------------|-------|
-| Walking (comfortable pace) | 15-20 miles / 25-32 km | Healthy adult with breaks |
-| Forced march | 25-30 miles / 40-50 km | Exhausting, not sustainable |
-| Riding (sustainable) | 25-35 miles / 40-55 km | One horse, regular rest |
-| Hard ride | 40-50 miles / 65-80 km | Tiring the horse |
-| Changing horses (relay) | 80-100 miles / 130-160 km | Fresh mounts at stations |
-| Sailing ship (favorable wind) | 100-150 miles / 160-240 km | Highly variable |
-| Carriage/wagon | 20-30 miles / 32-50 km | Roads required |
 
 #### How long does travel take between key locations?
 

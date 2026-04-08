@@ -264,32 +264,10 @@ _______________________________________________________________
 
 &nbsp;
 
-**What travel infrastructure exists?**
-*Roads, inns, and rest stops determine whether journeys are manageable or desperate. Where does infrastructure fail, and where might your characters find themselves alone, off the map, beyond observation?*
+**What travel infrastructure exists, and where does it fail?**
+*Roads, inns, and rest stops determine whether journeys are manageable or desperate. When infrastructure breaks down, isolation follows, and isolation is where romantasy thrives. A collapsed bridge, a flooded road, a burned way station: these strand characters together and force intimacy.*
 
-**What do the roads, bridges, ports, inns, and stables look like in your world?**
-*Think about quality and coverage. Are roads paved or dirt? Are bridges reliable? How far apart are inns or way stations?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Who builds and maintains roads, bridges, and ports?**
-*When infrastructure breaks down, isolation follows, and isolation is where romantasy thrives. Knowing who maintains the roads and bridges tells you where they'll fail, and where your characters might find themselves stranded together.*
-
-Government? Local lords? Guilds? No one?
-
-_______________________________________________________________
-
-**What happens when infrastructure breaks down?**
-*A collapsed bridge, a flooded road, a burned way station: these failures strand characters, reroute journeys, and create the kind of isolation that forces intimacy. Knowing where your infrastructure is fragile tells you where your plot can strand your characters together.*
-
-**What infrastructure is most likely to fail, and what happens when it does?**
-*A collapsed bridge, a flooded road, a burned way station: these failures strand travellers and create isolation.*
+**What do the roads, bridges, ports, and inns look like? Who maintains them, and where are they most likely to fail?**
 
 *(Write your answer below)*
 
@@ -298,14 +276,6 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
-
-**What exists beyond the roads?**
-*Beyond maintained infrastructure lies wilderness, danger, and freedom from observation.*
-
-**What lies in the areas between settlements, away from maintained roads?**
-*Think about terrain, wildlife, dangers, and whether anyone lives there. When might your characters venture off the map together?*
-
-_______________________________________________________________
 
 ---
 
@@ -781,7 +751,6 @@ You've covered the systems. Now pull together your answers from earlier sections
 | Travel: how do they get around? | | |
 | Communication: how do they reach each other when apart? | | |
 | Privacy: where can they be unobserved? | | |
-| Servants/attendants: who witnesses their private life? | | |
 | Medical access: what healing is available to them? | | |
 | Contraception: what's available and what are the risks? | | |
 | Documentation: could they marry secretly? | | |
@@ -857,7 +826,6 @@ Now that you've built the physical, social, and technological reality of your wo
 | Communication speed | | Letters: 5 days between cities; bonded items: instant but rare |
 | Communication security | | Letters can be intercepted; magical comms private but traceable |
 | Privacy level | | Low: thin walls, servants present, court surveillance |
-| Servant presence | | Protagonist has none; love interest has three attendants always present |
 | Medical capabilities | | Healing magic exists but can't cure poison or illness |
 | Contraception availability | | Herbal methods known but unreliable; magical prevention expensive |
 | Documentation requirements | | Marriage requires witnesses and temple record; births unrecorded in rural areas |

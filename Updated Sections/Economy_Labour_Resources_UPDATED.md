@@ -467,33 +467,17 @@ _______________________________________________________________
 
 ## The Wealth Gap Dynamic
 
-If your characters have different socio-economic statuses, show the gap through concrete details: the wealthy character casually ordering something the other couldn't afford in a month, the poor character flinching at prices. Show both perspectives: the wealthy character's obliviousness and the poor character's survival knowledge the wealthy one lacks. When the wealth gap causes tension, give the characters time to struggle with pride, obligation, and doubt.
+If your characters have different socio-economic statuses, show the gap through concrete details: the wealthy character casually ordering something the other couldn't afford in a month, the poor character flinching at prices. Show both perspectives: the wealthy character's obliviousness and the poor character's survival knowledge the wealthy one lacks.
 
-**What can the wealthier character provide that the other can't access alone?**
-Safety? Comfort? Opportunity? Legal protection? Social access?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does the less wealthy character bring that money can't buy?**
-Skills? Knowledge? Magical ability? Street smarts? Moral clarity?
+**What can the wealthier character provide that the other can't access alone, and what does the less wealthy character bring that money can't buy?**
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**Who holds the power because of the wealth gap, and how do they use it?**
-Does one depend on the other? Is there resentment? Does the wealthy one use money as control?
+**How does each character feel about the gap, and how do they show it (or hide it)?**
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How do they each feel about the gap?**
-Shame? Guilt? Obliviousness? Resentment? These feelings may never be spoken aloud, but they shape every interaction.
-
-**How does each character feel about the wealth gap between them, and how do they show it (or hide it)?**
+*Shame? Guilt? Obliviousness? Resentment? These feelings may never be spoken aloud, but they shape every interaction. Give them time to struggle with pride, obligation, and doubt.*
 
 *(Write your answer below)*
 
@@ -507,42 +491,11 @@ Shame? Guilt? Obliviousness? Resentment? These feelings may never be spoken alou
 
 ## Money, Gifts & What They Mean
 
-Money and gifts between romantic partners are never simple. For the giver, a gift can be an expression of care or a substitute for harder things. For the receiver, it can feel like love made tangible or like charity. The most effective gift scenes focus not on expensive objects but on being seen. The gift that says "I noticed what you needed" carries more romantic weight than a chest of gold.
+Money and gifts between romantic partners are never simple. The most effective gift scenes focus not on expensive objects but on being seen. The gift that says "I noticed what you needed" carries more romantic weight than a chest of gold.
 
-**What does it mean in your culture for one person to give money or expensive gifts to another?**
+**What does it mean in your culture for one person to give money or gifts to another? Where is the line between generosity and buying someone?**
 
-Romantic? Controlling? Insulting? Expected? Does meaning differ based on who gives and who receives?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Where is the line between a generous gift and buying someone?**
-
-*In your world's culture, what separates a thoughtful gesture from an uncomfortable display of wealth? The answer might differ depending on who's giving and who's receiving.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**If the wealthier character offers to pay for something, how does the other feel?**
-Grateful? Humiliated? Obligated? Suspicious of motives?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What would it mean for the less wealthy character to refuse help?**
-
-Pride? Independence? Proving the relationship isn't about money? What would they sacrifice by refusing?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Has money created a misunderstanding or conflict between your characters?**
-
-A gift taken wrong? An offer that insulted? A refusal that hurt?
+*Is it romantic, controlling, insulting, expected? Does meaning differ based on who gives and who receives? If the wealthier character offers to pay, does the other feel grateful, humiliated, or obligated?*
 
 _______________________________________________________________
 
@@ -602,9 +555,6 @@ Does she submit to it, subvert it, or use it as a tool for her own goals? The an
 
 &nbsp;
 
-**What does the contract force them to do that they wouldn't choose freely?**
-Forced proximity only creates tension if it's genuinely forced. What specific obligation does the contract impose: living together, appearing in public as a couple, physical contact, sharing information?
-
 **At what moment does the contract stop being the reason they stay?**
 This is the romantic turning point. The obligation hasn't changed, but the motivation has. When does "I have to be here" become "I want to be here"?
 
@@ -614,9 +564,9 @@ _______________________________________________________________
 
 ### Inheritance & Economic Marriage
 
-**What does each character stand to inherit?**
+**What does each character stand to inherit, and does marrying the "right" or "wrong" person affect it?**
 
-**What does each character stand to inherit, or what have they been denied?**
+*Inheritance creates economic pressure that pushes characters toward strategic marriages and away from love matches. Can they be disinherited? Is either character being pressured to marry for economic reasons, and what would they lose by refusing?*
 
 *(Write your answer below)*
 
@@ -625,36 +575,6 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
-
-**Does marrying the "right" or "wrong" person affect inheritance?**
-
-Can they be disinherited? Do they inherit more for marrying strategically?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Does your culture have dowries, bride prices, or marriage payments?**
-
-Who pays whom, and how does this create obstacles?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Is either character being pressured to marry for economic reasons?**
-
-By whom? What would they lose by refusing?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-### ✦ Checkpoint: Contracts and Constraints
-
-*Pause and look at your answers so far. Are the economic pressures on your romance consistent? If your character is being pressured into a marriage for money, does the wealth gap you established earlier explain why? If inheritance is at stake, does it connect to the class system you built? Make sure the personal stakes grow out of the world you've designed, not around it.*
 
 ---
 

@@ -423,17 +423,11 @@ ___
 
 If your protagonist has been isolated, sheltered, or touch-starved before the forced proximity begins, the pressure cooker hits differently. The proximity doesn't just bring them close to the love interest. It brings them close to experiences, sensations, and freedoms they've never had. The love interest becomes tangled up in all of it: the first person who touched them gently, the first person who treated them as capable, the first person whose presence felt like safety instead of surveillance.
 
-**Does your protagonist enter the pressure cooker from a place of deprivation?**
-*If they've been sheltered, isolated, touch-starved, or denied agency before the forced proximity begins, the experience will hit differently. The love interest doesn't just become a romantic possibility; they become tangled up in the protagonist's first taste of freedom, touch, or choice.*
-
-What has your protagonist been denied before the pressure cooker?
+**What has your protagonist been denied before the pressure cooker?**
 
 _______________________________________________________________
 
-How does the love interest become associated with those first experiences?
-*The first person who touched them gently. The first person who treated them as capable. The first person whose presence felt like safety instead of surveillance:*
-
-_______________________________________________________________
+**How does the love interest become associated with those first experiences?**
 
 _______________________________________________________________
 
@@ -464,9 +458,7 @@ ___
 
 Daily routines that are formed during confinement develop a pattern. In these routines, individual moments are magnified. And it's the quiet beat of "I have to" becoming "I want to" that's one of the most powerful patterns in a romance.
 
-Consider Feyre's evening dinners with Rhysand and the Inner Circle in *A Court of Mist and Fury*. The first time they happen, they're an expectation. She's moved into the townhouse and dinner is being served; there's no other option than to go. However, over time the dinners become a part of her recovery process. She begins to look forward to seeing him and the others. She even notices when someone is missing from the table. The routines become safe havens for her, and the individual that created this routine becomes a part of that sense of security.
-
-This is the impact of daily routines on individuals in forced proximity. Routines create intimacy via the repetition of experience and not through momentous revelations. A single dinner doesn't revolutionise everything. But the sum total of the experiences and the familiarity that develops through repetition, the joking between each other, the way you can tell someone's mood based on the position of their fork, that type of connection is what captivates the reader.
+Consider Feyre's evening dinners with Rhysand and the Inner Circle in *A Court of Mist and Fury*. The first time they happen, they're an expectation. She's moved into the townhouse and dinner is being served; there's no other option than to go. However, over time the dinners become a part of her recovery process. She begins to look forward to seeing him and the others. She even notices when someone is missing from the table. Routines create intimacy via repetition, not momentous revelations. A single dinner doesn't revolutionise everything. But the sum total of the experiences, the joking, the way you can tell someone's mood based on the position of their fork, that type of connection is what captivates the reader.
 
 **What daily routines develop in the confined space?**
 
@@ -499,11 +491,9 @@ ___
 
 ## Relief & Breathing Room
 
-Constant pressure isn't sustainable, for characters or for readers. Moments of relief make the pressure meaningful by contrast.
+Constant pressure isn't sustainable, for characters or for readers. Moments of relief make the pressure meaningful by contrast. They're also where your characters process what's happening to them: reflecting on the moment that got under their skin, starting to realise they're in trouble.
 
-Relief beats serve a crucial narrative function: they're where your characters process what's happening to them. During high-pressure scenes, your leads are reacting, surviving, performing. In the calmness that follows those intense moments, your characters will reflect on what they experienced, relive the moment that got under their skin, and start to realise they're in trouble.
-
-Relief is also where the romantic arc becomes visible *to the characters themselves*. Early in forced proximity, a moment alone is exactly that: blessed solitude, a break from the person driving them mad. But there's a turning point, and it's one of the most satisfying beats you can write. The moment when a character gets the solitude they wanted and realises they don't want it anymore. They want the other person there. That realisation is quiet, and it changes everything.
+Relief is where the romantic arc becomes visible *to the characters themselves*. Early in forced proximity, a moment alone is blessed solitude, a break from the person driving them mad. But there's a turning point, and it's one of the most satisfying beats you can write. The moment when a character gets the solitude they wanted and realises they don't want it anymore. They want the other person there. That realisation is quiet, and it changes everything.
 
 **When does the pressure temporarily release?**
 Moments when they can be apart, when danger pauses, when they get privacy or solitude:

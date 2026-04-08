@@ -193,25 +193,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-#### *How does your climate shape intimacy and romance?*
+#### *How does your natural world create pressure, revelation, or connection between your characters?*
 
-*A glove removed in a freezing world means something different from bare skin in a tropical one. What does your climate make scarce or intimate?*
-
-**What specific climate element affects your romance, and how?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#### *How does wilderness create pressure, revelation, or connection between your characters?*
-
-*The natural world can pressure characters together, reveal who they really are, or connect them through shared experience. Which does your story use?*
-
-**For each function that applies, describe the specific wilderness element and what it forces, reveals, or creates.**
+*Climate can shape intimacy (a glove removed in a freezing world means something). Wilderness can force proximity, reveal character, or connect through shared experience. What specific element of your natural world affects your romance, and how?*
 
 *(Write your answer below)*
 
@@ -401,7 +385,7 @@ _______________________________________________________________
 
 *Your animals need to eat, and so do your people. Let's look at what grows in your world.*
 
-## Agriculture, Wild Plants & Forageing
+## Food & Sustenance
 
 If your world has Earth-like agriculture, skip the basics and focus on what's unique: magical crops, supernatural plants, or specific foods that matter to your story.
 
@@ -409,19 +393,11 @@ Land is power. Whoever controls the farmland controls the people on it, and scar
 
 ---
 
-#### ***⬥ Core** What are the staple crops?*
+#### ***⬥ Core** What do people eat, grow, and gather?*
 
-*The grains, roots, or plants that feed most people:*
+*What staple crops feed most people? What animals are raised for food? What's foraged from the wild? Food shapes daily life more than almost anything else.*
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### *What non-food crops are important?*
-
-*Cloth, medicine, and intoxicants shape daily life. What might your characters wear, use for healing, or drink?*
-
-**Beyond staple food, what fiber, medicinal, and intoxicant plants exist in your world? What are they used for?**
+**List your world's staple foods (crops, livestock, foraged) and any non-food crops that matter (fibre, medicine, intoxicants).**
 
 *(Write your answer below)*
 
@@ -431,11 +407,23 @@ _______________________________________________________________
 
 &nbsp;
 
-#### *How does food, land, or agriculture create tension in your romance?*
+#### ***⬥ Core** What's dangerous to eat, and who knows the difference?*
 
-*Land is power. Scarcity forces alliances. Harvest festivals blur social boundaries. A character who splits their last loaf of bread with a stranger has earned the right to fall in love. What agricultural reality puts pressure on your characters' relationship?*
+*What your characters know about wild plants reveals where they've been and how they've survived. A gap in knowledge between your characters is a gap in experience, and that's where romantic tension lives.*
 
-**How does agriculture or the harvest cycle create a romantic opportunity or obstacle in your story?**
+**What plants or creatures in your world are dangerous to eat? Who would know and who wouldn't?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+#### *Could food, land, or plant knowledge create a romantic moment or obstacle?*
+
+*Scarcity forces alliances. Harvest festivals blur social boundaries. One character teaching the other to forage -- fingers brushing over leaves, the "powerful" one suddenly dependent on the "ordinary" one who knows which mushrooms won't kill them. What food-related moment could matter in your story?*
 
 *(Write your answer below)*
 
@@ -448,48 +436,6 @@ _______________________________________________________________
 ---
 
 Give a few plants unique names, appearances, and properties your readers can track. When plants have specific, memorable properties, they become tools you can use throughout your story.
-
----
-
-#### ***⬥ Core** What can be gathered from the wild, and what's dangerous?*
-
-*What your characters know about wild plants reveals where they've been and how they've survived. A gap in knowledge between your characters is a gap in experience, and that's where romantic tension lives.*
-
-**What plants in your world are safe to eat and which are dangerous?**
-
-*Who would know the difference and who wouldn't? Could this knowledge gap matter in your story?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#### *Who knows forageing skills?*
-
-*Rural common knowledge? Specialised profession? Lost art? Class-dependent? Consider whether this creates a knowledge gap between your characters, because the one who knows plants holds quiet power over the one who doesn't.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### *Could a forageing or plant-knowledge scene build your romance?*
-
-*One character teaching the other to find food. Fingers brushing over leaves. The "powerful" one suddenly dependent on the "ordinary" one who knows which mushrooms won't kill them. Could this reversal or intimacy work in your story?*
-
-**Which character knows about plants and which is out of their depth?**
-
-*What does this knowledge gap reveal about each of them? What intimate moment could forageing create?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 ---
 

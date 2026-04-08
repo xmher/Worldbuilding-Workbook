@@ -1058,33 +1058,17 @@ All court characters wear a mask, and the romantic tension is created by moments
 
 Romantic tension peaks during high-stakes public events: balls, coronations, tournaments. These occasions put your characters in close proximity under maximum pressure, performing while their true feelings struggle to emerge. And when two characters navigate court together, the shared risk builds intimacy. They develop private codes, secret signals, an ability to read each other across a crowded room. The court becomes a battleground they've survived together.
 
-**Does your story take place in a court setting?**
-
-*Courts create constant surveillance that turns every private feeling into a public risk. If your characters interact at court, the romantic tension is built into the environment.*
-
-_______________________________________________________________
+**Does your story take place in a court setting? If yes:**
 
 **Who else is at court, and what do they want?**
 
-*Courtiers, advisors, rivals, servants, spies. The people surrounding your characters create the audience that makes every private feeling dangerous. Who is watching, and what are they looking for?*
+*Courtiers, advisors, rivals, servants, spies. Who is watching your characters, and what are they looking for?*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-_______________________________________________________________
-
-**What mask does each character wear at court?**
-
-*The romantic spark happens when masks crack. You need to know what each character is hiding before you can write the moments it slips.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What makes the mask slip?**
+**What mask does each character wear, and what makes it slip?**
 
 *Exhaustion? A threat to someone they care about? A moment of unexpected kindness? The crack in the mask is your romantic beat.*
 
@@ -1092,11 +1076,11 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+_______________________________________________________________
+
 **What court ritual creates romantic pressure for your characters?**
 
-*Balls, coronations, tournaments. Public rituals force your characters into proximity under observation. The best romantic moments happen when the performance cracks during the event.*
-
-_______________________________________________________________
+*Balls, coronations, tournaments. Public rituals force your characters into proximity under observation.*
 
 _______________________________________________________________
 
@@ -1104,41 +1088,19 @@ _______________________________________________________________
 
 **Where is the private space where the masks come off?**
 
-*The contrast between public performance and private truth drives the romantic arc. Where can your characters be themselves?*
+*The contrast between public performance and private truth drives the romantic arc. Do your characters navigate court as partners or adversaries?*
 
 _______________________________________________________________
 
 _______________________________________________________________
-
-**Do your characters navigate court as partners or adversaries?**
-
-*Partners build intimacy through shared burdens. Adversaries build tension through strategic counterplay. Both can lead to romance, but through very different paths.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What private signals have your characters developed?**
-
-*A look, a gesture, a code word. Surviving court together creates shared language. These small, secret communications are some of the most romantic moments you can write. What signals do they use, and what do they mean?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-### ✦ Checkpoint: Arrangements, Factions, and Court
-
-*Pause and look at your answers so far. If your characters have an arranged marriage, does the political system you built earlier explain why it can't simply be refused? Do the factions you identified have clear, specific reasons to care about your characters' relationship? If you have a court setting, does it connect to the power structure and laws you already defined? Tighten any loose threads before continuing.*
 
 ---
 
 ## Secrets & Espionage
 
-Secrets in romantasy aren't side stories; they're obstacles to intimacy. Each time your character holds back some information from their romantic partner, it's an additional wall between them, and each time they reveal a secret it opens a doorway that can't be closed. The core tension is this: your characters require deception to survive politically and honesty to feel intimate. They can't have both. That's the engine. When a character is keeping their true identity from their love, the relationship is built upon a false foundation. The romantic partner loves the version of a person the other has presented to them, not the entire person. The individual keeping the secret is also the person least capable of experiencing true intimacy, because their authentic self is never fully present in the same space as their partner. In *Serpent & Dove*, Lou has kept her identity as a witch a secret from Reid, a Chasseur that's been trained to kill her people. Both Lou and Reid enter into a marriage based on strategy, but as genuine feelings begin to develop, Lou's secret starts to poison their relationship. Reid's love grows stronger than Lou's because she's always keeping something guarded. She can never be fully in the same room with him. Each intimate moment is tainted by the reality that he'd set fire to her at the stake if he were to discover what she really is. In *Fourth Wing*, Xaden only shares with Violet "what you need to know." Violet is forced to question Xaden to obtain additional information. He can't share everything with her because of her close proximity to the state, exemplified by her mother's position and her friend Dain's ability to read memories. Their relationship relies heavily on physical attraction to provide a release, since their intellectual and emotional communication is consistently interrupted by the political implications of their connection.
+Secrets in romantasy aren't side stories; they're obstacles to intimacy. The core tension is this: your characters require deception to survive politically and honesty to feel intimate. They can't have both. That's the engine.
+
+When a character is hiding their true identity, the relationship is built on a false foundation. Their partner loves a version of them, not the whole person. In *Serpent & Dove*, Lou's identity as a witch means she can never be fully present with Reid, a Chasseur trained to kill her people. Each intimate moment is tainted by the reality that he'd set fire to her at the stake if he discovered what she really is. In *Fourth Wing*, Xaden only shares "what you need to know," and the political implications of their connection consistently interrupt their emotional communication.
 
 **Is either character hiding their true identity?**
 

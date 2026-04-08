@@ -242,11 +242,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-_______________________________________________________________
-
 **Act 1:**
-
-_______________________________________________________________
 
 _______________________________________________________________
 
@@ -254,29 +250,7 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-_______________________________________________________________
-
 **Act 3:**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-### Time Between Key Events
-
-**From [event] to [event]:** __________________________________________
-
-**From [event] to [event]:** __________________________________________
-
-**From [event] to [event]:** __________________________________________
-
-### Important Historical Dates
-
-(Reference: Section 7, History & Lore)
-
-_______________________________________________________________
-
-_______________________________________________________________
 
 _______________________________________________________________
 
@@ -298,19 +272,7 @@ Meaning: ________________________________________________________
 
 Meaning: ________________________________________________________
 
-**Term:** _________________________________________________________
-
-Meaning: ________________________________________________________
-
-**Term:** _________________________________________________________
-
-Meaning: ________________________________________________________
-
 ### Place Names (with pronunciation if needed)
-
-_______________________________________________________________
-
-_______________________________________________________________
 
 _______________________________________________________________
 
@@ -326,13 +288,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-_______________________________________________________________
-
 ### Titles and Forms of Address
 
 (Reference: Section 3, Language of Deference; Section 8, Titles & Terms)
-
-_______________________________________________________________
 
 _______________________________________________________________
 
@@ -426,55 +384,25 @@ Keep these details consistent throughout your writing.
 
 (Reference: Section 1, Geography; Section 2, Flora & Fauna)
 
-### Visual
-
-**Dominant colors of the world:** _____________________________________
-
-**Quality of light:** (golden, grey, harsh, soft, magical glow)
-
-_______________________________________________________________
-
-**What the sky looks like:** _________________________________________
+**Dominant colors / quality of light:** __________________________________
 
 **Visual motifs that repeat:** ________________________________________
 
-### Sound
-
 **Ambient sounds of primary setting:** _________________________________
-
-_______________________________________________________________
 
 **Sounds associated with magic:** ____________________________________
 
-**Sounds of danger/tension:** _______________________________________
-
-### Smell
-
 **What the primary setting smells like:** ________________________________
-
-_______________________________________________________________
 
 **Scent associated with protagonist:** _________________________________
 
 **Scent associated with love interest:** ________________________________
 
-### Touch/Temperature
-
-**Climate feel:** ___________________________________________________
-
-**Textures that matter:** ____________________________________________
+**Climate feel / textures that matter:** _________________________________
 
 **What magic feels like:** ___________________________________________
 
-### Taste
-
-**Common foods/drinks:**
-
-(Reference: Section 2, What They Eat)
-
-_______________________________________________________________
-
-**Luxury foods:** __________________________________________________
+**Common foods/drinks:** ___________________________________________
 
 **What they eat together:** __________________________________________
 
@@ -931,17 +859,10 @@ _______________________________________________________________
 
 ☐ World at-a-glance complete
 ☐ Character details consistent
-☐ Timeline established
-☐ Magic rules clear (including what magic can't do)
-☐ Bond mechanics defined, if applicable (consent, rejection, limits)
-☐ Key locations defined
-☐ Religion/belief system sketched (if relevant to romance)
-☐ "Why now?" catalyst identified
+☐ Magic rules clear, if applicable (including what magic can't do)
+☐ Stakes & proximity defined
 ☐ Obstacles identified with worldbuilding sources
 ☐ Power dynamics mapped
-☐ Economic ledger understood
-☐ Choice moments identified
-☐ Climax integrates romance and fantasy
 ☐ Consistency rules clear
 ☐ Integration Score completed (Section 16)
 
