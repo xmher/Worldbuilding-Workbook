@@ -1195,11 +1195,10 @@ How a culture raises its children and organises its labour reveals what it value
 
 ---
 
-You've built the foundations of your culture and mapped the milestones of your characters' lives. Now it's time to put that culture into motion, through the events, consequences, and social dynamics that drive your romance forward.
-
-# PART TWO: CULTURE & ROMANCE
+You've built the foundations of your culture and mapped the milestones of your characters' lives. Now it's time to put that culture into motion.
 
 ---
+
 ## Festivals, Holidays & Celebrations
 
 Festivals are classic romance settings because rules relax, emotions heighten, and everyone is gathered in one place. A mask hides identity, a dance requires touch, a tradition pairs strangers together. These customs give characters excuses for intimacy they couldn't otherwise justify, and the urgency of a festival ending -- this chance won't come again -- drives pivotal scenes.

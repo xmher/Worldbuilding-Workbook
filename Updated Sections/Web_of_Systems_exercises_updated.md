@@ -318,7 +318,15 @@ Religious convictions live inside a character's soul. Political laws can be brok
 
 Poppy's role as the Maiden in *From Blood and Ash* is defined by religious prohibition: "solitary, never to be touched, never to experience pleasure." Each stolen moment with Hawke is a moment of divine transgression, and that weight makes each moment feel dangerously earned.
 
+**Does your world have an organised religion or belief system?** What does it demand of its followers? Religious demands that touch on love, marriage, desire, or bodily autonomy are where your romance will collide with faith.
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **Does your religion impose restrictions on love, desire, or partnership?**
+
+*Vows of celibacy, prohibitions on cross-faction unions, arranged marriage requirements, purity rituals -- map the restrictions that matter most for your romance.*
 
 | Religious Restriction | Who It Applies To | What It Forbids | What Happens If Broken |
 | --- | --- | --- | --- |
