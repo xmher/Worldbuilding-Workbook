@@ -356,6 +356,12 @@ _______________________________________________________________
 
 The small frictions of daily life -- how you eat, how you sleep, what you consider clean -- create some of the most authentic romantic tension. When two people from different backgrounds come together, they disagree about whether silence is comfortable or hostile, whether a meal should be shared or private. These small collisions show us how far apart two people really are, and bridging them is part of falling in love.
 
+**What does a normal day look like for common people?** How do they get food, water, shelter? Travel? Communicate?
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **How is your protagonist's daily life different from the love interest's?**
 
 _______________________________________________________________
@@ -364,12 +370,22 @@ _______________________________________________________________
 
 **Map the small collisions between your protagonists' daily lives.**
 
+*These aren't the big political or magical differences; they're the mundane ones. What feels normal to one and alien to the other?*
+
 | Daily Habit or Assumption | Character Who Has It | How the Other Character Reacts | What It Reveals About Their Divide |
 | --- | --- | --- | --- |
 | *Silence at meals is respectful (Illyrian custom)* | *Cassian* | *Nesta finds it cold and isolating* | *His culture values discipline; hers values connection through conversation* |
 | | | | |
 | | | | |
 | | | | |
+
+**What is one small, sensory detail from your protagonist's daily life that the love interest would find strange or fascinating?**
+
+*Think about food, sleep, hygiene, greetings, personal space. The most memorable romantic moments in fantasy often come from these small collisions.*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 
@@ -401,6 +417,24 @@ _______________________________________________________________
 
 _______________________________________________________________
 
+### The Integration Test
+
+Choose one major worldbuilding element and test its connections.
+
+**The element:** ________________________________________________
+
+**How does it affect geography, economy, politics, culture, and your romance?**
+
+*If it doesn't connect to at least three of these, it might be decorative. Deepen its integration or consider whether you need it.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 ---
 
 ## The Antagonist and Systems
@@ -416,6 +450,14 @@ _______________________________________________________________
 **Does defeating the antagonist require changing the system, or just removing one person?**
 
 *If removing the antagonist leaves the oppressive system intact, the happy ending hasn't truly been earned.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**Is the antagonist wrong about everything, or do they have a point about the world?**
+
+*Complex antagonists often represent legitimate concerns taken too far, or defend systems that have real value alongside their oppression.*
 
 _______________________________________________________________
 
@@ -521,13 +563,17 @@ _______________________________________________________________
 
 This is what takes the ACOTAR series from being a personal love story to something with real impact. Feyre and Rhys's union doesn't just make them happy. It reshapes the political landscape of Prythian. Courts that never spoke begin to ally. Power structures that kept entire populations oppressed start to crack. Their relationship models a new kind of partnership, one based on equality rather than possession, and that has real political consequences. Their love matters to the world, not just to them.
 
-**If your characters choose each other despite obstacles, what changes?** Do laws get challenged? Alliances shift? Cultural prejudices erode?
+**If your characters choose each other despite obstacles, what changes?** Do laws get challenged? Alliances shift? Cultural prejudices erode? Economic structures reorganise?
+
+_______________________________________________________________
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **Who else benefits if they succeed, and who loses?**
+
+_______________________________________________________________
 
 _______________________________________________________________
 

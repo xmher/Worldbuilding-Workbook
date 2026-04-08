@@ -344,7 +344,7 @@ _______________________________________________________________
 
 ---
 
-Gender expectations set the boundaries. Now consider what happens inside those boundaries. Now consider what happens inside them: the ordinary rhythms of life that romance will disrupt.
+Gender expectations set the boundaries. Now consider what happens inside them: the ordinary rhythms of life that romance will disrupt.
 
 ## Daily Life & Routines
 

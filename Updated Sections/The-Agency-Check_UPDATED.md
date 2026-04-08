@@ -318,57 +318,81 @@ _______________________________________________________________
 
 ---
 
-## The Consent Question
+## The Consent Check
 
-### Magical Bonds and Consent
+Consent concerns repeat across magical bonds, power dynamics, arranged marriages, and captivity scenarios. Rather than testing each separately, use this single exercise to audit consent across every pressure point in your story. Check every scenario that applies, then answer the questions for each.
 
-(Reference: Section 10, Magic System, especially bonds; Section 11, Magic & Intimacy, especially Part Two)
+(Reference: Section 10, Magic System; Section 11, Magic & Intimacy; Section 5, Government, Power & Law)
 
-You designed your bond mechanics in Section 11. Now it's time to test them for consent. The design questions there asked *what* the bond does and *how* it creates romantic tension. The questions here ask whether the bond respects your characters' autonomy.
+### Which scenarios apply to your romance?
 
-**Did both characters consent to this bond?**
+- [ ] Magical bond (fated mate, soul bond, telepathic link, magical contract)
+- [ ] Magical compulsion (bond influences feelings, behaviour, or physical responses)
+- [ ] Arranged marriage or political alliance
+- [ ] Captivity or hostage scenario (prisoner, magically trapped, indentured)
+- [ ] Significant power imbalance (political, magical, economic, or informational)
 
-*Did they choose it, agree to it, or perform a deliberate action to trigger it? Or did it happen to them without warning or input? The answer shapes how much agency work you'll need to do in the story.*
+### For each scenario you checked, answer these questions:
 
-In *Fourth Wing*, neither Violet nor Xaden chose the telepathic link that formed through their dragons. The bond happened *to* them. What makes it work is that the story never pretends this is the same as choosing each other. The bond gives them access; trust has to be earned separately, and it's earned slowly, painfully, through choices that have nothing to do with magic.
+**Did both characters consent to this situation? If not, can they reject or leave it, and at what cost?**
+
+*The consequences of rejection define how much agency your characters actually have. A bond that can't be rejected at all is very different from one that can be rejected at cost.*
+
+In *Fourth Wing*, neither Violet nor Xaden chose the telepathic link. What makes it work is that the story never pretends this is the same as choosing each other. The bond gives them access; trust has to be earned separately.
 
 _______________________________________________________________
 
-**If the bond formed without consent, can they reject it? What would rejection look like?**
+_______________________________________________________________
 
-*This isn't just "can they say no?" but what happens if they do. The consequences of rejection define how much agency your characters actually have. A bond that can't be rejected at all is very different from one that can be rejected at cost.*
+_______________________________________________________________
+
+**Can each character say "no" to the other and have it respected? Describe a specific scene.**
+
+*This is non-negotiable. Not "would they theoretically respect a no?" but "when has the less powerful character actually refused something and the other listened?" If you can't point to a specific moment, write one.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What would happen if they tried to reject it?**
+**If pressure, force, or compulsion has occurred, how does the story address it?**
 
-Nothing? Discomfort? Death? Loss of magic? Pain?
+*Is it acknowledged as wrong? Are there consequences? Must they earn back trust? Or is it romanticised as "passionate"?*
+
+_______________________________________________________________
 
 _______________________________________________________________
 
 ### The Consent Spectrum
 
-**Highest agency:** Bond can be rejected with no consequences. They choose to accept it.
+Where does your scenario fall?
 
-**High agency:** Bond can be rejected at moderate cost. They weigh options and choose.
+**Highest agency:** Can be rejected with no consequences. They choose to accept.
 
-**Moderate agency:** Bond can be rejected at significant cost. Choice is hard but real.
+**High agency:** Can be rejected at moderate cost. They weigh options and choose.
 
-**Low agency:** Bond can't be rejected without death or destruction. No choice about the bond, but choice remains in how they live within it.
+**Moderate agency:** Can be rejected at significant cost. Choice is hard but real.
 
-**No agency:** Bond controls feelings and actions. They can't choose differently. (This is non-consensual and problematic unless the story is explicitly about breaking free.)
+**Low agency:** Can't be rejected without death or destruction. No choice about the situation, but choice remains in how they live within it.
 
-**Where does your bond fall?**
+**No agency:** Controls feelings and actions. They can't choose differently.
+
+**Where does your scenario fall, and if low agency, how do you preserve choice within it?**
+
+Even at the "low agency" end, good romantasy finds space for choice. The bond might be unbreakable, but how they respond to it is still theirs: how they treat each other, whether to fight the pull, what kind of relationship to build within the constraint.
 
 _______________________________________________________________
 
-**If low agency, how do you preserve choice within it?**
+_______________________________________________________________
 
-(They choose how to treat each other, whether to fight the pull, whether to act on it, what kind of relationship to build within the constraint)
+### Captivity Scenario
 
-Even at the "low agency" end, good romantasy finds space for choice. The bond might be unbreakable, but how they respond to it is still theirs. Do they resent it? Embrace it? Test its limits? Build something meaningful within the constraint? The relationship within the bond is where agency lives.
+*(Skip if neither character is literally unable to leave.)*
+
+**If one character is captive, how do they maintain agency, and when do they gain the real ability to leave?**
+
+*A captive character can have agency through choices about cooperation vs. resistance and mental autonomy. But the character must eventually gain the real ability to leave, and then choose to stay (or leave and return) for their own reasons. If they never gain this ability, the romance is fundamentally non-consensual.*
+
+In *From Blood and Ash*, Poppy never stops fighting during captivity. She isn't tamed; she's sharpened. When she eventually chooses Casteel, readers believe it because they've watched her resist, question, and decide on her own terms.
 
 _______________________________________________________________
 
@@ -380,86 +404,23 @@ _______________________________________________________________
 
 (Reference: Section 5, Power structures; Section 4, Economic power)
 
-Power imbalances are simply a part of the romantic genre, and can create some of the most interesting tension in the story. The real issue lies not with the fact that a power gap exists, but rather with how well the narrative demonstrates awareness of it and provides the less powerful character with actual influence.
+Power imbalances can create some of the most interesting tension in romance. The issue isn't the power gap itself, but whether the narrative demonstrates awareness of it and provides the less powerful character with actual influence.
 
 ### Mapping the Imbalance
 
-*Use the table below to map who holds what power. Seeing the imbalance side by side reveals whether one character is dangerously overpowered or whether each brings genuine leverage to the relationship.*
-
 | Type of Power | Love Interest | Protagonist |
 |---|---|---|
-| *Example: Political authority* | *High Lord of a powerful court (ACOTAR)* | *No political standing; gains it over time* |
+| *Example: Political authority* | *High Lord of a powerful court* | *No political standing; gains it over time* |
 | *Example: Magical ability* | *Most powerful High Lord in history* | *Unique powers from all seven courts* |
 | *Example: Knowledge/information* | *Centuries of political knowledge* | *Mortal perspective he lacks; human resourcefulness* |
-| *Example: Emotional leverage* | *Guarded, needs her to see him truly* | *Willing to be vulnerable first* |
 | | | |
 | | | |
 | | | |
 | | | |
-| | | |
-| | | |
 
-*Add more rows as needed. Most romances have at least 4-5 types of power in play.*
+**How does the power balance shift over the course of the story?**
 
-**How does the power balance change over the course of the story?**
-
-*A static power imbalance where the powerful character stays on top and the less powerful character never gains ground makes the romance feel like a benevolent dictatorship, not a partnership. Describe how the balance shifts.*
-
-The best power-imbalanced romances don't stay static. The dynamic should shift, complicate, even reverse over the course of the story. If the powerful character starts on top and stays there, the less powerful character's agency is going to be in question.
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-### The "Can They Say No?" Test
-
-**Can your protagonist say no to the love interest and have it respected? Describe a specific scene.**
-
-*This is the non-negotiable test. Not "would he theoretically respect a no?" but "when has she actually said no and he's listened?" If you can't point to a specific moment, write one.*
-
-This is non-negotiable. If there isn't a single moment in your story where the less powerful character refuses something and the more powerful character respects that refusal, you've got a consent problem, not a power dynamic.
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**If the love interest has pressured or forced the protagonist, how does the story address this?**
-
-*Is it acknowledged as wrong? Are there consequences? Must they earn back trust? Or is it romanticised as "passionate"? How your story handles these moments tells readers what it believes about love and power.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-### The Captivity Scenario
-
-**Is either character literally unable to leave?**
-
-*Prisoner, hostage, magically trapped, indentured? If neither character is captive, skip to "Why These Two?"*
-
-(Prisoner, hostage, magically trapped, indentured)
-
-_______________________________________________________________
-
-**If yes, how do you maintain agency within captivity?**
-
-*Even a captive character can have agency through choices about cooperation vs. resistance, mental autonomy, and the timing of when romance enters the picture. Describe the specific ways your captive character exercises choice.*
-
-(Choices about cooperation/resistance, mental autonomy, romance doesn't begin until freedom exists or is possible, power dynamic is acknowledged and actively dismantled)
-
-In *From Blood and Ash*, Casteel kidnaps Poppy. The story works (for readers who enjoy it) because Poppy never stops fighting. She doesn't become passive. Her captivity is acknowledged as wrong within the narrative, and she maintains her own will, her own goals, and her own sharp tongue throughout. She isn't tamed by captivity; she's sharpened by it. When she eventually chooses Casteel, readers believe it because they've watched her resist, question, and decide on her own terms.
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**When does the captive gain ability to leave, and what do they choose?**
-
-*This is the moment that determines whether the romance is consensual. The character must gain the real ability to leave, and then choose to stay (or leave and return) for their own reasons. Describe the scene.*
-
-If they never gain this ability, the romance is fundamentally non-consensual.
+*If the powerful character starts on top and stays there, the less powerful character's agency is in question. Describe how the balance shifts, complicates, or even reverses.*
 
 _______________________________________________________________
 
