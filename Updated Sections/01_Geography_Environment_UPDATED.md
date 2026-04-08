@@ -24,10 +24,11 @@ Every river, every desert, every castle wall in your world will be either drawin
 - The Sensory World
 - Climate, Weather & Seasons
 - Dangerous Regions
-- Borders & Boundaries
+- Borders, Barriers & Boundaries
 
 ### Part Two: Geography & Romance
 
+- The Pressure Cooker: Your Story
 - Home & Belonging
 - Entering Each Other's Worlds
 - Travel & Distance
@@ -120,31 +121,6 @@ If your characters could simply walk away, your geography needs to make that imp
 | **The Snowed-In/Stranded** | Weather or disaster traps characters until conditions change | Cabin romance, "only one bed" |
 | **The Royal Court** | Political obligations, arranged proximity, can't leave without scandal | Court intrigue, political marriage |
 
-### Geographic Barriers That Create Stakes
-
-| Barrier Type | Romantic Function | Story Possibilities |
-|--------------|-------------------|---------------------|
-| **Mountain ranges** | Separate nations/cultures; make travel seasonal | Characters from opposite sides; winter trapping |
-| **Oceans** | Create complete separation; make departure permanent | Letters across distance; the weight of leaving |
-| **Deserts** | Isolate cultures; make resources precious | Oasis politics; survival journeys |
-| **Magical borders** | Can be crossed only by certain people or under certain conditions | One character can cross, one can't |
-| **War zones** | Make travel deadly; create no-man's-land between peoples | Enemies from opposing sides |
-| **Political borders** | Crossing means treason or exile | Forbidden love across enemy lines |
-| **Cursed/Blighted lands** | Regions too dangerous to cross; require special protection | Must find another way; one character immune, one isn't |
-| **Class geography** | Slums vs. palace district; social ruin to cross | Wrong-side-of-tracks romance; secret meetings in between spaces |
-
-### Environmental Conditions That Affect Romance
-
-| Condition | How It Creates Pressure | Romantic Beats It Enables |
-|-----------|------------------------|---------------------------|
-| **Harsh winters** | Traps characters indoors; requires shared warmth | Forced proximity; "snowed in" scenarios |
-| **Dangerous nights** | Characters must shelter together after dark | Shared watch; protective sleeping arrangements |
-| **Seasonal access** | Passes close, ships can't sail, travel becomes impossible | Racing against time; trapped until spring |
-| **Resource scarcity** | Sharing becomes necessary; generosity becomes meaningful | Sharing food/water; sacrifice for the other |
-| **Extreme heat** | Travel only possible at night; requires shade-sharing, water rationing | Night travel intimacy; sharing precious water; heat exhaustion care |
-| **Hostile territory after dark** | Monsters or predators hunt at night; must camp together for safety | One bed/bedroll situations; taking turns on watch; protective instincts |
-| **Corrupted/poisoned land** | Regions that drain magic or health; must move quickly or rely on healer | Dependency on one character's abilities; racing against deterioration |
-
 ---
 
 ## Common Mistakes
@@ -184,6 +160,22 @@ If your characters could simply walk away, your geography needs to make that imp
 | **Rubber-Band World:** Travel times or distances change to suit the plot | | |
 | **Empty Map:** Locations exist but don't affect culture, conflict, or character | | |
 | **No Emotional Resonance:** Setting is described physically but never connected to how characters feel | | |
+
+---
+
+## Reference: Travel Times
+
+*These are real-world estimates. Feel free to adjust for your world; magic, flying creatures, or difficult terrain will change things. Refer back to this table when planning distances between locations.*
+
+| Mode of Travel | Distance per Day | Notes |
+|----------------|------------------|-------|
+| Walking (comfortable pace) | 15-20 miles / 25-32 km | Healthy adult with breaks |
+| Forced march | 25-30 miles / 40-50 km | Exhausting, not sustainable |
+| Riding (sustainable) | 25-35 miles / 40-55 km | One horse, regular rest |
+| Hard ride | 40-50 miles / 65-80 km | Tiring the horse |
+| Changing horses (relay) | 80-100 miles / 130-160 km | Fresh mounts at stations |
+| Sailing ship (favorable wind) | 100-150 miles / 160-240 km | Highly variable |
+| Carriage/wagon | 20-30 miles / 32-50 km | Roads required |
 
 ---
 
@@ -295,93 +287,32 @@ Most come from geography (Blackwood, Riverside), historical figures (Washington)
 
 In romantasy, naming matters most when your characters come from different cultures. Distinct naming conventions instantly signal "these people are not the same," and a character learning to pronounce names from their love interest's language, or discovering what a place name means, can be a quiet intimacy beat. If your two kingdoms share naming patterns, readers will assume shared heritage. If the names feel completely alien to each other, readers feel the cultural distance your characters have to cross.
 
-### Researching Naming Conventions
-
-If you want place names that evoke a particular culture or aesthetic, here's how to find patterns yourself:
-
-- **Search "[language] place name meanings"** e.g., "Old Norse place name meanings" or "Welsh place name elements"
-- **Search "[language] words for [terrain]"** e.g., "Japanese words for mountain" or "Gaelic words for river"
-- **Look up real places.** Search "etymology of [real place name]" to see how actual names were constructed.
-- **Wikipedia's toponymy pages.** Search "[language] toponymy" for organised lists of place name elements.
-- **Behind the Name.** The website behindthename.com has a place names section with etymologies.
-
-For deeper language work, see *Section 11: Language & Communication*.
-
 ---
 
-## Reference: Common English Place Name Patterns
+## Reference: Place Name Patterns by Tradition
 
-*Mix prefixes and suffixes to generate names. "Ash" + "ford" = Ashford. "Black" + "moor" = Blackmoor.*
+*Mix prefixes and suffixes to generate names. "Ash" + "ford" = Ashford. "Black" + "moor" = Blackmoor. Pick a tradition that fits your world's aesthetic, or blend elements from several.*
 
-| Suffix | Meaning | Example |
-|--------|---------|---------|
-| -ham | homestead, village | Nottingham |
-| -ton / -town | fenced settlement | Brighton |
-| -ford | river crossing | Oxford |
-| -ley / -leigh | clearing, meadow | Barnsley |
-| -dale / -vale | valley | Airedale |
-| -burgh / -bury | fortified place | Edinburgh |
-| -port | harbour, market town | Southport |
-| -moor / -mere | marshland, lake | Windermere |
-| -fell / -mount | hill, mountain | Scafell |
-| -holme / -holm | island, water meadow | Stockholm |
+| Tradition | Element | Meaning | Example |
+|-----------|---------|---------|---------|
+| **English** | -ham / -ton | homestead / settlement | Nottingham, Brighton |
+| | -ford / -port | river crossing / harbour | Oxford, Southport |
+| | -ley / -dale | clearing / valley | Barnsley, Airedale |
+| | -burgh / -bury | fortified place | Edinburgh |
+| | -moor / -mere | marshland / lake | Windermere |
+| **Nordic** | -vik / -fjord | bay / narrow inlet | Reykjavik, Sognefjord |
+| | -heim / -berg | home / mountain | Trondheim, Gothenburg |
+| | -by / -ness | farm / headland | Whitby, Skagen |
+| | -dal / -land | valley / territory | Gudvangen, Iceland |
+| **Celtic** | Caer- / Dun- | fort / hill fort | Caernarfon, Edinburgh |
+| | Llan- / Pen- | sacred place / head, top | Llandudno, Penrith |
+| | Glen- / Loch- | valley / lake | Glencoe, Lochaber |
+| | Aber- / Inver- | river mouth | Aberdeen, Inverness |
+| **Slavic** | -grad / -gorod | city, fortress | Belgrade, Novgorod |
+| | Novo- / Staro- | new / old | Novosibirsk, Starograd |
+| | -ov / -sk | possessive / place suffix | Krakow, Gdansk |
 
----
-
-## Reference: Nordic/Scandinavian Place Name Patterns
-
-*Good for cold, northern, Viking-inspired settings. Old Norse roots appear in many English place names too.*
-
-| Element | Meaning | Example |
-|---------|---------|---------|
-| -by | farm, settlement | Whitby, Grimsby |
-| -vik / -wick | bay, inlet | Reykjavik, Lerwick |
-| -fjord / -firth | long narrow inlet | Sognefjord |
-| -heim / -hem | home, world | Trondheim |
-| -berg / -borg | mountain / fortress | Gothenburg |
-| -dal / -dalen | valley | Gudvangen |
-| -ness / -nes | headland, promontory | Skagen |
-| -stad / -sted | place, site | Halstead |
-| -land | land, territory | Iceland, Gotland |
-| -thwaite | clearing, meadow | Braithwaite |
-
----
-
-## Reference: Celtic/Welsh Place Name Patterns
-
-*Good for mystical, ancient, fae-adjacent settings. Celtic names often describe landscape features poetically.*
-
-| Element | Meaning | Example |
-|---------|---------|---------|
-| Aber- | river mouth | Aberdeen, Aberystwyth |
-| Caer- / Car- | fort, stronghold | Caernarfon, Cardiff |
-| Llan- | church, sacred enclosure | Llandudno |
-| Pen- | head, top, end | Penrith, Penzance |
-| Tre- / Tref- | homestead, town | Tremaine |
-| Dun- / Din- | hill fort | Edinburgh (Dun Edin) |
-| -combe / -cwm | valley | Ilfracombe |
-| Glyn- / Glen- | valley | Glencoe |
-| Loch- / Lough- | lake | Lochaber |
-| Inver- / Innis- | river mouth / island | Inverness |
-
----
-
-## Reference: Slavic Place Name Patterns
-
-*Good for Eastern European-inspired settings. Slavic names often use descriptive compounds.*
-
-| Element | Meaning | Example |
-|---------|---------|---------|
-| -grad / -gorod | city, fortified place | Belgrade, Novgorod |
-| -ov / -ova / -ovo | belonging to (possessive) | Sarajevo, Krakow |
-| Novo- / Novy- | new | Novosibirsk |
-| Staro- / Stary- | old | Starograd |
-| -pol / -pole | field | Sevastopol |
-| Belo- / Byelo- | white | Belgrade (Beograd) |
-| Cerno- / Cherno- | black | Chernobyl |
-| -ice / -itz | place suffix | Katowice |
-| -sk / -sko | place/region suffix | Gdansk, Minsk |
-| Veliko- / Veliky- | great, large | Veliky Novgorod |
+*For deeper naming work, including character names and constructed languages, see Section 11: Language & Communication. You can also search "[language] place name meanings" or "[language] toponymy" online for additional traditions.*
 
 ---
 
@@ -417,15 +348,7 @@ For deeper language work, see *Section 11: Language & Communication*.
 
 #### Do your characters' naming conventions signal cultural distance?
 
-*If your characters come from different cultures, distinct naming patterns instantly tell readers "these people are not the same." Would someone from Kingdom A struggle to pronounce names from Kingdom B?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### Where could naming differences create a quiet intimacy beat?
-
-*A character stumbling over an unfamiliar name, asking what a place name means, or learning that their love interest's homeland translates to something beautiful: these are small moments that build closeness. Where in your story could the act of learning someone's language or place names become a romantic gesture?*
+*If your characters come from different cultures, distinct naming patterns instantly tell readers "these people are not the same." A character stumbling over an unfamiliar name, asking what a place name means, or learning that their love interest's homeland translates to something beautiful can be a quiet intimacy beat.*
 
 _______________________________________________________________
 
@@ -479,22 +402,6 @@ Resource control drives romantic conflict: the arranged marriage to secure a tra
 
 &nbsp;
 
-#### What geographic resource creates tension or conflict in your world?
-
-*Water rights? Arable land? Trade routes? Does the conflict show up as war, political marriage, trade embargo, or something subtler?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### How does geographic resource control affect your characters?
-
-*Does one character's family/nation control something the other's needs? Is there territorial dispute between their peoples?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 > **Continue in Section 4**
 >
 > *Resources & Scarcity*
@@ -515,27 +422,9 @@ Geography isn't just what exists in space; it's how it feels to be there. Filter
 
 ## The Sensory World
 
-#### What does your primary setting look, sound, smell, and feel like?
-
-*Close your eyes and walk through this place. What hits your senses first? What would your protagonist notice?*
-
 **⬥ Core** **Close your eyes and walk through your primary setting. Describe what you see, hear, smell, and feel (temperature, humidity, wind).**
 
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#### How does the environment change at different times of day?
-
-*Dawn meetings feel different than midnight ones. What time of day would be most romantic here? Most dangerous?*
-
-**How does your primary setting change throughout the day?**
-
-*Describe morning, midday, evening, and night. What time of day best suits a romantic scene? A dangerous one?*
+*What hits your senses first? What would your protagonist notice? How does it change from dawn to midnight?*
 
 *(Write your answer below)*
 
@@ -545,29 +434,17 @@ Geography isn't just what exists in space; it's how it feels to be there. Filter
 
 &nbsp;
 
-#### What's beautiful about this place?
+#### What's beautiful about this place, and what's harsh?
 
-*The details a character falling in love would notice. What would make someone homesick for this place?*
+*Every setting has both. The beautiful details are what a character falling in love would notice, what would make someone homesick. The harsh details are what people endure, complain about, or need to get used to. Both matter for romance.*
 
-_______________________________________________________________
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-#### What's harsh or uncomfortable about this place?
+&nbsp;
 
-*What do people endure or complain about? What takes getting used to?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does the landscape look like between your key locations?**
-
-*Not every reader needs to know what's between cities, but your characters who travel there do. What's the terrain like on the road?*
-
-_______________________________________________________________
-
-_______________________________________________________________
+&nbsp;
 
 ---
 
@@ -589,19 +466,17 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-#### What seasons exist and how distinct are they?
+#### What seasons exist and what season is your story set in?
 
-*Traditional four seasons? A long winter and brief summer? Magical seasons tied to something other than the sun?*
-
-_______________________________________________________________
+*Traditional four seasons? A long winter and brief summer? Magical seasons? Seasons create mood and constraint. What does this season make possible for your romance, and what does it prevent?*
 
 _______________________________________________________________
 
-#### What season is your story set in?
+_______________________________________________________________
 
-*Seasons create mood and constraint. What does this season make possible for your romance? What does it prevent?*
+#### How do seasons create pressure in your world?
 
-**Pick the most story-relevant season in your world. What does this season make possible, and what does it make impossible?**
+*When can armies march? When do ships sail? When must everyone stay indoors? Is there a deadline tied to the season, like racing against winter or waiting for spring thaw?*
 
 *(Write your answer below)*
 
@@ -610,28 +485,6 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
-
-#### How do seasons affect life in your world?
-
-*When can armies march? When do ships sail? When are weddings held? When must everyone stay indoors?*
-
-**For each season (summer/warm, winter/cold, transitional), what becomes possible and what becomes impossible in your world?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#### Does the season create pressure or opportunity in your story?
-
-*Racing against winter? Waiting for spring thaw? Only able to travel in summer?*
-
-_______________________________________________________________
-
-_______________________________________________________________
 
 > **Cross-check:** Does your climate support the flora and fauna you'll build in Section 2? If you've got tropical creatures in a frozen wasteland, something needs adjusting!
 
@@ -685,53 +538,27 @@ Dangerous regions raise stakes and force partnership. When survival becomes the 
 &nbsp;
 
 ---
-## Borders & Boundaries
+## Borders, Barriers & Boundaries
 
 The strongest borders aren't lines on a map. They're lines in the characters' minds. A character raised believing everyone across the mountains is a barbarian will carry that border long after the physical one has been crossed. Borders also create "in-between" spaces, neutral zones where the most honest conversations happen.
 
+Geographic barriers create romantic stakes: mountains that make travel seasonal, oceans that make departure feel permanent, magical borders that one character can cross and the other can't, class geography where crossing from the slums to the palace district means social ruin. The type of barrier you choose shapes how crossable it feels, and how much it costs when someone pays that price.
+
 ---
 
-## Borders & Boundaries
+## Borders, Barriers & Boundaries
 
-#### **⬥ Core** What geographic features create borders?
+#### **⬥ Core** What geographic features create borders in your world, and how crossable are they?
 
-*Mountains, rivers, and oceans don't just separate land; they separate peoples, and the assumptions each side makes about the other. The feature you choose shapes how crossable the border feels.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### How permeable are these borders?
-
-*A border that's easy to cross creates a different kind of forbidden love than one that's physically impassable. The harder the crossing, the more it costs, and the more that cost means when someone pays it.*
+*Mountains, rivers, oceans, magical barriers, class geography? A border that's easy to cross creates a different kind of forbidden love than one that's physically impassable. The harder the crossing, the more it costs, and the more that cost means when someone pays it.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-#### Do your characters come from opposite sides of a significant border?
+#### **What geographic or political border separates your characters, and what does crossing it cost?**
 
-*Borders create "us" and "them." What assumptions would each character have about someone from the other side?*
-
-**What geographic or political border separates your characters, and what does crossing it cost?**
-
-*Consider: legal, social, and personal consequences. Is there any in-between space where they can meet?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#### What assumptions does each character carry about the other side?
-
-*The strongest borders are internal. What does each character believe, casually, without thinking, about people from their love interest's side? And what moment first cracks that assumption?*
-
-**What does your protagonist assume about the love interest's people, and what moment shatters that assumption?**
-
-*Answer for the love interest too: what do they assume about the protagonist's people, and when does that break?*
+*Consider: legal, social, and personal consequences. Is there any in-between space where they can meet? What assumptions does each character carry about the other side, and what moment shatters those assumptions?*
 
 *(Write your answer below)*
 
@@ -798,35 +625,9 @@ _______________________________________________________________
 
 ## Home & Belonging
 
-#### **⬥ Core** Where does your protagonist feel at home?
+#### **⬥ Core** Where does your protagonist feel at home, and where does your love interest feel at home?
 
-*The place that shaped them, where they feel most themselves:*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### What does home look, smell, sound like to them?
-
-*The sensory details that mean "home":*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### Where does your love interest feel at home?
-
-*The place that shaped them, where they're most themselves. How different is it from your protagonist's home?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### Where does each character feel like an outsider?
-
-*Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?*
-
-**Where does each of your main characters feel most out of place, alien, uncomfortable, or unwelcome? Why?**
+*The places that shaped them, where they feel most themselves. How different are these two places? What sensory details mean "home" for each of them?*
 
 *(Write your answer below)*
 
@@ -835,6 +636,14 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
+
+#### Where does each character feel like an outsider?
+
+*Fish-out-of-water moments reveal character. Where would each feel uncertain, uncomfortable, or judged?*
+
+_______________________________________________________________
+
+_______________________________________________________________
 
 ---
 ## Entering Each Other's Worlds
@@ -845,13 +654,9 @@ Bringing someone to your home territory is an act of vulnerability. The visitor'
 
 ## Entering Each Other's Worlds
 
-#### Does one character visit the other's home territory?
-
-*Bringing someone home is an act of vulnerability. What would they be proud to show? What would they rather hide?*
-
 **When one character visits the other's world, what does the visitor notice first?**
 
-*Who visits whom? What is the host proud of, and what would they rather hide? What everyday moment creates unexpected intimacy?*
+*Who visits whom? What is the host proud of, and what would they rather hide? What everyday moment creates unexpected intimacy? Bringing someone home is an act of vulnerability.*
 
 *(Write your answer below)*
 
@@ -861,27 +666,9 @@ Bringing someone to your home territory is an act of vulnerability. The visitor'
 
 &nbsp;
 
-#### What's the sensory experience of entering unfamiliar territory?
+#### How does seeing each other's world change both characters?
 
-*What do they notice first? What's strange? What's beautiful? What's uncomfortable?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### How does the "native" character see their home differently through the visitor's eyes?
-
-*Pride? Shame? New appreciation? Defensiveness?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### What does the visitor understand about their partner after seeing where they come from?
-
-*Place explains people. What becomes clear about your love interest once you see where they grew up?*
+*Place explains people. What does the visitor understand about their partner after seeing where they grew up? How does the "native" see their own home differently through a visitor's eyes: pride, shame, new appreciation, defensiveness?*
 
 _______________________________________________________________
 
@@ -913,20 +700,6 @@ When you write separation by distance, show its weight through what characters *
 &nbsp;
 
 &nbsp;
-
-#### Travel Time Reference
-
-*These are real-world estimates. Feel free to adjust for your world; magic, flying creatures, or difficult terrain will change things.*
-
-| Mode of Travel | Distance per Day | Notes |
-|----------------|------------------|-------|
-| Walking (comfortable pace) | 15-20 miles / 25-32 km | Healthy adult with breaks |
-| Forced march | 25-30 miles / 40-50 km | Exhausting, not sustainable |
-| Riding (sustainable) | 25-35 miles / 40-55 km | One horse, regular rest |
-| Hard ride | 40-50 miles / 65-80 km | Tiring the horse |
-| Changing horses (relay) | 80-100 miles / 130-160 km | Fresh mounts at stations |
-| Sailing ship (favorable wind) | 100-150 miles / 160-240 km | Highly variable |
-| Carriage/wagon | 20-30 miles / 32-50 km | Roads required |
 
 #### How long does travel take between key locations?
 

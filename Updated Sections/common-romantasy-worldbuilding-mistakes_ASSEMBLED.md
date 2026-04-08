@@ -4,6 +4,8 @@ Every genre has its pitfalls, and romantasy is no exception. Here are the most c
 
 Chances are, many of these are things you have seen before as a reader. This appendix will help you recognise when you're falling into them as a writer, and show you how to fix them.
 
+**A note on how to use this section:** This section provides a quick overview of common pitfalls. If you've worked through the detailed exercises in earlier sections, use this as a refresher and final check -- it'll help you spot anything you might have missed. If you're just starting out, this is a great place to begin -- it'll show you what to watch for as you build your world, and you can follow the cross-references to dig deeper on the issues that matter most to your story.
+
 They're grouped by type so you can jump to what's most relevant:
 
 - **Getting the Balance Wrong** (Mistakes #1–3): Too much world, too little world, or world and romance that never actually meet.
@@ -17,6 +19,8 @@ They're grouped by type so you can jump to what's most relevant:
 # Getting the Balance Wrong
 
 These mistakes are all about the relationship between your world and your romance. Too disconnected, too lopsided, or too perfectly engineered.
+
+*For detailed exercises on how your world's systems interact with each other and with your romance, see Section 16: Web of Systems.*
 
 ---
 
@@ -45,12 +49,6 @@ _______________________________________________________________
 **What opportunity for intimacy does that same element create?**
 
 *Hint: The best worldbuilding elements do both -- the same magic that separates them also creates a moment only they can share.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Could your romance happen in a generic fantasy castle with none of your specific worldbuilding? If yes, what world-specific detail could you add to make it impossible anywhere else?**
 
 _______________________________________________________________
 
@@ -86,12 +84,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**If you removed the romance entirely, would the fantasy plot still hold a reader's attention? What would be missing?**
-
-*Hint: If the answer is "not much," your fantasy conflict line needs its own stakes, surprises, and consequences.*
-
-_______________________________________________________________
-
 _______________________________________________________________
 
 ---
@@ -120,13 +112,7 @@ _______________________________________________________________
 
 **What's happening in your world right now that your protagonists don't know or care about?**
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Does every custom, law, or historical event in your world exist to serve the romance? Name one that exists just because your world is a real place.**
-
-*Hint: If you can't think of one, add a detail that makes the world feel lived-in -- a local holiday, a trade dispute, a neighbourhood rivalry.*
+*Hint: If you can't think of anything, add a detail that makes the world feel lived-in -- a local holiday, a trade dispute, a neighbourhood rivalry.*
 
 _______________________________________________________________
 
@@ -190,6 +176,8 @@ _______________________________________________________________
 
 These mistakes all undermine tension in the same fundamental way: they teach readers not to believe what you've told them about your world.
 
+*For structured tools to stress-test your world's internal logic and rule consistency, see Section 17: Consistency Check.*
+
 ---
 
 ## Mistake #5: Political Danger That Pauses for Romance
@@ -224,10 +212,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Where in your story could a romantic moment happen during danger rather than between dangers?**
-
-_______________________________________________________________
-
 ---
 
 ## Mistake #6: The Soft-Boiled World
@@ -259,10 +243,6 @@ _______________________________________________________________
 *Hint: If the answer is "most of them," pick the one your story most needs to deliver on.*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**Does your antagonist win at least once in a way that actually sticks?**
 
 _______________________________________________________________
 
@@ -316,6 +296,8 @@ _______________________________________________________________
 
 These mistakes involve romantic dynamics where the worldbuilding itself does the work that the characters should be doing, through captivity, magical bonds, or fate.
 
+*For a full analysis framework on character autonomy and power dynamics, see Section 18: The Agency Check.*
+
 ---
 
 ## Mistake #8: Captivity Romance Without Addressing Consent
@@ -339,10 +321,6 @@ And be honest with yourself about the story you wish to tell. Captivity romance 
 ### Apply It to Your World
 
 **Does either character hold power over the other? (Captor, employer, ruler, magical superior.) What kind?**
-
-_______________________________________________________________
-
-**When does the less powerful character gain a genuine ability to leave?**
 
 _______________________________________________________________
 
@@ -389,10 +367,6 @@ _______________________________________________________________
 *Hint: If the bond makes everything easy, there's no story. Friction within a fated pairing is what makes it feel real.*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**If the bond disappeared tomorrow, what would keep them together?**
 
 _______________________________________________________________
 

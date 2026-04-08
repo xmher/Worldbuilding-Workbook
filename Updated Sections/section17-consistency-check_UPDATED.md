@@ -935,9 +935,7 @@ _______________________________________________________________
 
 ## Catching and Fixing Errors
 
-**What specific consistency questions will you ask your beta readers?**
-
-*Generic "did you like it?" feedback won't catch consistency problems. You need targeted questions that direct readers to the exact areas where your world's logic might break. Write 3-5 questions based on the problems you identified in this section. The best beta reader questions are specific enough to direct attention but open enough not to lead the answer. "Did the travel time feel consistent?" is better than "Did you notice the travel time changed in chapter twelve?"*
+*Write 3-5 targeted beta reader questions based on the problems you identified in this section. Be specific enough to direct attention but open enough not to lead the answer.*
 
 | Your Consistency Risk | Beta Reader Question |
 | --- | --- |
@@ -946,8 +944,6 @@ _______________________________________________________________
 | | |
 | | |
 
-*Pay special attention to romantic scenes when writing your questions. These are the moments where readers are most emotionally engaged but also most likely to notice when rules bend. A beta reader who flags "I didn't believe they could be alone here" is catching a selective enforcement problem.*
-
 ---
 
 
@@ -955,45 +951,23 @@ _______________________________________________________________
 
 ### Create a Series Bible
 
-*If you're writing a series, you need a living document that tracks every promise you've made to your readers. The longer the series, the more critical this becomes. Readers who've followed your world across multiple books will remember details you've forgotten, especially details about the romance.*
+*If you're writing a series, you need a living document that tracks every promise you've made to your readers. Readers who've followed your world across multiple books will remember details you've forgotten, especially details about the romance.*
 
 Document and maintain:
 
-**Magic rules and limitations:**
+☐ Magic rules and limitations (note which book established each rule)
 
-*Include any rules that have evolved or been revealed across books. Note which book established each rule.*
+☐ Travel times between key locations
 
-_______________________________________________________________
+☐ Political structures and current power holders
 
-_______________________________________________________________
+☐ Character abilities and their established limits
 
-**Travel times between key locations:**
+☐ Romantic relationship progression and bond mechanics
 
-*These are among the easiest inconsistencies for readers to spot across a series. If a journey takes three weeks in Book One, it should take three weeks in Book Three.*
-
-_______________________________________________________________
-
-**Political structures and current power holders:**
-
-*Track who holds power at the end of each book. Power shifts are often tied to romantic stakes; a new ruler might change everything about whether the relationship is forbidden or permitted.*
+☐ Major worldbuilding facts that can't change
 
 _______________________________________________________________
-
-**Character abilities and their established limits:**
-
-*Note any power growth, sacrifices, or new abilities gained across books. Readers track power levels closely.*
-
-_______________________________________________________________
-
-**Romantic relationship progression and bond mechanics:**
-
-*Track where the relationship stands at the end of each book: what's been confessed, what's still secret, what physical or magical bonds are active, and what rules govern those bonds. If a mating bond behaves one way in Book One, it should behave the same way in Book Three unless you've established why it's changed.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Major worldbuilding facts that can't change:**
 
 _______________________________________________________________
 
@@ -1001,13 +975,9 @@ _______________________________________________________________
 
 **What is the one detail readers would notice first if you contradicted it in a sequel?**
 
-*Hint: Usually it's a magic rule, a bond mechanic, or a character's established power level.*
-
 _______________________________________________________________
 
 **Are you writing more than one book in this world? If yes, start your series bible now.**
-
-*You won't remember everything. Start while this workbook's answers are fresh. Even a simple document with rules, dates, and character details will save you from contradicting yourself three books later.*
 
 _______________________________________________________________
 

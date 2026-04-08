@@ -30,21 +30,14 @@ _______________________________________________________________
 
 A pressure cooker works because it's sealed. The heat has no way of escaping so the temperature inside reaches much hotter levels quicker than it would in an open atmosphere. That's what forced proximity does to a romance. It removes the escape valve. Your characters can't walk away, can't take a break, can't give themselves time and space to process what they're feeling. The emotional temperature rises because it has no choice.
 
-Pressure cooker settings do three crucial things for your romance. They remove the option to leave, so your characters are trapped together by geography, obligation, or danger. They force constant interaction, because privacy is limited and they see each other daily or constantly. And they accelerate intimacy, because compressed proximity speeds up relationship development that might take months under normal circumstances.
-
 But the principle isn't just about physical confinement. It's about creating conditions where avoidance is impossible and confrontation, with the other person, with their own feelings, is inevitable. The pressure cooker doesn't create the attraction. It creates the conditions where attraction can't be ignored, where defences are too expensive to maintain, where pretending becomes more exhausting than honesty.
 
 This section will help you design how your setting functions as a pressure system. You'll build the container, fill it with the right people and constraints, and then determine how to turn up the heat until something has to give.
 
 **What are the biggest sources of tension in your world right now?**
-*Think beyond the romance. War, scarcity, political instability, class conflict, magical imbalance. The pressure cooker works best when the world itself is already under strain. Your characters aren't just trapped together; they're trapped together while everything around them is combustible.*
+*Think beyond the romance. War, scarcity, political instability, class conflict, magical imbalance. The pressure cooker works best when the world itself is already under strain.*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**Where in your world is conflict most likely to erupt?**
-*Borders, disputed territories, unstable courts, overtaxed communities. Pressure cookers are most powerful when they sit on top of a fault line, when the external world's tension mirrors and amplifies the interpersonal tension inside the container.*
 
 _______________________________________________________________
 
@@ -103,12 +96,6 @@ Beyond the subtypes, forced proximity creates romantic tension through a set of 
 
 ---
 
-## A Note Before You Begin
-
-Not every question in this section will apply to your story. If your pressure cooker is a journey, you won't need the "who else is watching" prompts the same way someone writing a court setting would. If your characters are magically bonded, the physical confinement questions might matter less than the emotional ones. Skip what doesn't serve your story, dig deep into what does, and come back to the rest if your plot shifts.
-
----
-
 ## Common Mistakes with Forced Proximity
 
 ### Mistake 1: The Pressure Cooker Has No Real Grip
@@ -152,8 +139,6 @@ Not every question in this section will apply to your story. If your pressure co
 Before anything else, answer this: **What prevents your characters from simply avoiding each other?**
 
 The strongest pressure cookers have multiple layers of constraint. When there's one thing holding you back, you may argue with it, bargain for it or get through it. But when physical danger, social obligation, magical binding, and emotional stakes all point in the same direction, avoidance stops being an option and starts being a fantasy the character can't afford.
-
-Each of these constraint types does something different to the romance. Physical constraints create body awareness; when the space is small, you notice how the other person moves, breathes, takes up room. Obligation creates resentment that can curdle into something more complicated. Danger creates reliance, which is one of the fastest routes to intimacy in fiction. Social constraints create performance, and performing a relationship has a way of blurring into feeling one. Magical binding creates an intimacy that bypasses consent, which forces characters to negotiate boundaries they never expected to need.
 
 **Physical constraints** (geography, architecture, locked doors):
 *Physical confinement forces body awareness. They notice how the other person moves, breathes, takes up space.*
@@ -305,28 +290,13 @@ Allies, rivals, authority figures, servants? Others shape what your leads can sa
 
 ___
 
-**What can't your protagonists do because other people are watching?**
-*Must they hide their feelings? Maintain appearances? Compete for attention? Perform a relationship that isn't real (yet)?*
+**What can't your protagonists say or do because other people are watching?**
+*Must they hide their feelings? Maintain appearances? Perform a relationship that isn't real (yet)? The words they swallow and the touches they deny create tension that demands eventual release.*
 
 ___
 
-**Is there a rival for either character's attention?**
-Someone else interested in one of them? A former lover present? Someone they're "supposed" to be with?
-
-___
-
-**Is there an ally who helps them find private moments?**
-Someone who covers for them, creates distractions, keeps secrets?
-
-___
-
-**Is there a threat, someone who would expose or harm them?**
-Someone watching, someone who would report them, someone dangerous?
-
-___
-
-**What can't they say or do because others are present?**
-The words they swallow and the touches they deny create tension that demands eventual release.
+**Is there a rival, an ally, or a threat among the other people present?**
+*A rival competing for attention. An ally who covers for them and creates private moments. A threat who would expose or harm them. These roles shape the social landscape of the pressure cooker.*
 
 ___
 
@@ -356,13 +326,8 @@ Solitude becomes precious in forced proximity. Where do they retreat to process 
 
 ___
 
-**What happens when they're finally alone, truly alone, for the first time?**
-After constant company, the first real privacy:
-
-___
-
-**When do they have extended true privacy?**
-Circumstances that allow them to be genuinely alone together for more than a stolen moment, and what happens:
+**What happens when they're finally alone together for the first time?**
+*After constant company and performance, the first real privacy changes the air. What becomes possible that wasn't before?*
 
 ___
 
@@ -370,11 +335,7 @@ ___
 
 ## Forced Interaction Points
 
-Within your pressure cooker, what specific situations force interaction? There are many of these and they'll be ones you go back to over and over again. So it's worth thinking about why each one matters for the romance, not just the plot.
-
-These are the mundane intimacies, the daily needs that become charged when you're meeting them in someone else's presence. When you share meals, you see how they eat; you watch their choices; you see if they even eat when they're stressed. Sleeping nearby means hearing them breathe, knowing when they have nightmares, being aware of them in the dark. As you repeatedly experience these ordinary yet significant moments of exposure, they build familiarity that bypasses both characters' defences because there's nothing to defend against. It's just breakfast. It's just sleep. Except it isn't.
-
-Cooperation is one of the most powerful forced interaction types because it requires trust, communication, and mutual reliance, all the ingredients of intimacy delivered under the guise of getting a job done.
+Within your pressure cooker, what specific situations force interaction? These are the mundane intimacies, the daily needs that become charged when you're meeting them in someone else's presence. When you share meals, you see how they eat. Sleeping nearby means hearing them breathe, knowing when they have nightmares. These ordinary moments build familiarity that bypasses both characters' defences because there's nothing to defend against. It's just breakfast. It's just sleep. Except it isn't.
 
 **Shared necessities:**
 *These mundane intimacies are where the real connection builds, not through dramatic moments, but through the accumulation of seeing someone eat, sleep, and exist as a human being.*
@@ -395,7 +356,7 @@ _______________________________________________________________
 _______________________________________________________________
 
 **Enforced cooperation:**
-*Cooperation is one of the most powerful forced interaction types because it requires trust, communication, and reliance, all the ingredients of intimacy, delivered under the guise of getting a job done.*
+*Tasks that require trust, communication, and reliance deliver all the ingredients of intimacy under the guise of getting a job done.*
 
 | Task They Must Do Together | What It Forces Them to Reveal | How It Shifts the Dynamic |
 | --- | --- | --- |
@@ -405,11 +366,6 @@ _______________________________________________________________
 
 **What daily contact is absolutely unavoidable?**
 What do they have to do together every single day?
-
-___
-
-**How do ordinary people in the setting cope with the same confinement?**
-*Your leads aren't the only ones trapped. Servants, lower-ranking members, civilians: how do people with less power or fewer choices handle the same daily pressures? Their experience can ground the pressure cooker in your world rather than making it feel like it exists only for the romance.*
 
 ___
 
@@ -467,17 +423,11 @@ ___
 
 If your protagonist has been isolated, sheltered, or touch-starved before the forced proximity begins, the pressure cooker hits differently. The proximity doesn't just bring them close to the love interest. It brings them close to experiences, sensations, and freedoms they've never had. The love interest becomes tangled up in all of it: the first person who touched them gently, the first person who treated them as capable, the first person whose presence felt like safety instead of surveillance.
 
-**Does your protagonist enter the pressure cooker from a place of deprivation?**
-*If they've been sheltered, isolated, touch-starved, or denied agency before the forced proximity begins, the experience will hit differently. The love interest doesn't just become a romantic possibility; they become tangled up in the protagonist's first taste of freedom, touch, or choice.*
-
-What has your protagonist been denied before the pressure cooker?
+**What has your protagonist been denied before the pressure cooker?**
 
 _______________________________________________________________
 
-How does the love interest become associated with those first experiences?
-*The first person who touched them gently. The first person who treated them as capable. The first person whose presence felt like safety instead of surveillance:*
-
-_______________________________________________________________
+**How does the love interest become associated with those first experiences?**
 
 _______________________________________________________________
 
@@ -508,9 +458,7 @@ ___
 
 Daily routines that are formed during confinement develop a pattern. In these routines, individual moments are magnified. And it's the quiet beat of "I have to" becoming "I want to" that's one of the most powerful patterns in a romance.
 
-Consider Feyre's evening dinners with Rhysand and the Inner Circle in *A Court of Mist and Fury*. The first time they happen, they're an expectation. She's moved into the townhouse and dinner is being served; there's no other option than to go. However, over time the dinners become a part of her recovery process. She begins to look forward to seeing him and the others. She even notices when someone is missing from the table. The routines become safe havens for her, and the individual that created this routine becomes a part of that sense of security.
-
-This is the impact of daily routines on individuals in forced proximity. Routines create intimacy via the repetition of experience and not through momentous revelations. A single dinner doesn't revolutionise everything. But the sum total of the experiences and the familiarity that develops through repetition, the joking between each other, the way you can tell someone's mood based on the position of their fork, that type of connection is what captivates the reader.
+Consider Feyre's evening dinners with Rhysand and the Inner Circle in *A Court of Mist and Fury*. The first time they happen, they're an expectation. She's moved into the townhouse and dinner is being served; there's no other option than to go. However, over time the dinners become a part of her recovery process. She begins to look forward to seeing him and the others. She even notices when someone is missing from the table. Routines create intimacy via repetition, not momentous revelations. A single dinner doesn't revolutionise everything. But the sum total of the experiences, the joking, the way you can tell someone's mood based on the position of their fork, that type of connection is what captivates the reader.
 
 **What daily routines develop in the confined space?**
 
@@ -543,11 +491,9 @@ ___
 
 ## Relief & Breathing Room
 
-Constant pressure isn't sustainable, for characters or for readers. Moments of relief make the pressure meaningful by contrast.
+Constant pressure isn't sustainable, for characters or for readers. Moments of relief make the pressure meaningful by contrast. They're also where your characters process what's happening to them: reflecting on the moment that got under their skin, starting to realise they're in trouble.
 
-Relief beats serve a crucial narrative function: they're where your characters process what's happening to them. During high-pressure scenes, your leads are reacting, surviving, performing. In the calmness that follows those intense moments, your characters will reflect on what they experienced, relive the moment that got under their skin, and start to realise they're in trouble.
-
-Relief is also where the romantic arc becomes visible *to the characters themselves*. Early in forced proximity, a moment alone is exactly that: blessed solitude, a break from the person driving them mad. But there's a turning point, and it's one of the most satisfying beats you can write. The moment when a character gets the solitude they wanted and realises they don't want it anymore. They want the other person there. That realisation is quiet, and it changes everything.
+Relief is where the romantic arc becomes visible *to the characters themselves*. Early in forced proximity, a moment alone is blessed solitude, a break from the person driving them mad. But there's a turning point, and it's one of the most satisfying beats you can write. The moment when a character gets the solitude they wanted and realises they don't want it anymore. They want the other person there. That realisation is quiet, and it changes everything.
 
 **When does the pressure temporarily release?**
 Moments when they can be apart, when danger pauses, when they get privacy or solitude:
@@ -583,9 +529,7 @@ There's a certain time in forced proximity when all the tension builds up to a b
 
 In romantasy, this is often represented by using the worldbuilding to create an image of what's occurring with the characters as the break point happens. In *Fourth Wing*, when Violet and Xaden let go of their control over their emotions while in close proximity, their magic explodes throughout the area creating an image of their unspoken connection. Maas represents this same concept in a similar fashion. When Feyre's powers get out of control during moments of extreme emotional intensity, the magic shows visually what she's feeling but hasn't expressed verbally. The world reacts to the breaking point.
 
-One of the most obvious ways that romantasy has an advantage over contemporary romance is in providing a clear visual representation of the breaking point. The ice cracking beneath her feet. The shadows reaching out to her involuntarily. The wards flaring when he gets too close. The use of magic provides a vocabulary to describe the moment of transition from internal strain to an external release, and the end product is a satisfying, visceral payoff for the prolonged build-up of slow-burn pressure.
-
-However, the breaking point needs to feel like it was earned. There needs to be multiple examples of the character resisting their desires, staying composed in a situation that would normally elicit a reaction, swallowing words, and carefully maintaining distance. The reason the release is so effective is that the reader has witnessed the characters holding themselves back for such a long period of time that the eventual breakdown seems almost unavoidable. The longer the restraint, the bigger the release.
+One of the most obvious ways that romantasy has an advantage over contemporary romance is in providing a clear visual representation of the breaking point. The ice cracking beneath her feet. The shadows reaching out to her involuntarily. The wards flaring when he gets too close. Magic provides a vocabulary for the moment of transition from internal strain to external release, and the end product is a satisfying, visceral payoff for the prolonged build-up of slow-burn pressure. But the breaking point needs to feel earned. The reader must have witnessed the characters holding themselves back long enough that the eventual breakdown seems almost unavoidable. The longer the restraint, the bigger the release.
 
 **What does the pressure-release moment look like in your story?**
 A confession? A kiss? A fight that turns into something else? Magic that escapes? A moment of vulnerability that can't be taken back?
@@ -646,18 +590,6 @@ Do they escape? Complete the mission? Confess feelings? Get external rescue? Doe
 
 ___
 
-**What happens when the systems inside the pressure cooker break down?**
-*Supply lines fail. Authority figures lose control. Rules stop being enforced. Alliances fracture. When the structure that held the pressure cooker together starts to crack, the characters lose their routines, their safety nets, and their excuses for maintaining distance. What breaks first in your setting, and how does that breakdown force your characters closer together, or threaten to tear them apart?*
-
-___
-
-**What does each character stand to lose personally if the pressure cooker fails?**
-*Not the plot stakes, the personal ones. A shot at redemption, a family member's safety, their reputation, their sense of identity. The higher the personal cost of failure, the more the confinement weighs on them, and the more they need the other person, whether they admit it or not.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ---
 
 ## How Confinement Changes Them
@@ -715,13 +647,13 @@ That's the beat that separates good forced proximity from great forced proximity
 
 ### The Three Possible Responses
 
-There are three ways people typically react when the external pressure of their confinement is lifted, and your decision on which way they react will shape your post-proximity story's emotional arc.
+There are three ways people typically react when the external pressure is lifted, and your decision shapes the post-proximity emotional arc.
 
-**They cling.** Either one or both characters will attempt to keep the closeness going by trying to recreate the same confined space, seeking each other out, or simply refusing to accept that things have changed. Cloying as this may be at times, clinging can also be a signal that the character still hasn't figured out what they're feeling; they've become dependent on the closeness, not the individual themselves.
+**They cling.** One or both characters attempt to keep the closeness going, seeking each other out, refusing to accept that things have changed. Clinging can signal that the character has become dependent on the closeness itself, not the individual.
 
-**They pull away.** Upon achieving freedom, the panic sets in. Because there's no longer an external justification for the feelings, they now stand revealed as a choice rather than a requirement. That's frightening. Pulling away is the most common and generally the most interesting response, since it requires the character to endure the pain of the absence and ultimately find out what they truly miss. Once two people are separated, there's an unexplainable feeling of loss, and a different type of ache that can't be rationalised or explained away.
+**They pull away.** Without external justification, the feelings stand revealed as a choice rather than a requirement. That's frightening. Pulling away requires the character to endure the pain of absence and ultimately discover what they truly miss.
 
-**They test.** After a while, the character begins to create opportunities for contact. Not the forced, daily, unavoidable contact of the pressure cooker, but deliberate, chosen moments. Sending a message that didn't need to be sent. Making a visit that didn't need to happen. These tests allow your characters to confirm that the relationship exists outside of the confines that made it necessary.
+**They test.** The character creates deliberate opportunities for contact. Sending a message that didn't need to be sent. Making a visit that didn't need to happen. These tests confirm the relationship exists outside the confines that made it necessary.
 
 **How does each character respond when the pressure cooker ends?**
 *Characters often respond differently from each other. One might cling while the other pulls away, and that mismatch creates its own tension.*
@@ -756,63 +688,25 @@ This is a key worldbuilding question. If your world has magical bonds, instituti
 
 ### What the Absence Reveals
 
-What the absence of the pressure cooker reveals is what your character actually misses. If they miss the *person*, the connection is real. If they miss the *situation*, the excitement, the danger, the intensity, the connection may not survive peacetime. Be honest about this distinction, because readers will know if you've forced a happy ending the story hasn't earned.
-
-Secrets kept during confinement, habits formed together, guilt about things said or done: these pressures often resonate long after the physical confinement has ended. The pressure cooker can create a new kind of emotional prison even after the walls come down.
+What the absence reveals is what your character actually misses. If they miss the *person*, the connection is real. If they miss the *situation*, the excitement, the danger, the intensity, the connection may not survive peacetime. Be honest about this distinction, because readers will know if you've forced a happy ending the story hasn't earned.
 
 **When the pressure cooker ends, what changes?**
 Is it sudden (the siege breaks, the mission ends) or gradual (the constraints loosen over time)?
 
 ___
 
-**What does each character do first when they're free?**
-Do they seek each other out, or do they pull away? Why?
-
-___
-
 **What do they miss: the person, or the situation?**
-Be honest. The answer might be different for each character, and it might not be flattering.
-
-___
-
-**How has the world outside the pressure cooker changed while they were inside?**
-*The world doesn't pause while your characters are confined. Alliances shift, wars progress, seasons turn. What do they walk out into, and how does the changed world create new pressures or remove old ones?*
+*Be honest. The answer might be different for each character, and it might not be flattering.*
 
 ___
 
 **What lingers after the pressure cooker period?**
-*Confinement leaves traces. Consider: secrets kept during confinement, habits formed together, sensory memories that ambush them, guilt about things said or done, knowledge of vulnerabilities seen, and private jokes or rituals.*
+*Confinement leaves traces: secrets kept, habits formed together, sensory memories that ambush them, knowledge of vulnerabilities seen, private jokes or rituals.*
 
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+___
 
 **What act of choice proves the connection is real?**
 Not a grand gesture necessarily. Sometimes it's small: a message sent, a door left open, a return that didn't have to happen. What does the character do when they're free that proves they'd choose this person without the pressure?
-
-___
-
-**Can the relationship survive without the external pressure that created it?**
-This is the honest question. Some relationships are forged in the fire and tempered by freedom. Others were only possible because the fire was burning. Which is yours?
-
-___
-
----
-
-## The Diagnostic Question
-
-**If my characters tried to walk away from each other right now, what would stop them?**
-
-If the answer is "nothing" or "they'd feel bad," your pressure cooker doesn't have enough grip. Strong answers involve severe consequences: execution for desertion, a magical bond that would kill them, the mission failing and people dying. Weak answers (guilt, awkwardness, missing each other) can layer on top of strong constraints, but they're not enough on their own.
-
-*See also the diagnostic in Section 14: Institutions & Structures, which tests whether your institutional constraints have enough grip to hold.*
-
-**What is the cost of separation in your story?**
-The consequences should be severe enough that staying together isn't just convenient but necessary.
 
 ___
 
@@ -820,7 +714,9 @@ ___
 
 ## Integration Check
 
-Your pressure cooker doesn't exist in isolation. It's built from the worldbuilding you've already done. Check these connections:
+**Diagnostic question: If my characters tried to walk away from each other right now, what would stop them?** If the answer is "nothing" or "they'd feel bad," your pressure cooker doesn't have enough grip. Strong answers involve severe consequences: execution for desertion, a magical bond that would kill them, the mission failing and people dying. Weak answers (guilt, awkwardness, missing each other) can layer on top of strong constraints, but they're not enough on their own. *(See also Section 14: Institutions & Structures, which tests whether your institutional constraints have enough grip to hold.)*
+
+Your pressure cooker is built from the worldbuilding you've already done. Check these connections:
 
 | Worldbuilding Element | How It Feeds Your Pressure Cooker | Example |
 | --- | --- | --- |

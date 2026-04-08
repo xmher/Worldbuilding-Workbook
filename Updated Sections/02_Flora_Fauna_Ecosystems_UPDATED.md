@@ -119,18 +119,6 @@ _______________________________________________________________
 
 ---
 
-#### Flora & Fauna Self-Check
-
-*Review what you've built so far. Check any that apply, then address the ones that need fixing.*
-
-| Mistake | Does This Apply to You? | What to Fix |
-|---------|------------------------|-------------|
-| **Decorative Ecosystem:** Nature exists in your world but characters never interact with it meaningfully | | |
-| **Convenient Creature:** A creature exists solely to bond characters or give powers, with no ecology or independent life | | |
-| **Bond That Does Everything:** A creature bond creates the romance automatically, skipping the work of building love and trust | | |
-
----
-
 *With those pitfalls in mind, let's lay the groundwork for your world's ecosystem.*
 
 ## The Ecosystem Foundation
@@ -158,13 +146,6 @@ _______________________________________________________________
 #### *What's the overall health of the ecosystem?*
 
 *Thriving? Balanced? Under pressure from civilization? Recovering from past damage? Dying?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### **What do people eat in your world?**
-*What crops grow, what animals are raised for food, what's foraged from the wild? Food shapes daily life more than almost anything else.*
 
 _______________________________________________________________
 
@@ -198,46 +179,23 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-#### **What do seasonal changes look like for plants and animals?**
-*Migration, hibernation, blooming, leaf fall, breeding seasons? These cycles shape daily life and can create natural story deadlines.*
+#### **How do the seasons shape life in your world?**
+*What changes with the seasons -- migration, harvest deadlines, blooming cycles, dangerous weather? Pick one or two seasonal shifts that matter most to daily life or your story.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-#### **Has anything gone extinct or become endangered?**
-*A species hunted out, a plant overharvested, a creature lost to magical catastrophe? Extinction reshapes ecosystems and can carry cultural grief.*
+#### **Has anything gone extinct, become endangered, or invaded from elsewhere?**
+*A species hunted out, a plant overharvested, a creature that's spread beyond its territory? Ecological disruptions create conflict and carry cultural weight.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-#### **Are there any invasive or problematic species?**
-*A plant that chokes out crops, an animal that destroys livestock, a magical creature that's spread beyond its original territory? Ecological problems create conflict and story hooks.*
+#### *How does your natural world create pressure, revelation, or connection between your characters?*
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### *How does your climate shape intimacy and romance?*
-
-*A glove removed in a freezing world means something different from bare skin in a tropical one. What does your climate make scarce or intimate?*
-
-**What specific climate element affects your romance, and how?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#### *How does wilderness create pressure, revelation, or connection between your characters?*
-
-*The natural world can pressure characters together, reveal who they really are, or connect them through shared experience. Which does your story use?*
-
-**For each function that applies, describe the specific wilderness element and what it forces, reveals, or creates.**
+*Climate can shape intimacy (a glove removed in a freezing world means something). Wilderness can force proximity, reveal character, or connect through shared experience. What specific element of your natural world affects your romance, and how?*
 
 *(Write your answer below)*
 
@@ -316,7 +274,7 @@ The animals people have tamed shape daily life, economy, and culture. How someon
 
 #### ***⬥ Core** What animals have been domesticated in your world?*
 
-*Think about what your protagonist interacts with daily. Which animals reveal character through how people treat them?*
+*Think about what your protagonist interacts with daily. Which animals reveal character through how people treat them? Include magical creatures if any have been domesticated.*
 
 **What domesticated animals exist in your world? For the 2-3 most important, describe their purpose, what they are, and who keeps them.**
 
@@ -328,21 +286,11 @@ The animals people have tamed shape daily life, economy, and culture. How someon
 
 &nbsp;
 
-#### *Are there domesticated magical creatures?*
+#### *Do your main characters have animal companions?*
 
-*If so, what are they used for and who has access to them?*
+*How someone treats their animal reveals character. Does the animal accept or resist the other character? That small moment of acceptance can mark relationship progression.*
 
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-#### *Does your protagonist have an animal companion?*
-
-*How someone treats their animal reveals character. What does this companion show readers about your protagonist?*
-
-**Does your protagonist have an animal companion? If so, what is it, what is its name, and what does the animal mean to them?**
+**Does your protagonist or love interest have an animal companion? Describe the animal, its name, what it means to them, and how it reacts to the other character.**
 
 *(Write your answer below)*
 
@@ -352,63 +300,11 @@ _______________________________________________________________
 
 &nbsp;
 
-#### *Does your love interest have an animal companion?*
+#### *Could an animal create intimacy or reveal character in your story?*
 
-*Does the animal accept your protagonist? That small moment of acceptance can mark relationship progression.*
+*Stables are private and physical. Sharing a saddle forces contact. Caring for an injured creature together builds domestic intimacy. A wildlife encounter where each reacts differently reveals who they really are. What animal-adjacent moment could show up in your story?*
 
-**Does your love interest have an animal companion? If so, what is it, what is its name, and what does the animal mean to them?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
----
-
-#### *Could a stable, shared ride, or animal-care scene create intimacy in your story?*
-
-*Stables are private, physical, domestic. Two people grooming a horse side by side strips away social performance. Sharing a saddle forces contact that neither character can avoid. Where could this kind of animal-adjacent intimacy show up in your story?*
-
-**Describe a scene where an animal creates physical proximity or emotional intimacy between your characters.**
-
-*What's the scenario and how does it play out?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
----
-
-#### *Do your characters encounter wildlife together?*
-
-*Shared encounters reveal who each person truly is. What might show your protagonist a new side of the love interest?*
-
-**Describe a wildlife encounter your characters share. How does each react differently?**
-
-*What does the contrast reveal about them?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#### *Do your characters care for an animal together?*
-
-*Shared caregiving builds domestic intimacy and reveals nurturing instincts. What creature might bring them together?*
-
-**Could your characters care for a creature together? What creature, and why does it need care?**
-
-*What does the shared experience create between them?*
+**Describe a scene where an animal creates physical proximity, emotional intimacy, or character revelation between your characters.**
 
 *(Write your answer below)*
 
@@ -427,7 +323,7 @@ _______________________________________________________________
 
 *Your animals need to eat, and so do your people. Let's look at what grows in your world.*
 
-## Agriculture, Wild Plants & Forageing
+## Food & Sustenance
 
 If your world has Earth-like agriculture, skip the basics and focus on what's unique: magical crops, supernatural plants, or specific foods that matter to your story.
 
@@ -435,19 +331,11 @@ Land is power. Whoever controls the farmland controls the people on it, and scar
 
 ---
 
-#### ***⬥ Core** What are the staple crops?*
+#### ***⬥ Core** What do people eat, grow, and gather?*
 
-*The grains, roots, or plants that feed most people:*
+*What staple crops feed most people? What animals are raised for food? What's foraged from the wild? Food shapes daily life more than almost anything else.*
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### *What non-food crops are important?*
-
-*Cloth, medicine, and intoxicants shape daily life. What might your characters wear, use for healing, or drink?*
-
-**Beyond staple food, what fiber, medicinal, and intoxicant plants exist in your world? What are they used for?**
+**List your world's staple foods (crops, livestock, foraged) and any non-food crops that matter (fibre, medicine, intoxicants).**
 
 *(Write your answer below)*
 
@@ -457,11 +345,23 @@ _______________________________________________________________
 
 &nbsp;
 
-#### *How does food, land, or agriculture create tension in your romance?*
+#### ***⬥ Core** What's dangerous to eat, and who knows the difference?*
 
-*Land is power. Scarcity forces alliances. Harvest festivals blur social boundaries. A character who splits their last loaf of bread with a stranger has earned the right to fall in love. What agricultural reality puts pressure on your characters' relationship?*
+*What your characters know about wild plants reveals where they've been and how they've survived. A gap in knowledge between your characters is a gap in experience, and that's where romantic tension lives.*
 
-**How does agriculture or the harvest cycle create a romantic opportunity or obstacle in your story?**
+**What plants or creatures in your world are dangerous to eat? Who would know and who wouldn't?**
+
+*(Write your answer below)*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+#### *Could food, land, or plant knowledge create a romantic moment or obstacle?*
+
+*Scarcity forces alliances. Harvest festivals blur social boundaries. One character teaching the other to forage -- fingers brushing over leaves, the "powerful" one suddenly dependent on the "ordinary" one who knows which mushrooms won't kill them. What food-related moment could matter in your story?*
 
 *(Write your answer below)*
 
@@ -474,48 +374,6 @@ _______________________________________________________________
 ---
 
 Give a few plants unique names, appearances, and properties your readers can track. When plants have specific, memorable properties, they become tools you can use throughout your story.
-
----
-
-#### ***⬥ Core** What can be gathered from the wild, and what's dangerous?*
-
-*What your characters know about wild plants reveals where they've been and how they've survived. A gap in knowledge between your characters is a gap in experience, and that's where romantic tension lives.*
-
-**What plants in your world are safe to eat and which are dangerous?**
-
-*Who would know the difference and who wouldn't? Could this knowledge gap matter in your story?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-#### *Who knows forageing skills?*
-
-*Rural common knowledge? Specialised profession? Lost art? Class-dependent? Consider whether this creates a knowledge gap between your characters, because the one who knows plants holds quiet power over the one who doesn't.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### *Could a forageing or plant-knowledge scene build your romance?*
-
-*One character teaching the other to find food. Fingers brushing over leaves. The "powerful" one suddenly dependent on the "ordinary" one who knows which mushrooms won't kill them. Could this reversal or intimacy work in your story?*
-
-**Which character knows about plants and which is out of their depth?**
-
-*What does this knowledge gap reveal about each of them? What intimate moment could forageing create?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 ---
 
@@ -615,16 +473,13 @@ The moment a bond forms should feel earned, not assigned. The strongest bonding 
 
 | Category | Examples |
 |----------|----------|
-| **Flying Creatures** | Dragons, wyverns, griffins, phoenixes, rocs, pegasi, hippogriffs, thunderbirds, harpies |
-| **Shapeshifters** | Werewolves, werecats, skinwalkers, selkies, kitsune, tanuki, doppelgangers, mimics |
-| **Aquatic** | Merfolk, sea serpents, krakens, sirens, kelpies, selkies, leviathans, water horses, naiads |
-| **Forest & Nature** | Unicorns, treants, dryads, will-o'-wisps, sprites, satyrs, centaurs, giant spiders, dire wolves |
-| **Undead & Dark** | Vampires, wraiths, banshees, revenants, liches, specters, ghouls, wights, death hounds |
-| **Elemental** | Fire salamanders, ice wyrms, earth golems, storm spirits, magma beasts, frost giants, djinn |
-| **Fae & Spirits** | Pixies, brownies, redcaps, bogarts, pucks, changelings, banshees, will-o'-wisps, sluagh |
-| **Chimeric & Hybrid** | Chimeras, manticores, sphinxes, cockatrices, basilisks, hydras, perytons, owlbears |
-| **Bonded/Familiar Types** | Ravens, cats, owls, snakes, foxes, wolves, small dragons, fire lizards, shadow hounds |
-| **Giant Versions** | Giant eagles, dire bears, mammoth wolves, enormous boars, colossal serpents, titanic stags |
+| **Flying** | Dragons, wyverns, griffins, phoenixes, pegasi, thunderbirds |
+| **Shapeshifters** | Werewolves, selkies, kitsune, skinwalkers |
+| **Aquatic** | Merfolk, sea serpents, krakens, sirens, kelpies |
+| **Forest & Nature** | Unicorns, dryads, centaurs, dire wolves, treants |
+| **Fae & Spirits** | Pixies, brownies, redcaps, changelings, will-o'-wisps |
+| **Chimeric & Dark** | Chimeras, manticores, basilisks, vampires, wraiths, banshees |
+| **Bonded/Familiar Types** | Ravens, cats, wolves, small dragons, fire lizards, shadow hounds |
 
 #### ***⬥ Core** What magical creatures exist in your world?*
 
@@ -662,21 +517,17 @@ _______________________________________________________________
 
 ---
 
-#### *Do any creatures in your world bond with humans?*
+### Creature Bonds
 
-*If no, skip to the next section.*
+*If no creatures in your world bond with humans, skip to the next section.*
 
-_______________________________________________________________
+The creature bond often parallels the romantic bond -- two beings learning to trust each other. The strongest bonding scenes share a structure: crisis, then choice, then fusion. Tairn bonds with Violet because she risks her life to defend a weaker dragon. Manon chooses the battered "bait beast" everyone dismissed.
 
-_______________________________________________________________
+#### ***⬥ Core** How do creature bonds work in your world?*
 
-#### *How does the bond form?*
+*How does the bond form -- what crisis or choice triggers it? What does it provide (communication, shared senses, extended lifespan)? What does it cost (shared pain, responsibility, behavioural changes)?*
 
-*The strongest bonding scenes share a structure: crisis, then choice, then fusion. Tairn bonds with Violet because she risks her life to defend a weaker dragon. Manon chooses the battered "bait beast" everyone dismissed. What crisis and choice could trigger the bond in your story?*
-
-**How does the bond form in your world?**
-
-*What crisis triggers it? What choice reveals character? Why does the creature respond?*
+**Describe your creature bond: how it forms, what it gives, and what it demands.**
 
 *(Write your answer below)*
 
@@ -686,27 +537,11 @@ _______________________________________________________________
 
 &nbsp;
 
-#### *What does the bond provide?*
+#### *Do your main characters have bonded creatures?*
 
-*Communication? Shared senses? Telepathy? Empathic connection? Shared magic? Extended lifespan?*
+*Bonded creatures create shared responsibility and parallel romantic bonds. If both characters have bonded creatures, how do the creatures relate to each other -- do they mirror the romantic tension?*
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### *What does the bond cost or demand?*
-
-*Responsibility? Shared pain? Shortened human lifespan? Behavioral changes?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### *Do your characters have bonded creatures?*
-
-*Bonded creatures create shared responsibility and parallel romantic bonds. How might these relationships mirror or contrast with the romance?*
-
-**If both characters have bonded creatures, describe each: What type of creature, what is its name, and what is the nature of the bond?**
+**Describe each character's bonded creature (type, name, nature of bond) and how the creatures interact with each other.**
 
 *(Write your answer below)*
 
@@ -716,17 +551,9 @@ _______________________________________________________________
 
 &nbsp;
 
-#### *If both characters have bonded creatures, how do the creatures relate to each other?*
+#### *Is the creature bond separate from romance?*
 
-*Do the creatures reflect the romantic tension? Mirror the relationship's progression? Create obstacles or opportunities for the characters?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### *Could the characters have the creature bond without having a romantic relationship?*
-
-*Are there bonded rider pairs who aren't romantically involved? Is romance a separate thing from creature partnership?*
+*Are there bonded pairs who aren't romantically involved? Does the bond create circumstances for love, or does it dictate romantic outcomes? (The best bonds create proximity and shared responsibility, but love still has to be built.)*
 
 _______________________________________________________________
 
