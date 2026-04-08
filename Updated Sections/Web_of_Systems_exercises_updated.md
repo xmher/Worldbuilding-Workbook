@@ -634,18 +634,27 @@ _______________________________________________________________
 
 ## The Final Connection Check
 
-Three questions to determine whether your worldbuilding is doing its job:
+You've tested individual systems. Now zoom out and check the whole web. These three questions determine whether your worldbuilding is doing its job.
 
 **Can I remove the romance and still have a complete fantasy plot?**
+
 If yes → Romantic Fantasy (romance enhances but isn't structurally essential)
 If no → Fantasy Romance (romance is the structural core)
+
 Both are valid! But knowing which helps you check if worldbuilding serves the right story.
 
+_______________________________________________________________
+
 **Can I remove the fantasy elements and still have the same romance?**
+
 If yes → Worldbuilding might be decorative. Strengthen connections.
 If no → Good. Worldbuilding is doing essential work.
 
-**Does every major system connect to the romance?** For any that don't, either strengthen the connection or acknowledge it exists for atmosphere.
+_______________________________________________________________
+
+**Does every major system connect to the romance?** For each major system you've built (magic, politics, economy, culture, religion, geography, history), does it connect to your romance? For any that don't, either strengthen the connection or acknowledge it exists for atmosphere.
+
+_______________________________________________________________
 
 _______________________________________________________________
 

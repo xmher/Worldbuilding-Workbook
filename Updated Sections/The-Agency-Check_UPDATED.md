@@ -475,13 +475,11 @@ _______________________________________________________________
 
 ## Agency in the Ending
 
-Ultimately, the final decision should be made actively by the characters, rather than arriving at it passively. After all the obstacles, all the worldbuilding pressure, all the forces working to bring them together or pull them apart, the last act of the story must include a clear and active decision.
+The last act of the story must include a clear, active decision. Not just "the villain is defeated and now they're together" but a choice the characters make.
 
 **Do your characters shape their own ending, or does the plot deliver it to them?**
 
-*Describe the specific decision one or both characters make in the final act that seals their commitment. Not just "the villain is defeated and now they're together" but an active choice. If the ending feels granted (the curse just lifted, the prophecy completed itself, the villain conveniently died) rather than earned, look for a place to insert a final choice. Even if external forces resolve the plot, the relationship resolution should come from the characters themselves.*
-
-_______________________________________________________________
+*Describe the specific decision that seals their commitment. If the ending feels granted (the curse just lifted, the prophecy completed itself) rather than earned, look for a place to insert a final choice.*
 
 _______________________________________________________________
 
@@ -489,23 +487,13 @@ _______________________________________________________________
 
 **If the characters had chosen differently, how would the ending change?**
 
-*Describe the alternate ending that was possible. If you can't imagine a different outcome regardless of their choices, they didn't have meaningful agency in the resolution.*
+*If you can't imagine a different outcome regardless of their choices, they didn't have meaningful agency in the resolution.*
 
 _______________________________________________________________
 
-_______________________________________________________________
+**How does their choice ripple outward, and what does it cost them?**
 
-**How does their choice ripple outward -- who else is affected by what they decide?**
-
-*Hint: The best romantasy endings don't just resolve the couple's story. Their choice to be together (or to sacrifice) changes something for other people too.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does this final choice cost them, and how do readers see it?**
-
-*The cost is what makes the earned ending feel earned. What do they sacrifice, risk, or give up in this final moment? If the cost happens offscreen or is never mentioned again, it doesn't register as real.*
+*The best romantasy endings don't just resolve the couple's story. Their choice changes something for other people too. And the cost is what makes it feel earned.*
 
 _______________________________________________________________
 
