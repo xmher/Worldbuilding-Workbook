@@ -762,8 +762,6 @@ The loophole is one of the most rewarding elements of oath-based romance: the mo
 
 ---
 
----
-
 ### ✦ Checkpoint: Foundations & Social Rules
 
 *Pause and review everything so far -- values, gender, daily life, family, food, architecture, religion, manners, hospitality, and oaths. Do your culture's core values create a genuine obstacle for your romance? Are the social rules consistent with those values? If your culture prizes individual freedom but your hospitality customs are rigidly formal, decide which one gives. Small contradictions now become plot holes later.*
@@ -948,8 +946,6 @@ _______________________________________________________________
 
 ---
 
----
-
 ### ✦ Checkpoint: Boundaries & Identity
 
 *Review your answers on taboos, sexuality, reputation, privacy, and touch. Do the boundaries you've built escalate logically? Is a forbidden glance less dangerous than forbidden touch, which is less dangerous than a forbidden night together? If two taboos contradict each other, resolve that now.*
@@ -1105,8 +1101,6 @@ _______________________________________________________________
 _______________________________________________________________
 
 > *Cross-check: Do the marriage customs here match the legal requirements in your government? See Section 5: Government, Power & Law.*
-
----
 
 ---
 

@@ -436,62 +436,38 @@ In addition to whatever magical or political pressures exist, you'll also need t
 
 | Question | Protagonist → Love Interest | Love Interest → Protagonist |
 |---|---|---|
-| *What draws them to this specific person?* | *Example (ACOTAR): His willingness to sacrifice everything without asking for credit* | *Example: Her refusal to break, even when the world tried to make her* |
-| *What does this person have that no one else has?* | *Example: He understands her darkness without flinching* | *Example: She sees past the mask everyone else believes* |
-| *What do they see that no one else sees?* | *Example: The real Rhys, generous, funny, grieving* | *Example: A survivor who chose to fight, not just endure* |
-| *Beyond attraction, why do they work as partners?* | *Example: Complementary strengths; her human perspective, his political knowledge* | *Example: She challenges him; he creates space for her to grow* |
 | What draws them to this specific person? | | |
 | What does this person have that no one else has? | | |
 | What do they see that no one else sees? | | |
 | Beyond attraction, why do they work as partners? | | |
 
-**How will readers discover what makes these two unique to each other?**
+*The answers should be specific enough that they couldn't apply to just anyone. To everyone else, your High Lord is a monster, the enemy, the prince. But your protagonist sees someone beneath that label, and is seen in return. This shared view is what creates the inevitability of "why these two?"*
 
-*Pick one answer from the table above. Describe a specific scene where the reader gets to see this, not told in narration, but demonstrated through action, dialogue, or a revealing moment.*
-
-_______________________________________________________________
+**Pick one answer from above. Describe a specific scene where readers discover this through action or dialogue, not narration.**
 
 _______________________________________________________________
 
-Much of the time, this is the core of a romantasy romance. To everyone else, your High Lord is a monster, the enemy, the prince. But your protagonist sees someone beneath that label, and is seen in return. This shared view, beyond titles and reputations, is what creates an inevitability to "why these two?"
+_______________________________________________________________
 
 ---
 
 ## The Alternative Path Test
 
-There must be viable alternatives to make the choice meaningful. Simply because your protagonist doesn't have other options doesn't mean they're making a choice. It's the absence of alternatives dressed up as devotion.
+There must be viable alternatives to make the choice meaningful. The absence of alternatives dressed up as devotion isn't a real choice.
 
-**What other romantic option exists for your protagonist?**
+**What other romantic option exists for each character, and why do they reject it?**
 
-*Another character, choosing to be alone, a safer relationship? The alternative doesn't need to be a full love triangle, but it needs to be real enough that the reader can imagine the protagonist taking it.*
+*Another character, choosing to be alone, a safer relationship? The alternative doesn't need to be a full love triangle, but it needs to be real enough that the reader can imagine them taking it. The reason for rejection must be character-driven, not "the bond says so."*
 
-(Another character, choosing to be alone, a safer/easier relationship)
-
-_______________________________________________________________
-
-**Why do they reject this alternative?**
-
-*The reason must be character-driven, rooted in who they are and what they want. "The bond says so" or "because he's the male lead" isn't a reason. What specifically about the love interest makes the protagonist choose the harder path?*
-
-(Must be a character-driven reason, not just "the bond says so")
+Protagonist's alternative and why they reject it:
 
 _______________________________________________________________
 
-**What other option exists for your love interest?**
-
-*Same question from the other side. Could they choose someone easier, less complicated, more politically convenient? What's the path of least resistance they're rejecting?*
-
 _______________________________________________________________
 
-**Why do they reject it?**
-
-*Again, character-driven. What does the protagonist offer that no easier option can match? What need does the protagonist fulfil that a simpler choice wouldn't?*
+Love interest's alternative and why they reject it:
 
 _______________________________________________________________
-
-**Is there an easier, safer option than being together?**
-
-If yes: Good. Choosing the harder path demonstrates agency and commitment.
 
 _______________________________________________________________
 

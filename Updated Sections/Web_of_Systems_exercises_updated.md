@@ -597,13 +597,34 @@ _______________________________________________________________
 
 ## When Systems Collide: Tension vs. Plot Holes
 
-Sometimes worldbuilding elements seem to contradict. The key test: does the contradiction give your characters an impossible choice between two things they value? If yes, it's productive tension. Keep it. If not -- if magic resurrects the dead but everyone treats death as permanent, or teleportation exists but the plot requires a three-week journey -- it's a plot hole that will erode trust.
+Sometimes worldbuilding elements seem to contradict. The key test: does the contradiction give your characters an impossible choice between two things they value? If yes, it's productive tension. Keep it. If not, it's a plot hole that will erode trust.
 
-| Contradiction in Your World | Productive Tension or Plot Hole? | Your Fix (if plot hole) |
+Common plot holes to watch for:
+
+- Magic resurrects the dead, but everyone treats death as permanent
+- Teleportation exists, but the plot requires a three-week journey
+- Mind reading is common, but political intrigue depends on secrets
+- Healing magic is available, but characters stay injured for dramatic purposes
+
+**List potential contradictions in your systems:**
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+| Contradiction | Productive Tension or Plot Hole? | Your Fix (if plot hole) |
 | --- | --- | --- |
 | | | |
 | | | |
 | | | |
+
+If it's a plot hole, you need to:
+
+- Remove one contradictory element
+- Add a limitation explaining why both can exist
+- Make the contradiction itself part of the plot
 
 **Which contradiction, if left unfixed, would most damage your reader's trust in your romance's stakes?**
 
