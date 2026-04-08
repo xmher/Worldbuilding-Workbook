@@ -24,10 +24,11 @@ Every river, every desert, every castle wall in your world will be either drawin
 - The Sensory World
 - Climate, Weather & Seasons
 - Dangerous Regions
-- Borders & Boundaries
+- Borders, Barriers & Boundaries
 
 ### Part Two: Geography & Romance
 
+- The Pressure Cooker: Your Story
 - Home & Belonging
 - Entering Each Other's Worlds
 - Travel & Distance
@@ -119,31 +120,6 @@ If your characters could simply walk away, your geography needs to make that imp
 | **The Dangerous Quest** | Mission requires partnership; separating means failure or death | Quest narratives, escort missions |
 | **The Snowed-In/Stranded** | Weather or disaster traps characters until conditions change | Cabin romance, "only one bed" |
 | **The Royal Court** | Political obligations, arranged proximity, can't leave without scandal | Court intrigue, political marriage |
-
-### Geographic Barriers That Create Stakes
-
-| Barrier Type | Romantic Function | Story Possibilities |
-|--------------|-------------------|---------------------|
-| **Mountain ranges** | Separate nations/cultures; make travel seasonal | Characters from opposite sides; winter trapping |
-| **Oceans** | Create complete separation; make departure permanent | Letters across distance; the weight of leaving |
-| **Deserts** | Isolate cultures; make resources precious | Oasis politics; survival journeys |
-| **Magical borders** | Can be crossed only by certain people or under certain conditions | One character can cross, one can't |
-| **War zones** | Make travel deadly; create no-man's-land between peoples | Enemies from opposing sides |
-| **Political borders** | Crossing means treason or exile | Forbidden love across enemy lines |
-| **Cursed/Blighted lands** | Regions too dangerous to cross; require special protection | Must find another way; one character immune, one isn't |
-| **Class geography** | Slums vs. palace district; social ruin to cross | Wrong-side-of-tracks romance; secret meetings in between spaces |
-
-### Environmental Conditions That Affect Romance
-
-| Condition | How It Creates Pressure | Romantic Beats It Enables |
-|-----------|------------------------|---------------------------|
-| **Harsh winters** | Traps characters indoors; requires shared warmth | Forced proximity; "snowed in" scenarios |
-| **Dangerous nights** | Characters must shelter together after dark | Shared watch; protective sleeping arrangements |
-| **Seasonal access** | Passes close, ships can't sail, travel becomes impossible | Racing against time; trapped until spring |
-| **Resource scarcity** | Sharing becomes necessary; generosity becomes meaningful | Sharing food/water; sacrifice for the other |
-| **Extreme heat** | Travel only possible at night; requires shade-sharing, water rationing | Night travel intimacy; sharing precious water; heat exhaustion care |
-| **Hostile territory after dark** | Monsters or predators hunt at night; must camp together for safety | One bed/bedroll situations; taking turns on watch; protective instincts |
-| **Corrupted/poisoned land** | Regions that drain magic or health; must move quickly or rely on healer | Dependency on one character's abilities; racing against deterioration |
 
 ---
 

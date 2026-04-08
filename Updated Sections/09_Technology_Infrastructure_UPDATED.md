@@ -376,7 +376,7 @@ _______________________________________________________________
 
 ---
 
-## Privacy & Observation
+## Privacy & Surveillance
 
 Privacy scarcity allows the most minor actions to have major significance, which means that as long as characters can't talk, touch, or linger around one another, every single action becomes a gesture. Show us characters that are extremely attentive to those who may overhear, watch, or come upon them at any second. Constantly waiting to hear the sound of someone walking up to their door. Whispering things that will still be heard. That sense of relief from having finally, *finally,* been able to achieve some level of privacy, but then the uncertainty as to what to do with the longed-for privacy.
 
@@ -384,42 +384,26 @@ Because of the court environment in *The Cruel Prince*, and the many layers of h
 
 Illustrate how your characters create privacy when it's not available to them. A coded look. The conversation had in plain sight, but one that implies something much different than the actual words. A quick moment in a crowd, or behind a column. And when privacy is suddenly accessible, that shift should mean something. The door that closes, the vacant room, the space where they can finally speak freely without fear of reprisal. Privacy is more than the absence of witnesses; it's the mental shift that occurs when characters no longer have to perform.
 
-In many historical and fantasy settings, the biggest privacy issue isn't surveillance technology. It's people. Servants, attendants, family members, and household staff see and hear everything. Their presence shapes what can be said and done, and who knows the household's secrets.
+In many historical and fantasy settings, the biggest privacy threat isn't surveillance technology. It's people. Servants, attendants, family members, and household staff see and hear everything. A servant who dresses, bathes, or sleeps nearby is a witness to everything your characters want to hide, and whether that servant becomes a confidant or an informant changes the entire shape of your romance.
 
-**How private are domestic spaces?**
-*The thickness of walls and the layout of rooms determine whether whispered words stay between two people or become public knowledge. Privacy at home (or the lack of it) shapes every intimate moment.*
+**⬥ Core: How private are domestic spaces?**
+*Walls, locks, shared rooms, and household staff all determine whether "alone" is truly alone. Think about wall thickness, whether locks exist (and who has them), who can enter uninvited, and whether servants or attendants are present during private moments.*
 
-**How thick are the walls? Do people have separate rooms, or share space?**
+*(Write your answer below)*
 
-_______________________________________________________________
+&nbsp;
 
-**Do locks exist? Who has them?**
-*The ability to lock a door is the ability to create private space. A locked door means choosing vulnerability; an unlocked one means performing for an audience that could arrive at any moment.*
+&nbsp;
 
-_______________________________________________________________
-
-**Who can enter someone's private space uninvited?**
-*A private space is only as private as the people who can walk in. Servants, family members, landlords, officials: if others have access, then "alone" is always conditional.*
-
-_______________________________________________________________
+&nbsp;
 
 **What surveillance exists?**
-*Surveillance determines how carefully your characters must perform in public. Magical scrying, spy networks, and informants all create different levels of pressure, and different risks if your characters are caught together.*
-
-**What methods of watching or monitoring people exist in your world?**
-*Think about magical scrying, spy networks, informants, or nothing systematic at all.*
+*Surveillance determines how carefully your characters must perform in public. Think about magical scrying, spy networks, informants, servants, or nothing systematic at all. What methods of watching or monitoring people exist in your world?*
 
 _______________________________________________________________
 
-**Where can people have truly private conversations?**
-*In a world where privacy is scarce, the locations where characters can speak freely become sacred. These are the places where masks drop, truths emerge, and the relationship can advance beyond what public performance allows.*
-
-_______________________________________________________________
-
-**What are the consequences of being overheard?**
-*The stakes of privacy shape how carefully characters speak and act. If the wrong person hearing the wrong thing means execution, exile, or scandal, then every whispered word carries enormous weight.*
-
-**What's the worst thing that could happen if your characters were overheard together?**
+**Where can people have truly private conversations, and what happens if they're overheard?**
+*In a world where privacy is scarce, the locations where characters can speak freely become sacred. The stakes of privacy, whether the wrong word overheard means scandal, exile, or execution, shape how carefully characters speak and act.*
 
 _______________________________________________________________
 
@@ -434,83 +418,16 @@ _______________________________________________________________
 | How do they cover their tracks? | |
 | What would happen if they were caught? | |
 
-### Servants & Attendants
-
-**Do servants exist in your world? How common are they?**
-Servants witness everything. Their presence shapes what can be said and done, and who knows the household's secrets.
-
-**What do servants do, and what do they see?**
-*Servants who dress, bathe, clean, and attend their employers witness the most private moments of their lives. A servant who handles personal items, sleeps nearby, or is present during vulnerable moments is a witness to everything your characters want to hide.*
-
-Cooking, cleaning, dressing, attending, managing households. Are they present for private moments? Do they handle personal items? Do they sleep nearby?
-
-**What's the relationship between servants and employers?**
-*The nature of the servant-employer bond determines whether servants are allies or threats to your romance. A loyal retainer who becomes a confidant is a very different story element from an ambitious servant who trades secrets for advancement.*
-
-Loyal retainers? Interchangeable staff? Family-like? Strictly hierarchical?
-
-**Can servants be trusted with secrets?**
-*What motivates a servant's loyalty (or disloyalty) affects whether your characters can ever truly be alone. A servant who becomes a trusted confidant can enable the romance; one who becomes an informant can destroy it.*
-
-What motivates their loyalty or disloyalty?
-
-**Do your characters have servants?**
-*Think about how servants affect your characters' ability to have private moments, and whether any servants become confidants or threats.*
-
-**Does your protagonist have servants or attendants? Does your love interest?**
-*Think about how the presence or absence of attendants affects their ability to have private moments.*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**How do servants affect what your characters can do privately?**
-*The constant presence of others shapes intimacy. What strategies do your characters use to find moments alone, and what happens when those strategies fail?*
-
----
-
-### ✦ Checkpoint: Distance, Communication & Privacy
-*Pause and look at your answers so far. How do your travel times, communication speeds, and privacy levels work together? Do they create consistent obstacles, or does one undercut the others? If your characters can teleport instantly but also can't send a message, ask yourself whether that tension is intentional or a gap you need to resolve. Adjust before moving on.*
-
 ---
 
 ## Daily Life & the Texture of Time
 
-Daily life shapes the sensory world of your story: the quality of light, the temperature of rooms, the smell of a city, what meals look and taste like. These details make your world feel lived-in.
+Daily life shapes the sensory world of your story: the quality of light, the temperature of rooms, the smell of a city, what meals look and taste like. These details make your world feel lived-in and create the sensory backdrop against which every romantic moment plays out. You don't need to answer every question about daily life, but you do need enough texture that your reader can feel the world around your characters.
 
-### Time & Labour
+### Daily Life Texture
 
-**How much of the day do ordinary people spend on survival tasks?**
-*Food preparation, water collection, heating, cleaning: how does this shape what time is left for anything else?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Who does this labour?**
-Servants? Women? Lower classes? Everyone? Magical solutions?
-
-**How much leisure time does each class have?**
-
-_______________________________________________________________
-
-### Lighting & Darkness
-
-**How do people light their spaces?**
-Candles, oil lamps, torches, magical light, gas, electricity:
-
-**How expensive is lighting?**
-Can everyone afford to stay up after dark, or is darkness the norm for the poor?
-
-**What does nighttime look like in cities, in homes, and in the countryside?**
+**⬥ Core: What does a typical day look like for your protagonist? For your love interest?**
+*Think about what they see, smell, hear, and touch. Consider lighting (candles, oil lamps, magical light), heating and cooling (fireplaces, body heat, enchanted warmth), water access (wells, rivers, enchanted plumbing), bathing (public bathhouses, private chambers, rarely), and how much of the day goes to survival tasks versus leisure. What does daily life feel like at their social level?*
 
 *(Write your answer below)*
 
@@ -520,113 +437,8 @@ Can everyone afford to stay up after dark, or is darkness the norm for the poor?
 
 &nbsp;
 
-**What can and can't be done after dark?**
-*Think about safety, curfews, and what activities require daylight.*
-
-_______________________________________________________________
-
-### Heating, Cooling & Shelter
-
-**⬥ Core: How do people stay warm?**
-Fireplaces, central heating, braziers, body heat, magical warmth:
-
-**How do people stay cool?**
-Fans, shade, water, magical cooling, architectural solutions:
-
-**Where does fuel for heating come from, and who controls it?**
-
-_______________________________________________________________
-
-**What temperature extremes exist in your world?**
-Can cold or heat kill? What do people do to survive extremes?
-
-*Think about how extremes force people into shared shelter or close quarters.*
-
-_______________________________________________________________
-
-### Water, Sanitation & Bathing
-
-Bathing technology shapes some of romantasy's most charged scenes. The setting (river, bathhouse, private chamber) determines the kind of vulnerability on display. In pre-industrial worlds, a true bath may be a luxury, making the act itself significant.
-
-**⬥ Core: How do people get clean water?**
-*Wells, rivers, aqueducts, pumps, magical purification: the answer shapes daily labour, disease risk, and who controls a basic necessity.*
-
-**Where does drinking water come from, and how far do people travel to get it?**
-
-_______________________________________________________________
-
-**How do people bathe?**
-Public bathhouses, private baths, rivers/lakes, basins, rarely:
-
-_______________________________________________________________
-
-Frequency: ______________________________________________________
-
-**What does bathing look like for your protagonist? For your love interest?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**What sanitation exists?**
-Sewers, chamber pots, outhouses, magical waste disposal:
-
-**What are the health implications of your sanitation level?**
-Disease risk, cleanliness, smell:
-
-_______________________________________________________________
-
-**What does your world smell like?**
-A world without modern sanitation has a rich sensory landscape. Cities smell of woodsmoke, horse, tallow, and river mud. People smell of sweat, leather, and herbs. These baseline scents make your world feel lived-in.
-
-**What are the dominant smells of your world: in cities, in homes, in the countryside?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-**What does your love interest smell like against that background?**
-*Give their scent an in-world justification (herbal wash, scented oils, magical essence) and think about how it makes your protagonist feel.*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-### Food & Drink
-
-Food marks class in visible ways and shared meals negotiate power. A character who has never eaten anything sweet reacts differently to a feast than one who takes it for granted. Every shared meal communicates status, care, and vulnerability.
-
-**⬥ Core: Where does food come from, and how does it reach people?**
-*Markets, farms, foraging, trade caravans, magical agriculture. How food reaches your characters tells you what happens when supply lines break.*
-
-Farming? Markets? Trade caravans? Foraging? Magical agriculture?
-
-_______________________________________________________________
-
-**How is food preserved?**
-Salting, smoking, drying, pickling, cold storage, magical preservation:
-
-Fresh food daily? Seasonal eating? Long-term storage possible?
-
-**What food is available to the wealthy, to ordinary people, and to the poor?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**What does your protagonist typically eat? What does your love interest typically eat?**
+**⬥ Core: What does your world smell, taste, and sound like?**
+*A world without modern sanitation has a rich sensory landscape. Cities smell of woodsmoke, horse, tallow, and river mud. People smell of sweat, leather, and herbs. Food marks class in visible ways: a character who has never eaten anything sweet reacts differently to a feast than one who takes it for granted. What are the dominant sensory textures of your world?*
 
 *(Write your answer below)*
 
@@ -637,7 +449,7 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 &nbsp;
 
 **What would a shared meal reveal about the gap between your characters?**
-*Who hosts, who serves, who speaks, who may leave: think about who would feel out of place.*
+*Who hosts, who serves, who speaks, who may leave. Every shared meal communicates status, care, and vulnerability. Think about who would feel out of place.*
 
 *(Write your answer below)*
 
@@ -647,23 +459,15 @@ Fresh food daily? Seasonal eating? Long-term storage possible?
 
 &nbsp;
 
-### Timekeeping
-
-**How do people tell time, and how precise is it?**
-Sun position, bells, clocks, magical timekeepers:
-
-*Imprecise timekeeping means "meet me at sunset" creates ambiguity that "meet me at 6:15 PM" doesn't.*
-
-**Do people schedule precisely, or approximately?**
+**What can and can't be done after dark?**
+*Lighting costs, curfews, and safety all shape what nighttime looks like. Darkness creates both danger and opportunity for intimacy. Is staying up after dark a luxury? Does your world have any form of timekeeping, or is "meet me at sunset" as precise as it gets?*
 
 _______________________________________________________________
 
----
+**How do temperature or weather extremes force people together?**
+*Shared warmth, shared shelter, and shared survival are some of romantasy's most reliable engines for intimacy. What extremes exist in your world, and how do people cope?*
 
-### ✦ Checkpoint: Daily Life & Class
-*Pause and look at your answers so far. Does the daily life you've described match the technology level you established at the start? If your world is pre-industrial but your characters seem to have easy access to lighting, heating, and fresh food, something may need adjusting. Also check: would a wealthy character and a poor character experience a noticeably different version of daily life, or have you accidentally made things too uniform?*
-
-*Cross-check: Does the daily routine you've described here match what you established in Culture & Customs (Section 3)? If your culture section describes elaborate morning rituals but your technology section shows no running water, something needs reconciling. Daily life is where culture and technology must agree.*
+_______________________________________________________________
 
 ---
 

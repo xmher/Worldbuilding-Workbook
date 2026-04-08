@@ -4,6 +4,8 @@ Every genre has its pitfalls, and romantasy is no exception. Here are the most c
 
 Chances are, many of these are things you have seen before as a reader. This appendix will help you recognise when you're falling into them as a writer, and show you how to fix them.
 
+**A note on how to use this section:** This section provides a quick overview of common pitfalls. If you've worked through the detailed exercises in earlier sections, use this as a refresher and final check -- it'll help you spot anything you might have missed. If you're just starting out, this is a great place to begin -- it'll show you what to watch for as you build your world, and you can follow the cross-references to dig deeper on the issues that matter most to your story.
+
 They're grouped by type so you can jump to what's most relevant:
 
 - **Getting the Balance Wrong** (Mistakes #1–3): Too much world, too little world, or world and romance that never actually meet.
@@ -17,6 +19,8 @@ They're grouped by type so you can jump to what's most relevant:
 # Getting the Balance Wrong
 
 These mistakes are all about the relationship between your world and your romance. Too disconnected, too lopsided, or too perfectly engineered.
+
+*For detailed exercises on how your world's systems interact with each other and with your romance, see Section 16: Web of Systems.*
 
 ---
 
@@ -190,6 +194,8 @@ _______________________________________________________________
 
 These mistakes all undermine tension in the same fundamental way: they teach readers not to believe what you've told them about your world.
 
+*For structured tools to stress-test your world's internal logic and rule consistency, see Section 17: Consistency Check.*
+
 ---
 
 ## Mistake #5: Political Danger That Pauses for Romance
@@ -315,6 +321,8 @@ _______________________________________________________________
 # Power and Agency
 
 These mistakes involve romantic dynamics where the worldbuilding itself does the work that the characters should be doing, through captivity, magical bonds, or fate.
+
+*For a full analysis framework on character autonomy and power dynamics, see Section 18: The Agency Check.*
 
 ---
 

@@ -2,6 +2,8 @@
 
 These sheets are designed for easy access while writing. Fill them in as you complete other sections, then keep them accessible during drafting.
 
+> **A note before you begin:** You don't need to fill out every section. Sections marked **★** are essential for any story — start there. Sections marked **◇** are optional depending on your story's focus. If your world doesn't have complex magic, skip that sheet. If religion doesn't drive your plot, leave it blank. These reference sheets should serve *your* story, not the other way around.
+
 ---
 
 ## How to Use This Section
@@ -20,7 +22,7 @@ These sheets are designed for easy access while writing. Fill them in as you com
 
 ---
 
-## WORLD AT-A-GLANCE
+## ★ WORLD AT-A-GLANCE
 
 **Genre/Subgenre:** ________________________________________________
 
@@ -92,7 +94,7 @@ _______________________________________________________________
 
 ---
 
-## CHARACTER QUICK REFERENCE
+## ★ CHARACTER QUICK REFERENCE
 
 ### Protagonist
 
@@ -220,7 +222,7 @@ _______________________________________________________________
 
 ---
 
-## TIMELINE
+## ◇ TIMELINE
 
 ### Story Timeline
 
@@ -280,7 +282,7 @@ _______________________________________________________________
 
 ---
 
-## GLOSSARY
+## ◇ GLOSSARY
 
 ### Made-Up Terms
 
@@ -338,7 +340,7 @@ _______________________________________________________________
 
 ---
 
-## THE MAGIC SYSTEM
+## ★ THE MAGIC SYSTEM (if applicable)
 
 (Reference: Section 10, Magic System)
 
@@ -418,7 +420,7 @@ _______________________________________________________________
 
 ---
 
-## SENSORY PALETTE
+## ◇ SENSORY PALETTE
 
 Keep these details consistent throughout your writing.
 
@@ -478,7 +480,7 @@ _______________________________________________________________
 
 ---
 
-## SOCIETY & CULTURE
+## ◇ SOCIETY & CULTURE
 
 (Reference: Section 3, Culture, Customs & Daily Life)
 
@@ -528,7 +530,7 @@ _______________________________________________________________
 
 ---
 
-## RELIGION & BELIEF
+## ◇ RELIGION & BELIEF
 
 (Reference: Section 6, Religion, Myth & Prophecy)
 
@@ -554,7 +556,7 @@ _______________________________________________________________
 
 ---
 
-## LAWS THAT MATTER
+## ◇ LAWS THAT MATTER
 
 (Reference: Section 5, Government, Power & Law)
 
@@ -582,7 +584,7 @@ Effect on romance: ________________________________________________
 
 ---
 
-## THE ROMANCE MECHANICS
+## ★ THE ROMANCE MECHANICS
 
 ### How They're Forced Together
 

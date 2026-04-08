@@ -221,9 +221,6 @@ Places that have historical significance carry the weight of the past into the p
 
 ---
 
-### ✦ Checkpoint: Your Timeline So Far
-*Pause and look at your answers so far. Do your foundational events, defining conflicts, and historical places all point toward the same present-day tensions -- or are some pulling in unrelated directions? If an event doesn't connect to anything your characters feel today, consider cutting it or linking it to something that does.*
-
 ---
 
 ## How History Works in Your World
@@ -317,38 +314,14 @@ You've mapped who controls the records. But institutions only reach so far -- mo
 Elite record-keeping is one thing, but what do common people actually *know* about the past? This shapes what your characters "know," and characters raised on songs learn different lessons than characters raised on archives.
 
 **⬥ Core: How do most people learn about history?**
-
-- Stories from elders and family
-- Religious teachings
-- Songs, ballads, performances
-- Festivals commemorating events
-- Monuments and public art
-- Formal education (if available)
-- Gossip and folk memory
-
-**Which are most common in your world?**
-Think about how your characters learned the history they know. Songs? Grandparents' stories? Temple teachings? Two characters who learned history through different channels may "know" completely different pasts.
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What history do children learn?**
-What stories are they told? What do they grow up "knowing" about the past? The stories children absorb become the beliefs adults struggle to question, even when they fall in love with someone those stories told them to hate.
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What do scholars know that ordinary people don't?**
-*If your characters come from different classes, they may have been taught fundamentally different histories of the same events. A farmer's version of "the great war" might be completely different from what a court historian recorded.*
+*Songs, grandparents' stories, temple teachings, festivals, monuments, formal education, gossip? Two characters who learned history through different channels may "know" completely different pasts. Think about how your protagonist and love interest each learned the history they carry.*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **How did your protagonist learn about the past, and how did your love interest?**
-*Songs, propaganda, archives, family stories, temple teachings -- the channel shapes the version. A character raised on bardic ballads knows a romanticised history; one who read court archives knows a politicised one. When they compare notes, the clash isn't about facts but about whose truth counts.*
+*A character raised on bardic ballads knows a romanticised history; one who read court archives knows a politicised one. When they compare notes, the clash isn't about facts but about whose truth counts.*
 
 *(Write your answer below)*
 
@@ -358,24 +331,17 @@ _______________________________________________________________
 
 &nbsp;
 
-The way to incorporate history in your writing is by using bits and pieces. Some phrases you hear from everyone. Monuments that are simply walked past without being explained. Old songs with lyrics that no one can remember the words or meaning to. Make history emerge from the things that characters take for granted ("the wall has always been there"), as opposed to telling history as a series of expository statements. If your characters are going to discuss the history, provide them with their own perspectives on it: one calls it "the Great Liberation," another calls it "the Betrayal." And some of the most compelling historical moments occur when a character finds out that everything they were ever taught about something was a lie.
-
-**How does history show up in everyday life in your world?**
-*Think about the small, taken-for-granted ways the past is present: common sayings, street names, monuments people walk past without noticing, old songs, superstitions, holidays nobody remembers the origin of. These details make your world feel lived-in.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What phrases or sayings reference historical events?**
-*For example, people might say "cold as the Breach" without knowing what the Breach was, or curse using a long-dead tyrant's name. These fragments of history embedded in speech reveal what stuck in cultural memory.*
-
-_______________________________________________________________
-
-_______________________________________________________________
+Make history emerge from the things characters take for granted ("the wall has always been there") rather than telling it as exposition. Let characters have their own perspectives: one calls it "the Great Liberation," another calls it "the Betrayal."
 
 **⬥ Core: What do your characters take for granted as "just the way things are" that's actually a product of history?**
 *Borders, social rules, who lives where, what's forbidden -- these often feel permanent and natural, but they were created by specific events. The Wall in ACOTAR feels like geography, but it's politics. What in your world feels like bedrock but was actually built?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What phrases, sayings, or everyday details reference historical events?**
+*Common sayings ("cold as the Breach"), street names, monuments people walk past, old songs, holidays nobody remembers the origin of. These fragments reveal what stuck in cultural memory.*
 
 _______________________________________________________________
 
@@ -404,21 +370,8 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Why was it lost?**
-*War, conquest, natural disaster, deliberate destruction, neglect, or magical sealing -- the reason something was lost often matters as much as what disappeared.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**What ruins or remnants of the past are still visible in your world?**
-*Crumbling towers, old battlefields, abandoned cities, overgrown roads, magical scars on the landscape. These physical traces tell your characters (and readers) that the world wasn't always the way it is now.*
+**Why was it lost, and what ruins or remnants are still visible?**
+*War, conquest, deliberate destruction, neglect, magical sealing? Physical traces -- crumbling towers, old battlefields, abandoned cities, magical scars -- tell your characters the world wasn't always this way.*
 
 _______________________________________________________________
 
@@ -426,17 +379,10 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What do people believe about these ruins?**
-*Do they avoid them out of superstition? Mine them for building materials? Treat them as sacred? The stories people tell about old places are often as revealing as the places themselves -- and sometimes those stories are wrong.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-*Cross-check: Are ruins and artifacts consistent with your technology section (Section 9)? If ancient ruins contain advanced mechanisms or magical infrastructure, make sure the technology level you described there could have produced them -- or explain why that knowledge was lost.*
+*Cross-check: Are ruins and artifacts consistent with your technology section (Section 9)?*
 
 **What would change if your characters found what was lost?**
-*Would it dissolve the obstacle between them, deepen it, or reveal that the obstacle was built on a lie? Lost knowledge matters most when finding it has consequences.*
+*Would it dissolve the obstacle between them, deepen it, or reveal that the obstacle was built on a lie?*
 
 _______________________________________________________________
 
@@ -444,32 +390,8 @@ _______________________________________________________________
 
 ---
 
-**How much does your world actually know about its past?**
-*Think about different time periods: recent memory, a few generations back, centuries ago, and the mythic past. How accurate is what people believe about each?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Where does history blur into myth?**
-
-At what point does "this happened" become "the stories say"?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What do people believe about the time before recorded history?**
-*Creation stories, mythic ages, legendary founders -- what do people "know" about the very oldest past? These beliefs often shape what your world considers natural or sacred, even if the beliefs are wrong.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What stories do people tell about the past that are wrong?**
-*"Everyone knows" the old king was a hero, or that the elves started the war, or that the magic died on its own. But what if the accepted version is incomplete, distorted, or an outright lie? Wrong history believed as fact is one of the richest sources of conflict in storytelling.*
+**Where does history blur into myth, and what do people believe that's wrong?**
+*At what point does "this happened" become "the stories say"? What do people "know" about the oldest past -- creation stories, mythic ages, legendary founders? And what accepted version of history is actually incomplete, distorted, or an outright lie? Wrong history believed as fact is one of the richest sources of conflict in storytelling.*
 
 _______________________________________________________________
 
@@ -504,69 +426,28 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Do your characters discover this hidden history?**
-How and when? Historical discoveries should complicate as much as they clarify.
+**Do your characters discover this hidden history? How does it change things?**
+*Historical discoveries should complicate as much as they clarify. Does it explain why they're forbidden? Reveal they're not who they thought? Prove the hatred between their peoples was manufactured?*
 
 _______________________________________________________________
 
 _______________________________________________________________
-
-**How does learning the truth change everything?**
-Does it explain why they're forbidden? Reveal they're not who they thought? Prove that the hatred between their peoples was manufactured?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-### ✦ Checkpoint: The Information Landscape
-*Pause and look at your answers so far. Given who controls history and what's been lost or hidden, does your protagonist have a believable reason to not know the truth yet? And does your love interest's version of history genuinely conflict with the protagonist's, or do they agree too easily? If there's no friction in what they "know," go back and widen the gap.*
 
 ---
 
 ## How People Relate to the Past
 
-There are many ways people relate to their own history. Some hold their histories in reverence; some attempt to forget their histories; and some don't consider theirs at all. A couple's views on the past determine how each will perceive their inherited struggle as either a sacred obligation or as simply a bunch of old junk. And when one person falls in love with another with differing views of history, the clash isn't just personal. It's philosophical.
+A couple's views on the past determine how each will perceive their inherited struggle -- as a sacred obligation, a buried bomb, or a bunch of old junk. When two people with different views of history fall in love, the clash isn't just personal. It's philosophical.
 
 **What's your culture's attitude toward the past?**
-*A culture that reveres history treats ancestral feuds as sacred obligations. Your characters betray their ancestors by loving each other. A culture that ignores the past makes historical reveals more shocking; nobody expected the old wounds to matter. The attitude determines whether your characters' inherited conflict is a living force or a buried bomb.*
-
-Which describes your world (or different groups within it)?
+*A culture that reveres history treats ancestral feuds as sacred obligations. A culture that ignores it makes historical reveals more shocking. Which describes your world (or different groups within it)?*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How do people interact with historical sites?**
-*If ruins are sacred, a romantic scene set in one becomes sacrilege. If they're forbidden, meeting there makes your characters outlaws. The way your world treats its historical places determines what it means for your characters to stand in them together.*
-
-Are ruins sacred? Dangerous? Tourist attractions? Forbidden? Looted for materials?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Do people venerate ancestors?**
-*If your characters' peoples venerate their ancestors, then falling in love with the enemy isn't just a personal betrayal; it's a spiritual one. Ancestor veneration raises the stakes from "my family will be angry" to "my dead grandmother's spirit is watching me betray everything she fought for."*
-
-How? Shrines? Prayers? Consulting spirits? Obligation to fulfill their wishes?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Are there historical commemorations?**
-*Festivals and monuments refresh historical trauma on a schedule. If your world celebrates a victory that was your love interest's people's worst defeat, every anniversary becomes a scene waiting to happen.*
-
-Holidays marking past events? Monuments? Annual remembrances?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What do ordinary people argue about when it comes to the past?**
-*Not scholars -- regular people. Bar arguments, family dinner debates, neighbourhood grudges. "My grandfather says..." or "Everyone knows that was really about..." These everyday disagreements reveal what history is still alive and contested in your world.*
+**Do people venerate ancestors, commemorate historical events, or both?**
+*Ancestor veneration raises the stakes from "my family will be angry" to "my dead grandmother's spirit is watching me betray everything she fought for." Festivals and monuments refresh historical trauma on a schedule -- if your world celebrates a victory that was your love interest's people's worst defeat, every anniversary becomes a scene waiting to happen.*
 
 _______________________________________________________________
 

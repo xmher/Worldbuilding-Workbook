@@ -196,39 +196,23 @@ _______________________________________________________________
 
 **What sensory details would your characters notice most?**
 
-What they see: __________________________________________________
-
-What they hear: _________________________________________________
-
-What they smell: ________________________________________________
-
-What they feel (temperature, texture, air): ___________________________
-
-**How big is this location, and how long does it take to cross?**
-
-*Scale shapes everything. A location you can cross in thirty seconds creates different tension than one that takes an hour to traverse. A single room forces intimacy; a sprawling estate lets characters avoid each other -- or seek each other out.*
-
-_______________________________________________________________
-
-**Who lives or works here? Where within this location do people actually sleep, eat, and gather?**
-
-*Knowing where everyday life happens tells you where characters will run into each other -- and where they can hide. A barracks with shared sleeping quarters creates very different possibilities than a palace with private wings.*
+*Don't list everything -- pick the two or three details that carry emotional weight and distinguish this space from your other locations. What do they see, hear, smell, or feel that shapes the mood?*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What threats or dangers exist at this location?**
+**What's the scale, and who else uses this space?**
 
-*Think beyond dramatic combat. Dangerous wildlife, unstable structures, poisonous plants, treacherous weather, hostile locals, magical hazards. Everyday dangers shape how characters move through a space and what risks they take to be together.*
-
-_______________________________________________________________
+*A single room forces intimacy; a sprawling estate lets characters avoid each other. A barracks with shared sleeping quarters creates very different possibilities than a palace with private wings. Scale and occupancy together determine where characters will run into each other -- and where they can hide.*
 
 _______________________________________________________________
 
-**How do people get to this location from the nearest settlement or key location?**
+_______________________________________________________________
 
-*A location that takes three days on horseback through hostile territory creates very different story possibilities than one connected by a busy road. The journey to a location is often where anticipation builds.*
+**What dangers exist here, and how difficult is it to reach or leave?**
+
+*Think beyond dramatic combat: unstable structures, treacherous weather, magical hazards, hostile locals. Also consider access -- a location three days' ride through hostile territory creates different story possibilities than one connected by a busy road. Difficulty of access is one of your strongest tools for forced proximity.*
 
 _______________________________________________________________
 
@@ -236,9 +220,13 @@ _______________________________________________________________
 
 ---
 
-**What does this space force characters to do? What does it prevent them from doing?**
+#### Space and Consequences
 
-*Think about physical proximity, cooperation, vulnerability on the "force" side -- and escape, privacy, honesty on the "prevent" side. The best locations do both at once.*
+The physical mechanics of a space and the consequences of being in it are two sides of the same coin. What the space forces, what it prevents, how private it is, and what happens if they're caught -- together, these create the romantic tension of your scene.
+
+**What does this space force characters to do, and what does it prevent?**
+
+*Think about physical proximity, cooperation, vulnerability on the "force" side -- and escape, privacy, honesty on the "prevent" side. The best locations do both at once. Note the key physical features: exits, barriers, and dangerous elements that shape the mechanics of your scene.*
 
 *(Write your answer below)*
 
@@ -248,64 +236,18 @@ _______________________________________________________________
 
 &nbsp;
 
-**What features define the space?**
+**How private is this location, and what are the consequences of being found here?**
 
-*These physical features aren't just setting details; they're the mechanics of your romantic scene. Exits determine whether characters can flee; barriers determine what they can see and hide; dangerous elements determine whether proximity is a choice or a necessity.*
-
-Size/layout: ____________________________________________________
-
-Exits/entrances: _________________________________________________
-
-Barriers/obstacles: _______________________________________________
-
-Dangerous elements: _____________________________________________
-
-**What makes this location difficult to reach or leave?**
-
-*Difficulty of access is one of your strongest tools for forced proximity. If they can't easily leave, they must stay and face whatever happens between them. If they can't easily arrive, the effort of getting here raises the stakes of what happens once they do.*
-
-_______________________________________________________________
-
-**What makes this location immediately distinct from your other key locations?**
-
-*Every location needs a signature -- the constant wind, the smell of sulfur, the way sound echoes, the colour of the stone. If a reader couldn't tell your locations apart from a single sensory detail, they may be too similar.*
-
-_______________________________________________________________
-
----
-
-Ultimately, the amount of privacy in a specific location will affect the type of romantic tension created by that location. In a totally private setting, a couple has the opportunity to be vulnerable, but this takes away the thrill of transgressing boundaries. Total exposure makes every glance electric but prevents real honesty. Many romantasy scenes take place in semi-private settings. Private enough to be real, risky enough to be dangerous.
-
-**How private is this location?**
+*Total privacy enables vulnerability but removes transgression. Total exposure makes every glance electric but prevents honesty. Many romantasy scenes take place in semi-private settings -- private enough to be real, risky enough to be dangerous.*
 
 - ☐ Completely private: no chance of interruption
 - ☐ Semi-private: could be interrupted but unlikely
 - ☐ Risky: interruption is possible at any moment
 - ☐ Public: others are present or could arrive
 
-**Why is this level of privacy right for the moment that happens here?**
-
-*Total privacy enables vulnerability but removes transgression. Total exposure makes every glance electric but prevents honesty. What does your scene need?*
+Who might discover them, and what would happen? *(Be specific -- not just "scandal," but actual consequences. Exile? Broken alliance? A forced marriage to someone else?)*
 
 _______________________________________________________________
-
-**Who else could be here? Who has access?**
-
-*Knowing who might walk in, and what they'd think, defines the stakes of every private moment. A space where a rival could appear creates different tension than one where a mentor might arrive.*
-
-_______________________________________________________________
-
-**What would happen if they were discovered here together?**
-
-*Be specific. Not just "scandal," but actual consequences. Exile? Broken alliance? A forced marriage to someone else? The price of intimacy in this space is what makes stolen moments electric.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Can they see or hear someone approaching, or could they be surprised?**
-
-*A warning of interruption creates delicious tension; they know the clock is ticking. Surprise interruption creates crisis. Which serves your scene better?*
 
 _______________________________________________________________
 
@@ -319,35 +261,15 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What comfort, safety, or resource does this location provide?**
+**What closeness does this space allow -- and what does it prevent?**
 
-*Even dangerous locations usually offer something: shelter, warmth, food, silence. That offering shapes what kind of intimacy becomes possible. Characters who are cold huddle together. Characters who are fed can finally talk. Characters who feel safe can finally feel.*
+*The gap between what a space allows and what it prevents is where romantic tension lives. A space that allows physical closeness but prevents honest conversation creates a very different scene than one that does the opposite. Even dangerous locations usually offer something (shelter, warmth, silence) -- that offering shapes what kind of intimacy becomes possible. And the thing the space won't allow? That unmet desire is the engine of your best scenes.*
 
-_______________________________________________________________
+Physical closeness (touching, standing close, sharing warmth): _______________
 
-**What kinds of closeness does this space make possible?**
+Emotional closeness (speaking freely, showing vulnerability): _______________
 
-Physical (can they touch, stand close, be comfortable):
-
-_______________________________________________________________
-
-Emotional (can they speak freely, show vulnerability):
-
-_______________________________________________________________
-
-**What kinds of closeness are impossible here -- and why?**
-
-*The gap between what the space allows and what it prevents is where romantic tension lives. A space that allows physical closeness but prevents honest conversation creates a very different scene than one that does the opposite.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What do they want that this location won't allow?**
-
-*Unmet desire is the engine of romantic tension. If the space prevents what they want most (privacy, touch, honesty, escape), that gap between wanting and having is where your best scenes live.*
-
-_______________________________________________________________
+What they want that this location won't allow: ___________________________
 
 ---
 

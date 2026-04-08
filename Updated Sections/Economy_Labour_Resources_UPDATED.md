@@ -137,95 +137,31 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How is wealth created in your world?**
-*The source of wealth determines who has it, and who your characters have to fight, serve, or charm to get it. A world where wealth comes from magic creates different romantic obstacles than one where wealth comes from land.*
+**⬥ Core: How does wealth work in your world?**
 
-Agriculture? Trade? Craftsmanship? Mining? Magic? Conquest?
+*The source of wealth determines who has it. How it moves determines whether your characters can change their station. Fill in the quick-reference below, then use the space after it to describe what a stranger would notice walking through your world: how do rich and poor people dress, eat, and live differently?*
 
-_______________________________________________________________
+| Question | Your World |
+|---|---|
+| Where does wealth come from? (agriculture, trade, magic, conquest, mining?) | |
+| How is it distributed? (concentrated, regional, class-based, relatively equal?) | |
+| Can it be earned, or only inherited/granted? | |
+| Is the economy stable, in crisis, or in transition? | |
+| What economic pressure do ordinary people feel right now? | |
 
-_______________________________________________________________
-
-**How is wealth distributed?**
-
-*Concentrated wealth means a wider gap between your leads, and more people invested in keeping them apart.*
-
-Relatively equal? Concentrated among few? Regional variation? Class-based?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**⬥ Core: How does wealth inequality show up in everyday life?**
-
-*Think about what a stranger would notice walking through your world. Do rich and poor people dress differently? Live in different parts of town? Eat different food? The visible markers of wealth tell the reader (and your characters) who belongs where.*
+**Visible markers of wealth and poverty:**
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**How does wealth move?**
-*If wealth can only be inherited, your poor character can't earn their way up. Marriage or magic might be the only paths. If wealth can be earned, ambition becomes a romantic complication.*
+### Trade & Commerce
 
-Can it be earned through work? Only inherited? Granted by rulers? Won through conquest?
+*Trade shapes where people travel, who they meet, and what's available. Whoever controls trade routes controls who profits. If your characters are on opposite sides of that control, the economy itself becomes an obstacle between them.*
 
-_______________________________________________________________
+**What do people trade, who controls the routes, and what restrictions exist?**
 
-_______________________________________________________________
-
-### Economic Conditions
-
-**Is the economy currently stable, growing, or in crisis?**
-
-Prosperity? Slow decline? Post-war rebuilding? Famine or shortage? On the brink of collapse?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What economic pressures affect ordinary people right now?**
-
-Inflation? Scarcity? Heavy taxation? Unemployment? War disruption?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What choice is the current economy forcing on your characters?**
-
-*A war economy, famine, or recession doesn't just set the backdrop. It creates urgency. If the world is collapsing, falling in love might feel irresponsible, or it might be the only thing worth holding onto.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What do people in your world trade, and how do trade routes work?**
-
-*Trade routes shape where people travel, who they meet, and what's available. A character on a trade route sees the world; a character far from one might never leave home. Think about what gets moved, who moves it, and which roads or sea lanes connect your major settlements.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Who controls the trade routes, and what power does that give them?**
-
-*Whoever controls where goods move controls who profits. A family that holds a mountain pass, a guild that owns the river barges, a navy that patrols the shipping lanes. They decide who trades and who starves. If your characters are on opposite sides of that control, the economy itself becomes an obstacle between them.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How does the economy differ between regions?**
-
-*A port city and a mountain village probably have very different economic realities. Prices, available goods, common jobs, and levels of wealth can all shift from one region to the next. Where your characters come from shapes what they consider normal.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does a market or trading hub look like in your world?**
-
-*Markets are where your economy becomes visible and sensory. What stalls line the streets? What smells fill the air? What's shouted, haggled over, displayed under lock and key? A market scene grounds your world's economy in something the reader can picture, and it's a natural setting for characters to cross paths.*
+*Think about what gets moved, who moves it, and what rules govern it. Guild monopolies, import bans, and smuggling opportunities are all ready-made romantic obstacles.*
 
 _______________________________________________________________
 
@@ -244,29 +180,17 @@ Magic has to come from somewhere, and where it comes from determines who pays th
 | Magic as inheritance | Power passes through bloodlines, is gifted by the land, or is biologically determined | Those born into the right family, species, or caste | Everyone excluded by birth | In *ACOTAR*, the High Fae inherit magical power through blood. High Lords are chosen by the land's magic itself. The Lesser Fae are structurally locked into servant roles regardless of individual merit. |
 | Magic as commodity | Power is stored in objects, substances, or transferable units that can be bought, sold, or stolen | Those with wealth to purchase magical materials | Those forced to sell their power, their labour, or their very life force | In Sanderson's *Stormlight Archive*, currency is literally gemstones infused with magical energy. In *Warbreaker*, every person is born with one Breath that can be sold, meaning the wealthy can buy the souls of the poor. |
 
-The type of model you use will have major effects on the development of the romance in your story. If magic is labour, then a very strong character is also a very tired character and the romantic partner that gives them a break from all they are doing, that assists them, that recognises the price they pay for that great spell, is going to be an important part of the story in a very personal way. If magic is based on birthright, your romance is working against a social caste system. When a person with magical ability falls in love with someone that is considered beneath them socially, they risk losing their own standing within society. And if magic is a commodity, love can be confused with commerce: is a gift of magical power an act of love or an act of purchase?
-
-In *Fourth Wing*, the state controls magical labour absolutely. Navarre funnels its magically gifted citizens through Basgiath War College, where dragon riders become elite military assets and everyone else becomes expendable infantry. You don't get to decide if you're going to be a dragon rider or not; it's decided for you and you can lose your life in this decision. In the *Scholomance*, Enclaves are analogous to corporations: the wealthy class lives safely behind magical barriers and the independently operating wizards give up their magical abilities in exchange for a secure place to live. The pattern continues to repeat itself. Those at the top of the structure accumulate the majority of the magical resources. Those at the bottom of the structure do the hard, dangerous work.
-
-**What happens to people without magic?**
-An economy based on magic means people who don't have it aren't just financially impoverished. They're structurally excluded.
-
-Jude in *The Cruel Prince* is a human living in Elfhame, a world where the Fae can glamour humans into mindless servants, stripping them of will and identity. Being non-magical puts Jude at a risk of being enslaved, which goes beyond mere poverty. The only advantages she has over the Fae are that she can lie (the Fae can't) and she's been trained to fight. When she falls for Cardan, a Fae prince, there is more than just an emotional difference between them. It's existential. He belongs to the species that can erase her mind with a thought.
-
-In *ACOTAR*, the social hierarchy is based on biology: the High Fae are beautiful, powerful, long-lived, and legally protected. The Lesser Fae are responsible for all of the menial jobs such as cooking, cleaning, and maintenance. When Hybern attacks the Summer Court, the High Fae lock themselves in the upper areas of the kingdom and leave the Lesser Fae in the lower areas to be killed. The message is loud and clear. All that matters is how much magical blood runs through your veins.
-
-If magic can be extracted, stored, or stolen, then magical characters aren't just workers. They're resources. The level of romantic tension present in these novels is extreme: does your love interest view you as a person or a potential resource?
+Each model creates different romantic stakes. If magic is labour, the powerful character is also an exhausted one, and a partner who recognises that cost becomes essential. If magic is birthright, the romance fights a caste system. If magic is commodity, love risks being confused with commerce.
 
 **What happens to people without magic in your world?**
 
-*If your economy runs on magic, people who lack it aren't just poor. They're structurally locked out. What does this mean for daily survival? If one of your leads is ungifted while the other is powerful, the gap between them isn't just financial. It's existential.*
+*If your economy runs on magic, people who lack it aren't just poor. They're structurally locked out. If one of your leads is ungifted while the other is powerful, the gap between them isn't just financial. It's existential. (Think of Jude in* The Cruel Prince*, a human in a world where Fae can glamour humans into mindless servants, or the Lesser Fae in* ACOTAR*, locked into servant roles by biology.)*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
 **What barriers does your magic system put between lovers?**
-Think about the specific barriers your magic system creates:
 
 | Barrier | What It Looks Like | Question for Your Romance |
 |---|---|---|
@@ -276,41 +200,17 @@ Think about the specific barriers your magic system creates:
 | Lifespan disparity | Magical beings live centuries; non-magical partners age and die | Is the Fae character watching their human lover grow old? |
 | Glamour/mental control | One species can psychically dominate the other | How does the human partner trust that their feelings are real? |
 
-**Can magic create wealth or resources?**
+**Can magic create wealth? If so, why isn't everyone rich?**
 
-*If magic can solve money problems, you need a reason it doesn't, otherwise your characters' economic struggles feel artificial. The limitation you choose here becomes a plot constraint that keeps your romance under pressure.*
-
-Transmuting materials? Summoning resources? Faster production? Healing for pay? Magical transportation?
+*If magic can solve money problems, you need a reason it doesn't, otherwise your characters' economic struggles feel artificial. The best answers create romantic tension: magic costs something personal, it's restricted by the powerful, or ability is rare (creating envy or dependence between your leads).*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**If yes, why isn't everyone rich?**
+**Who controls magical economic power, and what magical services do people pay for?**
 
-*This is where you close the loophole. The best answers create romantic tension: magic costs something personal (a healer who shortens their own life), magic is restricted by the powerful (a guild that serves the rich), or magic ability is rare (one character has it and the other doesn't, creating envy or dependence).*
-
-Scarcity of mages? Magic costs something (health, lifespan, sanity)? Laws restrict it? Requires rare ability or training?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What magical labour is economically valuable?**
-
-*Magical services people pay for tell you where magical characters sit in the economy, and what they're worth to others. A love interest who's a paid healer has different leverage than one who's a court enchanter.*
-
-What magical services do people pay for?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Who controls magical economic power?**
-
-*Whoever controls magical labour controls magical people. If your mage character answers to a guild, a government, or a magical family, that's a leash on their freedom, and a constraint on who they can love and how openly they can love them.*
-
-Guilds? Government? Individual mages? Magical families?
+*Whoever controls magical labour controls magical people. If your mage character answers to a guild, a government, or a magical family, that's a leash on their freedom, and a constraint on who they can love.*
 
 _______________________________________________________________
 
@@ -324,20 +224,19 @@ _______________________________________________________________
 
 ## Currency & Scale
 
-**⬥ Core: What currency exists?**
+**⬥ Core: What currency exists, and what is it worth?**
 
-*You don't need a full monetary system, but knowing what your coins are called and roughly what they're worth lets you write scenes where money feels real. A character counting coppers hits differently than a character vaguely "being poor."*
+*You don't need a full monetary system. You need enough for readers to feel the gap when one character drops coins casually and the other counts every one. A character counting coppers hits differently than a character vaguely "being poor."*
 
-Coins (what metals, what denominations)? Paper money? Trade goods as currency? Magical currency?
+Name your currency and give readers a sense of scale:
 
-_______________________________________________________________
+| Denomination | Material | Rough Value | Example |
+|---|---|---|---|
+| | | | *Crown / Gold / 100 coppers / A year's rent for a commoner* |
+| | | | *Talon / Silver / 10 coppers / A decent horse* |
+| | | | *Bit / Copper / Base unit / A simple meal* |
 
-_______________________________________________________________
-
-**What's the rough scale of money?**
-Readers need to feel the weight of money in your story. What costs would make your protagonist wince, and what would your love interest spend without thinking? You don't need a full monetary system. You need enough for readers to feel the gap when one character drops coins casually and the other counts every one.
-
-| Item | Approximate Cost |
+| Benchmark | Approximate Cost in Your World |
 |---|---|
 | Day's unskilled labour wage | |
 | Simple meal | |
@@ -345,45 +244,9 @@ Readers need to feel the weight of money in your story. What costs would make yo
 | A decent horse | |
 | A year's comfortable living | |
 
-*Examples:*
-
-| Item | Approximate Cost |
-|---|---|
-| Day's unskilled labour wage | 5 copper pieces; a skilled craftsman earns 2 silver |
-| Simple meal | 2 copper at a tavern; 1 copper from a street vendor |
-
-**What's your currency called?**
-A few details about currency can make your world feel lived-in. What's stamped on a coin tells readers something about who's in power. What materials are used tells them what's valued. Perhaps gold coins show the king's face, or copper tokens bear a guild's symbol. Names often reflect history, rulers, or cultural values. A coin called a "blessing" implies different values than one called a "skull."
-
-| Denomination | Material | Value | What's Depicted |
-|---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
-
-*Examples:*
-
-| Denomination | Material | Value | What's Depicted |
-|---|---|---|---|
-| Crown | Gold | 100 coppers | Reigning monarch on front, royal crest on back |
-| Talon | Silver | 10 coppers | Griffin clutching a sword |
-| Bit | Copper | Base unit | Sheaf of wheat |
-
 **⬥ Core: How do people conduct trade?**
 
-*The method of trade shapes how your characters interact with money, and with each other. Barter creates face-to-face negotiation. Credit creates invisible debt. Magical contracts create supernatural enforcement. Each one affects the romance differently.*
-
-Coin? Barter? Credit? Letters of exchange? Magical contracts?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Are there trade restrictions that matter?**
-
-*Trade restrictions are ready-made romantic obstacles. If the guild says she can't sell to outsiders and he's an outsider, that's a wall between them that neither of them built.*
-
-Guilds controlling who can sell what? Import/export restrictions? Illegal goods?
+*Coin? Barter? Credit? Magical contracts? The method shapes how your characters interact with money, and with each other. Barter creates face-to-face negotiation. Credit creates invisible debt. Magical contracts create supernatural enforcement.*
 
 _______________________________________________________________
 
@@ -391,15 +254,7 @@ _______________________________________________________________
 
 **What's one purchase that would mean nothing to your wealthier character but everything to the other?**
 
-*If a night at an inn costs 5 coppers and your protagonist earns 3 coppers a day, the reader instantly understands what it means when the love interest drops a gold crown without thinking. Find the specific price point that makes the gap visceral.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Who controls the currency in your world?**
-
-*Whoever mints the coins or regulates the money supply holds invisible power. A king, a guild, a magical institution. The answer tells you who benefits from the system staying the way it is.*
+*Find the specific price point that makes the gap visceral. If a night at an inn costs 5 coppers and your protagonist earns 3 coppers a day, the reader instantly understands what it means when the love interest pays without thinking.*
 
 _______________________________________________________________
 
@@ -416,69 +271,29 @@ Show the gap through concrete details. What does each character's home look like
 
 | Level | What Life Looks Like |
 |---|---|
-| Wealthy/Elite | |
+| Wealthy/Elite | *Example: Multiple estates, servants for every task, can influence laws* |
 | Comfortable | |
 | Getting by | |
-| Struggling | |
+| Struggling | *Example: One missed harvest from hunger, mending clothes repeatedly* |
 | Impoverished | |
 
-*Examples:*
+**Can people change their economic class? If so, how? If not, what keeps them locked in place?**
 
-| Level | What Life Looks Like |
-|---|---|
-| Wealthy/Elite | Multiple estates, servants for every task, never think about cost, can influence laws |
-| Struggling | One missed harvest from hunger, mending clothes repeatedly, sharing rooms with strangers |
+*Through work? Marriage? Education? Magical ability? Or is class fixed at birth? The answer determines whether your romance is fighting against a wall or a fence. One can be climbed. The other can't. If the system is rigged, name the structures that keep people down: legal restrictions, economic barriers, social enforcement. The more specific you get, the harder the obstacle feels.*
 
-**Can people change their economic class?**
-Through work? Marriage? Education? Magical ability? Or is class fixed at birth? The answer to this question determines whether your romance is fighting against a wall or a fence. One can be climbed. The other can't.
-
-*Cross-check: Do your class markers here match what you described in Culture & Customs (Section 3)? If you said wealth shows up through clothing and food here, make sure your cultural details reflect the same signals.*
+*Cross-check: Do your class markers here match what you described in Culture & Customs (Section 3)?*
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What doors does wealth open that money alone doesn't explain?**
+**What doors does wealth open, and what does poverty lock people out of?**
 
-*Think beyond buying things. Wealth often buys access: to education, political influence, legal protection, better marriage prospects, or simply free time. These invisible advantages shape who your characters can become.*
-
-Access to education? Political influence? Legal protection? Better marriage prospects? Leisure time?
+*Think beyond buying things. Wealth buys access: education, political influence, legal protection, marriage prospects, free time. The things poverty locks people out of (healers, schools, travel, safety) become the stakes of your romance.*
 
 _______________________________________________________________
 
 _______________________________________________________________
-
-**What can't poor people do, have, or access in your world?**
-
-*Get specific. Can they see a healer? Send their children to school? Travel freely? Live safely? The things poverty locks people out of become the stakes of your romance.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**If mobility is possible, what's the path?**
-
-*If your characters come from different classes, social mobility is the escape hatch, or the false promise. Can your less wealthy character actually climb, or is the system rigged? This determines whether "we'll find a way" is realistic or delusional.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**If mobility is impossible, what keeps people locked in place?**
-
-*The thing that keeps your characters apart isn't just personal opposition. It's structural. Name the structures. The more specific you get, the harder the obstacle feels, and the more satisfying it is when love finds a way through.*
-
-Legal restrictions? Economic barriers? Social enforcement?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
----
-
-### ✦ Checkpoint: Economic Foundations
-
-*Pause and look at your answers so far. Does your economic system match the wealth distribution you described? If you said wealth is concentrated among a few, but your system allows easy social mobility, something may need adjusting. Check that your currency, class structure, and economic conditions all point in the same direction.*
 
 ---
 
@@ -490,50 +305,16 @@ _______________________________________________________________
 >
 > In Section 1: Resources & Territorial Control, you mapped where resources are found and who controls them. Now we'll explore how that control creates economic stakes and romantic tension.
 
-**⬥ Core: What's the single most valuable resource in your world?**
-The thing people would kill for, die for, or sell their freedom for. Now ask: does either of your main characters control it, need it, or threaten someone's access to it? That's where the romantic stakes live.
-
-_______________________________________________________________
-
-**Why is it scarce?**
-
-*The reason for scarcity tells you who's to blame, and whether your characters are on the same side of that blame. Natural rarity is nobody's fault. Controlled distribution means someone is hoarding, and your characters might be on opposite sides of that injustice.*
-
-Natural rarity? Controlled distribution? Difficult to produce? Dangerous to obtain?
+**⬥ Core: What's the single most valuable resource in your world, and why is it scarce?**
+The thing people would kill for, die for, or sell their freedom for. Does either of your main characters control it, need it, or threaten someone's access to it? Is it naturally rare, or is someone hoarding it? If your characters are on opposite sides of that scarcity, the resource itself becomes an obstacle.
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-**What resources are essential for survival?**
+**⬥ Core: What resources are scarce, and who suffers most?**
 
-*Survival needs create desperation, and desperation drives romance plots. If your character can't afford medicine, they might accept help from someone they don't trust. If clean water is controlled by the love interest's family, every sip is a reminder of the power imbalance.*
-
-Food, water, shelter, fuel, medicine. What do people need to live?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**⬥ Core: What resources are scarce, and who suffers most from the shortage?**
-
-*Scarcity doesn't hit everyone equally. The wealthy stockpile; the poor go without. Knowing who suffers tells you where desperation lives in your world, and desperation drives stories.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What conflicts has resource scarcity caused in your world?**
-
-*When something essential is scarce, people fight over it. Those conflicts shape alliances, create enemies, and force your characters to pick sides.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What goods or services are easy to get in your world, and what is hard to find?**
-
-*Abundance and scarcity shape what your characters take for granted and what they crave. A world with plentiful food but no metal has different tensions than one with gold mines but barren soil. The things that are hard to get become leverage, status symbols, or gifts that carry real weight.*
+*Scarcity doesn't hit everyone equally. The wealthy stockpile; the poor go without. Survival needs (food, water, medicine, fuel) create desperation, and desperation drives romance plots. If your character can't afford medicine, they might accept help from someone they don't trust.*
 
 _______________________________________________________________
 
