@@ -160,13 +160,11 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How long do students stay?**
+**How long do students stay, and can they leave?**
 
-*The length of time at the academy determines how much pressure builds. A single semester creates urgency; years create slow burn. The duration also affects how deeply the institution shapes your characters' identities.*
+*A single semester creates urgency; years create slow burn. What happens if they try to quit?*
 
 _______________________________________________________________
-
-**Can students leave? What happens if they try to quit?**
 
 _______________________________________________________________
 
@@ -193,25 +191,19 @@ _______________________________________________________________
 
 **Your academy's ranking structure:**
 
-**What do top-ranked students get, and what happens to those at the bottom?**
-
 _______________________________________________________________
 
 _______________________________________________________________
 
 **Where does your protagonist sit in the ranking? Where does the love interest sit?**
 
-*The gap between their ranks is where tension lives. Are they competing for the same spot? Is one at the top while the other struggles? Do they have to choose between winning and helping each other?*
-
-_______________________________________________________________
+*The gap between their ranks is where tension lives.*
 
 _______________________________________________________________
 
 **What happens to students who wash out or fail?**
 
-*This is part of the institution's grip. If failure means death, exile, or disgrace, the stakes of every test and trial feed directly into the romance. Your characters can't afford to be distracted by each other, and yet they are.*
-
-_______________________________________________________________
+*If failure means death, exile, or disgrace, the stakes of every trial feed directly into the romance.*
 
 _______________________________________________________________
 
@@ -257,53 +249,11 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**How did the people in charge get their positions?**
-
-*Merit, bloodline, political appointment, magical ability? This shapes whether the academy's authority feels earned or imposed, and whether your characters respect or resent it.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How do ordinary students interact with the academy on a typical day?**
-
-*Map out the daily rhythm: classes, meals, free time, curfew. The schedule is the skeleton of your characters' lives, and the gaps in the schedule are where stolen moments happen.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What other institutions exist alongside the academy?**
-
-*Healing houses, religious chaplains, supply guilds, courts that oversee disputes? Knowing what surrounds the academy reveals where your characters might find allies, resources, or escape routes, and where new conflicts arise.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How has the academy changed over time?**
-
-*Was it once more open, or more brutal? Did a past scandal reshape the rules? Institutions with a history feel real, and old cracks in the system are exactly the kind of loopholes your characters might exploit.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What happens to graduates who don't fit the mould the academy was designed to produce?**
-
-*Not everyone thrives under institutional pressure. Some wash out; others graduate but are changed in ways the institution didn't intend. Where do the misfits, the rebels, and the broken ones go?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ---
 
 ## Courts & Palaces
 
-Court settings replace physical danger with social danger. Everything said is analysed, every glance is catalogued. Courts are excellent for slow-burn because intimacy must be stolen in brief moments. Jude can never merely speak to Cardan; every exchange occurs while being watched by a court that will destroy her for showing weakness or wanting the wrong person. The constraint isn't a locked door. It's knowing that one misread glance could unravel everything she's built. That's what makes court romance so tense: the characters are rarely in physical danger from each other, but they're in constant social danger from everyone else.
-
-The danger doesn't have to be physical. Social ruin can be just as devastating in a court setting, and the threat of it keeps every interaction loaded with subtext. If your characters can't afford to be seen caring about each other, even a lingering look becomes an act of rebellion.
+Court settings replace physical danger with social danger. Everything said is analysed, every glance is catalogued. Jude can never merely speak to Cardan; every exchange occurs while being watched by a court that will destroy her for showing weakness or wanting the wrong person. The constraint isn't a locked door. It's knowing that one misread glance could unravel everything she's built. Social ruin can be just as devastating as physical danger, and the threat of it keeps every interaction loaded with subtext. If your characters can't afford to be seen caring about each other, even a lingering look becomes an act of rebellion.
 
 **What makes your court dangerous?**
 
@@ -401,30 +351,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**What does a typical day at court look like for someone without power?**
-
-*Servants, minor nobles, petitioners: they all navigate the same political waters with far less protection. Their daily experience reveals how the court really works, and your characters may depend on these people more than they realise.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How has the court changed under its current ruler?**
-
-*Was there a recent shift in power, a purge of old families, or a loosening of old restrictions? Courts in transition are full of opportunity and danger, exactly the conditions that push people together.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What tensions exist between the court and other institutions in your world?**
-
-*Does the court clash with the military over authority? Does it compete with a religious order for loyalty? Institutional rivalries create pressure that spills over onto your characters. Consider how your romance characters might get caught in the crossfire.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ---
 
 ## Military & War Settings
@@ -484,38 +410,6 @@ Forbidden between officers and enlisted? Required to report relationships? Subje
 _______________________________________________________________
 
 **What if their relationship interfered with the mission?**
-
-_______________________________________________________________
-
-**Who commands this military, and how did they get that authority?**
-
-*Hereditary generals, elected war leaders, magical champions? The command structure shapes whether orders feel legitimate or resented, and whether defying them feels heroic or reckless.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What happens to soldiers who can no longer fight?**
-
-*Injured, traumatised, magically spent: where do they go? This reveals whether the military values people or just uses them, and it's a real fear your characters carry into every battle.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does a typical day look like for an ordinary soldier?**
-
-*Drills, rations, downtime, guard duty, marching. The daily grind is where bonds form, and where your characters find (or lose) chances to be alone together.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What tensions exist between the military and civilian life?**
-
-*Do soldiers resent civilians for staying safe? Do civilians fear or distrust the military? If your characters come from opposite sides of this divide, it adds another layer to their relationship.*
-
-_______________________________________________________________
 
 _______________________________________________________________
 
@@ -586,22 +480,6 @@ _______________________________________________________________
 **What vows or commitments does the institution require?**
 
 Celibacy, obedience, poverty, silence, service, separation from family, renunciation of former identity?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Who leads this institution, and how did they rise to power?**
-
-*Chosen by the god directly, elected by peers, inherited the role, seized it? The nature of the leadership shapes whether the institution feels sacred or corrupt, and whether defying it feels like rebellion or heresy.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How has this religious institution changed over time?**
-
-*Was it once more lenient, or more strict? Has it gained or lost political influence? Institutions that have shifted reveal cracks your characters can exploit, or traditions they're expected to restore.*
 
 _______________________________________________________________
 
@@ -686,30 +564,6 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Who runs this institution, and how did they get that position?**
-
-*Guild master, factory owner, creditor, trade lord? Whether they earned, inherited, or seized their role shapes how your characters feel about the authority over them, and whether defiance feels justified.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What happens to people who fall outside this institution's support?**
-
-*Workers who are fired, apprentices who are dismissed, debtors who default. Where do they go? The answer reveals how much power the institution truly holds, and what your characters stand to lose.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**How has this institution changed over the years?**
-
-*Was the guild once fairer? Has debt bondage gotten worse? Institutions that have shifted over time feel lived-in, and the direction of change tells your characters whether things are getting better or worse.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ### Economic Hierarchy
 
 **What's the power structure?**
@@ -780,22 +634,6 @@ Healer, fellow patient, visitor, guard, staff, reluctant caretaker?
 
 _______________________________________________________________
 
-**Who runs this healing institution, and what are their priorities?**
-
-*A profit-driven owner, a devoted head healer, a religious order, a government? Their priorities shape what care looks like, and whether your characters are treated as people or as problems to manage.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What happens to people who can't access or afford care?**
-
-*Do they suffer at home, rely on underground healers, turn to dangerous magic? The gaps in institutional care reveal your world's values, and may push your characters into desperate choices.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
 ### Vulnerability & Intimacy
 
 **What makes the patient vulnerable?**
@@ -816,9 +654,7 @@ _______________________________________________________________
 
 **What does the caregiver/patient power gap look like in your story, and how does it shift?**
 
-This is perhaps the trickiest dynamic to write well, because readers can spot the imbalance whether the characters recognise it or not. The caregiver has access to the patient's body and vulnerability in ways that wouldn't normally be permitted; the patient may develop feelings rooted in gratitude and dependence rather than genuine connection. The craft challenge is making sure the relationship earns its ground. The best versions of this trope build in moments where the vulnerable character shows strength despite their condition (sharp wit, fierce independence, refusing pity) and moments where the caregiver becomes vulnerable too (exhaustion, fear of loss, accidentally revealing too much of themselves during a long vigil). If the dynamic doesn't have a two-way emotional connection, then it's weak.
-
-*Think about when and how the vulnerable character shows strength, and when the caregiver lets their own walls down. The relationship needs to become two-way before it can feel earned.*
+*The caregiver has access to vulnerability that wouldn't normally be permitted, and the patient may develop feelings rooted in gratitude rather than genuine connection. The best versions of this trope build in moments where the vulnerable character shows strength and the caregiver becomes vulnerable too. The relationship needs to become two-way before it can feel earned.*
 
 _______________________________________________________________
 
@@ -1105,14 +941,6 @@ _______________________________________________________________
 **What happens if the organisation is discovered?**
 
 *This is the institutional grip. The consequence of exposure must be severe enough that every interaction between your characters carries real risk, not just for them, but for everyone they're protecting.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Who leads the organisation, and how did they earn that role?**
-
-*Founder, elected leader, strongest fighter, most connected? The leader's authority, and whether it's respected or resented, shapes the internal politics your characters must navigate alongside their feelings for each other.*
 
 _______________________________________________________________
 
