@@ -230,15 +230,11 @@ _______________________________________________________________
 
 ## Making Agency Visible to Readers
 
-While you may be aware of your character's agency while you're writing your story, readers can't rely on your knowledge of it. They need to see it demonstrated in the choices your character makes on the page. Even if you've decided how your character has chosen to act freely, unless you show that choice to the reader, they'll assume it's compulsion.
+While you may be aware of your character's agency, readers can't rely on your knowledge of it. They need to see it demonstrated on the page. This is especially important with tropes like fated mates and magical bonds. When the bond clicks into place and the character simply accepts it, there's no evidence they'd choose this person without it. You need to put the choice on the page.
 
-This is especially important with tropes like fated mates and magical bonds. When the bond clicks into place and the character simply... accepts it, there's no evidence they'd choose this person without it. You need to put the choice on the page.
+**Does the narrative show characters considering alternatives before choosing the love interest?**
 
-**Does the narrative show characters considering alternatives?**
-
-*Describe a moment where your character thinks about another option, even briefly, before choosing the love interest. This could be considering a safer partner, imagining life alone, or weighing the cost of staying.*
-
-If they never think about other options, readers may not believe they had any. Even a brief internal moment where the character acknowledges they could walk away, could choose someone safer, could live without this person, and then chooses anyway, gives readers evidence of agency.
+*Even a brief internal moment where the character acknowledges they could walk away, could choose someone safer, could live without this person, and then chooses anyway, gives readers evidence of agency. If they never think about other options, readers may not believe they had any.*
 
 _______________________________________________________________
 
@@ -246,37 +242,13 @@ _______________________________________________________________
 
 **Do characters articulate their choice?**
 
-*Describe a moment where they say (aloud or internally) that they're choosing this. Not "I can't help it" or "I can't stay away" (that's compulsion), but "I choose this" or "I want this, even knowing what it costs."*
-
-*Check your manuscript or notes for phrases like "I can't help it," "I can't resist," "something about him made her..." or "she couldn't stay away." These are compulsion markers. If you find any in key romantic moments, can you rewrite them as active choices?*
-
-_______________________________________________________________
+*Not "I can't help it" or "I can't stay away" (that's compulsion), but "I choose this" or "I want this, even knowing what it costs." Check your manuscript for phrases like "I can't resist," "something about him made her..." or "she couldn't stay away." These are compulsion markers.*
 
 _______________________________________________________________
 
 **Is there a moment where they could leave but visibly don't?**
 
-*Describe the open door they don't walk through. The exit route needs to be visible to readers, not just theoretically possible. Show the escape hatch, then show the character staying.*
-
-Showing the open door they don't walk through is one of the most effective ways to demonstrate agency on the page. In *The Cruel Prince*, Jude has multiple opportunities to leave Elfhame. She could return to the mortal world, where she'd be safe. Every time she stays, she's choosing the dangerous, painful, complicated path, and readers know it because they've seen the alternative sitting right there.
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Do other characters acknowledge that they had a choice?**
-
-*Who in your story says something like "you could have walked away" or "you didn't have to do this"? This external confirmation tells readers the choice was real, not just the character's perception.*
-
-Someone saying "you could have walked away" or "you didn't have to do this" confirms agency existed:
-
-_______________________________________________________________
-
-**Is the cost of their choice visible on the page?**
-
-*What do readers see the character lose, sacrifice, or suffer because they chose this relationship? If the cost happens offscreen or is never mentioned again, it doesn't register as real.*
-
-If choosing each other costs something, show what they lose or give up:
+*The exit route needs to be visible to readers, not just theoretically possible. Show the escape hatch, then show the character staying.* In *The Cruel Prince*, Jude has multiple opportunities to leave Elfhame for the safety of the mortal world. Every time she stays, readers know it's a choice because they've seen the alternative sitting right there.
 
 _______________________________________________________________
 
@@ -284,79 +256,41 @@ _______________________________________________________________
 
 ### Writing Choice on the Page: Craft Techniques
 
-Knowing your characters have agency isn't enough. To get the reader to experience it you need to show them in the way you write your story. A choice moment that works has three stages: the catalyst that forces a decision, the deliberation where the character weighs alternatives, and the commitment where they act.
+A choice moment that works has three stages: the **catalyst** that forces a decision, the **deliberation** where the character weighs alternatives, and the **commitment** where they act. The deliberation is where most writers go wrong. If a character moves from "the bond pulled her toward him" to "she was in his arms" without evidence of choice, there's no evidence she made one.
 
-**The deliberation is where most writers go wrong.** If a character can move from "the bond pulled her toward him" to "she was in his arms" without evidence of choice, there's no evidence she made a choice at all. The reader needs to hear the character think, even briefly. What are they giving up? What's the easier path? Why did they choose this one anyway?
-
-**Pay attention to how you construct your sentences.** Agency lives in who holds the verb. Compare:
+**Agency lives in who holds the verb.** Compare:
 
 *The bond pulled her toward him. She was overwhelmed by the intensity of it. Before she knew it, she was pressed against his chest.*
 
-In those sentences, the bond is the agent. The character is simply an object being acted upon by magic. Now look at this:
+Now look at this:
 
-*The bond flared, a hot tether in her chest. She gripped the back of the chair and breathed through it, waiting until the instinctual fog cleared. He was still the man who had lied to her. She weighed the lie against the roar in her blood, and chose to stay exactly where she was. "You're going to have to do better than a magical pull," she said.*
+*The bond flared, a hot tether in her chest. She gripped the back of the chair and breathed through it, waiting until the instinctual fog cleared. She weighed the lie against the roar in her blood, and chose to stay exactly where she was. "You're going to have to do better than a magical pull," she said.*
 
-Same bond. Same pull. But now the character is the one holding the verbs: she gripped, she breathed, she weighed, she chose, she said. The bond is something she evaluates, not something that compels her to move.
+Same bond. Same pull. But now the character holds the verbs: she gripped, she breathed, she weighed, she chose, she said.
 
-**Three common prose-level mistakes that strip agency:**
+**Three prose-level mistakes that strip agency:**
 
-**Filter words which create a separation between the reader and the action.** "She felt drawn to him" creates a barrier between the reader and the experience. "The pull was there, insistent and warm, but she didn't move" brings the character directly into contact with the sensation and has her choose her response.
+1. **Filter words:** "She felt drawn to him" makes her passive. "The pull was there, insistent and warm, but she didn't move" gives her the choice.
+2. **Skipping deliberation:** If the character never thinks about other options, their actions look like plot points, not choices. Even one sentence of internal weighing changes everything.
+3. **Bond as subject:** When the bond drives paragraph after paragraph with no character response, the bond becomes the protagonist. Switch between what the bond does and what the character does about it.
 
-**Eliminating the deliberation entirely.** If the character never thinks about other options, their actions appear as plot points instead of as choices. Even one sentence of internal weighing changes everything: *She could leave. Vivi was waiting at the border. However, if she left, she'd be abandoning the artifacts and she wasn't done yet.*
-
-**Making the bond the subject of every sentence.** When the prose continues to describe the bond's effects for paragraph after paragraph with no character response, evaluation or resistance, the bond becomes the protagonist of the scene. Switch between describing what the bond does and what the character does about it. The character's response is where agency lives.
-
-**A simple test:** could you replace your protagonist with a lamp in a key romantic scene and have the scene play out the same way? If the love interest could interact the same way with an inanimate object, your character isn't driving the moment.
+**The lamp test:** Could you replace your protagonist with an inanimate object and have a key romantic scene play out the same way? If yes, your character isn't driving the moment.
 
 ### Practise: Rewrite for Agency
 
-*You've just learned that agency lives in who holds the verb. Now try it with your own story. This exercise helps you feel the difference between passive and active construction before you draft your choice moment.*
+**Write a 2-3 sentence romantic moment from your story where the bond/magic/force is the subject (passive version), then rewrite it with your character holding the verbs (active version):**
 
-**Write a 2–3 sentence version of a romantic moment from your story where the bond, magic, or external force is the subject of the sentences (passive version):**
+*Passive example: The bond surged through her, pulling her toward him. She was helpless against the intensity. Before she could think, she was in his arms.*
 
-*Example: The bond surged through her, pulling her toward him. She was helpless against the intensity. Before she could think, she was in his arms.*
+*Active example: The bond flared hot in her chest. She planted her feet and waited for the fog to clear. Then she looked at him, really looked, and stepped forward because she wanted to, not because the magic told her to.*
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Now rewrite the same moment with your character as the subject, holding the verbs (active version):**
-
-*Example: The bond flared hot in her chest. She planted her feet and waited for the fog to clear. Then she looked at him, really looked, and stepped forward because she wanted to, not because the magic told her to.*
+Passive version:
 
 _______________________________________________________________
 
 _______________________________________________________________
 
-_______________________________________________________________
-
-**What changed?**
-
-*Compare your two versions. In the passive version, who or what is driving the scene? In the active version, who is? Identify the specific verbs that shifted from the bond/magic to your character. This is the muscle you'll use in every romantic scene you write.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-### Audit Your Draft for Compulsion Language
-
-*Open your manuscript or outline and search for the three agency-stripping patterns described above. Finding them isn't failure; it's an opportunity to strengthen the scene. List any examples you find below so you can revise them.*
-
-**Filter words** (felt drawn to, was pulled toward, couldn't resist, something about him made her):
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Missing deliberation** (character jumps from trigger to action with no internal weighing):
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Bond as subject** (the bond pulled, the magic surged, the connection overwhelmed; paragraphs where the bond drives the action and the character doesn't respond):
+Active version:
 
 _______________________________________________________________
 
@@ -364,19 +298,13 @@ _______________________________________________________________
 
 ### Revise Your Choice Moment
 
-*Go back to the choice moment you identified earlier in this section. Using the three-stage framework (catalyst, deliberation, commitment), sketch how you'll write it on the page. This is the scene readers will remember, so it's worth getting the structure right.*
+*Go back to the choice moment you identified earlier. Using the three-stage framework, sketch how you'll write it on the page.*
 
-**The catalyst:** What forces the decision right now? What makes the character unable to keep drifting?
-
-_______________________________________________________________
+**The catalyst:** What forces the decision right now?
 
 _______________________________________________________________
 
-**The deliberation:** What alternatives does your character weigh? What's the easier path they could take? What do they stand to lose by choosing the love interest?
-
-*This is where agency becomes visible. Even two or three sentences of internal weighing transforms a passive acceptance into an active choice.*
-
-_______________________________________________________________
+**The deliberation:** What alternatives does your character weigh? What do they stand to lose?
 
 _______________________________________________________________
 
@@ -384,13 +312,7 @@ _______________________________________________________________
 
 **The commitment:** What action seals the choice? Not just an internal feeling, but something they do, say, or physically enact.
 
-*The best commitment moments are specific and visceral: handing someone a bowl of soup, stepping across a threshold, speaking a name they're not supposed to say, staying when the door is open.*
-
 _______________________________________________________________
-
-_______________________________________________________________
-
-**The lamp test:** In the scene you've just sketched, could you replace your protagonist with an inanimate object and have it play out the same way? If yes, add more deliberation or resistance.
 
 _______________________________________________________________
 

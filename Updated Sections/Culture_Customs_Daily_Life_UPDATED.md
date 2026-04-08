@@ -60,35 +60,11 @@ The tighter the constraints, the higher the tension. A culture where unmarried p
 
 Don't explain culture through exposition. Let readers discover the rules when characters follow them, break them, or face consequences for crossing them. A single scene of social awkwardness teaches more than a paragraph of worldbuilding ever could.
 
-### Culture as Obstacle
+Culture works in three ways in your romance:
 
-The rules your characters must navigate or break:
-
-- Taboos against certain relationships (class, species, enemy nations)
-- Required courtship progressions that can't be skipped
-- Chaperoning requirements that prevent privacy
-- Reputation systems where being seen together causes damage
-- Family involvement that creates external opposition
-
-### Culture as Opportunity
-
-The customs that create romantic moments:
-
-- Festivals where normal rules relax
-- Dances that allow sanctioned touch
-- Gift-giving traditions that let characters express interest
-- Ceremonies that force proximity
-- Traditions that create meaningful gestures
-
-### Culture as Revelation
-
-How characters interact with cultural expectations shows who they are:
-
-- Do they follow rules out of belief or fear?
-- Do they break rules impulsively or deliberately?
-- Do they chafe against expectations or never question them?
-
-Some of the most interesting romantic tension comes from pairing characters who relate to their culture differently. One who embodies its values, one who challenges them.
+- **As obstacle:** Taboos against certain relationships, required courtship progressions, chaperoning, reputation systems, family opposition.
+- **As opportunity:** Festivals where rules relax, dances that allow touch, gift-giving traditions, ceremonies that force proximity.
+- **As revelation:** How characters interact with expectations shows who they are. Some of the most interesting tension comes from pairing a character who embodies cultural values with one who challenges them.
 
 ### Common Patterns: Culture in Romantasy
 
@@ -121,35 +97,9 @@ _______________________________________________________________
 
 Now that you've established what your culture looks like, return to the Invisible Cage principle from above.
 
-### The Key Question
-
-What does your character believe is "just how things are" at the start of the story? What will falling for this person force them to see differently?
-
 **Map your character's invisible cage:**
 
-*The invisible cage only becomes visible when your character wants something on the other side of the bars. This is the moment when culture stops being background and becomes the central obstacle of your romance.*
-
-**For each character: What rule do they follow without thinking? What moment makes them see the cage? What do they lose by seeing it, and what do they gain?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**How does each character relate to their culture's rules?**
-
-*Do they follow the rules because they believe, or because they fear? Do they break rules on impulse or on purpose? Pairing characters who relate to culture differently creates natural tension.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Which 2-3 patterns from the table above show up in your world?**
-
-*For each one you pick, describe how it works in your story.*
+*For each character: What rule do they follow without thinking? What moment makes them see the cage? What do they lose by seeing it, and what do they gain? Do they follow rules because they believe, or because they fear?*
 
 *(Write your answer below)*
 
@@ -183,11 +133,10 @@ If your world mirrors a real culture, focus on what's different. You don't need 
 
 This section covers a lot of ground. Here's what's ahead so you can plan your time:
 
-- **Part 1: Foundations** : Values, Gender, Daily Life, Home, Family, Food, Architecture
-- **Part 2: Social Rules** : Religion, Superstitions, Manners, Hospitality, Entertainment, Humour, Oaths
-- **Part 3: Boundaries & Identity** : Taboos, Sexuality, Reputation, Privacy, Touch, Beauty, Dress
-- **Part 4: Milestones & Rituals** : Courtship, Tokens, Marriage, Death, Life Stages, Children, Work, Outsiders
-- **Part 5: Culture in Action** : Festivals, Exile, Social Hierarchy, Cultural Differences, Integration Check
+- **Part 1: Foundations** — Values, Gender, Daily Life, Home, Family, Food, Architecture, Religion, Superstitions, Manners, Hospitality, Entertainment, Oaths
+- **Part 2: Boundaries & Identity** — Taboos, Sexuality, Reputation, Privacy, Touch, Appearance & Clothing
+- **Part 3: Courtship & Milestones** — Courtship, Tokens, Marriage, Death, Life Stages, Education & Work
+- **Part 4: Culture in Action** — Festivals, Exile, Outsiders, Social Hierarchy, Language, Cultural Differences, Integration Check
 
 ---
 
@@ -1300,15 +1249,9 @@ When building exile customs, think about what the banished person loses beyond l
 
 **⬥ Core: What does banishment or exile look like in your world?**
 
-Physical exile from the territory? Social death while remaining present? Being cut off from family, magic, or community? Loss of name, title, or identity? Inherited stigma that marks the next generation?
+*Physical exile? Social death while remaining present? Loss of name, magic, or identity? Inherited stigma? What triggers it, and is it reversible?*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**What triggers banishment?**
-
-What transgression crosses the line from punishable to unforgivable? Is there a formal process, or can it happen at one person's command?
 
 _______________________________________________________________
 
@@ -1316,23 +1259,7 @@ _______________________________________________________________
 
 **Has your character seen someone else face this consequence?**
 
-Showing the cost through a secondary character makes the threat real before your protagonists face it. Who in your world has already been cast out, and what happened to them?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Is exile reversible in your world?**
-
-Can the banished return? What would it cost? Is there a path to redemption, or are some falls permanent?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What replaces the lost community?**
-
-If your character is exiled, where do they go? Who takes them in? Does the romance provide not just a partner but a new world to belong to?
+*Showing the cost through a secondary character makes the threat real before your protagonists face it.*
 
 _______________________________________________________________
 
@@ -1340,7 +1267,7 @@ _______________________________________________________________
 
 **Map your character's exile (actual or threatened).**
 
-*What do they lose? Think about home, name, family connections, access to magic or power, community, sense of self. What replaces what they've lost?*
+*What do they lose -- home, name, family, magic, community, sense of self? What replaces what they've lost? Does the romance provide not just a partner but a new world to belong to?*
 
 *(Write your answer below)*
 
@@ -1352,21 +1279,13 @@ _______________________________________________________________
 
 ### Attitudes Toward Outsiders
 
-How a culture treats people who are "other" -- different species, races, magical traditions, nationalities -- shapes some of the most powerful romantic conflicts in the genre. Forbidden love across cultural or species lines draws its tension from prejudice, fear, and the cost of being seen with someone your world says you shouldn't want.
+How a culture treats people who are "other" -- different species, races, magical traditions, nationalities -- shapes some of the most powerful romantic conflicts in the genre.
 
-**How does your culture view other species, races, or magical traditions?**
+**How does your culture view outsiders, and what's the lived experience of being "other"?**
 
-*Is there open hostility, polite distance, grudging tolerance, or genuine curiosity? What stereotypes exist, and how much truth do they hold?*
-
-_______________________________________________________________
+*Is there open hostility, polite distance, or genuine curiosity? What daily indignities or dangers does an outsider face?*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-**What's the lived experience of being "other" in your world?**
-
-*What daily indignities, restrictions, or dangers does an outsider face? Where are they welcome, and where are they not?*
 
 _______________________________________________________________
 
@@ -1374,15 +1293,9 @@ _______________________________________________________________
 
 **If one of your characters is considered an outsider, how does that status shape the romance?**
 
-*Does the other character have to overcome their own prejudice? Does the relationship put both of them at risk? What does it cost each of them to be seen together?*
+*Does the other character have to overcome their own prejudice? What does it cost each of them to be seen together? Is genuine acceptance even possible?*
 
 _______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What would it take for an outsider to be genuinely accepted -- and is that acceptance even possible?**
 
 _______________________________________________________________
 
@@ -1394,13 +1307,11 @@ Exile and outsider status define the extremes. Social hierarchy defines the ever
 
 ## Social Hierarchy in Practice
 
-Social hierarchy creates unwritten rules: who enters the room first, who speaks and who waits, who may touch whom. None of this is written into a law book, yet most people understand these codes and follow them. When members of different classes fall in love, the tension stems from the disconnect between the roles they're obligated to follow and what they actually feel.
+Social hierarchy creates unwritten rules: who enters the room first, who speaks and who waits, who may touch whom. The "slip" -- when a character accidentally uses a first name, reaches for a hand, or speaks before permission -- reveals the true nature beneath the social mask. When characters display perfect hierarchy in public but drop it in private, they create their own secret world.
 
-Illustrate hierarchy through automatic behaviours and the moments when those behaviours break. The "slip" -- when a character accidentally uses a first name, reaches for a hand, or speaks before permission -- reveals the true nature beneath the social mask. When characters display perfect hierarchy in public but drop it in private, they create their own secret world. Let secondary characters reinforce the consequences: a servant who observes too much, a rival tracking every detail, a parent warning "people are starting to talk."
+**⬥ Core: How can you tell someone's social class just by looking at them?**
 
-**What are the unwritten rules between different classes or ranks?**
-
-*Think about eye contact, forms of address, physical proximity, who speaks first, and what topics are off-limits.*
+*Think about clothing, posture, speech patterns, where they walk, what they carry. What are the unwritten rules between classes -- eye contact, forms of address, physical proximity?*
 
 *(Write your answer below)*
 
@@ -1410,35 +1321,9 @@ Illustrate hierarchy through automatic behaviours and the moments when those beh
 
 &nbsp;
 
-**What happens when someone violates these unwritten rules?**
+**If your characters are from different classes, how do they navigate the gap?**
 
-Social consequences: awkwardness, offence, whispers, retaliation:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**If your characters are from different classes, how do they navigate interaction?**
-
-Do they follow the rules? Chafe against them? Have a private space where class doesn't apply?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What social space allows them to interact more freely than usual?**
-
-Markets? Festivals? Neutral territory? Magical spaces? Private chambers?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-#### What does the "slip" look like between your characters?
-
-*Describe a moment when a character breaks a class or rank rule without meaning to -- a first name used without thinking, a hand reached for instinctively. What's the slip, who makes it, who notices, and what does it reveal?*
+*Do they follow the rules? Chafe against them? Have a private space where class doesn't apply? What does the shift look like when the door closes -- and what would happen if someone saw the private version?*
 
 *(Write your answer below)*
 
@@ -1448,19 +1333,7 @@ _______________________________________________________________
 
 &nbsp;
 
-#### How do your characters behave differently in public versus private?
-
-*What does the shift look like when the door closes? What would happen if someone saw the private version?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-> *Cross-check: Does the class structure you described here match the economic system you built in Section 4: Economy, Labour & Resources? If wealth determines status, the paths to wealth should align with who holds power in your hierarchy.*
+> *Cross-check: Does the class structure you described here match the economic system you built in Section 4: Economy, Labour & Resources?*
 
 ---
 
@@ -1474,9 +1347,9 @@ Hierarchy governs who has power. Language governs how that power sounds, and the
 
 ## Language, Names & Forms of Address
 
-The transition from formal to informal address can be as profound as a first kiss. In many fantasy worlds, names hold real power. Establish formality at the beginning and let it create tension. The moment of shift should have context: who initiated it, was it asked for or assumed, and what does it feel like to hear your first name from someone who has only ever used your title?
+The transition from formal to informal address can be as profound as a first kiss. In many fantasy worlds, names hold real power.
 
-**What different forms of address exist?**
+**What different forms of address exist, and when is each appropriate?**
 
 | Type | Examples in Your World |
 |------|----------------------|
@@ -1484,43 +1357,11 @@ The transition from formal to informal address can be as profound as a first kis
 | Informal (first names, nicknames) | |
 | Intimate (pet names, private names, terms of endearment) | |
 
-**When is it appropriate to use informal or intimate forms?**
+**When do your characters shift how they address each other, and what triggers the change?**
 
-Between family? Close friends? Lovers? Only after marriage?
-
-_______________________________________________________________
+*Do names hold power in your world? True names, secret names? What does it mean when one character learns the other's private name?*
 
 _______________________________________________________________
-
-**What shift in address marks a change in relationship?**
-
-From title to first name? From formal to informal? A new nickname?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**When do your characters shift how they address each other?**
-
-*What do they call each other at first, what do they shift to, and what triggers the change?*
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**Is there significance to names in your world?**
-
-True names with power? Secret names? Multiple names for different contexts?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What does it mean when one character learns the other's private or true name?**
 
 _______________________________________________________________
 
@@ -1538,29 +1379,9 @@ If no, skip to Integration Check.
 
 If yes:
 
-**What culture does each character come from?**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 **How do their cultures differ in values, customs, and taboos?**
 
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-**What does one culture do that the other finds shocking, rude, or confusing?**
-
-*Describe 2-3 cultural misunderstandings that could arise between your characters.*
+*What does one culture do that the other finds shocking, rude, or confusing? What romantic gesture means something different across the divide?*
 
 *(Write your answer below)*
 
@@ -1570,29 +1391,9 @@ If yes:
 
 &nbsp;
 
-**What romantic gesture from one culture means something different in the other?**
+**What cultural misunderstanding creates conflict, and when do they realise they've been misreading each other?**
 
-This is prime territory for miscommunication and eventual understanding:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**When do they realise they've been misunderstanding each other?**
-
-The revelation scene:
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What cultural tradition does one character teach the other?**
-
-The intimacy of sharing worlds:
+*The revelation scene -- when a gesture's true meaning is finally explained -- is one of the most satisfying moments in cross-cultural romance.*
 
 _______________________________________________________________
 

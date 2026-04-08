@@ -1257,8 +1257,9 @@ _______________________________________________________________
 
 ## Opposition & Incompatibility
 
-**Do your characters' magical abilities conflict?**
-What happens when they're used in close proximity: cancellation, amplification, volatility, pain?
+**Do your characters' magical abilities conflict, and can that opposition be overcome?**
+
+*What happens when their powers are used in close proximity -- cancellation, amplification, volatility, pain? Would overcoming it take practice, trust, sacrifice, or something else entirely?*
 
 _______________________________________________________________
 
@@ -1266,27 +1267,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Can this magical opposition be overcome, or is it permanent?**
+**Does their magical conflict match or contradict their personal dynamic? If their magic is dangerous to combine, what circumstances might force them to try?**
 
-*If it can be overcome, what would it take -- practice, trust, sacrifice, or something else entirely?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Does their magical conflict match their personal dynamic, or contradict it?**
-
-*Sometimes characters whose magic clashes are also opposites in temperament -- fire and ice, in every sense. Other times, the magical conflict is at odds with how well they actually get along. Which version creates more interesting tension for your story?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**If their magic is dangerous to combine, what circumstances might force them to try anyway? What would be worth the risk?**
+*Sometimes characters whose magic clashes are also opposites in temperament. Other times, the magical conflict is at odds with how well they get along. What would be worth the risk?*
 
 _______________________________________________________________
 
@@ -1350,12 +1333,10 @@ _______________________________________________________________
 
 ## Oaths, Debts & Binding Agreements
 
-A large number of fantasy worlds contain magic which binds the words of those who use it. Bargains, oaths, contracts. These bindings create obligations that can trap characters into making choices they can't live up to, and they're one of the most versatile tools for romantic tension.
+Bargains, oaths, contracts -- magically binding words are one of the most versatile tools for romantic tension. Feyre's bargain with Rhysand in *ACOTAR* requires her to spend one week per month in the Night Court. What appeared to be a cage created by the magic was in reality an opportunity for escape: it forces proximity and gives Feyre a reason to keep returning to the person she's actually falling for.
 
-Feyre's bargain with Rhysand in *ACOTAR* requires her to spend one week per month in the Night Court. At first glance, it seems like a terrible thing: a powerful male claiming a human woman's time against her will. But the requirement to spend time in the Night Court becomes the catalyst for the real romance. It forces proximity, creates a space away from Tamlin, and gives Feyre a reason to keep returning to the person she's actually falling for. What appeared to be a cage created by the magic was in reality an opportunity for escape.
-
-**What promises in your world are magically enforced?**
-What happens when they're broken?
+**What promises in your world are magically enforced, and is your character bound by any?**
+What are the terms, who holds the other end, and what happens when they're broken?
 
 _______________________________________________________________
 
@@ -1363,26 +1344,9 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-**Is your character bound by any magical oath or agreement?**
-What are the terms, and who holds the other end?
+**Does this binding create an obstacle to the romance -- or could a bargain be used *for* the romance?**
 
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Does this binding create an obstacle to the romance?**
-Something they've promised that conflicts with what they want?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Could a magical bargain be used for the romance?**
-A binding that protects, legitimises, or forces proximity? What would the terms be, and who would propose it?
+*A binding that protects, legitimises, or forces proximity? Something they've promised that conflicts with what they want? Both can drive the relationship forward.*
 
 _______________________________________________________________
 
@@ -1391,7 +1355,6 @@ _______________________________________________________________
 _______________________________________________________________
 
 **What's the most dangerous promise your character could make? What would push them to make it?**
-Love makes people offer things they shouldn't. What would your protagonist risk for the one they love?
 
 _______________________________________________________________
 

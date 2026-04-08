@@ -152,11 +152,23 @@ Resources are where geography becomes power. Whoever controls something people a
 
 **What are your world's most valuable or rarest resources, and where do they come from geographically?**
 
+*(Reference Section 4 for how these drive economy)*
+
 _______________________________________________________________
 
 _______________________________________________________________
 
 **Who controls access, and how did they get that control?** Conquest, natural borders, treaty, magical ability, historical claim?
+
+*(Reference Section 5 for political control, Section 7 for historical claims)*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What happens to ordinary people when this resource runs short?**
+
+*Scarcity at the ground level (empty markets, rationed water, families choosing which child to feed) gives your world texture and gives your romance real stakes. If resource conflict only exists at the political level, it feels abstract.*
 
 _______________________________________________________________
 
@@ -182,9 +194,13 @@ Magic doesn't just create interesting ways of using power. It reshapes who has w
 
 Beyond economics, magic in romantasy often creates direct romantic mechanics: bonds, compulsions, and connections that shape the love story itself. ACOTAR's mating bond, *Fourth Wing*'s dragon bond "emotional bleed," *From Blood and Ash*'s heartmate bond. The key craft question is: **does it amplify feelings that already exist, or does it originate them?** Readers reward bonds that deepen existing chemistry. They resist bonds that do the love for the characters.
 
-**Who can use magic, and can it create wealth or resources directly?**
+**Who can use magic?** Everyone? Bloodlines? Trained individuals? Random selection?
 
 *Who has access determines who has power, and power imbalances are the engine of romantic tension.*
+
+_______________________________________________________________
+
+**Can magic create wealth or resources directly?** Conjuring food, transmuting materials, enhanced crops, healing for profit, teleportation for trade?
 
 _______________________________________________________________
 
@@ -193,6 +209,22 @@ _______________________________________________________________
 **If magic can create resources, why isn't everyone wealthy?**
 
 *Cost in energy/life, rare components, illegal, inferior products, years of training? The answer reveals what's fundamentally unfair about your world.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What jobs exist because of magic, or were made obsolete by it?**
+
+*Labour disruption creates class resentment, displaced communities, and characters whose identities are tied to skills that no longer matter. All rich ground for romance across a divide.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**How does the magic economy affect your romance?**
+
+*Does one character profit from magic while the other suffers? Does magical ability determine social class and therefore marriageability?*
 
 _______________________________________________________________
 
@@ -226,7 +258,19 @@ Laws are the codified will of those in power. Culture is the invisible architect
 
 _______________________________________________________________
 
+_______________________________________________________________
+
+**If magic exists, do magical users hold power or are they controlled?**
+
+*If mages are powerful, why don't they rule everything? If non-mages rule, how do they control mages?*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
 **What laws exist specifically because of your world's unique features?** Who benefits, and who is oppressed?
+
+*Laws regulating magic, forbidding inter-species relationships, governing dragon ownership, controlling trade in rare resources?*
 
 _______________________________________________________________
 
@@ -243,6 +287,14 @@ _______________________________________________________________
 **What does your culture value most, and how do these values show up in laws?**
 
 *A culture that prizes honour will have duelling laws; one that prizes lineage will have inheritance complications. Values from Section 3 should manifest in laws from Section 5.*
+
+_______________________________________________________________
+
+_______________________________________________________________
+
+**What's taboo or shameful, and why?** What threatens social order, challenges power, connects to historical trauma?
+
+*(Reference Section 6 for religious taboos, Section 7 for historical sources)*
 
 _______________________________________________________________
 
@@ -489,46 +541,15 @@ _______________________________________________________________
 
 ---
 
-## When Systems Collide
+## When Systems Collide: Tension vs. Plot Holes
 
-Sometimes worldbuilding elements seem to contradict. This can be productive tension or a plot hole, and knowing the difference is critical.
+Sometimes worldbuilding elements seem to contradict. The key test: does the contradiction give your characters an impossible choice between two things they value? If yes, it's productive tension. Keep it. If not -- if magic resurrects the dead but everyone treats death as permanent, or teleportation exists but the plot requires a three-week journey -- it's a plot hole that will erode trust.
 
-### Productive Tension
-
-When two systems create competing demands, characters face hard choices, and hard choices are the engine of great romance. (You mapped some of these collisions in the System Collision table earlier.) The key test: does the contradiction give your characters an impossible choice between two things they value? If yes, it's productive tension. Keep it. Lean into it.
-
-### Plot Holes
-
-Systems break each other's logic:
-
-- Magic resurrects the dead, but everyone treats death as permanent
-- Teleportation exists, but the plot requires a three-week journey
-- Mind reading is common, but political intrigue depends on secrets
-- Healing magic is available, but characters stay injured for dramatic purposes
-
-**List potential contradictions in your systems:**
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**For each: is this productive tension or a plot hole?**
-
-Productive tension gives difficult choices and interesting conflict. Plot holes make readers stop trusting the world.
-
-| Contradiction | Productive Tension or Plot Hole? | Your Fix (if plot hole) |
+| Contradiction in Your World | Productive Tension or Plot Hole? | Your Fix (if plot hole) |
 | --- | --- | --- |
 | | | |
 | | | |
 | | | |
-
-If it's a plot hole, you need to:
-
-- Remove one contradictory element
-- Add a limitation explaining why both can exist
-- Make the contradiction itself part of the plot (why doesn't anyone notice this doesn't make sense?)
 
 **Which contradiction, if left unfixed, would most damage your reader's trust in your romance's stakes?**
 
@@ -538,37 +559,22 @@ _______________________________________________________________
 
 ## The Final Connection Check
 
-You've already tested individual elements against other systems. Now zoom out and check the whole web.
-
-These three questions determine whether your worldbuilding is doing its job.
+Three questions to determine whether your worldbuilding is doing its job:
 
 **Can I remove the romance and still have a complete fantasy plot?**
 If yes → Romantic Fantasy (romance enhances but isn't structurally essential)
 If no → Fantasy Romance (romance is the structural core)
-
 Both are valid! But knowing which helps you check if worldbuilding serves the right story.
-
-_______________________________________________________________
 
 **Can I remove the fantasy elements and still have the same romance?**
 If yes → Worldbuilding might be decorative. Strengthen connections.
 If no → Good. Worldbuilding is doing essential work.
 
+**Does every major system connect to the romance?** For any that don't, either strengthen the connection or acknowledge it exists for atmosphere.
+
 _______________________________________________________________
 
-**Does every major system connect to the romance?** Systems that don't connect may need reworking to serve the story, or might exist primarily for atmosphere rather than plot.
-
-**For each major system you've built (magic, politics, economy, culture, religion, geography, history), does it connect to your romance? For any that don't, either strengthen the connection or acknowledge it exists for atmosphere.**
-
-*(Write your answer below)*
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-If you answered "no" to any major system, that system might need reworking to serve the story, or it might be worldbuilding that exists for atmosphere rather than plot.
+_______________________________________________________________
 
 ---
 

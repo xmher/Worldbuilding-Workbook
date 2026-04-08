@@ -107,15 +107,8 @@ Think about who speaks each language, its cultural prestige, and whether knowing
 
 *Status options: common, prestigious, forbidden, sacred, trade, etc.*
 
-**Is there a common/trade language most people speak?**
-What does using this language signal about a speaker? Does your protagonist rely on it or resist it?
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**Are there trade pidgins or mixed languages?**
-Languages that developed from contact between groups often carry stories of conquest, trade, or migration in their vocabulary. A character who speaks a pidgin language might be marked as someone who lives between worlds, which is its own kind of romantic identity.
+**Is there a common/trade language, and are there pidgins or mixed languages?**
+*What does using the common tongue signal about a speaker? Languages that developed from contact between groups carry stories of conquest, trade, or migration. A character who speaks a pidgin might be marked as someone who lives between worlds.*
 
 _______________________________________________________________
 
@@ -437,15 +430,8 @@ _______________________________________________________________
 | Angry silence | | |
 | Longing silence | | |
 
-**What are their lying tells?**
-*How does the love interest know when the protagonist is lying? What gives them away -- and what gives the love interest away?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**What is the lie that matters most between your characters?**
-*Not the biggest lie in the plot. The lie that cuts deepest between them specifically, because of what it betrays about trust, respect, or love.*
+**What are their lying tells, and what is the lie that matters most between them?**
+*How does each know when the other is lying? And what lie cuts deepest -- not the biggest lie in the plot, but the one that betrays trust, respect, or love between them specifically?*
 
 _______________________________________________________________
 
@@ -492,15 +478,8 @@ So far you've built the spoken landscape of your world -- languages, voices, acc
 
 Literacy is power, and in romantasy, power imbalances create tension. Who can read and who can't, who writes letters and who can't reply, who controls information and who's shut out. These are romantic stakes disguised as worldbuilding.
 
-**What writing systems exist in your world?**
-*Alphabets, pictographs, magical scripts? Who can read shapes who holds power -- and who's shut out of it.*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**⬥ Core: How common is literacy, and who controls access to reading and writing?**
-*A character who can't read a love letter, a treaty, or a warning is vulnerable in ways that go beyond the battlefield. Think about whether literacy is universal, class-restricted, or controlled by institutions.*
+**⬥ Core: What writing systems exist, and how common is literacy?**
+*Alphabets, pictographs, magical scripts? Is literacy universal, class-restricted, or controlled by institutions? Who teaches reading and writing? A character who can't read a love letter, a treaty, or a warning is vulnerable in ways that go beyond the battlefield.*
 
 *(Write your answer below)*
 
@@ -510,10 +489,10 @@ _______________________________________________________________
 
 &nbsp;
 
-*Cross-check: Does your literacy level match your technology (Section 9) and education system? A world with printing presses but restricted literacy needs an explanation. A world with universal education but low literacy has a contradiction to resolve.*
+*Cross-check: Does your literacy level match your technology (Section 9) and education system? A world with printing presses but restricted literacy needs an explanation.*
 
-**What is your protagonist's literacy level? What is your love interest's literacy level?**
-*Literacy can be a source of power, shame, or connection. How does each character's relationship to written language shape their options?*
+**What is each character's literacy level, and how does it affect them?**
+*Literacy can be a source of power, shame, or connection. If one is literate and the other isn't, does the literate one teach? Is there a power imbalance? Teaching someone to read is as intimate as teaching them your language.*
 
 *(Write your answer below)*
 
@@ -522,23 +501,9 @@ _______________________________________________________________
 &nbsp;
 
 &nbsp;
-
-**Who teaches reading and writing in your world?**
-*Schools, tutors, temples, parents, masters? How someone learns to read says a lot about their background. A character taught by temple priests has a different relationship to literacy than one taught by a parent or a lover.*
-
-_______________________________________________________________
-
-_______________________________________________________________
 
 **Are there things that can't or shouldn't be written down?**
-*Forbidden texts, censored ideas, sacred words that lose power when written, or secrets too dangerous to put on paper? What happens to someone caught writing or possessing them?*
-
-_______________________________________________________________
-
-_______________________________________________________________
-
-**If one character is literate and the other isn't, how does this affect them?**
-*Does the literate one teach? Is there a power imbalance? Shame? Practical problems? Teaching someone to read is as intimate as teaching them your language.*
+*Forbidden texts, censored ideas, sacred words that lose power when written, or secrets too dangerous to put on paper?*
 
 _______________________________________________________________
 
