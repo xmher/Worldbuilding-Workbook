@@ -1,4 +1,4 @@
-# 69. Stuck? Troubleshooting
+# 70. Stuck? Troubleshooting
 
 Every writer gets stuck. The prompt doesn't unlock. The scene won't come. The world feels flat.
 

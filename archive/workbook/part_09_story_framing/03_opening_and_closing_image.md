@@ -1,4 +1,4 @@
-# 66. Opening Image And Closing Image
+# 67. Opening Image And Closing Image
 
 The first image your reader sees and the last image she closes the book on. These two frames hold your book between them.
 

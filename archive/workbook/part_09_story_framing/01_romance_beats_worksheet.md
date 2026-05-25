@@ -1,4 +1,4 @@
-# 64. Romance Beats Worksheet
+# 65. Romance Beats Worksheet
 
 This workbook isn't a plotting book. If you want a full plotting system, Gwen Hayes's *Romancing The Beat* is the standard reference. Everyone in the genre reads it.
 
@@ -99,7 +99,7 @@ If you've drafted and a beat's missing, pause. Either add the beat, or adjust th
 
 ## The Five Obligatory Romance Scenes
 
-Section 65 covers these. For now, know that there are five scenes your book probably has to contain: meet, first kiss, first consummation (or equivalent), break, grand gesture. See section 65 for how to map them to worldbuilding specifically.
+Section 66 covers these. For now, know that there are five scenes your book probably has to contain: meet, first kiss, first consummation (or equivalent), break, grand gesture. See section 66 for how to map them to worldbuilding specifically.
 
 ## The Pacing Of The Beats
 

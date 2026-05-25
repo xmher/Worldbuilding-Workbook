@@ -1,4 +1,4 @@
-# 68. Common Romantasy Worldbuilding Mistakes
+# 69. Common Romantasy Worldbuilding Mistakes
 
 Most first romantasies have some version of the same problems. Not because first-time writers are bad. Because the genre's specific conventions are easy to miss and harder to spot in your own draft.
 
@@ -50,7 +50,7 @@ Your love interest's mysterious. Dark. Dangerous. You love writing him. The read
 
 You're excited about your world. Your first chapter explains it. Your reader skims. Your book doesn't land.
 
-**Fix:** Return to section 67. First chapter's the heroine in action, three worldbuilding seeds, one obstacle, the tone, the clock, the pairing's hint, the hook. No exposition paragraphs. Let the world come through her choices.
+**Fix:** Return to section 68. First chapter's the heroine in action, three worldbuilding seeds, one obstacle, the tone, the clock, the pairing's hint, the hook. No exposition paragraphs. Let the world come through her choices.
 
 ## Mistake 9: The Kingdom Has Nine Cities And No Economy
 
