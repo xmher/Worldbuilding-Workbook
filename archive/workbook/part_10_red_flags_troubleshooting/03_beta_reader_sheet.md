@@ -1,4 +1,4 @@
-# 70. The Beta Reader Question Sheet
+# 71. The Beta Reader Question Sheet
 
 You've drafted. You're handing it to someone. She's going to read it and tell you what she thinks.
 

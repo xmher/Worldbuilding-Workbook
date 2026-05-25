@@ -1,4 +1,4 @@
-# 65. The Five Obligatory Romance Scenes
+# 66. The Five Obligatory Romance Scenes
 
 Romance readers know these scenes by heart. If your book's missing one, she feels the lack. If your book hits all five, she's satisfied.
 

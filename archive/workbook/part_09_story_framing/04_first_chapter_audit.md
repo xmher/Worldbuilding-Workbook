@@ -1,4 +1,4 @@
-# 67. First Chapter Audit
+# 68. First Chapter Audit
 
 Your first chapter does more structural work than any other. It promises the book to the reader. If the first chapter fails, no second chapter saves it.
 
