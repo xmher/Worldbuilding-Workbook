@@ -196,6 +196,24 @@ _______________________________________________________________
 If your leads come from different regions, what does the journey between their homes actually involve, and what would it cost each of them to make it?
 _______________________________________________________________
 
+### Places That Force Them Together
+
+Geography keeps people apart, but it can also lock them in. The trap might be a ship's hold for the length of a long voyage, a mountain pass closed by the season's first snow, a siege that won't break for weeks, a court where two people are seated next to each other across months of formal dinners, or a bargain that ties both of them to the same isolated keep until it's paid. Whatever its shape, the world refuses to let them get away from each other, and that's where some of the genre's most charged scenes live.
+
+A pressure-cooker setting does two things at once. It strips away the rest of the world, so your leads have only each other to talk to, and it makes leaving look harder than staying, which buys you the slow burn the genre runs on.
+
+Is there a place or situation in your world that could lock your leads together for a stretch of time, with no easy way out?
+_______________________________________________________________
+
+What forces the trap, and what keeps it shut? It might be weather, war, magic, law, a bargain neither can break, an oath, or a duty. The reader needs to feel that walking away isn't an option, not just that the characters are choosing not to take it.
+_______________________________________________________________
+
+How long does it hold them, and what changes between them in that time?
+_______________________________________________________________
+
+`[R]` Every pressure-cooker setting has a moment where one of them quietly hopes the trap holds a little longer. What does each of your leads secretly want this confinement to give them, even while pretending they want out?
+_______________________________________________________________
+
 ### Do You Need a Map?
 
 No. Plenty of good books were written without one, and a map can quietly become a way of avoiding the actual writing. That said, some people think better with a picture in front of them, and a rough sketch helps you keep travel times honest so nobody crosses a continent in a weekend.
@@ -643,6 +661,27 @@ _______________________________________________________________
 How much power do the priests, temples, or holy figures actually hold, and do people love them or merely fear them?
 _______________________________________________________________
 
+### Death and What Comes After
+
+What happens when someone dies in your world matters more for a romantasy than it might first sound. It sets the ceiling on how tragic your story can go and the floor on how hopeful your ending can land. A world where the dead are gone forever asks a different sort of love than one where lovers expect to find each other again on the other side.
+
+You don't need to invent a full afterlife. You need to know what your people believe is waiting, and what that does to the way they hold on to each other while they're still here.
+
+What do your people believe happens to a soul at death? It might be a paradise, a return to the earth, rebirth in another body, the long road to an underworld, dissolution back into something larger, or nothing at all.
+_______________________________________________________________
+
+How do they grieve, and what would horrify them about another people's way of mourning?
+_______________________________________________________________
+
+`[R]` If your leads come from peoples with different beliefs about death, what is each of them quietly hoping for at the end of their lives together? A lover who expects to be returned to the earth and one who expects to wake up in a new body are picturing very different futures.
+_______________________________________________________________
+
+`[R]` If any of your peoples live for centuries, or never die at all, what does loving across that gap cost both of them? The long-lived one knows they'll bury this love and many more. The shorter-lived one knows they're a season in someone else's century.
+_______________________________________________________________
+
+> **Show it.** Take whatever you've decided about death in your world and show one person living with the consequence of it, without explaining the belief. If the dead are thought to listen, you might show a widow finishing her sentences quietly to an empty chair. If a soul is believed to walk a road, you might show a son leaving coins by his mother's bed before they carry her away. Sketch your version: one small habit your belief about death would shape.
+> _______________________________________________________________
+
 ### Vows, Marriage and the Sacred
 
 `[R]` This is where belief meets romance. In many worlds a vow is sacred, binding in a way that's more than legal: an oath before a god, a true name given away, a promise that magic itself enforces. A vow like that can be more intimate than a kiss, and more dangerous, because breaking it costs something real.
@@ -717,6 +756,21 @@ Is there a custom, gift, gesture, or ritual that carries real romantic weight he
 _______________________________________________________________
 
 How do your world's courtship rules help or hurt your specific leads? Do the customs work for them, or trap them?
+_______________________________________________________________
+
+### How Time Is Marked
+
+Every world counts its days somehow, and how it counts them tells a reader a lot about who lives there. A calendar tied to the moons feels different from one tied to a king's reign or the cycle of a sacred crop. You don't need a full almanac. You need to know what your people are watching the sky (or the throne, or the harvest) for.
+
+This matters for romantasy more than it might sound, because a calendar gives you natural deadlines: a festival a month away, a solstice when something has to be decided, a coronation that won't wait. The clock running in the background gives your scenes pressure without you having to invent a new threat to introduce it.
+
+How does your world measure the year, and what marks the change from one season or month to the next? It might be moons, suns, festivals, a king's calendar, the rhythm of a harvest, or a magic that comes and goes.
+_______________________________________________________________
+
+Are there days that carry weight beyond the ordinary, when certain things must (or must not) be done? Think sacred days, mourning days, days when magic runs strong or thin, or days when borders open or close.
+_______________________________________________________________
+
+`[R]` Is there a date or season approaching in your story that your leads are racing toward, or trying to put off? It might be a coronation, an arranged wedding, a once-a-year night when the rules slip, or the day a bond seals or breaks. The date doesn't have to be marked in red ink on the page, and the reader will feel it ticking even when nobody mentions it.
 _______________________________________________________________
 
 ### Festivals and Gatherings
