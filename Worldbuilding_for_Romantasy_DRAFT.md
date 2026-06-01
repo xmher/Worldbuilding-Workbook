@@ -197,7 +197,7 @@ Now build a few sounds to play with. You can stick word-parts together to make n
 | | | |
 | | | |
 
-> **Cut or keep?** Naming is a place it's easy to overbuild. Before you invent a whole language, ask: does this naming detail change character, romance, plot, tension, atmosphere, stakes, or theme? If not, move it to your private notes instead of the page. A reader needs a name that sounds right, not the grammar behind it.
+> **Cut or keep?** Few corners of a world swallow more time than naming. Before you invent a whole language, ask: does this naming detail change character, romance, plot, tension, atmosphere, stakes, or theme? If not, move it to your private notes instead of the page. A reader needs a name that sounds right, not the grammar behind it.
 > _______________________________________________________________
 
 If naming starts eating more time than it's worth, leave it. You can call somewhere "the eastern fort" for now and find its real name when one comes to you.
@@ -498,7 +498,7 @@ List the handful of past events that still shape your world today, roughly when 
 Of these, which one casts the longest shadow over your story, and how?
 _______________________________________________________________
 
-> **Summarize it.** History is where worlds turn into timeline dumps. Take the one event that casts the longest shadow and compress it into three sentences or fewer, as if you were moving the reader quickly toward the scene where that past finally presses on the present. No dates the reader won't need.
+> **Summarize it.** It's easy to keep piling on dates until your past reads like a ledger. Take the one event that casts the longest shadow and compress it into three sentences or fewer, as if you were moving the reader quickly toward the scene where that past finally presses on the present. No dates the reader won't need.
 > _______________________________________________________________
 
 ### Old Wounds
@@ -572,7 +572,7 @@ _______________________________________________________________
 Which law would your characters most want to break, and what happens to people who do?
 _______________________________________________________________
 
-> **Tell the rule, show the consequence.** Politics tempts everyone into constitution-building. You don't need one. Take the law that matters most to your story and do two quick things. First, *tell* it: one clean, voice-driven sentence a narrator could drop in without stopping the story. Then *show* its cost: one image or gesture of a single person living with what that law does to them. The reader needs the rule fast and the consequence felt.
+> **Tell the rule, show the consequence.** You could spend a month drafting a constitution no reader will ever see. You don't need one. Take the law that matters most to your story and do two quick things. First, *tell* it: one clean, voice-driven sentence a narrator could drop in without stopping the story. Then *show* its cost: one image or gesture of a single person living with what that law does to them. The reader needs the rule fast and the consequence felt.
 > _______________________________________________________________
 
 ### Laws That Forbid
@@ -707,7 +707,7 @@ For the belief that matters most to your story, fill in a little more. Keep it t
 How does this belief square with the magic in your world? Are they the same thing, enemies, or unrelated?
 _______________________________________________________________
 
-> **Show one habit, cut the doctrine.** Belief is where worlds grow theology catalogues nobody reads. You don't need one on the page. Pick a single small habit this faith shapes — a word said before eating, a door left open at dusk, a colour never worn to a wedding — and let that one habit carry the belief. The doctrine behind it can stay in your notes unless your story turns on it.
+> **Show one habit, cut the doctrine.** It's tempting to let belief sprawl into a full theology, every god, rite, and doctrine accounted for. You don't need that on the page. Pick a single small habit this faith shapes — a word said before eating, a door left open at dusk, a colour never worn to a wedding — and let that one habit carry the belief. The doctrine behind it can stay in your notes unless your story turns on it.
 > _______________________________________________________________
 
 ### Faith in Daily Life
@@ -788,7 +788,7 @@ _______________________________________________________________
 What would horrify an outsider at this culture's table, whether it's what they eat or how they eat it?
 _______________________________________________________________
 
-> **One loaded detail.** This is the section that most easily becomes an aesthetic inventory. Resist listing every dish, fabric, and custom. Choose one loaded detail that does double duty — concrete *and* meaningful, telling the reader something they can picture and something that matters (who's rich, who's grieving, who doesn't belong). One loaded detail beats five pretty ones.
+> **One loaded detail.** This warm, sensory layer is the easiest place to start cataloguing for its own sake. Resist listing every dish, fabric, and custom. Choose one loaded detail that does double duty — concrete *and* meaningful, telling the reader something they can picture and something that matters (who's rich, who's grieving, who doesn't belong). One loaded detail beats five pretty ones.
 > _______________________________________________________________
 
 ### Fashion and Appearance
