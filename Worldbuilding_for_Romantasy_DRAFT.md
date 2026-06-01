@@ -17,23 +17,71 @@ A word on how much to do. You don't need to fill in every page. Readers want a w
 
 ---
 
-# Showing, Not Telling
+# Showing, Telling & Choosing What Matters
 
 Here's a thing worth knowing before you start, because it changes how you'll use everything that follows.
 
-This whole workbook is *telling*. You'll write down that magic costs a memory, that a certain love is forbidden, that one people look down on another. Those are facts, sitting in boxes, and they're for you. They're you explaining your world to yourself so you know it well enough to write it.
+This workbook is where you explain your world to yourself. You'll write down that magic costs a memory, that a certain love is forbidden, that one people looks down on another, that a kingdom fears the sea. Those are facts, and facts are useful. They help you understand the world before you ask a reader to believe in it.
 
-But your reader never sees these boxes. A novel doesn't tell its world, it shows it, one moment at a time. The reader doesn't get told "magic costs a memory." They watch a man come back from a great spell and fail to recognise his own sister, and they feel the cost in their chest. Same fact, but one is a note to yourself and the other is a scene that lands.
+But your reader doesn't need all your facts. They need the right details at the right time.
 
-So the leap every new writer has to make is turning the facts in these boxes into moments on the page. You don't do all of that here, that's the writing itself. But every so often in this workbook you'll meet a prompt that asks you to take one fact you've just decided and practise *showing* it, so the habit starts now rather than on a blank first chapter.
+Sometimes you'll **show** a fact, because the reader needs to feel it. If magic costs memory, they might see a woman return from a spell and fail to recognise her own sister.
 
-There are two kinds, and they're marked so you'll know them:
+Sometimes you'll **tell** it, because the reader simply needs to understand it and move on.
 
-**Show it** asks you to turn one detail of your world into a small concrete image. Not a scene, not your characters, just proof the thing is real. If you've decided magic is feared, showing it might be as small as a mother pulling her child back from a robed stranger in the market. That's it. One image that means more than the word "feared" ever could.
+Sometimes you'll **summarize** it, because weeks of travel, court lessons, or magical training do not need to happen moment by moment.
+
+Sometimes you'll **imply** it, because a room going silent can teach a taboo better than a paragraph of explanation.
+
+Sometimes you'll **delay** it, because the reader does not need the full answer yet.
+
+And sometimes you'll **cut** it, because you built it for yourself, not for the page.
+
+So when this workbook asks you to "show" something, it does not mean you need to dramatize everything. It means: choose one detail that matters. One image. One reaction. One gesture. One cost. One moment where the world presses on a person.
+
+The goal is not to show everything. The goal is to know what deserves the spotlight.
+
+### The Six-Tool Compass: What Should I Do With This Detail?
+
+You don't have to memorise this. It's here as permission, not homework. Whenever you've decided a piece of your world and you're not sure what to do with it, you have six choices, not one:
+
+| Tool | Use it when… |
+|------|--------------|
+| **Show** | The reader needs to *feel* the moment. |
+| **Tell** | The reader needs clear information quickly. |
+| **Summarize** | Time passes, routines repeat, or logistics need compressing. |
+| **Imply** | The reader can understand through context, reaction, silence, or behaviour. |
+| **Delay** | The reader does not need the full answer yet. |
+| **Cut** | The detail does not affect character, romance, plot, tension, atmosphere, stakes, or theme. |
+
+Here's how that works in practice. Take one fact — *the royal court forbids magic in public* — and watch how each tool turns it into something different:
+
+> **The fact:** The royal court forbids magic in public.
+>
+> - **Show** — A servant drops a tray when a candle lights by itself.
+> - **Tell** — Public magic had been illegal in the capital for fifty years.
+> - **Summarize** — For three weeks, she kept her magic hidden through dinners, audiences, and court ceremonies.
+> - **Imply** — Every chandelier in the palace was lit by hand. No one mentioned why.
+> - **Delay** — Let the reader watch people panic at a small spark of magic, and learn the law only later.
+> - **Cut** — The exact legal history of the ban stays in your notes, unless it ever affects the story.
+
+Same fact, six different jobs. None of them is more "correct" than the others; it depends entirely on what your story needs at that moment.
+
+Showing is wonderful, but it's only one of the six, and it's not always the right one. A great deal of beautiful writing is clean telling, brisk summary, and quiet implication. The skill isn't showing more, it's choosing well.
+
+### The prompts in this workbook
+
+Every so often you'll meet a prompt that asks you to practise turning one fact into the right kind of story moment, so the habit starts now rather than on a blank first chapter. They're marked so you'll know them, and they're all optional, every time:
+
+**Show it** asks you to turn one detail of your world into a small concrete image. Not a scene, not your characters, just proof the thing is real. If you've decided magic is feared, showing it might be as small as a mother pulling her child back from a robed stranger in the market. One image that means more than the word "feared" ever could.
 
 **Try a scene** is rarer, and it shows up only on the romantic moments that genuinely want it. Here you sketch a few lines between two people. To show you what that looks like without inventing your couple for you, the examples use a sample pair: a smuggler who runs cargo into a failing realm of the dead, and the buyer she's traded with for years through go-betweens, who turns out to be the one bound to her when an old law catches them both. You'll see them turn up now and then. Borrow the shape, not the couple.
 
-Both kinds are optional, every time. Skip them whenever you'd rather just get the fact down and move on. They're here to build a muscle, not to slow you down.
+**Tell it cleanly**, **Summarize it**, **Imply it**, and **Cut or keep?** are the main other tools, and you'll meet them where the world risks getting over-built. You'll also find a few section-specific prompts where the advice needs to be more tailored. They're just as valuable as showing. A clean sentence of telling, three sentences of summary, an implied rule, or a fact moved to your private notes can do more for your story than a scene it didn't need.
+
+**Choose the tool** turns the whole thing over to you. It hands you one fact and asks which of the six tools it deserves. By the end of the workbook that question should feel natural, because it's the real skill underneath all the others.
+
+All of them are optional. Skip any of them whenever you'd rather just get the fact down and move on. They're here to build a muscle, not to slow you down.
 
 
 ---
@@ -149,6 +197,9 @@ Now build a few sounds to play with. You can stick word-parts together to make n
 | | | |
 | | | |
 
+> **Cut or keep?** Few corners of a world swallow more time than naming. Before you invent a whole language, ask: does this naming detail change character, romance, plot, tension, atmosphere, stakes, or theme? If not, move it to your private notes instead of the page. A reader needs a name that sounds right, not the grammar behind it.
+> _______________________________________________________________
+
 If naming starts eating more time than it's worth, leave it. You can call somewhere "the eastern fort" for now and find its real name when one comes to you.
 
 ### Resources and Trade
@@ -172,6 +223,9 @@ Map out how this works across your world. For each region, note what it has goin
 Looking at that table, is there a resource someone would go to war over, or one that gives a region power it shouldn't have? If so, what is it, and who wants it?
 _______________________________________________________________
 
+> **Tell it cleanly.** Most of your trade map belongs in your notes, not on the page, where it can quietly turn into economic lore. Write one clear, voice-driven sentence a narrator could use to convey what your main region has and what it can't get, without stopping the story. Keep it under 25 words.
+> _______________________________________________________________
+
 ### Borders and Barriers
 
 The things that divide your world are often more interesting than the things in it. A mountain range, a haunted forest, a sea no ship comes back from, a wall built to keep something out. Barriers decide who can reach whom, and that decides who trades, who marries, who goes to war, and who has never so much as met.
@@ -182,7 +236,7 @@ _______________________________________________________________
 Is there a barrier in your world that's more than just difficult, one that's dangerous, forbidden, or feared? What is it, and what story do people tell about it?
 _______________________________________________________________
 
-> **Show it.** Show how feared your barrier is through how people behave near it, not by saying it's feared. If a forest swallows those who enter, you might show a carter taking the long road around it in the rain, muttering a charm, refusing to so much as look at the treeline. Sketch your version: someone near the barrier, telling you with their body what it means.
+> **Show it.** Show how feared your barrier is through how people behave near it, not by saying it's feared. If a forest swallows those who enter, you might show a carter taking the long road around it in the rain, muttering a charm, refusing to so much as look at the treeline. Sketch your version: someone near the barrier, telling you with their body what it means. Keep this small: one image, one reaction, one gesture, or one line of dialogue. Don't write a full scene unless the moment changes the romance, conflict, choice, or consequence.
 > _______________________________________________________________
 
 Has a border in your world moved, or been fought over? Who lost land they still consider theirs?
@@ -256,7 +310,7 @@ _______________________________________________________________
 What do these people look like, wear, and surround themselves with, so a reader would know them on sight?
 _______________________________________________________________
 
-> **Show it.** Rather than describing your people head to toe, show one telling detail a stranger would notice first. If they're a seafaring people, it might be the salt-stiffened braids, the way everyone's eyes go to the horizon mid-sentence, the small carved fish worn at the throat. Sketch your version: the first thing that would mark one of them out across a crowded room.
+> **Show it.** Rather than describing your people head to toe, show one telling detail a stranger would notice first. If they're a seafaring people, it might be the salt-stiffened braids, the way everyone's eyes go to the horizon mid-sentence, the small carved fish worn at the throat. Sketch your version: the first thing that would mark one of them out across a crowded room. Keep this small: one image, one reaction, one gesture, or one line of dialogue. Don't write a full scene unless the moment changes the romance, conflict, choice, or consequence.
 > _______________________________________________________________
 
 What's a craft, trade, or skill this people is known for above their neighbours, and how does it shape the way others treat them?
@@ -358,7 +412,7 @@ _______________________________________________________________
 What does using it cost? Think beyond "it makes you tired." The best costs hurt in ways that matter: a piece of memory, years of life, something the user loves, a debt that comes due later.
 _______________________________________________________________
 
-> **Show it.** You've decided what magic costs. Now show that cost on someone, without naming it. If the price is memory, that might be a woman who keeps a list of her children's names in her pocket because she can no longer trust herself to hold them. Sketch your version: one person, one small moment that lets a reader feel the price.
+> **Show it.** You've decided what magic costs. Now show that cost on someone, without naming it. If the price is memory, that might be a woman who keeps a list of her children's names in her pocket because she can no longer trust herself to hold them. Sketch your version: one person, one small moment that lets a reader feel the price. Keep this small: one image, one reaction, one gesture, or one line of dialogue. Don't write a full scene unless the moment changes the romance, conflict, choice, or consequence.
 > _______________________________________________________________
 
 Map out the powers or abilities that actually appear in your story, what they do, and what each one costs. You don't need many. Three or four that matter beat a long list.
@@ -444,6 +498,9 @@ List the handful of past events that still shape your world today, roughly when 
 Of these, which one casts the longest shadow over your story, and how?
 _______________________________________________________________
 
+> **Summarize it.** It's easy to keep piling on dates until your past reads like a ledger. Take the one event that casts the longest shadow and compress it into three sentences or fewer, as if you were moving the reader quickly toward the scene where that past finally presses on the present. No dates the reader won't need.
+> _______________________________________________________________
+
 ### Old Wounds
 
 History becomes interesting the moment it's still hurting someone. A defeat that's never been avenged, a betrayal still talked about, land taken and not returned.
@@ -515,6 +572,9 @@ _______________________________________________________________
 Which law would your characters most want to break, and what happens to people who do?
 _______________________________________________________________
 
+> **Tell the rule, show the consequence.** You could spend a month drafting a constitution no reader will ever see. You don't need one. Take the law that matters most to your story and do two quick things. First, *tell* it: one clean, voice-driven sentence a narrator could drop in without stopping the story. Then *show* its cost: one image or gesture of a single person living with what that law does to them. The reader needs the rule fast and the consequence felt.
+> _______________________________________________________________
+
 ### Laws That Forbid
 
 `[R]` Few things power a romance like a rule that says no. A law against marrying outside your class, your people, your species. A rule that one of your leads is promised to someone else. A ban on the very magic that binds them. For this to work, the law needs teeth: a real, frightening cost for being caught.
@@ -568,6 +628,9 @@ _______________________________________________________________
 Who in this world is treated as though they're barely people at all, and why?
 _______________________________________________________________
 
+> **Imply it.** Class is best embodied, not lectured. Show the reader your social order exists without explaining it: what does someone at the bottom avoid saying, touching, eating, wearing, or looking at in front of someone above them? Who waits, who is served first, who is never touched? One implied rule teaches rank faster than a paragraph about it.
+> _______________________________________________________________
+
 ### Moving Between Classes
 
 A ladder you can climb feels very different from one you're nailed to. Whether people can rise or fall, and how, tells the reader what kind of world this is.
@@ -591,7 +654,7 @@ _______________________________________________________________
 What's something that would quietly ruin a person's reputation, even if it broke no law?
 _______________________________________________________________
 
-> **Show it.** Pick one thing that's scandalous in your world and show it landing, without explaining the rule. If a woman dining alone with a man not her husband is ruinous, you might show the room going quiet, a fan lowered, two servants trading a look that says this will be all over the city by morning. Sketch your version: the moment the scandal is noticed, not the rule behind it.
+> **Show it.** Pick one thing that's scandalous in your world and show it landing, without explaining the rule. If a woman dining alone with a man not her husband is ruinous, you might show the room going quiet, a fan lowered, two servants trading a look that says this will be all over the city by morning. Sketch your version: the moment the scandal is noticed, not the rule behind it. Keep it small: one loaded detail, not a full scene.
 > _______________________________________________________________
 
 
@@ -644,6 +707,9 @@ For the belief that matters most to your story, fill in a little more. Keep it t
 How does this belief square with the magic in your world? Are they the same thing, enemies, or unrelated?
 _______________________________________________________________
 
+> **Show one habit, cut the doctrine.** It's tempting to let belief sprawl into a full theology, every god, rite, and doctrine accounted for. You don't need that on the page. Pick a single small habit this faith shapes — a word said before eating, a door left open at dusk, a colour never worn to a wedding — and let that one habit carry the belief. The doctrine behind it can stay in your notes unless your story turns on it.
+> _______________________________________________________________
+
 ### Faith in Daily Life
 
 Belief isn't only for temples. It shows up in what people say, eat, celebrate, and avoid.
@@ -654,7 +720,7 @@ _______________________________________________________________
 What's taboo, forbidden, or unclean in the eyes of this belief, and what happens to someone who crosses that line?
 _______________________________________________________________
 
-> **Show it.** Take one taboo and show a person observing it, so the reader learns the rule by watching rather than being told. If speaking the dead's names aloud is forbidden, you might show a mourner who only mouths her father's name over his grave, lips moving with no sound, glancing over her shoulder first. Sketch your version: someone obeying the rule without anyone explaining it.
+> **Show it.** Take one taboo and show a person observing it, so the reader learns the rule by watching rather than being told. If speaking the dead's names aloud is forbidden, you might show a mourner who only mouths her father's name over his grave, lips moving with no sound, glancing over her shoulder first. Sketch your version: someone obeying the rule without anyone explaining it. Keep it small: one loaded detail, not a full scene.
 > _______________________________________________________________
 
 
@@ -679,7 +745,7 @@ _______________________________________________________________
 `[R]` If any of your peoples live for centuries, or never die at all, what does loving across that gap cost both of them? The long-lived one knows they'll bury this love and many more. The shorter-lived one knows they're a season in someone else's century.
 _______________________________________________________________
 
-> **Show it.** Take whatever you've decided about death in your world and show one person living with the consequence of it, without explaining the belief. If the dead are thought to listen, you might show a widow finishing her sentences quietly to an empty chair. If a soul is believed to walk a road, you might show a son leaving coins by his mother's bed before they carry her away. Sketch your version: one small habit your belief about death would shape.
+> **Show it.** Take whatever you've decided about death in your world and show one person living with the consequence of it, without explaining the belief. If the dead are thought to listen, you might show a widow finishing her sentences quietly to an empty chair. If a soul is believed to walk a road, you might show a son leaving coins by his mother's bed before they carry her away. Sketch your version: one small habit your belief about death would shape. Keep it small: one loaded detail, not a full scene.
 > _______________________________________________________________
 
 ### Vows, Marriage and the Sacred
@@ -721,6 +787,9 @@ _______________________________________________________________
 
 What would horrify an outsider at this culture's table, whether it's what they eat or how they eat it?
 _______________________________________________________________
+
+> **One loaded detail.** This warm, sensory layer is the easiest place to start cataloguing for its own sake. Resist listing every dish, fabric, and custom. Choose one loaded detail that does double duty — concrete *and* meaningful, telling the reader something they can picture and something that matters (who's rich, who's grieving, who doesn't belong). One loaded detail beats five pretty ones.
+> _______________________________________________________________
 
 ### Fashion and Appearance
 
@@ -783,6 +852,9 @@ _______________________________________________________________
 `[R]` How might the rules relaxing on a night like that create an opening for your leads, a chance for something that couldn't happen any other day?
 _______________________________________________________________
 
+> **Does this festival force a choice?** A festival can be gorgeous and still be plotless. It only earns real page space if something happens there that couldn't happen otherwise. Does yours force your leads into a choice, a risk, a meeting, or a consequence? If it's only pretty, keep it to a line or two of atmosphere, and spend the space where the story actually turns.
+> _______________________________________________________________
+
 
 ---
 
@@ -843,6 +915,60 @@ _______________________________________________________________
 
 What does your world look like on the other side of that choice, for them and for everyone caught up in it?
 _______________________________________________________________
+
+
+---
+
+# Turning Your World Into Story
+
+You've built a world and found the friction inside it. This last section is about the hand-off: how all those facts in all those boxes become a story a reader actually feels. Remember the very first thing in this workbook — the six tools, and the rule underneath them. *The goal is not to show everything. It's to know what deserves the spotlight.* Here's how to make that call once you're actually writing.
+
+### The Worldbuilding Page-Space Test
+
+Worldbuilding earns space on the page when it changes something for the reader. So for any detail you're tempted to put in, ask one question:
+
+**Does this detail change emotion, conflict, choice, romance, or consequence?**
+
+- If **yes**, it may deserve space. Slow down and let the reader feel it.
+- If **no**, you can still tell it quickly, summarize it, imply it, delay it, or cut it.
+
+Inventing a detail doesn't entitle it to page space. A useful tell: if deleting a piece of worldbuilding costs the story nothing, cutting it doesn't lose you anything — it gives you momentum. You built more world than you'll use, and that's exactly right. The rest lives in your notes.
+
+### The Narrative Camera
+
+Think of your attention as a camera the reader looks through. Most of writing is just deciding where to point it and when to move:
+
+- **Zoom in** for the moments that matter — the first touch, the broken vow, the spell that costs something. These you show.
+- **Zoom out** for the connective tissue — travel, weeks passing, routine, court logistics. These you tell or summarize.
+- **Move on** when a detail has done its job. Don't linger because it was hard to invent.
+- **Cut** what only exists because you invented it, not because the story needs it.
+
+A lush world isn't a slow one. Immersive doesn't mean exhaustive. The camera that lingers on everything ends up emphasising nothing.
+
+### The Sentence Pass
+
+This is where it all gets concrete. Take one paragraph from your draft, or write a short sample paragraph about your world right now — three or four sentences will do.
+
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+Now go sentence by sentence and mark each one with the tool it's using:
+
+**SHOW · TELL · SUMMARY · IMPLY · DELAY · CUT**
+
+Then ask of each sentence in turn:
+
+- **What is this sentence doing?** Naming its job helps — is it creating emotion, tension, clarity, movement, atmosphere, character, romance, consequence, or rhythm? If you can't name a job, that's a flag.
+- **Is it slowing down or moving forward, and is that on purpose?** Showing slows the reader; telling and summary move them along. Make sure the pace matches what the moment deserves.
+- **If it isn't doing a job, can it be cut?** Or turned into one loaded detail, or handed to a different tool?
+
+Do this a few times on your own pages and the choice stops being something you have to think about. It becomes instinct.
+
+> **Choose the tool.** Take one fact from anywhere in this workbook. Should the reader experience it as a shown moment, a clean telling sentence, a quick summary, an implied clue, a delayed reveal, or something you cut from the novel and keep only in your notes? Write the fact, then write the one version you'd actually put on the page.
+> _______________________________________________________________
+
+This single question — *which tool does this fact deserve?* — is the real skill underneath everything else in this book. Get comfortable asking it, and your worldbuilding will always be working for your story instead of burying it.
 
 ---
 
