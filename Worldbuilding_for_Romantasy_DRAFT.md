@@ -77,7 +77,7 @@ Every so often you'll meet a prompt that asks you to practise turning one fact i
 
 **Try a scene** is rarer, and it shows up only on the romantic moments that genuinely want it. Here you sketch a few lines between two people. To show you what that looks like without inventing your couple for you, the examples use a sample pair: a smuggler who runs cargo into a failing realm of the dead, and the buyer she's traded with for years through go-betweens, who turns out to be the one bound to her when an old law catches them both. You'll see them turn up now and then. Borrow the shape, not the couple.
 
-**Tell it cleanly**, **Summarize it**, **Imply it**, and **Cut or keep?** are the other four tools, and you'll meet them where the world risks getting over-built. They're just as valuable as showing. A clean sentence of telling, three sentences of summary, an implied rule, or a fact moved to your private notes can do more for your story than a scene it didn't need.
+**Tell it cleanly**, **Summarize it**, **Imply it**, and **Cut or keep?** are the main other tools, and you'll meet them where the world risks getting over-built. You'll also find a few section-specific prompts where the advice needs to be more tailored. They're just as valuable as showing. A clean sentence of telling, three sentences of summary, an implied rule, or a fact moved to your private notes can do more for your story than a scene it didn't need.
 
 **Choose the tool** turns the whole thing over to you. It hands you one fact and asks which of the six tools it deserves. By the end of the workbook that question should feel natural, because it's the real skill underneath all the others.
 
