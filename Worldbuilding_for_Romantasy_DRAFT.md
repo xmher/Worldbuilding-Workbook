@@ -54,6 +54,19 @@ You don't have to memorise this. It's here as permission, not homework. Whenever
 | **Delay** | The reader does not need the full answer yet. |
 | **Cut** | The detail does not affect character, romance, plot, tension, atmosphere, stakes, or theme. |
 
+Here's how that works in practice. Take one fact — *the royal court forbids magic in public* — and watch how each tool turns it into something different:
+
+> **The fact:** The royal court forbids magic in public.
+>
+> - **Show** — A servant drops a tray when a candle lights by itself.
+> - **Tell** — Public magic had been illegal in the capital for fifty years.
+> - **Summarize** — For three weeks, she kept her magic hidden through dinners, audiences, and court ceremonies.
+> - **Imply** — Every chandelier in the palace was lit by hand. No one mentioned why.
+> - **Delay** — Let the reader watch people panic at a small spark of magic, and learn the law only later.
+> - **Cut** — The exact legal history of the ban stays in your notes, unless it ever affects the story.
+
+Same fact, six different jobs. None of them is more "correct" than the others; it depends entirely on what your story needs at that moment.
+
 Showing is wonderful, but it's only one of the six, and it's not always the right one. A great deal of beautiful writing is clean telling, brisk summary, and quiet implication. The skill isn't showing more, it's choosing well.
 
 ### The prompts in this workbook
@@ -641,7 +654,7 @@ _______________________________________________________________
 What's something that would quietly ruin a person's reputation, even if it broke no law?
 _______________________________________________________________
 
-> **Show it.** Pick one thing that's scandalous in your world and show it landing, without explaining the rule. If a woman dining alone with a man not her husband is ruinous, you might show the room going quiet, a fan lowered, two servants trading a look that says this will be all over the city by morning. Sketch your version: the moment the scandal is noticed, not the rule behind it. Keep this small: one image, one reaction, one gesture, or one line of dialogue. Don't write a full scene unless the moment changes the romance, conflict, choice, or consequence.
+> **Show it.** Pick one thing that's scandalous in your world and show it landing, without explaining the rule. If a woman dining alone with a man not her husband is ruinous, you might show the room going quiet, a fan lowered, two servants trading a look that says this will be all over the city by morning. Sketch your version: the moment the scandal is noticed, not the rule behind it. Keep it small: one loaded detail, not a full scene.
 > _______________________________________________________________
 
 
@@ -707,7 +720,7 @@ _______________________________________________________________
 What's taboo, forbidden, or unclean in the eyes of this belief, and what happens to someone who crosses that line?
 _______________________________________________________________
 
-> **Show it.** Take one taboo and show a person observing it, so the reader learns the rule by watching rather than being told. If speaking the dead's names aloud is forbidden, you might show a mourner who only mouths her father's name over his grave, lips moving with no sound, glancing over her shoulder first. Sketch your version: someone obeying the rule without anyone explaining it. Keep this small: one image, one reaction, one gesture, or one line of dialogue. Don't write a full scene unless the moment changes the romance, conflict, choice, or consequence.
+> **Show it.** Take one taboo and show a person observing it, so the reader learns the rule by watching rather than being told. If speaking the dead's names aloud is forbidden, you might show a mourner who only mouths her father's name over his grave, lips moving with no sound, glancing over her shoulder first. Sketch your version: someone obeying the rule without anyone explaining it. Keep it small: one loaded detail, not a full scene.
 > _______________________________________________________________
 
 
@@ -732,7 +745,7 @@ _______________________________________________________________
 `[R]` If any of your peoples live for centuries, or never die at all, what does loving across that gap cost both of them? The long-lived one knows they'll bury this love and many more. The shorter-lived one knows they're a season in someone else's century.
 _______________________________________________________________
 
-> **Show it.** Take whatever you've decided about death in your world and show one person living with the consequence of it, without explaining the belief. If the dead are thought to listen, you might show a widow finishing her sentences quietly to an empty chair. If a soul is believed to walk a road, you might show a son leaving coins by his mother's bed before they carry her away. Sketch your version: one small habit your belief about death would shape. Keep this small: one image, one reaction, one gesture, or one line of dialogue. Don't write a full scene unless the moment changes the romance, conflict, choice, or consequence.
+> **Show it.** Take whatever you've decided about death in your world and show one person living with the consequence of it, without explaining the belief. If the dead are thought to listen, you might show a widow finishing her sentences quietly to an empty chair. If a soul is believed to walk a road, you might show a son leaving coins by his mother's bed before they carry her away. Sketch your version: one small habit your belief about death would shape. Keep it small: one loaded detail, not a full scene.
 > _______________________________________________________________
 
 ### Vows, Marriage and the Sacred
@@ -917,7 +930,7 @@ Worldbuilding earns space on the page when it changes something for the reader. 
 **Does this detail change emotion, conflict, choice, romance, or consequence?**
 
 - If **yes**, it may deserve space. Slow down and let the reader feel it.
-- If **no**, you still have four good options: tell it quickly, imply it, delay it, or cut it.
+- If **no**, you can still tell it quickly, summarize it, imply it, delay it, or cut it.
 
 Inventing a detail doesn't entitle it to page space. A useful tell: if deleting a piece of worldbuilding costs the story nothing, cutting it doesn't lose you anything — it gives you momentum. You built more world than you'll use, and that's exactly right. The rest lives in your notes.
 
